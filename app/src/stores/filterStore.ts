@@ -1,10 +1,17 @@
 import { defineStore } from 'pinia';
-import { ref, computed } from 'vue';
+import { ref, computed, watch } from 'vue';
+import { JsonLocalStorage } from '../services/JsonLocalStorage.js';
+import { TitleSorter, SortKey } from '../services/TitleSorter.js';
 import { DataRepository } from '../services/DataRepository.js';
 import { CompactFilterRecord, FacetDictionaries } from '../types/index.js';
 
 export const useFilterStore = defineStore('filter', () => {
   const dataRepo = new DataRepository();
+  const storage = new JsonLocalStorage();
+  const sorter = new TitleSorter();
+  const SORT_STORAGE_KEY = 'search_sort_v1';
+  const sortKey = ref<SortKey>(TitleSorter.sanitize(storage.read<string | null>(SORT_STORAGE_KEY, null)));
+  watch(sortKey, (value) => storage.write(SORT_STORAGE_KEY, value));
 
   const titles = ref<CompactFilterRecord[]>([]);
   const dictionaries = ref<FacetDictionaries>({
@@ -67,6 +74,8 @@ export const useFilterStore = defineStore('filter', () => {
     });
   });
 
+  const sortedTitles = computed<CompactFilterRecord[]>(() => sorter.sort(filteredTitles.value, sortKey.value));
+
   function resetFilters() {
     typeFilter.value = 'all';
     selectedGenres.value = [];
@@ -101,6 +110,8 @@ export const useFilterStore = defineStore('filter', () => {
     hasTrailer,
     selectedReleaseType,
     filteredTitles,
+    sortKey,
+    sortedTitles,
     loadFacets,
     resetFilters
   };

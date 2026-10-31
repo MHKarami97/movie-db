@@ -79,6 +79,7 @@ export class FacetBuilder {
         title: t.title || t.originalTitle,
         posterPath: t.posterPath || null,
         year,
+        releaseDate: t.theatricalDate || t.digitalDate || '',
         rating: t.rating,
         voteCount: t.voteCount,
         runtime: t.runtime || 0,

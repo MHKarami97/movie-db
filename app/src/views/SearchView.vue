@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, onMounted, watch } from 'vue';
+import { ref, computed, onMounted, watch } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
 import { useSearch } from '../composables/useSearch.js';
 import { useTitleResolver } from '../composables/useTitleResolver.js';
@@ -9,6 +9,8 @@ import { PersianUtils } from '../services/PersianUtils.js';
 import SvgIcon from '../components/common/SvgIcon.vue';
 import EmptyState from '../components/common/EmptyState.vue';
 import PosterImage from '../components/common/PosterImage.vue';
+import { useInfiniteScroll } from '../composables/useInfiniteScroll.js';
+import { SORT_OPTIONS } from '../services/TitleSorter.js';
 import FilterDrawer from '../components/filter/FilterDrawer.vue';
 
 const route = useRoute();
@@ -20,6 +22,12 @@ const workerClient = new WorkerClient();
 
 const searchQuery = ref<string>((route.query.q as string) || '');
 const showFilters = ref(false);
+
+const { visibleCount, reset: resetVisible } = useInfiniteScroll(() => filterStore.sortedTitles.length);
+const visibleTitles = computed(() => filterStore.sortedTitles.slice(0, visibleCount.value));
+
+// Any change in filters or sort restarts the list from the top.
+watch(() => filterStore.sortedTitles, resetVisible);
 
 onMounted(async () => {
   await Promise.all([initIndex(), filterStore.loadFacets(), loadIndexTitles()]);
@@ -141,11 +149,7 @@ function getPoster(path: string | null | undefined): string {
             class="group rounded-2xl border border-slate-800 bg-slate-900/60 hover:bg-slate-800/80 transition p-3 space-y-2.5 flex flex-col justify-between"
           >
             <div class="aspect-[2/3] w-full rounded-xl overflow-hidden relative">
-              <PosterImage
-                :src="getPoster(item.posterPath)"
-                :alt="item.title"
-                img-class="group-hover:scale-105 transition duration-300"
-              />
+              <PosterImage :src="getPoster(item.posterPath)" :alt="item.title" img-class="group-hover:scale-105 transition duration-300" />
             </div>
             <div>
               <h4 class="text-xs font-bold text-slate-100 group-hover:text-amber-400 transition truncate text-right" dir="ltr">
@@ -178,6 +182,15 @@ function getPoster(path: string | null | undefined): string {
           </span>
         </h3>
 
+        <div class="flex items-center gap-3">
+          <label for="sort-select" class="sr-only">مرتب‌سازی</label>
+          <select
+            id="sort-select"
+            v-model="filterStore.sortKey"
+            class="bg-slate-900 border border-slate-800 rounded-xl px-3 py-2 text-xs text-slate-200 focus:outline-none focus:border-amber-500"
+          >
+            <option v-for="o in SORT_OPTIONS" :key="o.key" :value="o.key">{{ o.label }}</option>
+          </select>
         <button
           v-if="filterStore.selectedGenres.length > 0 || filterStore.minRating > 0 || filterStore.inCinemaNotOnline"
           type="button"
@@ -186,11 +199,12 @@ function getPoster(path: string | null | undefined): string {
         >
           پاک کردن فیلترها
         </button>
+        </div>
       </div>
 
       <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
         <router-link
-          v-for="item in filterStore.filteredTitles.slice(0, 50)"
+          v-for="item in visibleTitles"
           :key="item.type + '-' + item.id"
           :to="`/title/${item.type}/${item.id}`"
           class="group rounded-2xl border border-slate-800 bg-slate-900/40 hover:bg-slate-800/60 transition p-3 flex flex-col justify-between space-y-2.5"
@@ -225,6 +239,10 @@ function getPoster(path: string | null | undefined): string {
             </span>
           </div>
         </router-link>
+      </div>
+
+      <div v-if="visibleTitles.length < filterStore.sortedTitles.length" ref="sentinel" class="flex justify-center py-6" aria-hidden="true">
+        <span class="h-6 w-6 animate-spin rounded-full border-2 border-slate-700 border-t-amber-400"></span>
       </div>
     </div>
 

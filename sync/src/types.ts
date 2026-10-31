@@ -145,6 +145,7 @@ export interface CompactFilterRecord {
   title?: string;
   posterPath?: string | null;
   year: number;
+  releaseDate: string;
   rating: number;
   voteCount: number;
   runtime: number;
