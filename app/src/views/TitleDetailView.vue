@@ -9,6 +9,8 @@ import { useCountdown } from '../composables/useCountdown.js';
 import { useListStore } from '../stores/listStore.js';
 import { useSettingsStore } from '../stores/settingsStore.js';
 import SvgIcon from '../components/common/SvgIcon.vue';
+import PosterImage from '../components/common/PosterImage.vue';
+import ShareButton from '../components/common/ShareButton.vue';
 import SkeletonCard from '../components/common/SkeletonCard.vue';
 import GapBadge from '../components/title/GapBadge.vue';
 import ReleaseTimeline from '../components/title/ReleaseTimeline.vue';
@@ -140,19 +142,12 @@ function getPoster(path: string | null): string {
         <div class="relative z-10 w-full p-4 sm:p-6 md:p-8 flex flex-col md:flex-row items-center md:items-end gap-5 md:gap-8">
           <!-- Poster -->
           <div class="w-36 sm:w-48 md:w-56 shrink-0 aspect-[2/3] rounded-2xl overflow-hidden shadow-2xl border-2 border-slate-700/80 bg-slate-800">
-            <img
-              v-if="title.posterPath"
+            <PosterImage
               :src="getPoster(title.posterPath)"
               :alt="title.title"
-              width="224"
-              height="336"
-              class="h-full w-full object-cover"
-              loading="eager"
-              referrerpolicy="no-referrer"
+              :icon-size="48"
+              eager
             />
-            <div v-else class="flex h-full w-full items-center justify-center text-slate-600">
-              <SvgIcon name="calendar" size="48" />
-            </div>
           </div>
 
           <!-- Title Details Header -->
@@ -181,7 +176,7 @@ function getPoster(path: string | null): string {
             <!-- Title -->
             <div class="space-y-1">
               <h1 class="text-xl sm:text-3xl md:text-4xl font-extrabold text-slate-100 tracking-tight leading-snug break-words text-center md:text-right" dir="ltr">
-                {{ title.originalTitle || title.title }}
+                {{ title.title || title.originalTitle }}
               </h1>
             </div>
 
@@ -195,7 +190,7 @@ function getPoster(path: string | null): string {
               <!-- Add to Favorites Toggle -->
               <button
                 type="button"
-                @click="listStore.toggleFavorite(title.type, title.id, title.originalTitle || title.title, title.posterPath)"
+                @click="listStore.toggleFavorite(title.type, title.id, title.title || title.originalTitle, title.posterPath)"
                 class="flex items-center gap-2 px-3.5 py-2 sm:px-4 sm:py-2.5 rounded-xl text-xs font-bold transition border"
                 :class="[
                   listStore.isFavorite(title.type, title.id)
@@ -220,6 +215,8 @@ function getPoster(path: string | null): string {
                 <SvgIcon name="bookmark" size="16" />
                 <span>افزودن به لیست...</span>
               </button>
+
+              <ShareButton :type="title.type" :id="title.id" :title="title.title || title.originalTitle" />
 
               <!-- Official YouTube Trailer Link -->
               <a
@@ -384,7 +381,7 @@ function getPoster(path: string | null): string {
       :show="showAddModal"
       :type="title.type"
       :id="title.id"
-      :title="title.originalTitle || title.title"
+      :title="title.title || title.originalTitle"
       :poster-path="title.posterPath"
       @close="showAddModal = false"
     />

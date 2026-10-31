@@ -26,7 +26,7 @@ export function useTitleResolver() {
           if (fields && docId) {
             const existing = titleCache.value.get(docId as string);
             titleCache.value.set(docId as string, {
-              title: fields.originalTitle || fields.title,
+              title: fields.title || fields.originalTitle,
               posterPath: fields.posterPath || existing?.posterPath || null,
               year: fields.year
             });
@@ -53,7 +53,7 @@ export function useTitleResolver() {
       const detail = await dataRepo.getTitleDetail(type as MediaType, id);
       if (detail) {
         const meta: ResolvedTitleMeta = {
-          title: detail.originalTitle || detail.title,
+          title: detail.title || detail.originalTitle,
           posterPath: detail.posterPath || null,
           year: detail.theatricalDate ? parseInt(detail.theatricalDate.slice(0, 4), 10) : undefined
         };

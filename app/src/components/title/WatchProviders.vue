@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import { ref, computed } from 'vue';
+import { DEFAULT_REGION, RegionPolicy } from '../../config/regions.js';
+import { ref, computed, watch } from 'vue';
 import { RegionWatchProviders } from '../../types/index.js';
 import { WorkerClient } from '../../services/WorkerClient.js';
 
@@ -9,9 +10,16 @@ const props = defineProps<{
 }>();
 
 const workerClient = new WorkerClient();
-const activeRegion = ref<string>(props.defaultRegion || 'US');
+const activeRegion = ref<string>(RegionPolicy.normalize(props.defaultRegion || DEFAULT_REGION));
 
-const availableRegions = computed(() => Object.keys(props.watchProviders));
+const availableRegions = RegionPolicy.codeList();
+
+watch(
+  () => props.defaultRegion,
+  (region) => {
+    activeRegion.value = RegionPolicy.normalize(region);
+  }
+);
 
 const activeProviderData = computed<RegionWatchProviders | null>(() => {
   return props.watchProviders[activeRegion.value] || null;
@@ -40,7 +48,7 @@ function getLogo(path: string): string {
           class="px-2.5 py-1 rounded-lg font-medium transition shrink-0"
           :class="activeRegion === reg ? 'bg-cyan-500 text-slate-950 font-bold shadow-sm' : 'text-slate-400 hover:text-slate-200'"
         >
-          {{ reg }}
+          {{ RegionPolicy.labelOf(reg) }}
         </button>
       </div>
     </div>
@@ -118,7 +126,7 @@ function getLogo(path: string): string {
     </div>
 
     <div v-else class="text-xs text-slate-400 py-3 text-center">
-      پلتفرم پخشی برای منطقه {{ activeRegion }} ثبت نشده است.
+      پلتفرم پخشی برای منطقه {{ RegionPolicy.labelOf(activeRegion) }} ثبت نشده است.
     </div>
   </div>
 </template>

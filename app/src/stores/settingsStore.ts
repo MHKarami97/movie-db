@@ -3,13 +3,14 @@ import { ref } from 'vue';
 import { ThemeService } from '../services/ThemeService.js';
 import { DataRepository } from '../services/DataRepository.js';
 import { MetaData } from '../types/index.js';
+import { RegionPolicy } from '../config/regions.js';
 
 export const useSettingsStore = defineStore('settings', () => {
   const themeService = new ThemeService();
   const dataRepo = new DataRepository();
 
   const theme = ref<'system' | 'light' | 'dark'>(themeService.getCurrentTheme());
-  const selectedRegion = ref<string>(localStorage.getItem('default_region') || 'US');
+  const selectedRegion = ref<string>(RegionPolicy.normalize(localStorage.getItem('default_region')));
   const meta = ref<MetaData | null>(null);
   const loading = ref(false);
 
@@ -19,8 +20,9 @@ export const useSettingsStore = defineStore('settings', () => {
   }
 
   function setRegion(region: string) {
-    selectedRegion.value = region;
-    localStorage.setItem('default_region', region);
+    const safeRegion = RegionPolicy.normalize(region);
+    selectedRegion.value = safeRegion;
+    localStorage.setItem('default_region', safeRegion);
   }
 
   async function loadMeta() {

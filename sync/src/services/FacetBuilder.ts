@@ -4,6 +4,7 @@ import {
   ProviderItem,
   TitleDetail
 } from '../types.js';
+import { CONFIG } from '../config.js';
 
 export class FacetBuilder {
   public static build(titles: TitleDetail[], todayIso = new Date().toISOString().split('T')[0]): FacetsData {
@@ -38,7 +39,8 @@ export class FacetBuilder {
       }
 
       const titleProviders = new Set<number>();
-      for (const wp of Object.values(t.watchProviders)) {
+      for (const [region, wp] of Object.entries(t.watchProviders)) {
+        if (!CONFIG.configuredRegions.includes(region)) continue;
         const allProviders: ProviderItem[] = [
           ...wp.flatrate,
           ...wp.rent,
@@ -55,7 +57,8 @@ export class FacetBuilder {
       }
 
       const releaseTypesSet = new Set<string>();
-      for (const rDates of Object.values(t.releaseDates)) {
+      for (const [region, rDates] of Object.entries(t.releaseDates)) {
+        if (!CONFIG.configuredRegions.includes(region)) continue;
         if (rDates.theatrical) releaseTypesSet.add('theatrical');
         if (rDates.digital) releaseTypesSet.add('digital');
         if (rDates.premiere) releaseTypesSet.add('premiere');
@@ -73,7 +76,7 @@ export class FacetBuilder {
       compactTitles.push({
         id: t.id,
         type: t.type,
-        title: t.originalTitle || t.title,
+        title: t.title || t.originalTitle,
         posterPath: t.posterPath || null,
         year,
         rating: t.rating,

@@ -1,26 +1,23 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue';
-import { useRoute } from 'vue-router';
 import { useListStore } from '../stores/listStore.js';
-import { ListItemRecord } from '../types/index.js';
 import { useTitleResolver } from '../composables/useTitleResolver.js';
 import { WorkerClient } from '../services/WorkerClient.js';
 import { PersianUtils } from '../services/PersianUtils.js';
 import SvgIcon from '../components/common/SvgIcon.vue';
 import EmptyState from '../components/common/EmptyState.vue';
 import BaseModal from '../components/common/BaseModal.vue';
+import PosterImage from '../components/common/PosterImage.vue';
+import ShareButton from '../components/common/ShareButton.vue';
+import ReleaseCountdown from '../components/lists/ReleaseCountdown.vue';
 
-const route = useRoute();
 const listStore = useListStore();
 const { getTitle, getPosterPath, getYear, loadIndexTitles } = useTitleResolver();
 const workerClient = new WorkerClient();
 
-const activeTab = ref<'favorites' | 'custom' | 'shared'>('favorites');
+const activeTab = ref<'favorites' | 'custom'>('favorites');
 const newListName = ref('');
 const showCreateModal = ref(false);
-const sharedItems = ref<ListItemRecord[]>([]);
-const shareCopied = ref(false);
-const fileInput = ref<HTMLInputElement | null>(null);
 
 function getPoster(path: string | null): string {
   return workerClient.getImageUrl('w185', path);
@@ -28,15 +25,6 @@ function getPoster(path: string | null): string {
 
 onMounted(async () => {
   await Promise.all([listStore.loadAll(), loadIndexTitles()]);
-
-  // Check if URL contains shared list
-  const sharedParam = (route.query.shared as string) || (window.location.hash.includes('shared=') ? window.location.hash.split('shared=')[1] : '');
-  if (sharedParam) {
-    sharedItems.value = listStore.decodeShareLink(decodeURIComponent(sharedParam));
-    if (sharedItems.value.length > 0) {
-      activeTab.value = 'shared';
-    }
-  }
 });
 
 async function handleCreateList() {
@@ -45,49 +33,12 @@ async function handleCreateList() {
   newListName.value = '';
   showCreateModal.value = false;
 }
-
-async function handleExport() {
-  const json = await listStore.exportBackup();
-  const blob = new Blob([json], { type: 'application/json' });
-  const url = URL.createObjectURL(blob);
-  const a = document.createElement('a');
-  a.href = url;
-  a.download = `moviedb-backup-${new Date().toISOString().split('T')[0]}.json`;
-  a.click();
-  URL.revokeObjectURL(url);
-}
-
-function handleImportClick() {
-  fileInput.value?.click();
-}
-
-async function handleFileSelected(e: Event) {
-  const target = e.target as HTMLInputElement;
-  const file = target.files?.[0];
-  if (!file) return;
-
-  const text = await file.text();
-  try {
-    await listStore.importBackup(text);
-    alert('پشتیبان با موفقیت بازیابی شد.');
-  } catch (err: any) {
-    alert(err?.message || 'خطا در بازیابی فایل.');
-  }
-}
-
-function handleCopyShare(items: ListItemRecord[]) {
-  const link = listStore.encodeShareLink(items);
-  navigator.clipboard.writeText(link);
-  shareCopied.value = true;
-  setTimeout(() => (shareCopied.value = false), 2500);
-}
 </script>
 
 <template>
   <div class="space-y-6">
-    <!-- Top Action Bar -->
-    <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 p-4 rounded-2xl border border-slate-800 bg-slate-900/40">
-      <!-- Tabs -->
+    <!-- Tabs -->
+    <div class="p-4 rounded-2xl border border-slate-800 bg-slate-900/40">
       <div class="inline-flex rounded-xl p-1 bg-slate-950 border border-slate-800 text-xs">
         <button
           type="button"
@@ -95,7 +46,7 @@ function handleCopyShare(items: ListItemRecord[]) {
           class="px-4 py-2 rounded-lg font-bold transition flex items-center gap-2"
           :class="activeTab === 'favorites' ? 'bg-amber-500 text-slate-950 shadow-sm' : 'text-slate-400 hover:text-slate-200'"
         >
-          <SvgIcon name="heart" size="14" :className="activeTab === 'favorites' ? 'fill-slate-950' : ''" />
+          <SvgIcon name="heart" size="14" :class-name="activeTab === 'favorites' ? 'fill-slate-950' : ''" />
           <span>علاقه‌مندی‌ها ({{ PersianUtils.toPersianDigits(listStore.favorites.length) }})</span>
         </button>
 
@@ -108,84 +59,29 @@ function handleCopyShare(items: ListItemRecord[]) {
           <SvgIcon name="bookmark" size="14" />
           <span>لیست‌های شخصی ({{ PersianUtils.toPersianDigits(listStore.customLists.length) }})</span>
         </button>
-
-        <button
-          v-if="sharedItems.length > 0"
-          type="button"
-          @click="activeTab = 'shared'"
-          class="px-4 py-2 rounded-lg font-bold transition flex items-center gap-2"
-          :class="activeTab === 'shared' ? 'bg-amber-500 text-slate-950 shadow-sm' : 'text-slate-400 hover:text-slate-200'"
-        >
-          <SvgIcon name="share" size="14" />
-          <span>لیست اشتراکی</span>
-        </button>
-      </div>
-
-      <!-- Import / Export Actions -->
-      <div class="flex items-center gap-2">
-        <input
-          ref="fileInput"
-          type="file"
-          accept=".json"
-          class="hidden"
-          @change="handleFileSelected"
-        />
-        <button
-          type="button"
-          @click="handleImportClick"
-          class="px-3 py-2 rounded-xl border border-slate-800 bg-slate-900 hover:bg-slate-800 text-slate-300 text-xs font-semibold transition"
-        >
-          بازیابی فایل
-        </button>
-        <button
-          type="button"
-          @click="handleExport"
-          class="px-3 py-2 rounded-xl border border-slate-800 bg-slate-900 hover:bg-slate-800 text-slate-300 text-xs font-semibold transition"
-        >
-          پشتیبان‌گیری (JSON)
-        </button>
       </div>
     </div>
 
-    <!-- TAB 1: FAVORITES -->
+    <!-- FAVORITES -->
     <div v-if="activeTab === 'favorites'" class="space-y-4">
-      <div class="flex items-center justify-between">
-        <h3 class="text-sm font-bold text-slate-200">فیلم‌ها و سریال‌های نشان‌شده</h3>
-        <button
-          v-if="listStore.favorites.length > 0"
-          type="button"
-          @click="handleCopyShare(listStore.favorites)"
-          class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl border border-slate-700 bg-slate-800 text-slate-200 text-xs font-semibold hover:bg-slate-700 transition"
-        >
-          <SvgIcon name="share" size="14" />
-          <span>{{ shareCopied ? 'لینک کپی شد!' : 'اشتراک‌گذاری لیست' }}</span>
-        </button>
-      </div>
+      <h3 class="text-sm font-bold text-slate-200">فیلم‌ها و سریال‌های نشان‌شده</h3>
 
       <div v-if="listStore.favorites.length > 0" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
         <div
           v-for="item in listStore.favorites"
           :key="item.type + '-' + item.id"
-          class="flex items-center justify-between p-3.5 rounded-2xl border border-slate-800 bg-slate-900/40 hover:bg-slate-800/60 transition"
+          class="flex flex-col gap-3 p-3.5 rounded-2xl border border-slate-800 bg-slate-900/40 hover:bg-slate-800/60 transition"
         >
-          <router-link
-            :to="`/title/${item.type}/${item.id}`"
-            class="flex items-center gap-3.5 min-w-0 flex-1 group"
-          >
-            <div class="relative w-12 h-16 shrink-0 rounded-xl overflow-hidden bg-slate-800 border border-slate-700/80">
-              <img
-                v-if="getPosterPath(item.type, item.id, item.posterPath)"
+          <router-link :to="`/title/${item.type}/${item.id}`" class="flex items-center gap-3.5 min-w-0 group">
+            <div class="relative w-12 h-16 shrink-0 rounded-xl overflow-hidden border border-slate-700/80">
+              <PosterImage
                 :src="getPoster(getPosterPath(item.type, item.id, item.posterPath))"
                 :alt="getTitle(item.type, item.id, item.title)"
-                loading="lazy"
-                referrerpolicy="no-referrer"
-                class="h-full w-full object-cover group-hover:scale-105 transition duration-300"
+                :icon-size="20"
+                img-class="group-hover:scale-105 transition duration-300"
               />
-              <div v-else class="flex h-full w-full items-center justify-center text-slate-500">
-                <SvgIcon name="calendar" size="20" />
-              </div>
             </div>
-            <div class="truncate flex-1 min-w-0">
+            <div class="min-w-0 flex-1">
               <h4 class="text-sm font-bold text-slate-100 block truncate group-hover:text-amber-400 transition text-right" dir="ltr">
                 {{ getTitle(item.type, item.id, item.title) }}
               </h4>
@@ -196,15 +92,13 @@ function handleCopyShare(items: ListItemRecord[]) {
                 >
                   {{ item.type === 'movie' ? 'فیلم سینمایی' : 'سریال تلویزیونی' }}
                 </span>
-                <span v-if="getYear(item.type, item.id)" class="font-mono text-slate-500">
-                  ({{ getYear(item.type, item.id) }})
-                </span>
+                <span v-if="getYear(item.type, item.id)" class="font-mono text-slate-500">({{ getYear(item.type, item.id) }})</span>
               </div>
+              <ReleaseCountdown :type="item.type" :id="item.id" />
             </div>
           </router-link>
 
-          <div class="flex items-center gap-2">
-            <!-- Watched Toggle -->
+          <div class="flex items-center justify-between gap-2 border-t border-slate-800/70 pt-3">
             <button
               type="button"
               @click="listStore.toggleWatched(item.type, item.id)"
@@ -216,15 +110,18 @@ function handleCopyShare(items: ListItemRecord[]) {
               <span>{{ item.watched ? 'دیده‌شده' : 'ندیده‌ام' }}</span>
             </button>
 
-            <!-- Remove Button -->
-            <button
-              type="button"
-              @click="listStore.toggleFavorite(item.type, item.id)"
-              class="flex h-8 w-8 items-center justify-center rounded-lg text-rose-400 hover:bg-rose-500/20 transition"
-              title="حذف از لیست"
-            >
-              <SvgIcon name="trash" size="15" />
-            </button>
+            <div class="flex items-center gap-2">
+              <ShareButton :type="item.type" :id="item.id" :title="getTitle(item.type, item.id, item.title)" compact />
+              <button
+                type="button"
+                @click="listStore.toggleFavorite(item.type, item.id)"
+                class="flex h-9 w-9 items-center justify-center rounded-lg text-rose-400 hover:bg-rose-500/20 transition"
+                title="حذف از لیست"
+                aria-label="حذف از لیست"
+              >
+                <SvgIcon name="trash" size="15" />
+              </button>
+            </div>
           </div>
         </div>
       </div>
@@ -237,8 +134,8 @@ function handleCopyShare(items: ListItemRecord[]) {
       />
     </div>
 
-    <!-- TAB 2: CUSTOM LISTS -->
-    <div v-else-if="activeTab === 'custom'" class="space-y-6">
+    <!-- CUSTOM LISTS -->
+    <div v-else class="space-y-6">
       <div class="flex items-center justify-between">
         <h3 class="text-sm font-bold text-slate-200">لیست‌های دسته‌بندی شخصی</h3>
         <button
@@ -260,67 +157,54 @@ function handleCopyShare(items: ListItemRecord[]) {
           <div class="flex items-center justify-between pb-3 border-b border-slate-800">
             <div>
               <h4 class="text-base font-bold text-slate-100">{{ list.name }}</h4>
-              <span class="text-xs text-slate-400">
-                {{ PersianUtils.toPersianDigits(list.items.length) }} عنوان در این لیست
-              </span>
+              <span class="text-xs text-slate-400">{{ PersianUtils.toPersianDigits(list.items.length) }} عنوان در این لیست</span>
             </div>
-
-            <div class="flex items-center gap-2">
-              <button
-                v-if="list.items.length > 0"
-                type="button"
-                @click="handleCopyShare(list.items)"
-                class="px-3 py-1.5 rounded-lg border border-slate-700 bg-slate-800 text-slate-300 text-xs font-semibold hover:bg-slate-700 transition"
-              >
-                اشتراک‌گذاری
-              </button>
-              <button
-                type="button"
-                @click="listStore.deleteCustomList(list.id)"
-                class="flex h-8 w-8 items-center justify-center rounded-lg text-rose-400 hover:bg-rose-500/20 transition"
-                title="حذف کل لیست"
-              >
-                <SvgIcon name="trash" size="16" />
-              </button>
-            </div>
+            <button
+              type="button"
+              @click="listStore.deleteCustomList(list.id)"
+              class="flex h-9 w-9 items-center justify-center rounded-lg text-rose-400 hover:bg-rose-500/20 transition"
+              title="حذف کل لیست"
+              aria-label="حذف کل لیست"
+            >
+              <SvgIcon name="trash" size="16" />
+            </button>
           </div>
 
           <div v-if="list.items.length > 0" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2.5">
             <div
               v-for="item in list.items"
               :key="item.type + '-' + item.id"
-              class="flex items-center justify-between p-2.5 rounded-xl border border-slate-800/80 bg-slate-950/60 gap-2"
+              class="flex items-start justify-between p-2.5 rounded-xl border border-slate-800/80 bg-slate-950/60 gap-2"
             >
-              <router-link :to="`/title/${item.type}/${item.id}`" class="flex items-center gap-2.5 min-w-0 flex-1 hover:text-amber-400 transition group">
-                <div class="w-8 h-11 shrink-0 rounded-lg overflow-hidden bg-slate-800 border border-slate-700/60 relative">
-                  <img
-                    v-if="getPosterPath(item.type, item.id, item.posterPath)"
+              <router-link :to="`/title/${item.type}/${item.id}`" class="flex items-center gap-2.5 min-w-0 flex-1 group">
+                <div class="w-10 h-14 shrink-0 rounded-lg overflow-hidden border border-slate-700/60 relative">
+                  <PosterImage
                     :src="getPoster(getPosterPath(item.type, item.id, item.posterPath))"
-                    loading="lazy"
-                    referrerpolicy="no-referrer"
-                    class="h-full w-full object-cover"
+                    :alt="getTitle(item.type, item.id, item.title)"
+                    :icon-size="16"
                   />
-                  <div v-else class="flex h-full w-full items-center justify-center text-slate-500">
-                    <SvgIcon name="calendar" size="14" />
-                  </div>
                 </div>
-                <div class="truncate min-w-0">
+                <div class="min-w-0">
                   <span class="text-xs text-slate-200 font-bold block truncate group-hover:text-amber-400 transition text-right" dir="ltr">
                     {{ getTitle(item.type, item.id, item.title) }}
                   </span>
-                  <span class="text-[10px] text-slate-400">
-                    {{ item.type === 'movie' ? 'فیلم' : 'سریال' }}
-                  </span>
+                  <span class="text-[10px] text-slate-400">{{ item.type === 'movie' ? 'فیلم' : 'سریال' }}</span>
+                  <ReleaseCountdown :type="item.type" :id="item.id" />
                 </div>
               </router-link>
-              <button
-                type="button"
-                @click="listStore.removeFromList(list.id, item.type, item.id)"
-                class="text-rose-400 hover:text-rose-300 p-1 shrink-0"
-                title="حذف از این لیست"
-              >
-                <SvgIcon name="close" size="14" />
-              </button>
+
+              <div class="flex shrink-0 items-center gap-1">
+                <ShareButton :type="item.type" :id="item.id" :title="getTitle(item.type, item.id, item.title)" compact />
+                <button
+                  type="button"
+                  @click="listStore.removeFromList(list.id, item.type, item.id)"
+                  class="flex h-9 w-9 items-center justify-center text-rose-400 hover:text-rose-300"
+                  title="حذف از این لیست"
+                  aria-label="حذف از این لیست"
+                >
+                  <SvgIcon name="close" size="14" />
+                </button>
+              </div>
             </div>
           </div>
           <p v-else class="text-xs text-slate-500">این لیست خالی است.</p>
@@ -337,56 +221,6 @@ function handleCopyShare(items: ListItemRecord[]) {
       />
     </div>
 
-    <!-- TAB 3: SHARED LIST VIEW -->
-    <div v-else-if="activeTab === 'shared'" class="space-y-4">
-      <div class="p-4 rounded-2xl border border-amber-500/30 bg-amber-500/10 text-amber-200 flex items-center justify-between">
-        <div>
-          <h4 class="text-sm font-bold text-slate-100">لیست به اشتراک گذاشته شده</h4>
-          <p class="text-xs text-amber-400 mt-0.5">این عناوین از طریق پیوند ارسالی کاربر باز شده‌اند.</p>
-        </div>
-      </div>
-
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-        <router-link
-          v-for="item in sharedItems"
-          :key="'shared-' + item.type + '-' + item.id"
-          :to="`/title/${item.type}/${item.id}`"
-          class="flex items-center gap-3.5 p-3 rounded-2xl border border-slate-800 bg-slate-900/40 hover:bg-slate-800/60 transition group"
-        >
-          <div class="relative w-12 h-16 shrink-0 rounded-xl overflow-hidden bg-slate-800 border border-slate-700/80">
-            <img
-              v-if="getPosterPath(item.type, item.id, item.posterPath)"
-              :src="getPoster(getPosterPath(item.type, item.id, item.posterPath))"
-              :alt="getTitle(item.type, item.id, item.title)"
-              loading="lazy"
-              referrerpolicy="no-referrer"
-              class="h-full w-full object-cover group-hover:scale-105 transition duration-300"
-            />
-            <div v-else class="flex h-full w-full items-center justify-center text-slate-500">
-              <SvgIcon name="calendar" size="20" />
-            </div>
-          </div>
-          <div class="truncate flex-1 min-w-0">
-            <h4 class="text-sm font-bold text-slate-100 block truncate group-hover:text-amber-400 transition text-right" dir="ltr">
-              {{ getTitle(item.type, item.id, item.title) }}
-            </h4>
-            <div class="flex items-center gap-1.5 mt-1 text-[11px] text-slate-400">
-              <span
-                class="px-1.5 py-0.5 rounded text-[10px] font-bold"
-                :class="item.type === 'movie' ? 'bg-amber-500/15 text-amber-300' : 'bg-cyan-500/15 text-cyan-300'"
-              >
-                {{ item.type === 'movie' ? 'فیلم سینمایی' : 'سریال تلویزیونی' }}
-              </span>
-              <span v-if="getYear(item.type, item.id)" class="font-mono text-slate-500">
-                ({{ getYear(item.type, item.id) }})
-              </span>
-            </div>
-          </div>
-        </router-link>
-      </div>
-    </div>
-
-    <!-- Create List Modal -->
     <BaseModal :show="showCreateModal" title="ساخت لیست شخصی جدید" @close="showCreateModal = false">
       <div class="space-y-4">
         <div>
@@ -400,18 +234,10 @@ function handleCopyShare(items: ListItemRecord[]) {
           />
         </div>
         <div class="flex justify-end gap-2 pt-2">
-          <button
-            type="button"
-            @click="showCreateModal = false"
-            class="px-4 py-2 rounded-xl border border-slate-700 bg-slate-800 text-slate-300 text-xs font-semibold"
-          >
+          <button type="button" @click="showCreateModal = false" class="px-4 py-2 rounded-xl border border-slate-700 bg-slate-800 text-slate-300 text-xs font-semibold">
             انصراف
           </button>
-          <button
-            type="button"
-            @click="handleCreateList"
-            class="px-5 py-2 rounded-xl bg-amber-500 hover:bg-amber-600 text-slate-950 text-xs font-bold transition"
-          >
+          <button type="button" @click="handleCreateList" class="px-5 py-2 rounded-xl bg-amber-500 hover:bg-amber-600 text-slate-950 text-xs font-bold transition">
             ایجاد لیست
           </button>
         </div>

@@ -47,7 +47,7 @@ titleRoute.get('/api/title/:type/:id', async (c) => {
       : 'videos,credits,watch/providers,external_ids,translations';
 
   try {
-    const res = await fetch(`${endpoint}?append_to_response=${appends}`, {
+    const res = await fetch(`${endpoint}?language=en-US&append_to_response=${appends}`, {
       method: 'GET',
       headers: {
         Authorization: `Bearer ${token.trim()}`,

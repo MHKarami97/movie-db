@@ -1,4 +1,5 @@
 import { WORKER_CONFIG } from './config.js';
+import { TitleLocalizer } from './titleLocalizer.js';
 
 /* eslint-disable @typescript-eslint/no-explicit-any */
 
@@ -10,7 +11,7 @@ export class WorkerNormalizer {
     const primaryGap = this.getPrimaryGap(regionGaps);
     const translations = this.extractPersianTranslation(raw.translations?.translations);
 
-    const title = raw.title || raw.original_title || '';
+    const title = TitleLocalizer.resolveEnglishTitle(raw.title, raw.original_title, raw.translations?.translations);
     const overview = translations.faOverview || raw.overview || '';
 
     return {
@@ -78,7 +79,7 @@ export class WorkerNormalizer {
   public static normalizeTv(raw: any, fetchedAt = Date.now()): any {
     const watchProviders = this.extractWatchProviders(raw['watch/providers']?.results);
     const translations = this.extractPersianTranslation(raw.translations?.translations);
-    const title = raw.name || raw.original_name || '';
+    const title = TitleLocalizer.resolveEnglishTitle(raw.name, raw.original_name, raw.translations?.translations);
     const overview = translations.faOverview || raw.overview || '';
 
     const firstAirDate = raw.first_air_date ? raw.first_air_date.split('T')[0] : undefined;
@@ -198,7 +199,7 @@ export class WorkerNormalizer {
 
     for (const regionData of results) {
       const regionCode = regionData.iso_3166_1;
-      if (!regionCode) continue;
+      if (!regionCode || !WORKER_CONFIG.configuredRegions.includes(regionCode)) continue;
 
       const datesObj: any = {};
       const releaseList = regionData.release_dates || [];
@@ -243,6 +244,8 @@ export class WorkerNormalizer {
     if (!results || typeof results !== 'object') return providersByRegion;
 
     for (const [region, data] of Object.entries(results as Record<string, any>)) {
+      if (!WORKER_CONFIG.configuredRegions.includes(region)) continue;
+
       const mapList = (list?: any[]) =>
         (list || []).map((p) => ({
           id: p.provider_id,

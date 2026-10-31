@@ -1,13 +1,16 @@
 <script setup lang="ts">
 import { computed } from 'vue';
 import { useCalendarStore } from '../../stores/calendarStore.js';
+import { useCalendarFilterStore } from '../../stores/calendarFilterStore.js';
 import { WorkerClient } from '../../services/WorkerClient.js';
 import { PersianUtils } from '../../services/PersianUtils.js';
 import { JalaliDateService } from '../../services/JalaliDateService.js';
 import SvgIcon from '../common/SvgIcon.vue';
 import EmptyState from '../common/EmptyState.vue';
+import PosterImage from '../common/PosterImage.vue';
 
 const calendarStore = useCalendarStore();
+const filterStore = useCalendarFilterStore();
 const workerClient = new WorkerClient();
 const dateService = new JalaliDateService();
 
@@ -57,8 +60,10 @@ function getReleaseTypeLabel(type: string): string {
     <EmptyState
       v-if="calendarStore.selectedDayItems.length === 0"
       icon="calendar"
-      title="عنوانی برای این روز ثبت نشده است"
-      description="می‌توانید روزهای دارای نشانگر زرد رنگ را انتخاب کنید یا به ماه‌های آینده بروید."
+      :title="filterStore.hasActiveFilters ? 'با فیلترهای فعلی عنوانی برای این روز نیست' : 'عنوانی برای این روز ثبت نشده است'"
+      :description="filterStore.hasActiveFilters ? 'فیلترها را ریست کنید یا روز دیگری را انتخاب کنید.' : 'می‌توانید روزهای دارای نشانگر را انتخاب کنید یا به ماه‌های آینده بروید.'"
+      :action-text="filterStore.hasActiveFilters ? 'ریست فیلتر' : undefined"
+      @action="filterStore.reset()"
     />
 
     <!-- Titles Grid -->
@@ -69,22 +74,13 @@ function getReleaseTypeLabel(type: string): string {
         :to="`/title/${item.type}/${item.id}`"
         class="group flex gap-3.5 p-3 rounded-2xl border border-slate-800/80 bg-slate-900/40 hover:bg-slate-800/60 hover:border-slate-700 transition"
       >
-        <!-- Poster Thumbnail with fixed aspect ratio to prevent layout shift -->
-        <div class="relative w-20 shrink-0 aspect-[2/3] rounded-xl overflow-hidden bg-slate-800 border border-slate-800">
-          <img
-            v-if="item.posterPath"
+        <div class="relative w-20 shrink-0 aspect-[2/3] rounded-xl overflow-hidden border border-slate-800">
+          <PosterImage
             :src="getPoster(item.posterPath)"
             :alt="item.title"
-            loading="lazy"
-            decoding="async"
-            referrerpolicy="no-referrer"
-            width="80"
-            height="120"
-            class="h-full w-full object-cover group-hover:scale-105 transition duration-300"
+            :icon-size="28"
+            img-class="group-hover:scale-105 transition duration-300"
           />
-          <div v-else class="flex h-full w-full items-center justify-center text-slate-600">
-            <SvgIcon name="calendar" size="24" />
-          </div>
         </div>
 
         <!-- Info Column -->
@@ -107,7 +103,7 @@ function getReleaseTypeLabel(type: string): string {
             </div>
 
             <h4 class="text-sm font-bold text-slate-100 group-hover:text-amber-400 transition truncate text-right" dir="ltr">
-              {{ item.originalTitle || item.title }}
+              {{ item.title || item.originalTitle }}
             </h4>
           </div>
 

@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import { ref, computed } from 'vue';
+import { DEFAULT_REGION, RegionPolicy } from '../../config/regions.js';
+import { ref, computed, watch } from 'vue';
 import { RegionReleaseDates } from '../../types/index.js';
 import { JalaliDateService } from '../../services/JalaliDateService.js';
 
@@ -9,9 +10,16 @@ const props = defineProps<{
 }>();
 
 const dateService = new JalaliDateService();
-const activeRegion = ref<string>(props.defaultRegion || 'US');
+const activeRegion = ref<string>(RegionPolicy.normalize(props.defaultRegion || DEFAULT_REGION));
 
-const availableRegions = computed(() => Object.keys(props.releaseDates));
+const availableRegions = RegionPolicy.codeList();
+
+watch(
+  () => props.defaultRegion,
+  (region) => {
+    activeRegion.value = RegionPolicy.normalize(region);
+  }
+);
 
 const activeDates = computed<RegionReleaseDates>(() => {
   return props.releaseDates[activeRegion.value] || {};
@@ -93,7 +101,7 @@ const timelineSteps = computed(() => {
           class="px-2.5 py-1 rounded-lg font-medium transition shrink-0"
           :class="activeRegion === reg ? 'bg-amber-500 text-slate-950 font-bold shadow-sm' : 'text-slate-400 hover:text-slate-200'"
         >
-          {{ reg }}
+          {{ RegionPolicy.labelOf(reg) }}
         </button>
       </div>
     </div>
@@ -122,7 +130,7 @@ const timelineSteps = computed(() => {
     </div>
 
     <div v-else class="text-xs text-slate-400 py-3 text-center">
-      تاریخ اکران دقیقی برای منطقه {{ activeRegion }} ثبت نشده است.
+      تاریخ اکران دقیقی برای منطقه {{ RegionPolicy.labelOf(activeRegion) }} ثبت نشده است.
     </div>
   </div>
 </template>

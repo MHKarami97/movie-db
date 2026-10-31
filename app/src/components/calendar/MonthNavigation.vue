@@ -1,18 +1,24 @@
 <script setup lang="ts">
+import { ref } from 'vue';
 import { useCalendarStore } from '../../stores/calendarStore.js';
+import { useCalendarFilterStore } from '../../stores/calendarFilterStore.js';
 import { useSettingsStore } from '../../stores/settingsStore.js';
+import { SUPPORTED_REGIONS } from '../../config/regions.js';
+import { MediaType } from '../../types/index.js';
+import CalendarFilterDrawer from './CalendarFilterDrawer.vue';
 import { PersianUtils } from '../../services/PersianUtils.js';
 import SvgIcon from '../common/SvgIcon.vue';
 
 const calendarStore = useCalendarStore();
 const settingsStore = useSettingsStore();
 
-const regions = [
-  { code: 'IR', label: 'ایران (IR)' },
-  { code: 'US', label: 'آمریکا (US)' },
-  { code: 'GB', label: 'بریتانیا (GB)' },
-  { code: 'DE', label: 'آلمان (DE)' },
-  { code: 'CA', label: 'کانادا (CA)' }
+const filterStore = useCalendarFilterStore();
+const showFilters = ref(false);
+
+const mediaTabs: ReadonlyArray<{ key: 'all' | MediaType; label: string }> = [
+  { key: 'all', label: 'همه' },
+  { key: 'movie', label: 'فیلم‌ها' },
+  { key: 'tv', label: 'سریال‌ها' }
 ];
 </script>
 
@@ -60,31 +66,45 @@ const regions = [
 
     <!-- Filters & Selectors -->
     <div class="flex flex-wrap items-center justify-between md:justify-end gap-2.5">
-      <!-- Media Type Segmented Tabs -->
-      <div class="inline-flex rounded-xl p-1 bg-slate-950 border border-slate-800 text-xs">
+      <div class="inline-flex rounded-xl p-1 bg-slate-950 border border-slate-800 text-xs" role="tablist">
         <button
+          v-for="tab in mediaTabs"
+          :key="tab.key"
           type="button"
-          @click="calendarStore.mediaTypeFilter = 'all'"
+          role="tab"
+          :aria-selected="filterStore.filters.mediaType === tab.key"
+          @click="filterStore.filters.mediaType = tab.key"
           class="px-3 py-1.5 rounded-lg font-medium transition"
-          :class="calendarStore.mediaTypeFilter === 'all' ? 'bg-amber-500 text-slate-950 font-bold shadow-sm' : 'text-slate-400 hover:text-slate-200'"
+          :class="filterStore.filters.mediaType === tab.key ? 'bg-amber-500 text-slate-950 font-bold shadow-sm' : 'text-slate-400 hover:text-slate-200'"
         >
-          همه
+          {{ tab.label }}
         </button>
+      </div>
+
+      <div class="flex items-center gap-2">
         <button
           type="button"
-          @click="calendarStore.mediaTypeFilter = 'movie'"
-          class="px-3 py-1.5 rounded-lg font-medium transition"
-          :class="calendarStore.mediaTypeFilter === 'movie' ? 'bg-amber-500 text-slate-950 font-bold shadow-sm' : 'text-slate-400 hover:text-slate-200'"
+          @click="showFilters = true"
+          class="inline-flex items-center gap-2 rounded-xl border border-slate-800 bg-slate-950 px-3.5 py-2 text-xs font-semibold text-slate-200 transition hover:border-slate-700"
         >
-          فیلم‌ها
+          <SvgIcon name="filter" size="14" class-name="text-amber-400" />
+          <span>فیلترها</span>
+          <span
+            v-if="filterStore.activeCount > 0"
+            class="rounded-full bg-amber-500 px-1.5 text-[10px] font-bold leading-4 text-slate-950"
+          >
+            {{ PersianUtils.toPersianDigits(filterStore.activeCount) }}
+          </span>
         </button>
+
         <button
+          v-if="filterStore.hasActiveFilters"
           type="button"
-          @click="calendarStore.mediaTypeFilter = 'tv'"
-          class="px-3 py-1.5 rounded-lg font-medium transition"
-          :class="calendarStore.mediaTypeFilter === 'tv' ? 'bg-amber-500 text-slate-950 font-bold shadow-sm' : 'text-slate-400 hover:text-slate-200'"
+          @click="filterStore.reset()"
+          class="inline-flex items-center gap-1.5 rounded-xl border border-rose-500/30 bg-rose-500/10 px-3 py-2 text-xs font-semibold text-rose-300 transition hover:bg-rose-500/20"
         >
-          سریال‌ها
+          <SvgIcon name="reset" size="14" />
+          <span>ریست فیلتر</span>
         </button>
       </div>
 
@@ -96,8 +116,8 @@ const regions = [
           class="appearance-none bg-slate-950 border border-slate-800 rounded-xl px-3.5 py-2 pl-8 text-xs font-medium text-slate-200 focus:outline-none focus:border-amber-500 cursor-pointer"
           aria-label="انتخاب منطقه اکران"
         >
-          <option v-for="r in regions" :key="r.code" :value="r.code">
-            {{ r.label }}
+          <option v-for="r in SUPPORTED_REGIONS" :key="r.code" :value="r.code">
+            {{ r.label }} ({{ r.code }})
           </option>
         </select>
         <span class="pointer-events-none absolute left-2.5 text-slate-500">
@@ -105,5 +125,6 @@ const regions = [
         </span>
       </div>
     </div>
+    <CalendarFilterDrawer :open="showFilters" @close="showFilters = false" />
   </div>
 </template>

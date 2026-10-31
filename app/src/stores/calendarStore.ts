@@ -3,18 +3,21 @@ import { ref, computed } from 'vue';
 import { JalaliDateService } from '../services/JalaliDateService.js';
 import { DataRepository } from '../services/DataRepository.js';
 import { CalendarDayCell } from '../services/interfaces.js';
-import { CalendarItem, MediaType } from '../types/index.js';
+import { CalendarItem } from '../types/index.js';
+import { BayesianRatingScorer, IRatingScorer } from '../services/RatingScorer.js';
+import { useCalendarFilterStore } from './calendarFilterStore.js';
 
 export const useCalendarStore = defineStore('calendar', () => {
   const dateService = new JalaliDateService();
   const dataRepo = new DataRepository();
+  const ratingScorer: IRatingScorer = new BayesianRatingScorer();
+  const filterStore = useCalendarFilterStore();
 
   const todayJalali = dateService.toJalaali(new Date());
   const currentJy = ref<number>(todayJalali.jy);
   const currentJm = ref<number>(todayJalali.jm);
   const selectedDayCell = ref<CalendarDayCell | null>(null);
 
-  const mediaTypeFilter = ref<'all' | MediaType>('all');
   const items = ref<CalendarItem[]>([]);
   const loading = ref<boolean>(false);
 
@@ -28,19 +31,23 @@ export const useCalendarStore = defineStore('calendar', () => {
     return dateService.getMonthName(currentJm.value);
   });
 
-  // Items grouped by ISO date string (YYYY-MM-DD)
+  const priorMean = computed<number>(() => ratingScorer.estimatePriorMean(items.value));
+
+  const visibleItems = computed<CalendarItem[]>(() => items.value.filter((item) => filterStore.matches(item)));
+
+  // Items grouped by ISO date (YYYY-MM-DD); each day sorted by weighted rating, descending
   const itemsByDate = computed<Map<string, CalendarItem[]>>(() => {
-    const map = new Map<string, CalendarItem[]>();
-    for (const item of items.value) {
-      if (mediaTypeFilter.value !== 'all' && item.type !== mediaTypeFilter.value) {
-        continue;
-      }
-      if (!map.has(item.date)) {
-        map.set(item.date, []);
-      }
-      map.get(item.date)!.push(item);
+    const grouped = new Map<string, CalendarItem[]>();
+    for (const item of visibleItems.value) {
+      const bucket = grouped.get(item.date);
+      if (bucket) bucket.push(item);
+      else grouped.set(item.date, [item]);
     }
-    return map;
+
+    for (const [date, bucket] of grouped) {
+      grouped.set(date, ratingScorer.sortDescending(bucket, priorMean.value));
+    }
+    return grouped;
   });
 
   // Selected day items
@@ -117,7 +124,7 @@ export const useCalendarStore = defineStore('calendar', () => {
     currentJy,
     currentJm,
     currentMonthName,
-    mediaTypeFilter,
+    visibleItems,
     gridCells,
     items,
     itemsByDate,

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { CastMember } from '../../types/index.js';
 import { WorkerClient } from '../../services/WorkerClient.js';
-import SvgIcon from '../common/SvgIcon.vue';
+import PosterImage from '../common/PosterImage.vue';
 
 defineProps<{
   cast: CastMember[];
@@ -28,20 +28,7 @@ function getProfile(path: string | null): string {
         class="flex flex-col items-center text-center p-3 rounded-2xl border border-slate-800 bg-slate-900/40 hover:bg-slate-800/60 transition group"
       >
         <div class="h-16 w-16 rounded-full overflow-hidden bg-slate-800 border-2 border-slate-700 group-hover:border-amber-400/60 transition mb-2.5">
-          <img
-            v-if="member.profilePath"
-            :src="getProfile(member.profilePath)"
-            :alt="member.name"
-            width="64"
-            height="64"
-            loading="lazy"
-            decoding="async"
-            referrerpolicy="no-referrer"
-            class="h-full w-full object-cover"
-          />
-          <div v-else class="flex h-full w-full items-center justify-center text-slate-600">
-            <SvgIcon name="info" size="24" />
-          </div>
+          <PosterImage :src="getProfile(member.profilePath)" :alt="member.name" placeholder-icon="user" :icon-size="26" />
         </div>
 
         <span class="text-xs font-bold text-slate-200 truncate w-full group-hover:text-amber-400 transition">

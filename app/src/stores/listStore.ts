@@ -95,28 +95,6 @@ export const useListStore = defineStore('list', () => {
     await loadAll();
   }
 
-  function encodeShareLink(items: ListItemRecord[]): string {
-    const payload = items.map((i) => `${i.type === 'movie' ? 'm' : 't'}:${i.id}`).join(',');
-    return `${window.location.origin}${window.location.pathname}#/lists?shared=${encodeURIComponent(payload)}`;
-  }
-
-  function decodeShareLink(payload: string): ListItemRecord[] {
-    if (!payload) return [];
-    try {
-      const parts = payload.split(',');
-      return parts.map((p) => {
-        const [typeCode, idStr] = p.split(':');
-        return {
-          type: typeCode === 't' ? 'tv' : 'movie',
-          id: parseInt(idStr, 10),
-          addedAt: Date.now()
-        };
-      });
-    } catch {
-      return [];
-    }
-  }
-
   return {
     favorites,
     customLists,
@@ -131,8 +109,6 @@ export const useListStore = defineStore('list', () => {
     addToList,
     removeFromList,
     exportBackup,
-    importBackup,
-    encodeShareLink,
-    decodeShareLink
+    importBackup
   };
 });

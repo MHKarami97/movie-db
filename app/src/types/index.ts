@@ -17,6 +17,9 @@ export interface CalendarItem {
   voteCount: number;
   genreIds: number[];
   originalLanguage: string;
+  countries?: string[];
+  providers?: number[];
+  hasTrailer?: boolean;
 }
 
 export interface RegionReleaseDates {

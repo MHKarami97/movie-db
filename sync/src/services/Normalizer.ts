@@ -10,6 +10,7 @@ import {
   VideoItem
 } from '../types.js';
 import { CONFIG } from '../config.js';
+import { TitleLocalizer } from './TitleLocalizer.js';
 
 /* eslint-disable @typescript-eslint/no-explicit-any */
 
@@ -21,7 +22,7 @@ export class Normalizer {
     const primaryGap = this.getPrimaryGap(regionGaps);
     const translations = this.extractPersianTranslation(raw.translations?.translations);
 
-    const title = raw.title || raw.original_title || '';
+    const title = TitleLocalizer.resolveEnglishTitle(raw.title, raw.original_title, raw.translations?.translations);
     const overview = translations.faOverview || raw.overview || '';
 
     return {
@@ -79,7 +80,7 @@ export class Normalizer {
   ): TitleDetail {
     const watchProviders = this.extractWatchProviders(raw['watch/providers']?.results);
     const translations = this.extractPersianTranslation(raw.translations?.translations);
-    const title = raw.name || raw.original_name || '';
+    const title = TitleLocalizer.resolveEnglishTitle(raw.name, raw.original_name, raw.translations?.translations);
     const overview = translations.faOverview || raw.overview || '';
 
     const firstAirDate = raw.first_air_date ? raw.first_air_date.split('T')[0] : undefined;
@@ -199,11 +200,16 @@ export class Normalizer {
     const items: CalendarItem[] = [];
     const genreIds = title.genres.map((g) => g.id);
     const originalLanguage = title.languages[0]?.code || 'en';
+    const countries = title.countries.map((c) => c.code);
+    const providers = this.collectProviderIds(title);
+    const hasTrailer = title.videos.length > 0;
 
     if (title.type === 'movie') {
       // Find all distinct release dates across configured regions
       const seenDates = new Set<string>();
-      for (const [, dates] of Object.entries(title.releaseDates)) {
+      for (const [region, dates] of Object.entries(title.releaseDates)) {
+        if (!CONFIG.configuredRegions.includes(region)) continue;
+
         const types: string[] = [];
         let chosenDate: string | null = null;
 
@@ -228,7 +234,7 @@ export class Normalizer {
           items.push({
             id: title.id,
             type: 'movie',
-            title: title.originalTitle || title.title,
+            title: title.title || title.originalTitle,
             originalTitle: title.originalTitle || title.title,
             date: chosenDate,
             releaseTypes: types.length > 0 ? types : ['theatrical'],
@@ -236,7 +242,10 @@ export class Normalizer {
             rating: title.rating,
             voteCount: title.voteCount,
             genreIds,
-            originalLanguage
+            originalLanguage,
+            countries,
+            providers,
+            hasTrailer
           });
         }
       }
@@ -253,7 +262,7 @@ export class Normalizer {
         items.push({
           id: title.id,
           type: 'tv',
-          title: title.originalTitle || title.title,
+          title: title.title || title.originalTitle,
           originalTitle: title.originalTitle || title.title,
           date: item.date,
           releaseTypes: [item.type],
@@ -261,12 +270,26 @@ export class Normalizer {
           rating: title.rating,
           voteCount: title.voteCount,
           genreIds,
-          originalLanguage
+          originalLanguage,
+          countries,
+          providers,
+          hasTrailer
         });
       }
     }
 
     return items;
+  }
+
+  private static collectProviderIds(title: TitleDetail): number[] {
+    const ids = new Set<number>();
+    for (const [region, wp] of Object.entries(title.watchProviders)) {
+      if (!CONFIG.configuredRegions.includes(region)) continue;
+      for (const p of [...wp.flatrate, ...wp.rent, ...wp.buy, ...wp.free, ...wp.ads]) {
+        ids.add(p.id);
+      }
+    }
+    return Array.from(ids);
   }
 
   private static extractMovieReleaseDates(results?: any[]): Record<string, RegionReleaseDates> {
@@ -275,7 +298,7 @@ export class Normalizer {
 
     for (const regionData of results) {
       const regionCode = regionData.iso_3166_1;
-      if (!regionCode) continue;
+      if (!regionCode || !CONFIG.configuredRegions.includes(regionCode)) continue;
 
       const datesObj: RegionReleaseDates = {};
       const releaseList = regionData.release_dates || [];
@@ -320,6 +343,8 @@ export class Normalizer {
     if (!results || typeof results !== 'object') return providersByRegion;
 
     for (const [region, data] of Object.entries(results as Record<string, any>)) {
+      if (!CONFIG.configuredRegions.includes(region)) continue;
+
       const mapList = (list?: any[]): ProviderItem[] =>
         (list || []).map((p) => ({
           id: p.provider_id,

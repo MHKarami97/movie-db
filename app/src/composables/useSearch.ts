@@ -65,6 +65,7 @@ export function useSearch() {
         title: doc.title,
         originalTitle: doc.originalTitle,
         year: doc.year,
+        posterPath: doc.posterPath ?? null,
         isOnlineResult: false
       };
     });

@@ -26,5 +26,5 @@ export const WORKER_CONFIG = {
   searchEdgeCacheSeconds: 300, // 5 minutes
   titleCacheMaxAgeSeconds: 2592000, // 30 days edge cache for out-of-window titles
   title404CacheMaxAgeSeconds: 300, // 5 minutes
-  configuredRegions: ['US', 'GB', 'DE', 'IR', 'CA']
+  configuredRegions: ['US', 'GB', 'CN', 'AE']
 };

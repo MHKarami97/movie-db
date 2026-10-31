@@ -28,7 +28,7 @@ export const CONFIG: SyncConfig = {
   requestTimeoutMs: 15000,
   maxRetries: 4,
   baseRetryDelayMs: 600,
-  configuredRegions: ['US', 'GB', 'DE', 'IR', 'CA'],
+  configuredRegions: ['US', 'GB', 'CN', 'AE'],
   tmdbApiBaseUrl: 'https://api.themoviedb.org/3',
   minPopularity: 1.0,
   minVoteCountPast: 5,

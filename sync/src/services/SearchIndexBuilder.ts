@@ -22,7 +22,7 @@ export class SearchIndexBuilder {
 
       return {
         id: `${t.type}-${t.id}`,
-        title: t.originalTitle || t.title,
+        title: t.title || t.originalTitle,
         originalTitle: t.originalTitle || t.title,
         faTitle: t.translations?.faTitle || t.title,
         year,

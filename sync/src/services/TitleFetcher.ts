@@ -13,6 +13,7 @@ export class TitleFetcher {
 
   public async fetchMovie(id: number, fetchedAt = Date.now()): Promise<TitleDetail> {
     const raw = await this.client.get<any>(`/movie/${id}`, {
+      language: 'en-US',
       append_to_response: 'videos,credits,release_dates,watch/providers,external_ids,translations'
     });
     return Normalizer.normalizeMovie(raw, fetchedAt);
@@ -24,6 +25,7 @@ export class TitleFetcher {
     fetchedAt = Date.now()
   ): Promise<TitleDetail> {
     const raw = await this.client.get<any>(`/tv/${id}`, {
+      language: 'en-US',
       append_to_response: 'videos,credits,watch/providers,external_ids,translations'
     });
 
@@ -42,7 +44,7 @@ export class TitleFetcher {
         // If season airs within window or in future, or has no air date yet
         if (isNaN(airDateMs) || airDateMs >= cutoffMs) {
           try {
-            const seasonData = await this.client.get<any>(`/tv/${id}/season/${sNum}`);
+            const seasonData = await this.client.get<any>(`/tv/${id}/season/${sNum}`, { language: 'en-US' });
             if (seasonData?.episodes) {
               seasonEpisodesMap[sNum] = seasonData.episodes;
             }

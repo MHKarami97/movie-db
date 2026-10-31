@@ -8,6 +8,7 @@ import { WorkerClient } from '../services/WorkerClient.js';
 import { PersianUtils } from '../services/PersianUtils.js';
 import SvgIcon from '../components/common/SvgIcon.vue';
 import EmptyState from '../components/common/EmptyState.vue';
+import PosterImage from '../components/common/PosterImage.vue';
 import FilterDrawer from '../components/filter/FilterDrawer.vue';
 
 const route = useRoute();
@@ -108,15 +109,19 @@ function getPoster(path: string | null): string {
           :to="`/title/${item.type}/${item.id}`"
           class="group rounded-2xl border border-slate-800 bg-slate-900/40 hover:bg-slate-800/60 transition p-3 space-y-2.5 flex flex-col justify-between"
         >
-          <div class="aspect-[2/3] w-full rounded-xl bg-slate-800 overflow-hidden flex items-center justify-center text-slate-600">
-            <SvgIcon name="calendar" size="32" />
+          <div class="aspect-[2/3] w-full rounded-xl overflow-hidden relative">
+            <PosterImage
+              :src="getPoster(getPosterPath(item.type, item.id, item.posterPath))"
+              :alt="item.title"
+              img-class="group-hover:scale-105 transition duration-300"
+            />
           </div>
           <div>
             <span class="text-[10px] font-bold px-1.5 py-0.5 rounded bg-slate-800 text-slate-300 mb-1 inline-block">
               {{ item.type === 'movie' ? 'فیلم' : 'سریال' }}
             </span>
             <h4 class="text-xs font-bold text-slate-100 group-hover:text-amber-400 transition truncate text-right" dir="ltr">
-              {{ item.originalTitle || item.title }}
+              {{ item.title || item.originalTitle }}
             </h4>
           </div>
         </router-link>
@@ -135,23 +140,16 @@ function getPoster(path: string | null): string {
             :to="`/title/${item.type}/${item.id}`"
             class="group rounded-2xl border border-slate-800 bg-slate-900/60 hover:bg-slate-800/80 transition p-3 space-y-2.5 flex flex-col justify-between"
           >
-            <div class="aspect-[2/3] w-full rounded-xl bg-slate-800 overflow-hidden relative">
-              <img
-                v-if="item.posterPath"
+            <div class="aspect-[2/3] w-full rounded-xl overflow-hidden relative">
+              <PosterImage
                 :src="getPoster(item.posterPath)"
                 :alt="item.title"
-                loading="lazy"
-                decoding="async"
-                referrerpolicy="no-referrer"
-                class="h-full w-full object-cover group-hover:scale-105 transition duration-300"
+                img-class="group-hover:scale-105 transition duration-300"
               />
-              <div v-else class="flex h-full w-full items-center justify-center text-slate-600">
-                <SvgIcon name="calendar" size="32" />
-              </div>
             </div>
             <div>
               <h4 class="text-xs font-bold text-slate-100 group-hover:text-amber-400 transition truncate text-right" dir="ltr">
-                {{ item.originalTitle || item.title }}
+                {{ item.title || item.originalTitle }}
               </h4>
               <div class="flex items-center gap-1 text-[11px] text-amber-400 font-bold mt-1">
                 <SvgIcon name="star" size="12" className="text-amber-400 fill-amber-400" />
@@ -197,19 +195,12 @@ function getPoster(path: string | null): string {
           :to="`/title/${item.type}/${item.id}`"
           class="group rounded-2xl border border-slate-800 bg-slate-900/40 hover:bg-slate-800/60 transition p-3 flex flex-col justify-between space-y-2.5"
         >
-          <div class="aspect-[2/3] w-full rounded-xl bg-slate-800 overflow-hidden relative border border-slate-800">
-            <img
-              v-if="getPosterPath(item.type, item.id, item.posterPath)"
+          <div class="aspect-[2/3] w-full rounded-xl overflow-hidden relative border border-slate-800">
+            <PosterImage
               :src="getPoster(getPosterPath(item.type, item.id, item.posterPath))"
               :alt="getTitle(item.type, item.id, item.title)"
-              loading="lazy"
-              decoding="async"
-              referrerpolicy="no-referrer"
-              class="h-full w-full object-cover group-hover:scale-105 transition duration-300"
+              img-class="group-hover:scale-105 transition duration-300"
             />
-            <div v-else class="flex h-full w-full items-center justify-center text-slate-600">
-              <SvgIcon name="calendar" size="32" />
-            </div>
           </div>
 
           <div class="space-y-1">
