@@ -71,7 +71,7 @@ describe('Normalizer', () => {
 
     expect(normalized.id).toBe(101);
     expect(normalized.type).toBe('movie');
-    expect(normalized.title).toBe('تلقین'); // Persian title preferred
+    expect(normalized.title).toBe('Inception'); // Original/primary title preferred
     expect(normalized.originalTitle).toBe('Inception');
     expect(normalized.overview).toContain('یک دزد ماهر');
     expect(normalized.rating).toBe(8.4); // 8.35 rounded to 1 decimal

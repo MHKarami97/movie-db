@@ -2,7 +2,6 @@
 import { ref, computed } from 'vue';
 import { RegionWatchProviders } from '../../types/index.js';
 import { WorkerClient } from '../../services/WorkerClient.js';
-import SvgIcon from '../common/SvgIcon.vue';
 
 const props = defineProps<{
   watchProviders: Record<string, RegionWatchProviders>;
@@ -120,22 +119,6 @@ function getLogo(path: string): string {
 
     <div v-else class="text-xs text-slate-400 py-3 text-center">
       پلتفرم پخشی برای منطقه {{ activeRegion }} ثبت نشده است.
-    </div>
-
-    <!-- Mandatory JustWatch Attribution -->
-    <div class="pt-3 border-t border-slate-800/80 flex items-center justify-between text-[11px] text-slate-500">
-      <div class="flex items-center gap-1.5">
-        <span>اطلاعات پلتفرم‌ها توسط</span>
-        <a
-          :href="activeProviderData?.link || 'https://www.justwatch.com'"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="font-semibold text-amber-400/90 hover:underline inline-flex items-center gap-1"
-        >
-          <span>JustWatch</span>
-          <SvgIcon name="external-link" size="11" />
-        </a>
-      </div>
     </div>
   </div>
 </template>

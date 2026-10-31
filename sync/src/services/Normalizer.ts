@@ -21,14 +21,14 @@ export class Normalizer {
     const primaryGap = this.getPrimaryGap(regionGaps);
     const translations = this.extractPersianTranslation(raw.translations?.translations);
 
-    const title = translations.faTitle || raw.title || raw.original_title || '';
+    const title = raw.title || raw.original_title || '';
     const overview = translations.faOverview || raw.overview || '';
 
     return {
       id: raw.id,
       type: 'movie',
       title,
-      originalTitle: raw.original_title || '',
+      originalTitle: raw.original_title || raw.title || '',
       overview,
       tagline: raw.tagline || '',
       runtime: raw.runtime || null,
@@ -79,7 +79,7 @@ export class Normalizer {
   ): TitleDetail {
     const watchProviders = this.extractWatchProviders(raw['watch/providers']?.results);
     const translations = this.extractPersianTranslation(raw.translations?.translations);
-    const title = translations.faTitle || raw.name || raw.original_name || '';
+    const title = raw.name || raw.original_name || '';
     const overview = translations.faOverview || raw.overview || '';
 
     const firstAirDate = raw.first_air_date ? raw.first_air_date.split('T')[0] : undefined;
@@ -147,7 +147,7 @@ export class Normalizer {
       id: raw.id,
       type: 'tv',
       title,
-      originalTitle: raw.original_name || '',
+      originalTitle: raw.original_name || raw.name || '',
       overview,
       tagline: raw.tagline || '',
       runtime: raw.episode_run_time?.[0] || null,
@@ -228,8 +228,8 @@ export class Normalizer {
           items.push({
             id: title.id,
             type: 'movie',
-            title: title.title,
-            originalTitle: title.originalTitle,
+            title: title.originalTitle || title.title,
+            originalTitle: title.originalTitle || title.title,
             date: chosenDate,
             releaseTypes: types.length > 0 ? types : ['theatrical'],
             posterPath: title.posterPath,
@@ -253,8 +253,8 @@ export class Normalizer {
         items.push({
           id: title.id,
           type: 'tv',
-          title: title.title,
-          originalTitle: title.originalTitle,
+          title: title.originalTitle || title.title,
+          originalTitle: title.originalTitle || title.title,
           date: item.date,
           releaseTypes: [item.type],
           posterPath: title.posterPath,

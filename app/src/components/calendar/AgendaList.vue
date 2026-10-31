@@ -106,12 +106,9 @@ function getReleaseTypeLabel(type: string): string {
               </span>
             </div>
 
-            <h4 class="text-sm font-bold text-slate-100 group-hover:text-amber-400 transition truncate">
-              {{ item.title }}
+            <h4 class="text-sm font-bold text-slate-100 group-hover:text-amber-400 transition truncate text-right" dir="ltr">
+              {{ item.originalTitle || item.title }}
             </h4>
-            <p v-if="item.originalTitle !== item.title" class="text-xs text-slate-400 truncate dir-ltr text-right">
-              {{ item.originalTitle }}
-            </p>
           </div>
 
           <!-- Bottom Rating -->

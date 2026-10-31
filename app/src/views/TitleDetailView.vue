@@ -178,14 +178,11 @@ function getPoster(path: string | null): string {
               </div>
             </div>
 
-            <!-- Persian Title & Original Title -->
+            <!-- Title -->
             <div class="space-y-1">
-              <h1 class="text-xl sm:text-3xl md:text-4xl font-extrabold text-slate-100 tracking-tight leading-snug break-words">
-                {{ title.title }}
+              <h1 class="text-xl sm:text-3xl md:text-4xl font-extrabold text-slate-100 tracking-tight leading-snug break-words text-center md:text-right" dir="ltr">
+                {{ title.originalTitle || title.title }}
               </h1>
-              <p v-if="title.originalTitle !== title.title" class="text-xs sm:text-sm text-slate-400 font-medium dir-ltr text-center md:text-right truncate">
-                {{ title.originalTitle }}
-              </p>
             </div>
 
             <!-- Tagline -->

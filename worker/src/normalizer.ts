@@ -10,14 +10,14 @@ export class WorkerNormalizer {
     const primaryGap = this.getPrimaryGap(regionGaps);
     const translations = this.extractPersianTranslation(raw.translations?.translations);
 
-    const title = translations.faTitle || raw.title || raw.original_title || '';
+    const title = raw.title || raw.original_title || '';
     const overview = translations.faOverview || raw.overview || '';
 
     return {
       id: raw.id,
       type: 'movie',
       title,
-      originalTitle: raw.original_title || '',
+      originalTitle: raw.original_title || raw.title || '',
       overview,
       tagline: raw.tagline || '',
       runtime: raw.runtime || null,
@@ -78,7 +78,7 @@ export class WorkerNormalizer {
   public static normalizeTv(raw: any, fetchedAt = Date.now()): any {
     const watchProviders = this.extractWatchProviders(raw['watch/providers']?.results);
     const translations = this.extractPersianTranslation(raw.translations?.translations);
-    const title = translations.faTitle || raw.name || raw.original_name || '';
+    const title = raw.name || raw.original_name || '';
     const overview = translations.faOverview || raw.overview || '';
 
     const firstAirDate = raw.first_air_date ? raw.first_air_date.split('T')[0] : undefined;
@@ -131,7 +131,7 @@ export class WorkerNormalizer {
       id: raw.id,
       type: 'tv',
       title,
-      originalTitle: raw.original_name || '',
+      originalTitle: raw.original_name || raw.name || '',
       overview,
       tagline: raw.tagline || '',
       runtime: raw.episode_run_time?.[0] || null,

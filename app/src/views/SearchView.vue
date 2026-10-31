@@ -113,12 +113,9 @@ function getPoster(path: string | null): string {
             <span class="text-[10px] font-bold px-1.5 py-0.5 rounded bg-slate-800 text-slate-300 mb-1 inline-block">
               {{ item.type === 'movie' ? 'فیلم' : 'سریال' }}
             </span>
-            <h4 class="text-xs font-bold text-slate-100 group-hover:text-amber-400 transition truncate">
-              {{ item.title }}
+            <h4 class="text-xs font-bold text-slate-100 group-hover:text-amber-400 transition truncate text-right" dir="ltr">
+              {{ item.originalTitle || item.title }}
             </h4>
-            <p v-if="item.originalTitle" class="text-[11px] text-slate-400 truncate dir-ltr text-right">
-              {{ item.originalTitle }}
-            </p>
           </div>
         </router-link>
       </div>
@@ -151,8 +148,8 @@ function getPoster(path: string | null): string {
               </div>
             </div>
             <div>
-              <h4 class="text-xs font-bold text-slate-100 group-hover:text-amber-400 transition truncate">
-                {{ item.title }}
+              <h4 class="text-xs font-bold text-slate-100 group-hover:text-amber-400 transition truncate text-right" dir="ltr">
+                {{ item.originalTitle || item.title }}
               </h4>
               <div class="flex items-center gap-1 text-[11px] text-amber-400 font-bold mt-1">
                 <SvgIcon name="star" size="12" className="text-amber-400 fill-amber-400" />

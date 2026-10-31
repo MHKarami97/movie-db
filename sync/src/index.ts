@@ -55,6 +55,14 @@ export async function runSync(options?: {
     `[sync] Loaded from disk: ${existingKnownIds.length} known IDs, ${existingTitles.length} title details`
   );
 
+  // Ensure all existing titles use their original/primary name
+  for (const t of existingTitles) {
+    if (t.originalTitle && t.title !== t.originalTitle) {
+      t.title = t.originalTitle;
+      jsonStore.writeTitleDetail(t);
+    }
+  }
+
   // Discover all titles in window
   console.log(`[sync] Discovering movie and TV titles in window slices...`);
   const discoveredInWindow = await discoverService.discoverAllInWindow(windowStart, windowEnd);
