@@ -1,6 +1,7 @@
 import { ITmdbClient } from '../client/TmdbClient.js';
 import { TitleDetail } from '../types.js';
 import { Normalizer } from './Normalizer.js';
+import { CONFIG } from '../config.js';
 
 /* eslint-disable @typescript-eslint/no-explicit-any */
 
@@ -16,7 +17,7 @@ export class TitleFetcher {
       language: 'en-US',
       append_to_response: 'videos,credits,release_dates,watch/providers,external_ids,translations'
     });
-    return Normalizer.normalizeMovie(raw, fetchedAt);
+    return { ...Normalizer.normalizeMovie(raw, fetchedAt), schemaVersion: CONFIG.titleSchemaVersion };
   }
 
   public async fetchTv(
@@ -55,6 +56,9 @@ export class TitleFetcher {
       }
     }
 
-    return Normalizer.normalizeTv(raw, seasonEpisodesMap, fetchedAt);
+    return {
+      ...Normalizer.normalizeTv(raw, seasonEpisodesMap, fetchedAt),
+      schemaVersion: CONFIG.titleSchemaVersion
+    };
   }
 }

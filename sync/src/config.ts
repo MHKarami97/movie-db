@@ -10,6 +10,7 @@ export interface SyncConfig {
   maxRetries: number;
   baseRetryDelayMs: number;
   configuredRegions: string[];
+  titleSchemaVersion: number;
   tmdbApiBaseUrl: string;
   minPopularity: number;
   minVoteCountPast: number;
@@ -29,6 +30,8 @@ export const CONFIG: SyncConfig = {
   maxRetries: 4,
   baseRetryDelayMs: 600,
   configuredRegions: ['US', 'GB', 'CN', 'AE'],
+  // Bump to force every stored title to be re-fetched (e.g. after fixing normalization).
+  titleSchemaVersion: 2,
   tmdbApiBaseUrl: 'https://api.themoviedb.org/3',
   minPopularity: 1.0,
   minVoteCountPast: 5,

@@ -55,14 +55,6 @@ export async function runSync(options?: {
     `[sync] Loaded from disk: ${existingKnownIds.length} known IDs, ${existingTitles.length} title details`
   );
 
-  // Ensure all existing titles use their original/primary name
-  for (const t of existingTitles) {
-    if (t.originalTitle && t.title !== t.originalTitle) {
-      t.title = t.originalTitle;
-      jsonStore.writeTitleDetail(t);
-    }
-  }
-
   // Discover all titles in window
   console.log(`[sync] Discovering movie and TV titles in window slices...`);
   const discoveredInWindow = await discoverService.discoverAllInWindow(windowStart, windowEnd);
@@ -106,6 +98,20 @@ export async function runSync(options?: {
 
   // Fetch new items
   const fetchQueue = [...plan.toFetchNew, ...plan.toRefreshOldest];
+
+  // Re-fetch in-window records stored with an outdated schema (e.g. wrong titles written by older versions).
+  const discoveredKeys = new Set(discoveredInWindow.map((d) => `${d.type}-${d.id}`));
+  const queuedKeys = new Set(fetchQueue.map((q) => `${q.type}-${q.id}`));
+  const schemaBudget = Number(process.env.SYNC_REFRESH_BUDGET) || CONFIG.refreshBudgetPerRun;
+  const outdated = Array.from(titlesMap.values())
+    .filter((t) => {
+      const key = `${t.type}-${t.id}`;
+      return (t.schemaVersion ?? 0) < CONFIG.titleSchemaVersion && discoveredKeys.has(key) && !queuedKeys.has(key);
+    })
+    .slice(0, schemaBudget)
+    .map((t): KnownId => ({ type: t.type, id: t.id }));
+  console.log(`[sync] Outdated-schema records queued for re-fetch: ${outdated.length} (budget ${schemaBudget}).`);
+  fetchQueue.push(...outdated);
   let processed = 0;
 
   for (const item of fetchQueue) {

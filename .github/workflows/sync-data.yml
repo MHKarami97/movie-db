@@ -4,7 +4,12 @@ on:
   schedule:
     # Run every 12 hours at 00:00 and 12:00 UTC
     - cron: '0 0,12 * * *'
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      refresh_budget:
+        description: 'Max outdated records to re-fetch in this run (empty = default 200)'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -64,6 +69,7 @@ jobs:
       - name: Run TMDB Sync
         env:
           TMDB_READ_TOKEN: ${{ secrets.TMDB_READ_TOKEN }}
+          SYNC_REFRESH_BUDGET: ${{ github.event.inputs.refresh_budget }}
         run: |
           node sync/dist/index.js
 

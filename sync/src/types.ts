@@ -131,6 +131,7 @@ export interface TitleDetail {
   rating: number;
   voteCount: number;
   fetchedAt: number;
+  schemaVersion?: number;
 
   // TV specific
   seasons?: TvSeasonSummary[];
