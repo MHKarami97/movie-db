@@ -52,14 +52,18 @@ jobs:
             echo "Copying data branch JSON files into dist/data..."
             git clone --branch data --single-branch --depth 1 "$REMOTE_REPO" temp_data
             rm -rf temp_data/.git
-            cp -r temp_data/* app/dist/data/ || true
+            cp -a temp_data/. app/dist/data/
             rm -rf temp_data
           else
             echo "Notice: 'data' branch does not exist yet. Using empty data folder."
           fi
 
-      - name: Ensure 404.html SPA Fallback Exists in Dist
+      - name: Ensure Fallbacks and Config Exist in Dist
         run: |
+          touch app/dist/.nojekyll
+          if [ -f app/public/CNAME ]; then
+            cp app/public/CNAME app/dist/CNAME
+          fi
           if [ -f app/public/404.html ]; then
             cp app/public/404.html app/dist/404.html
           fi
