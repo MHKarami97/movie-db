@@ -1,18 +1,9 @@
 import { describe, it, expect } from 'vitest';
 import worker from '../src/index.js';
 
-describe('Worker Routes & Validation', () => {
+describe('Worker Routes & Validation (Zero-D1)', () => {
   const dummyEnv = {
-    DB: {
-      prepare: () => ({
-        bind: () => ({
-          first: async () => null,
-          run: async () => ({ meta: { changes: 0 } })
-        })
-      }),
-      batch: async () => []
-    } as any,
-    TMDB_READ_TOKEN: 'dummy-token',
+    TMDB_READ_TOKEN: 'secret-auth-token',
     ALLOWED_ORIGIN: '*'
   };
 
@@ -66,13 +57,13 @@ describe('Worker Routes & Validation', () => {
     expect(body).toContain('Query parameter "q" must be between 1 and 100 characters');
   });
 
-  it('returns health check status', async () => {
+  it('returns health check status with zero-d1-cache mode', async () => {
     const req = new Request('http://localhost/health');
     const res = await worker.fetch(req, dummyEnv, dummyCtx);
 
     expect(res.status).toBe(200);
     const data = await res.json();
     expect(data.status).toBe('ok');
-    expect(data.service).toBe('tmdb-worker');
+    expect(data.mode).toBe('zero-d1-cache');
   });
 });

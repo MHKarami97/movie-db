@@ -1,5 +1,4 @@
 export interface WorkerBindings {
-  DB: D1Database;
   TMDB_READ_TOKEN: string;
   ALLOWED_ORIGIN?: string;
 }
@@ -25,7 +24,7 @@ export const WORKER_CONFIG = {
   imageCacheMaxAgeSeconds: 7776000, // 90 days (TMDB terms compliant)
   image404CacheMaxAgeSeconds: 300, // 5 minutes
   searchEdgeCacheSeconds: 300, // 5 minutes
-  d1FreshnessDays: 30, // Re-fetch from TMDB if older than 30 days
-  d1StaleMaxDays: 90, // Hard purge from D1 after 90 days
+  titleCacheMaxAgeSeconds: 2592000, // 30 days edge cache for out-of-window titles
+  title404CacheMaxAgeSeconds: 300, // 5 minutes
   configuredRegions: ['US', 'GB', 'DE', 'IR', 'CA']
 };
