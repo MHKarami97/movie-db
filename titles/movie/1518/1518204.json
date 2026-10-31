@@ -1,0 +1,128 @@
+{
+  "backdropPath": "/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 1667890,
+      "name": "T.J. Power",
+      "profilePath": "/v7SPjOZx9gIFXK3LmtFzYeXP1He.jpg"
+    },
+    {
+      "character": "",
+      "id": 1434826,
+      "name": "Charlotte Nicdao",
+      "profilePath": "/rCqf3HcEr4GmSYAMqmdEpo6cZwr.jpg"
+    },
+    {
+      "character": "",
+      "id": 1056053,
+      "name": "Josh Helman",
+      "profilePath": "/1thwLjrgvFv7ifjyVtTKQh23OCh.jpg"
+    },
+    {
+      "character": "",
+      "id": 1275904,
+      "name": "Benedict Hardie",
+      "profilePath": "/bf02Dz4LMV23scJC6c8P4R6xji6.jpg"
+    },
+    {
+      "character": "",
+      "id": 15577,
+      "name": "Emily Barclay",
+      "profilePath": "/xGX91Byjuxa83yGadH375Ep9fgm.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 81576,
+      "logoPath": "/m1sQ0FG05KeveKGufbcJbsHUKYi.png",
+      "name": "Ludo Studio"
+    },
+    {
+      "id": 10950,
+      "logoPath": "/6TdE9m9KgV2az7vNI8n95rQiYr3.png",
+      "name": "Screen Queensland"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    }
+  ],
+  "digitalDate": "2026-11-12",
+  "externalIds": {
+    "imdbId": "tt37675123"
+  },
+  "fetchedAt": 1794071861044,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "id": 1518204,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Allen",
+  "overview": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated — and unexpected.",
+  "posterPath": "/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-12"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Allen",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "P8G5Y25W3eA",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "ptDdR2BMmsA",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,227 @@
+{
+  "backdropPath": "/im5reyQPEWcYTaK0Bz8tCpqPZj9.jpg",
+  "cast": [
+    {
+      "character": "Mia",
+      "id": 3677275,
+      "name": "Penelope Sangiorgi",
+      "profilePath": null
+    },
+    {
+      "character": "Paolo",
+      "id": 3698229,
+      "name": "Matteo Pasquini",
+      "profilePath": "/4XDmfPGtlA4VWMyXlMBxX2g0mG4.jpg"
+    },
+    {
+      "character": "Gloria",
+      "id": 1880100,
+      "name": "Francesca Vettori",
+      "profilePath": null
+    },
+    {
+      "character": "Greta Lamar",
+      "id": 1882002,
+      "name": "Donatella Bartoli",
+      "profilePath": "/eN1no1w6NHZSabnVBYKMqVRjvvu.jpg"
+    },
+    {
+      "character": "Michael",
+      "id": 4849782,
+      "name": "David Ajayi",
+      "profilePath": null
+    },
+    {
+      "character": "Simone",
+      "id": 3228786,
+      "name": "Simone Valentino",
+      "profilePath": null
+    },
+    {
+      "character": "Igor",
+      "id": 4281772,
+      "name": "Igor Toniazzo",
+      "profilePath": null
+    },
+    {
+      "character": "Leonardo",
+      "id": 5619848,
+      "name": "Andrea Caldi",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 270820,
+      "logoPath": null,
+      "name": "T3 Directors S.r.l."
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": "2025-10-25",
+  "externalIds": {
+    "imdbId": "tt32270641"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1528625,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Grieving",
+  "overview": "Mia, a mourning daughter, attempts to lay her father to rest, only to uncover the dangerous demons he was battling. As she struggles to make sense of a world without him, grief gives way to a chilling truth.",
+  "posterPath": "/x1JOtA7iSVJDOQG4gpj3ujXepKh.jpg",
+  "rating": 3.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-25",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-10-25"
+    }
+  },
+  "runtime": 95,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Grieving",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "LgtfbCpI3Vs",
+      "name": "The Grieving | Horror Movie Trailer | Horror Brains",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 332,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango at Home Free"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        },
+        {
+          "id": 2077,
+          "logoPath": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+          "name": "Plex Channel"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1528625-the-grieving/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

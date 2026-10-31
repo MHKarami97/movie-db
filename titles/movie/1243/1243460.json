@@ -1,0 +1,218 @@
+{
+  "backdropPath": "/dbr3eceKuGnKc9v5GaVTVtegZNK.jpg",
+  "cast": [
+    {
+      "character": "Joe / Madea / Brian",
+      "id": 80602,
+      "name": "Tyler Perry",
+      "profilePath": "/8KU0OizemVLrERXt5HJIa0PAkIN.jpg"
+    },
+    {
+      "character": "BJ",
+      "id": 2538063,
+      "name": "Jermaine Harris",
+      "profilePath": "/cglG5hOKRJWVd9f41ihxnaqp7fY.jpg"
+    },
+    {
+      "character": "Destiny",
+      "id": 2627621,
+      "name": "Amber Reign Smith",
+      "profilePath": "/3YMyankl95BdQe183GZohfdloAL.jpg"
+    },
+    {
+      "character": "Vikki",
+      "id": 1254367,
+      "name": "Bethany Anne Lind",
+      "profilePath": "/d0FjeKbWYhbTzFSimCnC9K1Maza.jpg"
+    },
+    {
+      "character": "Garrett",
+      "id": 108694,
+      "name": "Jeremy Gimenez",
+      "profilePath": "/o599alnl49u8NNYzE7WZfdKDiaD.jpg"
+    },
+    {
+      "character": "Geraldine",
+      "id": 1214153,
+      "name": "Millie Jackson",
+      "profilePath": "/qtyd5p1Ml2QRXCDVCw2ayIQ1GpQ.jpg"
+    },
+    {
+      "character": "Stewart",
+      "id": 2648357,
+      "name": "Wil Deusner",
+      "profilePath": "/uIo2SXuel3aeVRq6NX3AivuWCo5.jpg"
+    },
+    {
+      "character": "Pearl",
+      "id": 1137367,
+      "name": "Patricia Williams",
+      "profilePath": "/sQ1VJzwcoog5ePZWMSXKzUBWTlg.jpg"
+    },
+    {
+      "character": "Kathryn",
+      "id": 2187838,
+      "name": "Deetta West",
+      "profilePath": "/eup8kRxSRRfo14r2sfDPJXkch2s.jpg"
+    },
+    {
+      "character": "Neighbor",
+      "id": 3037265,
+      "name": "Shawn Alexander Thompson",
+      "profilePath": "/iFkEg38hL9We4PqCQiAC1mhKkG2.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 3096,
+      "logoPath": "/fkZTZ4veYYr3lwr2riVrVAOfeqD.png",
+      "name": "Tyler Perry Studios"
+    },
+    {
+      "id": 178464,
+      "logoPath": "/tyHnxjQJLH6h4iDQKhN5iqebWmX.png",
+      "name": "Netflix"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-02-13",
+  "externalIds": {
+    "imdbId": "tt33603921",
+    "wikidataId": "Q124739611"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1243460,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Joe's College Road Trip",
+  "overview": "To teach his sheltered grandson about the real world, Madea's foul-mouthed brother Joe takes the college-bound teen on a raucous cross-country road trip.",
+  "posterPath": "/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-02-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-02-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-13",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-02-13"
+    },
+    "GB": {
+      "digital": "2026-02-13"
+    },
+    "US": {
+      "digital": "2026-02-13"
+    }
+  },
+  "runtime": 109,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "This ain't no field trip.",
+  "theatricalDate": null,
+  "title": "Joe's College Road Trip",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "yuBO0wfQKR0",
+      "name": "Official Red Band Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "wAFF7SwGY_k",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 77,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1243460-joe-s-college-road-trip/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1243460-joe-s-college-road-trip/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1243460-joe-s-college-road-trip/watch?locale=US",
+      "rent": []
+    }
+  }
+}

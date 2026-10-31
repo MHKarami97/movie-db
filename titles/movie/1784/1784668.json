@@ -1,0 +1,80 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 78060,
+      "logoPath": "/kx7pYjeFxOwo5Kxg4dd2zmr75x9.png",
+      "name": "Muiraquitã Filmes"
+    },
+    {
+      "id": 314171,
+      "logoPath": null,
+      "name": "Timberwolf Filmes"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt46787215"
+  },
+  "fetchedAt": 1795811653654,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1784668,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "Sobre Memória e Esquecimento",
+  "overview": "In Brazil, bereaved families from different eras search for the remains of their loved ones and the truth about how they died. In old home movies, the dead come back to life. But even decades later, the authorities would rather keep the facts hidden.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 86,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Regarding Memory and Neglect",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

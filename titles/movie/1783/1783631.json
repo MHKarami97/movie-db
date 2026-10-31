@@ -1,0 +1,116 @@
+{
+  "backdropPath": "/4yJ1KRQOnysyzG3X48hx40nUrhT.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 31167,
+      "name": "Elizabeth Mitchell",
+      "profilePath": "/tpagVmiCbOQ8CPiRxF5MuZGfZGV.jpg"
+    },
+    {
+      "character": "",
+      "id": 12799,
+      "name": "Jeremy Piven",
+      "profilePath": "/pBD1jcAZiDrHWcFpJtBtqLRD4gR.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2026-11-02",
+  "externalIds": {},
+  "fetchedAt": 1795557021035,
+  "gapDays": null,
+  "genres": [],
+  "id": 1783631,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "A Christmas Wish for Everyone",
+  "overview": "With her café facing closure before Christmas, Elle discovers a magical chair that brings romance and renewed hope.",
+  "posterPath": "/f6rpd1NFfNiR2agsfGdPJItHB5P.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-02",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-02"
+    }
+  },
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "A Christmas Wish for Everyone",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1783631-a-christmas-wish-for-everyone/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        }
+      ]
+    }
+  }
+}

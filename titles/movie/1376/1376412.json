@@ -1,0 +1,146 @@
+{
+  "backdropPath": "/bPGFqHk5Qfo0PDoYXFSCnXqIYgI.jpg",
+  "cast": [
+    {
+      "character": "Fournier",
+      "id": 45152,
+      "name": "Olivier Gourmet",
+      "profilePath": "/dxylGdqFfe6WiXaZGZnFTfvyyZm.jpg"
+    },
+    {
+      "character": "Audrey",
+      "id": 228714,
+      "name": "Ana Girardot",
+      "profilePath": "/axcopunXu4j6XHcm34YjBf0Ua19.jpg"
+    },
+    {
+      "character": "Ronan",
+      "id": 35894,
+      "name": "Julien Frison",
+      "profilePath": "/8WjUdv56Ipwzbc2fyWGSuO6y5OM.jpg"
+    },
+    {
+      "character": "Axel",
+      "id": 566080,
+      "name": "Jonas Bloquet",
+      "profilePath": "/ivbElHgLKv8PaVc2A9zIZSMSPcv.jpg"
+    },
+    {
+      "character": "Gaëlle",
+      "id": 2570303,
+      "name": "Camille Moutawakil",
+      "profilePath": "/cA6lLWri04MYktk9R9Ry50ZoFXB.jpg"
+    },
+    {
+      "character": "Corinne",
+      "id": 59045,
+      "name": "Catherine Vinatier",
+      "profilePath": "/lXaZiLi9DFMpfrWoX018zFKkjR7.jpg"
+    },
+    {
+      "character": "Sandrine",
+      "id": 2211618,
+      "name": "Camille Sansterre",
+      "profilePath": "/q3wpuwQWS52SMqTZkTZ819pFrvH.jpg"
+    },
+    {
+      "character": "Xavier Lambert",
+      "id": 1173490,
+      "name": "Grégoire Monsaingeon",
+      "profilePath": "/iXkVKP3Hw1ppSFJFbqRsYzIrxB1.jpg"
+    },
+    {
+      "character": "Paul Vidal",
+      "id": 146212,
+      "name": "Grégoire Oestermann",
+      "profilePath": "/gBDwBSDnd4EwOB9SzenZwDarJIy.jpg"
+    },
+    {
+      "character": "Dubois",
+      "id": 53666,
+      "name": "Chad Chenouga",
+      "profilePath": "/mHOyHEk2h0omcbg8WhLkGKwlKc6.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 242754,
+      "logoPath": null,
+      "name": "Les Films de Jeanne"
+    },
+    {
+      "id": 137571,
+      "logoPath": null,
+      "name": "La Filmerie"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34890499",
+    "wikidataId": "Q138621582"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1376412,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "La Guerre des prix",
+  "overview": "",
+  "posterPath": "/vyjgmwVgSn10aqDojeztAwnDqWL.jpg",
+  "rating": 6.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 96,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Price to Pay",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 26,
+  "watchProviders": {}
+}

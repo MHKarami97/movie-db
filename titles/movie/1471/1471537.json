@@ -1,0 +1,187 @@
+{
+  "backdropPath": "/4BNEdfmgM2cZF1yNeE6bT0tIK63.jpg",
+  "cast": [
+    {
+      "character": "Edith",
+      "id": 1310711,
+      "name": "Lisa Loven Kongsli",
+      "profilePath": "/pm5y6qrZqinsYZW0Rud1DjYU4mP.jpg"
+    },
+    {
+      "character": "Niels",
+      "id": 1083266,
+      "name": "Herbert Nordrum",
+      "profilePath": "/wMT9o2WNfLGE4dD8Rkt2Rem4Ljt.jpg"
+    },
+    {
+      "character": "Thorbjørn",
+      "id": 74718,
+      "name": "Rolf Kristian Larsen",
+      "profilePath": "/q7wEyE3wIL7MEvJIUPCsBCOC3Y5.jpg"
+    },
+    {
+      "character": "Marie",
+      "id": 1816217,
+      "name": "Nasrin Khusrawi",
+      "profilePath": "/kD6wHXQnYYiyfc8ksZdtRgmwQNB.jpg"
+    },
+    {
+      "character": "Redaktør",
+      "id": 1479716,
+      "name": "Kaveh Tehrani",
+      "profilePath": "/p3ZkCYPxKx5cT9MZCbDw5lY8dZr.jpg"
+    },
+    {
+      "character": "Dorte",
+      "id": 63751,
+      "name": "Celine Engebrigtsen",
+      "profilePath": "/soEzh6VhQnfNbIsUEl2eXbRqP5.jpg"
+    },
+    {
+      "character": "Trine",
+      "id": 2543732,
+      "name": "Trude-Sofie Olavsrud Anthonsen",
+      "profilePath": "/wvxNdLcLICubCDhgEPAkhlU3V6t.jpg"
+    },
+    {
+      "character": "Selma",
+      "id": 3685982,
+      "name": "Stine Fevik",
+      "profilePath": "/51xbUR7t9cHvu6h47IoKm9P1RBR.jpg"
+    },
+    {
+      "character": "Aftenposten Journalist",
+      "id": 3581448,
+      "name": "Pål Richard Lunderby",
+      "profilePath": "/gkuBhw7zvobRWhAfQC3nkOwrLvO.jpg"
+    },
+    {
+      "character": "Aftenposten Journalist",
+      "id": 5451382,
+      "name": "Stian Broen Aarhus",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 37251,
+      "logoPath": "/cm5artJfDk59F41dDOrnYMx0kC8.png",
+      "name": "Bacon"
+    },
+    {
+      "id": 79143,
+      "logoPath": "/qIa22fhd6RWz6zTDCgVAN6U0u7J.png",
+      "name": "Mistrus Media"
+    },
+    {
+      "id": 182888,
+      "logoPath": "/gFEyZ85vMqEzVbyUD3PPNzQC6Kb.png",
+      "name": "Dansu Films"
+    },
+    {
+      "id": 77245,
+      "logoPath": "/oamefwuc0Ljz5dNF58G58LsgInH.png",
+      "name": "It's Alive Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "NO",
+      "name": "Norway"
+    },
+    {
+      "code": "FI",
+      "name": "Finland"
+    },
+    {
+      "code": "LV",
+      "name": "Latvia"
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania"
+    },
+    {
+      "code": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35485652",
+    "wikidataId": "Q135400432"
+  },
+  "fetchedAt": 1793504874718,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1471537,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "no",
+      "name": "Norwegian"
+    }
+  ],
+  "originalTitle": "Solomamma",
+  "overview": "Edith is a curiosity-driven journalist and single mother. Solo parenting proves to be complicated, but when the identity of the man who donated the sperm that got her pregnant surfaces, she seeks him out under the false pretext of interviewing him about his company.",
+  "posterPath": "/l57DviQNrx9p23vGwDmpAkUZKIo.jpg",
+  "rating": 7.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2025-10-17"
+    }
+  },
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Solomamma",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "5C5Ydvv2qIY",
+      "name": "Solomamma - Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {}
+}

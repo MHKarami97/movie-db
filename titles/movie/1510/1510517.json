@@ -1,0 +1,181 @@
+{
+  "backdropPath": "/qbSUXnjEMO09BT7cKsLCb1SsZid.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 78909,
+      "name": "Michael Bisping",
+      "profilePath": "/x54HLmIvhVHw3RESbAA2c1Z1HYD.jpg"
+    },
+    {
+      "character": "",
+      "id": 9777,
+      "name": "Cuba Gooding Jr.",
+      "profilePath": "/2JguzbpOXoTGzSmLbWFlulKyyAe.jpg"
+    },
+    {
+      "character": "",
+      "id": 1021441,
+      "name": "George Finn",
+      "profilePath": "/jtNwJx0VZv1N1wa9VfRfxsrrBWs.jpg"
+    },
+    {
+      "character": "",
+      "id": 86468,
+      "name": "Sarah Wayne Callies",
+      "profilePath": "/uBtFalxNR1O0eARg0lsyLXkoJNG.jpg"
+    },
+    {
+      "character": "",
+      "id": 1080862,
+      "name": "Anne Winters",
+      "profilePath": "/6nRHPwjVToMsoCqdukS1kBxSyOa.jpg"
+    },
+    {
+      "character": "",
+      "id": 2514314,
+      "name": "Lara Wolf",
+      "profilePath": "/l2nYt7kKmQgUYCmpxY9jiL4LEXO.jpg"
+    },
+    {
+      "character": "",
+      "id": 5577841,
+      "name": "Tetiana Dar",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 4433640,
+      "name": "Jeff Perkins",
+      "profilePath": "/nnwlU0raxgJuZ6Y3wKXPRGcK6yM.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 268635,
+      "logoPath": null,
+      "name": "Punch It Films"
+    },
+    {
+      "id": 35668,
+      "logoPath": null,
+      "name": "Storyman Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-08-21",
+  "externalIds": {
+    "imdbId": "tt36460398"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1510517,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Atlas King",
+  "overview": "Ex-fighter returns from exile to bury his best friend and confront old rivalries. Reuniting with his godson, a streetwise enforcer entangled with a powerful crime syndicate, the two hatch a high-stakes heist in a desperate bid to escape the grip of a ruthless mob bos",
+  "posterPath": "/kiqTyCJxng3X6KFiyQ4GqJa0N8e.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-08-21",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-08-21"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Atlas King",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "RZ_3toFBlq4",
+      "name": "Atlas King Official Trailer (2026)",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1510517-atlas-king/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

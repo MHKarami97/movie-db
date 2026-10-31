@@ -1,0 +1,339 @@
+{
+  "backdropPath": "/yGH7ke2rbeSI4IZx90UzIrMlWLq.jpg",
+  "cast": [
+    {
+      "character": "Samantha Lake",
+      "id": 32798,
+      "name": "Elisabeth Moss",
+      "profilePath": "/vZDe22EtLtcHvPr28l4ZM0b7qjG.jpg"
+    },
+    {
+      "character": "Zoe Shannon",
+      "id": 11661,
+      "name": "Kate Hudson",
+      "profilePath": "/s79lH1QzEg2fkXULKBxRmU9aNr8.jpg"
+    },
+    {
+      "character": "Chloe Benson",
+      "id": 1957145,
+      "name": "Kaia Gerber",
+      "profilePath": "/wO3y1JaO32GhqTVE7AE3ABkz1o7.jpg"
+    },
+    {
+      "character": "Dr. Hubert",
+      "id": 457386,
+      "name": "Arian Moayed",
+      "profilePath": "/hYBqwt0HelUqgKSd1VDUAyvfDME.jpg"
+    },
+    {
+      "character": "Lydia",
+      "id": 1741366,
+      "name": "Este Haim",
+      "profilePath": "/aUVgUkRK980y030GMCNFsvRP9Vh.jpg"
+    },
+    {
+      "character": "Jenna Janero",
+      "id": 19189,
+      "name": "Elizabeth Berkley",
+      "profilePath": "/ibYmq9qTMV3haM9ITDmUpbl45Qu.jpg"
+    },
+    {
+      "character": "TV Anchor",
+      "id": 1719000,
+      "name": "Leanne Suter",
+      "profilePath": "/uodzHOEPwwBcf8FBP3aWr9J8et7.jpg"
+    },
+    {
+      "character": "Detective Flores",
+      "id": 357551,
+      "name": "Amy Landecker",
+      "profilePath": "/6UMXVrMsM4ogTqB63UFHMDB6mqD.jpg"
+    },
+    {
+      "character": "Detective Abramson",
+      "id": 2320708,
+      "name": "Lionel Boyce",
+      "profilePath": "/sTxjfODyzgOiQD8OgeMjpdjfdJ4.jpg"
+    },
+    {
+      "character": "Audrey",
+      "id": 3002062,
+      "name": "Ziwe",
+      "profilePath": "/5f8YNcNXvHrE9kh8viuKaSvhprI.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 137619,
+      "logoPath": null,
+      "name": "Love & Squalor Pictures"
+    },
+    {
+      "id": 1786,
+      "logoPath": "/dVSnNBwhb0WW5zGis3HjI6Q66Gp.png",
+      "name": "Dark Castle Entertainment"
+    },
+    {
+      "id": 125584,
+      "logoPath": "/56Lrmj9izLx7SEa0uPp0fVvssea.png",
+      "name": "Aperture Media Partners"
+    },
+    {
+      "id": 236263,
+      "logoPath": "/y17qPymSqFnCAsCQMF1VszHDl4h.png",
+      "name": "Range Studios"
+    },
+    {
+      "id": 85654,
+      "logoPath": null,
+      "name": "Blank Tape"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-10-03",
+  "externalIds": {
+    "imdbId": "tt12706836",
+    "wikidataId": "Q124214428"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 787747,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Shell",
+  "overview": "Desperate to reclaim her career, once-beloved actress Samantha Lake is drawn into the glamorous world of wellness mogul Zoe Shannon - only to uncover a monstrous truth beneath its flawless surface.",
+  "posterPath": "/2XBNS8DxMFP7qOoTOY7cc8OYFwI.jpg",
+  "rating": 5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-11-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-03",
+      "gapDays": 0,
+      "theatricalDate": "2025-10-03"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2025-11-03"
+    },
+    "US": {
+      "digital": "2025-10-03",
+      "premiere": "2025-08-17",
+      "theatricalLimited": "2025-10-03"
+    }
+  },
+  "runtime": 102,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Be the best version of yourself.",
+  "theatricalDate": "2025-10-03",
+  "title": "Shell",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "R6W6YzhRuTA",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 89,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 531,
+          "logoPath": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+          "name": "Paramount Plus"
+        },
+        {
+          "id": 582,
+          "logoPath": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        },
+        {
+          "id": 2303,
+          "logoPath": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "id": 2304,
+          "logoPath": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+          "name": "Paramount Plus Basic with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/787747-shell/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2303,
+          "logoPath": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "id": 582,
+          "logoPath": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        },
+        {
+          "id": 633,
+          "logoPath": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+          "name": "Paramount+ Roku Premium Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/787747-shell/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

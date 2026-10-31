@@ -1,0 +1,321 @@
+{
+  "backdropPath": "/A1prqBBKiwfnahBnNgM1t5y5vmA.jpg",
+  "cast": [
+    {
+      "character": "Alicia",
+      "id": 2744,
+      "name": "Carmen Maura",
+      "profilePath": "/sXvr7BvxscBkYpGTcYjpqbzkUSH.jpg"
+    },
+    {
+      "character": "Pedro",
+      "id": 131867,
+      "name": "Daniel Hendler",
+      "profilePath": "/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg"
+    },
+    {
+      "character": "Laura",
+      "id": 1205006,
+      "name": "Agustina Liendo",
+      "profilePath": null
+    },
+    {
+      "character": "Elena",
+      "id": 5055166,
+      "name": "Emma Cetrángolo",
+      "profilePath": "/yJeZGb94F0Z5beuR1nKlh3mNYkP.jpg"
+    },
+    {
+      "character": "",
+      "id": 50928,
+      "name": "Germán de Silva",
+      "profilePath": "/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg"
+    },
+    {
+      "character": "Victoria",
+      "id": 1728864,
+      "name": "Camila Peralta",
+      "profilePath": "/tmCYBZ8rCdLsK8hgjB1EBh83Cz8.jpg"
+    },
+    {
+      "character": "Ramiro",
+      "id": 1117847,
+      "name": "Ezequiel Díaz",
+      "profilePath": "/xABb3qvk74FLYyUma6Zm61nYkWT.jpg"
+    },
+    {
+      "character": "Mujer laguna 1",
+      "id": 4330830,
+      "name": "Ana Belatti",
+      "profilePath": null
+    },
+    {
+      "character": "Mujer laguna 2",
+      "id": 5957190,
+      "name": "Mercedes Mendizábal",
+      "profilePath": null
+    },
+    {
+      "character": "Mujer laguna 3",
+      "id": 3511308,
+      "name": "Olivia Nuss",
+      "profilePath": "/s7XvZq9UYjb5pCckIOx6np8m6ix.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 53490,
+      "logoPath": "/vxp5kGnG7XIixTsYWtonNzarBUB.png",
+      "name": "La Trini"
+    },
+    {
+      "id": 134166,
+      "logoPath": "/tINT6vMiVhG0LuLbDYxXZlGMm6L.png",
+      "name": "Primo Content"
+    },
+    {
+      "id": 27628,
+      "logoPath": "/bh3pBLmTPkgrD41WqFzJ2hQgvaF.png",
+      "name": "Bambú Producciones"
+    },
+    {
+      "id": 16948,
+      "logoPath": "/oZKnEm3BUXsiV8znce6fX26ad3R.png",
+      "name": "La Unión de los Ríos"
+    },
+    {
+      "id": 126568,
+      "logoPath": "/dXpOhpLqkzwepmn0E5h1wNuNPdE.png",
+      "name": "Mr. Fields and Friends"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-02-27",
+  "externalIds": {
+    "imdbId": "tt31613162",
+    "wikidataId": "Q135220008"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1255674,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Vieja loca",
+  "overview": "Pedro receives a desperate message from an ex-girlfriend asking him to look after her senile mother, Alicia. What seems like a simple mission soon becomes his worst nightmare. Pedro needs to escape; but Alicia won’t let him...",
+  "posterPath": "/pT28lZl2eYCNYFyxyThpSKttLfI.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-02-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-02-27"
+    },
+    "US": {
+      "digital": "2026-02-27",
+      "premiere": "2025-09-21"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Crazy Old Lady",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "SjXoDprzOQ4",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 47,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        },
+        {
+          "id": 204,
+          "logoPath": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+          "name": "Shudder Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1255674-vieja-loca/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1854,
+          "logoPath": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 635,
+          "logoPath": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+          "name": "AMC+ Roku Premium Channel"
+        },
+        {
+          "id": 526,
+          "logoPath": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+          "name": "AMC+"
+        },
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        },
+        {
+          "id": 204,
+          "logoPath": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+          "name": "Shudder Amazon Channel"
+        },
+        {
+          "id": 2049,
+          "logoPath": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+          "name": "Shudder Apple TV channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1255674-vieja-loca/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

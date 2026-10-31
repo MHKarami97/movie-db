@@ -1,0 +1,141 @@
+{
+  "backdropPath": "/377Bqi11cmWEQeOAs7GOkCEfazk.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1653408,
+      "name": "Bob Lazar",
+      "profilePath": "/f9RSED3ffAIFHuJIV3CzfomNP6L.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1981088,
+      "name": "George Knapp",
+      "profilePath": "/htIYj9VDjlIvVfbR058EyJ64qoh.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1981105,
+      "name": "Gene Huff",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2026-04-03",
+  "externalIds": {
+    "imdbId": "tt37605896",
+    "wikidataId": "Q139242058"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1462146,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "S4: The Bob Lazar Story",
+  "overview": "Over 35 years after Bob Lazar's revelations, this documentary exposes secrets of a facility the government still denies. Featuring Lazar's testimony, recreations, and new evidence, it reopens a case that continues to spark global curiosity",
+  "posterPath": "/sQB50PgwLfftaRdNB36eJxtH3AZ.jpg",
+  "rating": 8.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-04-03"
+    }
+  },
+  "runtime": 114,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "S4: The Bob Lazar Story",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "nqA_8tq3hlE",
+      "name": "S4: The Bob Lazar Story | Official 4K Trailer 2025 NEW",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 51,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1462146-s4-the-bob-lazar-story/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1462146-s4-the-bob-lazar-story/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    }
+  }
+}

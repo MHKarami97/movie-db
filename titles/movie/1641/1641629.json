@@ -1,0 +1,228 @@
+{
+  "backdropPath": "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+  "cast": [
+    {
+      "character": "Alma Lancaster",
+      "id": 5441073,
+      "name": "Vittoria Di Savoia",
+      "profilePath": "/uxlRv4jnvzagvnTR18dnIBTvQNJ.jpg"
+    },
+    {
+      "character": "Vadim Arcadi",
+      "id": 6028736,
+      "name": "Lucas Barski",
+      "profilePath": "/bNJj7fynrB2ZMoPpDNfcVd4YBg.jpg"
+    },
+    {
+      "character": "Clémentine",
+      "id": 2477804,
+      "name": "Zoé Garcia",
+      "profilePath": "/alBs6QVCSNvnz4zoHXYRXw1GHYq.jpg"
+    },
+    {
+      "character": "Timothé Vallas",
+      "id": 236119,
+      "name": "Léo Legrand",
+      "profilePath": "/yTdqyHFID2EvZil1PvyYEFMlsID.jpg"
+    },
+    {
+      "character": "Edward Lancaster",
+      "id": 34259,
+      "name": "Jean-Yves Berteloot",
+      "profilePath": "/x8uFQOAsLSbWcbRMyItUj2nMZuo.jpg"
+    },
+    {
+      "character": "Marie Lancaster",
+      "id": 984598,
+      "name": "Suliane Brahim",
+      "profilePath": "/dxUO3EA9xPuj23MWXpFd8Sknv36.jpg"
+    },
+    {
+      "character": "Basile Lancaster",
+      "id": 3220450,
+      "name": "Aymeric Fougeron",
+      "profilePath": "/2GiOfHcnoMqJGwDu7JiU8YMlgph.jpg"
+    },
+    {
+      "character": "Lily Lancaster",
+      "id": 6486088,
+      "name": "Gabrielle Taittinger",
+      "profilePath": null
+    },
+    {
+      "character": "Oscar Johnson",
+      "id": 2981576,
+      "name": "Bryan Trésor",
+      "profilePath": "/oKtmb7OrNauvgVUYGb7QlWtRIqj.jpg"
+    },
+    {
+      "character": "Félix Alonso",
+      "id": 4973900,
+      "name": "Aboubacar Bidanessy",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 303782,
+      "logoPath": null,
+      "name": "Originals by Trésor"
+    },
+    {
+      "id": 120768,
+      "logoPath": "/ccHWgGgU03FvvhPNgGmdzddNLTN.png",
+      "name": "Trésor Films"
+    },
+    {
+      "id": 210099,
+      "logoPath": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-09-18",
+  "externalIds": {
+    "imdbId": "tt43617372",
+    "wikidataId": "Q140465273"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1641629,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Toi+Moi - Seuls contre tous",
+  "overview": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love — despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.",
+  "posterPath": "/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+  "rating": 5.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-09-18",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-18",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-09-18"
+    },
+    "US": {
+      "digital": "2026-09-18"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "He runs from everything. Except her.",
+  "theatricalDate": null,
+  "title": "You+Me - Against the World",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "z2Bw_nTXjG4",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "a4JBA0NBTwU",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 113,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 119,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1641629-toi-moi-seuls-contre-tous/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1641629-toi-moi-seuls-contre-tous/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1641629-toi-moi-seuls-contre-tous/watch?locale=US",
+      "rent": []
+    }
+  }
+}

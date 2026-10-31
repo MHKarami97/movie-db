@@ -1,0 +1,173 @@
+{
+  "backdropPath": "/uu8q1Zj2RWi9C1Lr3bFbuBb3WiY.jpg",
+  "cast": [
+    {
+      "character": "Jake",
+      "id": 1969888,
+      "name": "Ravi Cabot-Conyers",
+      "profilePath": "/uM5F2LcmFLJeMrguucByChufpbT.jpg"
+    },
+    {
+      "character": "Jen",
+      "id": 1881140,
+      "name": "Mykal-Michelle Harris",
+      "profilePath": "/4TvVJYo8gEks8cegfNoZogXJgp2.jpg"
+    },
+    {
+      "character": "Taylor",
+      "id": 2897867,
+      "name": "Ryder Allen",
+      "profilePath": "/tvENQYq7MirqLCkxZSXUJ5YA2DS.jpg"
+    },
+    {
+      "character": "",
+      "id": 90534,
+      "name": "Al Madrigal",
+      "profilePath": "/p4vN80EGGlzLb5J7G8Ss3n9K2pc.jpg"
+    },
+    {
+      "character": "",
+      "id": 17696,
+      "name": "Kathryn Hahn",
+      "profilePath": "/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg"
+    },
+    {
+      "character": "",
+      "id": 13,
+      "name": "Albert Brooks",
+      "profilePath": "/8iDSGu5l93N7benjf6b3AysBore.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 109755,
+      "logoPath": "/6SeZO9r3RpIGezMELFj8iiz3UEG.png",
+      "name": "The Walt Disney Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2027-02-17",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-02-17",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-17",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-17",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt37350717",
+    "wikidataId": "Q135649141"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 310113,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-02-17",
+    "episodeNumber": 1,
+    "id": 6817919,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Oswald",
+  "overview": "When an earthquake releases Walt Disney's creation, Oswald, who has been hidden away since the 1920s, a middle school boy and his friends try to help the cartoon rabbit navigate his way through the modern world.",
+  "posterPath": "/2dIJFgUeT0IAJ4naW6BJCAnOqXr.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-02-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-02-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-02-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-02-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-02-17"
+    },
+    "CN": {
+      "tv": "2027-02-17"
+    },
+    "GB": {
+      "tv": "2027-02-17"
+    },
+    "US": {
+      "tv": "2027-02-17"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-02-17",
+      "episodeCount": 3,
+      "name": "Miniseries",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Oswald",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

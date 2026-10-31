@@ -1,0 +1,175 @@
+{
+  "backdropPath": "/wHdpSwLr0wUKRyG1CGzGjPSkyrK.jpg",
+  "cast": [
+    {
+      "character": "Monica",
+      "id": 57409,
+      "name": "Ana de la Reguera",
+      "profilePath": "/nEacV1wuUHV6eUyErGBhniJ85JY.jpg"
+    },
+    {
+      "character": "Miguel",
+      "id": 1317794,
+      "name": "Roberto Quijano",
+      "profilePath": "/y06O998iPGnaH7fvXDLaYR16eFK.jpg"
+    },
+    {
+      "character": "Memo",
+      "id": 3091865,
+      "name": "Carlos 'Capi' Pérez",
+      "profilePath": "/nngw8NHBoNbzYdWJ5qV4Tfja0gI.jpg"
+    },
+    {
+      "character": "Rene",
+      "id": 1149166,
+      "name": "Fernando Álvarez Rebeil",
+      "profilePath": "/zhICVhOwphg1owi9ujKOPhjrfWA.jpg"
+    },
+    {
+      "character": "Paula",
+      "id": 1310890,
+      "name": "Patricia Garza",
+      "profilePath": null
+    },
+    {
+      "character": "Martha",
+      "id": 3206230,
+      "name": "Epy Vélez",
+      "profilePath": null
+    },
+    {
+      "character": "Damián",
+      "id": 4807841,
+      "name": "Diego Guzmán",
+      "profilePath": "/1Wquad1nMvVsEz8IEJcMHDs0Akk.jpg"
+    },
+    {
+      "character": "Humberto/Ismael",
+      "id": 2293094,
+      "name": "Kevin Bertram",
+      "profilePath": "/aW6MfVy1XtrR7zaiU5MtttSmOrB.jpg"
+    },
+    {
+      "character": "Federico",
+      "id": 2593669,
+      "name": "Javier Ramírez Gómez",
+      "profilePath": "/oRyTXs5Md5EqECqOmuCClNFNNyr.jpg"
+    },
+    {
+      "character": "",
+      "id": 80494,
+      "name": "José María de Tavira",
+      "profilePath": "/dMDyQmqCqPPB1lZXpFg1elcMOXJ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 191621,
+      "logoPath": "/f9Vkl26ue8YdcnSxeIGasY1s1R5.png",
+      "name": "Filmadora"
+    },
+    {
+      "id": 7570,
+      "logoPath": "/gW8dfVtl1JsGIiLnvglea1OHHVr.png",
+      "name": "Videocine"
+    }
+  ],
+  "countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37538207"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1611398,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Un hombre por semana",
+  "overview": "A divorced woman reconstructs her life and opens herself to love. Her search for dating apps takes her through fun and unpredictable moments to discover self-love.",
+  "posterPath": "/rHwOvosfDFRsjBihdh9dIHnMgbO.jpg",
+  "rating": 7.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 97,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Un hombre por semana",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 68,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 457,
+          "logoPath": "/ieJ55scAVrvboTpeJcZa3JlLIrS.png",
+          "name": "VIX "
+        }
+      ],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 457,
+          "logoPath": "/ieJ55scAVrvboTpeJcZa3JlLIrS.png",
+          "name": "VIX "
+        },
+        {
+          "id": 1866,
+          "logoPath": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+          "name": "ViX Premium Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1611398-un-hombre-por-semana/watch?locale=US",
+      "rent": []
+    }
+  }
+}

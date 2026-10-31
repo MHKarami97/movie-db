@@ -1,0 +1,575 @@
+{
+  "backdropPath": "/oOczvrnhpXUmqCbyKYFj4FQExAo.jpg",
+  "cast": [
+    {
+      "character": "Bruce Springsteen",
+      "id": 206905,
+      "name": "Jeremy Allen White",
+      "profilePath": "/pXRADDRhprgaQ4Bri44NH3bYeu6.jpg"
+    },
+    {
+      "character": "Jon Landau",
+      "id": 239271,
+      "name": "Jeremy Strong",
+      "profilePath": "/jcMhXWICSi4QjQttJVhFSiKVvpF.jpg"
+    },
+    {
+      "character": "Mike Batlan",
+      "id": 1294982,
+      "name": "Paul Walter Hauser",
+      "profilePath": "/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg"
+    },
+    {
+      "character": "Douglas Springsteen",
+      "id": 1115,
+      "name": "Stephen Graham",
+      "profilePath": "/yguEO9zFvuccq87kOJpFLsmUgvs.jpg"
+    },
+    {
+      "character": "Faye Romano",
+      "id": 1345495,
+      "name": "Odessa Young",
+      "profilePath": "/woaCgEcSzzwayaeVleiac0NCNRK.jpg"
+    },
+    {
+      "character": "Adele Springsteen",
+      "id": 12930,
+      "name": "Gaby Hoffmann",
+      "profilePath": "/bMdxuHqCJkf4dAFKleYRs2GXDN9.jpg"
+    },
+    {
+      "character": "Chuck Plotkin",
+      "id": 1231717,
+      "name": "Marc Maron",
+      "profilePath": "/xzRBK8hR6693VQWmr3Wx2UVoA5P.jpg"
+    },
+    {
+      "character": "Al Teller",
+      "id": 38582,
+      "name": "David Krumholtz",
+      "profilePath": "/2vaimzfyPQVxZGHbQS5M3z3tZw0.jpg"
+    },
+    {
+      "character": "Matt Delia",
+      "id": 127281,
+      "name": "Harrison Gilbertson",
+      "profilePath": "/qlB00ZkN8LCReIje5PGDJ2UeCAg.jpg"
+    },
+    {
+      "character": "Barbara Landau",
+      "id": 504787,
+      "name": "Grace Gummer",
+      "profilePath": "/z9MiGb1QdivKRYCgxcbcPALOkI4.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 127928,
+      "logoPath": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+      "name": "20th Century Studios"
+    },
+    {
+      "id": 3672,
+      "logoPath": "/xpRwVe9NL5791oyUidzeRp8ezGj.png",
+      "name": "The Gotham Group"
+    },
+    {
+      "id": 22213,
+      "logoPath": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment"
+    },
+    {
+      "id": 278463,
+      "logoPath": null,
+      "name": "Night Exterior"
+    },
+    {
+      "id": 279898,
+      "logoPath": null,
+      "name": "Bluegrass 7"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-12-23",
+  "externalIds": {
+    "imdbId": "tt31923069",
+    "wikidataId": "Q125401070"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 60,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1230368,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Springsteen: Deliver Me from Nowhere",
+  "overview": "داستان آغاز ماجراجویی بروس اسپرینگستین از سال 82 با انتشار اولین آلبوم‌اش یعنی نبراسکا و ضبط «زاده آمریکا» با «بندِ ای».",
+  "posterPath": "/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
+  "rating": 6.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-10-24"
+    },
+    "US": {
+      "digitalDate": "2025-12-23",
+      "gapDays": 60,
+      "theatricalDate": "2025-10-24"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-10-15",
+      "theatrical": "2025-10-24"
+    },
+    "US": {
+      "digital": "2025-12-23",
+      "premiere": "2025-08-29",
+      "theatrical": "2025-10-24"
+    }
+  },
+  "runtime": 120,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Witness a true story of risking it all to fight for what you believe in.",
+  "theatricalDate": "2025-10-24",
+  "title": "Springsteen: Deliver Me from Nowhere",
+  "translations": {
+    "faOverview": "داستان آغاز ماجراجویی بروس اسپرینگستین از سال 82 با انتشار اولین آلبوم‌اش یعنی نبراسکا و ضبط «زاده آمریکا» با «بندِ ای».",
+    "faTitle": "اسپرینگستین: از ناکجا نجاتم بده"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "XSNjPyL6YZw",
+      "name": "Bruce Springsteen Ends His Relationship",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "B4TTpIM3TeI",
+      "name": "Jeremy Allen White On Acting in Front of Bruce Springsteen!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "dfC5DnV_2w8",
+      "name": "Buy It Now On Digital & Own It On Blu-ray Jan 20",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "rHDi4xFwnd8",
+      "name": "Bruce Springsteen in Scott Cooper's New Biopic Springsteen: Deliver Me From Nowhere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "16X5kWGAlgA",
+      "name": "Atlantic City",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "A3k-L6W8KQI",
+      "name": "Meet Faye",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "_AInbi2mKJw",
+      "name": "From The Studio To The Stage",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "AqwNjfcOago",
+      "name": "Find Something Real In All The Noise",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "DnixMcOXjqA",
+      "name": "Now Playing In Theaters",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "R6JwT4Mudzg",
+      "name": "\"These Songs Matter\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "IcUVy_fNRN8",
+      "name": "Jeremy Allen White 🤝 Jeremy Strong",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "kxbRb3PzFh0",
+      "name": "\"Nobody else can do that character\"",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "u14FY_i-88A",
+      "name": "\"Born In the USA\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "U-nULi52rbs",
+      "name": "That Day",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "FHtWEBmbfk0",
+      "name": "The Cast Describe The Film In 3 Words",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "XsdEpu_DslA",
+      "name": "From Lincoln, Nebraska to the big screen",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "1Pi4LLpkTCY",
+      "name": "Jeremy Allen White is Bruce Springsteen",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "rmaz-FbqGBs",
+      "name": "Flash Mob Performance at Madison Square Park",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "O3ZD9Vmf9fQ",
+      "name": "Prepared",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "g3uJccBzegM",
+      "name": "Authentic",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "dwM7Xt198So",
+      "name": "In Cinemas Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "G4s6zZea-G8",
+      "name": "Bruce Springsteen Performance at AFI FEST presented by Canva",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "2stZaeY3Hcc",
+      "name": "SPRINGSTEEN: DELIVER ME FROM NOWHERE Red Carpet",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "dH9NgXGVgK4",
+      "name": "In Theaters Friday",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "B1U0WL-4pYg",
+      "name": "Jeremy Allen White on portraying Bruce Springsteen’s long standing relationships on screen",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "R3qPurNGJzI",
+      "name": "Process",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "K83ENm3CAq8",
+      "name": "Jeremy's Guitar",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "B4xABho12m4",
+      "name": "No One Else",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "XrWjnM00zxM",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ylvia3aATes",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "BqOZCNenKuk",
+      "name": "Becoming Bruce",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "BVsRVEccrN0",
+      "name": "\"I Think We Got That\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "Ohn4esMdRyk",
+      "name": "Get Tickets Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "sgJYWzxB9CA",
+      "name": "Scott Cooper and Jeremy Allen White on Springsteen: Deliver Me from Nowhere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6fIhiq00D0Y",
+      "name": "\"Born to Run\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "4wg6FHfLVsM",
+      "name": "NYFF Performance",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "tOdyzoJqdEk",
+      "name": "Finding Something Real",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "_pZp05Vltug",
+      "name": "Tickets On Sale",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "aF0AJAjcbCQ",
+      "name": "Springsteen: Deliver Me from Nowhere with Scott Cooper, Bruce Springsteen, Jeremy Allen White & More",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "vSdygKBl5RI",
+      "name": "Chronicles the making of Bruce Springsteen’s “Nebraska” album",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "51TbKi7tYuQ",
+      "name": "Full Trailer Online Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "OuRX3n2LTlc",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "bpbbnqPgcUU",
+      "name": "Telluride Film Festival 2025",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "8kHnLl9p95g",
+      "name": "Full trailer online now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Oxag2B94wtU",
+      "name": "Official Trailer Online Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "oQXdM3J33No",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "ICKAeVz_0Nw",
+      "name": "Trailer Tomorrow",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 365,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1230368-springsteen-deliver-me-from-nowhere/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1230368-springsteen-deliver-me-from-nowhere/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

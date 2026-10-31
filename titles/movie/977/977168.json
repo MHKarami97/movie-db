@@ -1,0 +1,166 @@
+{
+  "backdropPath": "/pClZVluNW1ZNi9BJij8FxmI6Dsp.jpg",
+  "cast": [
+    {
+      "character": "Narrator (voice)",
+      "id": 3783,
+      "name": "Brigitte Bardot",
+      "profilePath": "/vqYOnEZyA3AO7sx3SxIFWYrggQJ.jpg"
+    },
+    {
+      "character": "Self - Brigitte Bardot",
+      "id": 3003092,
+      "name": "Josephine Thiesen",
+      "profilePath": "/1YThG6A6GDI5sgUfxKOjZvWmKlE.jpg"
+    },
+    {
+      "character": "self",
+      "id": 2025252,
+      "name": "Ester Expósito",
+      "profilePath": "/xoktRKmZQbNokVRIk9Ff1XJXMEg.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 56367,
+      "name": "Naomi Campbell",
+      "profilePath": "/plXuEgG6y851gSh03G1eRGf5fmZ.jpg"
+    },
+    {
+      "character": "self",
+      "id": 1165384,
+      "name": "Gaia Weiss",
+      "profilePath": "/oGOA33Sj0i8WlVUGO6fE0jg0ZgV.jpg"
+    },
+    {
+      "character": "self",
+      "id": 65572,
+      "name": "Frédérique Bel",
+      "profilePath": "/vbIDJ3azN8cvgxLA3PmC1XB3YyC.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1250729,
+      "name": "Stella McCartney",
+      "profilePath": "/4br4cq93UZUh64qs4IveHg55O5y.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2568953,
+      "name": "Hugo Clément",
+      "profilePath": "/sc9Vs12WIp5PytGswcTQ6haaUZQ.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 16862,
+      "name": "Claude Lelouch",
+      "profilePath": "/d7s7Ifc2JS0Hzm31YAgVtK5vuKc.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 87201,
+      "name": "Paul Watson",
+      "profilePath": "/4P8jhFyTyV8jzGdPCMiC5mv83A4.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 126471,
+      "logoPath": null,
+      "name": "Featuristic Films"
+    },
+    {
+      "id": 175545,
+      "logoPath": null,
+      "name": "Timpel Pictures"
+    },
+    {
+      "id": 110477,
+      "logoPath": null,
+      "name": "AgentDouble Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt20258222",
+    "wikidataId": "Q136952667"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 977168,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Bardot",
+  "overview": "An intimate look at the life of international icon Brigitte Bardot. With exclusive access and the full support of Brigitte Bardot and her team, we will uncover her life, with its hardships, trials and struggles, her work and her legacy.",
+  "posterPath": "/zOYIJhhzPL1iCtanG3kzm8olt6s.jpg",
+  "rating": 8.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 95,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Rebel with a cause",
+  "theatricalDate": null,
+  "title": "Bardot",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 8,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/977168-bardot/watch?locale=GB",
+      "rent": []
+    }
+  }
+}

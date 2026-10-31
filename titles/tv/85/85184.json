@@ -1,0 +1,244 @@
+{
+  "backdropPath": "/lIEput5jpJm1I0Yz3pXtWBs4X22.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 563722,
+      "name": "Danilo Gentili",
+      "profilePath": "/8l6zt75aqyVh1yRyAZzuwWQve2.jpg"
+    },
+    {
+      "character": "Self - Announcer",
+      "id": 3934511,
+      "name": "Diguinho Coruja",
+      "profilePath": "/Wf1ZMTxr4TykhjZRoMx4ZfsLVC.jpg"
+    },
+    {
+      "character": "Self - Comedian Commentator",
+      "id": 2907501,
+      "name": "Igor Guimarães",
+      "profilePath": "/z6gSddS262LESxgmnv5sJfZ9ebD.jpg"
+    },
+    {
+      "character": "Self - Band Vocalist",
+      "id": 2086026,
+      "name": "Roger Rocha Moreira",
+      "profilePath": "/qhNKsu95k1Bn1nPsSvTbpR0Nndh.jpg"
+    },
+    {
+      "character": "",
+      "id": 2227674,
+      "name": "Marcos Kleine",
+      "profilePath": "/t1QfbildOEvq7v9N7OH04RwlsIA.jpg"
+    },
+    {
+      "character": "",
+      "id": 3934515,
+      "name": "Bacalhau",
+      "profilePath": "/f28WvZhqYwG2ZYxUbFYhv8l0LjR.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 5121994,
+      "name": "Ronaldo Cabral",
+      "profilePath": "/cErz8XkIB2Gyr3Dfkz9RXfNcEjM.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 40992,
+      "logoPath": "/72MOBef2ZwKXLS6sI5XPKMz6Pu1.png",
+      "name": "SBT"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "digitalDate": "2014-03-10",
+  "externalIds": {
+    "facebookId": "sbtthenoite",
+    "imdbId": "tt3612488",
+    "wikidataId": "Q17328206"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 85184,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-10-24",
+    "episodeNumber": 188,
+    "id": 6610413,
+    "name": "The Noite The Sucessos - Vozes da TV",
+    "overview": "",
+    "seasonNumber": 12
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "The Noite com Danilo Gentili",
+  "overview": "",
+  "posterPath": "/agA6JjPuTsuVdJblhVt8vtiKalf.jpg",
+  "rating": 5.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2014-03-10",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2014-03-10",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2014-03-10",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2014-03-10",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2014-03-10"
+    },
+    "CN": {
+      "tv": "2014-03-10"
+    },
+    "GB": {
+      "tv": "2014-03-10"
+    },
+    "US": {
+      "tv": "2014-03-10"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2014-03-09",
+      "episodeCount": 214,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2015-03-02",
+      "episodeCount": 217,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2016-01-04",
+      "episodeCount": 254,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2017-03-06",
+      "episodeCount": 214,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2018-03-12",
+      "episodeCount": 209,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2019-03-11",
+      "episodeCount": 209,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2020-03-09",
+      "episodeCount": 170,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2021-02-22",
+      "episodeCount": 224,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2022-03-07",
+      "episodeCount": 209,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2023-03-13",
+      "episodeCount": 205,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/v6lREUUgqhpoZ98gL0oul719WFk.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2024-03-04",
+      "episodeCount": 184,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": "/v6lREUUgqhpoZ98gL0oul719WFk.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2025-02-03",
+      "episodeCount": 188,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": "/agA6JjPuTsuVdJblhVt8vtiKalf.jpg",
+      "seasonNumber": 12
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Noite com Danilo Gentili",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 10,
+  "watchProviders": {}
+}

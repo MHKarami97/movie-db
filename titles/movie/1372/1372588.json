@@ -1,0 +1,212 @@
+{
+  "backdropPath": "/805aMQucnpLkSmQ35Pql35fq3Gw.jpg",
+  "cast": [
+    {
+      "character": "Akhanda Rudra Sikandar Aghora / Murali Krishna",
+      "id": 150529,
+      "name": "Nandamuri Balakrishna",
+      "profilePath": "/vOqW5ByakRQOUOn6ipupgioxsM9.jpg"
+    },
+    {
+      "character": "Saranya Bachupally",
+      "id": 584595,
+      "name": "Pragya Jaiswal",
+      "profilePath": "/h0MW18aiuE9XLa19du1rCMQ3BLN.jpg"
+    },
+    {
+      "character": "Archana Goswami",
+      "id": 1725208,
+      "name": "Samyuktha",
+      "profilePath": "/t72lMd7ED7beZxLGT70ASLqHF5f.jpg"
+    },
+    {
+      "character": "Netra",
+      "id": 545012,
+      "name": "Aadhi Pinisetty",
+      "profilePath": "/m5HrEYFIPaO73RCGLrPbpoqKRxt.jpg"
+    },
+    {
+      "character": "",
+      "id": 5383834,
+      "name": "Akshara Nunna Sujana",
+      "profilePath": "/imc1zI3hNCJrbvPWsm5vxM3FOjN.jpg"
+    },
+    {
+      "character": "Janani",
+      "id": 1489982,
+      "name": "Harshaali Malthotra",
+      "profilePath": "/nwUQVx1hFALTVnRZVcegyqrdu71.jpg"
+    },
+    {
+      "character": "Ajit Thakur",
+      "id": 1543640,
+      "name": "Kabir Duhan Singh",
+      "profilePath": "/lAVAxFARP63oTHMYWpwHrWsXPWa.jpg"
+    },
+    {
+      "character": "Padmavathi",
+      "id": 1088431,
+      "name": "Shamna Kasim",
+      "profilePath": "/TDjD3RpKSgbwSApdpPhFXRtwf8.jpg"
+    },
+    {
+      "character": "Chang",
+      "id": 1093644,
+      "name": "Saswata Chatterjee",
+      "profilePath": "/cVJVLDy7BNzIbFMcJBPOWeN0Kb.jpg"
+    },
+    {
+      "character": "Lord Shiva",
+      "id": 1110116,
+      "name": "Tarun Khanna",
+      "profilePath": "/puUE8PufQhZfqKiVbTuvzuct6s.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 44072,
+      "logoPath": "/vl4nbLsUAVaaxardd9zt8nQmuSM.png",
+      "name": "14 Reels Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt15387182",
+    "wikidataId": "Q136514093"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1372588,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "te",
+      "name": "Telugu"
+    }
+  ],
+  "originalTitle": "అఖండ 2: తాండవం",
+  "overview": "When all hope died, Akhanda arrived. He saved his family, protected his people, killed the wrongdoers, and retreated into isolation. But years later, new threats emerge putting the world in danger. And as the world burns, Akhanda returns.",
+  "posterPath": "/jo9efbQSGDZNQ6xMocyD1prFjdF.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 164,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Akhanda 2: Thaandavam",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "2mt6f8rIEi4",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "zev_Nv3lW8A",
+      "name": "Official Teaser (Hindi)",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 18,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1372588-2/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1372588-2/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1372588-2/watch?locale=US",
+      "rent": []
+    }
+  }
+}

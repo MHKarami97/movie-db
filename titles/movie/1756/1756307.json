@@ -1,0 +1,195 @@
+{
+  "backdropPath": "/4EKa1ordKkch7bAYlV4e3fwsVCj.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 519,
+      "name": "Martin Short",
+      "profilePath": "/vWoZIOk7K8TSKu1IN90akswsWjZ.jpg"
+    },
+    {
+      "character": "Self (Archival Footage)",
+      "id": 26510,
+      "name": "Eugene Levy",
+      "profilePath": "/epZE1ZohKhEFCdCKYFyvtJEj0I7.jpg"
+    },
+    {
+      "character": "Self (Archival Footage)",
+      "id": 7180,
+      "name": "John Candy",
+      "profilePath": "/uvLWbMDE6UfWNF5tfrsrC9NqeEA.jpg"
+    },
+    {
+      "character": "Self (Archival Footage)",
+      "id": 8263,
+      "name": "Andrea Martin",
+      "profilePath": "/lOP6nvTOvqpdHtEMfLCvNqUaRnp.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 8872,
+      "name": "Rick Moranis",
+      "profilePath": "/e63UZRzHfQT0Nw4VO7nvDt607O.jpg"
+    },
+    {
+      "character": "Self (Archival Footage)",
+      "id": 61961,
+      "name": "Dave Thomas",
+      "profilePath": "/rr7Oqu4mlUOKBevTuHHMKdvAtlu.jpg"
+    },
+    {
+      "character": "Self (Archival Footage)",
+      "id": 59196,
+      "name": "Joe Flaherty",
+      "profilePath": "/bIDIkEBUrSZb4UBhqOpJBf3xbBb.jpg"
+    },
+    {
+      "character": "Self (Archival Footage)",
+      "id": 11514,
+      "name": "Catherine O'Hara",
+      "profilePath": "/gI2RyymLJ9ZrhEyJSD5EqSvFpCX.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 59410,
+      "name": "Bob Odenkirk",
+      "profilePath": "/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 31,
+      "name": "Tom Hanks",
+      "profilePath": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2026-10-30",
+  "externalIds": {
+    "imdbId": "tt44825373"
+  },
+  "fetchedAt": 1793819640448,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1756307,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "SCTV: The Greatest Show You've Never Heard Of",
+  "overview": "Legendary \"SCTV\" cast members reunite in this documentary for a funny and heartfelt celebration of how a scrappy Canadian sketch show made comedy history.",
+  "posterPath": "/vBqVyTpzv5RzHSsQdu8ECxAqSvd.jpg",
+  "rating": 6.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-30",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-30"
+    }
+  },
+  "runtime": 88,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "SCTV: The Greatest Show You've Never Heard Of",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "5vri0LVrMIE",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "24skSoZsJv0",
+      "name": "First Look",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1756307-sctv-the-greatest-show-you-ve-never-heard-of/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1756307-sctv-the-greatest-show-you-ve-never-heard-of/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1756307-sctv-the-greatest-show-you-ve-never-heard-of/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "backdropPath": "/t2aDmvYojjyvZr1xTq77qjCc2rW.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 68635,
+      "logoPath": null,
+      "name": "iHQ"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": "2015-01-30",
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 63942,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-01-30",
+    "episodeNumber": 550,
+    "id": 6917363,
+    "name": "Episode 550",
+    "overview": "",
+    "seasonNumber": 3
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "맛있는 녀석들",
+  "overview": "Four comedians who are famous for their love of food visit restaurants all over Korea to try the popular menus.",
+  "posterPath": "/c2a1brhbBrYkAu9JPSXAHG8h7rj.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2015-01-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2015-01-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2015-01-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2015-01-30",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2015-01-30"
+    },
+    "CN": {
+      "tv": "2015-01-30"
+    },
+    "GB": {
+      "tv": "2015-01-30"
+    },
+    "US": {
+      "tv": "2015-01-30"
+    }
+  },
+  "runtime": 60,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2015-01-30",
+      "episodeCount": 429,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/tQK32sz7NBDrJh7yC0YW33p6aLk.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2023-04-21",
+      "episodeCount": 43,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/sLfpKXdbY4XGhzYu7nltBeLGRws.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2024-06-21",
+      "episodeCount": 83,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/AuBFRaOqrY0cy0SfqfaPCCApM03.jpg",
+      "seasonNumber": 3
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Delicious Guys",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 575,
+          "logoPath": "/t4tushezwJkXCposaC73oZTwF5a.png",
+          "name": "OnDemandKorea"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/63942/watch?locale=US",
+      "rent": []
+    }
+  }
+}

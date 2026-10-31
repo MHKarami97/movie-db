@@ -1,0 +1,167 @@
+{
+  "backdropPath": "/q1WkqnHIy3nglQxwy2jpEFM89lB.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 6642795,
+      "name": "Anton Goosen",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 1076132,
+      "name": "Deon Meyer",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 317777,
+      "logoPath": null,
+      "name": "Bigger Picture Content Company"
+    },
+    {
+      "id": 317778,
+      "logoPath": null,
+      "name": "Pink Moon Productions"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2026-12-11",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-12-11",
+        "episodeNumber": 1,
+        "name": "Finding a Voice (1946 – 1979)",
+        "overview": "Goosen’s early life set against a politically charged South Africa where censorship loomed over the airwaves. From unheard songs and life as a frustrated teacher-by-day, songwriter-by-night, his music career starts to crescendo with his breakthrough “Boy van die Suburbs” — the first Afrikaans album entirely written and performed by a single artist.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-18",
+        "episodeNumber": 2,
+        "name": "Rapid Fame (1980 – 1986)",
+        "overview": "A meteoric rise brings both admiration and intense scrutiny. Goosen ignites movements like “Musiek en Liriek”, daring to challenge the status quo, and stages a bold 1986 comeback with City / Stad — taking risks few would have braved at such a volatile time.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-25",
+        "episodeNumber": 3,
+        "name": "Defiance & Reinvention (1987 - 2000)",
+        "overview": "As unrest grips the nation, Goosen joins progressive Afrikaners negotiating with the still-banned ANC and forms The Commission of Enquiry. Post-apartheid, his magnum opus Danzer (1992) — a duet with reggae star Lucky Dube — becomes the first local song to top both 5FM and Metro FM.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 4,
+        "name": "The Endless River (2000 - 2025)",
+        "overview": "A SAMA-winning comeback with “Vis innie Bos,” sold-out Anton and Friends shows, and international touring. After a harrowing farm attack, a move to the coast sparks a creative resurgence — culminating in 2024’s “Sirkels.” At 79, still creating, still touring.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt50986167"
+  },
+  "fetchedAt": 1795557021035,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 342166,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "af",
+      "name": "Afrikaans"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2026-12-11",
+    "episodeNumber": 1,
+    "id": 8132370,
+    "name": "Finding a Voice (1946 – 1979)",
+    "overview": "Goosen’s early life set against a politically charged South Africa where censorship loomed over the airwaves. From unheard songs and life as a frustrated teacher-by-day, songwriter-by-night, his music career starts to crescendo with his breakthrough “Boy van die Suburbs” — the first Afrikaans album entirely written and performed by a single artist.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Endless River",
+  "overview": "This powerful four-part documentary series explores the life and legacy of South Africa’s musical icon, Anton Goosen. From his early defiance against Apartheid’s censorship to his groundbreaking success and influence on Afrikaans rock, it captures Goosen’s remarkable journey. With rare interviews, lost footage, key performances, and rise to fame, it chronicles his revolutionary impact on the music scene – shaping South African culture and music over five decades.",
+  "posterPath": "/1ktO6ktENlLZ5fFGSyeYM54I2DU.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-12-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-12-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-12-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-12-11",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-12-11"
+    },
+    "CN": {
+      "tv": "2026-12-11"
+    },
+    "GB": {
+      "tv": "2026-12-11"
+    },
+    "US": {
+      "tv": "2026-12-11"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-12-11",
+      "episodeCount": 4,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Ended",
+  "tagline": "A songmaker story.",
+  "theatricalDate": null,
+  "title": "Endless River",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "pvHI4fRQl9s",
+      "name": "Riversonderend (Endless River) Doc Series Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

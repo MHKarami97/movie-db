@@ -1,0 +1,193 @@
+{
+  "backdropPath": "/bfJ2MvS4wixkQ7tQX0a87q1XYlE.jpg",
+  "cast": [
+    {
+      "character": "Katie Cartwright",
+      "id": 515628,
+      "name": "Sofia Black-D'Elia",
+      "profilePath": "/pkuqNG8uWAzWH8bSmRYBO5jdiUg.jpg"
+    },
+    {
+      "character": "Tedi Mayo",
+      "id": 2109071,
+      "name": "Carmen Christopher",
+      "profilePath": "/4RBv7ZNkB0Ayk6Z3HLwLppywr4T.jpg"
+    },
+    {
+      "character": "Amelia Nadler",
+      "id": 1726012,
+      "name": "Jo Firestone",
+      "profilePath": "/i0XjWqXie1Pheuw9LDvVgqHOqAz.jpg"
+    },
+    {
+      "character": "Sunny Football",
+      "id": 1674830,
+      "name": "John Reynolds",
+      "profilePath": "/1yzDTZqIeFQaI4i8eGC0TB1UfZg.jpg"
+    },
+    {
+      "character": "Curtis Eldridge",
+      "id": 1842673,
+      "name": "Gary Richardson",
+      "profilePath": "/qZnYgEpMMnA2tih2zTa5uj1Fc7.jpg"
+    },
+    {
+      "character": "Ron Felker",
+      "id": 4131745,
+      "name": "Nate Varrone",
+      "profilePath": "/szTt2BteDCYyldlpyMVcJASLWdN.jpg"
+    },
+    {
+      "character": "Claire Dubois",
+      "id": 563152,
+      "name": "Roberta Colindrez",
+      "profilePath": "/kDvrnApQrT73AzVaLDDOhCB0a0p.jpg"
+    },
+    {
+      "character": "Victoria Mayo",
+      "id": 1443625,
+      "name": "Jackie Cruz",
+      "profilePath": "/10Ec2R2UKeBhqPqRyLwjF1ez96m.jpg"
+    },
+    {
+      "character": "Tim",
+      "id": 1542758,
+      "name": "John Early",
+      "profilePath": "/gQ0nZXm11wnB7kvk4Oz2zIeisLx.jpg"
+    },
+    {
+      "character": "Principal Nadler",
+      "id": 86267,
+      "name": "Ana Gasteyer",
+      "profilePath": "/p4OQPL9Ety0jxq8k8SqFoBPZsrn.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 112397,
+      "logoPath": "/rFyhrN607SUIlQ7wyH8lQOemqz3.png",
+      "name": "American High"
+    },
+    {
+      "id": 252366,
+      "logoPath": "/DwpaN189I3OYb0u2HKZUDe7xox.png",
+      "name": "Freshman Year"
+    },
+    {
+      "id": 189724,
+      "logoPath": null,
+      "name": "Swindle"
+    },
+    {
+      "id": 109715,
+      "logoPath": "/kFNhhuKpTlDKla243zceGMvNd2C.png",
+      "name": "All Things Comedy"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-06-19",
+  "externalIds": {
+    "imdbId": "tt37899019",
+    "wikidataId": "Q139525801"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1558796,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Never Change!",
+  "overview": "Nearly two decades after a devastating tornado abruptly cut their senior year short, a group of mid-30s adults must return to their hometown high school to complete their remaining requirements and finally graduate.",
+  "posterPath": "/yuNToCHZyZybJQ89HSiAR91JEiI.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-06-19",
+      "premiere": "2026-06-09"
+    }
+  },
+  "runtime": 103,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "It's never too late to finish what you failed.",
+  "theatricalDate": null,
+  "title": "Never Change!",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "w5nRZ9BrewE",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 21,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1558796-never-change/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1558796-never-change/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Lewis Einstein",
+      "id": 5661,
+      "name": "Matthew Gray Gubler",
+      "profilePath": "/tHjIUjHFjl4Kzc4XQ7JSd1EHYSU.jpg"
+    },
+    {
+      "character": "Teri",
+      "id": 1220767,
+      "name": "Melissa Fumero",
+      "profilePath": "/mKwnGOzHr0lSIs8BzPGoJhT3F7I.jpg"
+    },
+    {
+      "character": "Captain Frost",
+      "id": 53923,
+      "name": "Aunjanue Ellis-Taylor",
+      "profilePath": "/e54DfgDyS67xdtomYODFule6Ofa.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 260174,
+      "logoPath": "/x65CmcEKzdnap6PFI3pepGrxWLI.png",
+      "name": "Seven.One Studios International"
+    },
+    {
+      "id": 1081,
+      "logoPath": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "2027-02-12",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-02-12",
+        "episodeNumber": 1,
+        "name": "X Equals the Pilot",
+        "overview": "",
+        "stillPath": "/oPU30CE3GyzE9b7B1MZ9frVZj7a.jpg",
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt13483280",
+    "wikidataId": "Q139673526"
+  },
+  "fetchedAt": 1794864638140,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 289566,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-02-12",
+    "episodeNumber": 1,
+    "id": 6157190,
+    "name": "X Equals the Pilot",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Einstein",
+  "overview": "Brilliant but directionless, the great grandson of Albert Einstein spends his days as a comfortably tenured professor until his bad boy antics land him in trouble with the law and he is pressed into service helping a local police detective solve her most puzzling cases.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-02-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-02-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-02-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-02-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-02-12"
+    },
+    "CN": {
+      "tv": "2027-02-12"
+    },
+    "GB": {
+      "tv": "2027-02-12"
+    },
+    "US": {
+      "tv": "2027-02-12"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-02-12",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Planned",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Einstein",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

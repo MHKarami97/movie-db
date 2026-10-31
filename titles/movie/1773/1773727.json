@@ -1,0 +1,114 @@
+{
+  "backdropPath": "/qBSWU70e99BH6t06DsNjzQovyyK.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 16866,
+      "name": "Jennifer Lopez",
+      "profilePath": "/aTUyQzZ9w6EJq5VXWX3C2ewZTAF.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2026-11-26",
+  "externalIds": {
+    "imdbId": "tt46076014"
+  },
+  "fetchedAt": 1795640243421,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1773727,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The JLO Show",
+  "overview": "Tracing her journey from the Bronx to global icon, Jennifer Lopez delivers a production that is as intimate as it is spectacular, backed by a full orchestra, vocal ensemble, and 16 dancers. The show blends her most iconic hits with personal storytelling, featuring the artists and songs that influenced her. The result is a show that feels modern, nostalgic, and timeless.",
+  "posterPath": "/6uc4X6ytnytrZ9cWP9NI6mihqdb.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-26",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-26",
+      "tv": "2026-11-26"
+    }
+  },
+  "runtime": 120,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The JLO Show",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "vgFVNNaoh5U",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "uu4RsAm0uBM",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 531,
+          "logoPath": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+          "name": "Paramount Plus"
+        },
+        {
+          "id": 2303,
+          "logoPath": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "id": 2304,
+          "logoPath": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+          "name": "Paramount Plus Basic with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1773727-the-jlo-show/watch?locale=GB",
+      "rent": []
+    }
+  }
+}

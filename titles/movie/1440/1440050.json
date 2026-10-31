@@ -1,0 +1,354 @@
+{
+  "backdropPath": "/dgqBcgTzaUiSLvKJPDF9AbdFEMO.jpg",
+  "cast": [
+    {
+      "character": "Nate Wilcox",
+      "id": 1337794,
+      "name": "Nate Bargatze",
+      "profilePath": "/60KdELrwXRuNAKJveTaZIpHyDUU.jpg"
+    },
+    {
+      "character": "Katie Wilcox",
+      "id": 16855,
+      "name": "Mandy Moore",
+      "profilePath": "/2n0rqUGojRNEHrmtPeCEptHREEY.jpg"
+    },
+    {
+      "character": "Gracie Wilcox",
+      "id": 3048964,
+      "name": "Stella Grace Fitzgerald",
+      "profilePath": "/8j63XsMBljIqAkWvKYmG11sU1QD.jpg"
+    },
+    {
+      "character": "Hadley Wilcox",
+      "id": 3690410,
+      "name": "Birdie Borria",
+      "profilePath": "/1e8iouPs7g0kXuvWoSu6S4nqdIo.jpg"
+    },
+    {
+      "character": "Sam Wilcox",
+      "id": 3227013,
+      "name": "Charlotte Ann Tucker",
+      "profilePath": "/56fIr7bqvuJsZkhoG8nBoo40TzK.jpg"
+    },
+    {
+      "character": "Conor Ashford",
+      "id": 1226277,
+      "name": "Colin Jost",
+      "profilePath": "/cuNRnDX02digyoqYVyFGkwd78fn.jpg"
+    },
+    {
+      "character": "Keegan",
+      "id": 62831,
+      "name": "Will Forte",
+      "profilePath": "/4VEzbkL3HwHTUZAPA5PyypFG2U.jpg"
+    },
+    {
+      "character": "Peter",
+      "id": 2807375,
+      "name": "Martin Herlihy",
+      "profilePath": "/3SxAueQPPc27P7zJoUmj0QMYdOK.jpg"
+    },
+    {
+      "character": "Dan",
+      "id": 1838225,
+      "name": "Zach Cherry",
+      "profilePath": "/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
+    },
+    {
+      "character": "Peyton",
+      "id": 466505,
+      "name": "Kumail Nanjiani",
+      "profilePath": "/9EyrK1Cv7ey1h1GgmsVAOn45w6G.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 218666,
+      "logoPath": "/1FyQYjUUIijNZEJBUPqrpDxCZz3.png",
+      "name": "Wonder Project"
+    },
+    {
+      "id": 559,
+      "logoPath": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+      "name": "TriStar Pictures"
+    },
+    {
+      "id": 211824,
+      "logoPath": null,
+      "name": "Nateland Entertainment"
+    },
+    {
+      "id": 243125,
+      "logoPath": null,
+      "name": "One Man Canoe"
+    },
+    {
+      "id": 22213,
+      "logoPath": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-07-14",
+  "externalIds": {
+    "facebookId": "breadwinnermovie",
+    "imdbId": "tt34459219",
+    "instagramId": "breadwinnermovie",
+    "twitterId": "BreadwinnerMov",
+    "wikidataId": "Q134972733"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 46,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1440050,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Breadwinner",
+  "overview": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
+  "posterPath": "/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-07-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-14",
+      "gapDays": 46,
+      "theatricalDate": "2026-05-29"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-07-14"
+    },
+    "US": {
+      "digital": "2026-07-14",
+      "theatrical": "2026-05-29"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "One dad. Three kids. Zero clue.",
+  "theatricalDate": "2026-05-29",
+  "title": "The Breadwinner",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "WJfP0kGWiY4",
+      "name": "Extended Preview",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "FOG4fN0h9pA",
+      "name": "Exclusive Scene Featuring Taylor Swift's \"Opalite\"",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "j4k7nTD_-8Q",
+      "name": "Charades",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "XGznyk5KpU0",
+      "name": "Nate Rate",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "GuE-WgKKTKw",
+      "name": "The Roast of Nate Bargatze",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "gcdEDQpagmE",
+      "name": "Nate Bargatze Breaks Into Movies",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "m76VzoDfQWQ",
+      "name": "New Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "19PLc6hpTvA",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "dKKBbc6Izqs",
+      "name": "Behind the Scenes With Nate Bargatze",
+      "official": true,
+      "type": "Behind the Scenes"
+    }
+  ],
+  "voteCount": 131,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1440050-the-breadwinner/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1440050-the-breadwinner/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

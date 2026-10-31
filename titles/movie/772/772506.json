@@ -1,0 +1,177 @@
+{
+  "backdropPath": "/8fN4YSYUOAlYmUcqzGCuztaXms6.jpg",
+  "cast": [
+    {
+      "character": "Julian Rodin",
+      "id": 60949,
+      "name": "Rob Schneider",
+      "profilePath": "/nGHHon86e0rxVV1GVMRuKheqf6L.jpg"
+    },
+    {
+      "character": "Secretary",
+      "id": 1555146,
+      "name": "Patricia Schneider",
+      "profilePath": null
+    },
+    {
+      "character": "Enrique",
+      "id": 1415546,
+      "name": "Vadhir Derbez",
+      "profilePath": "/2RCdA5ZB5m0zAnJngQpZWlMMizG.jpg"
+    },
+    {
+      "character": "",
+      "id": 1193083,
+      "name": "Paulina Dávila",
+      "profilePath": "/2kRoqJjcQE9V1jHg7wCXuvXbUO.jpg"
+    },
+    {
+      "character": "",
+      "id": 1149132,
+      "name": "Christian Vazquez",
+      "profilePath": "/aSybGa97jnNPKwDj1tFK8jzLiOx.jpg"
+    },
+    {
+      "character": "Carlos",
+      "id": 590312,
+      "name": "Eduardo España",
+      "profilePath": "/qdqwOCZ9WbIG0YcFoe6cBuguO4H.jpg"
+    },
+    {
+      "character": "Niño",
+      "id": 4212056,
+      "name": "Anthony Giulietti",
+      "profilePath": null
+    },
+    {
+      "character": "Reportero",
+      "id": 3633753,
+      "name": "David Arizpe",
+      "profilePath": null
+    },
+    {
+      "character": "Switcher",
+      "id": 3701077,
+      "name": "Juan Pablo Salazar",
+      "profilePath": null
+    },
+    {
+      "character": "Paparazzi",
+      "id": 4212057,
+      "name": "Rogelio Nieto",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 94730,
+      "logoPath": "/1fwoMRV4eUpdosHjiveHV91LaXJ.png",
+      "name": "El Estudio"
+    },
+    {
+      "id": 142214,
+      "logoPath": "/16Z9JyKlyfQTdKxfGihK00oCLpQ.png",
+      "name": "Infinity Hill"
+    },
+    {
+      "id": 125586,
+      "logoPath": "/6gOEKQP41YSSzdLgL67FHhuXGdG.png",
+      "name": "VIS"
+    }
+  ],
+  "countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "digitalDate": "2026-08-07",
+  "externalIds": {
+    "imdbId": "tt11866682",
+    "wikidataId": "Q141560847"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 772506,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Amor es amor",
+  "overview": "Enrique Juarez is an up-and-coming Mexican Telenovela actor on the verge of becoming a leading man, that has to hide his true self in order to achieve stardom.",
+  "posterPath": "/ueIkf1QS8yy88CyX1TniCLd18Aj.jpg",
+  "rating": 7.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-08-07",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-08-07"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Love is Love",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "AlE1gH-qkZA",
+      "name": "Love is love | Official Trailer New HULU",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 25,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/772506-amor-es-amor/watch?locale=US",
+      "rent": []
+    }
+  }
+}

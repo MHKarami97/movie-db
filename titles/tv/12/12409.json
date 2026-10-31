@@ -1,0 +1,922 @@
+{
+  "backdropPath": "/ugcdRKcOyUMAr9hAsL058cAX2vj.jpg",
+  "cast": [
+    {
+      "character": "Self - Dance Coach",
+      "id": 5039188,
+      "name": "Jonathan Jenvrin",
+      "profilePath": "/kZ9StFv6WfVprA95GxNlaTGDjx3.jpg"
+    },
+    {
+      "character": "Professeur de théâtre",
+      "id": 5725962,
+      "name": "Alain Degois",
+      "profilePath": "/ql3HCyT4xcWbbGXQCdr3JSTJl1z.jpg"
+    },
+    {
+      "character": "Self - Vocal Coach",
+      "id": 5209866,
+      "name": "Sofia Morgavi",
+      "profilePath": "/nVKRMvTE9XsNhXN6scN4C5N3eB7.jpg"
+    },
+    {
+      "character": "Répétitrice",
+      "id": 4999923,
+      "name": "Fanny Delaigue",
+      "profilePath": "/mLsrhsDyVKuBjXomUJ9IPYWR07a.jpg"
+    },
+    {
+      "character": "Self - Sports Coach",
+      "id": 2892808,
+      "name": "Ladji Doucouré",
+      "profilePath": "/ynroMBFaisHrWcIar43BaQAyJXn.jpg"
+    },
+    {
+      "character": "Mosimann - Directeur",
+      "id": 2729138,
+      "name": "Quentin Mosimann",
+      "profilePath": "/kO1D2tDrIcLSSvoTpOcE8VNDT8l.jpg"
+    },
+    {
+      "character": "Répétitrice",
+      "id": 3877493,
+      "name": "Philippine Lavrey",
+      "profilePath": "/w67ktfsu0j3K5rxAOdcICjiqF3n.jpg"
+    },
+    {
+      "character": "Professeur d’expression scénique",
+      "id": 2144680,
+      "name": "Lydia Bouchard",
+      "profilePath": "/8r5PTaO3FWKICX3HBvq929rVUCq.jpg"
+    },
+    {
+      "character": "Leeloo",
+      "id": 6540072,
+      "name": "Leeloo Van Cauberg",
+      "profilePath": "/gEr5ZeUCUQ06r9CRHJgg77vwtMk.jpg"
+    },
+    {
+      "character": "Zoé",
+      "id": 6540088,
+      "name": "Zoé Smittarello",
+      "profilePath": "/g1X7hWCg7CTa7rR2D3EKtknJgDq.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 132628,
+      "logoPath": null,
+      "name": "Niouprod"
+    },
+    {
+      "id": 98866,
+      "logoPath": "/3kCOX88VCNgihulR3SRTbZjRw3D.png",
+      "name": "DMLS TV"
+    },
+    {
+      "id": 132627,
+      "logoPath": "/b5ejCiwGJtURdX6fqwFmuPoiPv6.png",
+      "name": "Endemol France"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": "2001-10-20",
+  "episodes": {
+    "14": [
+      {
+        "airDate": "2026-10-10",
+        "episodeNumber": 1,
+        "name": "Prime 1",
+        "overview": "",
+        "stillPath": "/ziFY2ZG2byh9ama3kxpNkbWCcI2.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-10-10",
+        "episodeNumber": 2,
+        "name": "Aftershow 1: Arrival at the castle",
+        "overview": "",
+        "stillPath": "/Ap1A1nufHNu7pl1LBdC6awbTRL8.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-10-10",
+        "episodeNumber": 3,
+        "name": "The Live",
+        "overview": "",
+        "stillPath": "/j7BhaphFtsrxWgKLbMWeo7uownl.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-10-12",
+        "episodeNumber": 4,
+        "name": "Daily 1",
+        "overview": "",
+        "stillPath": "/pGBLZ9E0sYHGFbNXTX0Rk0JYX6P.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-10-13",
+        "episodeNumber": 5,
+        "name": "Daily 2",
+        "overview": "",
+        "stillPath": "/3VTlQuhAOksDZZwegslgzcI2jAB.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-14",
+        "episodeNumber": 6,
+        "name": "Daily 3",
+        "overview": "",
+        "stillPath": "/dniIdi5O9xTBC7wFiEX7NyT4KYe.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-10-15",
+        "episodeNumber": 7,
+        "name": "Daily 4",
+        "overview": "",
+        "stillPath": "/7khSNz6rmhK3oK89q3vHnpgljO1.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-16",
+        "episodeNumber": 8,
+        "name": "Daily 5",
+        "overview": "",
+        "stillPath": "/1pbcB8izg8ErS73khZyejjYKufL.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-17",
+        "episodeNumber": 9,
+        "name": "Daily 6",
+        "overview": "",
+        "stillPath": "/qMf13DWLuSJB2pt9gdFmjSbyEE7.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-10-17",
+        "episodeNumber": 10,
+        "name": "Prime 2",
+        "overview": "",
+        "stillPath": "/kObfxOqPxqO6T5aUge0CM4SNftt.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-10-17",
+        "episodeNumber": 11,
+        "name": "Aftershow 2: Back to the castle",
+        "overview": "",
+        "stillPath": "/spvyJR6XoZZvr2x0IpVjZKAiZZZ.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-10-18",
+        "episodeNumber": 12,
+        "name": "Daily 7",
+        "overview": "",
+        "stillPath": "/6NkUXoY0ESPDpP9HjUvKF69KWBq.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-10-19",
+        "episodeNumber": 13,
+        "name": "Daily 8",
+        "overview": "",
+        "stillPath": "/hdjEA8wDhWRmyaAV8ab770Vjxxp.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-10-20",
+        "episodeNumber": 14,
+        "name": "Daily 9",
+        "overview": "",
+        "stillPath": "/qPGMlQt7gYJhKRdM0dj5xLxhOPP.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-21",
+        "episodeNumber": 15,
+        "name": "Daily 10",
+        "overview": "",
+        "stillPath": "/72NbTLjylFbY5PBQqj0qRKrbWfu.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-10-22",
+        "episodeNumber": 16,
+        "name": "Daily 11",
+        "overview": "",
+        "stillPath": "/8T8RjjQxElA8jEde3TTSm3tbSAC.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-10-23",
+        "episodeNumber": 17,
+        "name": "Daily 12",
+        "overview": "",
+        "stillPath": "/A0d5nbyRqWvEyj9m1JS1dJT4xVJ.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-24",
+        "episodeNumber": 18,
+        "name": "Daily 13",
+        "overview": "",
+        "stillPath": "/nZdSFSUsXvPxSFhqanunh936wq1.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-10-24",
+        "episodeNumber": 19,
+        "name": "Prime 3",
+        "overview": "",
+        "stillPath": "/sSwrUeoMRbSiLjt3mrI2YPG4dPv.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-10-24",
+        "episodeNumber": 20,
+        "name": "Aftershow 3: Back to the castle",
+        "overview": "",
+        "stillPath": "/iP3pslrKJnhSMqDaDm4yJ9UUlnk.jpg",
+        "voteAverage": 5
+      },
+      {
+        "airDate": "2026-10-25",
+        "episodeNumber": 21,
+        "name": "Daily 14",
+        "overview": "",
+        "stillPath": "/wCcrtgE8g3tqmmXtXbEse1cNGch.jpg",
+        "voteAverage": 6
+      },
+      {
+        "airDate": "2026-10-26",
+        "episodeNumber": 22,
+        "name": "Daily 15",
+        "overview": "",
+        "stillPath": "/5fhgjiaMTCdMRiGM7bMVudiyNj7.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-10-27",
+        "episodeNumber": 23,
+        "name": "Daily 16",
+        "overview": "",
+        "stillPath": "/uSqThkfXnI4MiChMT8wadqKk5bL.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-10-28",
+        "episodeNumber": 24,
+        "name": "Daily 17",
+        "overview": "",
+        "stillPath": "/3xLdbF1msBBLD0v4wyBGcFwNbzO.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-10-29",
+        "episodeNumber": 25,
+        "name": "Daily 18",
+        "overview": "",
+        "stillPath": "/u99P6x3d8cFknfKV4littUfJPOO.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-10-30",
+        "episodeNumber": 26,
+        "name": "Daily 19",
+        "overview": "",
+        "stillPath": "/dtUs6Am2uBGVDuldUznbw10216B.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-10-31",
+        "episodeNumber": 27,
+        "name": "Daily 20",
+        "overview": "",
+        "stillPath": "/aEAmYdYRDeqmHI1rrXPrNq0ONVV.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-10-31",
+        "episodeNumber": 28,
+        "name": "Prime 4",
+        "overview": "",
+        "stillPath": "/af8W9MKe5GEht3LdjL2JIBphuoy.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-10-31",
+        "episodeNumber": 29,
+        "name": "Aftershow 4: Back to the castle",
+        "overview": "",
+        "stillPath": "/3muTGIauPpTgFX2lrpmicfkp3Z1.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-11-01",
+        "episodeNumber": 30,
+        "name": "Daily 21",
+        "overview": "",
+        "stillPath": "/wGbFT2mxrMbO6GWNiHITUeAETag.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-11-02",
+        "episodeNumber": 31,
+        "name": "Episode 31",
+        "overview": "",
+        "stillPath": "/ktx1NaGprgSWEcCR5CHpfnFykoo.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-11-03",
+        "episodeNumber": 32,
+        "name": "Daily 23",
+        "overview": "",
+        "stillPath": "/75EiA4ofYIycLSYb64j4Ppc6qwv.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-11-04",
+        "episodeNumber": 33,
+        "name": "Daily 24",
+        "overview": "",
+        "stillPath": "/3FzQEEkrnnHyiiC5E5F4mzDoE6w.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-11-05",
+        "episodeNumber": 34,
+        "name": "Daily 25",
+        "overview": "",
+        "stillPath": "/ea8qUeKI4w42jKRGhPtXf7mOSud.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-11-06",
+        "episodeNumber": 35,
+        "name": "Daily 26",
+        "overview": "",
+        "stillPath": "/wwb7a6AKKioLijizD9ZGiNjBKss.jpg",
+        "voteAverage": 6
+      },
+      {
+        "airDate": "2026-11-06",
+        "episodeNumber": 36,
+        "name": "Prime 5",
+        "overview": "",
+        "stillPath": "/cvwT6msjVrzLchkFagrDHqv75QZ.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-11-06",
+        "episodeNumber": 37,
+        "name": "Aftershow 5: Back to the castle",
+        "overview": "",
+        "stillPath": "/hGcQ7Qv2xlRxMnAgMNdMnpoypyQ.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-11-07",
+        "episodeNumber": 38,
+        "name": "Episode 38",
+        "overview": "",
+        "stillPath": "/dCqA6fKIvMLcbG9nw9vToas615A.jpg",
+        "voteAverage": 6
+      },
+      {
+        "airDate": "2026-11-08",
+        "episodeNumber": 39,
+        "name": "Episode 39",
+        "overview": "",
+        "stillPath": "/jwTyrhUFD5ibVGDyLxSgqWDqv4f.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-11-09",
+        "episodeNumber": 40,
+        "name": "Episode 40",
+        "overview": "",
+        "stillPath": "/A4gQk2r4zRDdAaSvQ0Kz46FDJrK.jpg",
+        "voteAverage": 6
+      },
+      {
+        "airDate": "2026-11-10",
+        "episodeNumber": 41,
+        "name": "Episode 41",
+        "overview": "",
+        "stillPath": "/kFmyfee5dPn25YQHbUSQkmAgXyq.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-11-11",
+        "episodeNumber": 42,
+        "name": "Episode 42",
+        "overview": "",
+        "stillPath": "/lEgxU4M9ixs7qBAeraeoN6pe0lx.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-11-12",
+        "episodeNumber": 43,
+        "name": "Episode 43",
+        "overview": "",
+        "stillPath": "/ulUxaPU4axj4z8ZM36qe6tFH8T3.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-11-13",
+        "episodeNumber": 44,
+        "name": "Episode 44",
+        "overview": "",
+        "stillPath": "/50kfyhG8cjR9UsQc9hXu2IkdvPq.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-11-14",
+        "episodeNumber": 45,
+        "name": "Episode 45",
+        "overview": "",
+        "stillPath": "/mwYvpVl1HhsZCZxMt19dEhU3YKA.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-11-14",
+        "episodeNumber": 46,
+        "name": "Episode 46",
+        "overview": "",
+        "stillPath": "/8233dqhgQLPglRyyVqVMpzxoq6U.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-11-14",
+        "episodeNumber": 47,
+        "name": "Episode 47",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-15",
+        "episodeNumber": 48,
+        "name": "Episode 48",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-16",
+        "episodeNumber": 49,
+        "name": "Episode 49",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-17",
+        "episodeNumber": 50,
+        "name": "Episode 50",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-18",
+        "episodeNumber": 51,
+        "name": "Episode 51",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-19",
+        "episodeNumber": 52,
+        "name": "Episode 52",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-20",
+        "episodeNumber": 53,
+        "name": "Episode 53",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-20",
+        "episodeNumber": 54,
+        "name": "Episode 54",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-20",
+        "episodeNumber": 55,
+        "name": "Episode 55",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-21",
+        "episodeNumber": 56,
+        "name": "Episode 56",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-22",
+        "episodeNumber": 57,
+        "name": "Episode 57",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-23",
+        "episodeNumber": 58,
+        "name": "Episode 58",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-24",
+        "episodeNumber": 59,
+        "name": "Episode 59",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-25",
+        "episodeNumber": 60,
+        "name": "Episode 60",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-26",
+        "episodeNumber": 61,
+        "name": "Episode 61",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-27",
+        "episodeNumber": 62,
+        "name": "Episode 62",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-28",
+        "episodeNumber": 63,
+        "name": "Episode 63",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-28",
+        "episodeNumber": 64,
+        "name": "Episode 64",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-28",
+        "episodeNumber": 65,
+        "name": "Episode 65",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-29",
+        "episodeNumber": 66,
+        "name": "Episode 66",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-30",
+        "episodeNumber": 67,
+        "name": "Episode 67",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-01",
+        "episodeNumber": 68,
+        "name": "Episode 68",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-02",
+        "episodeNumber": 69,
+        "name": "Episode 69",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-03",
+        "episodeNumber": 70,
+        "name": "Episode 70",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-04",
+        "episodeNumber": 71,
+        "name": "Episode 71",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "staracademy.fr",
+    "imdbId": "tt0306398",
+    "instagramId": "staracademy",
+    "twitterId": "staracademy",
+    "wikidataId": "Q632179"
+  },
+  "fetchedAt": 1794716402201,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 12409,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-11-14",
+    "episodeNumber": 47,
+    "id": 8087707,
+    "name": "Episode 47",
+    "overview": "",
+    "seasonNumber": 14
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-15",
+    "episodeNumber": 48,
+    "id": 8087708,
+    "name": "Episode 48",
+    "overview": "",
+    "seasonNumber": 14
+  },
+  "originalTitle": "Star Academy",
+  "overview": "انجمن ستارگان (استار آکادمی) یک برنامه تلویزیونی واقعیت‌محور فرانسوی است که توسط شرکت هلندی اندمول تولید می‌شود. این برنامه شامل یک رقابت خوانندگان جوان است. این برنامه موجب تولید یک برنامه موفق مشابه در کبک به نام استار آکادمی (انجمن ستارگان) شده است. این برنامه در شبکه NRJ12 پخش می‌شود. در پایان هر فصل، شرکت کنندگان انتخاب شده برای توری به سراسر فرانسه، مراکش، سوئیس، بلژیک، تونس و سایر کشورهای فرانسوی زبان می‌روند.",
+  "posterPath": "/26qS8VmB7PgtkkBuA0J20nmTish.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2001-10-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2001-10-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2001-10-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2001-10-20",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2001-10-20"
+    },
+    "CN": {
+      "tv": "2001-10-20"
+    },
+    "GB": {
+      "tv": "2001-10-20"
+    },
+    "US": {
+      "tv": "2001-10-20"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2003-02-01",
+      "episodeCount": 9,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2001-10-20",
+      "episodeCount": 86,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/fuSKxZugg1iRGH17MQA4TA0m36D.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2002-08-31",
+      "episodeCount": 114,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/vDLFWKTle0AQiuBWV9Q7hABy0Bq.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2003-08-30",
+      "episodeCount": 23,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/5Go4UBExBQm3g9PLe538lUSv5iL.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2004-09-03",
+      "episodeCount": 17,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/bIzjFhwmVJ9pJNVDRT7Cl6BrdI3.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2005-09-02",
+      "episodeCount": 16,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/b7TaNwkkrAhLe3FSK0zYt0RDLzX.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2006-09-01",
+      "episodeCount": 17,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/8SUdBtOwQqD0DDwshZdOMMBVza2.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2007-10-23",
+      "episodeCount": 17,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/qCg2qUaPJkNnVcGlfJweHxFFJVV.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2008-09-19",
+      "episodeCount": 14,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/xWtpHLuEHcgJ7evbLc6MM7zBzQX.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2012-12-06",
+      "episodeCount": 75,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/fa2HcAH3TMmZ2P2xyDtgCAchdFB.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2022-10-15",
+      "episodeCount": 49,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/26qS8VmB7PgtkkBuA0J20nmTish.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2023-11-04",
+      "episodeCount": 119,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": "/2cJBwW84gHtspvcAXQrAhDicBDg.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2024-10-12",
+      "episodeCount": 137,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": "/iCWoMzVsYKz3VeWcNiRWLTx0tAB.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2025-10-18",
+      "episodeCount": 146,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": "/6taaQVIaZaFOVRPVwa7bDp6bFgr.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2026-10-10",
+      "episodeCount": 71,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": "/AgYbu3JnQX33kL8SFpwaWTo83kv.jpg",
+      "seasonNumber": 14
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Star Academy",
+  "translations": {
+    "faOverview": "انجمن ستارگان (استار آکادمی) یک برنامه تلویزیونی واقعیت‌محور فرانسوی است که توسط شرکت هلندی اندمول تولید می‌شود. این برنامه شامل یک رقابت خوانندگان جوان است. این برنامه موجب تولید یک برنامه موفق مشابه در کبک به نام استار آکادمی (انجمن ستارگان) شده است. این برنامه در شبکه NRJ12 پخش می‌شود. در پایان هر فصل، شرکت کنندگان انتخاب شده برای توری به سراسر فرانسه، مراکش، سوئیس، بلژیک، تونس و سایر کشورهای فرانسوی زبان می‌روند.",
+    "faTitle": "انجمن ستارگان"
+  },
+  "type": "tv",
+  "videos": [],
+  "voteCount": 18,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 584,
+          "logoPath": "/52htht83nlt2aAobIug88TeiWvO.png",
+          "name": "Discovery+ Amazon Channel"
+        },
+        {
+          "id": 520,
+          "logoPath": "/tHseJEgZaUdVlLtBpOGmKPfzbQ8.png",
+          "name": "Discovery +"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/12409-star-academy/watch?locale=US",
+      "rent": []
+    }
+  }
+}

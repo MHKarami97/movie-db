@@ -1,0 +1,102 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Yazdan",
+      "id": 4964175,
+      "name": "Yazdan Tabrizi",
+      "profilePath": "/74Wz0tBlAOaCOAGHer3eyxArY8A.jpg"
+    },
+    {
+      "character": "Nayer Joon",
+      "id": 6169542,
+      "name": "Nayereh Ahmadzadeh",
+      "profilePath": null
+    },
+    {
+      "character": "Zarrin",
+      "id": 4038299,
+      "name": "Negin Tahamtan",
+      "profilePath": "/h5k4BCqDO11KyraujCJx1YXdE1g.jpg"
+    },
+    {
+      "character": "Asal",
+      "id": 3268779,
+      "name": "Shabnam Dadkhah",
+      "profilePath": "/m3gPBHUCTMb7J52oQopDpVGV2Rl.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 240064,
+      "logoPath": null,
+      "name": "Studio +98"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IR",
+      "name": "Iran"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1795640243421,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "id": 1682439,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fa",
+      "name": "Persian"
+    }
+  ],
+  "originalTitle": "سکوت جنگ",
+  "overview": "Yazdan, a man in his mid thirties, is the only family his grandmother has. Her eyesight and hearing are fading, she lives with Alzheimer’s, and she refuses to leave the apartment she no longer fully recognizes. When Israeli airstrikes reach Tehran and her caretaker flees the city, Yazdan remains behind as her sole companion, bound to someone who has no idea there is a war going on outside. Inside the apartment, distant explosions and fragments of television broadcasts intrude, yet their shared reality divides: for her, nothing has changed; for him, everything has. What unfolds is not a story of conflict but of perception – an intimate portrait of love, absence, and the fragile boundary between remembering and forgetting.",
+  "posterPath": "/27IOUCvvKVijOD4hZOucwrNEr23.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 78,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Confined to a Tehran apartment, a man and his grandmother inhabit two incompatible realities as memory slowly dissolves their perception of the war outside.",
+  "theatricalDate": null,
+  "title": "No Sight No Sound",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

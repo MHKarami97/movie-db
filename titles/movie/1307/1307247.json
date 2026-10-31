@@ -1,0 +1,160 @@
+{
+  "backdropPath": "/ddrLCUT8hqSlEICTTbdlFYB5q4a.jpg",
+  "cast": [
+    {
+      "character": "Lee Mi-yeong",
+      "id": 121149,
+      "name": "Uhm Jung-hwa",
+      "profilePath": "/m2FWdLDVttcMrKcAjMKQx6Zhtfj.jpg"
+    },
+    {
+      "character": "Oh Seok-hwan",
+      "id": 139493,
+      "name": "Park Sung-woong",
+      "profilePath": "/m6k3SCs4ppc73PaYQuGsVctmGTg.jpg"
+    },
+    {
+      "character": "Lee Cheol-seung",
+      "id": 1257610,
+      "name": "Lee Sang-yun",
+      "profilePath": "/kxLb9xvL94Q4Z6ELYU8OLjVzZCZ.jpg"
+    },
+    {
+      "character": "Jung Hyun-min",
+      "id": 2055923,
+      "name": "Bae Jung-nam",
+      "profilePath": "/m4DnODpzR5850HZZTnNQyPwyhQQ.jpg"
+    },
+    {
+      "character": "Im Ji-hoon",
+      "id": 2621980,
+      "name": "Ryeoun",
+      "profilePath": "/loev88wySqUjZHPL5Oq1AcOzBxN.jpg"
+    },
+    {
+      "character": "Bae Sun-ah",
+      "id": 1295461,
+      "name": "Park Jin-joo",
+      "profilePath": "/2loUUZGfslGkGComTUMp6ON2Kuc.jpg"
+    },
+    {
+      "character": "Anya",
+      "id": 1326874,
+      "name": "Sooyoung Choi",
+      "profilePath": "/ttti8CMjJzevHQFkIubJDDy7YDK.jpg"
+    },
+    {
+      "character": "Oh Nari",
+      "id": 3107438,
+      "name": "Jeong Su-been",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 147852,
+      "name": "Kim Eung-soo",
+      "profilePath": "/rQK4S4x756pAaNsIGfaQISb8ZKi.jpg"
+    },
+    {
+      "character": "",
+      "id": 2421130,
+      "name": "Oh Min-ae",
+      "profilePath": "/cVd5j6TLTLJ2aU5UwwI1Lkm5BdV.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 20247,
+      "logoPath": null,
+      "name": "OAL"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt43669175",
+    "wikidataId": "Q140571820"
+  },
+  "fetchedAt": 1795557021035,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1307247,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "originalTitle": "오케이 마담 2",
+  "overview": "Six years after the Hawaii airplane hijacking, Mi-yeong finds herself struggling with her rebellious teenage daughter, Nari, and her unemployed husband, Seok-hwan. When Hyun-min, a flight attendant she met during the hijacking, invites her family to his wedding aboard a luxury cruise ship, Mi-yeong eagerly proposes a family holiday. Met with indifference from her husband and daughter, she decides to embark alone, joining Hyun-min's family and Ji-hoon, a charming magician. However, on the eve of the wedding, the celebration turns deadly when armed assailants seize the ship. After Seok-hwan and Nari are kidnapped and brought aboard, Mi-yeong discovers that she is the target of a much larger plot.",
+  "posterPath": "/dq812w78I0UnE7ELLiiDZJ8mawX.jpg",
+  "rating": 5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-21"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatricalLimited": "2026-08-21"
+    }
+  },
+  "runtime": 109,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "All aboard! OK?",
+  "theatricalDate": "2026-08-21",
+  "title": "OK! Madam: Bon Voyage",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1307247-okei-madam-2/watch?locale=US",
+      "rent": [
+        {
+          "id": 344,
+          "logoPath": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+          "name": "Rakuten Viki"
+        }
+      ]
+    }
+  }
+}

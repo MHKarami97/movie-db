@@ -1,0 +1,132 @@
+{
+  "backdropPath": "/8kiI7O8EHGBxRZy93XLjSYSaVXt.jpg",
+  "cast": [
+    {
+      "character": "Self (archive footage)",
+      "id": 57563,
+      "name": "Elon Musk",
+      "profilePath": "/i5a0XRXLfu0meGB3g5Sy4qP8pY.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 33663,
+      "name": "Donald Trump",
+      "profilePath": "/oDmVFoqIzxOyZejGjy3J5QrUmjM.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 8197,
+      "logoPath": "/614xBoHyCqgiCK8qbGZXreholvh.png",
+      "name": "Beetz Brothers Film Production"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36303056"
+  },
+  "fetchedAt": 1794071861044,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1567688,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "Elon Musk Uncovered: Das Tesla-Experiment",
+  "overview": "It's 2014 and tech billionaire Elon Musk unveils his plans for a self-driving car in front of an enthusiastic audience. What consumers don't know is that Tesla's \"autopilot\" function is far from road-ready, and new owners are being used to improve the software by providing their data. A fatal accident in Florida triggers a protracted lawsuit to hold Tesla accountable. And it's not the only incident. Shocking footage from dashcams and security cameras shows the ruthlessness of Tesla cars suddenly braking or accelerating—and the crashes that follow. Then, an employee leaks thousands of documents containing complaints from users.",
+  "posterPath": "/q8UezdbA8D6Xxy9RsDcwTd3nffO.jpg",
+  "rating": 8.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Elon Musk Unveiled: The Tesla Experiment",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1567688-elon-musk-uncovered-das-tesla-experiment/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1567688-elon-musk-uncovered-das-tesla-experiment/watch?locale=US",
+      "rent": []
+    }
+  }
+}

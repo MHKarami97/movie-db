@@ -1,0 +1,207 @@
+{
+  "backdropPath": "/zC6PVkXlTKDhThohbLl2qycCcjI.jpg",
+  "cast": [
+    {
+      "character": "Naomi",
+      "id": 47720,
+      "name": "Ruth Wilson",
+      "profilePath": "/fdFVatb9pt5dfT9tDK8tikKWafS.jpg"
+    },
+    {
+      "character": "Harry",
+      "id": 21343,
+      "name": "Ben Chaplin",
+      "profilePath": "/oJc9gA7cRvRg1v4tgeAmpkaqFxO.jpg"
+    },
+    {
+      "character": "Johanna",
+      "id": 4902344,
+      "name": "Cameron Dawson Gray",
+      "profilePath": "/6PCNHrrTBrt7t23jrlpnYgIVEGo.jpg"
+    },
+    {
+      "character": "Samuel",
+      "id": 78018,
+      "name": "Allan Corduner",
+      "profilePath": "/9bZTEBUjY02UeooNnghZXxKfiO7.jpg"
+    },
+    {
+      "character": "The Children's Devil",
+      "id": 3308418,
+      "name": "Ryan Lucy",
+      "profilePath": "/7mJtFmLv6E3WHv90i0Voh11MEWu.jpg"
+    },
+    {
+      "character": "Stanley",
+      "id": 5224030,
+      "name": "Beau McConnell",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 181874,
+      "logoPath": "/crrgXvLhDO9c57HYrbO4H58Vxmb.png",
+      "name": "Fifth Season"
+    },
+    {
+      "id": 106178,
+      "logoPath": null,
+      "name": "51 Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States"
+    }
+  ],
+  "digitalDate": "2026-09-25",
+  "externalIds": {
+    "imdbId": "tt30834999",
+    "wikidataId": "Q124850759"
+  },
+  "fetchedAt": 1795811653654,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1229906,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Family",
+  "overview": "A 10-year-old girl begins to believe her parents are trying to kill her. Convinced a sinister spirit is to blame, she spirals into a haunting fantasy world that mirrors her deepest fears.",
+  "posterPath": "/cTXGUz1Mle56A6vAK2GAf1j8Wtn.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-25",
+      "gapDays": 0,
+      "theatricalDate": "2026-09-25"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-09-25",
+      "premiere": "2024-03-08",
+      "theatricalLimited": "2026-09-25"
+    }
+  },
+  "runtime": 95,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "We hurt the ones we love.",
+  "theatricalDate": "2026-09-25",
+  "title": "Family",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "iSMs7CnxA5g",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 19,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1229906-family/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

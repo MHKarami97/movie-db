@@ -1,0 +1,180 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 11519,
+      "name": "Larry Hankin",
+      "profilePath": "/2uR8SZ9geiSQOpBhKrerh9qY7CX.jpg"
+    },
+    {
+      "character": "",
+      "id": 2154778,
+      "name": "Kevin Ezekiel Ogunleye",
+      "profilePath": "/1tmk9bZsoxCT3JJINetQSO8ae3w.jpg"
+    },
+    {
+      "character": "",
+      "id": 63007,
+      "name": "Kincsö Pethö",
+      "profilePath": "/caikYs5IgdiKyxgT8XJbOeGlCWp.jpg"
+    },
+    {
+      "character": "",
+      "id": 3756674,
+      "name": "Zsolt Kormendy",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 5371579,
+      "name": "Kata Domján",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 4600559,
+      "name": "Jacob Channell",
+      "profilePath": "/tH4QNJy6dBhW3C1p55zcAR9Y8mQ.jpg"
+    },
+    {
+      "character": "",
+      "id": 4885643,
+      "name": "Dan Michael Jedrejczyk",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 5793025,
+      "name": "Martin O'Regan",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 3787056,
+      "name": "Rita Sigmond",
+      "profilePath": "/rNPsGwqGDF4nBzsHMV6dxosxqx4.jpg"
+    },
+    {
+      "character": "The Innkeeper",
+      "id": 5066418,
+      "name": "Sam Pembroke",
+      "profilePath": "/pCVgxpqoYLUj96c3sEYE9JPb9Zg.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 279254,
+      "logoPath": null,
+      "name": "Raging Inferno Productions"
+    },
+    {
+      "id": 214499,
+      "logoPath": null,
+      "name": "McClurg Productions"
+    },
+    {
+      "id": 124731,
+      "logoPath": null,
+      "name": "Lazy Cat Films"
+    },
+    {
+      "id": 83084,
+      "logoPath": "/sy1Kzen4IaLMw41Qfd0N76Sz2oJ.png",
+      "name": "Elekes Pictures"
+    },
+    {
+      "id": 241357,
+      "logoPath": null,
+      "name": "Lentsch Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    {
+      "code": "US",
+      "name": "United States"
+    }
+  ],
+  "digitalDate": "2026-11-24",
+  "externalIds": {
+    "imdbId": "tt37038718",
+    "wikidataId": "Q140453396"
+  },
+  "fetchedAt": 1795845173112,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1573791,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Echoes from the Midnight Mansion",
+  "overview": "A writer finds six bone-chilling tapes in an abandoned mansion that unleash horror, pushing the boundaries of suspense, mystery and fear to the extreme.",
+  "posterPath": "/kG2haZZXWSzECu6b4CODwY4Yd85.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-24",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-24"
+    }
+  },
+  "runtime": 125,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Make yourself at home.",
+  "theatricalDate": null,
+  "title": "Echoes from the Midnight Mansion",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "XMPE6kQz92k",
+      "name": "ECHOES FROM THE MIDNIGHT MANSION (2027) Official Trailer | Found Footage Horror Anthology",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

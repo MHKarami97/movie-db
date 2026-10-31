@@ -1,0 +1,96 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2027-07-25",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-07-25",
+        "episodeNumber": 1,
+        "name": "Phantom Engine",
+        "overview": "An old enemy returns from the past seeking revenge.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 334692,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-07-25",
+    "episodeNumber": 1,
+    "id": 7790267,
+    "name": "Phantom Engine",
+    "overview": "An old enemy returns from the past seeking revenge.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Reign of Spessartite",
+  "overview": "A criminal empire risks falling as a threat returns from the shadows seeking to take down the enterprise.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-07-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-07-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-07-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-07-25",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-07-25"
+    },
+    "CN": {
+      "tv": "2027-07-25"
+    },
+    "GB": {
+      "tv": "2027-07-25"
+    },
+    "US": {
+      "tv": "2027-07-25"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-07-25",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Reign of Spessartite",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

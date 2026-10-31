@@ -1,0 +1,255 @@
+{
+  "backdropPath": "/vRHqW0ub2i36cmxrp2DlhM8mjUk.jpg",
+  "cast": [
+    {
+      "character": "Dianne",
+      "id": 2956,
+      "name": "Amanda Peet",
+      "profilePath": "/5TfyCj0X9ftKO11FN057P05s78C.jpg"
+    },
+    {
+      "character": "Sam",
+      "id": 1502216,
+      "name": "Matthew Shear",
+      "profilePath": "/7BsnupbG1Bjj4w3N3Qhyci1TfAk.jpg"
+    },
+    {
+      "character": "David",
+      "id": 4941,
+      "name": "Alessandro Nivola",
+      "profilePath": "/53wfpjSwPTMwhfuOSdgGgojMI8m.jpg"
+    },
+    {
+      "character": "Fred",
+      "id": 6167,
+      "name": "Judd Hirsch",
+      "profilePath": "/7rJ0TZfMoPLTcO203tHhE6tcPKP.jpg"
+    },
+    {
+      "character": "Lenny",
+      "id": 12438,
+      "name": "Bob Balaban",
+      "profilePath": "/qceORed11dvRnxQjVGexPvgF5Xu.jpg"
+    },
+    {
+      "character": "Helen",
+      "id": 8263,
+      "name": "Andrea Martin",
+      "profilePath": "/lOP6nvTOvqpdHtEMfLCvNqUaRnp.jpg"
+    },
+    {
+      "character": "Jenny",
+      "id": 206966,
+      "name": "Zosia Mamet",
+      "profilePath": "/8G4n5CMVhzKfYworKrc9Pd2QjHm.jpg"
+    },
+    {
+      "character": "Toby",
+      "id": 69055,
+      "name": "Jessica Harper",
+      "profilePath": "/oKwPtsJ8DcESvLXYe6Q05Q18YVB.jpg"
+    },
+    {
+      "character": "Dr. Greene",
+      "id": 11318,
+      "name": "Holland Taylor",
+      "profilePath": "/jt9yFB3nLfZQ0c1DcnvvcfA11gB.jpg"
+    },
+    {
+      "character": "Alan",
+      "id": 1785090,
+      "name": "Sheng Wang",
+      "profilePath": "/swiLAMO5KQuy2TAEFbZfqoS9xm5.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 253384,
+      "logoPath": "/1RuluRPQSSImoaq1EMGEPKrDzBf.png",
+      "name": "Prospect Avenue"
+    },
+    {
+      "id": 175871,
+      "logoPath": "/mW5MYIRz6e4NjTCugfCl8zPKAFQ.png",
+      "name": "Made by Limbo"
+    },
+    {
+      "id": 286239,
+      "logoPath": null,
+      "name": "Charlie's Production Company"
+    },
+    {
+      "id": 212729,
+      "logoPath": "/jjilfsb437t3xbU2Xu4dICDqFzs.png",
+      "name": "AC3 Media"
+    },
+    {
+      "id": 18346,
+      "logoPath": "/wZT3JBshK7M7ChquboLlPyV9L0p.png",
+      "name": "Burn Later Productions"
+    },
+    {
+      "id": 149326,
+      "logoPath": "/hP9R5eLyaKOHbNNFjt4hnWrNDKA.png",
+      "name": "Greenwich Entertainment"
+    },
+    {
+      "id": 164270,
+      "logoPath": "/1OywoOPggYamt59gcpPSC9PILSV.png",
+      "name": "Vortex Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-05-08",
+  "externalIds": {
+    "imdbId": "tt35519497",
+    "wikidataId": "Q133172721"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 35,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1421977,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Fantasy Life",
+  "overview": "An anxious New York law school dropout stumbles into a job babysitting his psychiatrist's three granddaughters and falls for the girls' mother, an actress in a rocky marriage.",
+  "posterPath": "/e0qtdCm7TJGRfMv0tmdP8DsOy3U.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-08",
+      "gapDays": 35,
+      "theatricalDate": "2026-04-03"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-05-08",
+      "premiere": "2025-03-08",
+      "theatrical": "2026-04-03",
+      "theatricalLimited": "2026-03-27"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-04-03",
+  "title": "Fantasy Life",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "r3fIf8RnxBs",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1421977-fantasy-life/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

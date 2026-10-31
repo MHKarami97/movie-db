@@ -1,0 +1,637 @@
+{
+  "backdropPath": "/eBoBenOIiQA9i9pkoZ25poBgCg9.jpg",
+  "cast": [
+    {
+      "character": "Caspar Bergmann",
+      "id": 35264,
+      "name": "Thomas Heinze",
+      "profilePath": "/i8j5uOthHZl1DndZClKdRFdhlnJ.jpg"
+    },
+    {
+      "character": "Annabell Lorenz",
+      "id": 55646,
+      "name": "Stephanie Stumph",
+      "profilePath": "/9f3QuNDPqINX5BECN9qfV72CegQ.jpg"
+    },
+    {
+      "character": "Julia Lulu Zhao",
+      "id": 2189127,
+      "name": "Yun Huang",
+      "profilePath": null
+    },
+    {
+      "character": "Dr. Luisa Geiger",
+      "id": 57045,
+      "name": "Sidonie von Krosigk",
+      "profilePath": "/ogSLJqTrpTpvzBx9h3uIDqvr3bk.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1609,
+      "logoPath": null,
+      "name": "Neue Münchner Fernsehproduktion"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "1977-04-11",
+  "episodes": {
+    "55": [
+      {
+        "airDate": "2026-04-03",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": "/opetthDFrDAdwgWqJwIIdVxHyfv.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-04-10",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": "/qwcvx31RjtHDTDqssB5HJe1GJaE.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-04-17",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": "/fBidgIGYaw73SAOj3BcOZ5KGcSA.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-04-24",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": "/kdT6yxX9VWWztsU3Ec8F9Osebjt.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-05-01",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": "/smTeYbgVv6xLhV9ZJ2GM99X64VZ.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-05-08",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": "/obhzsW8PKcU8QAezgSO7CRH7211.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-05-15",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": "/oPMqVrSeqhuLbO4H0chgOGGPhlP.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-05-22",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": "/39fSEoNj4m3PCBF74nCbqsOjAbZ.jpg",
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt0075474",
+    "wikidataId": "Q687483"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 37971,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-05-22",
+    "episodeNumber": 8,
+    "id": 7089648,
+    "name": "Episode 8",
+    "overview": "",
+    "seasonNumber": 55
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Der Alte",
+  "overview": "A police department, lead by an older, experienced detective solve crimes together.",
+  "posterPath": "/mdgVarlF8LQgFFQMpUXTyb0EM9T.jpg",
+  "rating": 6.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1977-04-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1977-04-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1977-04-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1977-04-11",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1977-04-11"
+    },
+    "CN": {
+      "tv": "1977-04-11"
+    },
+    "GB": {
+      "tv": "1977-04-11"
+    },
+    "US": {
+      "tv": "1977-04-11"
+    }
+  },
+  "runtime": 60,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "1977-04-11",
+      "episodeCount": 9,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/9SkP0qERhRG4j1taHA992MrYkwj.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1978-01-27",
+      "episodeCount": 13,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/fBAcviqqzewrBzKOKpfN2oMJO9C.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1979-01-19",
+      "episodeCount": 13,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/t2DlAz7Hr7gQ5mZNVh4WgeHK3iv.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1980-01-18",
+      "episodeCount": 12,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/fg2S9ZD5brz50l63H9sysIEHKL4.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1981-01-09",
+      "episodeCount": 8,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/eXsrSDW7uWsmvbX25pKouIPacJB.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1982-01-08",
+      "episodeCount": 10,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/9Qfn5Ah4gDAOZ7cszTf9WrwIoDi.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1983-02-18",
+      "episodeCount": 10,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/wlFrrY3slf04NmsayfNVWytXOeL.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1984-01-06",
+      "episodeCount": 12,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/qr5IjZGy3xSA8JX9WrAy2442ibv.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1985-01-04",
+      "episodeCount": 12,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/eTLNNie6kGTmirsYoj1PVw8Oxx.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1986-01-12",
+      "episodeCount": 12,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/hlUyjgzxQYlkPDWkir7O8ZqzoV5.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "1987-01-16",
+      "episodeCount": 12,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": "/wFqaeA4hDJtJVPDa3EE0C7vloaP.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "1988-01-22",
+      "episodeCount": 12,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": "/v6BbL50UFCsBxp2AqVV2ZAcV3mQ.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "1989-01-20",
+      "episodeCount": 10,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": "/tWQ3mWcqJEtXwDrZ6NCNOgC67dq.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "1990-01-19",
+      "episodeCount": 11,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": "/StmtHI2iG4xjvULDr7AmBmCy1A.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "1991-01-18",
+      "episodeCount": 11,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": "/q6gArcsIKr0jtBbdSvl1QmOYCjY.jpg",
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "1992-01-24",
+      "episodeCount": 11,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": "/5HvX6yPaGv8nOAO2aSS2CFTbOVN.jpg",
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "1993-01-29",
+      "episodeCount": 11,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": "/fzIz8VIiww3IsL1mAzj09lQZUY1.jpg",
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "1994-01-21",
+      "episodeCount": 11,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": "/pTO8TIXliYVJJ5KfKSUZ8bsDRss.jpg",
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "1995-01-20",
+      "episodeCount": 11,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": "/vOFOFkr1QV0OTAQuM1uuojNVkoe.jpg",
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "1996-01-19",
+      "episodeCount": 10,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": "/6aQawCAFSJCAnJcMQdItYDURDrj.jpg",
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "1997-01-17",
+      "episodeCount": 12,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": "/A2C9vyfXeoddRQs1xveidHVmoeG.jpg",
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "1998-01-09",
+      "episodeCount": 9,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": "/nYFcEe50Pzondi4WRJffdrIUDXT.jpg",
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "1999-01-08",
+      "episodeCount": 8,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": "/5uEWNpLek8dxCGMrRFmSRw4ML39.jpg",
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2000-01-07",
+      "episodeCount": 12,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": "/fGWfHXVJpj6fHtelng5Uf5jUgzd.jpg",
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2001-02-09",
+      "episodeCount": 10,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": "/w1095dJQqbJO15cH50XDFDFHkPw.jpg",
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "2002-01-25",
+      "episodeCount": 9,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": "/rJr9EenQyexg0nkayopUyXnxCLk.jpg",
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "2003-03-01",
+      "episodeCount": 11,
+      "name": "Season 27",
+      "overview": "",
+      "posterPath": "/cE4iI6E5fPekiMhG6qiLCMjPFYx.jpg",
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "2004-04-09",
+      "episodeCount": 10,
+      "name": "Season 28",
+      "overview": "",
+      "posterPath": "/tqswEyc4jTjJNwURGOjDyvA6q8z.jpg",
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "2005-04-08",
+      "episodeCount": 8,
+      "name": "Season 29",
+      "overview": "",
+      "posterPath": "/lE27wBYNYLYrAiWnqsADnwUFoBB.jpg",
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "2006-04-14",
+      "episodeCount": 4,
+      "name": "Season 30",
+      "overview": "",
+      "posterPath": "/kfD7gthncYR8wL17ro9c1e73m4Y.jpg",
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "2007-03-02",
+      "episodeCount": 8,
+      "name": "Season 31",
+      "overview": "",
+      "posterPath": "/ibPEzYQw3CAHG7Ovdd5N4p91Wgg.jpg",
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "2008-03-07",
+      "episodeCount": 13,
+      "name": "Season 32",
+      "overview": "",
+      "posterPath": "/l7P4gAvixJDLQ4H3AfQxInXOLHr.jpg",
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "2009-04-03",
+      "episodeCount": 5,
+      "name": "Season 33",
+      "overview": "",
+      "posterPath": "/lzqA1FDGlR5VZLckDP8m4wziO9x.jpg",
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "2009-08-28",
+      "episodeCount": 4,
+      "name": "Season 34",
+      "overview": "",
+      "posterPath": "/fhlqCHaqmzt4dqPhKKR7teuPBm5.jpg",
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "2010-03-19",
+      "episodeCount": 4,
+      "name": "Season 35",
+      "overview": "",
+      "posterPath": "/6CVIeCuGbg4IfQTuLrqqQipgK1J.jpg",
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "2010-09-10",
+      "episodeCount": 4,
+      "name": "Season 36",
+      "overview": "",
+      "posterPath": "/bjQoOgHmM8v69gjYNOtHQdVyvNZ.jpg",
+      "seasonNumber": 36
+    },
+    {
+      "airDate": "2011-03-25",
+      "episodeCount": 5,
+      "name": "Season 37",
+      "overview": "",
+      "posterPath": "/2U8so48ynDJZCVcp4fizgnNoU3u.jpg",
+      "seasonNumber": 37
+    },
+    {
+      "airDate": "2011-09-09",
+      "episodeCount": 4,
+      "name": "Season 38",
+      "overview": "",
+      "posterPath": "/ueBdEI7uoJ3UqdVq9z8nIu0YyMk.jpg",
+      "seasonNumber": 38
+    },
+    {
+      "airDate": "2012-03-23",
+      "episodeCount": 4,
+      "name": "Season 39",
+      "overview": "",
+      "posterPath": "/iMGXnNkZnvfkFm2gjtaBVsQUxvX.jpg",
+      "seasonNumber": 39
+    },
+    {
+      "airDate": "2012-09-14",
+      "episodeCount": 12,
+      "name": "Season 40",
+      "overview": "",
+      "posterPath": "/1fktEGzsDS48p8e0dxklOQjdM4C.jpg",
+      "seasonNumber": 40
+    },
+    {
+      "airDate": "2014-03-28",
+      "episodeCount": 6,
+      "name": "Season 41",
+      "overview": "",
+      "posterPath": "/KHvLkpC0aswZ58U89itkbttag5.jpg",
+      "seasonNumber": 41
+    },
+    {
+      "airDate": "2014-11-21",
+      "episodeCount": 6,
+      "name": "Season 42",
+      "overview": "",
+      "posterPath": "/zeGFkkbto9FAPxRfVXrMk5Wanr6.jpg",
+      "seasonNumber": 42
+    },
+    {
+      "airDate": "2015-04-03",
+      "episodeCount": 5,
+      "name": "Season 43",
+      "overview": "",
+      "posterPath": "/nDnvFt5Lhb7KG6nC6eIMPys3sto.jpg",
+      "seasonNumber": 43
+    },
+    {
+      "airDate": "2015-10-02",
+      "episodeCount": 4,
+      "name": "Season 44",
+      "overview": "",
+      "posterPath": "/3bgAqNrjdglS7odgjMJzBehjBEH.jpg",
+      "seasonNumber": 44
+    },
+    {
+      "airDate": "2016-03-11",
+      "episodeCount": 5,
+      "name": "Season 45",
+      "overview": "",
+      "posterPath": "/hxNFCnuVSvdiZiqaGQOyRk6T73l.jpg",
+      "seasonNumber": 45
+    },
+    {
+      "airDate": "2017-02-24",
+      "episodeCount": 8,
+      "name": "Season 46",
+      "overview": "",
+      "posterPath": "/wNoqw8BZxSRTUh0x5yS7Xy3xn0y.jpg",
+      "seasonNumber": 46
+    },
+    {
+      "airDate": "2018-03-16",
+      "episodeCount": 7,
+      "name": "Season 47",
+      "overview": "",
+      "posterPath": "/lwmr7FDZM3mIJzrLNwpggMSr6Xf.jpg",
+      "seasonNumber": 47
+    },
+    {
+      "airDate": "2019-04-05",
+      "episodeCount": 9,
+      "name": "Season 48",
+      "overview": "",
+      "posterPath": "/6etJ5DSLbpuMRpwwxelwKmqITaq.jpg",
+      "seasonNumber": 48
+    },
+    {
+      "airDate": "2020-03-20",
+      "episodeCount": 8,
+      "name": "Season 49",
+      "overview": "",
+      "posterPath": "/wR3PKWYisWI564yFCAi3YbfdmEx.jpg",
+      "seasonNumber": 49
+    },
+    {
+      "airDate": "2021-04-02",
+      "episodeCount": 8,
+      "name": "Season 50",
+      "overview": "",
+      "posterPath": "/feRt7BwQXl8sGV14XOU2il83szL.jpg",
+      "seasonNumber": 50
+    },
+    {
+      "airDate": "2022-03-18",
+      "episodeCount": 8,
+      "name": "Season 51",
+      "overview": "",
+      "posterPath": "/xgaYkZ9MlWBj57zZp59swaekU5g.jpg",
+      "seasonNumber": 51
+    },
+    {
+      "airDate": "2023-02-21",
+      "episodeCount": 8,
+      "name": "Season 52",
+      "overview": "",
+      "posterPath": "/20uquez9mfB4ljEfqMkbma00dbs.jpg",
+      "seasonNumber": 52
+    },
+    {
+      "airDate": "2024-04-05",
+      "episodeCount": 8,
+      "name": "Season 53",
+      "overview": "",
+      "posterPath": "/mdgVarlF8LQgFFQMpUXTyb0EM9T.jpg",
+      "seasonNumber": 53
+    },
+    {
+      "airDate": "2025-03-28",
+      "episodeCount": 8,
+      "name": "Season 54",
+      "overview": "",
+      "posterPath": "/mdgVarlF8LQgFFQMpUXTyb0EM9T.jpg",
+      "seasonNumber": 54
+    },
+    {
+      "airDate": "2026-04-03",
+      "episodeCount": 8,
+      "name": "Season 55",
+      "overview": "",
+      "posterPath": "/mdgVarlF8LQgFFQMpUXTyb0EM9T.jpg",
+      "seasonNumber": 55
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Old Fox",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 20,
+  "watchProviders": {}
+}

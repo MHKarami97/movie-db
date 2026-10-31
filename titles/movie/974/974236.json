@@ -1,0 +1,154 @@
+{
+  "backdropPath": "/g1X7lxHc7ScGt0ycOnYlIvADKbN.jpg",
+  "cast": [
+    {
+      "character": "Iva Doneva",
+      "id": 1260631,
+      "name": "Gergana Pletnyova",
+      "profilePath": "/jBljccPjAlCs8PCHKLWg8LU5GET.jpg"
+    },
+    {
+      "character": "Misho Donev",
+      "id": 5647942,
+      "name": "Todor Kotsev",
+      "profilePath": "/2eznGZwdIN3RIncRxOBrOp99qZQ.jpg"
+    },
+    {
+      "character": "Dr. Rusev",
+      "id": 996600,
+      "name": "Ivaylo Hristov",
+      "profilePath": "/tobGDdpLQV9X2FkdSLTZpWM9LLF.jpg"
+    },
+    {
+      "character": "Georgiev",
+      "id": 2041183,
+      "name": "Gerasim Georgiev",
+      "profilePath": "/7XHnL4AuIj0MHpteVMyPcCeIuCM.jpg"
+    },
+    {
+      "character": "Slava",
+      "id": 1288090,
+      "name": "Anastasia Ingilizova",
+      "profilePath": "/b1fNg5JIr5jVZ5i7BeSBOTYyKmg.jpg"
+    },
+    {
+      "character": "Safety Inspector Kosev",
+      "id": 72791,
+      "name": "Ivan Barnev",
+      "profilePath": "/6eVZuGv7FplYlZXhWRX0ZaKFWwi.jpg"
+    },
+    {
+      "character": "Shukri",
+      "id": 586062,
+      "name": "Ovanes Torosian",
+      "profilePath": "/mCxNEYmNehbkQ1YTVvxBAquCVih.jpg"
+    },
+    {
+      "character": "Ani",
+      "id": 2707315,
+      "name": "Martina Peneva",
+      "profilePath": "/gfVtRSz1cZIiYisAgTgi6Ji6PqA.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 74786,
+      "logoPath": "/6nvsBCFjBi7ExgArmw05tUw9YpL.png",
+      "name": "Argo Film"
+    },
+    {
+      "id": 100770,
+      "logoPath": "/mV6hVkLjuF1nddTkWSOF3YOPXQH.png",
+      "name": "42film"
+    },
+    {
+      "id": 4595,
+      "logoPath": "/kkvPl5Y3NKZXK7mqw0esuTZmVor.png",
+      "name": "Negativ"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37660486",
+    "wikidataId": "Q136675961"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 974236,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    },
+    {
+      "code": "bg",
+      "name": "Bulgarian"
+    }
+  ],
+  "originalTitle": "Made in EU",
+  "overview": "When a sick factory worker becomes the first confirmed COVID-19 case in her rural Bulgarian town, she is scapegoated and ostracized by her employers, family, and entire community as the virus spreads and casualties mount.",
+  "posterPath": "/sOPiXRr3BI0WEdLzEpRmanJWuTJ.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 109,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Made in EU",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "CsQ2cUxP88g",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {}
+}

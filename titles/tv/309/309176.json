@@ -1,0 +1,156 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Mai Chihara (voice)",
+      "id": 2206133,
+      "name": "Sayumi Suzushiro",
+      "profilePath": "/7wEX0bXCs2djnp0dKsCqmMKZpZV.jpg"
+    },
+    {
+      "character": "Kuroki (voice)",
+      "id": 2534630,
+      "name": "Kazuki Ura",
+      "profilePath": "/7eUgENWREmWSMnLPUFCQhvUSpdI.jpg"
+    },
+    {
+      "character": "Chinatsu Iwakura (voice)",
+      "id": 1296667,
+      "name": "Maaya Uchida",
+      "profilePath": "/lrcxZXkIgHU55dMs8C4DKkUohqJ.jpg"
+    },
+    {
+      "character": "Hibiya (voice)",
+      "id": 144655,
+      "name": "Tomokazu Sugita",
+      "profilePath": "/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg"
+    },
+    {
+      "character": "Kazami (voice)",
+      "id": 1241498,
+      "name": "Daisuke Ono",
+      "profilePath": "/5rjl28lx84JjRS0hzq3Ajvx2dhp.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 109486,
+      "logoPath": "/5sKwEOp3RdoAukp6qHwSE8MoTit.png",
+      "name": "SynergySP"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2027-01-07",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-07",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt43691472",
+    "twitterId": "chihara_anime",
+    "wikidataId": "Q137582771"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 309176,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-07",
+    "episodeNumber": 1,
+    "id": 6787077,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "地雷なんですか？地原さん",
+  "overview": "It's the start of a new semester, and high school junior Kuroki finds himself seated beside the girl everyone whispers about: Mai Chihara. With her gothic fashion, jet-black hair, and intense stare, Chihara is said to be a “landmine” girl or jirai-kei, the hyper-feminine, dark aesthetic often associated with yandere tendencies and unstable personalities. But when Kuroki accidentally draws Chihara's attention, he discovers she isn't nearly as unstable as people claim. Beneath the intimidating aura is a surprisingly sweet girl… if a little weird.\n\nHesitantly, Kuroki begins to learn more about Chihara and her strange quirks. Is there more to her than her volatile reputation? Or is all the dark clothing just a red flag in disguise?",
+  "posterPath": "/4BA1JlWb97Bw5Rc98sRf47eZtXF.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-07",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-07"
+    },
+    "CN": {
+      "tv": "2027-01-07"
+    },
+    "GB": {
+      "tv": "2027-01-07"
+    },
+    "US": {
+      "tv": "2027-01-07"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-07",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/4BA1JlWb97Bw5Rc98sRf47eZtXF.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Are You a Landmine, Chihara-san?",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

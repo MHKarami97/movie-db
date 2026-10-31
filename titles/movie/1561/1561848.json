@@ -1,0 +1,121 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 3743348,
+      "name": "Silje Evensmo Jacobsen",
+      "profilePath": "/pAT1rjZAM3EUt7YaWiC7Cv5vMGA.jpg"
+    },
+    {
+      "character": "",
+      "id": 1206552,
+      "name": "Magnus Stahl Jacobsen",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 5746754,
+      "name": "Edle Jacobsen",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 5746755,
+      "name": "Brage Jacobsen",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 165295,
+      "logoPath": "/kG2K0DUcIKnHFgkcREpiDPKIdi4.png",
+      "name": "Ballad Film"
+    },
+    {
+      "id": 165230,
+      "logoPath": "/6KU5c0KGlzHZEwejQJ5ZbhGfdD2.png",
+      "name": "A5film"
+    }
+  ],
+  "countries": [
+    {
+      "code": "NO",
+      "name": "Norway"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    {
+      "code": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38673337"
+  },
+  "fetchedAt": 1795203017842,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1561848,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "da",
+      "name": "Danish"
+    }
+  ],
+  "originalTitle": "Mysteriepakken",
+  "overview": "A stranger-than-fiction-story, the core is a mysterious package that the Sandnes family from Valdal in Norway has been receiving every Christmas for the past two decades, with gifts for everyone.",
+  "posterPath": "/djWJ5a6C9PE3SKIeYyVo4uJUxWi.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 75,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Mystery Package",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

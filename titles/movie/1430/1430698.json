@@ -1,0 +1,272 @@
+{
+  "backdropPath": "/8OQbUnXkEFtTMAakP6dg7bRvvip.jpg",
+  "cast": [
+    {
+      "character": "Emma",
+      "id": 1274513,
+      "name": "Francesca Eastwood",
+      "profilePath": "/stVF1cGuXJliykckGShBCscgaFq.jpg"
+    },
+    {
+      "character": "Lani",
+      "id": 2924721,
+      "name": "Dani Oliveros",
+      "profilePath": "/7wsCSTDrfSoQiRjkHsjC3nWq7KA.jpg"
+    },
+    {
+      "character": "Mandal",
+      "id": 118753,
+      "name": "Alexander Wraith",
+      "profilePath": "/yZ4j5eEebjJkrowhUvAK7UEtsFq.jpg"
+    },
+    {
+      "character": "Ruhan",
+      "id": 3233784,
+      "name": "Ta'imua",
+      "profilePath": "/dfgPorHiCISPFxIF2JUNsrV4Xp7.jpg"
+    },
+    {
+      "character": "Kai",
+      "id": 4853260,
+      "name": "Calan Scherer",
+      "profilePath": null
+    },
+    {
+      "character": "Christy",
+      "id": 6307420,
+      "name": "Destiny Benner",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 205365,
+      "logoPath": "/9kOY6nol0rS6c9qqnRZAWDwGOer.png",
+      "name": "Roundtable Entertainment"
+    },
+    {
+      "id": 232155,
+      "logoPath": "/q0yHpDzRXM4cigSlh390uTbX9AJ.png",
+      "name": "Laguna Six"
+    },
+    {
+      "id": 89989,
+      "logoPath": null,
+      "name": "Del Rey Films"
+    },
+    {
+      "id": 101293,
+      "logoPath": null,
+      "name": "Peak Distribution Partners"
+    },
+    {
+      "id": 86250,
+      "logoPath": "/sLcBDJaYGZdra3Fy4tXDhKCWrNR.png",
+      "name": "WeBros Entertainment"
+    },
+    {
+      "id": 302754,
+      "logoPath": null,
+      "name": "Cosmic Distribution"
+    },
+    {
+      "id": 200154,
+      "logoPath": "/Aa2JyFIiaLLbhliCpZtZ323aevH.png",
+      "name": "Architect"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-07-17",
+  "externalIds": {
+    "imdbId": "tt30217600"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1430698,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Bay",
+  "overview": "Best friends Emma and Lani, attending a destination wedding in Thailand, find themselves trapped on a sinking tour boat in the heart of a tiger shark sanctuary.",
+  "posterPath": "/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-08-24",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-08-24"
+    },
+    "US": {
+      "digital": "2026-07-17"
+    }
+  },
+  "runtime": 87,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Welcome to paradise.",
+  "theatricalDate": null,
+  "title": "The Bay",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "aqRoxJdq1i4",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 35,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1430698-the-bay/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        },
+        {
+          "id": 2077,
+          "logoPath": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+          "name": "Plex Channel"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1430698-the-bay/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

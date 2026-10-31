@@ -1,0 +1,94 @@
+{
+  "backdropPath": "/m3fuB1xdVG6mhRjAABJhHxyD1NP.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 128550,
+      "name": "Desmond Tutu",
+      "profilePath": "/jnQpg4LgF8IfGTrfJvC66KbLtjF.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 173485,
+      "logoPath": "/bLkEPWbKzkzLaBklsKqfolkuQxA.png",
+      "name": "HiddenLight Productions"
+    },
+    {
+      "id": 4400,
+      "logoPath": null,
+      "name": "Universal Pictures UK"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39382862"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1616135,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Tutu",
+  "overview": "Through never-before-seen archival footage and first-hand accounts of those who knew him best, the film traces Archbishop Desmond Tutu’s rise as the voice of the oppressed, guided by faith, hope and an understanding of the power of forgiveness.",
+  "posterPath": "/b0hiHAtRHOP6eGAER3c1Osmm3i8.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-12-11"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatricalLimited": "2026-12-11"
+    },
+    "US": {
+      "premiere": "2026-11-08"
+    }
+  },
+  "runtime": 101,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A powerful portrait of Desmond Tutu, the rebel Archbishop who helped end apartheid",
+  "theatricalDate": "2026-12-11",
+  "title": "Tutu",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

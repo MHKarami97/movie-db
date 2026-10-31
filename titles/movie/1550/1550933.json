@@ -1,0 +1,164 @@
+{
+  "backdropPath": "/qU0nj1U1jKG3mKMthjKrrYOztr3.jpg",
+  "cast": [
+    {
+      "character": "Daphne 'Patty' Patiri",
+      "id": 5706402,
+      "name": "Mort Klonaraki",
+      "profilePath": "/tYnm4NtncAtrX7RKU2zHpA85PHj.jpg"
+    },
+    {
+      "character": "Yuri",
+      "id": 118927,
+      "name": "Vangelis Mourikis",
+      "profilePath": "/vjyCvNNLB4HMHvfpya7dtZTJuNg.jpg"
+    },
+    {
+      "character": "Zoe",
+      "id": 4542315,
+      "name": "Filippa Kaye",
+      "profilePath": "/x013EwZl9JQwlMIC0VwpIa7cTUl.jpg"
+    },
+    {
+      "character": "Ioulia",
+      "id": 1094730,
+      "name": "Youla Boudali",
+      "profilePath": "/xwuu92V1SoD2SAeGkVQnHCuYuQm.jpg"
+    },
+    {
+      "character": "Stella",
+      "id": 3699449,
+      "name": "Melina Kotselou",
+      "profilePath": "/jbOWBDLx9LuhcVaY12u9FfH2pV.jpg"
+    },
+    {
+      "character": "Dmitri",
+      "id": 1340643,
+      "name": "Tasos Nousias",
+      "profilePath": "/9qJhkallGUu8YZ6ZuQybuwRwnsl.jpg"
+    },
+    {
+      "character": "Ikaria Sensei",
+      "id": 1277471,
+      "name": "Antonis Kotzias",
+      "profilePath": "/vkBZZsPgD1Alp2ntf5e39s7l1Tm.jpg"
+    },
+    {
+      "character": "Daphne's Mother",
+      "id": 1094734,
+      "name": "Maria Kallimani",
+      "profilePath": "/uyZBTFhjbD61ryglRTvYorsgfTS.jpg"
+    },
+    {
+      "character": "Daphne's Grandmother",
+      "id": 5706408,
+      "name": "Frosini Koutsouti",
+      "profilePath": null
+    },
+    {
+      "character": "Cook",
+      "id": 547052,
+      "name": "Yannis Economides",
+      "profilePath": "/4JbzO867DuHnWr48vyzD8iAp5O2.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 79961,
+      "logoPath": null,
+      "name": "Chaotic Good"
+    },
+    {
+      "id": 19246,
+      "logoPath": "/4zrEZfTf94tyG4wRB599gRS0reU.png",
+      "name": "Faliro House Productions"
+    },
+    {
+      "id": 51401,
+      "logoPath": "/fVS0ghIwUgjwpHj2vJonkAOlyI5.png",
+      "name": "Blonde Audiovisual Productions"
+    },
+    {
+      "id": 7255,
+      "logoPath": "/aHu0SirjV9Mi0OrlnFWqZwy50wW.png",
+      "name": "ERT"
+    },
+    {
+      "id": 133514,
+      "logoPath": "/mhrI7llVhGeT2HJV0tccabCJM5G.png",
+      "name": "Hellenic Ministry of Culture and Sports"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GR",
+      "name": "Greece"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37530747",
+    "wikidataId": "Q140645560"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1550933,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "el",
+      "name": "Greek"
+    }
+  ],
+  "originalTitle": "Πολύ κοριτσίστικο όνομα το Πάττυ",
+  "overview": "Daphne, a teenage judo athlete from a remote Greek island, is ready to spread her wings and follow Sensei Yuri to the big city and ultimately to the next Olympic Games. Yuri, for unknown reasons, has been absent from the world of Judo for the last few years and he is looking for a new beginning, while Daphne transitions from the carefreeness of adolescence into the hard world of adults.",
+  "posterPath": "/34c8bRIgbx9rRPv3hkr07e8Qt3X.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 113,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Her victory, found.",
+  "theatricalDate": null,
+  "title": "Patty Is Such a Girly Name",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "-yn2E2GHt6A",
+      "name": "Patty is Such a Girly Name trailer | PÖFF29",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {}
+}

@@ -1,0 +1,173 @@
+{
+  "backdropPath": "/5xzG2Oj6X2JDJbcYshPV5TSdM4E.jpg",
+  "cast": [
+    {
+      "character": "Álvaro",
+      "id": 3131,
+      "name": "Antonio Banderas",
+      "profilePath": "/lpzfDt22374NPhOXZpUq74e9mfw.jpg"
+    },
+    {
+      "character": "Saffron",
+      "id": 16901,
+      "name": "Eva Birthistle",
+      "profilePath": "/sGprPTt1JDeDIyNKggElYlHCPxc.jpg"
+    },
+    {
+      "character": "",
+      "id": 2178,
+      "name": "Forest Whitaker",
+      "profilePath": "/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg"
+    },
+    {
+      "character": "Dr. Abaras",
+      "id": 20766,
+      "name": "Richard E. Grant",
+      "profilePath": "/92oaBntIXhndCxUXaGywUyILIIE.jpg"
+    },
+    {
+      "character": "",
+      "id": 1042728,
+      "name": "Úrsula Corberó",
+      "profilePath": "/cmH8Z459tw9YkR61QfxlCSlZw9P.jpg"
+    },
+    {
+      "character": "",
+      "id": 1346536,
+      "name": "Arinzé Kene",
+      "profilePath": "/bD8kUAc3ZEkz08dWszWnqcAQify.jpg"
+    },
+    {
+      "character": "",
+      "id": 1175394,
+      "name": "Mickey Sumner",
+      "profilePath": "/gNxtYfg8xXgeQ4YC7Pl3HNRAjol.jpg"
+    },
+    {
+      "character": "",
+      "id": 225060,
+      "name": "Selena Tan",
+      "profilePath": "/oH16MYJqw2PTn9QZXmDFnbI4UsV.jpg"
+    },
+    {
+      "character": "Rose",
+      "id": 3286993,
+      "name": "Eden Hamilton",
+      "profilePath": "/j7k6fdNE856a94pWsKbIQkr1Jud.jpg"
+    },
+    {
+      "character": "Michael",
+      "id": 1804409,
+      "name": "Jordan A. Nash",
+      "profilePath": "/t9iKbfK5V7pGYpqQUyPiuzLqSZ7.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 19640,
+      "logoPath": "/ddonoYYQ3ToVqMEc2Ke5SB1idkq.png",
+      "name": "Maven Screen Media"
+    },
+    {
+      "id": 3130,
+      "logoPath": "/b2blyz6adfykkLdLQId8SNHGfZk.png",
+      "name": "Tempo Productions"
+    },
+    {
+      "id": 104224,
+      "logoPath": "/ciZbSGZrAUQzgZZf3bqb10kNHXm.png",
+      "name": "TBA Studios"
+    },
+    {
+      "id": 8356,
+      "logoPath": "/tais5f60IAWlBZvkU8KwjGvBUc4.png",
+      "name": "Viva Films"
+    },
+    {
+      "id": 142246,
+      "logoPath": null,
+      "name": "WASD Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37439381",
+    "wikidataId": "Q136408433"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1536163,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Up Against It",
+  "overview": "Álvaro and his ex-wife Saffron attempt to set aside the drama of their messy divorce for the sake of their daughter Rose.",
+  "posterPath": "/cKiCvoH17UL2KRslgAF52rTMyHn.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-04-14"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2027-04-14"
+    }
+  },
+  "runtime": 122,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2027-04-14",
+  "title": "Up Against It",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

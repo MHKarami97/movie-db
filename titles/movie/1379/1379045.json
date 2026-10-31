@@ -1,0 +1,215 @@
+{
+  "backdropPath": "/r1ALuRWATS3waPQhlheB8g9PbfJ.jpg",
+  "cast": [
+    {
+      "character": "Komura",
+      "id": 124402,
+      "name": "Masaki Okada",
+      "profilePath": "/5eP3OovRGR229Ney2jUZ39Vr4QW.jpg"
+    },
+    {
+      "character": "Mimei Komura",
+      "id": 559413,
+      "name": "Ai Hashimoto",
+      "profilePath": "/2sTNnkzF5e6dogfHEsnD1aU36J4.jpg"
+    },
+    {
+      "character": "Sasaki",
+      "id": 1715729,
+      "name": "Yuki Izumisawa",
+      "profilePath": "/lBv5S41aIFWLqBTcwD4YuzOqt7P.jpg"
+    },
+    {
+      "character": "",
+      "id": 1822694,
+      "name": "Erika Karata",
+      "profilePath": "/hQKZ7JjK3Rxq64DDwehYj7PSRlj.jpg"
+    },
+    {
+      "character": "Sasaki Keiko",
+      "id": 1988040,
+      "name": "Kana Kita",
+      "profilePath": "/8W7mgTKWcrRx9UYAhjEurmoArld.jpg"
+    },
+    {
+      "character": "",
+      "id": 120918,
+      "name": "Mitsuru Fukikoshi",
+      "profilePath": "/muIevElNLHwtDeom5BR0Qwif8vI.jpg"
+    },
+    {
+      "character": "Junko",
+      "id": 3118980,
+      "name": "Yui Narumi",
+      "profilePath": "/bj22Nu7mg4AU63IRkeU9d6909q5.jpg"
+    },
+    {
+      "character": "",
+      "id": 4492720,
+      "name": "Kodai Kurosaki",
+      "profilePath": "/ekCMaO1aODXdcnTphGQTcrumbbV.jpg"
+    },
+    {
+      "character": "",
+      "id": 58596,
+      "name": "Shinichi Tsutsumi",
+      "profilePath": "/t3E5FKE7UGbdlnA8gy9lx03otIk.jpg"
+    },
+    {
+      "character": "Zenya",
+      "id": 1082696,
+      "name": "Daichi Watanabe",
+      "profilePath": "/lYqOLxOO0x776lGDnS4IRp2r4PA.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 4667,
+      "logoPath": "/kW2HfJ2R3xBfXRW6jdevcSGavHT.png",
+      "name": "Bitters End"
+    },
+    {
+      "id": 15505,
+      "logoPath": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+      "name": "NHK"
+    },
+    {
+      "id": 274751,
+      "logoPath": null,
+      "name": "Chiaroscuro"
+    },
+    {
+      "id": 11376,
+      "logoPath": "/lrglrxyGOMRl9KCsmcjmzjjpT2H.png",
+      "name": "NHK Enterprises"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38637315"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1379045,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "originalTitle": "アフター・ザ・クエイク",
+  "overview": "Based on four of the six short stories compiled in Murakami Haruki's anthology, After the Quake explores the complex aftermath of Japan’s earthquakes and other global crises. (Movie version of the TV drama).",
+  "posterPath": "/cdW1Pfy4LzRx4NUWYTAUTHUgNjs.jpg",
+  "rating": 8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2025-06-15"
+    }
+  },
+  "runtime": 132,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "After the Quake",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "eRenYGCk1Zs",
+      "name": "映画『アフター・ザ・クエイク』30秒予告【10/3(金)公開】",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 10,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1379045/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1379045/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1379045/watch?locale=US",
+      "rent": []
+    }
+  }
+}

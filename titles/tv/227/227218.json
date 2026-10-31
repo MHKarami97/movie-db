@@ -1,0 +1,152 @@
+{
+  "backdropPath": "/sy8dtXYm7DO1eIehbyDpZ4r9bmh.jpg",
+  "cast": [
+    {
+      "character": "Kozame-chan (voice)",
+      "id": 119143,
+      "name": "Kana Hanazawa",
+      "profilePath": "/9UTBlNRopSOKyoWnCm74tyHOfR1.jpg"
+    },
+    {
+      "character": "Ankō-chan (voice)",
+      "id": 1164931,
+      "name": "Megumi Han",
+      "profilePath": "/cwnwrPg1YvB19TbfouC4ShGPmbQ.jpg"
+    },
+    {
+      "character": "Usame-chan (voice)",
+      "id": 151182,
+      "name": "Misaki Kuno",
+      "profilePath": "/hVtE4gdKaqofYZmXXtlJs4Q9XTL.jpg"
+    },
+    {
+      "character": "Man with a Mohawk (voice)",
+      "id": 1483496,
+      "name": "Yuuichirou Umehara",
+      "profilePath": "/lScrvZi4tKKpk3PbnIjLVjHVNJn.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 2073,
+      "logoPath": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+      "name": "KADOKAWA"
+    },
+    {
+      "id": 121246,
+      "logoPath": "/3OHTNLw7i8zHqrGVt5kfLBdtZ6A.png",
+      "name": "ENGI"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2023-08-01",
+  "externalIds": {
+    "twitterId": "kozame_info"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "id": 227218,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-25",
+    "episodeNumber": 89,
+    "id": 7371833,
+    "name": "Episode 89",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-01",
+    "episodeNumber": 90,
+    "id": 7371835,
+    "name": "Episode 90",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "おでかけ子ザメ",
+  "overview": "The story follows a little shark character, Kozame-chan's adventures in Yauo town, which smells \"nostalgic.\" From radio exercises to festival stalls to meeting with friends, Kozame-chan has a variety of heartwarming experiences in the town.",
+  "posterPath": "/64qo6XZ1wr8AOwpnaeIs0onjmbP.jpg",
+  "rating": 6.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2023-08-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2023-08-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2023-08-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2023-08-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2023-08-01"
+    },
+    "CN": {
+      "tv": "2023-08-01"
+    },
+    "GB": {
+      "tv": "2023-08-01"
+    },
+    "US": {
+      "tv": "2023-08-01"
+    }
+  },
+  "runtime": 2,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2023-09-20",
+      "episodeCount": 3,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/rGm3uBPHlPkRQx1WDxFfnJQrj5W.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2023-08-01",
+      "episodeCount": 100,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/64qo6XZ1wr8AOwpnaeIs0onjmbP.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Odekake Kozame",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 4,
+  "watchProviders": {}
+}

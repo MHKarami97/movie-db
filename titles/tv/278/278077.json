@@ -1,0 +1,150 @@
+{
+  "backdropPath": "/l4xD2bAX14KE1i2z1Xk4brvVTPi.jpg",
+  "cast": [
+    {
+      "character": "Self - Taskmaster",
+      "id": 1240641,
+      "name": "Greg Davies",
+      "profilePath": "/fjpb97YWHZKgPx6BmbiPYd1nWa7.jpg"
+    },
+    {
+      "character": "Self - Taskmaster's Assistant",
+      "id": 1784796,
+      "name": "Alex Horne",
+      "profilePath": "/jLWUSMSOjwFgI6ukZw90kiQj3cT.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 4316,
+      "logoPath": "/7B9nsj17Yux1t2H8DrdH8W4wXhm.png",
+      "name": "Avalon Television"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2021-01-01",
+  "externalIds": {
+    "facebookId": "officialtaskmaster",
+    "instagramId": "taskmaster",
+    "twitterId": "taskmaster"
+  },
+  "fetchedAt": 1795726124140,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 278077,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-01-03",
+    "episodeNumber": 7,
+    "id": 6691196,
+    "name": "New Year Treat 2026 (2): The opposite of ducking",
+    "overview": "With just minor points separating the celebs, it's all to play for in the second leg. They get competitive with a shoe. And can they make Alex Horne's dreams come true?",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-01",
+    "episodeNumber": 8,
+    "id": 8178909,
+    "name": "New Year Treat 2027 (1)",
+    "overview": "The famous and courageous personalities stepping up to the challenge of impressing the formidable Taskmaster are: Alison Hammond, Chesney Hawkes, Francis Bourgeois, Maryam Moshiri and author Rob Rinder.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Taskmaster’s New Year Treat",
+  "overview": "Taskmaster Greg Davies and his fiendish elf Alex Horne ring in the new year by tormenting five celebrities with a series of weird, wonderful one-off challenges",
+  "posterPath": "/unghCMVYRDS5CTCX6jdle7cyTOi.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2021-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2021-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2021-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2021-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2021-01-01"
+    },
+    "CN": {
+      "tv": "2021-01-01"
+    },
+    "GB": {
+      "tv": "2021-01-01"
+    },
+    "US": {
+      "tv": "2021-01-01"
+    }
+  },
+  "runtime": 48,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2021-01-01",
+      "episodeCount": 9,
+      "name": "Season 1",
+      "overview": "Taskmaster Greg Davies and his fiendish elf Alex Horne ring in the new year by tormenting five celebrities with a series of weird, wonderful one-off challenges.",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Taskmaster’s New Year Treat",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 103,
+          "logoPath": "/kMT8p43W3BsXBe9mqCIPDNepser.png",
+          "name": "Channel 4"
+        }
+      ],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/278077-taskmaster-s-new-year-treat/watch?locale=GB",
+      "rent": []
+    }
+  }
+}

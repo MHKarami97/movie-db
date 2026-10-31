@@ -1,0 +1,84 @@
+{
+  "backdropPath": "/8aGOnjRJ7lhOFOQuyTR15E0XWOk.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 264683,
+      "logoPath": null,
+      "name": "Producciones del KO"
+    },
+    {
+      "id": 211922,
+      "logoPath": "/jXI0xZEJabWaYtfqWxXyKuJJxzX.png",
+      "name": "3Cat"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36984774"
+  },
+  "fetchedAt": 1795759991469,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "id": 1494906,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ca",
+      "name": "Catalan; Valencian"
+    }
+  ],
+  "originalTitle": "El negre té nom",
+  "overview": "",
+  "posterPath": "/uzYWztunve13gEVzEjqyrrRkLUB.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "El negre té nom",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

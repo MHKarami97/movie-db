@@ -1,0 +1,187 @@
+{
+  "backdropPath": "/hBzD2z87okDvqzjUJRth5rrkX0a.jpg",
+  "cast": [
+    {
+      "character": "Alanoud Al-Dhahabi",
+      "id": 5184484,
+      "name": "Ghada Almulla",
+      "profilePath": "/8JVqMNp942Kw26olxkb6hJD3J6R.jpg"
+    },
+    {
+      "character": "Sultan Al-Dhahabi",
+      "id": 3028541,
+      "name": "Rashid Al Shamrani",
+      "profilePath": "/pp8e7tr29ksqTgHsOca9VM3qolF.jpg"
+    },
+    {
+      "character": "Reem Al-Dhahabi",
+      "id": 3671527,
+      "name": "Ida Alkusay",
+      "profilePath": "/tzu0GLkebhR7S8Rc6sdmdLXM5x5.jpg"
+    },
+    {
+      "character": "Latifa/Lulu Al-Dhahabi",
+      "id": 4259285,
+      "name": "Adwa Bader",
+      "profilePath": "/34UDZy7d1gMZdWjRJnY72COTAym.jpg"
+    },
+    {
+      "character": "Bandar Al-Dhahabi",
+      "id": 3844642,
+      "name": "Ziyad Al-Amri",
+      "profilePath": "/iUiGMdBmXBXD5TJIvxNhYcOkJyB.jpg"
+    },
+    {
+      "character": "Talal",
+      "id": 3119199,
+      "name": "Fayez Bin Jurays",
+      "profilePath": "/spZCAxYYIuNchnhqElgLQBEyswe.jpg"
+    },
+    {
+      "character": "Faisal",
+      "id": 1412399,
+      "name": "Fahad Albutairi",
+      "profilePath": "/bEBkLiMOkcBJoPNnwjTolJnfZpo.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 259835,
+      "logoPath": "/vgMh4ILSaCUo6rVVWZ8VgSNwl58.png",
+      "name": "Ideation Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    }
+  ],
+  "digitalDate": "2026-10-01",
+  "externalIds": {
+    "imdbId": "tt43738050",
+    "wikidataId": "Q141640870"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1763619,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ar",
+      "name": "Arabic"
+    }
+  ],
+  "originalTitle": "المهايطية",
+  "overview": "When the snobbish and wealthy AlThahabi family find out they're actually not as loaded as they think, they're forced to fake their affluence to survive.",
+  "posterPath": "/zXrxCpD6UR96mk3umb93ub3RmSs.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-01"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Crazy Rich, Incredibly Broke",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "oDBUdMDfq30",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 13,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1763619/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1763619/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1763619/watch?locale=US",
+      "rent": []
+    }
+  }
+}

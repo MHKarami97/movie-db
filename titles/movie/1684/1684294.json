@@ -1,0 +1,173 @@
+{
+  "backdropPath": "/4SaOeGPnXblIq22xVMnf9KXDr5v.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 19185,
+      "name": "Mario López",
+      "profilePath": "/b9bGymfTx7Zgv26fp44mHnlPnZT.jpg"
+    },
+    {
+      "character": "",
+      "id": 18298,
+      "name": "Tony Danza",
+      "profilePath": "/qoUp1mtEFvrWHG3kEM35coysf5y.jpg"
+    },
+    {
+      "character": "",
+      "id": 5717140,
+      "name": "Dominic Lopez",
+      "profilePath": null
+    },
+    {
+      "character": "Ava",
+      "id": 1661265,
+      "name": "Taylor Kalupa",
+      "profilePath": "/jGvR7CxN9BlOzdfBZ77WoKCm6uB.jpg"
+    },
+    {
+      "character": "Lina",
+      "id": 1212467,
+      "name": "Natalia Cigliuti",
+      "profilePath": "/yL31dp0oyjy23fOqSC8QZ7bveVC.jpg"
+    },
+    {
+      "character": "Father Julian James",
+      "id": 1498700,
+      "name": "William Mark McCullough",
+      "profilePath": "/b2CnmaX93IViBDbducz8eLzQClU.jpg"
+    },
+    {
+      "character": "Bob Harmon",
+      "id": 2559037,
+      "name": "Jeffrey Vincent Thompson",
+      "profilePath": "/otw3WLgBb9yYWQ4ojsSx14nM134.jpg"
+    },
+    {
+      "character": "Courtney Clark",
+      "id": 3423508,
+      "name": "Bailey Humiston",
+      "profilePath": null
+    },
+    {
+      "character": "Mark",
+      "id": 144606,
+      "name": "Alan Pietruszewski",
+      "profilePath": "/x3vDcbJT6fggLgqQCfzMH1xozED.jpg"
+    },
+    {
+      "character": "Adam Simpson",
+      "id": 4493338,
+      "name": "Finn Maloney",
+      "profilePath": "/AnGOWLJodp2YkBmKXQ4xzpcS3xE.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 122077,
+      "logoPath": "/lZf5ifXR3Pst0w8VF3nQHdZjx6A.png",
+      "name": "Roberts Media"
+    },
+    {
+      "id": 180934,
+      "logoPath": "/dTBkfIQZvImcftJvp5ckAYog6w6.png",
+      "name": "Great American Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt46666760"
+  },
+  "fetchedAt": 1795373734473,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1684294,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Three Generations, One Christmas",
+  "overview": "Set in a close-knit American town, The Starlight is a beloved local supper club and longtime community gathering place where generations have gathered to celebrate music, family, and Christmas traditions. Frank—a legendary song-and-dance man—prepares to sell the family’s beloved restaurant lounge after 40 years. With the future of The Starlight in question, three generations of family are drawn into an emotional journey that reminds them what is worth preserving — and how faith, family, and home can quietly lead us back to where we belong.",
+  "posterPath": "/z7q3dah78by61ufMSaF0tqlZqUq.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2026-11-19"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Three Generations, One Christmas",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 278,
+          "logoPath": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+          "name": "Pure Flix"
+        },
+        {
+          "id": 2433,
+          "logoPath": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+          "name": "Great American Pure Flix Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1684294-three-generations-one-christmas/watch?locale=US",
+      "rent": []
+    }
+  }
+}

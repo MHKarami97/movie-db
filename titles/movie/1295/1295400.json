@@ -1,0 +1,344 @@
+{
+  "backdropPath": "/zo1SfeASCrbHFaXJN9y1RW7uU2m.jpg",
+  "cast": [
+    {
+      "character": "Manfred",
+      "id": 1019,
+      "name": "Mads Mikkelsen",
+      "profilePath": "/AsX4bdvZ8UCayWTmAf9lAqOA8V7.jpg"
+    },
+    {
+      "character": "Anker",
+      "id": 1018,
+      "name": "Nikolaj Lie Kaas",
+      "profilePath": "/aU7YfSyQxxOwiNyXuaW0YRgpYyg.jpg"
+    },
+    {
+      "character": "Margrethe",
+      "id": 1564,
+      "name": "Sofie Gråbøl",
+      "profilePath": "/cG3s3Lknb0KjIJgKdroTkMTCi4N.jpg"
+    },
+    {
+      "character": "Werner",
+      "id": 82537,
+      "name": "Søren Malling",
+      "profilePath": "/5jmNDae49UgMGMOKTdjIqb8klUg.jpg"
+    },
+    {
+      "character": "Freja",
+      "id": 6120,
+      "name": "Bodil Jørgensen",
+      "profilePath": "/kRkN87GCdgQGFOhsPltP4rAiqJq.jpg"
+    },
+    {
+      "character": "Lothar / Keld Gerner Nielsen",
+      "id": 4467,
+      "name": "Lars Brygmann",
+      "profilePath": "/fjeqaDHEeInfWjDqrH1nPIqhBul.jpg"
+    },
+    {
+      "character": "Flinke Flemming",
+      "id": 15086,
+      "name": "Nicolas Bro",
+      "profilePath": "/sWmsxndhY7vsHBQWdO3UITrQ0Mr.jpg"
+    },
+    {
+      "character": "Hamdan",
+      "id": 2141745,
+      "name": "Kardo Razzazi",
+      "profilePath": "/98ORKOZFDEDjutqAcARyr4ITE8K.jpg"
+    },
+    {
+      "character": "Anton / Ringo",
+      "id": 5845709,
+      "name": "Peter Düring",
+      "profilePath": "/ij1LhVQHo9vQ2QYy0rTDJqQhJC4.jpg"
+    },
+    {
+      "character": "Far",
+      "id": 588175,
+      "name": "Lars Ranthe",
+      "profilePath": "/9kaqquzzGBBa1zXD8QAcMn42XUu.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 76,
+      "logoPath": "/nebkQYtQKhZyHJfh5v0oGpNbPzu.png",
+      "name": "Zentropa Entertainments"
+    },
+    {
+      "id": 2801,
+      "logoPath": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst"
+    },
+    {
+      "id": 8288,
+      "logoPath": "/5THcBZP0ad7hXPjtPTxld5sVJQp.png",
+      "name": "Zentropa International Sweden"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "digitalDate": "2026-05-29",
+  "externalIds": {
+    "imdbId": "tt27817389",
+    "wikidataId": "Q135438510"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1295400,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "da",
+      "name": "Danish"
+    },
+    {
+      "code": "sv",
+      "name": "Swedish"
+    }
+  ],
+  "originalTitle": "Den sidste viking",
+  "overview": "داستان مردی سالخورده که آخرین بازمانده از نسل وایکینگ‌هاست و در دنیایی که ارزش‌های قدیمی رو به فراموشی رفته‌اند، تلاش می‌کند هویت، افتخار و گذشته‌اش را حفظ کند. این سفر شخصی او، به رویارویی با خاطرات، تغییرات زمانه و معنای واقعی میراث می‌انجامد.",
+  "posterPath": "/cgvGExc0kfHRUffTKBSQHPKchrq.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-06-26"
+    },
+    "US": {
+      "digitalDate": "2026-05-29",
+      "gapDays": 0,
+      "theatricalDate": "2026-05-29"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-06-26"
+    },
+    "US": {
+      "digital": "2026-05-29",
+      "premiere": "2025-10-30",
+      "theatricalLimited": "2026-05-29"
+    }
+  },
+  "runtime": 116,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-05-29",
+  "title": "The Last Viking",
+  "translations": {
+    "faOverview": "داستان مردی سالخورده که آخرین بازمانده از نسل وایکینگ‌هاست و در دنیایی که ارزش‌های قدیمی رو به فراموشی رفته‌اند، تلاش می‌کند هویت، افتخار و گذشته‌اش را حفظ کند. این سفر شخصی او، به رویارویی با خاطرات، تغییرات زمانه و معنای واقعی میراث می‌انجامد.",
+    "faTitle": "آخرین وایکینگ"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "YdFbqryfdxg",
+      "name": "Official UK Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "0Rr6oA5F02U",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "SeddoePUsss",
+      "name": "Anders Thomas Jensen & Nikolaj Lie Kaas: Getting with the programme | TIFF x Rogers",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "9Phbk7seNn4",
+      "name": "Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "14qLTEoLkZs",
+      "name": "DEN SIDSTE VIKING | Scene  | \"Det var bare et lille jab\"",
+      "official": true,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 268,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1295400-den-sidste-viking/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        },
+        {
+          "id": 224,
+          "logoPath": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+          "name": "BFI Player"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1295400-den-sidste-viking/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

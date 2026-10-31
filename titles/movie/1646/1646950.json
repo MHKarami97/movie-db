@@ -1,0 +1,229 @@
+{
+  "backdropPath": "/rBGP7dcuwBKif01Nb5FzVvHbxcY.jpg",
+  "cast": [
+    {
+      "character": "Abby",
+      "id": 3107179,
+      "name": "Kaitlyn Lunardi",
+      "profilePath": "/4J0JcAe2TQ7utEqlt7Olw3WqBU3.jpg"
+    },
+    {
+      "character": "Steve",
+      "id": 2730819,
+      "name": "Cedric Gegel",
+      "profilePath": "/1MNXDrWiTnnH9Kw44gkMNl0llPM.jpg"
+    },
+    {
+      "character": "Kyle",
+      "id": 2502875,
+      "name": "Chris Cimperman",
+      "profilePath": "/kIZXU6m3MI3Xd2XcqegL3Dmri9C.jpg"
+    },
+    {
+      "character": "Jason",
+      "id": 2430984,
+      "name": "Grant Schumacher",
+      "profilePath": "/gPN6DIZ8rbp1rIJd2sRmXwOS7x8.jpg"
+    },
+    {
+      "character": "Paige",
+      "id": 4000615,
+      "name": "Leah Eckardt",
+      "profilePath": null
+    },
+    {
+      "character": "Adam",
+      "id": 1411925,
+      "name": "LeJon Woods",
+      "profilePath": "/UCGgaPOfwQjYXkdTq7mmtZdde6.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 127590,
+      "logoPath": "/qofiFdNJu7MpdVp4046j0ZYvzLR.png",
+      "name": "377 Films"
+    },
+    {
+      "id": 138068,
+      "logoPath": null,
+      "name": "Traverse Terror"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2026-03-17",
+  "externalIds": {
+    "imdbId": "tt39400149"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1646950,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Capture",
+  "overview": "After mysteriously inheriting her parents house, a lifelong orphan finds a camcorder and a collection of video tapes containing the gruesome secrets of her family's past, and the horrifying truth behind the camcorder they were captured on.",
+  "posterPath": "/jB2P7VlYfRxJA6ajOEuiD4k8mTK.jpg",
+  "rating": 5.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-03-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-03-17"
+    },
+    "US": {
+      "digital": "2026-03-17"
+    }
+  },
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Press record...die.",
+  "theatricalDate": null,
+  "title": "Capture",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "zrAh8oSxJhk",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 21,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1646950-capture/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1646950-capture/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

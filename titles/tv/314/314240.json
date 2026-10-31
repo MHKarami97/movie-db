@@ -1,0 +1,101 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2025-10-17",
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 314240,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "eo",
+      "name": "Esperanto"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-30",
+    "episodeNumber": 55,
+    "id": 6956668,
+    "name": "Episode 55",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-06",
+    "episodeNumber": 56,
+    "id": 6956669,
+    "name": "Episode 56",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Revelar alzar y reinar",
+  "overview": "",
+  "posterPath": "/ueBAQOMqkMyXPbuWHwP09hm6l4k.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2025-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2025-10-17"
+    },
+    "CN": {
+      "tv": "2025-10-17"
+    },
+    "GB": {
+      "tv": "2025-10-17"
+    },
+    "US": {
+      "tv": "2025-10-17"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2025-10-16",
+      "episodeCount": 90,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Revelar alzar y reinar",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

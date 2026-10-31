@@ -1,0 +1,140 @@
+{
+  "backdropPath": "/fV0Y5uo3kwStaPhgT0AieLENFaw.jpg",
+  "cast": [
+    {
+      "character": "Himself",
+      "id": 1448119,
+      "name": "Tony Hinchcliffe",
+      "profilePath": "/nJbIalwNCvqaDZQ9PW6Uyujb8tw.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-06-09",
+  "externalIds": {
+    "imdbId": "tt43339083"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1710203,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Tony Hinchcliffe: Man of the People",
+  "overview": "Tony Hinchcliffe takes center stage to prove no topic is too taboo and nothing is off-limits — not even the audience — in this razor-sharp special.",
+  "posterPath": "/btK2kz5XgoMdvJfOw2axKj4P5ja.jpg",
+  "rating": 5.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-09",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-06-09"
+    }
+  },
+  "runtime": 55,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Tony Hinchcliffe: Man of the People",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "WRbcHKRB8Fw",
+      "name": "Sneak Peek",
+      "official": true,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1710203-tony-hinchcliffe-man-of-the-people/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1710203-tony-hinchcliffe-man-of-the-people/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1710203-tony-hinchcliffe-man-of-the-people/watch?locale=US",
+      "rent": []
+    }
+  }
+}

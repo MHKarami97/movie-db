@@ -1,0 +1,102 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Simon",
+      "id": 1383898,
+      "name": "Stéphane Bak",
+      "profilePath": "/eDiflbTzXwkjVO5F8rQT17exIE3.jpg"
+    },
+    {
+      "character": "Peter",
+      "id": 138006,
+      "name": "Frederick Wiseman",
+      "profilePath": "/h0SIW7kP02MUFv8bqIhXZlibUvM.jpg"
+    },
+    {
+      "character": "Anna",
+      "id": 1700784,
+      "name": "Mathilde Ollivier",
+      "profilePath": "/hLTH1hHRi7jrAbKcS1cwFMk7RNb.jpg"
+    },
+    {
+      "character": "Forbin",
+      "id": 136170,
+      "name": "Grégoire Colin",
+      "profilePath": "/jtolsceVVsMT1wWi8m8pdtaUE4f.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33511122"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "id": 1614481,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Le Facteur humain",
+  "overview": "Simon, a disillusioned developer, carries a secret that could dismantle modern society: a code capable of remote neural hijacking. Hunted by his former architects, he seeks sanctuary within the echoing halls of the Musée d’Orsay—one of Paris’s final \"safe zones\" in a world of total digital surveillance. There, among the relics of the past, he must join a clandestine resistance to protect the future of human autonomy.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 62,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Danger",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

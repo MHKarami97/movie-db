@@ -1,0 +1,105 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Ganga",
+      "id": 588007,
+      "name": "Sharwanand",
+      "profilePath": "/n3unOPLUbyRdSnXUbF6qwVgsnhY.jpg"
+    },
+    {
+      "character": "",
+      "id": 1470724,
+      "name": "Anupama Parameswaran",
+      "profilePath": "/8Jyh1J0RUP8DzOvUGC10uYbLmaD.jpg"
+    },
+    {
+      "character": "Mandaram",
+      "id": 1906653,
+      "name": "Dimple Hayathi",
+      "profilePath": "/nJi5MT8JMdcNiwqKyRMkjyaDIb0.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 106409,
+      "logoPath": null,
+      "name": "Sri Sathya Sai Arts"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33056753"
+  },
+  "fetchedAt": 1795640243421,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1450342,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "te",
+      "name": "Telugu"
+    }
+  ],
+  "originalTitle": "భోగి",
+  "overview": "",
+  "posterPath": "/iZohKbCpE79UcpfaieWzyk5Uu08.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 169,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Bhogi",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "dWOYaZ2gb9I",
+      "name": "BHOGI Official Trailer | Sharwanand | Sampath Nandi | Anupama | Dimple Hayathi | Bheems Ceciroleo",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

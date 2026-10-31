@@ -1,0 +1,168 @@
+{
+  "backdropPath": "/6jhkcWVKWofBJwkqlOsl9VVbW5p.jpg",
+  "cast": [
+    {
+      "character": "Lupe",
+      "id": 36638,
+      "name": "Maya Zapata",
+      "profilePath": "/sk1MsMBOoTDyu33JSJwllRPDYpA.jpg"
+    },
+    {
+      "character": "Silvio",
+      "id": 1780924,
+      "name": "Variel Sánchez",
+      "profilePath": "/4USsbJae0Bf0Vri20UKS0HOsxNm.jpg"
+    },
+    {
+      "character": "Rosa",
+      "id": 1852493,
+      "name": "Victoria Ortiz",
+      "profilePath": "/s35QsbXV84k7vVCvlSDiLOaJlyf.jpg"
+    },
+    {
+      "character": "Pierre",
+      "id": 1197090,
+      "name": "Erick Cañete",
+      "profilePath": "/7pNq3NUiFGdrLjMhjHv5XwFvnWu.jpg"
+    },
+    {
+      "character": "Soledad",
+      "id": 6180784,
+      "name": "Constanza Hernández",
+      "profilePath": "/p5tuw4oMlt5iHgx5ATds2VliijQ.jpg"
+    },
+    {
+      "character": "Pancho",
+      "id": 2423233,
+      "name": "Fernando Memije",
+      "profilePath": "/huZsfq7Xsi402hSkEZnoTQ3wMOp.jpg"
+    },
+    {
+      "character": "Tatiana",
+      "id": 1524442,
+      "name": "Daniela Tapia",
+      "profilePath": "/6iDo6fyvqV9TCDGmQCpwHZ9OTK0.jpg"
+    },
+    {
+      "character": "Choco (voice)",
+      "id": 1255923,
+      "name": "Christian Tappan",
+      "profilePath": "/AsgxuVkpzSE4uC4iQCS4WNMQhEC.jpg"
+    },
+    {
+      "character": "Choco",
+      "id": 6180798,
+      "name": "Smart",
+      "profilePath": null
+    },
+    {
+      "character": "Productor",
+      "id": 1607057,
+      "name": "Felipe Martínez Amador",
+      "profilePath": "/7QZV37QpDQhL23uSwtnmJlHXklu.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 2586,
+      "logoPath": "/2fGXyHUZoNTLwrXOf6GImFYHeq4.png",
+      "name": "Caracol Televisión"
+    },
+    {
+      "id": 51949,
+      "logoPath": "/9Z5KwkBPIEJmJCJBQe91n2YMM5U.png",
+      "name": "Dago García Producciones"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39282917"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1586841,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "El paseo 8",
+  "overview": "After meeting in Paris, Rosa and her French boyfriend Pierre travel to Colombia to get married and enjoy their honeymoon. However, everything changes when their in-laws reveal a shocking secret and try to stop the wedding, turning the trip into a chaotic and bitter experience.",
+  "posterPath": "/aKK9zPMmnTOyezy9M1cnSfsLCAk.jpg",
+  "rating": 6.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The bitter moon",
+  "theatricalDate": null,
+  "title": "The Trip 8",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "FCSbazbtpto",
+      "name": "THE WALK 8 -Official Trailer-",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 14,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1586841-el-paseo-8/watch?locale=US",
+      "rent": []
+    }
+  }
+}

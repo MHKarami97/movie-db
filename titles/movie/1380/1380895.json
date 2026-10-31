@@ -1,0 +1,240 @@
+{
+  "backdropPath": "/fkI2TdmYHiiYwV1q0Ly5MdrxglX.jpg",
+  "cast": [
+    {
+      "character": "Ron Hill",
+      "id": 503,
+      "name": "Justin Chatwin",
+      "profilePath": "/nEHYlooGSwRzkhze1rQ7DOpJXLD.jpg"
+    },
+    {
+      "character": "Rylee Hill",
+      "id": 3126870,
+      "name": "Kate Hallett",
+      "profilePath": "/9rOLkPQvAMAQkkKRUzFm5tT1p1g.jpg"
+    },
+    {
+      "character": "Marnie",
+      "id": 1232769,
+      "name": "Amanda Brugel",
+      "profilePath": "/3W1RR8CzP5uk6sFt92i1QyjGLRT.jpg"
+    },
+    {
+      "character": "John",
+      "id": 1336329,
+      "name": "Steven Ogg",
+      "profilePath": "/dorBNAwR8qpB13pe0zd3OkFjqWR.jpg"
+    },
+    {
+      "character": "Stephanie",
+      "id": 2151239,
+      "name": "Erika Swayze",
+      "profilePath": "/phn3vAg06wA9aJHPVqJ7mbEMGn2.jpg"
+    },
+    {
+      "character": "Payton Adler",
+      "id": 1565240,
+      "name": "Herman Tømmeraas",
+      "profilePath": "/aeDmHIqcSbhErPaC676X1VY9Kwk.jpg"
+    },
+    {
+      "character": "Sidney",
+      "id": 1275704,
+      "name": "Aya Furukawa",
+      "profilePath": "/68SjqS6rUxXLjyxcij0327XTrzt.jpg"
+    },
+    {
+      "character": "Alisha",
+      "id": 2100341,
+      "name": "Kelsey Ruhl",
+      "profilePath": "/jc0dSwb4butC61NOSomGZfjhau6.jpg"
+    },
+    {
+      "character": "Eric",
+      "id": 2664110,
+      "name": "Julius Cho",
+      "profilePath": "/6wgRH6hGJbvnwD4fjS0x6uV9MNS.jpg"
+    },
+    {
+      "character": "Detective Jan Robinson",
+      "id": 3244336,
+      "name": "Kelly Reich",
+      "profilePath": "/vjWRNHm6vyceNozGInMv55FJ1sJ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 210518,
+      "logoPath": "/nmUwCJxuVZqiKINx0DXhp7TcfVA.png",
+      "name": "Fela"
+    },
+    {
+      "id": 171004,
+      "logoPath": null,
+      "name": "When We Were Kids Production"
+    },
+    {
+      "id": 82552,
+      "logoPath": "/cLEXKtCpRQs0meQwT7HK6u3QmRH.png",
+      "name": "Elevation Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2026-02-13",
+  "externalIds": {
+    "imdbId": "tt31988779",
+    "instagramId": "sweetnessthemovie",
+    "wikidataId": "Q132151701"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1380895,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "pl",
+      "name": "Polish"
+    }
+  ],
+  "originalTitle": "Sweetness",
+  "overview": "When a chance encounter with her rockstar crush leads 16-year-old Rylee to discover that he's a dysfunctional drug addict, she takes it upon herself to help him, ultimately forcing her teenage fantasies into reality.",
+  "posterPath": "/c3RTuzY4zk86EjWRDc1DMyRel0r.jpg",
+  "rating": 6.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-13",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-02-13",
+      "premiere": "2025-03-07"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "SHE CAN FIX HIM",
+  "theatricalDate": null,
+  "title": "Sweetness",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "MgYGMgVB_Yc",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2303,
+          "logoPath": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "id": 582,
+          "logoPath": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        },
+        {
+          "id": 633,
+          "logoPath": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+          "name": "Paramount+ Roku Premium Channel"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1380895-sweetness/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

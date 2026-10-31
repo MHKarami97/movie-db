@@ -1,0 +1,116 @@
+{
+  "backdropPath": "/uIq62I9VTGeOlZeCHZuLviyMScA.jpg",
+  "cast": [
+    {
+      "character": "Winona",
+      "id": 4656256,
+      "name": "Whitney Leavitt",
+      "profilePath": "/dfNkH86R6t0RC8T7ut6snHUyfaS.jpg"
+    },
+    {
+      "character": "Luke",
+      "id": 1297165,
+      "name": "Jesse Kove",
+      "profilePath": "/7r1DkZ0XEM88Jqmdp7ArVCTvgr.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 112797,
+      "logoPath": "/A0YBZCJOgtvmcuZJKoj84Mb4R1q.png",
+      "name": "The Ninth House"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States"
+    }
+  ],
+  "digitalDate": "2026-11-24",
+  "externalIds": {
+    "imdbId": "tt39201392"
+  },
+  "fetchedAt": 1795640243421,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1599329,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "All for Christmas",
+  "overview": "Podcaster Winona is forced to test love online by a holiday dating-app partnership, connecting with a mystery man who feels like everything she’s been missing. What she doesn’t know is that he’s Luke, the rugged renovator transforming her grandmother’s Christmas Eve venue — and the last guy she’d ever expect to fall for in real life.",
+  "posterPath": "/oGdv5eh69qZBws5vjIFJvvSH1Uz.jpg",
+  "rating": 5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-24",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-24"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "All for Christmas",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 1,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1599329-all-for-christmas/watch?locale=US",
+      "rent": []
+    }
+  }
+}

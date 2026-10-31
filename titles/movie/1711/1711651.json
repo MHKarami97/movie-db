@@ -1,0 +1,116 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Micah",
+      "id": 6274789,
+      "name": "Micah Mayes",
+      "profilePath": null
+    },
+    {
+      "character": "Nathan",
+      "id": 6274790,
+      "name": "Nathan Mayes",
+      "profilePath": null
+    },
+    {
+      "character": "Silhouette",
+      "id": 6274792,
+      "name": "Sophie Mayes",
+      "profilePath": null
+    },
+    {
+      "character": "Silhouette",
+      "id": 6274793,
+      "name": "Isabel Hemp",
+      "profilePath": null
+    },
+    {
+      "character": "Narrator (voice)",
+      "id": 6274798,
+      "name": "Ethan Denny",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 301395,
+      "logoPath": null,
+      "name": "Shoebox Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2027-03-07",
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "id": 1711651,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Carver",
+  "overview": "A hangout between two brothers experiences unexplainable and intrusive interruptions.",
+  "posterPath": "/g6oK6Vv1Q3K7NqeSPMIdlYeqEIU.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-03-07",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2027-03-07"
+    }
+  },
+  "runtime": 50,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "WARNING. THE COUNTY WEATHER SERVICE HAS ISSUED A WARNING FOR A METEOROLOGICAL EVENT. THE WARNING IS EFFECTIVE IMMEDIATELY AND CONTINUES UNTIL SUNRISE TOMORROW MORNING.",
+  "theatricalDate": null,
+  "title": "Carver",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

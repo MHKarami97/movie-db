@@ -1,0 +1,191 @@
+{
+  "backdropPath": "/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
+  "cast": [
+    {
+      "character": "Quick Draw Mike",
+      "id": 11006,
+      "name": "James Marsden",
+      "profilePath": "/lf7OnfKZnMgNh9b98764tqSocGK.jpg"
+    },
+    {
+      "character": "Future Nick / Present Nick",
+      "id": 4937,
+      "name": "Vince Vaughn",
+      "profilePath": "/qImHvsd7SFJh46Ujx50xUfkeMNz.jpg"
+    },
+    {
+      "character": "Alice",
+      "id": 1222992,
+      "name": "Eiza González",
+      "profilePath": "/v8CnaoJqdPwkQhJeGwgJDnESOd6.jpg"
+    },
+    {
+      "character": "Sosa",
+      "id": 65827,
+      "name": "Keith David",
+      "profilePath": "/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
+    },
+    {
+      "character": "Jimmy Boy",
+      "id": 1304335,
+      "name": "Jimmy Tatro",
+      "profilePath": "/xehT2IK65qXKSctcYChrWLE04pI.jpg"
+    },
+    {
+      "character": "Chet",
+      "id": 17401,
+      "name": "Stephen Root",
+      "profilePath": "/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+    },
+    {
+      "character": "Roid Rage Ryan",
+      "id": 1610940,
+      "name": "Lewis Tan",
+      "profilePath": "/yMr3mwHHBpfbXwDDkahOzFtTCak.jpg"
+    },
+    {
+      "character": "The Barron",
+      "id": 16644,
+      "name": "Dolph Lundgren",
+      "profilePath": "/fB1tOws6Gav0xE8LYlELEb82hJt.jpg"
+    },
+    {
+      "character": "Symon",
+      "id": 222121,
+      "name": "Ben Schwartz",
+      "profilePath": "/hWEQe66jXUAGVhbU5dy8s0IrrAQ.jpg"
+    },
+    {
+      "character": "Dumbass Tony",
+      "id": 1457999,
+      "name": "Arturo Castro",
+      "profilePath": "/pbLoDCfjm3fLtGHVqQcnbM2d0cu.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 127928,
+      "logoPath": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+      "name": "20th Century Studios"
+    },
+    {
+      "id": 1757,
+      "logoPath": "/fc9qw5GoTbyWGa0QcfbsZFzuMKQ.png",
+      "name": "Mad Chance"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-03-27",
+  "externalIds": {
+    "imdbId": "tt27552099",
+    "wikidataId": "Q130240838"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 1115544,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Mike & Nick & Nick & Alice",
+  "overview": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
+  "posterPath": "/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-03-27",
+      "premiere": "2026-03-14"
+    }
+  },
+  "runtime": 107,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A time-traveling, double-crossing, ass-kicking comedy.",
+  "theatricalDate": null,
+  "title": "Mike & Nick & Nick & Alice",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "pI-2t18TXqs",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 489,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1115544-mike-nick-nick-alice/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1115544-mike-nick-nick-alice/watch?locale=US",
+      "rent": []
+    }
+  }
+}

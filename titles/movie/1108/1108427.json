@@ -1,0 +1,837 @@
+{
+  "backdropPath": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+  "cast": [
+    {
+      "character": "Moana",
+      "id": 4247263,
+      "name": "Catherine Lagaʻaia",
+      "profilePath": "/tUyT2VfVuRJPqeAbLhFFOtZa4fH.jpg"
+    },
+    {
+      "character": "Maui",
+      "id": 18918,
+      "name": "Dwayne Johnson",
+      "profilePath": "/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+    },
+    {
+      "character": "Gramma Tala",
+      "id": 7241,
+      "name": "Rena Owen",
+      "profilePath": "/648ZdDBmlx6OFDFRmgAbh6q5LBo.jpg"
+    },
+    {
+      "character": "Chief Tui",
+      "id": 205406,
+      "name": "John Tui",
+      "profilePath": "/2jIc9M5kl2GmK8fZtbtUr2s1jkS.jpg"
+    },
+    {
+      "character": "Sina",
+      "id": 1753341,
+      "name": "Frankie Adams",
+      "profilePath": "/aAUHUSf0lh3OBRoaiCRL9ep8lfL.jpg"
+    },
+    {
+      "character": "Tamatoa (voice)",
+      "id": 55936,
+      "name": "Jemaine Clement",
+      "profilePath": "/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg"
+    },
+    {
+      "character": "Moana (4 years old)",
+      "id": 6337289,
+      "name": "Emma Puahi-Shapazian",
+      "profilePath": "/iFHiH7MAJja89Grgu47AdvsPhEU.jpg"
+    },
+    {
+      "character": "Moana (8 years old)",
+      "id": 6337288,
+      "name": "Amaya Masoli",
+      "profilePath": "/fDqCryVbJGSb6CPLCIxmfbN8wsV.jpg"
+    },
+    {
+      "character": "Village Fisherman",
+      "id": 1869261,
+      "name": "Sam Puefua",
+      "profilePath": "/iDcFUBYJMMPf2TIynGHu6U23cWI.jpg"
+    },
+    {
+      "character": "Coconut Farmer",
+      "id": 6352141,
+      "name": "Sione Milford",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 2,
+      "logoPath": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+      "name": "Walt Disney Pictures"
+    },
+    {
+      "id": 73669,
+      "logoPath": "/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png",
+      "name": "Seven Bucks Productions"
+    },
+    {
+      "id": 34081,
+      "logoPath": null,
+      "name": "Flynn Picture Company"
+    },
+    {
+      "id": 122645,
+      "logoPath": "/ujqjqvWtJxP24nAwmRvksaPTDoo.png",
+      "name": "5000 Broadway Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-09-08",
+  "externalIds": {
+    "imdbId": "tt27419466",
+    "wikidataId": "Q124471147"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 60,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "id": 1108427,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Moana",
+  "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+  "posterPath": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+  "rating": 7.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-07-09"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-07-10"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-07-10"
+    },
+    "US": {
+      "digitalDate": "2026-09-08",
+      "gapDays": 60,
+      "theatricalDate": "2026-07-10"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-07-09"
+    },
+    "CN": {
+      "theatrical": "2026-07-10"
+    },
+    "GB": {
+      "theatrical": "2026-07-10"
+    },
+    "US": {
+      "digital": "2026-09-08",
+      "physical": "2026-10-06",
+      "premiere": "2026-07-07",
+      "theatrical": "2026-07-10"
+    }
+  },
+  "runtime": 115,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The ocean chose her for a reason.",
+  "theatricalDate": "2026-07-10",
+  "title": "Moana",
+  "translations": {
+    "faTitle": "موانا"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "fbbL3X_IknE",
+      "name": "the ocean chose her",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "fLMQzWYb-rM",
+      "name": "Streaming October 21st only on Disney+",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "0hKp2ikUbkQ",
+      "name": "Streaming on Disney+ October 21",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "hJ7seorh_q8",
+      "name": "Get hooked on the sing along",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "PUBcFHplpwc",
+      "name": "Buy Moana on digital today!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "G3P2OKwPvM4",
+      "name": "let's do this",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "U66jE8w5enk",
+      "name": "the story has just begun",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ib8ZqtBg0qU",
+      "name": "Be The First To Watch At Home",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ucSAJ8fQy54",
+      "name": "Ocean Ambiance",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "IeeO0Sh7F_A",
+      "name": "She is Moana",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "qOlKE9Mg148",
+      "name": "*taps mic*",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "w_MhwUwNuKU",
+      "name": "destination: Motunui",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "8wXKi-g1z4M",
+      "name": "Moana x Hamilton Quiz with Leslie Odom Jr. & Thomas Kail",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "nVRZa_Wz0tY",
+      "name": "Auliʻi Cravalho Builds Her Ultimate Disney Boat Crew!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "hwKqyi5qvYY",
+      "name": "What can we say except...finish the lyric",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "QbdYhimM8Ug",
+      "name": "Leslie Odom Jr. & Thomas Kail Talk Moana, Hamilton & Bringing Stories to Life",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "oft7rwwiZ9o",
+      "name": "the sounds of Motunui",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "eDjz_3wnguo",
+      "name": "How would you describe Moana in three words?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "YhN8xvqMUdc",
+      "name": "Costume Commentary | Notes on a Seam",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "Xbb2l7OpO0Q",
+      "name": "Moana Garden Transformation | Full Timelapse Build",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6cQGfS7o-Zk",
+      "name": "Our summer mood board",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Ytc7dGSwhZY",
+      "name": "Auliʻi Cravalho on Passing the Moana Mantle",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "lwRvLVglKKQ",
+      "name": "🍿🍿🍿",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "__xs4GgoueE",
+      "name": "this OAR that?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "_hXIB_HknZE",
+      "name": "Moana has us HOOKED",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "3Vzovv7AwY8",
+      "name": "Princess ❌ Daughter of the chief ✅",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "byabJmm6dYg",
+      "name": "The colours of Moana",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "w8I5BKoqXJM",
+      "name": "the ocean is calling",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "a67r_jXp9Fw",
+      "name": "Experience the journey you love in a whole new way",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "8Ur5EGIiihg",
+      "name": "Boat Voyage",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "RStP5DN_G00",
+      "name": "🪝🪝🪝",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "u0_9FzYWtGY",
+      "name": "Bringing Moana’s Island Magic to Life | A Magical Garden Transformation",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "nZw5CripLJg",
+      "name": "A Real Life Wayfinder Meets Moana | Jasmine Harrison & Catherine Laga'aia",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "aXD0IfVz9b4",
+      "name": "She is Moana",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "U9JPmfh19v8",
+      "name": "a day in the life of being Moana with Catherine Laga'aia",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "o8JZW9hFqtI",
+      "name": "#1 In The World",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "pBe-5cXYwcE",
+      "name": "💙🌊",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "o0IktGl2kZs",
+      "name": "Close your eyes and travel to Montunui",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "fW92eZw_nXw",
+      "name": "Laga’aia is captivating as Moana",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "pDQ3reMcFUY",
+      "name": "See how far Catherine Laga'aia & @MichelleKhare go on their road trip",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "TX5nfV7Ckzk",
+      "name": "'On the Journey' with Catherine Laga'aia | London Special",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "MM-KQoWHu1w",
+      "name": "D23 Inside Disney - Moana",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "7JOtIQZQz_8",
+      "name": "Johnson and Laga’aia are terrific together",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "muYkRerNDLQ",
+      "name": "It's time to visit Motunui",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "y-7iZf8jFRw",
+      "name": "Behind the Scenes of Disney's 'Moana' with Dwayne Johnson and Catherine Lagaʻaia",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "0xdEdaF6s7o",
+      "name": "Global Phenomenon",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "BGbY-2xvUPI",
+      "name": "she is Moana",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "zCIvLgqiOLY",
+      "name": "“It’s more than a movie.”",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "0-O3h341siY",
+      "name": "​ ⁨@BretmanRock and @thecommentsectionwithdrew are here",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "n8Su6L6YYP0",
+      "name": "D23 Takes You Inside the World Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "L0xisJqNn94",
+      "name": "time to journey beyond the reef",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "mLcJnW3CQTg",
+      "name": "there’s always someone",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "0C4_cclnt34",
+      "name": "CHEE-HOO! 🪝🌊 That's a wrap on the world premiere!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Qwkvmbp0Hto",
+      "name": "clean up crew has arrived",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "kBw84w1d7RA",
+      "name": "make sure you get his good side",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "fyUU6UX7E3o",
+      "name": "the Heihei and Pua content we're living for",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "fHHuBSQkiSU",
+      "name": "European Creators Sing \"You're Welcome\" in 8 Languages!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "PKfcJo7D2QM",
+      "name": "*Heihei scream*",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "BjItqBhjQ4s",
+      "name": "Movie Surfers - Behind the Scenes of Moana",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "gW8uxQHOnGc",
+      "name": "I have crossed the horizon to find you in IMAX.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "B0YMuWT9o74",
+      "name": "The cast and crew tell us what you can expect from Moana",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "zMqiyx4wgMQ",
+      "name": "pet 🐔 or pet 🐷?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "V4hEybX8S2E",
+      "name": "Drone Show",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "1006oDNJ97k",
+      "name": "In 🌀ne week see Moana in theaters.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "BRE8oMvJ3RU",
+      "name": "Moana vibes",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "CigpsrYs5PM",
+      "name": "Catherine 🤝 Moana",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Hd_GK4wtGZE",
+      "name": "Louise Pentland Interviews the Moana Cast & Crew at the Moana Experience in London",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "aOosa4A9y9Y",
+      "name": "Music of Moana",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "O92aS4Bg4ZU",
+      "name": "Come to the Moana Experience with Misha Grimes!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "muu8e1UadO8",
+      "name": "Moana Cast & Crew Visit London's Moana Pop-Up Experience!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "GR9Y-SawEc4",
+      "name": "Sisterhood",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "cG858dlby9k",
+      "name": "she is the boss",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Zp8lSjkvU-E",
+      "name": "IN 10 DAYS!",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "8YpY13zvaXY",
+      "name": "still TBC on Maui defeating that lava monster...",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "AsAV-H_FU4g",
+      "name": "the ocean always has Moana's back",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Rix42-yMPt8",
+      "name": "The story has just begun",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Tf9pLhNOrSA",
+      "name": "Shanghai ✅ there's just no telling how far I'll go",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "MPuHKsgbe04",
+      "name": "we know the way",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "RGZs6pztj9E",
+      "name": "Moana really is that girl",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "3F3imgN717U",
+      "name": "the crew",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "EgmuYKE6S_w",
+      "name": "Moana and Maui just coexisting",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "En5EPtbxxKA",
+      "name": "i'm not a princess, i'm the daughter of the chief",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "WPhWLBfwSko",
+      "name": "if I go, there's just no telling how far I'll go",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "VV_nNBQcos4",
+      "name": "Dwayne is Maui",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "jw2Wy67FoTg",
+      "name": "Moana 🎤 Moana",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "qAMwvv8LYZY",
+      "name": "Along The Way",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "jmdaCHskj3s",
+      "name": "There's just no telling how far they'll go!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "H7uMTliVmbU",
+      "name": "Moana meets Maui",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "cHS_C2MviPM",
+      "name": "Catherine is Moana",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "rORZoj-5YSc",
+      "name": "pick an eye, babe",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "fLmo-c5UhG0",
+      "name": "it's true",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "-JwnMgljyOU",
+      "name": "*Heihei scream*",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "EEz5xbzYPKI",
+      "name": "Final Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "O8uu23T7Ek4",
+      "name": "\"Artistry of Moana\"",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "LehMd1L7XkI",
+      "name": "Careful, Heihei!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "n7f6hlKsxxo",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "QKYFfYLe5rs",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "cHXB-5woeHw",
+      "name": "Live-Action Moana Announcement",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 998,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1108427-moana/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1108427-moana/watch?locale=US",
+      "rent": []
+    }
+  }
+}

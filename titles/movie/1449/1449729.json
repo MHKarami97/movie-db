@@ -1,0 +1,91 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 53509,
+      "logoPath": "/xmJMAss7BDsQPvODjYkDQKiNhUX.png",
+      "name": "Wrong Men"
+    },
+    {
+      "id": 39839,
+      "logoPath": "/iY4tGofwVqeUOR6zEdERR1fPTxw.png",
+      "name": "Geko Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36461267"
+  },
+  "fetchedAt": 1795373734473,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1449729,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ha",
+      "name": "Hausa"
+    }
+  ],
+  "originalTitle": "La Montagne d’or",
+  "overview": "Gold fever has gripped northern Niger. In search of the precious metal, and despite the risks, an army of researchers has invaded the sites of interest. While camps are set up and dismantled as rumours of new leads spread, Moussa and his companions are banking on the Ikazan vein.",
+  "posterPath": "/3sA2oTcUMRH6dQUbAAInTkHhaM5.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Mountain of Gold",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "TeCzsg6k9cQ",
+      "name": "Trailer | La Montagne d'or | Roland Edzard",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

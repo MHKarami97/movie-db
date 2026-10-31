@@ -1,0 +1,174 @@
+{
+  "backdropPath": "/xoUzJ8s2VxVDIJqthP4C3sFL0Sg.jpg",
+  "cast": [
+    {
+      "character": "Marcus Kelevra",
+      "id": 5313711,
+      "name": "Alexis Adrián",
+      "profilePath": "/dNgEOJuBxhrU80mzRgPmtd4osLd.jpg"
+    },
+    {
+      "character": "Dr. Anthonny Goodkat",
+      "id": 5313712,
+      "name": "Fredy Roque",
+      "profilePath": "/g2EhR59y2aVfLCDwC7qwCP9ZPFg.jpg"
+    },
+    {
+      "character": "Gerry Kesselring",
+      "id": 5290307,
+      "name": "Nicolás de Jesús",
+      "profilePath": "/52gwTdGtxCKfWbviVvJoUdQEPuH.jpg"
+    },
+    {
+      "character": "Lindsey Nielsen",
+      "id": 5313716,
+      "name": "Mariel Landeros",
+      "profilePath": "/a5WczMHm4UQLE4WwBKfaxWUlHW5.jpg"
+    },
+    {
+      "character": "Tibberius Bordem",
+      "id": 5313717,
+      "name": "Axel Mata",
+      "profilePath": "/yfPbNT8trq3QCEvv9bV7HH1NxSB.jpg"
+    },
+    {
+      "character": "Gretchen Liebren",
+      "id": 5313719,
+      "name": "Wendy Brito",
+      "profilePath": null
+    },
+    {
+      "character": "Dr. Frank Anfurter",
+      "id": 5313722,
+      "name": "Herzai Meraz",
+      "profilePath": "/5iJElqe5SSFHN7WM9xkklzDLbq.jpg"
+    },
+    {
+      "character": "Doris Rifkind",
+      "id": 5313724,
+      "name": "Christel Caballero",
+      "profilePath": null
+    },
+    {
+      "character": "Allerton Rodan",
+      "id": 5313725,
+      "name": "Eduardo Islas",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 256728,
+      "logoPath": "/ijvUyfz88M2SSH7zlp6XtjimpDJ.png",
+      "name": "Walt Nick's Pictures"
+    },
+    {
+      "id": 256729,
+      "logoPath": null,
+      "name": "MAVV"
+    },
+    {
+      "id": 256730,
+      "logoPath": null,
+      "name": "Ahora Me Ves... Producciones"
+    },
+    {
+      "id": 256731,
+      "logoPath": null,
+      "name": "A. J. Luna Producciones"
+    }
+  ],
+  "countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "digitalDate": "2027-01-29",
+  "externalIds": {
+    "facebookId": "AhoraMeVes.WNs",
+    "imdbId": "tt27995870",
+    "instagramId": "ahorameves.wns"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 1,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1450771,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Ahora Me Ves... De Nicolás de Jesús",
+  "overview": "Struggling fair owner Kesselring (Nicolás de Jesús) is given a unique opportunity to restore the fair to its former glory when his friend Dr. Goodkat (Fredy Roque) introduces him to Marcus Kelevra (Alexis Adrián), a man whose mysterious act will draw people back to the fair, at a deadly cost, and even sparking interest among his fellow fairgoers.",
+  "posterPath": "/z1nELGUselYiNhQy1Ksq2CHudD9.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-02-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-29",
+      "gapDays": 1,
+      "theatricalDate": "2027-01-28"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2027-02-12"
+    },
+    "US": {
+      "digital": "2027-01-29",
+      "theatricalLimited": "2027-01-28"
+    }
+  },
+  "runtime": 119,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "Do Not Try This Trick At Home",
+  "theatricalDate": "2027-01-28",
+  "title": "Nicolás de Jesús' Now You See Me...",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "UM1_7Cwszao",
+      "name": "Now You See Me... (2025) Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

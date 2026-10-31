@@ -1,0 +1,152 @@
+{
+  "backdropPath": "/t3w5jYOilKc94sbaYveyejRX9MY.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 1214508,
+      "name": "Bradley Walsh",
+      "profilePath": "/pSLXGYSqHEe7kXHdBOSeHFGAqvP.jpg"
+    },
+    {
+      "character": "Reece",
+      "id": 6598168,
+      "name": "Geirge Reid",
+      "profilePath": null
+    },
+    {
+      "character": "Lesley",
+      "id": 6127832,
+      "name": "Eleanor Cross",
+      "profilePath": null
+    },
+    {
+      "character": "Kate",
+      "id": 1283638,
+      "name": "Heather Coombs",
+      "profilePath": "/tInf3gNCKKWQjCIn5NSoOxST6Nt.jpg"
+    },
+    {
+      "character": "Mark",
+      "id": 6598171,
+      "name": "Aneurin Ferguson",
+      "profilePath": null
+    },
+    {
+      "character": "Helen",
+      "id": 2447328,
+      "name": "Menyee Lai",
+      "profilePath": null
+    },
+    {
+      "character": "Robin",
+      "id": 126459,
+      "name": "Roisin Rae",
+      "profilePath": "/6ZkajxVjkZpi9NaBc26v4KKhEMn.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 48439,
+      "logoPath": "/xRTA0PpuVnbiISBefJ5BKCzmslc.png",
+      "name": "KEO Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt50482868"
+  },
+  "fetchedAt": 1795373734473,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1812581,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Bradley Walsh's Million Pound Shot",
+  "overview": "A brand-new quiz where contestants can win a million. But there's one huge secret twist in a night of drama, tension and life-changing outcomes. Would you take the shot?",
+  "posterPath": "/sLYW2AmJS15hvKymcPFqSHIrhxh.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "tv": "2026-11-01"
+    }
+  },
+  "runtime": 52,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Bradley Walsh's Million Pound Shot",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "tDa1Y3BWRuA",
+      "name": "Bradley Walsh’s Million Pound Shot Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 103,
+          "logoPath": "/kMT8p43W3BsXBe9mqCIPDNepser.png",
+          "name": "Channel 4"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1812581-bradley-walsh-s-million-pound-shot/watch?locale=GB",
+      "rent": []
+    }
+  }
+}

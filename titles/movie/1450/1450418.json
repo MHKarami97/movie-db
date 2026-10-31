@@ -1,0 +1,101 @@
+{
+  "backdropPath": "/tOXWfycyW8ef7Fcj5S1RNGnaNgm.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 256639,
+      "logoPath": "/1pQi0FUNaII6UbDkGQWDvnV1ZiX.png",
+      "name": "PixelArc"
+    },
+    {
+      "id": 20789,
+      "logoPath": "/qw7Hdf230EF9ZeH4nCRS0eAo7l3.png",
+      "name": "Redrover"
+    },
+    {
+      "id": 256640,
+      "logoPath": null,
+      "name": "RedWood"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    {
+      "code": "US",
+      "name": "United States"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt6552604"
+  },
+  "fetchedAt": 1795640243421,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "id": 1450418,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "originalTitle": "MegaRacer",
+  "overview": "Held only once every eight years, MegaRace begins when the planet Stellar is in eclipse, which opens up a special portal. The winners get to claim a gigantic prize and a secret, magical force. It is one of the most exhilarating sports to watch live. But it is also one of the most dangerous, as the contestants might fall off the tracks and become either trapped in the portal or find themselves lost in another era.",
+  "posterPath": "/7kaxdjNBZmWV3nM04DX7f9Riaep.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Unlock the past to win the future.",
+  "theatricalDate": null,
+  "title": "MegaRacer",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

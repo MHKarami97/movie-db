@@ -1,0 +1,152 @@
+{
+  "backdropPath": "/4X3GQW8zt29dVja3z34F2E54Row.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 3707386,
+      "name": "Mary Beth Barone",
+      "profilePath": "/4RWzlHz5GPPnaaiz0HDfYO0JJ7H.jpg"
+    },
+    {
+      "character": "Self (uncredited)",
+      "id": 6317990,
+      "name": "Ky Newman",
+      "profilePath": "/lmpmKwdPkw1lkqfdMV5LoC5HHIT.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 109829,
+      "logoPath": "/wW1hvmA2edFqjJaoWMK4GChFnpE.png",
+      "name": "Irony Point"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-07-28",
+  "externalIds": {
+    "imdbId": "tt38843957"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1723570,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Mary Beth Barone: Galaxy Brain",
+  "overview": "Is an ex-best friend the worst ex? Can dating apps save democracy? What's with NYPD merch? Mary Beth Barone has all the answers in this witty special.",
+  "posterPath": "/ouLtBhnTkpmgxzASXgMUTootCDx.jpg",
+  "rating": 5.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-28",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-07-28"
+    }
+  },
+  "runtime": 56,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Mary Beth Barone: Galaxy Brain",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "LtK3kHAR63E",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1723570-mary-beth-barone-galaxy-brain/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1723570-mary-beth-barone-galaxy-brain/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1723570-mary-beth-barone-galaxy-brain/watch?locale=US",
+      "rent": []
+    }
+  }
+}

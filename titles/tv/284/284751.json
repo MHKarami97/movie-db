@@ -1,0 +1,185 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Mitsuki Koga (voice)",
+      "id": 1250465,
+      "name": "Mariya Ise",
+      "profilePath": "/uMHWTKGolzzjXCiv20F0n8h2Pqu.jpg"
+    },
+    {
+      "character": "Aya Osawa (voice)",
+      "id": 1563442,
+      "name": "Akari Kito",
+      "profilePath": "/AoRQOZRC0yINB0WeKnM569rV1wF.jpg"
+    },
+    {
+      "character": "Jō (voice)",
+      "id": 135524,
+      "name": "Kenjiro Tsuda",
+      "profilePath": "/yFpSPNHqYN4rdRiVpVaYmqXMkmi.jpg"
+    },
+    {
+      "character": "Narita (voice)",
+      "id": 1256915,
+      "name": "Tasuku Hatanaka",
+      "profilePath": "/xPDqoxAia1ShoVC2aMS2ZDPDWzG.jpg"
+    },
+    {
+      "character": "Chizuru (voice)",
+      "id": 2539429,
+      "name": "Yurina Amami",
+      "profilePath": "/peSPIgRkaiowkDTNfw7GpbW2J5Z.jpg"
+    },
+    {
+      "character": "Mao (voice)",
+      "id": 2359492,
+      "name": "Fairouz Ai",
+      "profilePath": "/coFu6WOVBZvqd1fw89vbHkiC0zB.jpg"
+    },
+    {
+      "character": "Kanna (voice)",
+      "id": 2833585,
+      "name": "Maiko Nomura",
+      "profilePath": "/rTA6YNVccrVv23AHTcukwAiKyvr.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 121589,
+      "logoPath": "/kZvTniBgpTzAThHCa0OZ1FJtRjy.png",
+      "name": "CloverWorks"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2027-01-08",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-08",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt37421046",
+    "twitterId": "kinioto_anime",
+    "wikidataId": "Q132544635"
+  },
+  "fetchedAt": 1795845173112,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 284751,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-08",
+    "episodeNumber": 1,
+    "id": 5992794,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "気になってる人が男じゃなかった",
+  "overview": "Fashionable and upbeat high schooler Aya falls head over heels for an employee at a local CD shop. He's got an air of mystery about him, great style, and an impeccable music taste. Little does she know—this supposedly male employee is actually her female classmate Mitsuki! Mitsuki generally keeps to herself, but since her seat is right next to Aya's, she can't help but be extremely aware of the other's crush. Revealing the truth is out of the question for Mitsuki—but perhaps getting closer to Aya wouldn't be so bad…",
+  "posterPath": "/ylaAAp6YaVD9rJBepBZ12VpZugM.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-08",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-08"
+    },
+    "CN": {
+      "tv": "2027-01-08"
+    },
+    "GB": {
+      "tv": "2027-01-08"
+    },
+    "US": {
+      "tv": "2027-01-08"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-08",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/x3n1dAH2jzyPkqJtRvwUCXJrmoI.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Guy She Was Interested In Wasn't a Guy at All",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "2KPFnP1othM",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "TL-IGyJGf-w",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

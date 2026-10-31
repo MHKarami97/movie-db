@@ -1,0 +1,356 @@
+{
+  "backdropPath": "/722lo8EBC3S2LKcBVg3fpl4HWmK.jpg",
+  "cast": [
+    {
+      "character": "Valentín Arregui / Armando",
+      "id": 8688,
+      "name": "Diego Luna",
+      "profilePath": "/qwbjcyDN37OHiln4a6P4LP31o7F.jpg"
+    },
+    {
+      "character": "Luis Molina / Kendall Nesbitt",
+      "id": 1594098,
+      "name": "Tonatiuh",
+      "profilePath": "/UBYHl9fwbZuHLqetxf2qWcuNF5.jpg"
+    },
+    {
+      "character": "Ingrid Luna / Aurora / The Spider Woman",
+      "id": 16866,
+      "name": "Jennifer Lopez",
+      "profilePath": "/iDiicDZ6CMib20QSCQYB55iynEk.jpg"
+    },
+    {
+      "character": "Warden Ledesma",
+      "id": 52745,
+      "name": "Bruno Bichir",
+      "profilePath": "/af6MbUchuOv9bPh080cF7Awqxi7.jpg"
+    },
+    {
+      "character": "Marta",
+      "id": 1291703,
+      "name": "Josefina Scaglione",
+      "profilePath": "/vJ0ItdQeTDU5xDwxXpQIEVO8V1e.jpg"
+    },
+    {
+      "character": "Paolina Paz",
+      "id": 3293850,
+      "name": "Aline Mayagoitia",
+      "profilePath": "/9R0ia0lxLO6qo2SnwitK5o28r9.jpg"
+    },
+    {
+      "character": "Johnny Desiderio",
+      "id": 2003668,
+      "name": "Driton 'Tony' Dovolani",
+      "profilePath": "/kaHVxDTiOnpAJ5YWSasxZxnyKQZ.jpg"
+    },
+    {
+      "character": "Señora Molina",
+      "id": 1694293,
+      "name": "Lucila Gandolfo",
+      "profilePath": "/gEbAgGgnHohvE8eTckQh3V1ZsKu.jpg"
+    },
+    {
+      "character": "Castellanos",
+      "id": 2876270,
+      "name": "Federico Repetto",
+      "profilePath": null
+    },
+    {
+      "character": "Marcos",
+      "id": 1863482,
+      "name": "Lucas Barreiro",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 1894,
+      "logoPath": "/5yUCKe1VCBq53abMWdJtU1zY4lm.png",
+      "name": "Josephson Entertainment"
+    },
+    {
+      "id": 215529,
+      "logoPath": "/8ohoRBIvATJ0sWaNzBlGjEZYfWH.png",
+      "name": "Tom Kirdahy Productions"
+    },
+    {
+      "id": 187968,
+      "logoPath": "/xdVAEg1biNrQw5nnMXKswPCRpkq.png",
+      "name": "Artists Equity"
+    },
+    {
+      "id": 253273,
+      "logoPath": "/8K6JuEzRum2AKBuVFvDR2vV54Qm.png",
+      "name": "Mohari Media"
+    },
+    {
+      "id": 209747,
+      "logoPath": null,
+      "name": "1000 Eyes"
+    },
+    {
+      "id": 1620,
+      "logoPath": "/yTI712cgl8hh6FNT5E6td0eHfNb.png",
+      "name": "Nuyorican Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-11-11",
+  "externalIds": {
+    "facebookId": "kissofthespiderwomanfilm",
+    "imdbId": "tt30400277",
+    "instagramId": "kissofthespiderwomanfilm",
+    "wikidataId": "Q125078429"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1214684,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Kiss of the Spider Woman",
+  "overview": "والنتین، زندانی سیاسی، با مولینا که به دلیل فساد اخلاقی محکوم شده، هم‌سلولی است. بین آن‌ها پیوندی غیرمنتظره شکل می‌گیرد؛ مولینا داستان یک فیلم موزیکال هالیوودی با بازی اینگرید لونا را برایش تعریف می‌کند.",
+  "posterPath": "/c8zDeDq0Uatjly6Fh4ycmWuoLYy.jpg",
+  "rating": 5.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-17"
+    },
+    "US": {
+      "digitalDate": "2025-11-11",
+      "gapDays": 32,
+      "theatricalDate": "2025-10-10"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-04-17"
+    },
+    "US": {
+      "digital": "2025-11-11",
+      "premiere": "2025-01-26",
+      "theatrical": "2025-10-10"
+    }
+  },
+  "runtime": 128,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "It's time to step back into the spotlight.",
+  "theatricalDate": "2025-10-10",
+  "title": "Kiss of the Spider Woman",
+  "translations": {
+    "faOverview": "والنتین، زندانی سیاسی، با مولینا که به دلیل فساد اخلاقی محکوم شده، هم‌سلولی است. بین آن‌ها پیوندی غیرمنتظره شکل می‌گیرد؛ مولینا داستان یک فیلم موزیکال هالیوودی با بازی اینگرید لونا را برایش تعریف می‌کند.",
+    "faTitle": "بوسه زن عنکبوتی"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "cm4UsaCOkHA",
+      "name": "Ladies and gentlemen, the show is about to begin",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9DoylxHhxr4",
+      "name": "Official UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "17tZaYwm9Kk",
+      "name": "Jennifer Lopez Lived Her Old Hollywood Musical Fantasy in 'Kiss of the Spider Woman'",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "XoSNPc03sh4",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "X38mG7IW4mo",
+      "name": "Official Teaser Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 92,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1214684-kiss-of-the-spider-woman/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1214684-kiss-of-the-spider-woman/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 331,
+          "logoPath": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+          "name": "FlixFling"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

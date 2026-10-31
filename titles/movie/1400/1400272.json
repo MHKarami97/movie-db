@@ -1,0 +1,139 @@
+{
+  "backdropPath": "/uF9zIfuV9qYbMO8aK0aMkYKATey.jpg",
+  "cast": [
+    {
+      "character": "Bea",
+      "id": 1434143,
+      "name": "Mara Sánchez",
+      "profilePath": "/6unIBYNCDlmVEYjAewT5kZuvUIL.jpg"
+    },
+    {
+      "character": "Denis",
+      "id": 5111164,
+      "name": "Adam Prieto",
+      "profilePath": "/fWVwB7w9wLJcnmpVymFMNvo9mhZ.jpg"
+    },
+    {
+      "character": "Poli",
+      "id": 2162190,
+      "name": "Machi Salgado",
+      "profilePath": "/hQVh7pzPf7ZlqFYCxy7VbfBTzMn.jpg"
+    },
+    {
+      "character": "",
+      "id": 6395938,
+      "name": "Mónica García Cadahía",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 2053802,
+      "name": "Alberto Rolán",
+      "profilePath": "/ybgTNly86GGLWpGmGxsDaQKikV5.jpg"
+    },
+    {
+      "character": "",
+      "id": 6395949,
+      "name": "Ana Fornéas",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 201424,
+      "logoPath": "/sppjVS3RjKTFeeHcBBvXhaYjG0J.png",
+      "name": "Sideral Cinema"
+    },
+    {
+      "id": 246960,
+      "logoPath": "/xaFwpaSzh36gTX47C6dZiT515l9.png",
+      "name": "Sétima"
+    },
+    {
+      "id": 119362,
+      "logoPath": "/3VMbHWa9xwWBaIN311GmXXxtJI9.png",
+      "name": "AGADIC"
+    },
+    {
+      "id": 37970,
+      "logoPath": "/zcmdBunO77VoTYcGXg2arJekfva.png",
+      "name": "Elamedia Estudios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt15453322",
+    "wikidataId": "Q136676785"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1400272,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "gl",
+      "name": "Galician"
+    }
+  ],
+  "originalTitle": "As liñas descontinuas",
+  "overview": "Bea is a middle-aged woman going through divorce. Denís is a young trans man who breaks into her house. Rather than turning him in to the police, she decides to spend the next few days getting to know him.",
+  "posterPath": "/vE4CEUU9GSuMFx1A1sIR2pQtmOu.jpg",
+  "rating": 5.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Dashed Lines",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "ifN6CgOvnrA",
+      "name": "LAS LINEAS DISCONTINUAS - EN CINES 20 DE FEBRERO | Tráiler VOSE",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {}
+}

@@ -1,0 +1,177 @@
+{
+  "backdropPath": "/xlPaWKhAVHVJwaKRheEdVQEZsoj.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 2109360,
+      "name": "Nana Mori",
+      "profilePath": "/92cSvqzUVbancmqFmtfgdIVBh6s.jpg"
+    },
+    {
+      "character": "",
+      "id": 1669110,
+      "name": "Aju Makita",
+      "profilePath": "/1ytWQPDRZZVb8enAc0Kp4mRkbJL.jpg"
+    },
+    {
+      "character": "",
+      "id": 2054290,
+      "name": "Mayu Hotta",
+      "profilePath": "/hm8sFX6rXTuA7czOSruFxSz1gHM.jpg"
+    },
+    {
+      "character": "",
+      "id": 2094067,
+      "name": "Mizuki Yamashita",
+      "profilePath": "/zhRK5L4277NC7ghWCF6naIqqFCC.jpg"
+    },
+    {
+      "character": "",
+      "id": 3173296,
+      "name": "Kentaro Maeda",
+      "profilePath": "/lBE7Qh9Qujba1R1A73cj3XdBu9n.jpg"
+    },
+    {
+      "character": "",
+      "id": 586791,
+      "name": "Oshirō Maeda",
+      "profilePath": "/cOWmkaKC848jIersVa18l1DYL54.jpg"
+    },
+    {
+      "character": "",
+      "id": 4734845,
+      "name": "Hiroto Takahashi",
+      "profilePath": "/q8PJuYMzjEZgZWMWejv5Hlt2WU0.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 213255,
+      "logoPath": "/wC3D1eMLBIJmlaWCs1QS6cFcpq9.png",
+      "name": "THE SEVEN"
+    },
+    {
+      "id": 46774,
+      "logoPath": "/muOQv2xpkJqfwNthZbTS6ur85ZA.png",
+      "name": "KADOKAWA Daiei Studio"
+    },
+    {
+      "id": 210099,
+      "logoPath": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-13",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-11-13",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt44914557",
+    "wikidataId": "Q141598726"
+  },
+  "fetchedAt": 1794460914024,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 332683,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-13",
+    "episodeNumber": 1,
+    "id": 7722181,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "地雷グリコ",
+  "overview": "Glico, Daruma-san ga Koronda... A game everyone knows—transformed into the ultimate battle of wits!?",
+  "posterPath": "/jvZkhyotvvEvyWLyLMT54cehMB7.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-11-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-11-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-13",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-11-13"
+    },
+    "CN": {
+      "tv": "2026-11-13"
+    },
+    "GB": {
+      "tv": "2026-11-13"
+    },
+    "US": {
+      "tv": "2026-11-13"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-11-13",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "ROCK PAPER LANDMINE",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,169 @@
+{
+  "backdropPath": "/huCxVMUYNKRswRoF1TuHCpArZlF.jpg",
+  "cast": [
+    {
+      "character": "Godmother",
+      "id": 50,
+      "name": "Catherine Deneuve",
+      "profilePath": "/7NS1KuwxTIzyMcpNGKBGlSV0Hqo.jpg"
+    },
+    {
+      "character": "Blanche",
+      "id": 2400105,
+      "name": "Claire Pommet",
+      "profilePath": "/1iVb7uAhYmRPZGdavaXFix3PIV1.jpg"
+    },
+    {
+      "character": "Queen",
+      "id": 13688,
+      "name": "Karin Viard",
+      "profilePath": "/quIomRrFBxXq32K5MBuvaTR3xBk.jpg"
+    },
+    {
+      "character": "King",
+      "id": 28675,
+      "name": "Laurent Stocker",
+      "profilePath": "/4EhK8uFnlSjoFXi6Mz7a6dSO5W1.jpg"
+    },
+    {
+      "character": "Prince Charming",
+      "id": 4100473,
+      "name": "Paul de Saint Sernin",
+      "profilePath": "/7PyIB1D9wWcRt8ji1xADPYywMfg.jpg"
+    },
+    {
+      "character": "Melchior",
+      "id": 2447101,
+      "name": "Louis Peres",
+      "profilePath": "/otfeN9M56LsCG60MDrMlLGcYgmr.jpg"
+    },
+    {
+      "character": "",
+      "id": 2601088,
+      "name": "Stefan Crepon",
+      "profilePath": "/pEhRxeFhLR1iVyYBMkHijkLZ3xN.jpg"
+    },
+    {
+      "character": "",
+      "id": 1619067,
+      "name": "Eddy de Pretto",
+      "profilePath": "/u9QsnoTOdhsncZV6xnX8skn6vR7.jpg"
+    },
+    {
+      "character": "Adèle",
+      "id": 1386778,
+      "name": "Melha Bedia",
+      "profilePath": "/wVRSQkFuIQmE3y362AOibFDn9jL.jpg"
+    },
+    {
+      "character": "",
+      "id": 1384886,
+      "name": "Estéban",
+      "profilePath": "/amXtFeWybKgSn6kd1D9rgm6V1Vp.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 120768,
+      "logoPath": "/ccHWgGgU03FvvhPNgGmdzddNLTN.png",
+      "name": "Trésor Films"
+    },
+    {
+      "id": 591,
+      "logoPath": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma"
+    },
+    {
+      "id": 19037,
+      "logoPath": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+      "name": "uMedia"
+    },
+    {
+      "id": 23577,
+      "logoPath": "/2e69chGou2s3oizXcL36hnT2W1j.png",
+      "name": "Karé Productions"
+    },
+    {
+      "id": 108769,
+      "logoPath": "/riBQBny2Z3la03Wy8I27Ahn2spC.png",
+      "name": "Playtime"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35659369",
+    "wikidataId": "Q140566538"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1414526,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Peau d'homme",
+  "overview": "In 1480, or thereabouts, as Princess Blanche prepares to unite with the handsome prince of a neighboring kingdom, her father decides to marry her to Melchior, his coarse army commander whom she barely knows. Devastated, she asks for the help of her godmother, who reveals that she is in possession of a mysterious “skin” which, once worn, will allow Blanche to become a man and thus get to know her fiancé incognito.",
+  "posterPath": "/f3mhBK3d3XrQdjntQ4P6R3v7BIf.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 104,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "A Man's Skin",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

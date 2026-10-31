@@ -1,0 +1,155 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 3079326,
+      "name": "Alaa Hussein",
+      "profilePath": "/1JM7m8uwznS9hEvSNomwEacYb3M.jpg"
+    },
+    {
+      "character": "",
+      "id": 3935779,
+      "name": "Atheer Kashkool",
+      "profilePath": "/uHZQlrqgD2jGH24xXHH7bvrwCaM.jpg"
+    },
+    {
+      "character": "",
+      "id": 3978450,
+      "name": "Awatef Naeem",
+      "profilePath": "/2atqTYaSvzWiukxT2ul3nV39obf.jpg"
+    },
+    {
+      "character": "",
+      "id": 3476377,
+      "name": "Sami Kaftan",
+      "profilePath": "/edpwUfsE5gZz4NCABjYoloIuMLg.jpg"
+    },
+    {
+      "character": "",
+      "id": 6701315,
+      "name": "Waqas Saad",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 1289845,
+      "name": "Asaad Abdul Majeed",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 3492510,
+      "name": "Mahmoud Abo Al Abbas",
+      "profilePath": "/7fTDJWZQge9jtfMerHLwRDiJj6R.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 153954,
+      "logoPath": "/8ofVZI23grKaOz4SiEkObFSmxuk.png",
+      "name": "Baghdad Media Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IQ",
+      "name": "Iraq"
+    }
+  ],
+  "digitalDate": "2027-02-08",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-02-08",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1795811653654,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 343874,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-02-08",
+    "episodeNumber": 1,
+    "id": 8181263,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "No Nitle",
+  "overview": "",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-02-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-02-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-02-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-02-08",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-02-08"
+    },
+    "CN": {
+      "tv": "2027-02-08"
+    },
+    "GB": {
+      "tv": "2027-02-08"
+    },
+    "US": {
+      "tv": "2027-02-08"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-02-08",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "No Nitle",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,94 @@
+{
+  "backdropPath": "/pmwKsYwcm9bMay3EOLE9ET0W2HE.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 59576,
+      "logoPath": "/vLUadXW7RfYW55qTdc2c0qzNac1.png",
+      "name": "Punkrobot"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CL",
+      "name": "Chile"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38772301"
+  },
+  "fetchedAt": 1794864638140,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1300862,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Una Gata Valiente",
+  "overview": "Teenage forest cat Kona decides to face her fears and search for her missing mother, who was kidnapped by the circus long ago. She is joined on her journey by Colin, an abandoned guard dog pup, and Bernard, a runaway old circus bear, who are also searching for their own families.",
+  "posterPath": "/2OD1YPtyczGfEYp3es7C2JIJNPk.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Planned",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Brave Cat",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "1vA8750S--M",
+      "name": "Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

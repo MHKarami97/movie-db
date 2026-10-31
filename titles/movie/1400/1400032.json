@@ -1,0 +1,224 @@
+{
+  "backdropPath": "/hsuT5b5EcDAVCY3Oe0Iyez2lTES.jpg",
+  "cast": [
+    {
+      "character": "Shinya Suzuki",
+      "id": 1384646,
+      "name": "Ryoma Takeuchi",
+      "profilePath": "/z2JOrpLIClgGeFbgY1bHB26I5Mx.jpg"
+    },
+    {
+      "character": "Shinya Sugiki",
+      "id": 1480297,
+      "name": "Keita Machida",
+      "profilePath": "/a4aTIpAFyXXzmhDMZ56kV29s8kU.jpg"
+    },
+    {
+      "character": "Aki Tajima",
+      "id": 1395639,
+      "name": "Shiori Doi",
+      "profilePath": "/ooW1oY0jLRlVdMyxiM4xSlXbg8Y.jpg"
+    },
+    {
+      "character": "Fusako Yagami",
+      "id": 1632067,
+      "name": "Anna Ishii",
+      "profilePath": "/7RyHsLRa9dugovRBOrpz7T2thrv.jpg"
+    },
+    {
+      "character": "Dance Industry Magazine Editor",
+      "id": 2322043,
+      "name": "Shinya Hamada",
+      "profilePath": "/sHG3CQY392MYBKqix0UhEsPLtEF.jpg"
+    },
+    {
+      "character": "Dance Industry Magazine Editor",
+      "id": 586791,
+      "name": "Oshirō Maeda",
+      "profilePath": "/cOWmkaKC848jIersVa18l1DYL54.jpg"
+    },
+    {
+      "character": "Liana",
+      "id": 5886916,
+      "name": "Nadiya Bychkova",
+      "profilePath": "/x99rd7IMCFsZWc99Z3MaK34PgcJ.jpg"
+    },
+    {
+      "character": "Martha",
+      "id": 1417041,
+      "name": "Susie Trayling",
+      "profilePath": "/17NQCLiQx8GLDb7LUpISm8P7VPq.jpg"
+    },
+    {
+      "character": "Giulio",
+      "id": 3483524,
+      "name": "Pasquale La Rocca",
+      "profilePath": "/3dMs5jBqST8A5afNbmhEfsUKQoH.jpg"
+    },
+    {
+      "character": "Photographer",
+      "id": 5886920,
+      "name": "James Adrian-Ross",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 205952,
+      "logoPath": "/388yk5xwocvxFMvNZoUkNu5Lj6L.png",
+      "name": "EPISCOPE"
+    },
+    {
+      "id": 185004,
+      "logoPath": "/tyHnxjQJLH6h4iDQKhN5iqebWmX.png",
+      "name": "Netflix"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2025-12-18",
+  "externalIds": {
+    "imdbId": "tt34762360",
+    "wikidataId": "Q136793304"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1400032,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "10DANCE",
+  "overview": "Two dancers, opposites in all but their art, agree to train together for a competition. At first, they clash, but soon become drawn to each other.",
+  "posterPath": "/iEJTCPzN2WQyzLQxZzfiIi9vn7S.jpg",
+  "rating": 7.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-12-18",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-12-18",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-12-18",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2025-12-18"
+    },
+    "GB": {
+      "digital": "2025-12-18"
+    },
+    "US": {
+      "digital": "2025-12-18"
+    }
+  },
+  "runtime": 127,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "10DANCE",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "4iZZGBMlFbc",
+      "name": "Official Trailer [ENG SUB]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 130,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1400032-10dance/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1400032-10dance/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1400032-10dance/watch?locale=US",
+      "rent": []
+    }
+  }
+}

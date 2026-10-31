@@ -1,0 +1,150 @@
+{
+  "backdropPath": "/b9TSiG1SD2tDdNqPmCsM0HulEs2.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1368174,
+      "name": "Pandji Pragiwaksono",
+      "profilePath": "/2r0ruAz3Erw8dssiiBula6cROcH.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 5781722,
+      "name": "Dany Beler",
+      "profilePath": "/s1M22wXR9UFoKBZlkjqkuMv6Ifm.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 5895832,
+      "name": "Ben Dhanio",
+      "profilePath": "/eHr6t8S98vEh7oVXQOxPcrX0eZt.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 166869,
+      "logoPath": null,
+      "name": "Comika"
+    }
+  ],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39177776",
+    "wikidataId": "Q137753087"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1603423,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "id",
+      "name": "Indonesian"
+    }
+  ],
+  "originalTitle": "Mens Rea",
+  "overview": "In his 10th comedy special, Pandji Pragiwaksono riffs on Indonesian legal culture and the absurdities of daily life in this stand-up political satire.",
+  "posterPath": "/6Y5opHynWs0XsjrZXeYGk23vEDc.jpg",
+  "rating": 7.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 144,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Mens Rea",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "09A_UhaPCZE",
+      "name": "MENS REA SUDAH TAYANG DI NETLFLIX!",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1603423-mens-rea/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1603423-mens-rea/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1603423-mens-rea/watch?locale=US",
+      "rent": []
+    }
+  }
+}

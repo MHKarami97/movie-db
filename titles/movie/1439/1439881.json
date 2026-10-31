@@ -1,0 +1,161 @@
+{
+  "backdropPath": "/90RmdU13mK8n0je1TN7VHwfhfBr.jpg",
+  "cast": [
+    {
+      "character": "Marie",
+      "id": 1427680,
+      "name": "Jessica Rothe",
+      "profilePath": "/oItPXy56W0Y5taqIMZilRtnPDMn.jpg"
+    },
+    {
+      "character": "Paul",
+      "id": 987035,
+      "name": "Charlie Barnett",
+      "profilePath": "/hqAk1RLLXzPjo5GK0tQPe91ldRG.jpg"
+    },
+    {
+      "character": "Chief Ezra Reid",
+      "id": 75604,
+      "name": "Yul Vazquez",
+      "profilePath": "/chAxqgeJVoRoQukw7zRYgtlo4KI.jpg"
+    },
+    {
+      "character": "Orson",
+      "id": 50588,
+      "name": "Bates Wilder",
+      "profilePath": "/5wcupz8cXnBQ7iZNjstPhhz5dqZ.jpg"
+    },
+    {
+      "character": "Young Orson",
+      "id": 3367039,
+      "name": "Thomas Parobek",
+      "profilePath": "/4R0mgR7m6yRPN1M4xmOJL5wEcKi.jpg"
+    },
+    {
+      "character": "Jacky",
+      "id": 1917029,
+      "name": "Luisina Quarleri",
+      "profilePath": "/gMnvznYLeSmxEf93b3WHcGa1yds.jpg"
+    },
+    {
+      "character": "Orson's Mother",
+      "id": 3858069,
+      "name": "Taylor Karin",
+      "profilePath": "/6E2sz6h4Z1hUQPHtBMopW98kFn.jpg"
+    },
+    {
+      "character": "Dad",
+      "id": 1040956,
+      "name": "Ian Lyons",
+      "profilePath": "/pmX1Bqi2xCFvZGXBatkAjlIH8S5.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 290580,
+      "logoPath": "/j501KoO6XZ5pZif5ysQTCrLKtgN.png",
+      "name": "Broken Pig Productions"
+    },
+    {
+      "id": 209454,
+      "logoPath": null,
+      "name": "Marlyous' Boys"
+    },
+    {
+      "id": 169906,
+      "logoPath": "/zcjActhEXaYww1JSvx2OtCd8jTG.png",
+      "name": "Spooky Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37340919",
+    "wikidataId": "Q139822839"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1439881,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Imposters",
+  "overview": "After a couple's baby is taken, the desperate mother learns of a way to \"get their baby back.\" However, the husband begins to suspect that what she brought back isn't their son.",
+  "posterPath": "/3ip1yQjTjkx1PHqw4p0ME0b6rQv.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-08-15"
+    },
+    "US": {
+      "premiere": "2026-03-15"
+    }
+  },
+  "runtime": 102,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Imposters",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "8CTuSmkPffw",
+      "name": "Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {}
+}

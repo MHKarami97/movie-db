@@ -1,0 +1,146 @@
+{
+  "backdropPath": "/cVAjpDWhqIpRYXM1Bbgo8MDYYqx.jpg",
+  "cast": [
+    {
+      "character": "Anne",
+      "id": 1165465,
+      "name": "Betsey Brown",
+      "profilePath": "/1IBKOfkj5ReCz7p4yM52VOwX0xI.jpg"
+    },
+    {
+      "character": "Emily",
+      "id": 2722471,
+      "name": "Emily DeForest",
+      "profilePath": "/Ai0Paf4A7QQ1bWXq5vU181UY0qh.jpg"
+    },
+    {
+      "character": "Cole",
+      "id": 1467214,
+      "name": "Cole Doman",
+      "profilePath": "/anVQL5ZgBTR7ZF1e9KAgjbja1JU.jpg"
+    },
+    {
+      "character": "Edy",
+      "id": 2657735,
+      "name": "Edy Modica",
+      "profilePath": "/a24xyuf45xn884jkiRGDk3fB9Gc.jpg"
+    },
+    {
+      "character": "Adelaide",
+      "id": 2443953,
+      "name": "Adelaide Lummis",
+      "profilePath": null
+    },
+    {
+      "character": "David",
+      "id": 2003774,
+      "name": "David Zaldivar",
+      "profilePath": "/8AF19RQzSqtjGLKZBDQ7m7Tv7fx.jpg"
+    },
+    {
+      "character": "Jasmine",
+      "id": 2443955,
+      "name": "Jasmine Kimiko",
+      "profilePath": "/sBMBvoQ5s6uziZqdVcAzDShuxAe.jpg"
+    },
+    {
+      "character": "Ariel",
+      "id": 3428393,
+      "name": "Ariel Neema Blake",
+      "profilePath": null
+    },
+    {
+      "character": "Nick",
+      "id": 3704455,
+      "name": "Nick Beardslee",
+      "profilePath": null
+    },
+    {
+      "character": "Amelia",
+      "id": 2067034,
+      "name": "Cricket Brown",
+      "profilePath": "/kYBJ9YItPmbvl3009eKAkvkIlYl.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt42619590"
+  },
+  "fetchedAt": 1794596645770,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1542546,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Gorilla Gorilla",
+  "overview": "After her divisive debut feature, Anne, an up-and-coming filmmaker, sets out to make her sophomore film, In Memory of Anne Heche. But as scenes go awry, actors drop out, and her prickly friendship with her lead actress becomes increasingly toxic, Anne employs questionable tactics in an attempt to save her movie.",
+  "posterPath": "/wEreOhbIHnFGGSL6U2mXiiopL85.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-09"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-09-18",
+      "theatricalLimited": "2026-11-09"
+    }
+  },
+  "runtime": 82,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Great artists steal.",
+  "theatricalDate": "2026-11-09",
+  "title": "Gorilla Gorilla",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "-End2G7H3sc",
+      "name": "Teaser",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,353 @@
+{
+  "backdropPath": "/ykigHs1OIyqqV04zfFqIlSHp546.jpg",
+  "cast": [
+    {
+      "character": "Maddie",
+      "id": 1279279,
+      "name": "Virginia Gardner",
+      "profilePath": "/53BsLl54uesFOa2DBraibwtRdEL.jpg"
+    },
+    {
+      "character": "Trish",
+      "id": 2637828,
+      "name": "Mel Jarnson",
+      "profilePath": "/8m0gnlADmLXkMkvSzDR2OhBfsCB.jpg"
+    },
+    {
+      "character": "Josh",
+      "id": 1421393,
+      "name": "Mitchell Hope",
+      "profilePath": "/gpuRDlEhFUvqju2kmzfl6ijWMjR.jpg"
+    },
+    {
+      "character": "Chad",
+      "id": 2387468,
+      "name": "Isaac Crawley",
+      "profilePath": "/c4mZLQ0rtGSgWE3ciqepvSQoEA2.jpg"
+    },
+    {
+      "character": "Hooded Man",
+      "id": 4066265,
+      "name": "Scott James George",
+      "profilePath": "/4SaTqCO3tOqbkrcsPEbt8SEKtC.jpg"
+    },
+    {
+      "character": "Waiter",
+      "id": 1250583,
+      "name": "Luke Cunningham",
+      "profilePath": null
+    },
+    {
+      "character": "Market Lady",
+      "id": 4001408,
+      "name": "Anna Yen",
+      "profilePath": null
+    },
+    {
+      "character": "Cleaner",
+      "id": 1205489,
+      "name": "Shinji Ikefuji",
+      "profilePath": "/xq6gkUWJOZjTSJpcD6hXIexITay.jpg"
+    },
+    {
+      "character": "Security Guard",
+      "id": 2896645,
+      "name": "Ron Smyck",
+      "profilePath": "/a1KEvCRpoeWbmDM13C9qCGtopkD.jpg"
+    },
+    {
+      "character": "Chelsea",
+      "id": 3510707,
+      "name": "Aliandra Calabrese",
+      "profilePath": "/cKGKfPCBlYEDHtja8oGLMREP80S.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 199833,
+      "logoPath": "/jBvzUqNAKQL9KUiAXPHJ01fREGN.png",
+      "name": "Jaggi Entertainment"
+    },
+    {
+      "id": 25954,
+      "logoPath": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
+      "name": "Metrol Technology"
+    },
+    {
+      "id": 157172,
+      "logoPath": "/fNnKmC4ZP28Im4NaFsDwsblyVLF.png",
+      "name": "Ace Entertainment Films"
+    },
+    {
+      "id": 5056,
+      "logoPath": "/ok7CQyn0RPEuI0upznPoo93YE6H.png",
+      "name": "Head Gear Films"
+    },
+    {
+      "id": 283868,
+      "logoPath": null,
+      "name": "Asia Pacific Film Group"
+    },
+    {
+      "id": 10950,
+      "logoPath": "/6TdE9m9KgV2az7vNI8n95rQiYr3.png",
+      "name": "Screen Queensland"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-01-16",
+  "externalIds": {
+    "imdbId": "tt33479805",
+    "wikidataId": "Q137757840"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 1412598,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Killer Whale",
+  "overview": "Follows best friends Maddie and Trish as they find themselves trapped in a remote lagoon with the dangerous killer whale named Ceto.",
+  "posterPath": "/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg",
+  "rating": 5.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-05-18",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-01-16",
+      "gapDays": 0,
+      "theatricalDate": "2026-01-16"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-05-18"
+    },
+    "US": {
+      "digital": "2026-01-16",
+      "theatricalLimited": "2026-01-16"
+    }
+  },
+  "runtime": 89,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "It's feeding time.",
+  "theatricalDate": "2026-01-16",
+  "title": "Killer Whale",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "lyfrcbIaTEE",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "nqRn4Q036XE",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "Xch9cpUgZVY",
+      "name": "Killer Whale Exclusive Movie Clip - Slow and Steady (2026)",
+      "official": false,
+      "type": "Clip"
+    },
+    {
+      "key": "gYdjdj-Ceo0",
+      "name": "Killer Whale (2026) | \"Something in the Water\" Clip",
+      "official": false,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 256,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1412598-killer-whale/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2445,
+          "logoPath": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+          "name": "MovieSphere+ Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1412598-killer-whale/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 331,
+          "logoPath": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+          "name": "FlixFling"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

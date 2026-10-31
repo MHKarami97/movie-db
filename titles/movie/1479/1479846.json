@@ -1,0 +1,172 @@
+{
+  "backdropPath": "/kuYX624dH6P0LsWTEWuLo9d3kNV.jpg",
+  "cast": [
+    {
+      "character": "Sasha",
+      "id": 1912381,
+      "name": "Xochitl Gomez",
+      "profilePath": "/q39DOx44YHrGF1h88R9HxRNZS3.jpg"
+    },
+    {
+      "character": "Marco",
+      "id": 2240796,
+      "name": "Aaron Dominguez",
+      "profilePath": "/2CjLhJcX8bEndZBz0uKB5k1xE3N.jpg"
+    },
+    {
+      "character": "Mrs. Vaux",
+      "id": 6100392,
+      "name": "Jenny le Roux",
+      "profilePath": null
+    },
+    {
+      "character": "Rosa",
+      "id": 5194544,
+      "name": "Kelly Chandrapaul",
+      "profilePath": null
+    },
+    {
+      "character": "Camille",
+      "id": 1139816,
+      "name": "Tanya van Graan",
+      "profilePath": "/xeTvZH86esj3tuErPv0relTqPOY.jpg"
+    },
+    {
+      "character": "Darius",
+      "id": 4181115,
+      "name": "Thulani Nzonzo",
+      "profilePath": null
+    },
+    {
+      "character": "Zaley",
+      "id": 6100393,
+      "name": "Victoria Firsova",
+      "profilePath": null
+    },
+    {
+      "character": "Frances",
+      "id": 2446839,
+      "name": "Zenobia Kloppers",
+      "profilePath": "/36f0ulTpYNHPjkbqPkgGOQQEQnP.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 82659,
+      "logoPath": "/3mZkZUZUaqXDcIoYnECLb98PSWC.png",
+      "name": "Blue Ice Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2026-04-17",
+  "externalIds": {
+    "imdbId": "tt36934612",
+    "wikidataId": "Q138835565"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1479846,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Hive",
+  "overview": "A strict, anxious teenager loses the child she’s babysitting and must brave a sinister force hiding in plain sight among the children in the playground. As her world unravels and her grip on reality starts to slip, she must outwit a world where nothing is as it seems to make it out alive.",
+  "posterPath": "/aFGoHyaTPERCyuAhEvonS8xlk9Y.jpg",
+  "rating": 4.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-04-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-04-17"
+    },
+    "US": {
+      "digital": "2026-04-17"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The kids are not alright.",
+  "theatricalDate": null,
+  "title": "Hive",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "ohts7EGdYMg",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1479846-hive/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1479846-hive/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "backdropPath": "/lNAOnmoEFG1cavz3eo4eFmFHsW3.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 429275,
+      "name": "Gerry Dee",
+      "profilePath": "/9QzrxI6lsAbtqGxykcZ6XYSmzym.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2025-11-18",
+  "externalIds": {
+    "imdbId": "tt38772625"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1573773,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Gerry Dee: Funny You Should Say That",
+  "overview": "With dry wit, Canadian comic Gerry Dee explores his perilous years as a schoolteacher, the pitfalls of open marriages and the truth about Santa.",
+  "posterPath": "/lOxrMeq9dVN3YF6zmpgF3alfFGu.jpg",
+  "rating": 3.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-18",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-11-18"
+    }
+  },
+  "runtime": 54,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Gerry Dee: Funny You Should Say That",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 6,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1573773-gerry-dee-funny-you-should-say-that/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1573773-gerry-dee-funny-you-should-say-that/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1573773-gerry-dee-funny-you-should-say-that/watch?locale=US",
+      "rent": []
+    }
+  }
+}

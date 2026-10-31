@@ -1,0 +1,287 @@
+{
+  "backdropPath": "/oV472EbPedkc5QzqolGc7sCgCnn.jpg",
+  "cast": [
+    {
+      "character": "Johanne",
+      "id": 1904884,
+      "name": "Sara Khorami",
+      "profilePath": "/jh49k9oVAVGdApgSCiRyJmrAgoG.jpg"
+    },
+    {
+      "character": "Erik",
+      "id": 234783,
+      "name": "Mikkel Bratt Silset",
+      "profilePath": "/ooFYSgaxUxZHIwh1dYjs6qVerDK.jpg"
+    },
+    {
+      "character": "Henriette",
+      "id": 1475929,
+      "name": "Ingvild Holthe Bygdnes",
+      "profilePath": "/3AABshTodEIQ9v5JCmEG10qgfSb.jpg"
+    },
+    {
+      "character": "Avaldsnes",
+      "id": 2302835,
+      "name": "Øyvind Brandtzæg",
+      "profilePath": "/89knc7MjxpY4OJ7AxEnkpaUesVS.jpg"
+    },
+    {
+      "character": "Maria",
+      "id": 3573975,
+      "name": "Jenny Evensen",
+      "profilePath": "/hHUfIBJzvELmmlUfiOFYNrisE3N.jpg"
+    },
+    {
+      "character": "Cato",
+      "id": 1887978,
+      "name": "Steinar Klouman Hallert",
+      "profilePath": "/gA6QvgLkvQ13JliAOu4M7ZjhHzJ.jpg"
+    },
+    {
+      "character": "Hallvard",
+      "id": 3613559,
+      "name": "Filip Bargee Ramberg",
+      "profilePath": "/jM3cyYeY6YK8SwfGnJXCRE5Ox0B.jpg"
+    },
+    {
+      "character": "Georg",
+      "id": 2584408,
+      "name": "Jon Erik Myre",
+      "profilePath": "/w8xDVaeod6VEUEWCqKKSyLr0NTm.jpg"
+    },
+    {
+      "character": "Olav",
+      "id": 142000,
+      "name": "Hans Morten Hansen",
+      "profilePath": "/q6avDYFpDLCNHV5x3ILE02i3GmH.jpg"
+    },
+    {
+      "character": "Preben",
+      "id": 3925856,
+      "name": "Magnús Blöndal Jóhannsson",
+      "profilePath": "/fZiZ6605EXPZpPlJ11gWeIydafb.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 119141,
+      "logoPath": "/bTHtOUdHmlzZdMDaCwXbERngUId.png",
+      "name": "Handmade films in Norwegian Woods"
+    },
+    {
+      "id": 38072,
+      "logoPath": "/obOynoztBEhDNfHsDXBqOuQLAZk.png",
+      "name": "Nordisk Film Norway"
+    }
+  ],
+  "countries": [
+    {
+      "code": "NO",
+      "name": "Norway"
+    }
+  ],
+  "digitalDate": "2026-06-12",
+  "externalIds": {
+    "imdbId": "tt19838566",
+    "wikidataId": "Q131699191"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1110034,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "no",
+      "name": "Norwegian"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "originalTitle": "Kraken",
+  "overview": "A marine biologist is doing research on a fish farm when she encounters several strange occurrences. Along with the brutal deaths of two teenagers, all signs point to the deep fjord; can there be more to the depths than the eye can see?",
+  "posterPath": "/u8x0jvVCEpRyN8q5ORyJZzBZ2Ho.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-06-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-12",
+      "gapDays": 0,
+      "theatricalDate": "2026-06-12"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-06-01",
+      "physical": "2026-07-06"
+    },
+    "US": {
+      "digital": "2026-06-12",
+      "theatricalLimited": "2026-06-12"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Only 5% of the ocean has been explored for a reason…",
+  "theatricalDate": "2026-06-12",
+  "title": "Kraken",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "__dCTj-q84k",
+      "name": "Unleashing the Kraken June 1",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "EUTatY1-oBI",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 381,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1110034-kraken/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        },
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1110034-kraken/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

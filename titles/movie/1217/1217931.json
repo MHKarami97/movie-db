@@ -1,0 +1,244 @@
+{
+  "backdropPath": "/xSaHpvDlDrndLeQB81isPEuge38.jpg",
+  "cast": [
+    {
+      "character": "Elizabeth",
+      "id": 8211,
+      "name": "Mena Suvari",
+      "profilePath": "/xjqKvy0bos02oSKNYzC4mxLbQ0W.jpg"
+    },
+    {
+      "character": "Cora",
+      "id": 94797,
+      "name": "Dichen Lachman",
+      "profilePath": "/yLrpMHBNtuUAu3M9EjaYHnn5EEY.jpg"
+    },
+    {
+      "character": "Randall/Ramsey",
+      "id": 10822,
+      "name": "Stephen Dorff",
+      "profilePath": "/bhlM1xNzBvc8jTw42YloUKlGTCL.jpg"
+    },
+    {
+      "character": "Helena",
+      "id": 1223438,
+      "name": "Sarah Dumont",
+      "profilePath": "/lW6Qxv5OYfHxdwy7UIalIjpdL07.jpg"
+    },
+    {
+      "character": "Reggie",
+      "id": 2508563,
+      "name": "Will Redmond",
+      "profilePath": "/ggbJ3PCMsDkmHhPfrSo8i1s4PuB.jpg"
+    },
+    {
+      "character": "Alexis",
+      "id": 973667,
+      "name": "Rosa Salazar",
+      "profilePath": "/f8MITeVNUrP9mMiXcPnCEZTIW56.jpg"
+    },
+    {
+      "character": "Malcom",
+      "id": 58058,
+      "name": "Lochlyn Munro",
+      "profilePath": "/bOJ03k0oe2R6snRgzV8M4Qtoo4O.jpg"
+    },
+    {
+      "character": "Joan",
+      "id": 221116,
+      "name": "India Eisley",
+      "profilePath": "/7dmchBMMzEvUG7pkEGYdyQ35Y3F.jpg"
+    },
+    {
+      "character": "Albert",
+      "id": 13022,
+      "name": "Tom Berenger",
+      "profilePath": "/zLxzAdAfu7y02yEx29JSLDgXJZ4.jpg"
+    },
+    {
+      "character": "Eric",
+      "id": 92949,
+      "name": "Timothy V. Murphy",
+      "profilePath": "/4WMz4UUMeexgP1ddfC2j7pqf8hU.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 110831,
+      "logoPath": null,
+      "name": "Storyoscopic Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt29762861",
+    "wikidataId": "Q137766736"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1217931,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Vampires of the Velvet Lounge",
+  "overview": "A group of vampires confronts the challenges of adapting to contemporary society while grappling with their own mortality, all while engaged in a conflict with a dangerous enemy.",
+  "posterPath": "/4uJcIW0PL4vNZvk0z6kwWdOqLv6.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-03-20"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatricalLimited": "2026-03-20"
+    }
+  },
+  "runtime": 105,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-03-20",
+  "title": "Vampires of the Velvet Lounge",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "lPqLk0wenAw",
+      "name": "Vampires of the Velvet Lounge | Official Trailer | Horror Brains",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 17,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1217931-vampires-of-the-velvet-lounge/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        },
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1217931-vampires-of-the-velvet-lounge/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

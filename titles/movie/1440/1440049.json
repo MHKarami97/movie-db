@@ -1,0 +1,283 @@
+{
+  "backdropPath": "/vXnfEEJey9hKcB6FPaTnmrv4dp9.jpg",
+  "cast": [
+    {
+      "character": "Alan",
+      "id": 19536,
+      "name": "Josh Duhamel",
+      "profilePath": "/5Rp9aeWdN2S623KCjwfii9MhDK1.jpg"
+    },
+    {
+      "character": "Brian",
+      "id": 126171,
+      "name": "Michael Socha",
+      "profilePath": "/qjqXqf72GIwXgDYdQW75xojayVL.jpg"
+    },
+    {
+      "character": "Sarah",
+      "id": 221981,
+      "name": "Antonia Thomas",
+      "profilePath": "/ybmnPYUzcr3RMdaXnZIw2jEw9ju.jpg"
+    },
+    {
+      "character": "Lauren",
+      "id": 150245,
+      "name": "Charity Wakefield",
+      "profilePath": "/MMphz9vtZuHcgMh7YrP4vngpnz.jpg"
+    },
+    {
+      "character": "Mrs. Lawrence",
+      "id": 6973,
+      "name": "Fenella Woolgar",
+      "profilePath": "/hD9Z0A5nPQzp2YkfEKlvRNm9ytP.jpg"
+    },
+    {
+      "character": "Joe",
+      "id": 2467,
+      "name": "James Cosmo",
+      "profilePath": "/4QZnZ3wyGALVuwZ70HdXZk4O14W.jpg"
+    },
+    {
+      "character": "The Monkey",
+      "id": 1512263,
+      "name": "Colin Michael Carmichael",
+      "profilePath": "/3k4K1t5JcZMy8nCL0roJxVnmpDG.jpg"
+    },
+    {
+      "character": "Dylan",
+      "id": 6099644,
+      "name": "Arris Crooke",
+      "profilePath": null
+    },
+    {
+      "character": "Grace",
+      "id": 4774727,
+      "name": "Eadie Johnson",
+      "profilePath": null
+    },
+    {
+      "character": "Baby Dylan",
+      "id": 6323479,
+      "name": "Aondo-Kuma Feese",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 198851,
+      "logoPath": null,
+      "name": "Dakota Kid Productions"
+    },
+    {
+      "id": 163344,
+      "logoPath": null,
+      "name": "The Long Game"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-03-17",
+  "externalIds": {
+    "imdbId": "tt34890320",
+    "wikidataId": "Q134540621"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1440049,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Preschool",
+  "overview": "Two determined fathers engage in a comical battle to enroll their kids in an elite preschool, escalating into an absurd competition with unexpected results.",
+  "posterPath": "/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
+  "rating": 5.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-04-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-04-06"
+    },
+    "US": {
+      "digital": "2026-03-17"
+    }
+  },
+  "runtime": 104,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Two kids. One spot. Playtime is over.",
+  "theatricalDate": null,
+  "title": "Preschool",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "GXcoJVCnxTg",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 15,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 531,
+          "logoPath": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+          "name": "Paramount Plus"
+        },
+        {
+          "id": 582,
+          "logoPath": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        },
+        {
+          "id": 2303,
+          "logoPath": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "id": 2304,
+          "logoPath": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+          "name": "Paramount Plus Basic with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1440049-preschool/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1440049-preschool/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 331,
+          "logoPath": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+          "name": "FlixFling"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

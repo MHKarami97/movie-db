@@ -1,0 +1,162 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Antica",
+      "id": 512966,
+      "name": "Ksenija Marinković",
+      "profilePath": "/lvy3zDSS0IbBAfbtw1VPTWNoksm.jpg"
+    },
+    {
+      "character": "Jakov",
+      "id": 1582274,
+      "name": "Josip Lukić",
+      "profilePath": null
+    },
+    {
+      "character": "Divna",
+      "id": 1314561,
+      "name": "Snježana Sinovčić Šiškov",
+      "profilePath": "/tW1UXEN0gPnIPXLle66im826lXU.jpg"
+    },
+    {
+      "character": "Matea",
+      "id": 1455347,
+      "name": "Tihana Lazović",
+      "profilePath": "/3sNXYntRk5uszxHX2L5vs6ODzdT.jpg"
+    },
+    {
+      "character": "Doctor Wruss",
+      "id": 4637,
+      "name": "Leon Lučev",
+      "profilePath": "/9N798iTC0m1zl8Y39e4doxtOF71.jpg"
+    },
+    {
+      "character": "Stipe",
+      "id": 1383642,
+      "name": "Stojan Matavulj",
+      "profilePath": "/tmxUziRNgxskgjXQwKnHwfGrOmJ.jpg"
+    },
+    {
+      "character": "Sanja",
+      "id": 1990576,
+      "name": "Tamara Šoletić",
+      "profilePath": "/iZ8rfB3PPgYVQ2B0ugrny6wQyiE.jpg"
+    },
+    {
+      "character": "Nurse 1",
+      "id": 65073,
+      "name": "Marija Škaričić",
+      "profilePath": "/Ae85ANa8Yp0ugySAe6ExWmJ6IyQ.jpg"
+    },
+    {
+      "character": "Pharmacist",
+      "id": 512964,
+      "name": "Ivana Roščić",
+      "profilePath": "/8e2q892Im7ByrYpGn5oJSY3Q7WA.jpg"
+    },
+    {
+      "character": "Bus driver",
+      "id": 1178919,
+      "name": "Nikša Butijer",
+      "profilePath": "/ciBqKsWNgF127NxZ32xH2p6yBjX.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 123684,
+      "logoPath": "/gdWPXwP7xcOAZpXCnkP7SyfqQ2l.png",
+      "name": "Dinaridi film"
+    },
+    {
+      "id": 24615,
+      "logoPath": "/bPTRJHgDP6UOGcSpd1ViSolzMk4.png",
+      "name": "Non-Aligned Films"
+    },
+    {
+      "id": 237215,
+      "logoPath": null,
+      "name": "Mobius"
+    }
+  ],
+  "countries": [
+    {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    {
+      "code": "XK",
+      "name": "Kosovo"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37063260"
+  },
+  "fetchedAt": 1794596645770,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1551484,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "hr",
+      "name": "Croatian"
+    }
+  ],
+  "originalTitle": "Danas je mama živa",
+  "overview": "Jakov returns to hometown in order to take care of his mother whose suffering from a schizoaffective disorder, however, this intense new element in his life will slowly start to make his own psyche crack.",
+  "posterPath": "/igpaoM8muhlhKaFKOE4AJeClCic.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Mom's Alive Today",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,213 @@
+{
+  "backdropPath": "/cVSxTwPxKkwczQrbrxCcuU0kpIE.jpg",
+  "cast": [
+    {
+      "character": "Emily Wyland",
+      "id": 1695070,
+      "name": "Brittany O'Grady",
+      "profilePath": "/bNuz4XvSbvYw229j9gkO24qzsQm.jpg"
+    },
+    {
+      "character": "Danny Martinez",
+      "id": 145208,
+      "name": "E.J. Bonilla",
+      "profilePath": "/qL6HRAWzJ6msIn6vV5dnWj5V6nJ.jpg"
+    },
+    {
+      "character": "Sam Wyland",
+      "id": 10402,
+      "name": "Alanna Ubach",
+      "profilePath": "/ffyBAEoW3bDgVJQV3GaHsZ9x29W.jpg"
+    },
+    {
+      "character": "Ana Stuart",
+      "id": 150929,
+      "name": "Krisha Fairchild",
+      "profilePath": "/eClHAX1wR86yqydH3O0jMNbjp2J.jpg"
+    },
+    {
+      "character": "Isaac Kozlov",
+      "id": 1034760,
+      "name": "Steven Klein",
+      "profilePath": "/1Mi8dxDrLhMXHa93lUbtze3xFMX.jpg"
+    },
+    {
+      "character": "Beth Kozlov",
+      "id": 931850,
+      "name": "Bianca Comparato",
+      "profilePath": "/2X9u3v6kjE5ReGnTqG4uCnRQ9tx.jpg"
+    },
+    {
+      "character": "Red",
+      "id": 3576793,
+      "name": "Leo Marks",
+      "profilePath": "/x60LDKseAmWoxLVoFwixpveN3Jp.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 906,
+      "logoPath": "/3nTeqjFy3El5hHQvvyLn6HFz5M4.png",
+      "name": "Revelations Entertainment"
+    },
+    {
+      "id": 113493,
+      "logoPath": null,
+      "name": "Firefly Theater & Films"
+    },
+    {
+      "id": 3316,
+      "logoPath": "/jNx3rBqsxhf9hrIZBlfiufOK1a.png",
+      "name": "Liberty Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt32647448",
+    "wikidataId": "Q128259171"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1312228,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "In Our Blood",
+  "overview": "Filmmaker Emily Wyland reunites with her estranged mother for a documentary. When her mother disappears, Emily and cinematographer Danny pursue clues to her whereabouts amidst traces of her past addictions.",
+  "posterPath": "/s7fxMJ7KNnq14FaXV3lIEthkRcQ.jpg",
+  "rating": 4.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-10-24"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-03-16"
+    },
+    "US": {
+      "theatricalLimited": "2025-10-24"
+    }
+  },
+  "runtime": 89,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2025-10-24",
+  "title": "In Our Blood",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "LynIegqcZr8",
+      "name": "In Our Blood | Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1312228-in-our-blood/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

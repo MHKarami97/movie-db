@@ -1,0 +1,234 @@
+{
+  "backdropPath": "/ii2Ox8CZeZ4yifffFLsR9Rp0kfR.jpg",
+  "cast": [
+    {
+      "character": "Restaurant Owner",
+      "id": 1092405,
+      "name": "Yannis Kokiasmenos",
+      "profilePath": "/xUASnaMbiW9qFO7MPj2pJyJkDSI.jpg"
+    },
+    {
+      "character": "The Girl",
+      "id": 3179681,
+      "name": "Maria Diakopanagiotou",
+      "profilePath": "/oi68UDj9k61DnmYaFHsy0UbAHbg.jpg"
+    },
+    {
+      "character": "The Boy",
+      "id": 2138405,
+      "name": "Argyris Pandazaras",
+      "profilePath": "/t9wiYi1PV6AEeVyAjVCuptdnTPa.jpg"
+    },
+    {
+      "character": "Smuggler Boss",
+      "id": 1074097,
+      "name": "Antonis Kafetzopoulos",
+      "profilePath": "/suBwnu35QJAbSgIe7tZrl1D2w2g.jpg"
+    },
+    {
+      "character": "Bodyguard",
+      "id": 2374032,
+      "name": "Antonis Tsiotsiopoulos",
+      "profilePath": "/jLvchU7DcSfJSIzAvMIrMIV3YhB.jpg"
+    },
+    {
+      "character": "Smuggler 1",
+      "id": 6265363,
+      "name": "Machmout Bamerni",
+      "profilePath": null
+    },
+    {
+      "character": "Smuggler 2",
+      "id": 2999822,
+      "name": "Chronis Barbarian",
+      "profilePath": "/25Ofv9bqZlki6CslZvH54E7nXpe.jpg"
+    },
+    {
+      "character": "Smuggler 3",
+      "id": 6265364,
+      "name": "Nikos Kattis",
+      "profilePath": null
+    },
+    {
+      "character": "Policeman #3",
+      "id": 4801191,
+      "name": "Dimitris Pelekis",
+      "profilePath": "/74Reg8pbs8GbBYh8G6jgQAzM3ej.jpg"
+    },
+    {
+      "character": "Hen",
+      "id": 6573366,
+      "name": "Eszti",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 789,
+      "logoPath": "/rQ0fru0nm1oCsz2npnAgXEl11AH.png",
+      "name": "Pallas Film"
+    },
+    {
+      "id": 78855,
+      "logoPath": "/vuizOS4PimCsbVcBMi7Ei2I2pnj.png",
+      "name": "View Master Films"
+    },
+    {
+      "id": 32545,
+      "logoPath": "/oivNQ1dScP0yynYm10xGAkyBLSf.png",
+      "name": "Twenty Twenty Vision Filmproduktion"
+    },
+    {
+      "id": 11237,
+      "logoPath": "/nzPEges9ftjCDQWru0qrIfTX8OR.png",
+      "name": "ZDF/Arte"
+    },
+    {
+      "id": 128330,
+      "logoPath": "/j5YMevr8nQPCY7J5WbkuAS3EQqm.png",
+      "name": "FocusFox"
+    },
+    {
+      "id": 123620,
+      "logoPath": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
+      "name": "Square Peg"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    {
+      "code": "GR",
+      "name": "Greece"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt29283995",
+    "wikidataId": "Q136308176"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1382513,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "el",
+      "name": "Greek"
+    }
+  ],
+  "originalTitle": "Κότα",
+  "overview": "Escaping from a chicken farm, a hen finds refuge in the courtyard of a crumbling restaurant. There, she discovers love, confronts the pecking order, and fights to protect her eggs from a greedy owner. Her droll yet touching quest for motherhood mirrors the messy compromises and silent struggles of human lives.",
+  "posterPath": "/q1HgK2pyhKfWCALvJTN9Gq9gBu4.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-02-20"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-06"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-04-17"
+    },
+    "GB": {
+      "theatrical": "2026-02-20"
+    },
+    "US": {
+      "premiere": "2026-01-04",
+      "theatricalLimited": "2026-11-06"
+    }
+  },
+  "runtime": 96,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-11-06",
+  "title": "Hen",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Zd9CGEUsIFA",
+      "name": "The Hen - Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "tUYY0G-OzkY",
+      "name": "HEN - Exclusive trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 42,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1382513/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 224,
+          "logoPath": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+          "name": "BFI Player"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "backdropPath": "/wdWNkrtlMfXNkhO6NG2Wfcxe8y0.jpg",
+  "cast": [
+    {
+      "character": "Kumar Abbavaram",
+      "id": 2045437,
+      "name": "Kiran Abbavaram",
+      "profilePath": "/zzmj6hKSQCp9T8naWs01Fk4dfLk.jpg"
+    },
+    {
+      "character": "Mercy",
+      "id": 4103536,
+      "name": "Yukti Thareja",
+      "profilePath": "/aUcMSWJMz5ur0AagUYC8jQBsV32.jpg"
+    },
+    {
+      "character": "Kumar's Uncle",
+      "id": 736815,
+      "name": "Naresh",
+      "profilePath": "/yT9Sgp7y8h3xhlmgzafUwlIXy1H.jpg"
+    },
+    {
+      "character": "Kumar's Father",
+      "id": 146148,
+      "name": "Sai Kumar",
+      "profilePath": "/Xq5VNf8rPgQF0tuQLjl5YwHPoc.jpg"
+    },
+    {
+      "character": "",
+      "id": 146147,
+      "name": "Vennela Kishore",
+      "profilePath": "/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg"
+    },
+    {
+      "character": "",
+      "id": 1999839,
+      "name": "Muralidhar Goud",
+      "profilePath": "/3KldPSnn08WhuwoUR9GhZ9OnsI2.jpg"
+    },
+    {
+      "character": "",
+      "id": 237714,
+      "name": "Vimala Raman",
+      "profilePath": "/dnxnNSpn39J1qYzi12p7k4MOxHY.jpg"
+    },
+    {
+      "character": "",
+      "id": 237987,
+      "name": "Kamna Jethmalani",
+      "profilePath": "/hqwWBWHYKhP2KqiZoj3aK9So4gk.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 167263,
+      "logoPath": "/t26xMZx7VUAx4BrLIkI6mF3lwLD.png",
+      "name": "Rudransh Celluloid"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35665459",
+    "wikidataId": "Q135333699"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1428278,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "te",
+      "name": "Telugu"
+    }
+  ],
+  "originalTitle": "K-ర్యాంప్‌",
+  "overview": "Kumar, a spoiled rich kid who lives life by his own rules, falls in love with Mercy, a beautiful girl with a big secret, while attending university in Kerala.",
+  "posterPath": "/36QgJqloM5Ee8VGx0SDiyQR2Pie.jpg",
+  "rating": 3.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 140,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "K-Ramp",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 10,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1428278-k/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        },
+        {
+          "id": 2077,
+          "logoPath": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+          "name": "Plex Channel"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1428278-k/watch?locale=US",
+      "rent": []
+    }
+  }
+}

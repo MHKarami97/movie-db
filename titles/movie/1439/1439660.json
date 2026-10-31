@@ -1,0 +1,269 @@
+{
+  "backdropPath": "/olz73f1yVWu5JlLDi8lI98Yekvl.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 6071245,
+      "name": "Ikuo Izawa",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6071246,
+      "name": "Carl Pilliteri",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6071248,
+      "name": "Wakana Yokoyama",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 4352331,
+      "name": "Martin Fackler",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6071255,
+      "name": "Naoto Kan",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6071257,
+      "name": "Katsuaki Hirano",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6071262,
+      "name": "Katsutaka Idogawa",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6071264,
+      "name": "Manabu Terata",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6071268,
+      "name": "Dr. Charles A. Casto",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6071270,
+      "name": "Akira Kawano",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 2600,
+      "logoPath": "/ePDVrW3gJCd3kxi8ucLckJoG3Bu.png",
+      "name": "Blast! Films"
+    },
+    {
+      "id": 14914,
+      "logoPath": "/1RZBWz53SpHUTLpRcM8BGv2plIP.png",
+      "name": "HBO Documentary Films"
+    },
+    {
+      "id": 8191,
+      "logoPath": "/bXYH4HA4GqN5mAIn2pRdlqnDRyI.png",
+      "name": "Dogwoof"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-03-10",
+  "externalIds": {
+    "imdbId": "tt35919514",
+    "wikidataId": "Q138583040"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "id": 1439660,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "de",
+      "name": "German"
+    },
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "originalTitle": "Fukushima: A Nuclear Nightmare",
+  "overview": "The definitive account of Japan’s struggle as it faced a nuclear catastrophe while still reeling from the devastation of an earthquake and tsunami.",
+  "posterPath": "/nL2f1g1cMPUsPmFWB71qHqjyVFd.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-02-20"
+    },
+    "US": {
+      "digitalDate": "2026-03-10",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatricalLimited": "2026-02-20"
+    },
+    "US": {
+      "digital": "2026-03-10",
+      "tv": "2026-03-10"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Nine days to save a nation.",
+  "theatricalDate": null,
+  "title": "Fukushima: A Nuclear Nightmare",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "aKTmUdQQoZI",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "m8HuMGIsiTo",
+      "name": "Official UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 34,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1439660-fukushima-a-nuclear-nightmare/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1439660-fukushima-a-nuclear-nightmare/watch?locale=US",
+      "rent": []
+    }
+  }
+}

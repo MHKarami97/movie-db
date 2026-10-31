@@ -1,0 +1,206 @@
+{
+  "backdropPath": "/u017fKh6C7nhOyBeYdRPY8EdhMv.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 3471329,
+      "name": "Nour al-Ghandour",
+      "profilePath": "/fM3zwd5GOQzSW2n5EYx026jGW7U.jpg"
+    },
+    {
+      "character": "",
+      "id": 3615789,
+      "name": "Ali Kakouli",
+      "profilePath": "/265QihorXYicVuPdgd2TlGjt9UF.jpg"
+    },
+    {
+      "character": "",
+      "id": 4445007,
+      "name": "Fatma Al Sherif",
+      "profilePath": "/2rei2lWaoUxdxsHlyi0FoDRb9zl.jpg"
+    },
+    {
+      "character": "",
+      "id": 3381414,
+      "name": "Shoug Al-Hadi",
+      "profilePath": "/8UGdH16YEjhaFnmXAgbPgUS6PiU.jpg"
+    },
+    {
+      "character": "",
+      "id": 5954211,
+      "name": "Noha Nabil",
+      "profilePath": "/kn50Bci8F5XThGLIEsckussOpBe.jpg"
+    },
+    {
+      "character": "",
+      "id": 67338,
+      "name": "Elie Mitri",
+      "profilePath": "/pOXd1dmukvi909rt50om8lV8TLN.jpg"
+    },
+    {
+      "character": "",
+      "id": 4270678,
+      "name": "Mahira Abdel Aziz",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 5425194,
+      "name": "Neshan Der Haroutiounian",
+      "profilePath": null
+    },
+    {
+      "character": "Cuba",
+      "id": 6365981,
+      "name": "Cuba",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 106997,
+      "logoPath": "/p2gEsXwCtg9JDXyS7WKTJHh8Gax.png",
+      "name": "Eagle Films Arabia"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KW",
+      "name": "Kuwait"
+    },
+    {
+      "code": "LB",
+      "name": "Lebanon"
+    }
+  ],
+  "digitalDate": "2026-07-23",
+  "externalIds": {
+    "imdbId": "tt43617119",
+    "wikidataId": "Q141745888"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1620682,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ar",
+      "name": "Arabic"
+    }
+  ],
+  "originalTitle": "أحبك من زمان",
+  "overview": "When Haya's best friend Jawad gets engaged, her chronically-single world unravels — because who knew true love could be hiding in the friend zone?",
+  "posterPath": "/j19wB0UM0ZQ1D3fmJTB4tC1wFOw.jpg",
+  "rating": 6.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-07-23",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-23",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-07-23"
+    },
+    "US": {
+      "digital": "2026-07-23"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Love in Slow Motion",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "oCg2wXznjLo",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 29,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1620682/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1620682/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1620682/watch?locale=US",
+      "rent": []
+    }
+  }
+}

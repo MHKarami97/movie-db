@@ -1,0 +1,153 @@
+{
+  "backdropPath": "/sIkAgTajjOdZIBG5obvwcPIxRvY.jpg",
+  "cast": [
+    {
+      "character": "Tere",
+      "id": 1043788,
+      "name": "Teresa Sánchez",
+      "profilePath": "/iLzgyVP822PHZCOtNFROi9YSHTJ.jpg"
+    },
+    {
+      "character": "Rosa Esquivel",
+      "id": 6005954,
+      "name": "Rosa Estela Juárez Vargas",
+      "profilePath": null
+    },
+    {
+      "character": "Luisa Sanchez",
+      "id": 1043872,
+      "name": "Luisa Pardo",
+      "profilePath": null
+    },
+    {
+      "character": "Lazaro Ibañez",
+      "id": 1018056,
+      "name": "Gabino Rodríguez",
+      "profilePath": "/3svt4zZsrXA4TtZ3etRqkcqDfQg.jpg"
+    },
+    {
+      "character": "Paco",
+      "id": 557879,
+      "name": "Francisco Barreiro",
+      "profilePath": "/gTj2sXUJ7CaQnPuNqP1L3VPhE6k.jpg"
+    },
+    {
+      "character": "Estevez",
+      "id": 1153491,
+      "name": "José Rodríguez López",
+      "profilePath": null
+    },
+    {
+      "character": "Vecino 1",
+      "id": 1432420,
+      "name": "Andrew Leland Rogers",
+      "profilePath": "/uURYtlsWZbQBm2QyEvhnkreJfNy.jpg"
+    },
+    {
+      "character": "Vecino 2",
+      "id": 3929461,
+      "name": "Juan Francisco Maldonado",
+      "profilePath": "/hA3AmSvovpIZJX9K6aDHKHWZigV.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 289226,
+      "logoPath": null,
+      "name": "En Chinga Producciones"
+    },
+    {
+      "id": 51666,
+      "logoPath": "/jFrQ2vAaevoPqqbmpr2JnFIj7C5.png",
+      "name": "Weltfilm"
+    }
+  ],
+  "countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39383384",
+    "wikidataId": "Q140888634"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1616861,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Lo demás es ruido",
+  "overview": "Rosa, a contemporary music composer, agrees to give her first television interview at her colleague Tere’s apartment to keep it secret from her husband. What begins as a simple professional conversation turns into an absurd and comic portrait of rivalries and affections among three women—Rosa, Tere, and Tere’s daughter Luisa—interrupted by power outages, a constantly barking dog, and the visit of a famous composer. As the interview unravels, family and artistic tensions surface, revealing, with humor, both the fragility of prestige and the strength of complicity.",
+  "posterPath": "/4TlqN3wIrXgFnxNHl5hSTFqfojP.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-09-26"
+    }
+  },
+  "runtime": 71,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Everything Else Is Noise",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "un2N0_pkmfA",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

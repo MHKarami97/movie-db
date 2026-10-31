@@ -1,0 +1,106 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Nick",
+      "id": 6598456,
+      "name": "Isaiah Cazee",
+      "profilePath": null
+    },
+    {
+      "character": "Justin",
+      "id": 6598457,
+      "name": "Elliott Dalton",
+      "profilePath": null
+    },
+    {
+      "character": "Levi",
+      "id": 6598459,
+      "name": "Luke Ruhnke",
+      "profilePath": null
+    },
+    {
+      "character": "Riley (Ex Girlfriend)",
+      "id": 6598461,
+      "name": "Kaylee Freeman",
+      "profilePath": null
+    },
+    {
+      "character": "Isaac (Store Worker)",
+      "id": 6598462,
+      "name": "Owen Miller",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 303336,
+      "logoPath": null,
+      "name": "SK Studios"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2027-02-10",
+  "externalIds": {},
+  "fetchedAt": 1793819640448,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1816623,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Delivery",
+  "overview": "A boy mysteriously discovers a strange box, he doesn't know where it came from or what to do with it. All he knows is that he can't open it.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-02-10",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2027-02-10"
+    }
+  },
+  "runtime": 25,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Would you take or give the curse of you had the chance?",
+  "theatricalDate": null,
+  "title": "Delivery",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,193 @@
+{
+  "backdropPath": "/fkfDGk9L7Ihj8FCjbaNt2Gqdo3Q.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 5383849,
+      "name": "Fred Isseks",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 2087787,
+      "name": "Jeffrey Dutemple",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 2743237,
+      "name": "Rachel Raimist",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 4221330,
+      "name": "David Birmingham",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 48874,
+      "logoPath": null,
+      "name": "Mile End Films"
+    },
+    {
+      "id": 6735,
+      "logoPath": "/pAQW38WU8ychBvYU2aGPTEbynEN.png",
+      "name": "Participant"
+    },
+    {
+      "id": 185041,
+      "logoPath": "/7M5wbBecXNrhM7u0Mxg4kvj8wZv.png",
+      "name": "Closer Media"
+    },
+    {
+      "id": 13043,
+      "logoPath": null,
+      "name": "Rise Films"
+    },
+    {
+      "id": 39917,
+      "logoPath": "/hVZx78eZ0YMbo61BIOvoPsE6Nn6.png",
+      "name": "Matador Content"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34966955",
+    "wikidataId": "Q131975562"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1400383,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Teenage Wasteland",
+  "overview": "Inspired by an unconventional teacher, a group of teenagers in upstate New York in the early 1990s make a student film and uncover a vast conspiracy that is poisoning their community. Thirty years later, they revisit their film and confront the legacy of this transformative experience.",
+  "posterPath": "/vRZ9gMr02HJFn3EOKNcXzP2vD54.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-09-05",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-11-26"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-09-05"
+    },
+    "US": {
+      "premiere": "2025-01-28",
+      "theatricalLimited": "2025-11-26"
+    }
+  },
+  "runtime": 110,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2025-11-26",
+  "title": "Teenage Wasteland",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "dH4S5l6mTSs",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1400383-teenage-wasteland/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1400383-teenage-wasteland/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1400383-teenage-wasteland/watch?locale=US",
+      "rent": []
+    }
+  }
+}

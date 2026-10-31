@@ -1,0 +1,244 @@
+{
+  "backdropPath": "/lplhIdFpgi0KQJszI9pRgnj1feO.jpg",
+  "cast": [
+    {
+      "character": "Sam",
+      "id": 5757880,
+      "name": "Bean Reid",
+      "profilePath": "/1jYS1uTMVd9CbhxYwjqgJlQ0j1r.jpg"
+    },
+    {
+      "character": "Becka",
+      "id": 5488104,
+      "name": "Adeline Lo",
+      "profilePath": "/7qdnYQqZzJP4yYHBxvFhn9H78ek.jpg"
+    },
+    {
+      "character": "Finn",
+      "id": 1428071,
+      "name": "Seth Isaac Johnson",
+      "profilePath": "/8L1vXNiNYx1jOHCuWhU8W1yghmy.jpg"
+    },
+    {
+      "character": "Farmer Palmer",
+      "id": 27111,
+      "name": "Kevin McNulty",
+      "profilePath": "/jaXuLA5zYPVzfG8wLtnD2O4aveA.jpg"
+    },
+    {
+      "character": "Sheriff",
+      "id": 1235460,
+      "name": "Bob Frazer",
+      "profilePath": "/alDdLXo3D0C0b17o85QnZJeFWfn.jpg"
+    },
+    {
+      "character": "Rusty",
+      "id": 440439,
+      "name": "Matty Finochio",
+      "profilePath": "/7I2iawz7YHZDbH15V4Om0Tdep9c.jpg"
+    },
+    {
+      "character": "Cassie",
+      "id": 1175501,
+      "name": "Kendra Anderson",
+      "profilePath": "/eUpDAS5owssdULkD6kT2AaF9pUf.jpg"
+    },
+    {
+      "character": "Scarecrow",
+      "id": 1903319,
+      "name": "Troy James",
+      "profilePath": "/oDu8ESqlD6nNdPdntWmhoJOnU5X.jpg"
+    },
+    {
+      "character": "Teenager",
+      "id": 2140706,
+      "name": "Dominic Mariche",
+      "profilePath": "/tM2OBfuLpDUKfLOPFrPckZdylia.jpg"
+    },
+    {
+      "character": "Trick or Treater #1",
+      "id": 2802836,
+      "name": "Chase Petriw",
+      "profilePath": "/52D5hTQnLSy8Me4rEXauXZIrWzA.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 3958,
+      "logoPath": "/xkdYNmOW6e4gjgp4NSLRt0W5UIj.png",
+      "name": "Front Street Pictures"
+    },
+    {
+      "id": 275176,
+      "logoPath": null,
+      "name": "Haunting Hour Road Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2025-10-17",
+  "externalIds": {
+    "imdbId": "tt38218065",
+    "wikidataId": "Q141710277"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "id": 1551003,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "R.L. Stine's Pumpkinhead",
+  "overview": "When his brother disappears and everyone forgets he existed, Sam must unravel the mystery before Finn is gone forever.",
+  "posterPath": "/gRJFFA9lK9pLikEIMcetgkmOGTj.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-08-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-08-17",
+      "physical": "2026-08-17"
+    },
+    "US": {
+      "digital": "2025-10-17"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "R.L. Stine's Pumpkinhead",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "psTPpZug5-I",
+      "name": "UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "gqmrfVrPJlY",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 54,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1551003-r-l-stine-s-pumpkinhead/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1551003-r-l-stine-s-pumpkinhead/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "backdropPath": "/eXySrZkDWeOel45DlXTcSWiM6NH.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 38369,
+      "logoPath": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+      "name": "Seoul Broadcasting System"
+    },
+    {
+      "id": 222168,
+      "logoPath": "/8j2J28sI16PnSXTIpR6kQcBON8u.png",
+      "name": "Prism Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": "1998-02-01",
+  "externalIds": {
+    "imdbId": "tt6050846",
+    "wikidataId": "Q485889"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 65278,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-25",
+    "episodeNumber": 1328,
+    "id": 3130995,
+    "name": "Episode 1328",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-01",
+    "episodeNumber": 1329,
+    "id": 3130996,
+    "name": "Episode 1329",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "SBS 인기가요",
+  "overview": "The program is a weekly music show that features and introduces viewers to the most popular artists in Korea. Every week, they ask viewers to vote and select the most popular song of the week.",
+  "posterPath": "/hvY5NH73JRvfJI714MF6Ja4TM3.jpg",
+  "rating": 7.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1998-02-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1998-02-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1998-02-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1998-02-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1998-02-01"
+    },
+    "CN": {
+      "tv": "1998-02-01"
+    },
+    "GB": {
+      "tv": "1998-02-01"
+    },
+    "US": {
+      "tv": "1998-02-01"
+    }
+  },
+  "runtime": 70,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2025-04-27",
+      "episodeCount": 6,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1998-02-01",
+      "episodeCount": 1573,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/tiJQs4euOHdIPc7tTnB0eonQvqV.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2021-10-10",
+      "episodeCount": 24,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 24
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Where do we go on Sundays? Together, to Inkigayo.",
+  "theatricalDate": null,
+  "title": "Inkigayo",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 4,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 464,
+          "logoPath": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+          "name": "Kocowa"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/65278-sbs/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 575,
+          "logoPath": "/t4tushezwJkXCposaC73oZTwF5a.png",
+          "name": "OnDemandKorea"
+        },
+        {
+          "id": 2413,
+          "logoPath": "/aH7G4UQLcj4DQwK5mVhXfVTUzR2.png",
+          "name": "Kocowa Amazon Channel"
+        },
+        {
+          "id": 464,
+          "logoPath": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+          "name": "Kocowa"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/65278-sbs/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "backdropPath": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+  "cast": [
+    {
+      "character": "Jax Hunter",
+      "id": 2480853,
+      "name": "Harriet Slater",
+      "profilePath": "/9BJxdhi4tuiQdgT8bfDuiPipnsx.jpg"
+    },
+    {
+      "character": "Luce",
+      "id": 3486664,
+      "name": "Arsema Thomas",
+      "profilePath": "/tFdTyIrWsPIItcOP3OcyHtCboqC.jpg"
+    },
+    {
+      "character": "Jon Platt",
+      "id": 1626604,
+      "name": "Tom Brittney",
+      "profilePath": "/qSe3SuZHVPR5AMOuOAGxLdD6kYv.jpg"
+    },
+    {
+      "character": "Thai Barman",
+      "id": 521673,
+      "name": "Sahajak Boonthanakit",
+      "profilePath": "/a36MI02S0f11bJZjBoxkZTsUDAK.jpg"
+    },
+    {
+      "character": "Large Woman",
+      "id": 6455282,
+      "name": "Korakod Yensuk",
+      "profilePath": null
+    },
+    {
+      "character": "Real Luce",
+      "id": 3698000,
+      "name": "Jordan Coleman",
+      "profilePath": "/57FrMe016RyMHm8WDL2mK7P0bmS.jpg"
+    },
+    {
+      "character": "Female Teenager",
+      "id": 3725028,
+      "name": "Maryna Bennett",
+      "profilePath": "/alqr0Hx7kgLZ38QvwdQKFIA8Y8l.jpg"
+    },
+    {
+      "character": "Male Teenager",
+      "id": 3743780,
+      "name": "Noen Perez",
+      "profilePath": "/aokiUcwDJlZcTditvVfkRaSLG98.jpg"
+    },
+    {
+      "character": "Thai Climber 1",
+      "id": 3314680,
+      "name": "Nattapon Sukphiam",
+      "profilePath": null
+    },
+    {
+      "character": "Thai Climber 2",
+      "id": 1163445,
+      "name": "Charlie Ruedpokanon",
+      "profilePath": "/rzZ5WGsuXmnb1tIoPTPQvOJuArn.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 155758,
+      "logoPath": "/iZi0zd9ijrcWR9zlEUUthG8d600.png",
+      "name": "Tea Shop Productions"
+    },
+    {
+      "id": 154063,
+      "logoPath": "/r4anaxYa8OL5KaUbU35VkrIe88L.png",
+      "name": "Capstone Pictures"
+    },
+    {
+      "id": 61975,
+      "logoPath": null,
+      "name": "Flawless Production"
+    },
+    {
+      "id": 303075,
+      "logoPath": null,
+      "name": "Cousin Jones"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-06",
+  "externalIds": {
+    "facebookId": "fallmovie",
+    "imdbId": "tt31192372",
+    "instagramId": "fallmovie",
+    "twitterId": "fallmovie",
+    "wikidataId": "Q136388712"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 34,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1101412,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Fall 2: Deadpoint",
+  "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+  "posterPath": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+  "rating": 7.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-03"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-04"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-09"
+    },
+    "US": {
+      "digitalDate": "2026-10-06",
+      "gapDays": 34,
+      "theatricalDate": "2026-09-02"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-09-03"
+    },
+    "CN": {
+      "theatrical": "2026-09-04",
+      "theatricalLimited": "2026-09-01"
+    },
+    "GB": {
+      "theatrical": "2026-09-09"
+    },
+    "US": {
+      "digital": "2026-10-06",
+      "theatrical": "2026-09-02"
+    }
+  },
+  "runtime": 98,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Are you down?",
+  "theatricalDate": "2026-09-02",
+  "title": "Fall 2: Deadpoint",
+  "translations": {
+    "faTitle": "سقوط ٢ : نقطه مرگ"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "SVdAt0NjTTc",
+      "name": "Only In Cinemas Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "mX3NrGbKmIg",
+      "name": "Only In Cinemas Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "pu2qcpIn520",
+      "name": "Only In Cinemas Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "subzjlylMgc",
+      "name": "Big screams for the big screen.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Od80-5LbCfg",
+      "name": "Official Clip ‘Keep Going’",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "FEedno5zWIc",
+      "name": "Only In UK Cinemas From September 9",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "iUJ1jxoJ8gY",
+      "name": "Only In UK Cinemas From September 9",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "wD79N4SSPV8",
+      "name": "The ground looks nice.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Wf3tCF0ueB4",
+      "name": "Official Clip 'Fall Girl'",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "tlaZrwXGDh8",
+      "name": "Run, don’t fall.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "DZjFQKsftRc",
+      "name": "There’s no turning back.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "mMnzNU2Qq3A",
+      "name": "Hold to get through the scary part.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "KN-nh6XamcU",
+      "name": "Forecast: 100% chance of falling.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Mv18PgnqBUc",
+      "name": "Higher than your fears.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "rhm5Ee9J3lk",
+      "name": "Don’t try this at home.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Krs0VDIjhmE",
+      "name": "Official Trailer 2",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "Rsztt5qDj_A",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 704,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1101412-fall-2-deadpoint/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1101412-fall-2-deadpoint/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

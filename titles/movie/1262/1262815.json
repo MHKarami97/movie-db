@@ -1,0 +1,448 @@
+{
+  "backdropPath": "/4zyeIE8ceP95gehaPsgqamEYRuy.jpg",
+  "cast": [
+    {
+      "character": "Dr Henry Guthrie",
+      "id": 5469,
+      "name": "Ralph Fiennes",
+      "profilePath": "/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+    },
+    {
+      "character": "Alderman Bernard Duxbury",
+      "id": 11279,
+      "name": "Roger Allam",
+      "profilePath": "/hrtVjATnltwatFCOjhtCZTnN2hW.jpg"
+    },
+    {
+      "character": "Joe Fytton",
+      "id": 13633,
+      "name": "Mark Addy",
+      "profilePath": "/4ao6jitEAxmQDlJheEOKT8lhJI8.jpg"
+    },
+    {
+      "character": "Herbert Trickett",
+      "id": 2629,
+      "name": "Alun Armstrong",
+      "profilePath": "/zSIzT6iM53ZdXbC2bEZCzNgW1h6.jpg"
+    },
+    {
+      "character": "Sir Edward Elgar",
+      "id": 57461,
+      "name": "Simon Russell Beale",
+      "profilePath": "/uw0ngaqgT8qXwJqVr353cx1mEdB.jpg"
+    },
+    {
+      "character": "Robert Horner",
+      "id": 589652,
+      "name": "Robert Emms",
+      "profilePath": "/gAUB9R1MnGBgg2UbI2LOYWikCyr.jpg"
+    },
+    {
+      "character": "Mrs Bishop",
+      "id": 8442,
+      "name": "Lyndsey Marshal",
+      "profilePath": "/rhgtb80RXEIwL2LFw9L1nMxoRxd.jpg"
+    },
+    {
+      "character": "Reverend Woodhead",
+      "id": 5319,
+      "name": "Ron Cook",
+      "profilePath": "/gRHsTI9gwajULovSd2TVHROEEMj.jpg"
+    },
+    {
+      "character": "Mary Lockwood",
+      "id": 3883680,
+      "name": "Amara Okereke",
+      "profilePath": "/nTSPtzWu6deZTJtWXHUpACVznY4.jpg"
+    },
+    {
+      "character": "Bella Holmes",
+      "id": 3398031,
+      "name": "Emily Fairn",
+      "profilePath": "/1weuKrWNPmZaT0ntdqeRiF9E4W3.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 58,
+      "logoPath": "/voYCwlBHJQANtjvm5MNIkCF1dDH.png",
+      "name": "Sony Pictures Classics"
+    },
+    {
+      "id": 288,
+      "logoPath": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film"
+    },
+    {
+      "id": 2690,
+      "logoPath": "/9XXpd39mDfkWmcNB6R0tpvzo781.png",
+      "name": "Screen Yorkshire"
+    },
+    {
+      "id": 5056,
+      "logoPath": "/ok7CQyn0RPEuI0upznPoo93YE6H.png",
+      "name": "Head Gear Films"
+    },
+    {
+      "id": 25954,
+      "logoPath": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
+      "name": "Metrol Technology"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt31851518",
+    "wikidataId": "Q127162841"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1262815,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Choral",
+  "overview": "در شهر یورک شر در انگلستان، اعضای مرد یک گروه کر به جنگ جهانی اول اعزام می‌شوند و دکتر گاتری سخت‌گیر را تنها می‌گذارند. حال گاتری مجبور می‌شود نوجوانان را برای گروه کر خود جذب کند.",
+  "posterPath": "/yQtms7CSM0CE0W6dYbLLAATb5rL.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-12-22",
+      "gapDays": 45,
+      "theatricalDate": "2025-11-07"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-01-16"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2025-12-22",
+      "premiere": "2025-10-12",
+      "theatrical": "2025-11-07"
+    },
+    "US": {
+      "premiere": "2025-10-04",
+      "theatrical": "2026-01-16",
+      "theatricalLimited": "2025-12-25"
+    }
+  },
+  "runtime": 113,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "They were divided by war. He united them in song.",
+  "theatricalDate": "2026-01-16",
+  "title": "The Choral",
+  "translations": {
+    "faOverview": "در شهر یورک شر در انگلستان، اعضای مرد یک گروه کر به جنگ جهانی اول اعزام می‌شوند و دکتر گاتری سخت‌گیر را تنها می‌گذارند. حال گاتری مجبور می‌شود نوجوانان را برای گروه کر خود جذب کند.",
+    "faTitle": "گروه کُر"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "mbrkJ4-LQsE",
+      "name": "7 Minute Extended Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "YX1ZJE9N-xE",
+      "name": "\"About the Film\" with Director Nicholas Hytner",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "b5397I402FY",
+      "name": "Nicholas Hytner, Roger Allam & Kevin Loader: Getting with the programme | TIFF x Rogers",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "uurd3HIoDcU",
+      "name": "Real voices. Real emotion.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "sP5vgoHjtmI",
+      "name": "Finding meaning in making music together",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "PCIlUd4hH1g",
+      "name": "Hear what it was like on set with the cast of The Choral",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "bU5RnLQjPeU",
+      "name": "Filmmakers Vignette",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "tJ3tiKCS8vo",
+      "name": "Fiennes Vignette",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "5V2qzkey0X4",
+      "name": "A Man Should Hear Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "eZfjJAn8QMU",
+      "name": "Auditions Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "_GB45EOZZd4",
+      "name": "You heard it from the chorus master himself, Ralph Fiennes",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "8alCsrWgN-M",
+      "name": "New Choir Master Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "ZZpq2d-j7Oc",
+      "name": "Improved Choir Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "K4IcbRdaJEU",
+      "name": "Outside and Younger Cast Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "0OVGYAmuNNA",
+      "name": "Music Vignette",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "-XqqbBbmOpw",
+      "name": "Elgar Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "e53BTXhOLIk",
+      "name": "Court Martial Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "UDKcTFDwSyM",
+      "name": "Director Nicholas Hytner on why community was so important to capture in The Choral",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "2slDMOYJXVA",
+      "name": "What. A. Film.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "HG_6oTlThno",
+      "name": "Celebrating The Choral at the BFI London Film Festival",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "vNLEwbxRiS0",
+      "name": "European Gala Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6zRVP-ZgMm8",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 66,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1750,
+          "logoPath": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+          "name": "TOD"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1262815-the-choral/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1262815-the-choral/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1262815-the-choral/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 331,
+          "logoPath": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+          "name": "FlixFling"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

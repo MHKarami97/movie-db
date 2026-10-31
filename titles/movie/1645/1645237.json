@@ -1,0 +1,182 @@
+{
+  "backdropPath": "/nMhvIuLpirt6HBD7bndDRpyt6hV.jpg",
+  "cast": [
+    {
+      "character": "Allie",
+      "id": 1037844,
+      "name": "Laci J. Mailey",
+      "profilePath": "/rJdLd3U15ywK6K42gVvUh1U1ouA.jpg"
+    },
+    {
+      "character": "Ryan",
+      "id": 117525,
+      "name": "Beau Mirchoff",
+      "profilePath": "/AeKZwf9BC9G5GsgotTWvlfk4Hon.jpg"
+    },
+    {
+      "character": "Beth",
+      "id": 59185,
+      "name": "Kendall Cross",
+      "profilePath": "/5WYWsABXitzKFxGbJIXJbJiVDRM.jpg"
+    },
+    {
+      "character": "Hope",
+      "id": 158644,
+      "name": "Ellie Harvie",
+      "profilePath": "/lhxvhr0plGSywhAo245aBXH5ZPL.jpg"
+    },
+    {
+      "character": "Julia",
+      "id": 1454808,
+      "name": "Frances Flanagan",
+      "profilePath": "/3eKW2nedjouXw7uF7COxvMbjZTe.jpg"
+    },
+    {
+      "character": "Theresa",
+      "id": 4759709,
+      "name": "Stephanie Petallano",
+      "profilePath": "/sn0NwpZYur6hIDeJ7mTKZhW8DzV.jpg"
+    },
+    {
+      "character": "Sam",
+      "id": 3084878,
+      "name": "Everett Andres",
+      "profilePath": "/lZzt772MRgOcLfLZs34saa9U26R.jpg"
+    },
+    {
+      "character": "Monica Murphy",
+      "id": 76700,
+      "name": "Briana Buckmaster",
+      "profilePath": "/q5h6BI6xXKOwXEOqtANPCH7p9qk.jpg"
+    },
+    {
+      "character": "Singer",
+      "id": 6332583,
+      "name": "Elysia Biro",
+      "profilePath": "/fDJFzVVJgOSTQLbZVy0UpJyK9Em.jpg"
+    },
+    {
+      "character": "Kendra",
+      "id": 1529001,
+      "name": "Lydia Campbell",
+      "profilePath": "/mog9LLQ81cWMdzorENeHp2v97Tf.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 3958,
+      "logoPath": "/xkdYNmOW6e4gjgp4NSLRt0W5UIj.png",
+      "name": "Front Street Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt40336496"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1645237,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "A Little Park Music",
+  "overview": "When a piano appears in the park gazebo, interfering with important work, city manager Allie joins forces with rookie cop Ryan to remove it, only to find both music and love are hard to resist.",
+  "posterPath": "/pqjaqj38NSRi0P3SvhG0lclDuFL.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2026-04-11"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "A Little Park Music",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "IY3PMwIWNgs",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 10,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 290,
+          "logoPath": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "id": 2058,
+          "logoPath": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "id": 1746,
+          "logoPath": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1645237-a-little-park-music/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "backdropPath": "/eJ0HooOOD1uzI39CfOQNWIiWKlJ.jpg",
+  "cast": [
+    {
+      "character": "Bowdrie",
+      "id": 2461,
+      "name": "Mel Gibson",
+      "profilePath": "/jnqHMaOslt8cef2atSmOpGRvNla.jpg"
+    },
+    {
+      "character": "January",
+      "id": 444211,
+      "name": "Shelley Hennig",
+      "profilePath": "/bsqU5e9rVuLhP8l1GqUWjsBRQvq.jpg"
+    },
+    {
+      "character": "Alejandro",
+      "id": 31384,
+      "name": "Jordi Mollà",
+      "profilePath": "/9XsTmWLJ2qMXoUpcb105h6h5OUX.jpg"
+    },
+    {
+      "character": "Tag",
+      "id": 1600083,
+      "name": "Sofia Hublitz",
+      "profilePath": "/A1nSqZXtKJwuQXDGrhmYa0CP0cZ.jpg"
+    },
+    {
+      "character": "Davenport",
+      "id": 60460,
+      "name": "A.J. Buckley",
+      "profilePath": "/arGsJN4HuiNpFsRsNX81fDX1KJj.jpg"
+    },
+    {
+      "character": "Sheriff Brake",
+      "id": 97446,
+      "name": "James DuMont",
+      "profilePath": "/8DLNFj3a4SJWdtw5daPBQm0qrOO.jpg"
+    },
+    {
+      "character": "Jensen",
+      "id": 1210153,
+      "name": "Rocky Myers",
+      "profilePath": "/eN5NK71ABZtso4QDrYFrhz2JRvZ.jpg"
+    },
+    {
+      "character": "Irish",
+      "id": 1395206,
+      "name": "Oliver Trevena",
+      "profilePath": "/j0ejU7vdE7lRxYKKrhA5aWw1zCT.jpg"
+    },
+    {
+      "character": "Lizzie",
+      "id": 3258734,
+      "name": "Scarlet Rose Stallone",
+      "profilePath": "/13f6FANe7TdbvjtZCbArygnDv1S.jpg"
+    },
+    {
+      "character": "Dale",
+      "id": 162924,
+      "name": "Rob Moran",
+      "profilePath": "/lwGI1FIdRpwvKnZlD3dKhntP4i4.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 231139,
+      "logoPath": null,
+      "name": "Beno Films (US)"
+    },
+    {
+      "id": 63611,
+      "logoPath": "/bHPC39cG5aAcuFnViWmRD59gzZ8.png",
+      "name": "ETA films"
+    },
+    {
+      "id": 198179,
+      "logoPath": "/ct4wmzYtS2prZnitm4iuMxRAMsR.png",
+      "name": "Filmopoly"
+    },
+    {
+      "id": 121204,
+      "logoPath": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+      "name": "BondIt Media Capital"
+    },
+    {
+      "id": 41735,
+      "logoPath": "/je9Ko1f6iu0AfLL3dINJEaxLvEb.png",
+      "name": "Buffalo 8"
+    },
+    {
+      "id": 137373,
+      "logoPath": "/4OzujMDSLnAm7I0BCPL1D6RIoJ4.png",
+      "name": "CaliWood Pictures"
+    },
+    {
+      "id": 237010,
+      "logoPath": null,
+      "name": "FluffyBear Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-12-05",
+  "externalIds": {
+    "imdbId": "tt32537226",
+    "wikidataId": "Q137215321"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1387382,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Hunting Season",
+  "overview": "When a reclusive survivalist and his daughter rescue a mysterious, wounded woman from a river, they become entangled in a deadly web of violence and revenge, forcing them to confront a brutal criminal to survive.",
+  "posterPath": "/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+  "rating": 7.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-14"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-12-05",
+      "gapDays": 0,
+      "theatricalDate": "2025-12-05"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-05-14"
+    },
+    "GB": {
+      "physical": "2026-03-30"
+    },
+    "US": {
+      "digital": "2025-12-05",
+      "premiere": "2025-12-03",
+      "theatricalLimited": "2025-12-05"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "It takes an awful lot to kill a person.",
+  "theatricalDate": "2025-12-05",
+  "title": "Hunting Season",
+  "translations": {
+    "faTitle": "فصل شکار"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "O7vKuVadFmo",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 483,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1387382-hunting-season/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1387382-hunting-season/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

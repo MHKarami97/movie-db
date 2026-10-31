@@ -1,0 +1,318 @@
+{
+  "backdropPath": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
+  "cast": [
+    {
+      "character": "Rebecca Owens",
+      "id": 1223171,
+      "name": "Willa Holland",
+      "profilePath": "/1GS8AZcIYHoShxaClaHBIelCMBd.jpg"
+    },
+    {
+      "character": "Raymond Delver",
+      "id": 167564,
+      "name": "Paul Sparks",
+      "profilePath": "/cQnCJI94lje55gZ7kEQ7YZUQPDb.jpg"
+    },
+    {
+      "character": "Ben",
+      "id": 1391986,
+      "name": "John Adams",
+      "profilePath": "/obxsrhjyuXx2c57OFy8KWRTaDor.jpg"
+    },
+    {
+      "character": "The Mimic",
+      "id": 1052211,
+      "name": "Mark Steger",
+      "profilePath": "/3EeztYq3OfdeHsqjYSwRuNHrvnk.jpg"
+    },
+    {
+      "character": "Grandma",
+      "id": 1922891,
+      "name": "Shelly Gibson",
+      "profilePath": "/wPDNeARHJCCc8nyh8i6D8JYr06Y.jpg"
+    },
+    {
+      "character": "Vallery",
+      "id": 2536479,
+      "name": "Emily Bennett",
+      "profilePath": "/yIByRjhsfKqeUHQYFeM94oK8Iw.jpg"
+    },
+    {
+      "character": "Kelly",
+      "id": 210346,
+      "name": "Keena Ferguson",
+      "profilePath": "/3YEiCsEaQnh7nwANJ9KxN7BlvRP.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 7662,
+      "logoPath": "/uGLpMN6r5MyFosNTgP9PKU48CHp.png",
+      "name": "Epic Pictures Group"
+    },
+    {
+      "id": 31787,
+      "logoPath": "/dWkJVibgXMBhPathe3rn7raMcta.png",
+      "name": "Creativity Capital"
+    },
+    {
+      "id": 153351,
+      "logoPath": "/dMusWUKSqpqXQOh0WiXHSmRBTci.png",
+      "name": "Dread"
+    },
+    {
+      "id": 138068,
+      "logoPath": null,
+      "name": "Traverse Terror"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-03-27",
+  "externalIds": {
+    "imdbId": "tt36647890",
+    "wikidataId": "Q137708148"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 42,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1470130,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Mortuary Assistant",
+  "overview": "Rebecca Owens, a recent mortuary science graduate takes a night shift job at River Fields Mortuary. Initially, the job seems straightforward — embalming bodies, completing paperwork, and keeping things tidy. But once Rebecca starts working the night shift, things take a dark turn.",
+  "posterPath": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
+  "rating": 5.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-03-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-27",
+      "gapDays": 42,
+      "theatricalDate": "2026-02-13"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-03-27"
+    },
+    "US": {
+      "digital": "2026-03-27",
+      "theatricalLimited": "2026-02-13"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Alone with the dead.",
+  "theatricalDate": "2026-02-13",
+  "title": "The Mortuary Assistant",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Gdx1iQhjgBU",
+      "name": "Official Clip - One Little Cut",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "4a-FYOXyVYQ",
+      "name": "Official Clip - Lights Out",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "ajeZv0qawzg",
+      "name": "Official Clip - You Startled Me",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "YtY6JoPX5MU",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 234,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        },
+        {
+          "id": 204,
+          "logoPath": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+          "name": "Shudder Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1470130-the-mortuary-assistant/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1854,
+          "logoPath": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 635,
+          "logoPath": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+          "name": "AMC+ Roku Premium Channel"
+        },
+        {
+          "id": 526,
+          "logoPath": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+          "name": "AMC+"
+        },
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        },
+        {
+          "id": 204,
+          "logoPath": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+          "name": "Shudder Amazon Channel"
+        },
+        {
+          "id": 2049,
+          "logoPath": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+          "name": "Shudder Apple TV channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1470130-the-mortuary-assistant/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

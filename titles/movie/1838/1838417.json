@@ -1,0 +1,79 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 320976,
+      "logoPath": null,
+      "name": "Black Zink"
+    },
+    {
+      "id": 302233,
+      "logoPath": null,
+      "name": "Kommon Films"
+    }
+  ],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt50252522"
+  },
+  "fetchedAt": 1795373734473,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1838417,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    },
+    {
+      "code": "ca",
+      "name": "Catalan"
+    }
+  ],
+  "originalTitle": "El Caso Vitruvio",
+  "overview": "",
+  "posterPath": "/bpzz7PxpHNDrMdq7orff6o8VxJL.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "El Caso Vitruvio",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

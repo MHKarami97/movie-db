@@ -1,0 +1,118 @@
+{
+  "backdropPath": "/vljqqk2HVBvmkDCla6CaQm5UCQW.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 3569901,
+      "name": "Paul Smith",
+      "profilePath": "/bYOlVNEkzm7cB3t1MgQbwctXOYj.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 209801,
+      "logoPath": null,
+      "name": "CinemaLive (GB)"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt41561164"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1646221,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Paul Smith: Pablo Live",
+  "overview": "From one of the UK’s most viral stand-up comedians, in his debut special, “Paul Smith: Pablo Live” is the show you’ve all been waiting for. Filmed live at the 3Olympia Theatre in Dublin, it’s packed full of Smith’s signature, unflinching, laugh out loud comedy. Featuring a mix of his trademark audience roasting, razor-sharp wit and hilarious true stories of his everyday life, from spending money in the most irresponsible way possible, why boys are better than girls and raising kids without leading by example, this is the full, unfiltered Paul Smith experience, and you won't want to miss a minute of it.",
+  "posterPath": "/w3IE4q4aSDCscMt9RMVLAHi08K3.jpg",
+  "rating": 5.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-17"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-04-17"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-04-17",
+  "title": "Paul Smith: Pablo Live",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "STOcaEJgF0o",
+      "name": "Paul Smith: Pablo Live | Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1646221-paul-smith-pablo-live/watch?locale=US",
+      "rent": [
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        }
+      ]
+    }
+  }
+}

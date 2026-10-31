@@ -1,0 +1,175 @@
+{
+  "backdropPath": "/dlVvlYfvpD05KYbKFxEUvskvWWd.jpg",
+  "cast": [
+    {
+      "character": "Cristian",
+      "id": 5950831,
+      "name": "Bastián Escobar",
+      "profilePath": null
+    },
+    {
+      "character": "Olga",
+      "id": 1043788,
+      "name": "Teresa Sánchez",
+      "profilePath": "/iLzgyVP822PHZCOtNFROi9YSHTJ.jpg"
+    },
+    {
+      "character": "Tulio",
+      "id": 2617257,
+      "name": "Hugo Ramírez",
+      "profilePath": null
+    },
+    {
+      "character": "Isaac",
+      "id": 112131,
+      "name": "Enrique Arreola",
+      "profilePath": "/eUX3UQrOMSNyasimc5vYtwHY518.jpg"
+    },
+    {
+      "character": "Niño en maquinita",
+      "id": 6475812,
+      "name": "Liam Rivera",
+      "profilePath": null
+    },
+    {
+      "character": "Guardia enojona",
+      "id": 6475816,
+      "name": "Evelyn Velazquez",
+      "profilePath": null
+    },
+    {
+      "character": "Guardia del hospital",
+      "id": 4939576,
+      "name": "Paco Peralta",
+      "profilePath": null
+    },
+    {
+      "character": "Guardia acceso servicio",
+      "id": 1475205,
+      "name": "Luis Santamaria",
+      "profilePath": null
+    },
+    {
+      "character": "Guardia de las uñas",
+      "id": 4476244,
+      "name": "Janeth Cruz",
+      "profilePath": null
+    },
+    {
+      "character": "Anciano pelota",
+      "id": 1269866,
+      "name": "Manuel Carrillo",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 122196,
+      "logoPath": "/qht0d59SJNY9jSu8QM3g3KXl9pY.png",
+      "name": "Teorema"
+    },
+    {
+      "id": 299,
+      "logoPath": "/elssmtHcogGtF8Gxokh9phZvLKi.png",
+      "name": "Instituto Mexicano de Cinematografía"
+    },
+    {
+      "id": 89127,
+      "logoPath": "/bCjod1AL15DQgCQu3TFe75nO1oW.png",
+      "name": "Eficine"
+    },
+    {
+      "id": 254176,
+      "logoPath": null,
+      "name": "Kinotitlán"
+    },
+    {
+      "id": 21914,
+      "logoPath": "/iF5QYCtPLuwkU90jWdjrul25d71.png",
+      "name": "K & S Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35854741",
+    "wikidataId": "Q137829298"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1437703,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Moscas",
+  "overview": "Olga lives a strictly regulated life without attachments in a vast apartment block. When out of financial necessity she rents a room in her apartment to a man who also sneaks-in his nine-year-old son, an unlikely bond forms. Her carefully controlled world begins to shift, and their lives become intertwined against her will.",
+  "posterPath": "/8msXampT9kNOyyKaWkfGZ0bZIzR.jpg",
+  "rating": 7.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-09-26"
+    },
+    "US": {
+      "premiere": "2026-10-02"
+    }
+  },
+  "runtime": 101,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Flies",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "wtuCOy5ZW6A",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 25,
+  "watchProviders": {}
+}

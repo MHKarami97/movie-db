@@ -1,0 +1,155 @@
+{
+  "backdropPath": "/cLA7LxfHF75U2m6zx9sEd7yhQBL.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1125713,
+      "name": "Mariana van Zeller",
+      "profilePath": "/8pKVsePwX8QZgfD0IKSLJlfjolf.jpg"
+    },
+    {
+      "character": "self",
+      "id": 6567695,
+      "name": "Arman Sadri",
+      "profilePath": "/ehM0zkjjQGA8IJx0AOe5xuzs3xJ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 47486,
+      "logoPath": "/t1DSCzt6msRgSvgvLPkMqINt9ZK.png",
+      "name": "Muck Media"
+    },
+    {
+      "id": 7521,
+      "logoPath": "/fRqMjLjyAqThtEg9P9WKCXLmCpJ.png",
+      "name": "National Geographic"
+    },
+    {
+      "id": 240533,
+      "logoPath": "/9AxUB1RdRnm0r5ki8Thb69Jo9Ma.png",
+      "name": "Disney Channel"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-17",
+  "externalIds": {
+    "imdbId": "tt46027225"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1771323,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Super Scam Me",
+  "overview": "After years of reporting on the scam industry, Mariana van Zeller enters one of her most immersive investigations to date. In a real-life social experiment, she builds a new online dating persona and goes undercover as the target of a romance scam to understand and expose the tactics, technologies, and psychological manipulations these criminals utilize to deceive their victims.",
+  "posterPath": "/y07DF84TR67NVAevJR6JMydIL5H.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-17",
+      "tv": "2026-10-17"
+    }
+  },
+  "runtime": 64,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "To find a predator, I become the prey_",
+  "theatricalDate": null,
+  "title": "Super Scam Me",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "UWSVmS1TTb0",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1771323-super-scam-me/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 1964,
+          "logoPath": "/yZtxolQEo9EEfu72AtegMwXE4Em.png",
+          "name": "National Geographic"
+        }
+      ],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        },
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        },
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1771323-super-scam-me/watch?locale=US",
+      "rent": []
+    }
+  }
+}

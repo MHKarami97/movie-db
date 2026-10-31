@@ -1,0 +1,168 @@
+{
+  "backdropPath": "/qsVujmyayl7oL7NfdOvCZAsxaB5.jpg",
+  "cast": [
+    {
+      "character": "Aniruddha \"Ani\" Bose",
+      "id": 3295890,
+      "name": "Krushal Ahuja",
+      "profilePath": "/j7QkEh5ALUd2wLJZLJd9dmy1t2C.jpg"
+    },
+    {
+      "character": "Jhanak \"Nutan\" Raina Bhanushali Bose",
+      "id": 1957464,
+      "name": "Hiba Nawab",
+      "profilePath": "/3xBACP8qYKPKHHomJz4TGlAtUlm.jpg"
+    },
+    {
+      "character": "Arshi Mukherjee Bose",
+      "id": 4396358,
+      "name": "Chandni Sharma",
+      "profilePath": "/ivCN9FQzijWtVIAazBRsmmmguSz.jpg"
+    },
+    {
+      "character": "Tejas Kumar",
+      "id": 1906387,
+      "name": "Rishi Kaushik",
+      "profilePath": "/oyHH0iAbCCaAtnQlEtvBe2ZAwtu.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 118285,
+      "logoPath": null,
+      "name": "Magic Moments Motion Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2023-11-20",
+  "episodes": {
+    "2": [
+      {
+        "airDate": "2025-06-09",
+        "episodeNumber": 566,
+        "name": "Episode 566",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt30705321",
+    "wikidataId": "Q129913236"
+  },
+  "fetchedAt": 1793819640448,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 240293,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "hi",
+      "name": "Hindi"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-05-31",
+    "episodeNumber": 923,
+    "id": 7832596,
+    "name": "Episode 923",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Jhanak",
+  "overview": "A driven young woman embarks on a journey to fulfill a mother's promise for a better life as she overcomes challenges and loss while crossing paths with a man who further complicates her life.",
+  "posterPath": "/lutE1Fi1L4BlH8qwn0XBWB8MBJl.jpg",
+  "rating": 8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2023-11-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2023-11-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2023-11-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2023-11-20",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2023-11-20"
+    },
+    "CN": {
+      "tv": "2023-11-20"
+    },
+    "GB": {
+      "tv": "2023-11-20"
+    },
+    "US": {
+      "tv": "2023-11-20"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2023-11-20",
+      "episodeCount": 923,
+      "name": "Generation 1",
+      "overview": "A driven young woman embarks on a journey to fulfill a mother's promise for a better life as she overcomes challenges and loss while crossing paths with a man who further complicates her life.",
+      "posterPath": "/7IZOMbhqPQ0uh9Dg2ul2p7SCvAi.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": null,
+      "episodeCount": 1,
+      "name": "Generation 2",
+      "overview": "Keeping her mother’s fiery spirit intact, young Jhanak lives an idyllic life, unaware of the past. When dashing cop Rishi enters her world, a new saga begins!",
+      "posterPath": null,
+      "seasonNumber": 2
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Jhanak",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 7,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/240293-jhanak/watch?locale=US",
+      "rent": []
+    }
+  }
+}

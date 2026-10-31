@@ -1,0 +1,124 @@
+{
+  "backdropPath": "/1No6ZJzVlGLeJ29vD7OkmIt9V9p.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 72428,
+      "name": "Malik Zidi",
+      "profilePath": "/pn4QUm8KfBJFu8xDteJnWH9yK0J.jpg"
+    },
+    {
+      "character": "",
+      "id": 559390,
+      "name": "Lydia Indjova",
+      "profilePath": "/8WPwmoGCQOSrQ3tdWnPH42Wn39h.jpg"
+    },
+    {
+      "character": "",
+      "id": 1692421,
+      "name": "Brigitte Urhausen",
+      "profilePath": "/tGPwVrkS7HSgUBWGMjc00yZoISu.jpg"
+    },
+    {
+      "character": "",
+      "id": 1336827,
+      "name": "Dmytro Yaroshenko",
+      "profilePath": "/tQEnXRI6epGY5IXMQbsZ08obOoj.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "LU",
+      "name": "Luxembourg"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt27672841"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1447059,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ru",
+      "name": "Russian"
+    }
+  ],
+  "originalTitle": "Le Refuge",
+  "overview": "With their young son running out of time, Anne and Greg are willing to sacrifice everything for one last chance to save him. But after crossing an unforgivable moral line, they find themselves trapped in a nightmare where every choice demands an even greater price.",
+  "posterPath": "/jjIcewllKhyFz1S8nRbsz2cRAlE.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-02"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-06-20",
+      "theatrical": "2026-10-02"
+    }
+  },
+  "runtime": 78,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "How far would you go to save your child?",
+  "theatricalDate": "2026-10-02",
+  "title": "Child",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "YJcNIOnaxBs",
+      "name": "Child TRAILER - Release 09/09/2026",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "eZ3JENkeefc",
+      "name": "Teaser [Subtitled]",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

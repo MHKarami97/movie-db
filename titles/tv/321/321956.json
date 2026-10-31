@@ -1,0 +1,165 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "James Rockford",
+      "id": 25934,
+      "name": "David Boreanaz",
+      "profilePath": "/rxbKFajA7zIv4sUJUpGNBWXS7jM.jpg"
+    },
+    {
+      "character": "Kate",
+      "id": 210126,
+      "name": "Michaela McManus",
+      "profilePath": "/oiqM61rXwH40aRDr25akNRduU0T.jpg"
+    },
+    {
+      "character": "Nitty",
+      "id": 1215617,
+      "name": "Felix Solis",
+      "profilePath": "/hEiRxsPybmlmoynqw3UeA9AiSEY.jpg"
+    },
+    {
+      "character": "Karma",
+      "id": 67837,
+      "name": "Jacki Weaver",
+      "profilePath": "/zalCqZnNQMKseFmwQwOlLrl3w2P.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 26727,
+      "logoPath": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television"
+    },
+    {
+      "id": 23829,
+      "logoPath": "/iT5fXEYjz1pzCejNmKNCylxxh4a.png",
+      "name": "Timberman/Beverly Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2027-01-02",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-02",
+        "episodeNumber": 1,
+        "name": "Pilot",
+        "overview": "",
+        "stillPath": "/aX9N5Nv2Y1vZAy0r98l8mpqGIbs.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-07",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt39365305"
+  },
+  "fetchedAt": 1793940074615,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "id": 321956,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-02",
+    "episodeNumber": 1,
+    "id": 7250217,
+    "name": "Pilot",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "The Rockford Files",
+  "overview": "Newly paroled after doing time for a crime he didn’t commit, James Rockford returns to his life as a private investigator using his charm and wit to solve cases around Los Angeles. It doesn't take long for his quest for legitimacy to land him squarely in the crosshairs of both local police and organized crime.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-02",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-02"
+    },
+    "CN": {
+      "tv": "2027-01-02"
+    },
+    "GB": {
+      "tv": "2027-01-02"
+    },
+    "US": {
+      "tv": "2027-01-02"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-02",
+      "episodeCount": 2,
+      "name": "Season 1",
+      "overview": "Newly paroled after doing time for a crime he didn't commit, James Rockford returns to his life as a private investigator using his charm and wit to solve cases around Los Angeles. It doesn't take long for his quest for legitimacy to land him squarely in the crosshairs of both local police and organized crime.",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "Back on the streets. Back in the crosshairs.",
+  "theatricalDate": null,
+  "title": "The Rockford Files",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

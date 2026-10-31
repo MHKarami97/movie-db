@@ -1,0 +1,220 @@
+{
+  "backdropPath": "/mDJgsLw4ZNkIRhXySfHr7hDyMXK.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 236166,
+      "logoPath": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television"
+    },
+    {
+      "id": 249678,
+      "logoPath": null,
+      "name": "Shaky Gun Productions"
+    },
+    {
+      "id": 249680,
+      "logoPath": null,
+      "name": "Lost Marbles"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-01-08",
+  "episodes": {
+    "3": [
+      {
+        "airDate": "2027-01-06",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt31614348",
+    "wikidataId": "Q130749227"
+  },
+  "fetchedAt": 1795117855725,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 260471,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-02-04",
+    "episodeNumber": 13,
+    "id": 6599008,
+    "name": "Surprise",
+    "overview": "Matt revs his love life back up only to find the road rockier than expected. Meanwhile, a chance romantic moment has Riley and Gabe questioning the nature of their relationship.",
+    "seasonNumber": 2
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-06",
+    "episodeNumber": 1,
+    "id": 8146032,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 3
+  },
+  "originalTitle": "Shifting Gears",
+  "overview": "Matt is a stubborn, widowed owner of a classic car restoration shop. When Matt's estranged daughter Riley and her teenage kids move into his house, the real restoration begins.",
+  "posterPath": "/tZnI8fWCtmJ9doCYSJwoJBITBiV.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-01-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2025-01-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-01-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-01-08",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2025-01-08"
+    },
+    "CN": {
+      "tv": "2025-01-08"
+    },
+    "GB": {
+      "tv": "2025-01-08"
+    },
+    "US": {
+      "tv": "2025-01-08"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2025-01-08",
+      "episodeCount": 10,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/n5GoIQGtWTOXlwfptrc7AJjpeCo.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2025-10-01",
+      "episodeCount": 13,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/tZnI8fWCtmJ9doCYSJwoJBITBiV.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2027-01-06",
+      "episodeCount": 1,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Family in mirror is closer than they appear.",
+  "theatricalDate": null,
+  "title": "Shifting Gears",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "jig01vfQ7gw",
+      "name": "Shifting Gears (ABC) Trailer HD - Tim Allen, Kat Dennings comedy series",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 82,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/260471-shifting-gears/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        },
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        },
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2528,
+          "logoPath": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+          "name": "YouTube TV"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/260471-shifting-gears/watch?locale=US",
+      "rent": []
+    }
+  }
+}

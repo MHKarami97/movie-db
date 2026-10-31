@@ -1,0 +1,155 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Mickey Wilder",
+      "id": 543505,
+      "name": "Jake Johnson",
+      "profilePath": "/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
+    },
+    {
+      "character": "Garner Taggert",
+      "id": 65827,
+      "name": "Keith David",
+      "profilePath": "/jJLJuR7FNHYL1fB5igjj7IXzOel.jpg"
+    },
+    {
+      "character": "Faye",
+      "id": 530618,
+      "name": "Jane Levy",
+      "profilePath": "/iYyWPOOpZgAqZK6IddSaD4R9QW3.jpg"
+    },
+    {
+      "character": "Raya",
+      "id": 4993018,
+      "name": "Mary Shalaby",
+      "profilePath": null
+    },
+    {
+      "character": "Justin Royal",
+      "id": 1677384,
+      "name": "Langston Kerman",
+      "profilePath": "/rcNQOnbmd2hlGeqajmhmqMjawlw.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 26727,
+      "logoPath": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television"
+    },
+    {
+      "id": 81403,
+      "logoPath": null,
+      "name": "Dr. Goor Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2027-02-08",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-02-08",
+        "episodeNumber": 1,
+        "name": "Pilot",
+        "overview": "",
+        "stillPath": "/c2hjFGMEPKWIp0k13fOYsd9OUue.jpg",
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt38934326"
+  },
+  "fetchedAt": 1794630704861,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 321955,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-02-08",
+    "episodeNumber": 1,
+    "id": 7250216,
+    "name": "Pilot",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Sunset P.I.",
+  "overview": "Sunset P.I. continues the proud tradition of Los Angeles private eyes that began with Philip Marlowe and will end with this show.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-02-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-02-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-02-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-02-08",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-02-08"
+    },
+    "CN": {
+      "tv": "2027-02-08"
+    },
+    "GB": {
+      "tv": "2027-02-08"
+    },
+    "US": {
+      "tv": "2027-02-08"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-02-08",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Planned",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Sunset P.I.",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

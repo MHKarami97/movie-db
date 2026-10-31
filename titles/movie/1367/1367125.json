@@ -1,0 +1,176 @@
+{
+  "backdropPath": "/i23UST9JNv8Dtz2Hzqf9f2tj9ch.jpg",
+  "cast": [
+    {
+      "character": "Kattalin",
+      "id": 2480578,
+      "name": "Yune Nogueiras",
+      "profilePath": "/vvlY2HyiuDEw1Zbt4pW5HKsMiN4.jpg"
+    },
+    {
+      "character": "Graxiana",
+      "id": 16980,
+      "name": "Elena Irureta",
+      "profilePath": "/gJWLhfOXFoYTTVjh5Q9GlxLSsEE.jpg"
+    },
+    {
+      "character": "Beltra",
+      "id": 1120111,
+      "name": "Ane Gabarain",
+      "profilePath": "/t63HzsiKKNTgr1oAlTfbI8ZahTV.jpg"
+    },
+    {
+      "character": "Reme",
+      "id": 963468,
+      "name": "Iñake Irastorza",
+      "profilePath": "/cTFB8kCtque2bQyQpRY3jAOJi8e.jpg"
+    },
+    {
+      "character": "Pello",
+      "id": 5703889,
+      "name": "Xabi «Jabato» López",
+      "profilePath": "/rDMPgoFeu7vD1eGvHQwr940ca7V.jpg"
+    },
+    {
+      "character": "Maritxu",
+      "id": 2120345,
+      "name": "Erika Olaizola",
+      "profilePath": "/2IqSUMpBz465pQ5h0FNCEkBT2qk.jpg"
+    },
+    {
+      "character": "Mateo",
+      "id": 2119149,
+      "name": "Manex Fuchs",
+      "profilePath": "/dOYIYBZIxlLXUTTdUEaFwWUhT0u.jpg"
+    },
+    {
+      "character": "Estertxi",
+      "id": 2480570,
+      "name": "Elena Uriz",
+      "profilePath": "/qyv1XgsDoSi57S6KsuVSHKIpvl2.jpg"
+    },
+    {
+      "character": "Antton",
+      "id": 5979104,
+      "name": "Jon Jauregui",
+      "profilePath": "/cVJU6qxcsCJ6QuQms2zAcX4rYi9.jpg"
+    },
+    {
+      "character": "Eugenia",
+      "id": 1432485,
+      "name": "Laura Iturregi",
+      "profilePath": "/qFyUcszysMWFDeDZ14lxRKSe4g2.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 10054,
+      "logoPath": "/67EvEfCho6RuijhumqsmUAGLERX.png",
+      "name": "Irusoin"
+    },
+    {
+      "id": 110359,
+      "logoPath": null,
+      "name": "Ikusgarri Films"
+    },
+    {
+      "id": 31123,
+      "logoPath": "/Q9F9wXH9XRsSwvR9eA0Yn8P1wT.png",
+      "name": "EiTB"
+    },
+    {
+      "id": 118930,
+      "logoPath": "/lRBrUE7HoGl1BzPLmLIbnBIYbi3.png",
+      "name": "Vilaüt Films"
+    },
+    {
+      "id": 981,
+      "logoPath": "/pkrdO9ykplO4Zc8edikoSX5APUN.png",
+      "name": "TVE"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35610805",
+    "wikidataId": "Q130465951"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "id": 1367125,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "eu",
+      "name": "Basque"
+    }
+  ],
+  "originalTitle": "Gaua",
+  "overview": "Spain, Basque Country, 17th century. At night and through the mountains, Kattalin escapes from her farmhouse and, while wandering through the deep forest, she senses a presence that stalks her.",
+  "posterPath": "/hWSY7OdBBJplNMWNPT1NIGYTRH2.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-10-28"
+    }
+  },
+  "runtime": 92,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Gaua (The Night)",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "juaVem9OS-k",
+      "name": "Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 88,
+  "watchProviders": {}
+}

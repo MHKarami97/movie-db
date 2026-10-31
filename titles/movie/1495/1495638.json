@@ -1,0 +1,182 @@
+{
+  "backdropPath": "/e9LvXLdmNWC0sHhnnvpzZ7nsbQK.jpg",
+  "cast": [
+    {
+      "character": "Eddie Hartwood",
+      "id": 1152789,
+      "name": "Ben Probert",
+      "profilePath": "/ygPrulvSGmqoasKSddbKPr3YAYm.jpg"
+    },
+    {
+      "character": "Marie",
+      "id": 4005035,
+      "name": "Mackenzie Larsen",
+      "profilePath": "/rIA6YGj7kDmryc9FkwNnGCfP08t.jpg"
+    },
+    {
+      "character": "Charles Aberdeen III",
+      "id": 3109333,
+      "name": "Scott Hume",
+      "profilePath": "/25uEXu6Jcp6reBwXlLVcPFHhc1H.jpg"
+    },
+    {
+      "character": "Lisa Aberdeen",
+      "id": 1796482,
+      "name": "Lauren Shotton",
+      "profilePath": "/y9rQa2XTjkPC8z4ITyocM1awWte.jpg"
+    },
+    {
+      "character": "Holly Mansford",
+      "id": 1792471,
+      "name": "Livvy Dawson",
+      "profilePath": "/7ErphFzdPOnR5DFPt49V1XTMcE1.jpg"
+    },
+    {
+      "character": "George Wallace",
+      "id": 4470557,
+      "name": "Chris McQuire",
+      "profilePath": null
+    },
+    {
+      "character": "Young Mother",
+      "id": 3051822,
+      "name": "Heather Cairns",
+      "profilePath": null
+    },
+    {
+      "character": "Samuel",
+      "id": 5324348,
+      "name": "Noah Carr-Kingsnorth",
+      "profilePath": null
+    },
+    {
+      "character": "Social Worker",
+      "id": 4313612,
+      "name": "Alice Corrigan",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 264823,
+      "logoPath": null,
+      "name": "Landa Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-07-14",
+  "externalIds": {
+    "imdbId": "tt32502645",
+    "instagramId": "@thecaretakermovie",
+    "wikidataId": "Q136486956"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1495638,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Caretaker",
+  "overview": "A recently bereaved man takes up a caretaker position at an elite academy and soon uncovers dark secrets.",
+  "posterPath": "/ok9SZPgtovw1Aft6lyVTqk5AyqC.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-03-07"
+    },
+    "US": {
+      "digitalDate": "2026-07-14",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-01-25",
+      "theatrical": "2026-03-07"
+    },
+    "US": {
+      "digital": "2026-07-14"
+    }
+  },
+  "runtime": 114,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Caretaker",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "yEB8dd5tlfg",
+      "name": "The Caretaker (2026) - Final International Release Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1495638-the-caretaker/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

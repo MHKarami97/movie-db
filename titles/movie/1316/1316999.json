@@ -1,0 +1,187 @@
+{
+  "backdropPath": "/hc0rBryUFk893Zo1P1tODmOxaJw.jpg",
+  "cast": [
+    {
+      "character": "Midge Leavitt (voice)",
+      "id": 15886,
+      "name": "Julia Louis-Dreyfus",
+      "profilePath": "/iEfHQNrVbVFesDPjdySom9nqsFg.jpg"
+    },
+    {
+      "character": "Sarah Leavitt (voice)",
+      "id": 1325731,
+      "name": "Abbi Jacobson",
+      "profilePath": "/tYTlv2MmiOjPfkOE9ywGAaqllbv.jpg"
+    },
+    {
+      "character": "Rob Leavitt (voice)",
+      "id": 17419,
+      "name": "Bryan Cranston",
+      "profilePath": "/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg"
+    },
+    {
+      "character": "Donimo (voice)",
+      "id": 1034197,
+      "name": "Samira Wiley",
+      "profilePath": "/m45A0hYcpnGckwxqs7j0I6Sp2Dj.jpg"
+    },
+    {
+      "character": "Hannah Leavitt (voice)",
+      "id": 1496393,
+      "name": "Beanie Feldstein",
+      "profilePath": "/lyK1s3TcUKQidfVDnNPt3TAc6mI.jpg"
+    },
+    {
+      "character": "Zach (voice)",
+      "id": 19274,
+      "name": "Seth Rogen",
+      "profilePath": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+    },
+    {
+      "character": "Paula (voice)",
+      "id": 27102,
+      "name": "Wanda Sykes",
+      "profilePath": "/toPTeiRGN1Ha0DaXl8587i9aHUi.jpg"
+    },
+    {
+      "character": "Dale (voice)",
+      "id": 1564920,
+      "name": "Bowen Yang",
+      "profilePath": "/qzjyaEe7jjLaKSmzQ2dmtcjyCpe.jpg"
+    },
+    {
+      "character": "Debbie (voice)",
+      "id": 21063,
+      "name": "Pamela Adlon",
+      "profilePath": "/5eIRHUbNOH7ibXa0IfUfFvj5I5L.jpg"
+    },
+    {
+      "character": "Sukey (voice)",
+      "id": 7404,
+      "name": "Sarah Silverman",
+      "profilePath": "/g5G711XyVokJm2RoItpkaHa8mkQ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 133093,
+      "logoPath": "/sE2KvR3L4ZgR56HgEmIEWjQcpzN.png",
+      "name": "Monarch Media"
+    },
+    {
+      "id": 16615,
+      "logoPath": "/5au3v0r2brGaegO9EQ0nodLkmQ1.png",
+      "name": "Point Grey Pictures"
+    },
+    {
+      "id": 107514,
+      "logoPath": "/f2PwAwZWOIoys9s1OuwecCwdcMj.png",
+      "name": "LYLAS Pictures"
+    },
+    {
+      "id": 233894,
+      "logoPath": "/7QBreQ1mhCXIMEU16OhlLAc6X9q.png",
+      "name": "Giant Ant"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt22183852",
+    "wikidataId": "Q139595112"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "id": 1316999,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Tangles",
+  "overview": "A young woman is forced to return to the conservative small town where her bizarre family lives to take care of her mother, having to deal with the cruel reality of her mom's Alzheimer disease and become the daughter they need.",
+  "posterPath": "/agQGw5Cux2CYaxI8UHlLbta2bgw.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-01-22"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-10-10",
+      "theatrical": "2027-01-22",
+      "theatricalLimited": "2026-11-27"
+    }
+  },
+  "runtime": 102,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A story about Alzheimer’s, my mother and me.",
+  "theatricalDate": "2027-01-22",
+  "title": "Tangles",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "mdGrH_f4wJw",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "xn2ICP5tGqQ",
+      "name": "Clip",
+      "official": false,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

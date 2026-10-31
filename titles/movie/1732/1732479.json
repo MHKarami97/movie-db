@@ -1,0 +1,171 @@
+{
+  "backdropPath": "/jd7mhAT811iCpipXZNgq6sLRPgJ.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1936475,
+      "name": "Sherrilyn Ifill",
+      "profilePath": null
+    },
+    {
+      "character": "Self – Activist",
+      "id": 2271218,
+      "name": "Stacey Abrams",
+      "profilePath": "/vQtkzxvRMfGfTToMLIYaD0p5O0K.jpg"
+    },
+    {
+      "character": "Self – US Representative",
+      "id": 2073292,
+      "name": "Alexandria Ocasio-Cortez",
+      "profilePath": "/zRCSdgQZQ1r4HODKi8VDu3oS8O8.jpg"
+    },
+    {
+      "character": "Self – Former US Senator",
+      "id": 6030455,
+      "name": "Jeff Flake",
+      "profilePath": "/2oEoYtoA90oKqa2Sm9HiN9TByt8.jpg"
+    },
+    {
+      "character": "Self – Cultural Critic",
+      "id": 1778240,
+      "name": "Hasan Piker",
+      "profilePath": "/ywdmBRvzVd3eMhGD8BcKw68SYhE.jpg"
+    },
+    {
+      "character": "Self – US Senator",
+      "id": 3045563,
+      "name": "Alex Padilla",
+      "profilePath": "/dUCj4GO6hbIms7fSxmUkxwyJDa4.jpg"
+    },
+    {
+      "character": "Self – US Representative",
+      "id": 5779398,
+      "name": "Anna Paulina Luna",
+      "profilePath": null
+    },
+    {
+      "character": "Self – Historian",
+      "id": 3408538,
+      "name": "David Blight",
+      "profilePath": null
+    },
+    {
+      "character": "Self – Historian",
+      "id": 2353025,
+      "name": "Eric Foner",
+      "profilePath": null
+    },
+    {
+      "character": "Self – Librarian of Congress",
+      "id": 2140327,
+      "name": "Carla Hayden",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 138297,
+      "logoPath": "/pQYDFhK4SFg20XRiK86qitJt4i6.png",
+      "name": "ARRAY Filmworks"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-12-04",
+  "externalIds": {
+    "imdbId": "tt43682722",
+    "wikidataId": "Q141182280"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 7,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "id": 1732479,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "14th",
+  "overview": "Revolves around the equal protection and citizenship-focused 14th amendment, which was ratified in 1868 in the turbulent era of Reconstruction and has been a contentious part of the American body politic ever since.",
+  "posterPath": "/r40Ez6NORhNfjzcnsbpb1xDycuF.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-12-04",
+      "gapDays": 7,
+      "theatricalDate": "2026-11-27"
+    },
+    "US": {
+      "digitalDate": "2026-12-04",
+      "gapDays": 7,
+      "theatricalDate": "2026-11-27"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-12-04",
+      "premiere": "2026-10-12",
+      "theatricalLimited": "2026-11-27"
+    },
+    "US": {
+      "digital": "2026-12-04",
+      "premiere": "2026-10-09",
+      "theatricalLimited": "2026-11-27"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-11-27",
+  "title": "14th",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "g_OJA3RdG_o",
+      "name": "Ava DuVernay Introduces the World Premiere of 14th",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Le3stXhMn5Y",
+      "name": "Stacey Abrams, Van Lathan, Jeff Flake, Sherrilyn Ifill, David Blight, and Paul Garnes on 14th",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "8iMKTmw31ek",
+      "name": "Ava DuVernay, Jeff Flake, Sherrilyn Ifill, Spencer Averick, Tammy Garnes, and Paul Garnes on 14th",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

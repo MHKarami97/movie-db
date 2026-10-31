@@ -1,0 +1,112 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 302434,
+      "logoPath": null,
+      "name": "Pointcraft Studios"
+    },
+    {
+      "id": 287101,
+      "logoPath": "/ntwi1o0RXduGOq50UGLbxaPpVai.png",
+      "name": "Nickelodeon"
+    },
+    {
+      "id": 5371,
+      "logoPath": "/7EFsFPaWY5DFn8s9rz2ORHxAw0y.png",
+      "name": "Nickelodeon Productions"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2027-05-14",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-05-14",
+        "episodeNumber": 1,
+        "name": "The Fishinator, JellyFished",
+        "overview": "The episode begins with the Pesky family eating Seaweed for dinner",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 326241,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-05-14",
+    "episodeNumber": 1,
+    "id": 7416580,
+    "name": "The Fishinator, JellyFished",
+    "overview": "The episode begins with the Pesky family eating Seaweed for dinner",
+    "seasonNumber": 1
+  },
+  "originalTitle": "The Swim On Micheal",
+  "overview": "The Swim On Michael Is A 17 Year Old Betta Fish",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-05-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-05-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-05-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-05-14",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-05-14"
+    },
+    "CN": {
+      "tv": "2027-05-14"
+    },
+    "GB": {
+      "tv": "2027-05-14"
+    },
+    "US": {
+      "tv": "2027-05-14"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-05-14",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Swim On Micheal",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

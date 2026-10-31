@@ -1,0 +1,232 @@
+{
+  "backdropPath": "/oAkpvVvoyZWMo9cpNk3aQoVKsjM.jpg",
+  "cast": [
+    {
+      "character": "Catalina Santana",
+      "id": 1418219,
+      "name": "Carmen Villalobos",
+      "profilePath": "/duCB3x5NvHKIL9ERZzNhs469jHH.jpg"
+    },
+    {
+      "character": "Catalina Marín",
+      "id": 1489764,
+      "name": "Carolina Gaitán",
+      "profilePath": "/c7UPkmhIXYWmlqaQK250L8GTsPQ.jpg"
+    },
+    {
+      "character": "Albeiro Marín",
+      "id": 1252026,
+      "name": "Fabián Ríos",
+      "profilePath": "/jvIGKqqoDcAEbRBVCVoLsfhNCy3.jpg"
+    },
+    {
+      "character": "Hilda Santana",
+      "id": 1222609,
+      "name": "Catherine Siachoque",
+      "profilePath": "/cMMlna6LChMAOttFCdRWkj9rz1C.jpg"
+    },
+    {
+      "character": "Hernán Darío Bayona 'Nachi'",
+      "id": 1919397,
+      "name": "Juan Pablo Urrego",
+      "profilePath": "/4TNyhSkYis42mSt0o9UYhXo13g9.jpg"
+    },
+    {
+      "character": "José Luis Vargas \"Jota\"",
+      "id": 1524527,
+      "name": "Francisco Bolívar",
+      "profilePath": "/8PYEA3qTVQJDxCTo5GliMZ8wMgY.jpg"
+    },
+    {
+      "character": "Esteban Calvo",
+      "id": 5020431,
+      "name": "Manuel Antonio Gómez",
+      "profilePath": "/rgEfa0RLRCINVjjd6bR63sGPs7t.jpg"
+    },
+    {
+      "character": "Aurelio Jaramillo \"El Titi\"",
+      "id": 1524508,
+      "name": "Gregorio Pernía",
+      "profilePath": "/xJpj6aPWne6g9vtYJmhBFPWPEy3.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 6980,
+      "logoPath": "/vl8ZrvkRz9j0U67hGVyIyLK3GjM.png",
+      "name": "Fox Telecolombia"
+    },
+    {
+      "id": 21123,
+      "logoPath": "/u4XmLMMAWxMOYeqHHJE7fPnA7jt.png",
+      "name": "Telemundo Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2016-07-19",
+  "externalIds": {
+    "imdbId": "tt5676412",
+    "wikidataId": "Q24032555"
+  },
+  "fetchedAt": 1794946854500,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 67335,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2018-09-07",
+    "episodeNumber": 63,
+    "id": 1566604,
+    "name": "Episode 63",
+    "overview": "Catalina has no idea that her biggest enemy is so close. La Diabla infiltrates the TEA with her new face and a different name.",
+    "seasonNumber": 3
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Sin senos sí hay paraíso",
+  "overview": "A young woman born in a mafia-controlled town seeks revenge on those who wrongfully harmed and imprisoned her family.",
+  "posterPath": "/7lBJ6lOS0uQqsH13U9iMTikawQS.jpg",
+  "rating": 7.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2016-07-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2016-07-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2016-07-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2016-07-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2016-07-19"
+    },
+    "CN": {
+      "tv": "2016-07-19"
+    },
+    "GB": {
+      "tv": "2016-07-19"
+    },
+    "US": {
+      "tv": "2016-07-19"
+    }
+  },
+  "runtime": 50,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2016-07-19",
+      "episodeCount": 90,
+      "name": "Season 1",
+      "overview": "Born into a small town controlled by the mafia, an irate young woman seeks revenge on the forces that tore apart and wrongfully imprisoned her family.",
+      "posterPath": "/SScKAir65gMZtgCT1zeGrydVH1.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2017-07-20",
+      "episodeCount": 87,
+      "name": "Season 2",
+      "overview": "Someone wronged by Diabla both in the past and present returns to get justice, but also stirs up old feelings that create tensions among the Santanas.",
+      "posterPath": "/guCwu17uoxG6ADCcUmlQx86t16V.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2018-06-12",
+      "episodeCount": 63,
+      "name": "Season 3",
+      "overview": "The beauty contest winner is crowned. The birth of a child threatens Catalina la Pequeña and Hernán Darío's relationship. A vengeful Martín returns.",
+      "posterPath": "/ufKLrkgwj5rfCvi7GIbhyf8U77o.jpg",
+      "seasonNumber": 3
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Sin senos sí hay paraíso",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "4la3R5i57u4",
+      "name": "Sin Senos Si Hay Paraíso 2 | Avance exclusivo de la nueva temporada | Telemundo",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 2957,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 79,
+          "logoPath": "/geRNAmvuPF6hOLExMHLKpt7bGBD.png",
+          "name": "NBC"
+        }
+      ],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 386,
+          "logoPath": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+          "name": "Peacock Premium"
+        },
+        {
+          "id": 387,
+          "logoPath": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+          "name": "Peacock Premium Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/67335-sin-senos-si-hay-paraiso/watch?locale=US",
+      "rent": []
+    }
+  }
+}

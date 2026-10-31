@@ -1,0 +1,127 @@
+{
+  "backdropPath": "/3XlBUAntxrZNEnM0FzuwoAVrmnv.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 4593014,
+      "name": "Ana Aranha",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 256461,
+      "logoPath": null,
+      "name": "Amana Cine"
+    },
+    {
+      "id": 129453,
+      "logoPath": null,
+      "name": "Repórter Brasil"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38122702",
+    "instagramId": "docpaudarco"
+  },
+  "fetchedAt": 1795759991469,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1449004,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "Pau D'Arco",
+  "overview": "After surviving the massacre in which the police killed ten landless workers in Pará’s Amazon region, Fernando dos Santos becomes the only survivor to reveal his identity and testify. Still shaken, he recounts how the police murdered his boyfriend and tortured his companions, yet the film portrays him as far more than a victim: a courageous man who left the city’s comfort to chase the dream of owning land, using humor and intelligence to endure the solitude of being a gay man in rural Brazil. Alongside him is José Vargas, an idealistic lawyer defending the survivors and their right to justice. As he faces threats and isolation, the film exposes the human cost of truth, resilience, and the struggle for dignity in a land scarred by violence and inequality.",
+  "posterPath": "/iB5nwpmZC4RHXFhOJyv9iaw5Pda.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 89,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Paid in Blood",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1449004-pau-d-arco/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1449004-pau-d-arco/watch?locale=US",
+      "rent": []
+    }
+  }
+}

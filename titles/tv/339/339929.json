@@ -1,0 +1,180 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Tomori Takamatsu (voice)",
+      "id": 2956795,
+      "name": "Hina Youmiya",
+      "profilePath": "/tOy21NTNnKuZG48JCL673tTP16z.jpg"
+    },
+    {
+      "character": "Anon Chihaya (voice)",
+      "id": 4005160,
+      "name": "Rin Tateishi",
+      "profilePath": "/wqhRfWnTgaVsJwLfh2lNIU17t3G.jpg"
+    },
+    {
+      "character": "Rāna Kaname (voice)",
+      "id": 3492222,
+      "name": "Hina Aoki",
+      "profilePath": "/brSfiv4JHZm6nBLu4RjcYV6Pd5w.jpg"
+    },
+    {
+      "character": "Soyo Nagasaki (voice)",
+      "id": 4005167,
+      "name": "Mika Kohinata",
+      "profilePath": "/u0Pw8DbuOrEKQTvT33e9HcfqHzv.jpg"
+    },
+    {
+      "character": "Taki Shiina (voice)",
+      "id": 2409935,
+      "name": "Coco Hayashi",
+      "profilePath": "/9ATHuqHA6aqpXFdGVCN0Unq467h.jpg"
+    },
+    {
+      "character": "Uika 'Doloris' Misumi (voice)",
+      "id": 1696910,
+      "name": "Rico Sasaki",
+      "profilePath": "/s5zSSVM0JcOSnsNh8ELlfe2srKf.jpg"
+    },
+    {
+      "character": "Mutsumi 'Mortis' Wakaba (voice)",
+      "id": 3007738,
+      "name": "Yuzuki Watase",
+      "profilePath": "/qIaOUZyeDIXMUvPfaFvSkHYYnPn.jpg"
+    },
+    {
+      "character": "Umiri 'Timoris' Yahata (voice)",
+      "id": 2630090,
+      "name": "Mei Okada",
+      "profilePath": "/zxmqfyUcO8o8MfFS9uQpIJvF1h7.jpg"
+    },
+    {
+      "character": "Nyamu 'Amoris' Yūtenji (voice)",
+      "id": 4356727,
+      "name": "Akane Yonezawa",
+      "profilePath": "/9jF8yUUHFnVdDFDdiFAAMT7izLQ.jpg"
+    },
+    {
+      "character": "Sakiko 'Oblivionis' Togawa (voice)",
+      "id": 1695709,
+      "name": "Kanon Takao",
+      "profilePath": "/w3h6h9R29uRsOv01qbk94ym2msm.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2027-01-08",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-08",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt50018454",
+    "twitterId": "bang_dream_info",
+    "wikidataId": "Q133571046"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 339929,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-08",
+    "episodeNumber": 1,
+    "id": 8009151,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "BanG Dream! MyGO!!!!! // Ave Mujica",
+  "overview": "Sequel series to BanG Dream! It's MyGO!!!!! and BanG Dream! Ave Mujica.",
+  "posterPath": "/spiN8xJ8chwK4PnCBYpmwFvsYGG.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-08",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-08"
+    },
+    "CN": {
+      "tv": "2027-01-08"
+    },
+    "GB": {
+      "tv": "2027-01-08"
+    },
+    "US": {
+      "tv": "2027-01-08"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-08",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/spiN8xJ8chwK4PnCBYpmwFvsYGG.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "BanG Dream! MyGO!!!!! // Ave Mujica",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

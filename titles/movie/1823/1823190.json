@@ -1,0 +1,106 @@
+{
+  "backdropPath": "/c6GkWYWR1dwiy40Gb0lqRgC3km9.jpg",
+  "cast": [
+    {
+      "character": "代依曼",
+      "id": 6638554,
+      "name": "康玥",
+      "profilePath": "/sLB2xOmClMYUQqyo7L2BJUwFWv7.jpg"
+    },
+    {
+      "character": "刘畅",
+      "id": 5134242,
+      "name": "Wang Le",
+      "profilePath": "/uHo1dU3CmU1my9RaOPeQSmxNYSo.jpg"
+    },
+    {
+      "character": "可可",
+      "id": 5412358,
+      "name": "Tang Jianrou",
+      "profilePath": "/xUaXJnUCVOhU32zP0V5xRNlQazI.jpg"
+    },
+    {
+      "character": "挂牌男人",
+      "id": 1300199,
+      "name": "Lu Gengxu",
+      "profilePath": "/v8XKjAFnolLVTNc0rrfomfp0io.jpg"
+    },
+    {
+      "character": "李墨",
+      "id": 6638565,
+      "name": "孔令法",
+      "profilePath": "/pfuDNkf96Dt6Rv3V4Dr7C0IAAxJ.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1795475598522,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1823190,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "originalTitle": "无可替代的你",
+  "overview": "",
+  "posterPath": "/oy9nw6dWTryfaBguBWfRa16Zetb.jpg",
+  "rating": 3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-11"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "theatrical": "2026-11-11"
+    }
+  },
+  "runtime": 103,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-11-11",
+  "title": "An Irreplaceable Love",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 1,
+  "watchProviders": {}
+}

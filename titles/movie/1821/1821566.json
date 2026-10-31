@@ -1,0 +1,82 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 285229,
+      "logoPath": null,
+      "name": "Dirty Chucks Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt50661111"
+  },
+  "fetchedAt": 1794511516390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1821566,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Bigg Homies",
+  "overview": "The whole hood respects Rodeen. His momma just wants him to get a job. Bigg Jah stars as the neighborhood's \"Bigg Homie\"—a man with plenty of street cred but no business giving life advice. When money meant to save his family's home gets stolen, Rodeen sets out to get it back.",
+  "posterPath": "/izTjZGSxe6uSotS2daY3n4rvRZJ.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-06"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2026-11-06"
+    }
+  },
+  "runtime": 97,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-11-06",
+  "title": "Bigg Homies",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

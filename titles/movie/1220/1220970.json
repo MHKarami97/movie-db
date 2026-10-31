@@ -1,0 +1,141 @@
+{
+  "backdropPath": "/1eG7y85IbCMP6emZTOxBpdH0ZmQ.jpg",
+  "cast": [
+    {
+      "character": "Ana Catarina",
+      "id": 123758,
+      "name": "Denise Fraga",
+      "profilePath": "/8GC3u2R3yVMH2WYm5z8CpL4hHOc.jpg"
+    },
+    {
+      "character": "Carlos Henrique",
+      "id": 571469,
+      "name": "Augusto Madeira",
+      "profilePath": "/uSqWYUnEzawmDCTsLAN3a3DENFC.jpg"
+    },
+    {
+      "character": "Sergio",
+      "id": 1434204,
+      "name": "Renato Turnes",
+      "profilePath": "/pdw1TNMRWtNsTTd66RE5nrMULWx.jpg"
+    },
+    {
+      "character": "Antônia",
+      "id": 4519475,
+      "name": "Vanderléia Will",
+      "profilePath": null
+    },
+    {
+      "character": "Sofia",
+      "id": 1680124,
+      "name": "Manuela Campagna",
+      "profilePath": null
+    },
+    {
+      "character": "Joilton",
+      "id": 3070833,
+      "name": "Marcinho Gonzaga",
+      "profilePath": null
+    },
+    {
+      "character": "Katia",
+      "id": 1680123,
+      "name": "Dea Busato",
+      "profilePath": "/54elkUjem81X44HgUh4QcIY0Ewh.jpg"
+    },
+    {
+      "character": "Tárik",
+      "id": 5882632,
+      "name": "Paulo Vasilescu",
+      "profilePath": null
+    },
+    {
+      "character": "Jorge",
+      "id": 1112558,
+      "name": "Severo Cruz",
+      "profilePath": null
+    },
+    {
+      "character": "Sandra",
+      "id": 3404148,
+      "name": "Joana Felício",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 81436,
+      "logoPath": "/vDjHxLPKvxdkhwZjcFNNKHtGXQN.png",
+      "name": "Plural Filmes"
+    },
+    {
+      "id": 16473,
+      "logoPath": "/vUkaPhr673Oc1N0fsi5p36A7lnP.png",
+      "name": "Filmógrafo"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38942720"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1220970,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "Livros Restantes",
+  "overview": "A literature teacher moving to Portugal decides to personally return her last five books to their original gifters, each containing special dedications.",
+  "posterPath": "/7RUlq6PxUb7whoJB8O3lZ2lvDol.jpg",
+  "rating": 7.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 104,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Livros Restantes",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {}
+}

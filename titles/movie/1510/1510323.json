@@ -1,0 +1,184 @@
+{
+  "backdropPath": "/lyWfpYz3ISfwGvgFHf78xL9Ec0Q.jpg",
+  "cast": [
+    {
+      "character": "Lucía",
+      "id": 5593588,
+      "name": "Lara Gallo",
+      "profilePath": null
+    },
+    {
+      "character": "Elías",
+      "id": 5500411,
+      "name": "Elías Hwidar",
+      "profilePath": null
+    },
+    {
+      "character": "Andrea",
+      "id": 1930873,
+      "name": "Ada Tormo",
+      "profilePath": null
+    },
+    {
+      "character": "Mireia",
+      "id": 4149425,
+      "name": "Paula Gala",
+      "profilePath": "/5LJpb23p212bD3MBGbAAPBjNqys.jpg"
+    },
+    {
+      "character": "Ana",
+      "id": 1145413,
+      "name": "Maria Llopis",
+      "profilePath": null
+    },
+    {
+      "character": "Hans",
+      "id": 1076809,
+      "name": "Luka Peroš",
+      "profilePath": "/lfh7959EpR9gAvrjObNGXaUg2qF.jpg"
+    },
+    {
+      "character": "Gema",
+      "id": 1914309,
+      "name": "Christina Rosenvinge",
+      "profilePath": "/kEpvZhaeXeM4mKjQOxL98kv3nSa.jpg"
+    },
+    {
+      "character": "María",
+      "id": 5593593,
+      "name": "Sofía Asencio",
+      "profilePath": null
+    },
+    {
+      "character": "Antonio",
+      "id": 1378232,
+      "name": "Manolo Marín",
+      "profilePath": null
+    },
+    {
+      "character": "Pep",
+      "id": 1378233,
+      "name": "Moisés Richart",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 154951,
+      "logoPath": null,
+      "name": "Umbracle Cine S. L."
+    },
+    {
+      "id": 217860,
+      "logoPath": "/mUhG0eBJgvRQaalOmBYRCRr66RC.png",
+      "name": "Apellaniz y de Sosa"
+    },
+    {
+      "id": 88315,
+      "logoPath": "/jzFAYkyiwr2dlTpbfbwEk8gDRgQ.png",
+      "name": "Jaibo Films"
+    },
+    {
+      "id": 125306,
+      "logoPath": "/5APg5O1oWCAn2CALjmdSvKNkCnh.png",
+      "name": "La Fabrica Nocturna Cinéma"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34340074",
+    "wikidataId": "Q135321331"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1510323,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Balearic",
+  "overview": "Three ferocious dogs keep a group of young people prisoners in the pool of a luxurious house they have snuck into, while neighbors gather at a nearby villa to celebrate the start of summer.",
+  "posterPath": "/IchQC1w2upK8kc2UCjUWVO9fiv.jpg",
+  "rating": 5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-10-14"
+    }
+  },
+  "runtime": 80,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Balearic",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 11,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 199,
+          "logoPath": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+          "name": "Fandor Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1510323-balearic/watch?locale=US",
+      "rent": []
+    }
+  }
+}

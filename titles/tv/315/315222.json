@@ -1,0 +1,225 @@
+{
+  "backdropPath": "/j1eW6rSf2rpa9FqU6sg3YuUuoqE.jpg",
+  "cast": [
+    {
+      "character": "Emma Cruz",
+      "id": 544004,
+      "name": "Susana Abaitua",
+      "profilePath": "/v9BA3YRPkEBpfL3ogKkn2Phag6m.jpg"
+    },
+    {
+      "character": "",
+      "id": 131591,
+      "name": "Jorge Bosch",
+      "profilePath": "/jkNaV2SjVr38tFba4gUmpURK9im.jpg"
+    },
+    {
+      "character": "",
+      "id": 2410790,
+      "name": "Jon Olivares",
+      "profilePath": "/ez0TSgfsUMxLszWQWNA5lYSHjit.jpg"
+    },
+    {
+      "character": "",
+      "id": 1120111,
+      "name": "Ane Gabarain",
+      "profilePath": "/t63HzsiKKNTgr1oAlTfbI8ZahTV.jpg"
+    },
+    {
+      "character": "",
+      "id": 1665267,
+      "name": "Iñigo Gastesi",
+      "profilePath": "/74Atas5KQFiWfYTvuGEIl9LKvt8.jpg"
+    },
+    {
+      "character": "",
+      "id": 1650788,
+      "name": "Iñigo Azpitarte",
+      "profilePath": "/zZUgfs0U6F25QmS6DbfbH44Z44f.jpg"
+    },
+    {
+      "character": "",
+      "id": 1102408,
+      "name": "Eva Llorach",
+      "profilePath": "/8w4O95cpFXkOc9D5Jq0aDrmIUKu.jpg"
+    },
+    {
+      "character": "",
+      "id": 2480574,
+      "name": "Asier Oruesagasti",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 24980,
+      "name": "Kandido Uranga",
+      "profilePath": "/wbI5XwwzaqxcxctuqNMHG3Qecmr.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 231931,
+      "logoPath": null,
+      "name": "Evafilms"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": "2026-11-13",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-11-13",
+        "episodeNumber": 1,
+        "name": "Agua",
+        "overview": "",
+        "stillPath": "/gN1QAOdlKH5H2gujrB5AioE9DgB.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-11-20",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-27",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-04",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-11",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-18",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt40225961"
+  },
+  "fetchedAt": 1794802719625,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 315222,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-11-13",
+    "episodeNumber": 1,
+    "id": 6991523,
+    "name": "Agua",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-20",
+    "episodeNumber": 2,
+    "id": 7812486,
+    "name": "Episode 2",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Infamia",
+  "overview": "A troubled lawyer becomes obsessed with solving a decades-old disappearance, forcing her to confront her childhood trauma and powerful forces determined to keep the truth buried.",
+  "posterPath": "/ngq8DgkTahjjMM4UGbfmPIopjUX.jpg",
+  "rating": 10,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-11-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-11-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-13",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-11-13"
+    },
+    "CN": {
+      "tv": "2026-11-13"
+    },
+    "GB": {
+      "tv": "2026-11-13"
+    },
+    "US": {
+      "tv": "2026-11-13"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-11-13",
+      "episodeCount": 6,
+      "name": "Season 1",
+      "overview": "Tenacious lawyer  Emma Cruz takes on an unsolved case of two girls who went missing in her hometown 20 years ago. Haunted by the tragic death of her sister when they were kids, for which she blames herself, she becomes obsessed with solving the case as a way to heal from her trauma. But the people responsible for the girls' disappearance will stop at nothing to keep the past buried and the truth from coming out.",
+      "posterPath": "/r3ZFYh2s43dvBcyudPaheFr8qRV.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Infamy",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 1,
+  "watchProviders": {}
+}

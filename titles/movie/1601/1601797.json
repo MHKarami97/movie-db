@@ -1,0 +1,144 @@
+{
+  "backdropPath": "/1ZruuRXztqC3QQybbgbVxVrdNjv.jpg",
+  "cast": [
+    {
+      "character": "Lucía",
+      "id": 947296,
+      "name": "Ludwika Paleta",
+      "profilePath": "/bz8oDcROtIe8k1yokobo27jDMNX.jpg"
+    },
+    {
+      "character": "Javier",
+      "id": 2723354,
+      "name": "Juanpa Zurita",
+      "profilePath": "/kVWholhVRM5CwVO1WZ8DRIr8CQV.jpg"
+    },
+    {
+      "character": "La Avispa",
+      "id": 1592680,
+      "name": "Harold Azuara",
+      "profilePath": "/jBZiH0YqASbQZ24PIxu1KGEHUED.jpg"
+    },
+    {
+      "character": "Maguis",
+      "id": 1328903,
+      "name": "Yuriria del Valle",
+      "profilePath": "/qf0YEZkYATzdIQtIxTJrLMM61ES.jpg"
+    },
+    {
+      "character": "Tío Gustavo",
+      "id": 966638,
+      "name": "Moisés Arizmendi",
+      "profilePath": "/327RMDJerAG2y2qbXLa0UWsy1IV.jpg"
+    },
+    {
+      "character": "Ana Paula",
+      "id": 976202,
+      "name": "Claudette Maillé",
+      "profilePath": "/jmERdJIsYqkFqTIh5MbtD0CRoyF.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 7570,
+      "logoPath": "/gW8dfVtl1JsGIiLnvglea1OHHVr.png",
+      "name": "Videocine"
+    }
+  ],
+  "countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35979013"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1601797,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "¿Quieres ser mi novia?",
+  "overview": "Javi and Lu's relationship faces dangerous territory as old and new temptations emerge: a young woman reigniting Javi's chemistry and a mature man pursuing Lu. Through humor, entanglements, and surprises, their love is tested.",
+  "posterPath": "/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg",
+  "rating": 8.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 97,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Love knows no age.",
+  "theatricalDate": null,
+  "title": "¿Quieres ser mi novia?",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "ajV6r8Z-mlU",
+      "name": "Will You Be My Girlfriend? - Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 208,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 457,
+          "logoPath": "/ieJ55scAVrvboTpeJcZa3JlLIrS.png",
+          "name": "VIX "
+        }
+      ],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1866,
+          "logoPath": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+          "name": "ViX Premium Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1601797-quieres-ser-mi-novia/watch?locale=US",
+      "rent": []
+    }
+  }
+}

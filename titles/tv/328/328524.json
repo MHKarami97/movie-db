@@ -1,0 +1,117 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 304380,
+      "logoPath": null,
+      "name": "Boyd Productions"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2019-05-09",
+  "externalIds": {
+    "imdbId": "tt10313136"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 328524,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-05-16",
+    "episodeNumber": 8,
+    "id": 7521901,
+    "name": "The Eighties",
+    "overview": "Las Vegas during the 1980s.",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-05-15",
+    "episodeNumber": 9,
+    "id": 7521902,
+    "name": "The Nineties",
+    "overview": "Las Vegas during the 1990s.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "The City of Las Vegas",
+  "overview": "A documentary series chronicling the history of Las Vegas, beginning in the early 1900s.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2019-05-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2019-05-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2019-05-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2019-05-09",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2019-05-09"
+    },
+    "CN": {
+      "tv": "2019-05-09"
+    },
+    "GB": {
+      "tv": "2019-05-09"
+    },
+    "US": {
+      "tv": "2019-05-09"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2024-03-23",
+      "episodeCount": 3,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2019-05-09",
+      "episodeCount": 9,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The City of Las Vegas",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,198 @@
+{
+  "backdropPath": "/y0cXfdAAiYPP71oaZ4CGORvYDBn.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1216701,
+      "name": "Meghan, Duchess of Sussex",
+      "profilePath": "/c4l6MFR3Qrz3421hREII3S7cRHk.jpg"
+    },
+    {
+      "character": "",
+      "id": 5283393,
+      "name": "Kelly Zajfen",
+      "profilePath": "/7NXpHikxylkft0i940qXVk4ykQf.jpg"
+    },
+    {
+      "character": "",
+      "id": 2621036,
+      "name": "Tracey Robbins",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 219917,
+      "name": "Tom Colicchio",
+      "profilePath": "/qXqrw8OU8GKrF9OzOe7GkMX7IVV.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 3697603,
+      "name": "Will Guidara",
+      "profilePath": "/2cLSPb3NIaUMsqmo2EOrJh0SFuR.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2860051,
+      "name": "Naomi Osaka",
+      "profilePath": "/zLJCpycshmD8rNsLCngxNhNODUy.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 5873823,
+      "name": "Lindsay Jill Roth",
+      "profilePath": null
+    },
+    {
+      "character": "Self (uncredited)",
+      "id": 1736908,
+      "name": "Prince Harry, Duke of Sussex",
+      "profilePath": "/zc94yOx3ZmsZUSC4eQzC8QkW4GU.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 187445,
+      "logoPath": "/te9izYSKxkWlrPpIXlsU42FgJie.png",
+      "name": "Archewell Productions"
+    },
+    {
+      "id": 83966,
+      "logoPath": "/q2BuooxLm16EvWcUY4CMJo3PSNo.png",
+      "name": "The Intellectual Property Corporation"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-12-03",
+  "externalIds": {
+    "imdbId": "tt39099229"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1578631,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "With Love, Meghan: Holiday Celebration",
+  "overview": "'Tis the season! Meghan shares her favorite holiday traditions, seasonal crafts and family recipes with friends old and new in this festive special.",
+  "posterPath": "/jHEgYm0zSlqAduZy86Bf9Qg7v7.jpg",
+  "rating": 3.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-12-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-12-03"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Embracing traditions and making new ones.",
+  "theatricalDate": null,
+  "title": "With Love, Meghan: Holiday Celebration",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Of7e-7cGl9k",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 12,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1578631-with-love-meghan-holiday-celebration/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 175,
+          "logoPath": "/rjPaInWHH1nPgtRFF17BbHN2gu.png",
+          "name": "Netflix Kids"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1578631-with-love-meghan-holiday-celebration/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1578631-with-love-meghan-holiday-celebration/watch?locale=US",
+      "rent": []
+    }
+  }
+}

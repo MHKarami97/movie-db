@@ -1,0 +1,97 @@
+{
+  "backdropPath": "/x3BWvMmeeiMTP4u7MWQ6Bsv0C6Z.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 101509,
+      "logoPath": "/al4qRaI9Vet4CXbeqI0DE0KnIdl.png",
+      "name": "CORSO Film"
+    },
+    {
+      "id": 294138,
+      "logoPath": null,
+      "name": "100% Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39215184",
+    "wikidataId": "Q138299543"
+  },
+  "fetchedAt": 1794677631424,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1599790,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "Two Mountains Weighing Down My Chest",
+  "overview": "A Chinese misfit ricochets between Berlin’s alternative frenzy and Beijing’s family order, transforming cultural whiplash into an offbeat search for identity and a playful quest for belonging.",
+  "posterPath": "/3EkZxnl7nVcrN0vg9Su42rQZnlw.jpg",
+  "rating": 10,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-04-18"
+    }
+  },
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Two Mountains Weighing Down My Chest",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 1,
+  "watchProviders": {}
+}

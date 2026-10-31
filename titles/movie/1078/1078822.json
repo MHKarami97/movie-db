@@ -1,0 +1,255 @@
+{
+  "backdropPath": "/bbntAQGbL0E54CiyC9ficb70UEj.jpg",
+  "cast": [
+    {
+      "character": "Rosa",
+      "id": 2019443,
+      "name": "Nadia Tereszkiewicz",
+      "profilePath": "/cbJq5zdczVesD6huBCgG7UhXWeA.jpg"
+    },
+    {
+      "character": "Santino",
+      "id": 1395660,
+      "name": "Alessandro Borghi",
+      "profilePath": "/2rFLwvGWDJTMJDdYXfeRbml7h20.jpg"
+    },
+    {
+      "character": "Buffalo Bill",
+      "id": 4764,
+      "name": "John C. Reilly",
+      "profilePath": "/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+    },
+    {
+      "character": "Rebel Leader",
+      "id": 1246181,
+      "name": "Peter Lanzani",
+      "profilePath": "/eo1TzQmNL9jTQTCe6AvUDr1ZktS.jpg"
+    },
+    {
+      "character": "Ercole Rupè",
+      "id": 1470789,
+      "name": "Mirko Artuso",
+      "profilePath": "/v1BQOTylkRGUNP98CSW7n1wpTCG.jpg"
+    },
+    {
+      "character": "Zecchino",
+      "id": 3103315,
+      "name": "Gabriele Silli",
+      "profilePath": "/ibcvdsPCfR5xBc7DielElueTnPV.jpg"
+    },
+    {
+      "character": "Mr. Rupè",
+      "id": 97684,
+      "name": "Gianni Garko",
+      "profilePath": "/eXhocD607r8cVaNGtcDlv1HutaD.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 91437,
+      "logoPath": "/3EngEFSv91PU8925JdHPtSWHKBn.png",
+      "name": "Ring Film"
+    },
+    {
+      "id": 204575,
+      "logoPath": "/7pjTsox3kXeT2bv4lNGXePnymqc.png",
+      "name": "Cinema Inutile"
+    },
+    {
+      "id": 155990,
+      "logoPath": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema"
+    },
+    {
+      "id": 28699,
+      "logoPath": "/vCqaf8TwyhBgpHBoCvCkoaGtrON.png",
+      "name": "Cinemaundici"
+    },
+    {
+      "id": 209828,
+      "logoPath": null,
+      "name": "Andromeda Film"
+    },
+    {
+      "id": 203535,
+      "logoPath": "/igDFdmhm88iM78VZrlouKUUxpLO.png",
+      "name": "Volos Films Italia"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-04-10",
+  "externalIds": {
+    "imdbId": "tt32448429",
+    "wikidataId": "Q133852992"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1078822,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "originalTitle": "Testa o croce?",
+  "overview": "When cowboy Billi and his sweetheart Rosa run away together, he is accused of her husband's death and becomes the symbol of a local uprising. Everyone wants his head and only Rosa knows the secret that could finally set them free.",
+  "posterPath": "/Tv6fscEsGNVk9op70Mm5ctIqfl.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-10",
+      "gapDays": 0,
+      "theatricalDate": "2026-04-10"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-04-10",
+      "theatricalLimited": "2026-04-10"
+    }
+  },
+  "runtime": 116,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-04-10",
+  "title": "Heads or Tails?",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "sXnB4QBC8sw",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 38,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        },
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1078822-testa-o-croce/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "backdropPath": "/sjw0g6dSpKSnLMeLe2VoKG8WLpC.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 14914,
+      "logoPath": "/1RZBWz53SpHUTLpRcM8BGv2plIP.png",
+      "name": "HBO Documentary Films"
+    },
+    {
+      "id": 278148,
+      "logoPath": null,
+      "name": "Tony Tina"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-11-18",
+  "externalIds": {
+    "imdbId": "tt38633124",
+    "wikidataId": "Q136908292"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1559760,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Thoughts & Prayers",
+  "overview": "In a dystopic America, children are taught how to prepare for school shootings through elaborate drills. Yet what are intended as self-defense mechanisms are themselves deeply traumatic for students, parents, educators, and entire communities.",
+  "posterPath": "/y9GzO4jCjpurBWvgGp6clqdSK1G.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-18",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-11-18",
+      "premiere": "2025-11-12",
+      "tv": "2025-11-18"
+    }
+  },
+  "runtime": 88,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Is the new normal... normal?",
+  "theatricalDate": null,
+  "title": "Thoughts & Prayers",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "aRv23_VWglQ",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 14,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 629,
+          "logoPath": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+          "name": "OSN+"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1559760-thoughts-prayers/watch?locale=AE",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1559760-thoughts-prayers/watch?locale=US",
+      "rent": []
+    }
+  }
+}

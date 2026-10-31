@@ -1,0 +1,182 @@
+{
+  "backdropPath": "/4NrEIe0NhaPkE2QmudqNZjiT1az.jpg",
+  "cast": [
+    {
+      "character": "Rose",
+      "id": 1722197,
+      "name": "Marie Bloching",
+      "profilePath": "/fToxiFAsmID7XPUG57QsudHh1Cn.jpg"
+    },
+    {
+      "character": "Sam",
+      "id": 2980949,
+      "name": "Anton Weil",
+      "profilePath": "/eY87aFWJ59sNOZe5QtVoeniVy1k.jpg"
+    },
+    {
+      "character": "Linda",
+      "id": 114594,
+      "name": "Proschat Madani",
+      "profilePath": "/eoFZ1H7hOt3NwQtQx8B6mFtNuOe.jpg"
+    },
+    {
+      "character": "Elisa",
+      "id": 3291609,
+      "name": "Laura Balzer",
+      "profilePath": "/evsbXs6eUXDN4ySSLfhP1QNltKp.jpg"
+    },
+    {
+      "character": "Lia",
+      "id": 1828013,
+      "name": "Jane Chirwa",
+      "profilePath": "/pApKu23Kud5toMF5PkQ6tgJKcr4.jpg"
+    },
+    {
+      "character": "Detective Inspector",
+      "id": 2618746,
+      "name": "Aram Tafreshian",
+      "profilePath": null
+    },
+    {
+      "character": "Date",
+      "id": 2900025,
+      "name": "David Vormweg",
+      "profilePath": "/jMvLLDt4fk7dkozYMLEttpdgJmc.jpg"
+    },
+    {
+      "character": "Jazz",
+      "id": 3299310,
+      "name": "Franziska von Harsdorf",
+      "profilePath": "/gjbarRQod4yjOcet09iDIHJvOXC.jpg"
+    },
+    {
+      "character": "Julie",
+      "id": 5248566,
+      "name": "Julie Savery",
+      "profilePath": null
+    },
+    {
+      "character": "Noam",
+      "id": 5982125,
+      "name": "Giamo Alfredi",
+      "profilePath": "/4a8tKuAFW3qJhChqUXlv3mUj0Bl.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 6281,
+      "logoPath": "/k23Mf2IzRlphE6drmyXtHOxCaRT.png",
+      "name": "Nephilim Producciones"
+    },
+    {
+      "id": 2067,
+      "logoPath": "/y5knLIUjYsKBIlM4W0dLruWwYaC.png",
+      "name": "RBB"
+    },
+    {
+      "id": 251596,
+      "logoPath": "/soWITSL7CvSDxsU4UbnrnmtnesR.png",
+      "name": "Arkanum Pictures"
+    },
+    {
+      "id": 31052,
+      "logoPath": "/pJgQoO1PyJdhOP1UOrVsDeolYw7.png",
+      "name": "Deutsche Film- und Fernsehakademie Berlin (DFFB)"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": "2026-04-26",
+  "externalIds": {
+    "imdbId": "tt35438186",
+    "wikidataId": "Q131764813"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1418512,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "Schwesterherz",
+  "overview": "Springtime in Berlin occasions new beginnings, but has its darknesses too. When Sam is accused of rape, his sister Rose is asked to testify in the police investigation against him. Faced with uncomfortable questions and moral quandaries, Rose’s feelings toward her older brother are tested.",
+  "posterPath": "/xYEaJnQ7vSpvzAmnTlkokVfkDeH.jpg",
+  "rating": 5.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-26",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-04-26"
+    }
+  },
+  "runtime": 97,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Good Sister",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "v4vS5KYqWAo",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1418512-schwesterherz/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "backdropPath": "/q0PI5MCG6KvCGPZzIr4nJefZw1h.jpg",
+  "cast": [
+    {
+      "character": "Aziz Güngör Esen / Sunucu",
+      "id": 149314,
+      "name": "Ali Sunal",
+      "profilePath": "/rqJySP70Rvxk0eXBVtrB6QzBEA.jpg"
+    },
+    {
+      "character": "Yeter",
+      "id": 222512,
+      "name": "Doğa Rutkay",
+      "profilePath": "/dR88d2CI8frvvtKKRPbmjaOJ6EX.jpg"
+    },
+    {
+      "character": "Bilal Koçyiğit",
+      "id": 1431051,
+      "name": "Onur Buldu",
+      "profilePath": "/xXrOnb0QdfNBUEh0HZfbl9VWAJq.jpg"
+    },
+    {
+      "character": "Mesut",
+      "id": 1433313,
+      "name": "Uğur Bilgin",
+      "profilePath": "/soUfKD1w1Rq4LABv9vhvyZ1nIne.jpg"
+    },
+    {
+      "character": "Mehtap",
+      "id": 2038056,
+      "name": "Meltem Yılmazkaya",
+      "profilePath": "/xwXajZAap1EmjU2cydBNybnLCvI.jpg"
+    },
+    {
+      "character": "Burcu Yerler",
+      "id": 1431054,
+      "name": "Aylin Kontente",
+      "profilePath": "/qxBGrCfCmFQAFHrmqMIp43QlfZx.jpg"
+    },
+    {
+      "character": "Hüseyin",
+      "id": 1433106,
+      "name": "Erdem Yener",
+      "profilePath": "/eDnIWVfhaW5SIhhyaKbglZMcyJk.jpg"
+    },
+    {
+      "character": "Naime",
+      "id": 3033126,
+      "name": "Ecem Erkek",
+      "profilePath": "/3HwT9bztAWIlyoIt4JcmffVEGIa.jpg"
+    },
+    {
+      "character": "Fikri Tarhanacı",
+      "id": 2577208,
+      "name": "Aziz Aslan",
+      "profilePath": "/gN6k9qHCBvmZw9aqOMQS4LMhIMJ.jpg"
+    },
+    {
+      "character": "Mustafa",
+      "id": 2023959,
+      "name": "Özgün Aydın",
+      "profilePath": "/tLDvjJokWvHcU1erCWobvnDIQXG.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 25350,
+      "logoPath": "/cVSmWXOANMlHpDObhi2nOJ83PDf.png",
+      "name": "BKM"
+    }
+  ],
+  "countries": [
+    {
+      "code": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "digitalDate": "2013-02-27",
+  "episodes": {
+    "15": [
+      {
+        "airDate": "2026-10-17",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": "/o2x9P4i70FKCKuxLzDpoUd514iw.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-24",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": "/1sZzvabbZ67X8opWZbvILWzBGke.jpg",
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "guldurguldurtv",
+    "imdbId": "tt8534992",
+    "instagramId": "guldurguldur",
+    "twitterId": "Guldur_Guldur",
+    "wikidataId": "Q19327454"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 85590,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "tr",
+      "name": "Turkish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-24",
+    "episodeNumber": 2,
+    "id": 8005813,
+    "name": "Episode 2",
+    "overview": "",
+    "seasonNumber": 15
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Güldür Güldür Show",
+  "overview": "Güldür Güldür Show, which has won the admiration of everyone with its legendary cast, continues to bring a new approach to many topics from family to love, fame to technology, football to friendship with its unique sense of humour.",
+  "posterPath": "/A4PuQEG2XSJxQVks4l3Ox83Dnde.jpg",
+  "rating": 8.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2013-02-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2013-02-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2013-02-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2013-02-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2013-02-27"
+    },
+    "CN": {
+      "tv": "2013-02-27"
+    },
+    "GB": {
+      "tv": "2013-02-27"
+    },
+    "US": {
+      "tv": "2013-02-27"
+    }
+  },
+  "runtime": 105,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2013-02-27",
+      "episodeCount": 13,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/i89aZYlUpsUOJZV8FPZ6Xy1Y0TL.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2013-10-01",
+      "episodeCount": 35,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2014-09-11",
+      "episodeCount": 31,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/rFyqc5r8wuAnjiZpf7ZbdkT0Je0.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2015-10-02",
+      "episodeCount": 39,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2016-10-28",
+      "episodeCount": 34,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/fnuxBjDNivy6AjcNOXY3lPZMJkY.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2017-10-11",
+      "episodeCount": 34,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/z4d4rYSZJXjzNIpTLqmuV1cZlNE.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2019-02-16",
+      "episodeCount": 22,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/xVgfmTw5vrTAGJ8oa6f4PrNtzA5.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2019-10-04",
+      "episodeCount": 32,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/6U7uqtAIQOfjJrqVJzWZIeOTykv.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2020-10-27",
+      "episodeCount": 34,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/k2VaJVCKGQsuoUsqoI9WBnfpQB8.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2021-10-02",
+      "episodeCount": 38,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/zVSAkzCOLSIMYoXHNyPsZrm9iv.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2022-10-22",
+      "episodeCount": 33,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": "/hcPO7tdGVmuf52pAobXBwkHYNbV.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2023-10-14",
+      "episodeCount": 36,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": "/9h8mpp6e5jetPHmkDNNamB2x5oz.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2024-10-19",
+      "episodeCount": 42,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": "/1wST8WnSO0xZfrGqc903crf8Fl7.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2025-10-18",
+      "episodeCount": 34,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": "/xrYJlyBhGYuDFmOT9Q516SUHW4Q.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2026-10-17",
+      "episodeCount": 2,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": "/1DyLkOSXXmmQ2lq1xpPO5XdRNo.jpg",
+      "seasonNumber": 15
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Güldür Güldür Show",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 7,
+  "watchProviders": {}
+}

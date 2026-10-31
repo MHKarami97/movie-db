@@ -1,0 +1,172 @@
+{
+  "backdropPath": "/rC1u7V21uLLBNBPMs5axRzno75W.jpg",
+  "cast": [
+    {
+      "character": "Hermínia",
+      "id": 1202191,
+      "name": "Mina Andala",
+      "profilePath": "/oEVLo261wiJJetvoRYL4FQnkanh.jpg"
+    },
+    {
+      "character": "Arménio",
+      "id": 1168155,
+      "name": "José Martins",
+      "profilePath": "/tmnHrSOU3RWr6Y9aXVfphTJnftD.jpg"
+    },
+    {
+      "character": "Administradora",
+      "id": 140463,
+      "name": "Cláudia Carvalho",
+      "profilePath": "/b75ZXwzPEJPjJp8ITEDN3zyi9i1.jpg"
+    },
+    {
+      "character": "João",
+      "id": 4908720,
+      "name": "Pedro Lamas",
+      "profilePath": "/c3Y61HyIo4dZWRLchCljCLdQTR2.jpg"
+    },
+    {
+      "character": "Homem Funerária",
+      "id": 1830072,
+      "name": "Ricardo Vaz Trindade",
+      "profilePath": "/8xaQK4cCrbixR9EyFLEzIyBTYYY.jpg"
+    },
+    {
+      "character": "Soldado",
+      "id": 4009841,
+      "name": "Teosson Chau",
+      "profilePath": "/cwiq6UTxhEBDXbcxTnRgwtMz1c0.jpg"
+    },
+    {
+      "character": "Médico",
+      "id": 2413614,
+      "name": "João Damasceno",
+      "profilePath": "/hFuUdu5w3nHjNjdTfnOHGLPWzAF.jpg"
+    },
+    {
+      "character": "Fisioterapeuta",
+      "id": 1694048,
+      "name": "Zeca Carvalho",
+      "profilePath": "/fl76LstZLoMMDYKl7HmDC9HRSxm.jpg"
+    },
+    {
+      "character": "Auxiliar",
+      "id": 4908727,
+      "name": "Carlos Dias",
+      "profilePath": "/sxa7oFWrRfDPDN26qRtO1ga8ESC.jpg"
+    },
+    {
+      "character": "Jefferson",
+      "id": 5497586,
+      "name": "Robson Lemos",
+      "profilePath": "/tOSL8rfyn0IYQ411rrseVue4CuO.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 18709,
+      "logoPath": "/MSxQqmbEWh48b4DIrpoc0R1jqA.png",
+      "name": "Persona Non Grata Pictures"
+    },
+    {
+      "id": 78060,
+      "logoPath": "/kx7pYjeFxOwo5Kxg4dd2zmr75x9.png",
+      "name": "Muiraquitã Filmes"
+    },
+    {
+      "id": 219305,
+      "logoPath": null,
+      "name": "Diálogos Atómicos"
+    }
+  ],
+  "countries": [
+    {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    {
+      "code": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "facebookId": "personanongratapictures",
+    "imdbId": "tt32430402",
+    "instagramId": "personanongratapictures",
+    "twitterId": "pngpicturesptbr",
+    "wikidataId": "Q141500368"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1496142,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "A Memória do Cheiro das Coisas",
+  "overview": "An intimate drama about an aging war veteran forced into a retirement home, where he confronts the ghosts of his past and forms an unexpected bond with his Black caregiver.",
+  "posterPath": "/eM9QURBwYfgv9nOOUfMSiY4m9hP.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-12-27"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2025-06-15",
+      "theatricalLimited": "2025-12-27"
+    }
+  },
+  "runtime": 96,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Not all wars end on the battlefield",
+  "theatricalDate": "2025-12-27",
+  "title": "The Scent of Things Remembered",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "uMyfHgwC27c",
+      "name": "The Scent of Things Remembered | Portugal's Official Oscar Entry",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "GXyWnrnqL60",
+      "name": "A MEMÓRIA DO CHEIRO DAS COISAS | 3 cenas do filme de António Ferreira",
+      "official": false,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {}
+}

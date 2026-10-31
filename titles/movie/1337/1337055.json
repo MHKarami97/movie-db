@@ -1,0 +1,186 @@
+{
+  "backdropPath": "/eNdXEzKkAxVFFLsW2GQgNPjyW3w.jpg",
+  "cast": [
+    {
+      "character": "Jake",
+      "id": 20212,
+      "name": "Dermot Mulroney",
+      "profilePath": "/kkrMKD6b4vEdphVgKsenRY4NgiC.jpg"
+    },
+    {
+      "character": "Meg",
+      "id": 50463,
+      "name": "Malin Akerman",
+      "profilePath": "/u38qRcCAiO3SZdFKJKx3fncDyef.jpg"
+    },
+    {
+      "character": "Reuben",
+      "id": 19148,
+      "name": "Brian Austin Green",
+      "profilePath": "/8KGhmSEmxwn6oJBN5NCpeYDJ2hx.jpg"
+    },
+    {
+      "character": "Claudia",
+      "id": 2066423,
+      "name": "Rose Lane Sanfilippo",
+      "profilePath": "/9sUQKviM0twznkVYDLN3MP92tU4.jpg"
+    },
+    {
+      "character": "Jo",
+      "id": 1881751,
+      "name": "Noa Brenner",
+      "profilePath": "/g5my3MB2hJpOTbqSdsffuulZrL4.jpg"
+    },
+    {
+      "character": "Uncle Edwin",
+      "id": 2170918,
+      "name": "Chris Mullinax",
+      "profilePath": "/9BILCPkrZDuhLATdMhzVWKRe3yJ.jpg"
+    },
+    {
+      "character": "Aunt Ruth",
+      "id": 38711,
+      "name": "Robin Riker",
+      "profilePath": "/805H8McgVzm2zzd5MSeF7MmUqET.jpg"
+    },
+    {
+      "character": "Granny Fanny",
+      "id": 2425611,
+      "name": "Mona Lee Wylde",
+      "profilePath": null
+    },
+    {
+      "character": "Kate",
+      "id": 2861367,
+      "name": "Margo Quinn",
+      "profilePath": null
+    },
+    {
+      "character": "Evan",
+      "id": 3596074,
+      "name": "Tyler Lawrence Gray",
+      "profilePath": "/dAaVEe1WcBrxrIBQ8d9L5KsqZ3f.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 236940,
+      "logoPath": null,
+      "name": "JNW Films"
+    },
+    {
+      "id": 231139,
+      "logoPath": null,
+      "name": "Beno Films (US)"
+    },
+    {
+      "id": 63611,
+      "logoPath": "/bHPC39cG5aAcuFnViWmRD59gzZ8.png",
+      "name": "ETA films"
+    },
+    {
+      "id": 310308,
+      "logoPath": null,
+      "name": "Act 2 Entertainment"
+    },
+    {
+      "id": 121205,
+      "logoPath": "/f1oMMN9etU1sT6owkPDtxFH2yMA.png",
+      "name": "VMI WorldWide"
+    },
+    {
+      "id": 310309,
+      "logoPath": null,
+      "name": "Sugar Studios"
+    },
+    {
+      "id": 198179,
+      "logoPath": "/ct4wmzYtS2prZnitm4iuMxRAMsR.png",
+      "name": "Filmopoly"
+    },
+    {
+      "id": 260164,
+      "logoPath": null,
+      "name": "GVN Releasing"
+    },
+    {
+      "id": 310310,
+      "logoPath": null,
+      "name": "Royal Caribbean"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States"
+    }
+  ],
+  "digitalDate": "2026-12-02",
+  "externalIds": {
+    "facebookId": "perfectlyimperfectthemovie",
+    "imdbId": "tt33035778",
+    "instagramId": "perfectlyimperfectthemovie"
+  },
+  "fetchedAt": 1795640243421,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1337055,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Perfectly Imperfect",
+  "overview": "Jake, a by the numbers single dad, sets off on a cruise with his quirky family and his childhood friend Reuben. Onboard, he unexpectedly crosses paths with Meg, a woman he once had an awkward date with on the mainland. As they get a second chance to connect, Jake and Meg discover that while neither of them is perfect, they might actually be perfectly imperfect for each other.",
+  "posterPath": "/AjmozAnMk9PMlPkXPro0Tts4Z5i.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-12-02",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-12-02"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A match made in mayhem.",
+  "theatricalDate": null,
+  "title": "Perfectly Imperfect",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

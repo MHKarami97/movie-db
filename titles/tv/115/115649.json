@@ -1,0 +1,115 @@
+{
+  "backdropPath": "/rV0S1zyDXVXovutRGpev3IrRmCx.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 15505,
+      "logoPath": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+      "name": "NHK"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "1951-01-03",
+  "externalIds": {
+    "instagramId": "nhk_kouhaku",
+    "twitterId": "nhk_kouhaku"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 115649,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-12-31",
+    "episodeNumber": 76,
+    "id": 6689283,
+    "name": "Episode 76",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-12-31",
+    "episodeNumber": 77,
+    "id": 7926279,
+    "name": "Episode 77",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "NHK紅白歌合戦",
+  "overview": "NHK Kōhaku Uta-Gassen (NHK紅白歌合戦, \"NHK Red and White Song Battle\"), more commonly known simply as Kōhaku, is an annual New Year's Eve television special held on December 31 every year, and produced by Japanese public broadcaster NHK. It is broadcast live simultaneously on NHK General TV, BS4K, BS8K, and NHK radio (nationally) and internationally on NHK World Premium and some overseas (mainly cable) broadcasters who buy the program. The program divides the most popular music artists of the year into competing teams of red and white. The \"red\" team or \"akagumi\" (紅組) is composed of all female artists (or groups with female vocals), while the \"white\" team or \"shirogumi\" (白組) is all male (or groups with male vocals).",
+  "posterPath": "/E8S82TCe03ZBaLh8WrPkVhnGea.jpg",
+  "rating": 8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1951-01-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1951-01-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1951-01-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1951-01-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1951-01-03"
+    },
+    "CN": {
+      "tv": "1951-01-03"
+    },
+    "GB": {
+      "tv": "1951-01-03"
+    },
+    "US": {
+      "tv": "1951-01-03"
+    }
+  },
+  "runtime": 240,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "1951-01-03",
+      "episodeCount": 77,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/g42unX2e2iRs96ZM6beFk867tC4.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "NHK Kōhaku Uta-Gassen",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 1,
+  "watchProviders": {}
+}

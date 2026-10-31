@@ -1,0 +1,128 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Amiraga",
+      "id": 6461445,
+      "name": "Kristijan Selmi",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 126747,
+      "logoPath": "/7DyXLUnWyMtKHzNThInTZnpdoWi.png",
+      "name": "TS Media"
+    },
+    {
+      "id": 109272,
+      "logoPath": null,
+      "name": "Režim"
+    }
+  ],
+  "countries": [
+    {
+      "code": "RS",
+      "name": "Serbia"
+    }
+  ],
+  "digitalDate": "2027-11-30",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-11-30",
+        "episodeNumber": 1,
+        "name": "Pilot",
+        "overview": "At the heart of the story is Amiraga, a Roma boy from a neighborhood in Niš who ends up in a Belgrade home for children without parental care. Different rules prevail there—the children themselves establish the hierarchy and laws, while friendship, violence, first love, betrayal, and brotherhood intertwine in a world where the struggle for one's own identity is often a fight for survival.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 334272,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "rm",
+      "name": "Raeto-Romance"
+    },
+    {
+      "code": "sr",
+      "name": "Serbian"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-11-30",
+    "episodeNumber": 1,
+    "id": 7774589,
+    "name": "Pilot",
+    "overview": "At the heart of the story is Amiraga, a Roma boy from a neighborhood in Niš who ends up in a Belgrade home for children without parental care. Different rules prevail there—the children themselves establish the hierarchy and laws, while friendship, violence, first love, betrayal, and brotherhood intertwine in a world where the struggle for one's own identity is often a fight for survival.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Grad bola",
+  "overview": "At the heart of the story is Amiraga, a Roma boy from a neighborhood in Niš who ends up in a Belgrade home for children without parental care. Different rules prevail there—the children themselves establish the hierarchy and laws, while friendship, violence, first love, betrayal, and brotherhood intertwine in a world where the struggle for one's own identity is often a fight for survival.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-11-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-11-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-11-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-11-30",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-11-30"
+    },
+    "CN": {
+      "tv": "2027-11-30"
+    },
+    "GB": {
+      "tv": "2027-11-30"
+    },
+    "US": {
+      "tv": "2027-11-30"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-11-30",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Grad bola",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

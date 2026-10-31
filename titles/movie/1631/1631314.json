@@ -1,0 +1,167 @@
+{
+  "backdropPath": "/rvmYeguWzuDA4sBn3gRnflpAgGP.jpg",
+  "cast": [
+    {
+      "character": "Madoka",
+      "id": 1419909,
+      "name": "Marika Ito",
+      "profilePath": "/fqI7wHzqZQkMafj1LXMOso7aPDf.jpg"
+    },
+    {
+      "character": "Kazuma",
+      "id": 85005,
+      "name": "Kai Inowaki",
+      "profilePath": "/3g9eION4PljkXjlEgoyxVWv8SWx.jpg"
+    },
+    {
+      "character": "Shiho",
+      "id": 2804365,
+      "name": "Riko Fujitani",
+      "profilePath": "/ujpigApXRsEp21hULUagkvsKWyY.jpg"
+    },
+    {
+      "character": "Mikoshiba",
+      "id": 5994071,
+      "name": "Shintaro Kanamaru",
+      "profilePath": null
+    },
+    {
+      "character": "Kanbayashi",
+      "id": 586791,
+      "name": "Oshirō Maeda",
+      "profilePath": "/cOWmkaKC848jIersVa18l1DYL54.jpg"
+    },
+    {
+      "character": "Master of Good Heavens",
+      "id": 2523975,
+      "name": "Gota Ishida",
+      "profilePath": "/l45dUW3p92TyisWlqRs2rYwRS6I.jpg"
+    },
+    {
+      "character": "Theater Fan",
+      "id": 4021098,
+      "name": "Yoshifumi Sakai",
+      "profilePath": "/wDawmqFQvXyQfHTzeloaU08hPyY.jpg"
+    },
+    {
+      "character": "Mikazuki Rock Manager",
+      "id": 1998971,
+      "name": "Kazunari Tosa",
+      "profilePath": "/pjmEpy5LN9DIX6Z580Ol59kUc0e.jpg"
+    },
+    {
+      "character": "Worker",
+      "id": 124958,
+      "name": "Munenori Nagano",
+      "profilePath": "/4SYOW0lZTd3cNvNLmct4TfQSE88.jpg"
+    },
+    {
+      "character": "Chinbara",
+      "id": 225532,
+      "name": "Takafumi Imai",
+      "profilePath": "/lqHZFnoC8Nglw49FDKMIjo0bsBZ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 150812,
+      "logoPath": null,
+      "name": "Europe Kikaku"
+    },
+    {
+      "id": 115152,
+      "logoPath": null,
+      "name": "Tollywood Studio Project"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39715372",
+    "wikidataId": "Q140530702"
+  },
+  "fetchedAt": 1795373734473,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "id": 1631314,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "originalTitle": "君は映画",
+  "overview": "Madoka writes plays. Kazuma composes music. One day, they decide to go to the cinema. But once there, they realise they can interact through the screen itself, sending fiction into joyful freefall in an absurd and inventive adventure.",
+  "posterPath": "/doNshlf08vnOXWGAqEQlYOkATzP.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-10-23"
+    }
+  },
+  "runtime": 68,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "You Are the Film",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "kkSnlIxkNrc",
+      "name": "You are the Film 君は映画 (Directed by Makoto Ueda) trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "PL8qKTRZ5VI",
+      "name": "You are the Film 君は映画 (Directed by Makoto Ueda) teaser trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {}
+}

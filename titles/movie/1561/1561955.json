@@ -1,0 +1,170 @@
+{
+  "backdropPath": "/7cQjb8cRbRjF5tM5gOCnqsvC0iT.jpg",
+  "cast": [
+    {
+      "character": "Stephen",
+      "id": 5747150,
+      "name": "Gomathi Shankar",
+      "profilePath": "/pzzV0Tyl40o2Hg7Dq4MWAufwGN8.jpg"
+    },
+    {
+      "character": "Seema",
+      "id": 1810366,
+      "name": "Smruthi Venkat",
+      "profilePath": "/dpzzYk2fZxo0DAai2VTBQBpBLYv.jpg"
+    },
+    {
+      "character": "Michael Thangadurai",
+      "id": 580654,
+      "name": "Michael Thangadurai",
+      "profilePath": "/rG1dgqpDsMJC4fI5JcNmhtPk0OD.jpg"
+    },
+    {
+      "character": "Stephen's Mom",
+      "id": 5855863,
+      "name": "Vijayashree",
+      "profilePath": null
+    },
+    {
+      "character": "Stephen's Dad",
+      "id": 1422315,
+      "name": "Kuberan",
+      "profilePath": null
+    },
+    {
+      "character": "Krithika",
+      "id": 3073650,
+      "name": "Shrisha",
+      "profilePath": "/2yTUTZ1AhYBH0BT7bfj2KF1ABPx.jpg"
+    },
+    {
+      "character": "Mary",
+      "id": 2121282,
+      "name": "Harija",
+      "profilePath": "/jXnKqfivxA1prIPwm8yuOek0TUe.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 277168,
+      "logoPath": null,
+      "name": "JM Production House"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2025-12-05",
+  "externalIds": {
+    "imdbId": "tt38681567",
+    "wikidataId": "Q137259415"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1561955,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ta",
+      "name": "Tamil"
+    }
+  ],
+  "originalTitle": "ஸ்டீபன்",
+  "overview": "A psychiatrist evaluating a self-confessed serial killer unravels a twisted web of trauma, deceit, and psychological manipulation—only to question if the killer is truly guilty or just another victim in a larger, darker game.",
+  "posterPath": "/yUURUJzeSTc47T2VeNw7nZwZ8VJ.jpg",
+  "rating": 6.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-12-05",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-12-05"
+    }
+  },
+  "runtime": 124,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Stephen",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 25,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1561955/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1561955/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1561955/watch?locale=US",
+      "rent": []
+    }
+  }
+}

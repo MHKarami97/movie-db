@@ -1,0 +1,305 @@
+{
+  "backdropPath": "/fAF3VGFBpItWNROmiGob60n0y5.jpg",
+  "cast": [
+    {
+      "character": "Anne",
+      "id": 1001657,
+      "name": "Sophie Turner",
+      "profilePath": "/8ur4aHFakVCinWk0cvrGO8qAUhv.jpg"
+    },
+    {
+      "character": "Jago",
+      "id": 239019,
+      "name": "Kit Harington",
+      "profilePath": "/iGXlJbExWwZmo9sUDsYuzf4Sv4y.jpg"
+    },
+    {
+      "character": "Morwen",
+      "id": 4726,
+      "name": "Marcia Gay Harden",
+      "profilePath": "/5vxcHIHABJxqhweAsTiXVOhT4SE.jpg"
+    },
+    {
+      "character": "Seamus",
+      "id": 1699967,
+      "name": "Laurence O'Fuarain",
+      "profilePath": "/5r4Lp5xvDN0icYD1h85fAmMakG9.jpg"
+    },
+    {
+      "character": "Brother Penros",
+      "id": 1270111,
+      "name": "Jonathan Howard",
+      "profilePath": "/a02kAZBDWaFEnoN31oNsGsRtBv2.jpg"
+    },
+    {
+      "character": "Narrator",
+      "id": 6018713,
+      "name": "Catherine McDonough",
+      "profilePath": null
+    },
+    {
+      "character": "Young Jago",
+      "id": 6021510,
+      "name": "Zachary Cohen",
+      "profilePath": null
+    },
+    {
+      "character": "Young shipwreck sailor",
+      "id": 6021511,
+      "name": "Isidro-Lucking Dylan",
+      "profilePath": null
+    },
+    {
+      "character": "Older shipwreck sailor",
+      "id": 6021512,
+      "name": "Nik Harber",
+      "profilePath": null
+    },
+    {
+      "character": "Merchant",
+      "id": 6021514,
+      "name": "Jürgen Koenen",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 165669,
+      "logoPath": "/cZxXUx0W3YX1t0m7hRzXqRrRW80.png",
+      "name": "Black Magic"
+    },
+    {
+      "id": 7579,
+      "logoPath": "/a4siBqtQZuQacF2oku8KHrmokv3.png",
+      "name": "Redwire Pictures"
+    },
+    {
+      "id": 129701,
+      "logoPath": "/nrtnUmmMvTF68386l1vrEE6O7Tj.png",
+      "name": "StoryBoard Media"
+    },
+    {
+      "id": 45756,
+      "logoPath": null,
+      "name": "Illium Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-02-20",
+  "externalIds": {
+    "imdbId": "tt30842022",
+    "wikidataId": "Q131919305"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1242937,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Dreadful",
+  "overview": "In medieval England, Anne and her domineering mother-in-law Morwen struggle to survive on the outskirts of society. But when a man from Anne's past returns from war, a curse begins to take shape through a mysterious knight and threatens to destroy them all.",
+  "posterPath": "/nhhJkYau8nQMFgauvOudDjwj9vA.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-08-10",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-20",
+      "gapDays": 0,
+      "theatricalDate": "2026-02-20"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-08-10"
+    },
+    "US": {
+      "digital": "2026-02-20",
+      "theatricalLimited": "2026-02-20"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "In a country torn by war, survival comes at all costs… and darkness closes in.",
+  "theatricalDate": "2026-02-20",
+  "title": "The Dreadful",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "wqlS6E3yv0Q",
+      "name": "UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "KPBqxZPvYS0",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 85,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1242937-the-dreadful/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1242937-the-dreadful/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 331,
+          "logoPath": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+          "name": "FlixFling"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

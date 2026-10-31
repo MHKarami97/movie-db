@@ -1,0 +1,170 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Mason 'Cap' Hollow",
+      "id": 2879,
+      "name": "Rob Lowe",
+      "profilePath": "/uY0u865QqHqT0YBtwdBXFfVI6Hr.jpg"
+    },
+    {
+      "character": "Tommy Taffy",
+      "id": 1064,
+      "name": "Crispin Glover",
+      "profilePath": "/imBnLpSXvg61qDDdEfvL6R4ITKt.jpg"
+    },
+    {
+      "character": "Megan Hollow",
+      "id": 41901,
+      "name": "Roselyn Sánchez",
+      "profilePath": "/srU7Oi0P5F3IuEEk14gKZwzzMWu.jpg"
+    },
+    {
+      "character": "Matt",
+      "id": 5540922,
+      "name": "Rafael de Belligny",
+      "profilePath": "/aphHICTPmzf4DkX9NtSNJkO9pqy.jpg"
+    },
+    {
+      "character": "Stephanie",
+      "id": 3375693,
+      "name": "Bethany Milner",
+      "profilePath": null
+    },
+    {
+      "character": "John",
+      "id": 2154778,
+      "name": "Kevin Ezekiel Ogunleye",
+      "profilePath": "/1tmk9bZsoxCT3JJINetQSO8ae3w.jpg"
+    },
+    {
+      "character": "Kate",
+      "id": 2906446,
+      "name": "Kudra Owens",
+      "profilePath": null
+    },
+    {
+      "character": "Jimmy",
+      "id": 5258488,
+      "name": "Jack Roberts",
+      "profilePath": null
+    },
+    {
+      "character": "Yvonne",
+      "id": 5801519,
+      "name": "Nikolett Englert",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 213788,
+      "logoPath": null,
+      "name": "Enfant Terrible Cinema"
+    },
+    {
+      "id": 200470,
+      "logoPath": null,
+      "name": "Walters Media Group"
+    },
+    {
+      "id": 119153,
+      "logoPath": "/4QVWLiNT8svS71FU2qsRErGeIar.png",
+      "name": "Hero Squared"
+    },
+    {
+      "id": 188799,
+      "logoPath": null,
+      "name": "Lesnik Entertainment"
+    },
+    {
+      "id": 254078,
+      "logoPath": null,
+      "name": "Dowd Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt8702454",
+    "wikidataId": "Q133142226"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1206628,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Third Parent",
+  "overview": "A neighborhood Fourth of July celebration is interrupted by a ferociously bizarre anomaly who overpowers a family in order to teach them how to become better people and more compliant citizens.",
+  "posterPath": "/uYvh9huLAfWphuFLSl9HlAxWkIv.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-01-22"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2027-01-22"
+    }
+  },
+  "runtime": 98,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": "2027-01-22",
+  "title": "The Third Parent",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "pYVz5isHw6s",
+      "name": "The Third Parent | Official Teaser | Horror Brains",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

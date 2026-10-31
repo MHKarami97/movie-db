@@ -1,0 +1,142 @@
+{
+  "backdropPath": "/ApNGGi1ZPXds1pGfYxCoS9GLTZ0.jpg",
+  "cast": [
+    {
+      "character": "Anand",
+      "id": 1135117,
+      "name": "Naveen Chandra",
+      "profilePath": "/6iEhNOOqRTOQ0JFSiv6agtqvwx9.jpg"
+    },
+    {
+      "character": "Lalitha",
+      "id": 1517172,
+      "name": "Divya Pillai",
+      "profilePath": "/n0BfTrgMiF0pAHvwl4Q3xvjHWlL.jpg"
+    },
+    {
+      "character": "Ravana",
+      "id": 3727633,
+      "name": "Divi Vadthya",
+      "profilePath": "/tGbtd4mJFbWMNi3TDjqsj5Y1bj2.jpg"
+    },
+    {
+      "character": "Sarangapani",
+      "id": 585271,
+      "name": "Raja Ravindra",
+      "profilePath": "/87759xPmVF3K9UyVkvdUA7SfrQI.jpg"
+    },
+    {
+      "character": "",
+      "id": 5921413,
+      "name": "Jayanni",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 5921415,
+      "name": "Jayathri",
+      "profilePath": null
+    },
+    {
+      "character": "Acharya",
+      "id": 4402763,
+      "name": "Nalla Sreedhar Reddy Gabbar",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 285412,
+      "logoPath": null,
+      "name": "OVA Entertainments"
+    }
+  ],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39302439",
+    "wikidataId": "Q138357528"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1607762,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "te",
+      "name": "Telugu"
+    }
+  ],
+  "originalTitle": "హనీ",
+  "overview": "A broken family, a forbidden ritual, and a child trapped between reality and delusion. Honey exposes systemic abuse and spiritual madness, where the most terrifying monsters are painfully real.",
+  "posterPath": "/aiDE86ihhMcoDpcCLCHvuUDm0en.jpg",
+  "rating": 2.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-02-06"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-02-06"
+    }
+  },
+  "runtime": 118,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-02-06",
+  "title": "Honey",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1607762/watch?locale=GB",
+      "rent": []
+    }
+  }
+}

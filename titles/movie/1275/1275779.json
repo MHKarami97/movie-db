@@ -1,0 +1,569 @@
+{
+  "backdropPath": "/1e0KDRYKRPHiVNj8yQKYuU2jVyQ.jpg",
+  "cast": [
+    {
+      "character": "Margaret Fairchild",
+      "id": 5081,
+      "name": "Emily Blunt",
+      "profilePath": "/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+    },
+    {
+      "character": "Dr. Daniel Kellner",
+      "id": 1206334,
+      "name": "Josh O'Connor",
+      "profilePath": "/pVv0zCvpNyuWoJcABq8RrM90FsK.jpg"
+    },
+    {
+      "character": "Noah Scanlon",
+      "id": 5472,
+      "name": "Colin Firth",
+      "profilePath": "/z6wxnkqSTnzO1tcBui0ss7ehdm9.jpg"
+    },
+    {
+      "character": "Jane Blakenship",
+      "id": 933271,
+      "name": "Eve Hewson",
+      "profilePath": "/1OlMfQrXEujIPTBUWt3AM0J0hJa.jpg"
+    },
+    {
+      "character": "Hugo Wakefield",
+      "id": 91671,
+      "name": "Colman Domingo",
+      "profilePath": "/t0cgfvtA7Thxnrtj5baRi656zlc.jpg"
+    },
+    {
+      "character": "Jackson",
+      "id": 986808,
+      "name": "Wyatt Russell",
+      "profilePath": "/zIldBzXdBWskPZB7x35G2hYEVDo.jpg"
+    },
+    {
+      "character": "Casper Boyd",
+      "id": 513677,
+      "name": "Henry Lloyd-Hughes",
+      "profilePath": "/m8zSYF7KmQS0x0o7wnWSuWLc0LW.jpg"
+    },
+    {
+      "character": "Sister Maura",
+      "id": 126713,
+      "name": "Elizabeth Marvel",
+      "profilePath": "/zJaDO2YI0XHeUDB5onVSgAVrvg2.jpg"
+    },
+    {
+      "character": "Serena",
+      "id": 1218184,
+      "name": "Hettienne Park",
+      "profilePath": "/c5fZeiKZ6magmPWbLJkSjKm5oUX.jpg"
+    },
+    {
+      "character": "Santiago",
+      "id": 2088733,
+      "name": "Tommy Martinez",
+      "profilePath": "/hPPWLxCSoehYnDaOrC6O0HxXPjT.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 33,
+      "logoPath": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures"
+    },
+    {
+      "id": 56,
+      "logoPath": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+      "name": "Amblin Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-07-21",
+  "externalIds": {
+    "facebookId": "disclosuredayfilm",
+    "imdbId": "tt15047880",
+    "instagramId": "disclosureday",
+    "twitterId": "disclosureday",
+    "wikidataId": "Q126683577"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 39,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1275779,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ru",
+      "name": "Russian"
+    },
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "originalTitle": "Disclosure Day",
+  "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+  "posterPath": "/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+  "rating": 7.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-06-11"
+    },
+    "CN": {
+      "digitalDate": "2026-09-08",
+      "gapDays": 88,
+      "theatricalDate": "2026-06-12"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-06-10"
+    },
+    "US": {
+      "digitalDate": "2026-07-21",
+      "gapDays": 39,
+      "theatricalDate": "2026-06-12"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-06-11"
+    },
+    "CN": {
+      "digital": "2026-09-08",
+      "theatrical": "2026-06-12"
+    },
+    "GB": {
+      "premiere": "2026-06-04",
+      "theatrical": "2026-06-10"
+    },
+    "US": {
+      "digital": "2026-07-21",
+      "physical": "2026-08-25",
+      "theatrical": "2026-06-12"
+    }
+  },
+  "runtime": 146,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "We deserve to know.",
+  "theatricalDate": "2026-06-12",
+  "title": "Disclosure Day",
+  "translations": {
+    "faTitle": "روز افشاگری"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "CmBU273cN5c",
+      "name": "My Universal Story: Neema Sharma",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "UFqVdyGltPo",
+      "name": "It Is Not A Magic Wand - Bonus Feature",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "lrU4tzn4HlA",
+      "name": "How Emily Blunt Brings Margaret To Life - Bonus Feature",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "FI-nTaG1rDc",
+      "name": "The People Who Made It Possible - Bonus Feature",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "J6ourfpsB7E",
+      "name": "Behind The Boxcar Scene - Bonus Feature",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "wjWfYvtnm1w",
+      "name": "Emily Blunt's Incredible Performance - Bonus Feature",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "KPNYuXh_r9c",
+      "name": "Josh O'Connor's Driving Experience - Bonus Feature",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "8SXBXCFvXMg",
+      "name": "Why Steven Spielberg Told This Story - Bonus Feature",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "Lvx6eZoi96g",
+      "name": "How Steven Spielberg Created The Story - Bonus Feature",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "4Lkjgpk1ss4",
+      "name": "This Is Disclosure Day",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Iq6aqC8b5ec",
+      "name": "Steven Spielberg Reveals Wardex - Bonus Feature",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "T1fg57UfR9s",
+      "name": "Ready, Set, Action!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "hQcRQ1t3m3U",
+      "name": "Steven Spielberg's Incredible Filmmaking Process - Bonus Feature",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "J0ckIXA3WnQ",
+      "name": "\"People Deserve To Know The Truth\" - Extended Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "1gtRK1WxhzI",
+      "name": "Watch At Home Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "r2PC0ytcFoo",
+      "name": "Sustainability",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "16Mzfeh6bJY",
+      "name": "Colman Domingo is Hugo Wakefield",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "pD3dB2k-0LE",
+      "name": "Universal Below-The-Line Traineeship",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "gefhKcHJJbE",
+      "name": "Colin Firth on Disclosure Day",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "FDqOa3cOy6w",
+      "name": "You",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "a0VzTmh_nMY",
+      "name": "Emily Blunt and Josh O'Connor Talk Spielberg, Disclosure Day and Colin Firth",
+      "official": false,
+      "type": "Featurette"
+    },
+    {
+      "key": "TcjeX0CqKew",
+      "name": "Josh O'Connor on Disclosure Day",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "qOp8k4pCrDQ",
+      "name": "Eve Hewson on Disclosure Day",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ey5U4kM5y20",
+      "name": "Behind The Scenes Featurette",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "tQdAJzCPQpc",
+      "name": "Unveil the truth in IMAX.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ELwpg7jnTNk",
+      "name": "Fully deserved…",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "sWsXbSev2uY",
+      "name": "The world is watching.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "96Q3k8LzmsY",
+      "name": "Beyond the stars: Spielberg and the cast and crew behind Disclosure Day",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "gh8TlIwQ2uA",
+      "name": "Colin Firth, a UK national treasure, arrives at the UK Premiere of Spielberg's Disclosure Day.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "3ejHvLs2Iug",
+      "name": "The man behind your favourite movies, Steven Spielberg returns with DISCLOSURE DAY.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6nF0_5r7b68",
+      "name": "One man, with a shared truth. Josh O'Connor is ready for Disclosure Day in London.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "UkAFd9_81xw",
+      "name": "London's own, Emily Blunt at the UK Premiere of Disclosure Day",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "hUgwt9feiwU",
+      "name": "BTS Car Chase",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "NOnNDur5e9g",
+      "name": "Secrets",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "jIvRblu2OD4",
+      "name": "Full Disclosure",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "icDuEHSxE-w",
+      "name": "Final Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "1NsS9DslLq0",
+      "name": "Emily Blunt on Disclosure Day",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "8z0liKIe4Cc",
+      "name": "Everything",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "0xrZML_MYSY",
+      "name": "In cinemas June 10",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "hMgWqy3bvCQ",
+      "name": "Only in UK cinemas June 10",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "SCYT8vb2siQ",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "aAaCUtgbwG8",
+      "name": "A Fascinating Look with Steven Spielberg",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "cYXOEjB85HQ",
+      "name": "A First Look with Steven Spielberg",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "N32YL6wV2j0",
+      "name": "Big Game Spot",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "UFe6NRgoXCM",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 3907,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1275779-disclosure-day/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 386,
+          "logoPath": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+          "name": "Peacock Premium"
+        },
+        {
+          "id": 387,
+          "logoPath": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+          "name": "Peacock Premium Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1275779-disclosure-day/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

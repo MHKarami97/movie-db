@@ -1,0 +1,121 @@
+{
+  "backdropPath": "/1j1nQ4bE2mdBFaQo1RsxGjeBCtn.jpg",
+  "cast": [
+    {
+      "character": "Luca",
+      "id": 3177849,
+      "name": "Emanuele Maria Di Stefano",
+      "profilePath": "/fbtKs2bKR339Gwudq3aOFO5UmuS.jpg"
+    },
+    {
+      "character": "",
+      "id": 56843,
+      "name": "Valerio Mastandrea",
+      "profilePath": "/tE7JkSuyv2N8vtEN0YypsCAxW9B.jpg"
+    },
+    {
+      "character": "",
+      "id": 1822183,
+      "name": "Simona Senzacqua",
+      "profilePath": "/nAB3OCRC3twWIFyKSiTLvQS94fM.jpg"
+    },
+    {
+      "character": "",
+      "id": 1507975,
+      "name": "Roberta Mattei",
+      "profilePath": "/oEXmUHiTtKVmwQUrWLCdXRWqQZx.jpg"
+    },
+    {
+      "character": "",
+      "id": 6101259,
+      "name": "Gaia Merlonghi",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 10400,
+      "logoPath": "/9LlB2YAwXTkUAhx0pItSo6pDlkB.png",
+      "name": "Eagle Pictures"
+    },
+    {
+      "id": 28699,
+      "logoPath": "/vCqaf8TwyhBgpHBoCvCkoaGtrON.png",
+      "name": "Cinemaundici"
+    },
+    {
+      "id": 137923,
+      "logoPath": null,
+      "name": "Lungta Film"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt40071725",
+    "wikidataId": "Q141191689"
+  },
+  "fetchedAt": 1793504874718,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1632103,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "originalTitle": "La città dei vivi",
+  "overview": "Luca is twenty-three years old. He lives with an adoptive family who loves him. He moves between the suburbs and the city center with his friends and has a girlfriend with whom he shares a love that is young, yet significant for them both. Luca is searching for his path at an age when everything still feels possible and, at the same time, already lost; in this pursuit, he leads a double life. One night, after a seemingly chance encounter, the trajectory of Luca’s life is shattered, colliding with blind and senseless violence.",
+  "posterPath": "/kKu3wGJCAvRZKNEnJEEB5DctYnh.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 103,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The City of the Living",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 19,
+  "watchProviders": {}
+}

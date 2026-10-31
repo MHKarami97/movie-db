@@ -1,0 +1,453 @@
+{
+  "backdropPath": "/jlqan4iTqliIjIRivtqDDRJh2H5.jpg",
+  "cast": [
+    {
+      "character": "Lord Davenport",
+      "id": 20186,
+      "name": "Damian Lewis",
+      "profilePath": "/puOXtVatFnAxoOmsFO8z7KTfyJW.jpg"
+    },
+    {
+      "character": "Lady Davenport",
+      "id": 77795,
+      "name": "Katherine Waterston",
+      "profilePath": "/zaqbXjr5jE1DnEoyAHokUDoCKOM.jpg"
+    },
+    {
+      "character": "Rose",
+      "id": 1356758,
+      "name": "Thomasin McKenzie",
+      "profilePath": "/WOpnEFG5Q8LWxP81MtUrskmVox.jpg"
+    },
+    {
+      "character": "Eric",
+      "id": 2348365,
+      "name": "Ben Radcliffe",
+      "profilePath": "/b24QfBFJw4H83nwxW8hIWTgr8V3.jpg"
+    },
+    {
+      "character": "Archibald",
+      "id": 10993,
+      "name": "Tom Felton",
+      "profilePath": "/etmtUBzJ1i1XJTLS6MkotJFE1se.jpg"
+    },
+    {
+      "character": "Poppy",
+      "id": 2290611,
+      "name": "Emma Laird",
+      "profilePath": "/aBhm7z7fn0d1O7ed3vP0nZzCSSj.jpg"
+    },
+    {
+      "character": "Inspector Watt",
+      "id": 43034,
+      "name": "Tom Goodman-Hill",
+      "profilePath": "/3LhuG5oJ1ZBIaKdHZBVC9LFF2jK.jpg"
+    },
+    {
+      "character": "Darvesh Khalid",
+      "id": 178622,
+      "name": "Ramon Tikaram",
+      "profilePath": "/wtBLiI8tzeqPLMB9uswkyFhChva.jpg"
+    },
+    {
+      "character": "Cyril",
+      "id": 15740,
+      "name": "Tim McMullan",
+      "profilePath": "/7RaL5N5riQlgdjEvgK4hWJie4mc.jpg"
+    },
+    {
+      "character": "Mrs McAllister",
+      "id": 29236,
+      "name": "Anna Maxwell Martin",
+      "profilePath": "/vBAsZPe1tHPvVLViiDWYkb5k1Cu.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 208040,
+      "logoPath": null,
+      "name": "Mews Films"
+    },
+    {
+      "id": 210835,
+      "logoPath": "/sVHTeLGqzIsljtlKpJRDfPZ3Lhg.png",
+      "name": "Elysian Film Group"
+    },
+    {
+      "id": 114128,
+      "logoPath": "/cJ39EvHmQ7fDEUkiTMZUikhG2eM.png",
+      "name": "Two & Two Pictures"
+    },
+    {
+      "id": 274685,
+      "logoPath": "/dOi8cmvTdZbVFLidw11eR04XSUN.png",
+      "name": "Vacancy Films"
+    },
+    {
+      "id": 10039,
+      "logoPath": "/b8w4LldQolMKiLZw4FQJBcXSDGI.png",
+      "name": "Anonymous Content"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt29008225",
+    "wikidataId": "Q126004530"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1175174,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Fackham Hall",
+  "overview": "یک باربر جدید با کوچک‌ترین دختر یک خانواده سرشناس بریتانیایی، رابطه‌ای غیرمنتظره برقرار می‌کند. این در حالی است که خانواده داونپورت، به سرپرستی لرد و لیدی داونپورت، در حال...",
+  "posterPath": "/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg",
+  "rating": 6.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-12-26",
+      "gapDays": 14,
+      "theatricalDate": "2025-12-12"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-12-05"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2025-12-26",
+      "theatrical": "2025-12-12"
+    },
+    "US": {
+      "theatrical": "2025-12-05"
+    }
+  },
+  "runtime": 97,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Born to aristocracy. Bred for idiocy.",
+  "theatricalDate": "2025-12-05",
+  "title": "Fackham Hall",
+  "translations": {
+    "faOverview": "یک باربر جدید با کوچک‌ترین دختر یک خانواده سرشناس بریتانیایی، رابطه‌ای غیرمنتظره برقرار می‌کند. این در حالی است که خانواده داونپورت، به سرپرستی لرد و لیدی داونپورت، در حال...",
+    "faTitle": "فاکهام هال"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "ob4pT34cFC4",
+      "name": "Comedy is officially back with \"the funniest movie of 2025\"",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "IqoMNi6UPfI",
+      "name": "This Friday, watch FACKHAM HALL on demand - your prudish grandparents will hate it",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "qMI9SVsJsrY",
+      "name": "“Something hilarious in practically every shot” (Next Best Picture)",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "gh36uD2LG94",
+      "name": "Cinemas everywhere NOW",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9XCTj_XsSW0",
+      "name": "UK Cinemas everywhere Friday",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "AMe0BtcwhSg",
+      "name": "UK Cinemas everywhere Friday",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Vj91_U23P9Q",
+      "name": "Downton Abbey meets Airplane! in the “wildly funny laugh-a-second satire” now playing!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9UXnaoAk1qA",
+      "name": "Run to Theaters",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "al46kVOvKUs",
+      "name": "Critical Reviews",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "kYZLvm0iClY",
+      "name": "UK Cinemas everywhere 12th December",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "xJ4CERIwZrc",
+      "name": "Featurette",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "7DWObDgECBg",
+      "name": "Future of Fackham",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "-z5k17Q0LoY",
+      "name": "Bride & Groom",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "KGhNSVij4i8",
+      "name": "UK Cinemas everywhere 12th December",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Q2PuxYsfOjQ",
+      "name": "Don’t have your tickets to see FACKHAM HALL yet? The audacity of you fackers!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "iUIHGeaFNCM",
+      "name": "UK Cinemas everywhere 12th December",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "y78j4u_FIdU",
+      "name": "UK Cinemas everywhere 12th December",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "vrIrNOm9ZjY",
+      "name": "FACKHAM HALL is coming to US theaters December 5!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "_XhP-mmIPDY",
+      "name": "The Vicar",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "T2UJn0S2Fuo",
+      "name": "Meet the Davenports 🎩 They’ve been keeping it classy and in the family since...well, ever!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "wXnU9EJ8_5Y",
+      "name": "Tickets are on sale! Legion M members: don’t miss your Buy 2, Get 2 Free ticket offer!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "zztJyEY8VuQ",
+      "name": "Official UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "otp1nb3oE7c",
+      "name": "Jimmy Fallon x Jimmy Carr",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "J7uI29MOFzQ",
+      "name": "Guy Fox Day",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "rXl0NlTA42o",
+      "name": ":30 Dropped",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "g4aLyav45Sg",
+      "name": "Official Green Band Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "_HRsV3dHEpY",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 240,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1175174-fackham-hall/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1175174-fackham-hall/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

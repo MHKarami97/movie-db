@@ -1,0 +1,206 @@
+{
+  "backdropPath": "/6HBbzW5D7StUBRi0yO6ZEq9rNB5.jpg",
+  "cast": [
+    {
+      "character": "Ip Man",
+      "id": 130597,
+      "name": "Dennis To Yu-Hang",
+      "profilePath": "/xQ4wrXt4L5u9A9yfkN4s8RzPuOJ.jpg"
+    },
+    {
+      "character": "James",
+      "id": 3781713,
+      "name": "Philip Condron",
+      "profilePath": "/9UOSH64wTJONXJ3GWH39Ur6Oyjd.jpg"
+    },
+    {
+      "character": "Parker",
+      "id": 590919,
+      "name": "Steven Dasz",
+      "profilePath": "/AeNDnKWIvnPPeeaec7skalmEKoK.jpg"
+    },
+    {
+      "character": "",
+      "id": 1615354,
+      "name": "Lee Yiu-king",
+      "profilePath": "/cxT0uwf96a31jUp0bvF6uDZLsVO.jpg"
+    },
+    {
+      "character": "",
+      "id": 3913989,
+      "name": "Yan Yanlong",
+      "profilePath": "/a88ZFY3nHfqQjidRJH7HdtPoujk.jpg"
+    },
+    {
+      "character": "",
+      "id": 1261137,
+      "name": "Zhang Tingfei",
+      "profilePath": "/A8pKqfH3C3Qt7zX4LyHKGgpu7qM.jpg"
+    },
+    {
+      "character": "",
+      "id": 1801161,
+      "name": "Zhou Xiaofei",
+      "profilePath": "/eA5ysPj0Bi8JSE0TOXPug6rxwdz.jpg"
+    },
+    {
+      "character": "Lei Yihu",
+      "id": 6280271,
+      "name": "Addison Ford",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 288098,
+      "logoPath": null,
+      "name": "Kai Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38682795"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 1628071,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "originalTitle": "宗师叶问2",
+  "overview": "In 1950s Hong Kong, British merchants and Chinese triads have joined forces to expand their territory, forcibly demolishing factories without regard for public welfare. This move draws fierce opposition from Ip Man, standing up for the workers, he faces pressure from all sides. Framed for murder, he is sent to prison. Within the prison walls, the triads set multiple deadly traps. Can Ip Man overcome these trials, escape the danger, and clear his name?",
+  "posterPath": "/m3Low6jJrKXHSYFpXNkmYsG1Q6I.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-07-23"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-07-23"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-07-23",
+  "title": "Ip Man: Kung Fu Legend",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "cqlZSRvH7BU",
+      "name": "Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 32,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 623,
+          "logoPath": "/wonfCSSdI55EfVFlWJyyQZIlYx7.png",
+          "name": "WeTV"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1628071-2/watch?locale=AE",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2403,
+          "logoPath": "/mlciWnmFopns3WZGENR6ZZoNnZO.png",
+          "name": "Hi-YAH Amazon Channel"
+        },
+        {
+          "id": 623,
+          "logoPath": "/wonfCSSdI55EfVFlWJyyQZIlYx7.png",
+          "name": "WeTV"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1628071-2/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

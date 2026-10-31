@@ -1,0 +1,192 @@
+{
+  "backdropPath": "/9BTe8tU3OSA29Gn5487bVEGK44b.jpg",
+  "cast": [
+    {
+      "character": "Himself",
+      "id": 6345305,
+      "name": "Robert Evans",
+      "profilePath": null
+    },
+    {
+      "character": "Herself",
+      "id": 6345302,
+      "name": "Sophie Lichterman",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 304335,
+      "logoPath": null,
+      "name": "Cool Zone Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States"
+    }
+  ],
+  "digitalDate": "2018-05-01",
+  "externalIds": {
+    "imdbId": "tt16124372"
+  },
+  "fetchedAt": 1795726124140,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "id": 321421,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-11-24",
+    "episodeNumber": 885,
+    "id": 8111786,
+    "name": "CZM Rewind Part One: Curtis Yarvin: The Philosopher Behind J.D. Vance",
+    "overview": "Robert sits down with the great Ed Helms to discuss Curtis Yarvin, the American philosopher of dictatorship whose ideas inspired J.D. Vance.",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-26",
+    "episodeNumber": 886,
+    "id": 8111787,
+    "name": "CZM Rewind Part Two: Curtis Yarvin: The Philosopher Behind J.D. Vance",
+    "overview": "Robert concludes the story of Curtis Yarvin, and explains to Ed Helms how he went from pseudonymous weirdo with a blog to part of the right-wing power structure.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Behind the Bastards",
+  "overview": "There’s a reason the History Channel has produced hundreds of documentaries about Hitler but only a few about Dwight D. Eisenhower. Bad guys (and gals) are eternally fascinating. Behind the Bastards dives in past the Cliffs Notes of the worst humans in history and exposes the bizarre realities of their lives. Listeners will learn about the young adult novels that helped Hitler form his monstrous ideology, the founder of Blackwater’s insane quest to build his own Air Force, the bizarre lives of the sons and daughters of dictators and Saddam Hussein’s side career as a trashy romance novelist.",
+  "posterPath": "/k9bbO4oIl1xMFatWAbIDIcCGh6J.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2018-05-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2018-05-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2018-05-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2018-05-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2018-05-01"
+    },
+    "CN": {
+      "tv": "2018-05-01"
+    },
+    "GB": {
+      "tv": "2018-05-01"
+    },
+    "US": {
+      "tv": "2018-05-01"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2018-05-01",
+      "episodeCount": 894,
+      "name": "Season 1",
+      "overview": "Chronology of Episode Release",
+      "posterPath": "/qz2bnnKLrLhB32FWEeBzOCJIeBb.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Behind the Bastards",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/321421-behind-the-bastards/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/321421-behind-the-bastards/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/321421-behind-the-bastards/watch?locale=US",
+      "rent": []
+    }
+  }
+}

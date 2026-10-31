@@ -1,0 +1,180 @@
+{
+  "backdropPath": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+  "cast": [
+    {
+      "character": "Lilith (voice)",
+      "id": 591835,
+      "name": "Ali Wong",
+      "profilePath": "/vpVDlzPIIzgwdO23MbbwvfmPtXQ.jpg"
+    },
+    {
+      "character": "Cinderella (voice)",
+      "id": 71070,
+      "name": "Amanda Seyfried",
+      "profilePath": "/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
+    },
+    {
+      "character": "Margot (voice)",
+      "id": 1381186,
+      "name": "Stephanie Hsu",
+      "profilePath": "/8gb3lfIHKQAGOQyeC4ynQPsCiHr.jpg"
+    },
+    {
+      "character": "Fairy Godmother (voice)",
+      "id": 73931,
+      "name": "Bette Midler",
+      "profilePath": "/ooPKeoLvwacY6BRj99u7uvZCYlF.jpg"
+    },
+    {
+      "character": "Priscilla (voice)",
+      "id": 552243,
+      "name": "Nikki Glaser",
+      "profilePath": "/zF2UyqN6000VpUkgXVnM9JHuAhW.jpg"
+    },
+    {
+      "character": "Roderick (voice)",
+      "id": 22970,
+      "name": "Peter Dinklage",
+      "profilePath": "/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+    },
+    {
+      "character": "The Prince (voice)",
+      "id": 10980,
+      "name": "Daniel Radcliffe",
+      "profilePath": "/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+    },
+    {
+      "character": "Gef (voice)",
+      "id": 2569691,
+      "name": "Young Mazino",
+      "profilePath": "/cRuVRx1DMe2hBkz5pssVqdpCtaQ.jpg"
+    },
+    {
+      "character": "Cracktor (voice)",
+      "id": 1957131,
+      "name": "Luis Martinez",
+      "profilePath": "/7SFDHneUnbTVbtlN90tKPHIbrVB.jpg"
+    },
+    {
+      "character": "Herald (voice)",
+      "id": 59223,
+      "name": "Bruce Nozick",
+      "profilePath": "/vBJoGttECEWVt28HtupPmrNOst1.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 24022,
+      "logoPath": "/aIjT1pYb83Hluuq39idD41r71ze.png",
+      "name": "Paper Kite Productions"
+    },
+    {
+      "id": 171251,
+      "logoPath": "/AqUAfMC270bGGK09Nh3mycwT1hY.png",
+      "name": "Netflix Animation Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-20",
+  "externalIds": {
+    "imdbId": "tt14413964",
+    "wikidataId": "Q140324214"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "id": 1595124,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Steps",
+  "overview": "Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella — and a surprisingly dreamy troll — to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
+  "posterPath": "/8Kj6Fsgdsdr7XsxrgHwIlSFF1fz.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-20",
+      "gapDays": 0,
+      "theatricalDate": "2026-11-20"
+    },
+    "US": {
+      "digitalDate": "2026-11-20",
+      "gapDays": 0,
+      "theatricalDate": "2026-11-20"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-11-20",
+      "theatricalLimited": "2026-11-20"
+    },
+    "US": {
+      "digital": "2026-11-20",
+      "theatricalLimited": "2026-11-20"
+    }
+  },
+  "runtime": 102,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "At midnight, we ride.",
+  "theatricalDate": "2026-11-20",
+  "title": "Steps",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "tNV4i3BqUGY",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "Y0RW8EW08Dk",
+      "name": "Official Teaser Trailer",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

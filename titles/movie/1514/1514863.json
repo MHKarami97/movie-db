@@ -1,0 +1,213 @@
+{
+  "backdropPath": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+  "cast": [
+    {
+      "character": "Maya Krishnaraj",
+      "id": 2602879,
+      "name": "Maitreyi Ramakrishnan",
+      "profilePath": "/dkhYjeCU5ByYKxAr2wtXz20vb60.jpg"
+    },
+    {
+      "character": "Anjali",
+      "id": 5065456,
+      "name": "Priyanka Kedia",
+      "profilePath": "/7ZJ4OszAo0Y0cbKiZyxSm8fxcj9.jpg"
+    },
+    {
+      "character": "Ronak",
+      "id": 2707475,
+      "name": "Ankur Rathee",
+      "profilePath": "/5ZR7jiE4cGhaM6ZqBS6R7N7h5Q7.jpg"
+    },
+    {
+      "character": "Arjun",
+      "id": 2223751,
+      "name": "Chaneil Kular",
+      "profilePath": "/b6TmM2wcVntDMJGZWQM3ftshhIi.jpg"
+    },
+    {
+      "character": "Deepica",
+      "id": 3221816,
+      "name": "Shreya Navile",
+      "profilePath": "/zSAyBphLIDxtKN78YRNHzgq5VbL.jpg"
+    },
+    {
+      "character": "Dimple",
+      "id": 5650364,
+      "name": "Becky Alex",
+      "profilePath": "/2VtL4c60ElZX7HEFKWcoAuGKoKz.jpg"
+    },
+    {
+      "character": "Nirbhay",
+      "id": 4224830,
+      "name": "Nihar Duvvuri",
+      "profilePath": "/orcNFUgGCRY4XzLbe2PznOSkxr3.jpg"
+    },
+    {
+      "character": "Harry",
+      "id": 1720948,
+      "name": "Nico Greetham",
+      "profilePath": "/xiF00qwPVP7FaKWZOAKckQbuSwx.jpg"
+    },
+    {
+      "character": "Sumi",
+      "id": 5391942,
+      "name": "Amryn Khurana",
+      "profilePath": "/h60Aq989JDaefmdDol3XfUDgI5l.jpg"
+    },
+    {
+      "character": "Vishal",
+      "id": 4533848,
+      "name": "Tanishq Joshi",
+      "profilePath": "/mjA2mQhn1MADqzX2YTpOL0MT3UC.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 183717,
+      "logoPath": null,
+      "name": "186K Films"
+    },
+    {
+      "id": 118854,
+      "logoPath": "/g9LPNlQFoDcHjfnvrEqFmeIaDrZ.png",
+      "name": "Rideback"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-09-18",
+  "externalIds": {
+    "imdbId": "tt16478058",
+    "wikidataId": "Q141520590"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1514863,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "hi",
+      "name": "Hindi"
+    }
+  ],
+  "originalTitle": "Best of the Best",
+  "overview": "Two childhood besties join UCLA's competitive Bollywood-fusion dance team, only to find the road to the US championships is fiercer than they imagined.",
+  "posterPath": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-09-18",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-18",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-09-18"
+    },
+    "US": {
+      "digital": "2026-09-18"
+    }
+  },
+  "runtime": 112,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "It takes two to take over.",
+  "theatricalDate": null,
+  "title": "Best of the Best",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "PuNATO-6a9U",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 95,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=US",
+      "rent": []
+    }
+  }
+}

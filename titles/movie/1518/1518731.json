@@ -1,0 +1,150 @@
+{
+  "backdropPath": "/frsonlLS5QyySO8CK4CyRPOdkRP.jpg",
+  "cast": [
+    {
+      "character": "Argyro",
+      "id": 4259342,
+      "name": "Hara Kyriazi",
+      "profilePath": "/4GfjwnPwe0ujMbQaV6ilwZvqbOI.jpg"
+    },
+    {
+      "character": "Anneta",
+      "id": 4259343,
+      "name": "Pamela Oikonomaki",
+      "profilePath": "/ePryFrTZ1qLAyd2mdWXgFGXE5N7.jpg"
+    },
+    {
+      "character": "Suocera di Anneta",
+      "id": 5614410,
+      "name": "Sofia Linospori",
+      "profilePath": "/hfFO4b39lBghm86iCVTxDsYDlHa.jpg"
+    },
+    {
+      "character": "Nonna di Anneta",
+      "id": 5614412,
+      "name": "Vaso Gkougkara",
+      "profilePath": "/v4vIPRKpJIrvAkFPi4t2V4AQolL.jpg"
+    },
+    {
+      "character": "Padre di Argyro",
+      "id": 2484641,
+      "name": "Leyteris Tsatsis",
+      "profilePath": "/vlsmOqFxrtjedO8fssjgWPyWwBX.jpg"
+    },
+    {
+      "character": "Mike",
+      "id": 5614415,
+      "name": "Sozos Christou",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 208067,
+      "logoPath": null,
+      "name": "Pame Ligo Collective"
+    },
+    {
+      "id": 270547,
+      "logoPath": null,
+      "name": "Pucci Productions"
+    },
+    {
+      "id": 7254,
+      "logoPath": "/hDJO96mUfqtB9ia7ef7mEvguPxl.png",
+      "name": "Greek Film Centre"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GR",
+      "name": "Greece"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33400312",
+    "instagramId": "bearcavefilm",
+    "wikidataId": "Q137004397"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1518731,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "el",
+      "name": "Greek"
+    }
+  ],
+  "originalTitle": "Αρκουδότρυπα",
+  "overview": "Set in the Greek mountain village of Tirna, Bearcave follows Argyro, a badass farmer, and her best friend Anneta, the village \"it\" girl and local manicurist. Once Anneta admits that she's pregnant and planning to leave town with her lame cop boyfriend, Argyro challenges Anneta to embark on an adventure to find the mystical bear cave. Before Argyro has a chance to confess her own love, Anneta leaves for her new life in the big city. Argyro is left broken. Meanwhile, in her new home with her clingy mother-in-law, Anneta quickly realizes her destiny lies elsewhere.",
+  "posterPath": "/mjPIT3q6Av9WdKmLuyaDdYugy6d.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-03-24"
+    },
+    "US": {
+      "premiere": "2025-10-18"
+    }
+  },
+  "runtime": 121,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Bearcave",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "SQQGxmHX4Bc",
+      "name": "Αρκουδότρυπα (Bearcave) Trailer | GR Subs | Cinobo",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {}
+}

@@ -1,0 +1,224 @@
+{
+  "backdropPath": "/9MJifKtwH3hSDPSqguyvFfgdmtA.jpg",
+  "cast": [
+    {
+      "character": "June",
+      "id": 15735,
+      "name": "Helen Mirren",
+      "profilePath": "/1reKRrsdsHXJaRVHVyOEg4oPTcZ.jpg"
+    },
+    {
+      "character": "Helen",
+      "id": 3051,
+      "name": "Toni Collette",
+      "profilePath": "/lzXRh16qe4HHeBN6tMyw0DHvaMn.jpg"
+    },
+    {
+      "character": "Connor",
+      "id": 137108,
+      "name": "Johnny Flynn",
+      "profilePath": "/tS3HIDFJbD8uSLAvaxZfrPc3aM0.jpg"
+    },
+    {
+      "character": "Molly",
+      "id": 127558,
+      "name": "Andrea Riseborough",
+      "profilePath": "/dQzAXj6R8cTRqTwGzxUgegXbV13.jpg"
+    },
+    {
+      "character": "Bernie",
+      "id": 9191,
+      "name": "Timothy Spall",
+      "profilePath": "/pcR6t8kpAgGwIUo4UjlP5gyKkNA.jpg"
+    },
+    {
+      "character": "Julia",
+      "id": 204,
+      "name": "Kate Winslet",
+      "profilePath": "/6qNnMsKtKz9si5rabpUEG85UfHp.jpg"
+    },
+    {
+      "character": "Nurse Angel",
+      "id": 1611987,
+      "name": "Fisayo Akinade",
+      "profilePath": "/oO3cyfiPcKSrBrk1kXanPhxSKPK.jpg"
+    },
+    {
+      "character": "Jerry",
+      "id": 39189,
+      "name": "Stephen Merchant",
+      "profilePath": "/6WM2rK6390Nwk398syJbGcPvRct.jpg"
+    },
+    {
+      "character": "Dr. David Titford",
+      "id": 3555,
+      "name": "Jeremy Swift",
+      "profilePath": "/muRh4WbyEE4S2763bv777ywpKP3.jpg"
+    },
+    {
+      "character": "Dr. Simon Khal",
+      "id": 440943,
+      "name": "Raza Jaffrey",
+      "profilePath": "/kOgrGMKiX2DOQtRIJtfPfntJq39.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 10163,
+      "logoPath": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+      "name": "Working Title"
+    },
+    {
+      "id": 280463,
+      "logoPath": null,
+      "name": "55 Jugglers"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2025-12-24",
+  "externalIds": {
+    "imdbId": "tt35766629",
+    "wikidataId": "Q133311073"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 12,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1435092,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Goodbye June",
+  "overview": "داستان چند خواهر و برادر که باید تحت شرایط سخت و طاقت فرسا، کنار یکدیگر باشند و تصمیمات درست بگیرند.",
+  "posterPath": "/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
+  "rating": 6.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-12-24",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-12-24",
+      "gapDays": 12,
+      "theatricalDate": "2025-12-12"
+    },
+    "US": {
+      "digitalDate": "2025-12-24",
+      "gapDays": 12,
+      "theatricalDate": "2025-12-12"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2025-12-24"
+    },
+    "GB": {
+      "digital": "2025-12-24",
+      "premiere": "2025-11-11",
+      "theatricalLimited": "2025-12-12"
+    },
+    "US": {
+      "digital": "2025-12-24",
+      "theatricalLimited": "2025-12-12"
+    }
+  },
+  "runtime": 116,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A good goodbye... It's all that matters.",
+  "theatricalDate": "2025-12-12",
+  "title": "Goodbye June",
+  "translations": {
+    "faOverview": "داستان چند خواهر و برادر که باید تحت شرایط سخت و طاقت فرسا، کنار یکدیگر باشند و تصمیمات درست بگیرند.",
+    "faTitle": "خداحافظ جون"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "gSYQyAETbdU",
+      "name": "Kate Winslet Talks Goodbye June, Directing, and More | Skip Intro",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "vIDoYSWCuzQ",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 165,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1435092-goodbye-june/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1435092-goodbye-june/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1435092-goodbye-june/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "backdropPath": "/oBnXYbdvloYAHttptpASZYmztft.jpg",
+  "cast": [
+    {
+      "character": "Judith 'Judy' Heumann",
+      "id": 1491590,
+      "name": "Ruth Madeley",
+      "profilePath": "/jSft5EhXFW04uOt2ysJId1SA3h6.jpg"
+    },
+    {
+      "character": "Joseph Califano",
+      "id": 103,
+      "name": "Mark Ruffalo",
+      "profilePath": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+      "character": "Evan White",
+      "id": 527393,
+      "name": "Dylan O'Brien",
+      "profilePath": "/xN3GdvIlqsR838gDoblhPH0numP.jpg"
+    },
+    {
+      "character": "Kitty Cone",
+      "id": 5554500,
+      "name": "Madeline Delp",
+      "profilePath": null
+    },
+    {
+      "character": "Congressman Miller",
+      "id": 1091324,
+      "name": "Rob Delaney",
+      "profilePath": "/xirfT1znRkkughLiPemKu3NhkKQ.jpg"
+    },
+    {
+      "character": "Chuck Jackson",
+      "id": 1313559,
+      "name": "Ray Fisher",
+      "profilePath": "/310snvA05xDOQZDn2fJSp242GHw.jpg"
+    },
+    {
+      "character": "Ed Roberts",
+      "id": 1445659,
+      "name": "Michael Patrick Thornton",
+      "profilePath": "/t7Z7ubKXOi58K1Li4lcMJk0RkXN.jpg"
+    },
+    {
+      "character": "Brad Lomax",
+      "id": 5554488,
+      "name": "Antwan Tolliver",
+      "profilePath": null
+    },
+    {
+      "character": "Steve McCleeland",
+      "id": 1514387,
+      "name": "Daniel Durant",
+      "profilePath": "/iG1GRiYy3JGlnoBKSnuNF6umtp6.jpg"
+    },
+    {
+      "character": "Jim Pechin",
+      "id": 1175676,
+      "name": "Jon Beavers",
+      "profilePath": "/kUrejsnBmD5eUSm4ftapOiFUqML.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 455,
+      "logoPath": "/x1Jn5NQmf9ptuqRh5lqCQk2kSlg.png",
+      "name": "Permut Presentations"
+    },
+    {
+      "id": 186656,
+      "logoPath": null,
+      "name": "Gravity Squared Entertainment"
+    },
+    {
+      "id": 194232,
+      "logoPath": "/oE7H93u8sy5vvW5EH3fpCp68vvB.png",
+      "name": "Apple Studios"
+    },
+    {
+      "id": 14320,
+      "logoPath": null,
+      "name": "The Walsh Company"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-12",
+  "externalIds": {
+    "imdbId": "tt15095848",
+    "wikidataId": "Q135644103"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 6,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "id": 1050981,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Being Heumann",
+  "overview": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken—not us.",
+  "posterPath": "/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-11-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-12",
+      "gapDays": 6,
+      "theatricalDate": "2026-11-06"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-11-13"
+    },
+    "GB": {
+      "digital": "2026-11-13",
+      "premiere": "2026-10-12"
+    },
+    "US": {
+      "digital": "2026-11-12",
+      "premiere": "2026-10-24",
+      "theatricalLimited": "2026-11-06"
+    }
+  },
+  "runtime": 127,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Based on a true revolution.",
+  "theatricalDate": "2026-11-06",
+  "title": "Being Heumann",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "CQp2pUXLvJk",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "9INUY8uKRyU",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

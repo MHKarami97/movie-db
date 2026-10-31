@@ -1,0 +1,252 @@
+{
+  "backdropPath": "/AsnZYgCKfB4OXvzoJrw4Ld7mp89.jpg",
+  "cast": [
+    {
+      "character": "Mosley Rosin",
+      "id": 5579923,
+      "name": "Kevin Singh",
+      "profilePath": null
+    },
+    {
+      "character": "Insurance Woman",
+      "id": 2853662,
+      "name": "Claire Theobald",
+      "profilePath": null
+    },
+    {
+      "character": "Man in Commercial",
+      "id": 1937030,
+      "name": "Donovan Workun",
+      "profilePath": null
+    },
+    {
+      "character": "Ahmed Ahmed",
+      "id": 6148343,
+      "name": "Ahmed Ahmed",
+      "profilePath": null
+    },
+    {
+      "character": "Brandon",
+      "id": 6148346,
+      "name": "Brandon Vanderwall",
+      "profilePath": null
+    },
+    {
+      "character": "Woman In Mattress Commercial",
+      "id": 6148348,
+      "name": "Siobhan Theobald",
+      "profilePath": null
+    },
+    {
+      "character": "Jennifer Joy Avery",
+      "id": 6148350,
+      "name": "Allison Bench",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6248561,
+      "name": "Ben Bauce",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6248562,
+      "name": "Dino Primo",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6248563,
+      "name": "Katie Yoner",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 179367,
+      "logoPath": "/v9b82VoLOKuYgMu92BHGWGMrIRI.png",
+      "name": "Peterson Polaris"
+    },
+    {
+      "id": 298016,
+      "logoPath": null,
+      "name": "Bebo Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2026-05-08",
+  "externalIds": {
+    "imdbId": "tt37671737",
+    "instagramId": "buffetinfinitymovie",
+    "wikidataId": "Q135488872"
+  },
+  "fetchedAt": 1793504874718,
+  "gapDays": 14,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1495041,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Buffet Infinity",
+  "overview": "When a massive monster buffet threatens their Alberta county, local business owners star in low-budget TV commercials that mask a dark conspiracy and unleash terrifying supernatural powers.",
+  "posterPath": "/c9h2p2qBSb5ThgBtNPWZNQDqvEX.jpg",
+  "rating": 4.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-08",
+      "gapDays": 14,
+      "theatricalDate": "2026-04-24"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-05-08",
+      "premiere": "2026-03-18",
+      "theatricalLimited": "2026-04-24"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "You are on the menu.",
+  "theatricalDate": "2026-04-24",
+  "title": "Buffet Infinity",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "9OFRihhrbEU",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 26,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1854,
+          "logoPath": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 635,
+          "logoPath": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+          "name": "AMC+ Roku Premium Channel"
+        },
+        {
+          "id": 526,
+          "logoPath": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+          "name": "AMC+"
+        },
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1495041-buffet-infinity/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

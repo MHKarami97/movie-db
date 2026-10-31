@@ -1,0 +1,163 @@
+{
+  "backdropPath": "/fEaR0uvRZluIEEPtDuaL7CkYsCJ.jpg",
+  "cast": [
+    {
+      "character": "Ram Damodar 'Radarr'",
+      "id": 930728,
+      "name": "Dileep",
+      "profilePath": "/5DirIZGTvLfBJOt2zOfBlb0bIsz.jpg"
+    },
+    {
+      "character": "Noble Joseph",
+      "id": 989480,
+      "name": "Vineeth Sreenivasan",
+      "profilePath": "/yM1QOwiYHAcL2FwHlHBV2esBA9m.jpg"
+    },
+    {
+      "character": "Godson Ancharakandy",
+      "id": 1274870,
+      "name": "Dhyan Sreenivasan",
+      "profilePath": "/5osJr8O74M3dq5GqbOfDGuSAIJx.jpg"
+    },
+    {
+      "character": "Ghilli Bala \"Balettan\"",
+      "id": 82732,
+      "name": "Mohanlal",
+      "profilePath": "/wvoBULQimwguAGPOHZ8TDoy7jBJ.jpg"
+    },
+    {
+      "character": "ACP Ashkar Ahammed",
+      "id": 2112010,
+      "name": "Sandy",
+      "profilePath": "/hyZHicpeea7dtOBUo7nuCEYXsS2.jpg"
+    },
+    {
+      "character": "Vaavamani",
+      "id": 584504,
+      "name": "Saranya Ponvannan",
+      "profilePath": "/iFKB2AQi0iL78HykQlaSFLxErfA.jpg"
+    },
+    {
+      "character": "Damodar",
+      "id": 1186670,
+      "name": "Sidharth Bharathan",
+      "profilePath": "/4a13KELmZuB4NnRlOsdzMfo2K7j.jpg"
+    },
+    {
+      "character": "Mahi",
+      "id": 1418585,
+      "name": "Balu Varghese",
+      "profilePath": "/v1Ydyfxe3bFxXiHB4cU5Hmoh5hV.jpg"
+    },
+    {
+      "character": "Yogi B.",
+      "id": 2860067,
+      "name": "Redin Kingsley",
+      "profilePath": "/JX9ukTnXCNBlsbQeHGY85qf3du.jpg"
+    },
+    {
+      "character": "Shekhar",
+      "id": 1868474,
+      "name": "Shameer Khan",
+      "profilePath": "/9Itf9zkDofkuASocyJVs2FR1W3q.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 77110,
+      "logoPath": "/aveCRL8JTDHiH8gZWUafwO74WuK.png",
+      "name": "Sree Gokulam Movies"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "facebookId": "bhabhabafilm",
+    "imdbId": "tt28551273",
+    "instagramId": "bhabhabafilm",
+    "twitterId": "bhabhabafilm",
+    "wikidataId": "Q130164696"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 1196995,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ml",
+      "name": "Malayalam"
+    }
+  ],
+  "originalTitle": "ഭ. ഭ. ബ.",
+  "overview": "After the Chief Minister of Kerala is kidnapped, a determined investigator is brought in to track down the mysterious abductor, uncovering hidden motives and secrets behind the crime.",
+  "posterPath": "/vvPcXLOYbsGOybnmNTALOpAmeOT.jpg",
+  "rating": 3.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-12-18"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2025-12-18"
+    }
+  },
+  "runtime": 150,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Bhayam Bhakthi Bahumanam",
+  "theatricalDate": "2025-12-18",
+  "title": "Bha. Bha. Ba.",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 6,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 232,
+          "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+          "name": "Zee5"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1196995/watch?locale=AE",
+      "rent": []
+    }
+  }
+}

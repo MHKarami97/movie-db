@@ -1,0 +1,320 @@
+{
+  "backdropPath": "/6QVapcY48LwhSTsC2VZzKWrEyQ6.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 4499555,
+      "name": "Kenya Sade",
+      "profilePath": "/uOMZWRkyxdeT12WMBJjJ3qfw0Ue.jpg"
+    },
+    {
+      "character": "Self - Host",
+      "id": 3876268,
+      "name": "Laura Vicente",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Host",
+      "id": 4062530,
+      "name": "Dedé Teicher",
+      "profilePath": "/kPgfNyRreqd7CUi3XCWz4h4djck.jpg"
+    },
+    {
+      "character": "Self - Host",
+      "id": 4055080,
+      "name": "Guilherme Guedes",
+      "profilePath": "/ubURusQYreox66JBSzYIlHSBBRY.jpg"
+    },
+    {
+      "character": "Self - Host",
+      "id": 6462122,
+      "name": "Flávio Augusto Câmara",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 217450,
+      "logoPath": "/1Hla5bdSb9fTOxjBuL46njUDQyX.png",
+      "name": "Rock World"
+    },
+    {
+      "id": 46430,
+      "logoPath": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "digitalDate": "1985-01-11",
+  "episodes": {
+    "11": [
+      {
+        "airDate": "2026-09-04",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-09-05",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-09-06",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-09-07",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-09-11",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-09-12",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-09-13",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ],
+    "12": [
+      {
+        "airDate": "2028-09-08",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "RockInRio",
+    "imdbId": "tt2056217",
+    "instagramId": "rockinrio",
+    "twitterId": "rockinrio",
+    "wikidataId": "Q1133749"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 334295,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-09-13",
+    "episodeNumber": 7,
+    "id": 7777996,
+    "name": "Episode 7",
+    "overview": "",
+    "seasonNumber": 11
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2028-09-08",
+    "episodeNumber": 1,
+    "id": 7804800,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 12
+  },
+  "originalTitle": "Rock in Rio",
+  "overview": "",
+  "posterPath": "/n8Z5nYTmYL03NTD4AdpJydAC2d3.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1985-01-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1985-01-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1985-01-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1985-01-11",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1985-01-11"
+    },
+    "CN": {
+      "tv": "1985-01-11"
+    },
+    "GB": {
+      "tv": "1985-01-11"
+    },
+    "US": {
+      "tv": "1985-01-11"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "1985-01-11",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1991-01-18",
+      "episodeCount": 1,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2001-01-12",
+      "episodeCount": 1,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2011-09-23",
+      "episodeCount": 1,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2013-09-13",
+      "episodeCount": 1,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2015-09-18",
+      "episodeCount": 1,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2017-09-15",
+      "episodeCount": 1,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2019-09-27",
+      "episodeCount": 1,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2022-09-02",
+      "episodeCount": 1,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2024-09-13",
+      "episodeCount": 1,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2026-09-03",
+      "episodeCount": 7,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": "/n8Z5nYTmYL03NTD4AdpJydAC2d3.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2028-09-08",
+      "episodeCount": 1,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Rock in Rio",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

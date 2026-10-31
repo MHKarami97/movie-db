@@ -1,0 +1,99 @@
+{
+  "backdropPath": "/1UmG3EaiOmraxJdQ5ZpxBwjR25h.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 446511,
+      "name": "Shakira",
+      "profilePath": "/20k7YtDH2iU3KdAysdDPlZz7uhf.jpg"
+    },
+    {
+      "character": "Self : Guest",
+      "id": 1959397,
+      "name": "Dua Lipa",
+      "profilePath": "/aCZmliGT5oDGiF8aKvxFbct5JQm.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 119091,
+      "logoPath": "/h247vywkx9hwWoqwVm5pjjK0qnq.png",
+      "name": "Amazon Music"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-03",
+  "externalIds": {
+    "imdbId": "tt48093559"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1786196,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Shakira Live from Madrid",
+  "overview": "This musical release from pop singer Shakira captures a live performance by the artist, recorded live in Madrid. Proudly presented by Amazon Music.",
+  "posterPath": "/hfeqYyDWdxfrVSvR18MDqNgJVNU.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-10-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-10-03"
+    },
+    "US": {
+      "digital": "2026-10-03"
+    }
+  },
+  "runtime": 120,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Shakira Live from Madrid",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

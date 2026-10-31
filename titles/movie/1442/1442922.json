@@ -1,0 +1,168 @@
+{
+  "backdropPath": "/2stEL3ibnjg9B9Rjr0U4CyuYc5Z.jpg",
+  "cast": [
+    {
+      "character": "Fred",
+      "id": 5599857,
+      "name": "Stella Wendick",
+      "profilePath": "/5DCGqPlCP3gYoj06hCRWdXO8oPP.jpg"
+    },
+    {
+      "character": "Antero",
+      "id": 5599859,
+      "name": "Giacomo Covi",
+      "profilePath": "/saNTZG8rcB83ErgMZqBk1zpEYjn.jpg"
+    },
+    {
+      "character": "Pasini",
+      "id": 5599860,
+      "name": "Pietro Giustolisi",
+      "profilePath": "/eMtrK9XufwXnzf7YMKUBUm1wRxt.jpg"
+    },
+    {
+      "character": "Mitis",
+      "id": 5599861,
+      "name": "Samuel Volturno",
+      "profilePath": null
+    },
+    {
+      "character": "Padre di Fred",
+      "id": 143391,
+      "name": "Magnus Krepper",
+      "profilePath": "/xFN9sb8S2fjcUtbWvzTxoLH4QUJ.jpg"
+    },
+    {
+      "character": "Prof.ssa Banti",
+      "id": 1699131,
+      "name": "Silvia Gallerano",
+      "profilePath": "/xm0c4tuPWiqkLzMAhibw9ZoeDZ4.jpg"
+    },
+    {
+      "character": "Prof. Parmeggiani",
+      "id": 1319924,
+      "name": "Maurizio Zacchigna",
+      "profilePath": "/iY4tsxOdxqQftQJf4UEok75DgjF.jpg"
+    },
+    {
+      "character": "Bidello",
+      "id": 2200613,
+      "name": "Paolo Fagiolo",
+      "profilePath": null
+    },
+    {
+      "character": "Alice",
+      "id": 5676288,
+      "name": "Sofia Mercandel",
+      "profilePath": null
+    },
+    {
+      "character": "Valeria",
+      "id": 5676289,
+      "name": "Luna Isabel Perosa Perez",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 68131,
+      "logoPath": "/hNCfPQsVIxf7qmM0ffQcZOpmJTX.png",
+      "name": "Nefertiti Film"
+    },
+    {
+      "id": 155990,
+      "logoPath": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema"
+    },
+    {
+      "id": 157169,
+      "logoPath": "/c0cF896fsU7dBXQFTjvmRbRM78Y.png",
+      "name": "Tomsa Films"
+    },
+    {
+      "id": 94,
+      "logoPath": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt31778123",
+    "wikidataId": "Q136238988"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1442922,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "sv",
+      "name": "Swedish"
+    },
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "originalTitle": "Un anno di scuola",
+  "overview": "2007. Fred, a 17-year-old girl who just moved from Sweden to Northeast Italy, enrolls for her high school senior year—finding herself the only female student in an all-male class. Lively and good-looking, she quickly becomes the center of attention, especially for three classmates: Antero, charming and reserved; Pasini, a cocky womanizer; Mitis, gruff and sagacious. The three have been best friends for as long as they can remember, but Fred's arrival puts their longstanding bond to the test. As each of the guys secretly desires Fred for himself, she yearns to be accepted into the group and be considered 'one of them', but is asked to sacrifice more and more in order to belong.",
+  "posterPath": "/6Oha80OEhmtnDwlRYrdvLXP0mmo.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-06-18"
+    }
+  },
+  "runtime": 102,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "A Year of School",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 37,
+  "watchProviders": {}
+}

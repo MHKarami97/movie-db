@@ -1,0 +1,62 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1795322180088,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1836750,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "kk",
+      "name": "Kazakh"
+    }
+  ],
+  "originalTitle": "Балалық шағымыздың экраны",
+  "overview": "Created as part of a French anthology project on the fate of traditional movie theaters, Kazakh filmmaker Darezhan Omirbayev returns to his childhood village of Akkol in the Jambyl Region to pay tribute to its demolished 1950s one-story cinema club. Alongside interviews with the village's former projectionist and his old classmates, Omirbayev stages an improvised open-air dusk screening of classic films from their youth.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 52,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Screen of Our Childhood",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

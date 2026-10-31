@@ -1,0 +1,223 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Céline",
+      "id": 2326612,
+      "name": "Sawsan Abès",
+      "profilePath": "/oJrsDFCskY1hrsjZy7a1XqDHWcw.jpg"
+    },
+    {
+      "character": "Clément Meyer",
+      "id": 1618429,
+      "name": "Jérémie Laheurte",
+      "profilePath": "/hTT4FsVEOFbcPt3r2N12Oj3cszr.jpg"
+    },
+    {
+      "character": "",
+      "id": 17475,
+      "name": "Sabrina Ouazani",
+      "profilePath": "/zlUmASMbAwU61NNti9TKnM08tDc.jpg"
+    },
+    {
+      "character": "",
+      "id": 544686,
+      "name": "David Kammenos",
+      "profilePath": "/mRDIDNzrLGU6sUS8SApjMEvmFjq.jpg"
+    },
+    {
+      "character": "",
+      "id": 41014,
+      "name": "Valérie Karsenti",
+      "profilePath": "/ldcMELARVQPFMpDCkRzpfnT1UR1.jpg"
+    },
+    {
+      "character": "",
+      "id": 1424100,
+      "name": "Vincent Heneine",
+      "profilePath": "/nxwmi1VghKtUMgXkbemNZT6txo1.jpg"
+    },
+    {
+      "character": "",
+      "id": 2584287,
+      "name": "Axel Mandron",
+      "profilePath": "/hPziHuMZSlXp4XoYpEbusaXYNSz.jpg"
+    },
+    {
+      "character": "",
+      "id": 2474911,
+      "name": "Marin Judas",
+      "profilePath": "/inqEGcHaZbF5mlrTgsuo38pr7Ks.jpg"
+    },
+    {
+      "character": "",
+      "id": 3236013,
+      "name": "Léa Issert",
+      "profilePath": null
+    },
+    {
+      "character": "Ahmed Okur",
+      "id": 6323932,
+      "name": "Serdar Kutlu",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 120658,
+      "logoPath": null,
+      "name": "13e Rue"
+    },
+    {
+      "id": 259801,
+      "logoPath": null,
+      "name": "SND Fictions"
+    },
+    {
+      "id": 210914,
+      "logoPath": "/8SmQVw6eI0EudXy28GpCRzGJNVg.png",
+      "name": "NBCUniversal International Networks"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": "2027-01-01",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 327127,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-01",
+    "episodeNumber": 1,
+    "id": 7453985,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Nuits Blanches",
+  "overview": "",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-01"
+    },
+    "CN": {
+      "tv": "2027-01-01"
+    },
+    "GB": {
+      "tv": "2027-01-01"
+    },
+    "US": {
+      "tv": "2027-01-01"
+    }
+  },
+  "runtime": 42,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-01",
+      "episodeCount": 6,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Planned",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Nuits Blanches",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

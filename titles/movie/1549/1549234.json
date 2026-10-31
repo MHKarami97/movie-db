@@ -1,0 +1,190 @@
+{
+  "backdropPath": "/8eX8DgrIlZKt46y8lck1jqbSd98.jpg",
+  "cast": [
+    {
+      "character": "Riley",
+      "id": 1220763,
+      "name": "Brittany Underwood",
+      "profilePath": "/xReJ33KyjofRHndpQRi9sGH1zQV.jpg"
+    },
+    {
+      "character": "Prince Edward",
+      "id": 1751311,
+      "name": "Jonathan Stoddard",
+      "profilePath": "/ct64PRjZpTFphgdlezQ7c2lMIrC.jpg"
+    },
+    {
+      "character": "Jill",
+      "id": 175583,
+      "name": "Charlene Amoia",
+      "profilePath": "/8hJNPw3XCErifcZZPOfd20JmiTC.jpg"
+    },
+    {
+      "character": "Jeremy",
+      "id": 1389463,
+      "name": "Cameron Jebo",
+      "profilePath": "/eElYAVqZFXQFIgJC1MqjDWXbSe8.jpg"
+    },
+    {
+      "character": "Steve",
+      "id": 2081445,
+      "name": "Peter Johnson",
+      "profilePath": "/fuU02ywEAv0atPJAeLUujzGdIcj.jpg"
+    },
+    {
+      "character": "Andrew",
+      "id": 5699751,
+      "name": "Jarod Brock",
+      "profilePath": "/iBnnLpaOEuKeLGkIfqz8S2xXH7A.jpg"
+    },
+    {
+      "character": "Winston / Noel",
+      "id": 4003731,
+      "name": "Gizmo Nolan",
+      "profilePath": null
+    },
+    {
+      "character": "Marjory",
+      "id": 5699755,
+      "name": "Lillian Edmunds",
+      "profilePath": null
+    },
+    {
+      "character": "Mr. Young",
+      "id": 4811246,
+      "name": "Marco Scapillato",
+      "profilePath": null
+    },
+    {
+      "character": "Andrew",
+      "id": 126844,
+      "name": "Josh Nuncio",
+      "profilePath": "/8ptijhHtDmHkVuokgTy7x8REXFI.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 7119,
+      "logoPath": "/2aFVtrHVcqGOq1qwYlPZ7VQ67Oi.png",
+      "name": "Hybrid"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37350687"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1549234,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "A Royal Christmas Tail",
+  "overview": "When a dashing prince trades a glass slipper for a dog tag, he embarks on a heartwarming Christmas quest to find the mysterious woman — and her adorable pup — who captured his heart in one magical holiday moment.",
+  "posterPath": "/9lcxiT6M5bks8wYOtsz4upwM0fD.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2025-12-14"
+    }
+  },
+  "runtime": 86,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Sometimes the key to love has paws.",
+  "theatricalDate": null,
+  "title": "A Royal Christmas Tail",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "x1l7uMSzaWY",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 14,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1549234-a-royal-christmas-tail/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    }
+  }
+}

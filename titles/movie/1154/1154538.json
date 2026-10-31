@@ -1,0 +1,378 @@
+{
+  "backdropPath": "/hs4QXgPuKJ4PPwYBWNTod61RKiA.jpg",
+  "cast": [
+    {
+      "character": "Matt",
+      "id": 1144092,
+      "name": "Matt Johnson",
+      "profilePath": "/eSX5HRCjM6lBSVFHaNoAnQogpJ6.jpg"
+    },
+    {
+      "character": "Jay",
+      "id": 216057,
+      "name": "Jay McCarrol",
+      "profilePath": "/g7bVGNlRXyiDCNeAnP9fF6K4gb3.jpg"
+    },
+    {
+      "character": "Ben",
+      "id": 1570400,
+      "name": "Ben Petrie",
+      "profilePath": "/r2mrAH6U7lh9hQspa9AkREQcwdH.jpg"
+    },
+    {
+      "character": "Ethan",
+      "id": 3341232,
+      "name": "Ethan Eng",
+      "profilePath": "/v74YKqKy78nDa4zTxgA7HfK617h.jpg"
+    },
+    {
+      "character": "Michael",
+      "id": 2887536,
+      "name": "Michael Scott",
+      "profilePath": "/4X1IzCgHn3lak6BBAQM1d23ck2h.jpg"
+    },
+    {
+      "character": "Jared",
+      "id": 1273512,
+      "name": "Jared Raab",
+      "profilePath": "/69wfjnsVyAsu9jdPzZekz2trU81.jpg"
+    },
+    {
+      "character": "Reid",
+      "id": 1793723,
+      "name": "Reid Janisse",
+      "profilePath": "/bRDCgmKfPbeteplKHJBvACV5Fx8.jpg"
+    },
+    {
+      "character": "Steve",
+      "id": 4094560,
+      "name": "Steve Hamelin",
+      "profilePath": "/rHnNHIyf3yIepS0LQoExttOSKVF.jpg"
+    },
+    {
+      "character": "Luke",
+      "id": 1805216,
+      "name": "Luke Lalonde",
+      "profilePath": "/8VxY52KSfUL7kVFEV8S9CSTiUCL.jpg"
+    },
+    {
+      "character": "Maddy",
+      "id": 1281028,
+      "name": "Maddy Wilde",
+      "profilePath": "/tBIzgnuOephyQdPpR4nwg52Bqme.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 157740,
+      "logoPath": "/psBLfwHCfU9A4U9bWmeWF8AlSqr.png",
+      "name": "Crave"
+    },
+    {
+      "id": 72063,
+      "logoPath": "/ooPtvI3PULk7XT34Z0YMLu2GcqX.png",
+      "name": "Zapruder Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2026-03-24",
+  "externalIds": {
+    "imdbId": "tt35522483",
+    "instagramId": "ntbtstm",
+    "wikidataId": "Q126086666"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "id": 1154538,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Nirvanna the Band the Show the Movie",
+  "overview": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
+  "posterPath": "/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
+  "rating": 7.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-08-03",
+      "gapDays": 31,
+      "theatricalDate": "2026-07-03"
+    },
+    "US": {
+      "digitalDate": "2026-03-24",
+      "gapDays": 32,
+      "theatricalDate": "2026-02-20"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-04-18"
+    },
+    "GB": {
+      "digital": "2026-08-03",
+      "physical": "2026-09-21",
+      "premiere": "2026-02-28",
+      "theatrical": "2026-07-03",
+      "theatricalLimited": "2026-07-01"
+    },
+    "US": {
+      "digital": "2026-03-24",
+      "physical": "2026-03-24",
+      "premiere": "2025-03-09",
+      "theatrical": "2026-02-20",
+      "theatricalLimited": "2026-02-13"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "One... last... plan.",
+  "theatricalDate": "2026-02-20",
+  "title": "Nirvanna the Band the Show the Movie",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Ddv3z8-alAA",
+      "name": "NTBTSTM SPOILERS SPOILERS SPOILERS SPOILERS SPOILERS",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "kJf4Bo_ahrY",
+      "name": "Another reason to be glad to see the back of K*** S******...",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "gL8dSBxlzns",
+      "name": "This one goes out to our friend Matt, a little buff, a little fat",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "J8LhrQZC4jc",
+      "name": "Interview with Matthew Johnson & Jay McCarrol",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "7InkAzkFzkc",
+      "name": "What if The Matrix was filmed in an RV?",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "9_gPL2HA9PA",
+      "name": "Official Clip - The Alphabet Song",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "scKpJFoo8Es",
+      "name": "Matt Johnson's Message to Australia",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "eVXaSU5anbU",
+      "name": "Everything you need to know about Nirvanna The Band The Show before you see The Movie.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "JxqyHNCCdgY",
+      "name": "Matt and Jay play This or That: 2008 vs Now Edition",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "w5tDlZ2JFhA",
+      "name": "The movies that inspired NIRVANNA THE BAND THE SHOW THE MOVIE",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "14gqhme2A0Q",
+      "name": "The Most Toronto Movie Ever",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "MbegN2RG_bc",
+      "name": "Rules for Indie Filmmakers, according to NIRVANNA THE BAND THE SHOW",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "y2K9ccMREOI",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "oKlf7-c-4Bk",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "QQzksyftDu0",
+      "name": "Q&A with Matt Johnson & Jay McCarrol",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 155,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1154538-nirvanna-the-band-the-show-the-movie/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1154538-nirvanna-the-band-the-show-the-movie/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

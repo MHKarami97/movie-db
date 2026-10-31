@@ -1,0 +1,65 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1752116,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Summer Break",
+  "overview": "In 2024, a 15 year old teenager spends a long summer holiday with a new host family. As they share quiet days, family meals, and local adventures, they discover the similarities and differences in their lifestyle and teach eachother how to skate, how to game, how to flirt, and how to love.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-01-01"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2027-01-01"
+    }
+  },
+  "runtime": 114,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "School's Out For Summer",
+  "theatricalDate": "2027-01-01",
+  "title": "Summer Break",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

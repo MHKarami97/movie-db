@@ -1,0 +1,174 @@
+{
+  "backdropPath": "/atF22WebvvvMaED3Imuj5QsPaFy.jpg",
+  "cast": [
+    {
+      "character": "Pauline Hanson (Voice)",
+      "id": 1234637,
+      "name": "Pauline Hanson",
+      "profilePath": "/qLBXMmv9ZUWGE79zBEszc8poHoV.jpg"
+    },
+    {
+      "character": "",
+      "id": 2832308,
+      "name": "Mark Nicholson",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 2263276,
+      "name": "Sebastian Peart",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 5966368,
+      "name": "James Ashby",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 5966370,
+      "name": "Sean Bell",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 2432670,
+      "name": "Malcolm Roberts",
+      "profilePath": "/4sIWbEz9SOxCfh1IFntkBpWPWMf.jpg"
+    },
+    {
+      "character": "",
+      "id": 5966371,
+      "name": "Jordan Smith",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 281144,
+      "logoPath": null,
+      "name": "Pauline"
+    },
+    {
+      "id": 142608,
+      "logoPath": null,
+      "name": "Stepmates Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    }
+  ],
+  "digitalDate": "2026-06-29",
+  "externalIds": {
+    "imdbId": "tt39045499",
+    "wikidataId": "Q137133129"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1585580,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "A Super Progressive Movie",
+  "overview": "Melbourne is the last bastion of \"The Progressives,\" a society shielded from the outside world by a glowing rainbow \"virtue signal.\" When the shield begins to fail, an Aboriginal elder named Murray reveals the truth: the culture war was lost long ago, and only the legendary Victimhood can save them. Tasked with retrieving it is Pete, a downtrodden white man treated as the lowest rung of society. Joined by Murray, the vain Princess Stacey, and Social Justice Warrior Lance, Pete ventures into the \"real\" Australia for the first time, discovering it's nothing like he was told — while Prime Minister Pauline Hanson races to reach the weapon first.",
+  "posterPath": "/iHqvrXObO2RD27qdY2FrdZdlIGs.jpg",
+  "rating": 4.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-29",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-06-29"
+    }
+  },
+  "runtime": 86,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "A Super Progressive Movie",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "kvQXs3gmCK4",
+      "name": "A Super Progressive Movie - OFFICIAL TRAILER (2026)",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "qo5lxEXSv4A",
+      "name": "A Super Progressive Movie Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 11,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1585580-a-super-progressive-movie/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1585580-a-super-progressive-movie/watch?locale=US",
+      "rent": []
+    }
+  }
+}

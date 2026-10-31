@@ -1,0 +1,548 @@
+{
+  "backdropPath": "/b7bdBCRw4siIhqEVKqbtOb3VlTS.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 3734,
+      "logoPath": "/fDdEQKYsS3s9xGl50dzADAnetZ7.png",
+      "name": "Dick Clark Productions"
+    },
+    {
+      "id": 108987,
+      "logoPath": "/pMHL0KoxJ0U1cQoB24D4FwQWq3C.png",
+      "name": "Jesse Collins Entertainment"
+    },
+    {
+      "id": 217728,
+      "logoPath": null,
+      "name": "MRC Live & Alternative"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States"
+    }
+  ],
+  "digitalDate": "1974-02-19",
+  "episodes": {
+    "52": [
+      {
+        "airDate": "2026-05-25",
+        "episodeNumber": 1,
+        "name": "The 52nd Annual American Music Awards",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "AMAs",
+    "instagramId": "amas",
+    "twitterId": "AMAs",
+    "wikidataId": "Q207601"
+  },
+  "fetchedAt": 1795640243421,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 16730,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-05-25",
+    "episodeNumber": 1,
+    "id": 7121019,
+    "name": "The 52nd Annual American Music Awards",
+    "overview": "",
+    "seasonNumber": 52
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "American Music Awards",
+  "overview": "An annual American music awards show. Unlike the Grammys, which are awarded on the basis of votes by members of the Recording Academy, the AMAs are determined by a poll of the public and music buyers.",
+  "posterPath": "/lMfGSoq6otbyu7orszqAH4s9TQU.jpg",
+  "rating": 8.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1974-02-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1974-02-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1974-02-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1974-02-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1974-02-19"
+    },
+    "CN": {
+      "tv": "1974-02-19"
+    },
+    "GB": {
+      "tv": "1974-02-19"
+    },
+    "US": {
+      "tv": "1974-02-19"
+    }
+  },
+  "runtime": 180,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2011-11-20",
+      "episodeCount": 2,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1974-02-19",
+      "episodeCount": 3,
+      "name": "The 1st Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1975-02-18",
+      "episodeCount": 1,
+      "name": "The 2nd Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1976-01-31",
+      "episodeCount": 1,
+      "name": "The 3rd Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1977-01-31",
+      "episodeCount": 1,
+      "name": "The 4th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1978-01-16",
+      "episodeCount": 1,
+      "name": "The 5th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1979-01-12",
+      "episodeCount": 1,
+      "name": "The 6th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1980-01-18",
+      "episodeCount": 1,
+      "name": "The 7th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1981-01-30",
+      "episodeCount": 1,
+      "name": "The 8th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1982-01-25",
+      "episodeCount": 1,
+      "name": "The 9th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1983-01-17",
+      "episodeCount": 1,
+      "name": "The 10th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "1984-01-16",
+      "episodeCount": 1,
+      "name": "The 11th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "1985-01-28",
+      "episodeCount": 1,
+      "name": "The 12th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "1986-01-27",
+      "episodeCount": 1,
+      "name": "The 13th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "1987-01-26",
+      "episodeCount": 1,
+      "name": "The 14th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "1988-01-25",
+      "episodeCount": 1,
+      "name": "The 15th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "1989-01-30",
+      "episodeCount": 1,
+      "name": "The 16th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "1990-01-22",
+      "episodeCount": 1,
+      "name": "The 17th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "1991-01-28",
+      "episodeCount": 1,
+      "name": "The 18th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "1992-01-27",
+      "episodeCount": 1,
+      "name": "The 19th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "1993-01-25",
+      "episodeCount": 1,
+      "name": "The 20th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "1994-02-07",
+      "episodeCount": 1,
+      "name": "The 21st Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "1995-01-30",
+      "episodeCount": 1,
+      "name": "The 22nd Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "1996-01-29",
+      "episodeCount": 1,
+      "name": "The 23rd Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "1997-01-27",
+      "episodeCount": 1,
+      "name": "The 24th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "1998-01-26",
+      "episodeCount": 1,
+      "name": "The 25th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "1999-01-11",
+      "episodeCount": 1,
+      "name": "The 26th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "2000-01-17",
+      "episodeCount": 1,
+      "name": "The 27th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "2001-01-08",
+      "episodeCount": 1,
+      "name": "The 28th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "2002-01-09",
+      "episodeCount": 1,
+      "name": "The 29th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "2003-01-13",
+      "episodeCount": 1,
+      "name": "The 30th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "2003-11-16",
+      "episodeCount": 1,
+      "name": "The 31st Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "2004-11-14",
+      "episodeCount": 1,
+      "name": "The 32nd Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "2005-11-22",
+      "episodeCount": 1,
+      "name": "The 33rd Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "2006-11-21",
+      "episodeCount": 1,
+      "name": "The 34th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "2007-11-18",
+      "episodeCount": 1,
+      "name": "The 35th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "2008-11-23",
+      "episodeCount": 1,
+      "name": "The 36th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 36
+    },
+    {
+      "airDate": "2009-11-22",
+      "episodeCount": 1,
+      "name": "The 37th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 37
+    },
+    {
+      "airDate": "2010-11-21",
+      "episodeCount": 1,
+      "name": "The 38th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 38
+    },
+    {
+      "airDate": "2011-11-20",
+      "episodeCount": 1,
+      "name": "The 39th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 39
+    },
+    {
+      "airDate": "2012-11-18",
+      "episodeCount": 1,
+      "name": "The 40th Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 40
+    },
+    {
+      "airDate": "2013-11-24",
+      "episodeCount": 1,
+      "name": "The 41st Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 41
+    },
+    {
+      "airDate": "2014-11-23",
+      "episodeCount": 1,
+      "name": "The 42nd Annual American Music Awards",
+      "overview": "",
+      "posterPath": "/ypkb8IEbal92Cr4MF14kRAn3Rgq.jpg",
+      "seasonNumber": 42
+    },
+    {
+      "airDate": "2015-10-22",
+      "episodeCount": 1,
+      "name": "The 43rd Annual American Music Awards",
+      "overview": "",
+      "posterPath": "/dbral5t2ftksGf7sozxXjLdkXbD.jpg",
+      "seasonNumber": 43
+    },
+    {
+      "airDate": "2016-11-20",
+      "episodeCount": 1,
+      "name": "The 44th Annual American Music Awards",
+      "overview": "",
+      "posterPath": "/7iTFe2Ysj9ANmHuL8RqiAstaKxM.jpg",
+      "seasonNumber": 44
+    },
+    {
+      "airDate": "2017-11-19",
+      "episodeCount": 1,
+      "name": "The 45th Annual American Music Awards",
+      "overview": "",
+      "posterPath": "/vKZ5uaeJf71Fw7lRMLQUi1RVozc.jpg",
+      "seasonNumber": 45
+    },
+    {
+      "airDate": "2018-10-09",
+      "episodeCount": 1,
+      "name": "The 46th Annual American Music Awards",
+      "overview": "",
+      "posterPath": "/hWIApB7tBU0TzIQxKxg5oAHal3v.jpg",
+      "seasonNumber": 46
+    },
+    {
+      "airDate": "2019-11-24",
+      "episodeCount": 1,
+      "name": "The 47th Annual American Music Awards",
+      "overview": "",
+      "posterPath": "/lMfGSoq6otbyu7orszqAH4s9TQU.jpg",
+      "seasonNumber": 47
+    },
+    {
+      "airDate": "2020-11-22",
+      "episodeCount": 1,
+      "name": "The 48th Annual American Music Awards",
+      "overview": "",
+      "posterPath": "/74qP06m52mpnT1f2XnGPmuMZNF7.jpg",
+      "seasonNumber": 48
+    },
+    {
+      "airDate": "2021-11-21",
+      "episodeCount": 1,
+      "name": "The 49th Annual American Music Awards",
+      "overview": "",
+      "posterPath": "/avYkejkr4TfsQ6rZHbsgmSJQST8.jpg",
+      "seasonNumber": 49
+    },
+    {
+      "airDate": "2022-11-20",
+      "episodeCount": 1,
+      "name": "The 50th Annual American Music Awards",
+      "overview": "",
+      "posterPath": "/tWVlMPykSV4OnbDKP8NPsuqnymy.jpg",
+      "seasonNumber": 50
+    },
+    {
+      "airDate": "2025-05-26",
+      "episodeCount": 1,
+      "name": "The 51st Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 51
+    },
+    {
+      "airDate": "2026-05-25",
+      "episodeCount": 1,
+      "name": "The 52nd Annual American Music Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 52
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "American Music Awards",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 13,
+  "watchProviders": {}
+}

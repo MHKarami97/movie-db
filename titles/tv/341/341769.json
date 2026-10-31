@@ -1,0 +1,135 @@
+{
+  "backdropPath": "/9bZk0CshPxaYufswVE21ZOpJ3g7.jpg",
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2026-11-12",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-11-12",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "After a private show, popular singer Valentín Elizalde is killed in a violent shootout, leading authorities to investigate local cartels.",
+        "stillPath": "/slMgjTvcz26P6bXSJ2wrh0Q49xq.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-12",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "As news of Valentín's death spreads, those close to the singer begin to question whether the shootout's sole survivor was involved.",
+        "stillPath": "/76hHs2yCrSlcLL4LeIsqmGsF2aB.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-12",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "As thousands bid farewell to Valentín, his family continues to seek closure -- but, decades later, questions surrounding his death remain.",
+        "stillPath": "/vQuGkIBJneByRTpNC6aRuAwm6su.jpg",
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt50816261"
+  },
+  "fetchedAt": 1795117855725,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 341769,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-11-12",
+    "episodeNumber": 3,
+    "id": 8122664,
+    "name": "Episode 3",
+    "overview": "As thousands bid farewell to Valentín, his family continues to seek closure -- but, decades later, questions surrounding his death remain.",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Valentín: La muerte del Gallo de Oro",
+  "overview": "Twenty years after the murder of the Mexican regional music icon, the production reconstructs the hours that shaped his story and revisits the questions that, two decades later, remain unanswered.",
+  "posterPath": "/2NaGk1VVMjP8Qd5a4phrfBUoucP.jpg",
+  "rating": 8.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-11-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-11-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-11-12"
+    },
+    "CN": {
+      "tv": "2026-11-12"
+    },
+    "GB": {
+      "tv": "2026-11-12"
+    },
+    "US": {
+      "tv": "2026-11-12"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-11-12",
+      "episodeCount": 3,
+      "name": "Miniseries",
+      "overview": "",
+      "posterPath": "/2NaGk1VVMjP8Qd5a4phrfBUoucP.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Killing of The Golden Rooster",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "lXx47bBlQc8",
+      "name": "Official Trailer [ENG SUB]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 22,
+  "watchProviders": {}
+}

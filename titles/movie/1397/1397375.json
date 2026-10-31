@@ -1,0 +1,217 @@
+{
+  "backdropPath": "/1eCDdnJul7qb6pePdWlKozoF8Fq.jpg",
+  "cast": [
+    {
+      "character": "Efisio Mulas",
+      "id": 5265545,
+      "name": "Giuseppe Ignazio Loi",
+      "profilePath": null
+    },
+    {
+      "character": "Francesca Mulas",
+      "id": 937579,
+      "name": "Virginia Raffaele",
+      "profilePath": "/fmw1uOhnNRiyWSUo4dtW1CEiIjm.jpg"
+    },
+    {
+      "character": "Mariano",
+      "id": 120019,
+      "name": "Aldo Baglio",
+      "profilePath": "/uMbVlHKaEHdZI94ISGPjB138gvA.jpg"
+    },
+    {
+      "character": "Giacomo",
+      "id": 55912,
+      "name": "Diego Abatantuono",
+      "profilePath": "/i7idHOw21i3RNO8IrVKkGlcAyOd.jpg"
+    },
+    {
+      "character": "Giovanna",
+      "id": 128465,
+      "name": "Geppi Cucciari",
+      "profilePath": "/aDU8qjYqrdYSyrHEusBAwmypIGI.jpg"
+    },
+    {
+      "character": "",
+      "id": 1464905,
+      "name": "Jacopo Cullin",
+      "profilePath": "/uHBcAaY4DA8zw7qCI2bepZCPoCx.jpg"
+    },
+    {
+      "character": "",
+      "id": 4763490,
+      "name": "Gabriele Cossu",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 1223268,
+      "name": "Massimiliano Medda",
+      "profilePath": "/xJhJ2nvMLcRVhbH1fIt04skHt21.jpg"
+    },
+    {
+      "character": "",
+      "id": 141830,
+      "name": "Pietro Ragusa",
+      "profilePath": "/3vuTW5ErxDFk1Ur1HcI5u9hEo2u.jpg"
+    },
+    {
+      "character": "",
+      "id": 1453776,
+      "name": "Carlo Cracco",
+      "profilePath": "/78KVASHupy4DzuoPfAdZdftntj8.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 21246,
+      "logoPath": "/e5NWP10OYWCUa0T363WxkNzL78s.png",
+      "name": "Wildside"
+    },
+    {
+      "id": 236895,
+      "logoPath": "/wkmGNKVjJawiqVSjKTC0VQB3Qd5.png",
+      "name": "Our Films"
+    },
+    {
+      "id": 6246,
+      "logoPath": "/7X6pfxldTiOD7MLo2EQqUQlmOUw.png",
+      "name": "Medusa Film"
+    },
+    {
+      "id": 228664,
+      "logoPath": "/rKNzL97WA26KnyeUUycdJDggxLq.png",
+      "name": "PiperFilm"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34905624",
+    "wikidataId": "Q135649046"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1397375,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "originalTitle": "La vita va così",
+  "overview": "An elderly shepherd takes on big business when he becomes the only holdout against property developers building a luxury resort in his tiny Sardinian village.",
+  "posterPath": "/qvaD0vZ78w3hFuEBGyhpEkmHUOS.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 118,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Life Is Life",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 181,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1397375-la-vita-va-cosi/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

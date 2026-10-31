@@ -1,0 +1,180 @@
+{
+  "backdropPath": "/nmuha4Sy83jR01FdeKUBgNPXnFo.jpg",
+  "cast": [
+    {
+      "character": "Sasha",
+      "id": 86132,
+      "name": "Claire Holt",
+      "profilePath": "/98d3peGDj0vPKcz8YyphJlkYrQO.jpg"
+    },
+    {
+      "character": "Peter",
+      "id": 5365,
+      "name": "Clifton Collins Jr.",
+      "profilePath": "/xfD0scqaPvAxKCPHYLo8553Le5g.jpg"
+    },
+    {
+      "character": "Natalya",
+      "id": 963117,
+      "name": "Bar Paly",
+      "profilePath": "/u0ObQI94EUdcIt0eHhEBUrA4gGW.jpg"
+    },
+    {
+      "character": "Det. Greene",
+      "id": 2449,
+      "name": "Kevin McNally",
+      "profilePath": "/1QvG7MbfeWxb4LlZrlR4OtwvB8v.jpg"
+    },
+    {
+      "character": "Carla",
+      "id": 11024,
+      "name": "Kelly Hu",
+      "profilePath": "/jLhnDPiUIrIcdKJYnnVSZ4nbgyh.jpg"
+    },
+    {
+      "character": "Det. Carter",
+      "id": 110018,
+      "name": "David Lipper",
+      "profilePath": "/apAgZr1qU5Q99RFR1xCrpZ1CUL9.jpg"
+    },
+    {
+      "character": "Biyu",
+      "id": 39126,
+      "name": "Bai Ling",
+      "profilePath": "/kgo3PUZ4kI7mvf4CJOPSjLVBoy5.jpg"
+    },
+    {
+      "character": "Alex Wong",
+      "id": 1373280,
+      "name": "Alexandre Nguyen",
+      "profilePath": "/r0dGwxq1Ys5H70ea6FeihSsPns6.jpg"
+    },
+    {
+      "character": "Young Peter",
+      "id": 1130555,
+      "name": "Tanner Buchanan",
+      "profilePath": "/5GHr8DgXHVFmStkKxcDXRASgQjQ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 158853,
+      "logoPath": null,
+      "name": "Pop Life Global"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt8710116"
+  },
+  "fetchedAt": 1795237826249,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1479018,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Painted Beauty",
+  "overview": "Having done some of the most shocking art the public has ever seen, Sasha is the most sought-after artist in the world. In search of inspiration, she moves to Hong Kong where she meets her most unexpected muse yet, a serial killer.",
+  "posterPath": "/9vWQWd8xHqYOGSrsXUjbjW6QtF5.jpg",
+  "rating": 10,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-12-03"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Murder is a dying art.",
+  "theatricalDate": null,
+  "title": "Painted Beauty",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 1,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1479018-art-of-murder/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

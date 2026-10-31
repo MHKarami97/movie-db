@@ -1,0 +1,123 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 1371236,
+      "name": "Martin Bats Bradford",
+      "profilePath": "/AdvVKzkT8dtNoRPm5i1Q7UvUriN.jpg"
+    },
+    {
+      "character": "",
+      "id": 6557744,
+      "name": "tanyell quian",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2026-10-01",
+  "externalIds": {
+    "imdbId": "tt39390276"
+  },
+  "fetchedAt": 1793452486014,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1800712,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Wingman",
+  "overview": "A confident relationship expert and a rising dating app CEO reunite for a high-stakes matchmaking bet. As ambition, tech money, and power couple dreams collide, a hidden college scandal threatens to destroy their second chance at love.",
+  "posterPath": "/6zUeUGmHXf4HNwRkxs2CDkVpYFi.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "CA": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "DE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "IR": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-01"
+    }
+  },
+  "runtime": 90,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Wingman",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {
+    "CA": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 612,
+          "logoPath": "/yhexwnpqzjNRYsld1DepcW0yieI.png",
+          "name": "ALLWAYSBLK Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1800712-wingman/watch?locale=CA",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 2036,
+          "logoPath": "/hcx4wa1c29eqBHWzDbGJRBVNexh.png",
+          "name": "ALLBLK Apple TV channel"
+        },
+        {
+          "id": 2064,
+          "logoPath": "/oDXxEOMxeZ3UBF1piIYn6zrWMqy.png",
+          "name": "ALLBLK Amazon channel "
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1800712-wingman/watch?locale=US",
+      "rent": []
+    }
+  }
+}

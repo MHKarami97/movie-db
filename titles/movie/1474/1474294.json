@@ -1,0 +1,174 @@
+{
+  "backdropPath": "/6y7Eacm37GgO7KC2ysPSyNNU341.jpg",
+  "cast": [
+    {
+      "character": "Arianna",
+      "id": 147837,
+      "name": "Anna Bellato",
+      "profilePath": "/rxNZhvo7D8ZswL0KwKvFNSrYyoO.jpg"
+    },
+    {
+      "character": "Jacopo",
+      "id": 3050568,
+      "name": "Enrico Borello",
+      "profilePath": "/pDx74sWAv0EyreDC3iRIkrcAs79.jpg"
+    },
+    {
+      "character": "Linda",
+      "id": 1845387,
+      "name": "Benedetta Cimatti",
+      "profilePath": "/AgP9v8eTc8HmzG60r3UQduhuIor.jpg"
+    },
+    {
+      "character": "Filippo",
+      "id": 131624,
+      "name": "Vinicio Marchioni",
+      "profilePath": "/phasNXLAL4fylSgts1dNdeXUkuZ.jpg"
+    },
+    {
+      "character": "Silvia",
+      "id": 3533199,
+      "name": "Chiara Ferrara",
+      "profilePath": "/A7fOWvmyA6tDDcqTrRPsW8PGPUm.jpg"
+    },
+    {
+      "character": "Pietro",
+      "id": 136288,
+      "name": "Corrado Fortuna",
+      "profilePath": "/9hNJxoEr1cXZ0Srs9dq5q1IN7pe.jpg"
+    },
+    {
+      "character": "Ada",
+      "id": 9627,
+      "name": "Isabella Ragonese",
+      "profilePath": "/5X9Ll0FTE4jLZrX1uJpL0xxdk2W.jpg"
+    },
+    {
+      "character": "Ester",
+      "id": 1640896,
+      "name": "Vanessa Scalera",
+      "profilePath": "/kwkp4W8iypN1Xqp8AoLYJ5Bwhrt.jpg"
+    },
+    {
+      "character": "Ovidio",
+      "id": 1446001,
+      "name": "Francesco Colella",
+      "profilePath": "/xi1ZgYDpGZ0lBsEMAxgK3vLBJd2.jpg"
+    },
+    {
+      "character": "Helmut",
+      "id": 996844,
+      "name": "Marco Quaglia",
+      "profilePath": "/w2oRqYtVa8B3ALOrBqajwp72YQf.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 121145,
+      "logoPath": "/hQWUBLxRLtmmHs9sPirma1iLfTt.png",
+      "name": "Bartlebyfilm"
+    },
+    {
+      "id": 10102,
+      "logoPath": "/hdJq0LbqmBx6FJqnfTtfqvAsAkV.png",
+      "name": "Cattleya"
+    },
+    {
+      "id": 261036,
+      "logoPath": null,
+      "name": "Unipersonale"
+    },
+    {
+      "id": 115535,
+      "logoPath": "/mYoc1K3UPAUqKfuCYkvDLJN2aAA.png",
+      "name": "Vision Distribution"
+    },
+    {
+      "id": 14016,
+      "logoPath": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC"
+    },
+    {
+      "id": 21649,
+      "logoPath": "/6Ji6E59Wt9O4VA6nqwAd6RW7ijs.png",
+      "name": "Sky Cinema"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36945196",
+    "wikidataId": "Q135217936"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1474294,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "originalTitle": "Il Dio dell'Amore",
+  "overview": "Love Divine is a choral journey into romantic relationships, exploring the emotional destinies of interconnected lives. With an ironic, light tone tinged with bitterness, it portrays a humanity caught in the chaos of love. Each character is a knot in an intricate weave shaped by the capricious God of Love, while Ovid, the eternal poet, guides us from ancient Rome into the present.",
+  "posterPath": "/apORJxfG3gASkOWmjuQn1yRQNY3.jpg",
+  "rating": 5.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The God of Love",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 25,
+  "watchProviders": {}
+}

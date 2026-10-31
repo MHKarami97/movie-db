@@ -1,0 +1,401 @@
+{
+  "backdropPath": "/28PLbMHktbX8TnuEWSiTrRbI4p8.jpg",
+  "cast": [
+    {
+      "character": "Lorenz Hart",
+      "id": 569,
+      "name": "Ethan Hawke",
+      "profilePath": "/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+    },
+    {
+      "character": "Eddie",
+      "id": 21127,
+      "name": "Bobby Cannavale",
+      "profilePath": "/wlp20ggyNI7x0xGUtTjC2Xl2XmD.jpg"
+    },
+    {
+      "character": "Richard Rodgers",
+      "id": 125660,
+      "name": "Andrew Scott",
+      "profilePath": "/4F8XpjyQCvtuu21WFm5d8RF5Rl.jpg"
+    },
+    {
+      "character": "Elizabeth Weiland",
+      "id": 1392137,
+      "name": "Margaret Qualley",
+      "profilePath": "/r5WeMrU4YLJqRRE3joeOrBVicAH.jpg"
+    },
+    {
+      "character": "E.B. 'Andy' White",
+      "id": 14432,
+      "name": "Patrick Kennedy",
+      "profilePath": "/Aj7lwhi4rYfzP5OZJiem5w72re8.jpg"
+    },
+    {
+      "character": "Morty Rifkin",
+      "id": 559627,
+      "name": "Jonah Lees",
+      "profilePath": "/jLXRVYNyQ8X2Mn9bgVelbIoQDDh.jpg"
+    },
+    {
+      "character": "Oscar Hammerstein",
+      "id": 163545,
+      "name": "Simon Delaney",
+      "profilePath": "/xNe5mZoLK1HYXvzfWOy9pFObba5.jpg"
+    },
+    {
+      "character": "Sven",
+      "id": 4900265,
+      "name": "Giles Surridge",
+      "profilePath": "/cfpWk87VYklxWm9kdbGU9eBk38k.jpg"
+    },
+    {
+      "character": "Stephen Sondheim",
+      "id": 3337044,
+      "name": "Cillian Sullivan",
+      "profilePath": "/pjtZDDAdWP7uxU4kk4NCdSEbzCy.jpg"
+    },
+    {
+      "character": "Lawrence Langner",
+      "id": 29239,
+      "name": "Michael James Ford",
+      "profilePath": "/uu5OG9Ekh5rW1XFf8trk8wPU9Cv.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 11510,
+      "logoPath": "/gg3gP2wHNNfOfLKdXGjYC9qJ9ok.png",
+      "name": "Detour Filmproduction"
+    },
+    {
+      "id": 58,
+      "logoPath": "/voYCwlBHJQANtjvm5MNIkCF1dDH.png",
+      "name": "Sony Pictures Classics"
+    },
+    {
+      "id": 191684,
+      "logoPath": "/fz5l3pTaaAklhOMghZAHmCI87dK.png",
+      "name": "Renovo Media Group"
+    },
+    {
+      "id": 129815,
+      "logoPath": "/qbCmnVTQEuFqrVkbxn3i9P7Jrcw.png",
+      "name": "Wild Atlantic Pictures"
+    },
+    {
+      "id": 98506,
+      "logoPath": null,
+      "name": "Under the Influence Productions"
+    },
+    {
+      "id": 88582,
+      "logoPath": "/zf2Akd6JvRZlnd1OacHYaN5dj0k.png",
+      "name": "Cinetic Media"
+    },
+    {
+      "id": 254056,
+      "logoPath": null,
+      "name": "Not to Be Seen Productions"
+    },
+    {
+      "id": 183982,
+      "logoPath": "/iZzZhh1vkOGt0tRb3y2CO0C6Gng.png",
+      "name": "Concord Originals"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-11-25",
+  "externalIds": {
+    "facebookId": "bluemoon.movie",
+    "imdbId": "tt32536315",
+    "instagramId": "bluemoon.movie",
+    "wikidataId": "Q127118129"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1299655,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "de",
+      "name": "German"
+    },
+    {
+      "code": "he",
+      "name": "Hebrew"
+    }
+  ],
+  "originalTitle": "Blue Moon",
+  "overview": "داستان لورنز هارت، ترانه‌سرای آمریکایی که با اعتیاد به الکل دست و پنجه نرم می‌کند و باید سلامت روان خود را در افتتاحیه تئاتر اکلاهما! حفظ کند.",
+  "posterPath": "/dVU7SNc6dgStTVdtbPLQncWxsyZ.jpg",
+  "rating": 6.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-11-28"
+    },
+    "US": {
+      "digitalDate": "2025-11-25",
+      "gapDays": 32,
+      "theatricalDate": "2025-10-24"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "physical": "2026-06-01",
+      "premiere": "2025-10-16",
+      "theatrical": "2025-11-28"
+    },
+    "US": {
+      "digital": "2025-11-25",
+      "premiere": "2025-08-29",
+      "theatrical": "2025-10-24",
+      "theatricalLimited": "2025-10-17"
+    }
+  },
+  "runtime": 101,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Forgotten but not gone.",
+  "theatricalDate": "2025-10-24",
+  "title": "Blue Moon",
+  "translations": {
+    "faOverview": "داستان لورنز هارت، ترانه‌سرای آمریکایی که با اعتیاد به الکل دست و پنجه نرم می‌کند و باید سلامت روان خود را در افتتاحیه تئاتر اکلاهما! حفظ کند.",
+    "faTitle": "ماه آبی"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "mIrX2YOuLyE",
+      "name": "10 Minute Extended Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "PhLtQ_Hqr6I",
+      "name": "The star-studded cast on collaborating on Blue Moon",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "NplOBQJgGyc",
+      "name": "Collaboration, trust, and rehearsal - The Linklater way.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Bc8aHJvCtPQ",
+      "name": "The Blue Moon cast hit the LFF red carpet",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "pwdDT9vuoLc",
+      "name": "A love letter to Broadway",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "1OU2C8jXl9g",
+      "name": "\"Created to Last\" with Ethan Hawke & Director Richard Linklater | BLUE MOON",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "JyjdakIlBbU",
+      "name": "\"Heart to Hart\" with Ethan Hawke",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "v3gsNWcCmRI",
+      "name": "The Linklater Film That Hinged on Ethan Hawke’s Performance - Blue Moon Q&A",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "dQ-KLLMjUKI",
+      "name": "Ethan Hawke on collaborating with Richard Linklater.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6SA9-jpT3Iw",
+      "name": "The cast and crew of Blue Moon at the UK Gala Premiere at the BFI London Film Festival",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "F4wLVi-EqxM",
+      "name": "\"Faces of Broadway\" with Ethan Hawke & Andrew Scott",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "lq9pmqKvPHM",
+      "name": "Richard Linklater, Ethan Hawke, Andrew Scott, Bobby Cannavale & Robert Kaplow on Blue Moon",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "qo7gRHip0lI",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 351,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1299655-blue-moon/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1299655-blue-moon/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 331,
+          "logoPath": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+          "name": "FlixFling"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

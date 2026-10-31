@@ -1,0 +1,334 @@
+{
+  "backdropPath": "/8FJAKAcMHcjivv0uYAAGsA6DNJf.jpg",
+  "cast": [
+    {
+      "character": "Tom Wilson",
+      "id": 1231768,
+      "name": "James Paxton",
+      "profilePath": "/op96bq1cIcDlMPXCMFqllNVUhxk.jpg"
+    },
+    {
+      "character": "Adele",
+      "id": 2453169,
+      "name": "Lilly Krug",
+      "profilePath": "/1devcsOgzuK0WuQZpw2nnTW8KmW.jpg"
+    },
+    {
+      "character": "Daniel",
+      "id": 78882,
+      "name": "Carlos Bardem",
+      "profilePath": "/4eVSnaYe4O06BNZjuw8UHnWaqB5.jpg"
+    },
+    {
+      "character": "Zoja Mangano",
+      "id": 1786479,
+      "name": "Alice Pagani",
+      "profilePath": "/aPlZKNvDrgQnisqDGdyCmLnoWKP.jpg"
+    },
+    {
+      "character": "Jacob",
+      "id": 1349735,
+      "name": "Jadran Malkovich",
+      "profilePath": "/hgGDzQn5Pz7QZ8Een3K78qf3rQC.jpg"
+    },
+    {
+      "character": "Amanda Wilson",
+      "id": 1286966,
+      "name": "Anna Rust",
+      "profilePath": "/gIOEv2tjYMFaZHtNPw9epru9Rwr.jpg"
+    },
+    {
+      "character": "Sebastian",
+      "id": 1363086,
+      "name": "Franz Drameh",
+      "profilePath": "/xSEv3SN8CSn0bozoOnPd77kEOiD.jpg"
+    },
+    {
+      "character": "Callie Wilson",
+      "id": 4980879,
+      "name": "Klara Kalina Jordan",
+      "profilePath": null
+    },
+    {
+      "character": "Petros",
+      "id": 4634624,
+      "name": "Alex Lane",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 240817,
+      "logoPath": null,
+      "name": "Puma in a Tank"
+    },
+    {
+      "id": 738,
+      "logoPath": "/bLBdowsgMoipjXLi9QpdcZOvPhG.png",
+      "name": "Myriad Pictures"
+    },
+    {
+      "id": 240818,
+      "logoPath": null,
+      "name": "GM4U Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IE",
+      "name": "Ireland"
+    }
+  ],
+  "digitalDate": "2026-03-17",
+  "externalIds": {
+    "imdbId": "tt33363428",
+    "wikidataId": "Q140745393"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1366242,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "DRAGN",
+  "overview": "During a team-building retreat in a remote forest, a group of colleagues unwittingly becomes the prey of a rogue AI-driven drone.",
+  "posterPath": "/sCfVHr5BUwwWETbaDJlEbYyUBrx.jpg",
+  "rating": 3.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-07-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-07-06"
+    },
+    "US": {
+      "digital": "2026-03-17",
+      "premiere": "2025-05-10"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "DRAGN",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "QPYGs7Mi47g",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 613,
+          "logoPath": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png",
+          "name": "Amazon Prime Video Free with Ads"
+        },
+        {
+          "id": 1898,
+          "logoPath": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png",
+          "name": "Amazon MX Player"
+        }
+      ],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1366242-dragn/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 235,
+          "logoPath": "/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png",
+          "name": "YouTube Free"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 202,
+          "logoPath": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+          "name": "Screambox Amazon Channel"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        },
+        {
+          "id": 2367,
+          "logoPath": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+          "name": "Midnight Pulp Amazon Channel"
+        },
+        {
+          "id": 2704,
+          "logoPath": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+          "name": "Cineverse Amazon Channel"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1366242-dragn/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

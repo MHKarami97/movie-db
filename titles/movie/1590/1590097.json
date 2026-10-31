@@ -1,0 +1,201 @@
+{
+  "backdropPath": "/cAaLaaOa6n6sH932IUIVZtKtOef.jpg",
+  "cast": [
+    {
+      "character": "Aris (segment 'The Edenbound')",
+      "id": 2729118,
+      "name": "Anna Fraser",
+      "profilePath": "/lRQkLk06SDhDlYGsaLJXtbLFrUH.jpg"
+    },
+    {
+      "character": "Luna (segment 'First Sight')",
+      "id": 1727934,
+      "name": "Ellise Chappell",
+      "profilePath": "/aiEIDSUMLY8fZDxI3ODPJ75p9Ns.jpg"
+    },
+    {
+      "character": "Older Woman (segment 'First Sight')",
+      "id": 4766144,
+      "name": "Linda-Jean Barry",
+      "profilePath": null
+    },
+    {
+      "character": "The Admiral (segment 'The Edenbound')",
+      "id": 150814,
+      "name": "Clive Wood",
+      "profilePath": "/4kUF3fyHePW5fcdQNlxGVJxiaZY.jpg"
+    },
+    {
+      "character": "Antony (segment 'First Sight')",
+      "id": 1944459,
+      "name": "Jacob Fortune-Lloyd",
+      "profilePath": "/vWP0TglQTAANp4ikgB7CCEBUJoP.jpg"
+    },
+    {
+      "character": "Simon (segment 'First Sight')",
+      "id": 4600544,
+      "name": "Stefan Trout",
+      "profilePath": "/4wkucRpf8wjmIzJCjuTYOfpAk6A.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39050792"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "id": 1590097,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Afterlight",
+  "overview": "In a future shaped by war, AI, and fractured timelines, five sci-fi stories explore humanity’s fight for connection, survival, and meaning across time and space.",
+  "posterPath": "/7bzMCW1E1sOWEbjVuQ8iRGrdpcw.jpg",
+  "rating": 4.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-01-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-11-27"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-01-29"
+    },
+    "US": {
+      "theatrical": "2025-11-27"
+    }
+  },
+  "runtime": 65,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2025-11-27",
+  "title": "Afterlight",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "lBk150L_zJI",
+      "name": "Afterlight (2025) | Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 23,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1590097-afterlight/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        },
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1590097-afterlight/watch?locale=US",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 2393899,
+      "name": "Mariya Kravchenko",
+      "profilePath": "/idvUyAbdf60NwSmeqVbzNrpKohM.jpg"
+    },
+    {
+      "character": "",
+      "id": 5361309,
+      "name": "Darya Otroshko",
+      "profilePath": "/3F6KOMvGmuHMzK6FMY5o0LTD85s.jpg"
+    },
+    {
+      "character": "",
+      "id": 2002086,
+      "name": "Oleg Kamenshchikov",
+      "profilePath": "/9l0UMRbQDyaSQ2kAB0ef7kgrvBk.jpg"
+    },
+    {
+      "character": "",
+      "id": 1257153,
+      "name": "Aleksey Bazanov",
+      "profilePath": "/25YVcQ5egUYglXfX0vTwjpD3BDx.jpg"
+    },
+    {
+      "character": "",
+      "id": 3859903,
+      "name": "Dmitrii Kalikhov",
+      "profilePath": "/mMt26IQPwN0LiIZMTj0JGnB94Mi.jpg"
+    },
+    {
+      "character": "",
+      "id": 1850752,
+      "name": "Kristina Babushkina",
+      "profilePath": "/ky1AcN3GSPsqgP3kqqo9ctaMn22.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 119813,
+      "logoPath": "/iyGJzcnWXZoNxYLzZu4jKzxIoFw.png",
+      "name": "Premier Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "RU",
+      "name": "Russia"
+    }
+  ],
+  "digitalDate": "2027-01-01",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 1,
+        "name": "1.1",
+        "overview": "No description",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt38804735"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 331169,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ru",
+      "name": "Russian"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-01",
+    "episodeNumber": 1,
+    "id": 7658719,
+    "name": "1.1",
+    "overview": "No description",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Пункт выдачи заказов",
+  "overview": "No description",
+  "posterPath": "/z64SZ4xihGg5ZfBsat6jpgq5AQY.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-01"
+    },
+    "CN": {
+      "tv": "2027-01-01"
+    },
+    "GB": {
+      "tv": "2027-01-01"
+    },
+    "US": {
+      "tv": "2027-01-01"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-01",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Пункт выдачи заказов",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

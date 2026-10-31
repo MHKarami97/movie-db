@@ -1,0 +1,575 @@
+{
+  "backdropPath": "/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
+  "cast": [
+    {
+      "character": "Doug McCallister",
+      "id": 70851,
+      "name": "Jack Black",
+      "profilePath": "/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
+    },
+    {
+      "character": "Ronald Griffin Jr.",
+      "id": 22226,
+      "name": "Paul Rudd",
+      "profilePath": "/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+      "character": "Kenny Trent",
+      "id": 18324,
+      "name": "Steve Zahn",
+      "profilePath": "/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+    },
+    {
+      "character": "Claire Simons",
+      "id": 9030,
+      "name": "Thandiwe Newton",
+      "profilePath": "/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg"
+    },
+    {
+      "character": "Ana Almeida",
+      "id": 1784612,
+      "name": "Daniela Melchior",
+      "profilePath": "/tjAEB90Sa7DJtyTlDAkzVhPLQin.jpg"
+    },
+    {
+      "character": "Santiago",
+      "id": 87341,
+      "name": "Selton Mello",
+      "profilePath": "/sBVDTAAEDJuVBTKzVGA0PrqeD17.jpg"
+    },
+    {
+      "character": "Ice Cube",
+      "id": 9778,
+      "name": "Ice Cube",
+      "profilePath": "/9EghwabQ1wIQT4oN69qtPlzqGn4.jpg"
+    },
+    {
+      "character": "Malie",
+      "id": 3126,
+      "name": "Ione Skye",
+      "profilePath": "/ye8qsi6fn51HW93c7065Jogbh9p.jpg"
+    },
+    {
+      "character": "João",
+      "id": 129685,
+      "name": "Rui Ricardo Diaz",
+      "profilePath": "/zjFqxdsijCYiWHvEwaztRP1eQet.jpg"
+    },
+    {
+      "character": "Jerry",
+      "id": 21722,
+      "name": "John Billingsley",
+      "profilePath": "/uQzAvv4LUt57GBrYzDj5Ao1vhUT.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 134756,
+      "logoPath": "/saCxMqh2hFSbDeojykvP2qc6zNX.png",
+      "name": "Fully Formed Entertainment"
+    },
+    {
+      "id": 5,
+      "logoPath": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures"
+    },
+    {
+      "id": 22213,
+      "logoPath": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-01-27",
+  "externalIds": {
+    "facebookId": "AnacondaMovie",
+    "imdbId": "tt33244668",
+    "instagramId": "theanacondamovie",
+    "twitterId": "Anaconda_Movie",
+    "wikidataId": "Q131549006"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 33,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1234731,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Anaconda",
+  "overview": "داستان حول گروهی از دوستان می‌چرخد که در میانه‌ی بحران ‌میانسالی هستند و تصمیم می‌گیرند نسخه‌ای جدید از یک فیلم ترسناک محبوب دوران نوجوانی‌شان بسازند. آن‌ها برای فیلم‌برداری پروژه‌شان به جنگل آمازون می‌روند، اما با رویدادهای غیرمنتظره‌ای روبه‌رو می‌شوند؛ از جمله اینکه با یک آناکُندای واقعی مواجه می‌شوند که شکارشان می‌کند.",
+  "posterPath": "/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
+  "rating": 5.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-04-08",
+      "gapDays": 89,
+      "theatricalDate": "2026-01-09"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-12-26"
+    },
+    "US": {
+      "digitalDate": "2026-01-27",
+      "gapDays": 33,
+      "theatricalDate": "2025-12-25"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "digital": "2026-04-08",
+      "premiere": "2026-01-06",
+      "theatrical": "2026-01-09"
+    },
+    "GB": {
+      "theatrical": "2025-12-26"
+    },
+    "US": {
+      "digital": "2026-01-27",
+      "physical": "2026-03-17",
+      "premiere": "2025-12-13",
+      "theatrical": "2025-12-25"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A comedy so big it'll leave you breathless.",
+  "theatricalDate": "2025-12-25",
+  "title": "Anaconda",
+  "translations": {
+    "faOverview": "داستان حول گروهی از دوستان می‌چرخد که در میانه‌ی بحران ‌میانسالی هستند و تصمیم می‌گیرند نسخه‌ای جدید از یک فیلم ترسناک محبوب دوران نوجوانی‌شان بسازند. آن‌ها برای فیلم‌برداری پروژه‌شان به جنگل آمازون می‌روند، اما با رویدادهای غیرمنتظره‌ای روبه‌رو می‌شوند؛ از جمله اینکه با یک آناکُندای واقعی مواجه می‌شوند که شکارشان می‌کند.",
+    "faTitle": "آناکوندا"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Nk3gJZwIr8w",
+      "name": "The Challenges of Making ANACONDA on Location",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "lHz-vknflGg",
+      "name": "ANACONDA Snakes: Original vs New Film",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "vh_oMiAXUOE",
+      "name": "Epic Giant Anaconda Explosion",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "VrPm647xCpA",
+      "name": "Escaping The Giant Anaconda",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "cz3RGwvJ1Kw",
+      "name": "First 7 Minutes",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "n5tLqqZ7kxw",
+      "name": "Kenny’s Awkward Pee Shy Moment",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "LItzSK3d_PM",
+      "name": "Surviving The Anaconda Regurgitation",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "qT3b46Qx0RI",
+      "name": "Meeting The Snake Handler",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "Z4ahBqIGdkg",
+      "name": "Snake Accidentally Gets Shredded In Turbine",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "7Fg9TQ1oK9I",
+      "name": "Anaconda Reboot Is Finally Happening!",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "8o51tMpMNtw",
+      "name": "Behind the Scenes",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "lYi_Ww4EidA",
+      "name": "10 Minute Extended Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "HfkvKsyL8Sg",
+      "name": "Bloopers",
+      "official": true,
+      "type": "Bloopers"
+    },
+    {
+      "key": "r7KTH_LHIHw",
+      "name": "Ice Cube Reacts to SURPRISE Return",
+      "official": false,
+      "type": "Featurette"
+    },
+    {
+      "key": "7kAjA2KTWVY",
+      "name": "Exclusive Scene",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "jMbBuQAYOeM",
+      "name": "Jack Black & Paul Rudd have a special message for you",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "o63hBiFMaq8",
+      "name": "London Sizzle",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "gDH-8JuDk_c",
+      "name": "Four Favorites with Paul Rudd, Jack Black, Selton Mello and Tom Gormican",
+      "official": false,
+      "type": "Featurette"
+    },
+    {
+      "key": "LFLyvzIZjK4",
+      "name": "Final UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "q0UxtQfgz0A",
+      "name": "Final Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "cFCi2K6_OdI",
+      "name": "One Week Countdown",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "W_HzGgRlhGM",
+      "name": "This one hits differently.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "FEG_43gryJM",
+      "name": "In PH Cinemas Jan 8",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "frNGUsYinno",
+      "name": "In PH Cinemas Jan 8",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "x80ZL5tvIVI",
+      "name": "In PH Cinemas Jan 8",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "8rR0ixgPWtk",
+      "name": "In PH Cinemas Jan 8",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "2Q0WuqVbO9M",
+      "name": "Ranking Jack Black BTS",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "FZojdS__ijs",
+      "name": "In PH Cinemas Jan 8",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "CybEUUgVPvY",
+      "name": "Paul (the stud) Rudd",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "_9ijmBAXZ_o",
+      "name": "I say this with all due respect Mr. Black",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "yuewgECjRdQ",
+      "name": "And our friend Steve.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "1rIlinN2w4Q",
+      "name": "Wildin’ out with Jack Black at the Anaconda World Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "gR1g45Vl9No",
+      "name": "Christian McCaffrey",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "8wnHAO6NKmU",
+      "name": "Big action. Big screen. Big snake.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "wCK7zmPDoGI",
+      "name": "The countdown to chaos continues.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "088tp4Zt23M",
+      "name": "30 TV SPOT \"AMAZON\"",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "nStq45xURw0",
+      "name": "Just another normal day for Jack Black...",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "GEUU9-Y37FU",
+      "name": "POV: you’re third-wheeling Jack Black and Paul Rudd in the jungle.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "MiK4AfjLp5U",
+      "name": "Exclusive BTS Clip: Jack Black Gets Goop’d",
+      "official": false,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "q8dfQy6Xi80",
+      "name": "On Location With Jack Black and Selton Mello",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "8IDKYG3BeyQ",
+      "name": "Marketing Photoshoot",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "D9Kb4_zeZmk",
+      "name": "Behind the Scenes with Jack Black & Paul Rudd",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "Xd-ezkdmrSo",
+      "name": "Official Australia Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "az8M5Mai0X4",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "oOm-JFPkMvc",
+      "name": "Official Cast Announcement",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6d8cf3RNa1Y",
+      "name": "Jack Black and Paul Rudd Announcement",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 1527,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1234731-anaconda/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1234731-anaconda/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 331,
+          "logoPath": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+          "name": "FlixFling"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "backdropPath": "/7BvxzcuzWRPd5AGh0QMpOBRWLSx.jpg",
+  "cast": [],
+  "companies": [],
+  "countries": [
+    {
+      "code": "IL",
+      "name": "Israel"
+    }
+  ],
+  "digitalDate": "2022-12-29",
+  "externalIds": {
+    "wikidataId": "Q117303840"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 231359,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "he",
+      "name": "Hebrew"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-25",
+    "episodeNumber": 53,
+    "id": 7725206,
+    "name": "Episode 53",
+    "overview": "",
+    "seasonNumber": 6
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-01",
+    "episodeNumber": 54,
+    "id": 7725293,
+    "name": "Episode 54",
+    "overview": "",
+    "seasonNumber": 5
+  },
+  "originalTitle": "מה שתגידו",
+  "overview": "Comedians and other thinkers will interpret and tell about the last week that has passed for all of us in the Israeli and global reality.",
+  "posterPath": "/ikXkXNnsBGqHoCrGdoxHk26JTD0.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2022-12-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2022-12-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2022-12-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2022-12-29",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2022-12-29"
+    },
+    "CN": {
+      "tv": "2022-12-29"
+    },
+    "GB": {
+      "tv": "2022-12-29"
+    },
+    "US": {
+      "tv": "2022-12-29"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2025-10-18",
+      "episodeCount": 1,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2022-12-29",
+      "episodeCount": 13,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2023-06-01",
+      "episodeCount": 11,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/8rapNaZ8pCyal1evJGKK3bAzftn.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2023-11-02",
+      "episodeCount": 17,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2024-08-22",
+      "episodeCount": 39,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2025-10-26",
+      "episodeCount": 66,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2025-10-26",
+      "episodeCount": 66,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Whatever You Say",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

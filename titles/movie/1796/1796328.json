@@ -1,0 +1,196 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Nick",
+      "id": 2464,
+      "name": "Angus Macfadyen",
+      "profilePath": "/yUuA7U3lw6yM0Eb6mD83qYeevH2.jpg"
+    },
+    {
+      "character": "Robert",
+      "id": 1004902,
+      "name": "John Real",
+      "profilePath": null
+    },
+    {
+      "character": "Annie",
+      "id": 1921935,
+      "name": "Nicolette McKeown",
+      "profilePath": "/qBsNSgE7xXsFOVNPfMsFYbmtcR9.jpg"
+    },
+    {
+      "character": "Mrs. Perry",
+      "id": 1189234,
+      "name": "Sabrina Culver",
+      "profilePath": "/FbuvpdWiet6UbIvdXygKfAP9Ce.jpg"
+    },
+    {
+      "character": "Daniel",
+      "id": 4595005,
+      "name": "Francesco Marzagalli",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 123197,
+      "logoPath": null,
+      "name": "Real Dreams Entertainment S.r.l."
+    },
+    {
+      "id": 314567,
+      "logoPath": null,
+      "name": "Cinematica Service"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-30",
+  "externalIds": {
+    "imdbId": "tt39773403"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1796328,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Canvas",
+  "overview": "In an isolated house, a father and his son discover a painting that seems disturbingly alive. When their darkest nightmares begin bleeding into reality, a sinister presence emerges from the canvas, feeding on buried trauma and forgotten memories.",
+  "posterPath": "/93IYPILeLLbrs3BIQqG4tNJoPgF.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-30",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-30"
+    }
+  },
+  "runtime": 80,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Some art never dies.",
+  "theatricalDate": null,
+  "title": "The Canvas",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "NaXlGNNPmu0",
+      "name": "OFFICIAL TRAILER | THE CANVAS",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1796328-the-canvas/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1796328-the-canvas/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

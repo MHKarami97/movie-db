@@ -1,0 +1,173 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Marek/Tygr",
+      "id": 1247355,
+      "name": "Matouš Ruml",
+      "profilePath": "/o1vb5chlQ7SR7ncIVoaOG2goB12.jpg"
+    },
+    {
+      "character": "Daniel/Myšák",
+      "id": 3717013,
+      "name": "Jakub Jenčík",
+      "profilePath": "/xCnMEH03zBkX28m8QwHJCPtY3sV.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2027-01-01",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 1,
+        "name": "Tygr",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-08",
+        "episodeNumber": 2,
+        "name": "Myšák",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-15",
+        "episodeNumber": 3,
+        "name": "Vydra",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-22",
+        "episodeNumber": 4,
+        "name": "Sára",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-29",
+        "episodeNumber": 5,
+        "name": "Lucie",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-05",
+        "episodeNumber": 6,
+        "name": "Andrej",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-12",
+        "episodeNumber": 7,
+        "name": "Eva",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-19",
+        "episodeNumber": 8,
+        "name": "Daniel",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-26",
+        "episodeNumber": 9,
+        "name": "Marek",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1795117855725,
+  "gapDays": null,
+  "genres": [],
+  "id": 342603,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-01",
+    "episodeNumber": 1,
+    "id": 8146190,
+    "name": "Tygr",
+    "overview": "Daniel meets his new teacher.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Kamarád",
+  "overview": "series about teacher who likes abandoned kid more than he should",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-01"
+    },
+    "CN": {
+      "tv": "2027-01-01"
+    },
+    "GB": {
+      "tv": "2027-01-01"
+    },
+    "US": {
+      "tv": "2027-01-01"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-01",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Kamarád",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

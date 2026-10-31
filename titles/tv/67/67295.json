@@ -1,0 +1,189 @@
+{
+  "backdropPath": "/oB8B7O5bV4DKET6sFRGPRlWn28F.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 83340,
+      "logoPath": null,
+      "name": "Prime Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "2012-06-29",
+  "episodes": {
+    "3": [
+      {
+        "airDate": "2025-12-31",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": "/tkZNUgCPgrYjtazYDalrUKgJ5wc.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2025-12-31",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": "/ffxuagIlKBunBTJCEVR5FT3kRHA.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2025-12-31",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": "/uLQC2VeeR2J35NnoEVIlRY5JUUw.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2025-12-31",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": "/fPcWxG3Ex8jBjwSCYbUAQD69GiB.jpg",
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt2214918",
+    "wikidataId": "Q1985106"
+  },
+  "fetchedAt": 1795031469102,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 67295,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-12-31",
+    "episodeNumber": 4,
+    "id": 6771191,
+    "name": "Episode 4",
+    "overview": "",
+    "seasonNumber": 3
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Nicht nachmachen!",
+  "overview": "Tempting fate, fearless hosts Wigald Boning and Bernhard Hoecker ignore warnings and restrictions on various items to see what happens when they do.",
+  "posterPath": "/of2bzTAeMI1LbT0hcNGS2BMr87D.jpg",
+  "rating": 8.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2012-06-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2012-06-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2012-06-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2012-06-29",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2012-06-29"
+    },
+    "CN": {
+      "tv": "2012-06-29"
+    },
+    "GB": {
+      "tv": "2012-06-29"
+    },
+    "US": {
+      "tv": "2012-06-29"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2012-06-29",
+      "episodeCount": 6,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/eKFVOhPRZ04YoYk4tN4ehTT8mHb.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2013-07-26",
+      "episodeCount": 6,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/yXFQXaxaDYKjvhU2TybM3JVCw4Q.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2025-12-31",
+      "episodeCount": 4,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/6nR6zQT94gu6rEH1fNfcD0ZTeWR.jpg",
+      "seasonNumber": 3
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Never Ever Do This at Home!",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 14,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2405,
+          "logoPath": "/10011zizrQEpO955oxor51BM0IP.png",
+          "name": "IndieFlix Shorts Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/67295-nicht-nachmachen/watch?locale=US",
+      "rent": []
+    }
+  }
+}

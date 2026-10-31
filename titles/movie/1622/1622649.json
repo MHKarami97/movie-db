@@ -1,0 +1,181 @@
+{
+  "backdropPath": "/dqUEdAT7Vfn6zvH6SmYPctFUCjk.jpg",
+  "cast": [
+    {
+      "character": "Nelly",
+      "id": 64917,
+      "name": "Pascale Hutton",
+      "profilePath": "/8oWcuapDxL7LhmgBK46drdPJvrZ.jpg"
+    },
+    {
+      "character": "Michael",
+      "id": 21213,
+      "name": "Kavan Smith",
+      "profilePath": "/zVJTMSlouAL345ApPZO7V2XCXW2.jpg"
+    },
+    {
+      "character": "Fiona",
+      "id": 2015400,
+      "name": "Veronica Long",
+      "profilePath": "/ytrg4NdduyNDqkwPoewYvWfcvpy.jpg"
+    },
+    {
+      "character": "Hux Spencer",
+      "id": 26069,
+      "name": "Paul McGillion",
+      "profilePath": "/43sfykb5iFosUHZqCnmx5GFFkro.jpg"
+    },
+    {
+      "character": "Eli Flint",
+      "id": 1617701,
+      "name": "Markian Tarasiuk",
+      "profilePath": "/Zh7nUBYCeTyDyXNYeHJFVyWo1J.jpg"
+    },
+    {
+      "character": "Adam Dunbar",
+      "id": 1234922,
+      "name": "Barry W. Levy",
+      "profilePath": "/ucmszxRXA8Jk9W59mFtyRWa6ZHi.jpg"
+    },
+    {
+      "character": "Teddy Spencer",
+      "id": 1882898,
+      "name": "James Paladino",
+      "profilePath": "/kaga96aDpAMuInkhJOLGPJXcvEf.jpg"
+    },
+    {
+      "character": "Josh Ward",
+      "id": 2577900,
+      "name": "Daylin Willis",
+      "profilePath": "/5qTB0M4lNS9Qu36eSncP2DFVIEe.jpg"
+    },
+    {
+      "character": "Bree Spencer",
+      "id": 2770318,
+      "name": "Victoria Dunsmore",
+      "profilePath": null
+    },
+    {
+      "character": "Sheriff Burgi Brahm",
+      "id": 3742276,
+      "name": "Andrea Reindl",
+      "profilePath": "/sKwBBZYLmIpOODfvE92qCf5lkBO.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 3958,
+      "logoPath": "/xkdYNmOW6e4gjgp4NSLRt0W5UIj.png",
+      "name": "Front Street Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35979236"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1622649,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Nelly Knows Mysteries: All Manners of Murder",
+  "overview": "Nelly and Detective Michael set out to solve the  murder of a guest while at a lavish dinner.",
+  "posterPath": "/fyFB9ivzImj3eZfIE5mfCwMjny1.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2026-03-14"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Nelly Knows Mysteries: All Manners of Murder",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "-zzunoJAw_0",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 290,
+          "logoPath": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "id": 2058,
+          "logoPath": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "id": 1746,
+          "logoPath": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1622649-nelly-knows-mysteries-all-manners-of-murder/watch?locale=US",
+      "rent": []
+    }
+  }
+}

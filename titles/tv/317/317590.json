@@ -1,0 +1,127 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 52263,
+      "name": "Arjun Rampal",
+      "profilePath": "/1F81WNcVV5cW9O4D5Otk1Y2WHV9.jpg"
+    },
+    {
+      "character": "",
+      "id": 1222900,
+      "name": "Jennifer Winget",
+      "profilePath": "/eQx5zsmvPkjaWiMh5fMQMSCJUwC.jpg"
+    },
+    {
+      "character": "",
+      "id": 1450085,
+      "name": "Sapna Pabbi",
+      "profilePath": "/n0LTGi9ZrMtUWfZgahD0oyYDrFT.jpg"
+    },
+    {
+      "character": "",
+      "id": 52768,
+      "name": "Vipin Sharma",
+      "profilePath": "/3TZHbQ1Zi3z1B721jwwTKxAMXqI.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 213644,
+      "logoPath": null,
+      "name": "Almighty Motion Picture"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2027-10-23",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-10-23",
+        "episodeNumber": 1,
+        "name": "Season 1",
+        "overview": "Episode 1 Season 1",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 317590,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-10-23",
+    "episodeNumber": 1,
+    "id": 7080690,
+    "name": "Season 1",
+    "overview": "Episode 1 Season 1",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Billionaire",
+  "overview": "",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-10-23",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-10-23",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-10-23",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-10-23",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-10-23"
+    },
+    "CN": {
+      "tv": "2027-10-23"
+    },
+    "GB": {
+      "tv": "2027-10-23"
+    },
+    "US": {
+      "tv": "2027-10-23"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-10-23",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Billionaire",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

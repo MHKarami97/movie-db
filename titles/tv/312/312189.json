@@ -1,0 +1,155 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "REBEKAH HACKERLY",
+      "id": 5892785,
+      "name": "TBA",
+      "profilePath": null
+    },
+    {
+      "character": "JAMILAH WYNTER",
+      "id": 2374758,
+      "name": "tba",
+      "profilePath": null
+    },
+    {
+      "character": "SCARLET VOSS",
+      "id": 5892794,
+      "name": "TBA",
+      "profilePath": null
+    },
+    {
+      "character": "MARIE WYNTER",
+      "id": 5702208,
+      "name": "TBA",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 155990,
+      "logoPath": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": null,
+  "episodes": {
+    "1": [],
+    "2": [],
+    "7": [
+      {
+        "airDate": "2027-09-08",
+        "episodeNumber": 1,
+        "name": "WELCOME",
+        "overview": "first day at N.U. and the girls meet each other achieving a bad relationship.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 312189,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-09-08",
+    "episodeNumber": 1,
+    "id": 6879953,
+    "name": "WELCOME",
+    "overview": "first day at N.U. and the girls meet each other achieving a bad relationship.",
+    "seasonNumber": 7
+  },
+  "originalTitle": "Clever Girls",
+  "overview": "After the murder of eighteen students in just the first semester, three girls reject the official story and launch a secret investigation. When one of the victims is the ex of one of them, the search for the truth becomes personal — and they uncover a dark world being covered up by the school.",
+  "posterPath": "/dO2HAfQGrjs4DEJmprlyYTM183r.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2027-09-08",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Clever Girls",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

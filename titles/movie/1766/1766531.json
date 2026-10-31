@@ -1,0 +1,141 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Will",
+      "id": 6465821,
+      "name": "Blake Hall",
+      "profilePath": null
+    },
+    {
+      "character": "Dr. Atticus Coleman",
+      "id": 3654691,
+      "name": "Cory Davison",
+      "profilePath": null
+    },
+    {
+      "character": "Betty",
+      "id": 6465823,
+      "name": "Marsha O'Keefe",
+      "profilePath": null
+    },
+    {
+      "character": "The Guide",
+      "id": 5723407,
+      "name": "Lucas Dunn",
+      "profilePath": null
+    },
+    {
+      "character": "The Heart",
+      "id": 6446066,
+      "name": "William Kyzer Cooper",
+      "profilePath": null
+    },
+    {
+      "character": "The Sage",
+      "id": 3812465,
+      "name": "Mike Gee",
+      "profilePath": null
+    },
+    {
+      "character": "Maxwell",
+      "id": 6465827,
+      "name": "Kalven Hammer",
+      "profilePath": null
+    },
+    {
+      "character": "The Drifter",
+      "id": 3917413,
+      "name": "John Queener",
+      "profilePath": null
+    },
+    {
+      "character": "Vigilante",
+      "id": 4190655,
+      "name": "Joe Casterline",
+      "profilePath": null
+    },
+    {
+      "character": "Vigilante",
+      "id": 3917396,
+      "name": "Virgil McKee",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 229669,
+      "logoPath": null,
+      "name": "Strange Films Studios"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2026-12-04",
+  "externalIds": {
+    "imdbId": "tt41091126"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "id": 1766531,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "TV Land",
+  "overview": "After being diagnosed with a terminal illness, Will is given a second chance at life when a disturbed doctor forces him into an experimental procedure. He awakens in a strange world hidden behind a television screen, where reality and fantasy blur together. As he searches for a way back home, Will is forced to confront his past and discover what truly gives life meaning.",
+  "posterPath": "/rbUGyEg6k8HrgRP9Z705ZmgNpel.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-12-04",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-12-04"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "Welcome to TV Land",
+  "theatricalDate": null,
+  "title": "TV Land",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "_d7UkWr_VnE",
+      "name": "TV LAND (Official Trailer)",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

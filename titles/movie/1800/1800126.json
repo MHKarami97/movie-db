@@ -1,0 +1,137 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 2897606,
+      "name": "Mary Antonini",
+      "profilePath": "/2u1h4PJzIathvWtDesilMmkOATy.jpg"
+    },
+    {
+      "character": "",
+      "id": 2801074,
+      "name": "Shane Marriott",
+      "profilePath": "/8DhpwjmioUCcbwcSsznc38VkatH.jpg"
+    },
+    {
+      "character": "Emily",
+      "id": 1849381,
+      "name": "JaNae Armogan",
+      "profilePath": "/prkX4qcXtSQGY97FvJE39UYy5Vk.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 266872,
+      "logoPath": "/xiBTudkHBBRWOsAoP0y5A6klyQE.png",
+      "name": "Studio TF1 America"
+    },
+    {
+      "id": 140422,
+      "logoPath": "/bdzcN8jo9l77g5zKqPlxW3CkejM.png",
+      "name": "Champlain Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt46743617"
+  },
+  "fetchedAt": 1794677631424,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1800126,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Road Back to Us",
+  "overview": "After finalizing their divorce, a couple must drive cross-country together to deliver their daughter's belongings to college - an emotional road trip that retraces the milestones of their marriage in reverse.",
+  "posterPath": "/piMQa6cO3NJQCyLxgGxESsw1CL3.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2026-11-08"
+    }
+  },
+  "runtime": 88,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Road Back to Us",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1800126-the-road-back-to-us/watch?locale=US",
+      "rent": [
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

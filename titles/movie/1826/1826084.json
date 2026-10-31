@@ -1,0 +1,90 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Harold Milton",
+      "id": 2440182,
+      "name": "Kevin Karrick",
+      "profilePath": "/qAV7W8N65oBKxCgkGLFWQ7reOl5.jpg"
+    },
+    {
+      "character": "Annette Ingram",
+      "id": 4391642,
+      "name": "Gabriella Goldstein",
+      "profilePath": null
+    },
+    {
+      "character": "Arthur Irwin",
+      "id": 2440183,
+      "name": "Robert Paine",
+      "profilePath": "/yy2Z97iGzbNaJOUjY0VVE2fv0Qs.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt49812485"
+  },
+  "fetchedAt": 1795203017842,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1826084,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "The Holdout",
+  "overview": "Harold Milton, a fiercely independent rancher, is enraged when expanding AI data centers contaminate his land and water, killing his livestock and threatening his family’s livelihood. After confronting the development company CEO, Arthur Irwin, and discovering that they intend to proceed despite the harm, Harold finds himself increasingly isolated as neighboring ranchers accept lucrative buyouts. When Arthur and his security team are involved in a violent confrontation with Harold’s ranch hand, Harold decides that peaceful resistance is no longer enough. Armed with explosives and firearms, Harold is forced to take a stand before they take everything.",
+  "posterPath": "/6fAAkOgYNRVFteQp6eRsSyV7hv2.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-18"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2026-11-18"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "One Man Against the Machine",
+  "theatricalDate": "2026-11-18",
+  "title": "The Holdout",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

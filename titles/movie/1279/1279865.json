@@ -1,0 +1,137 @@
+{
+  "backdropPath": "/keow9fa9WaXAyQzBpCaQPHM5Jvw.jpg",
+  "cast": [
+    {
+      "character": "Keitaro Obinata (voice)",
+      "id": 1668193,
+      "name": "Riku Hagiwara",
+      "profilePath": "/yX2Zjhy7FdPwLexGxG8sgoSgakN.jpg"
+    },
+    {
+      "character": "Kaoru Shikimori (voice)",
+      "id": 2187869,
+      "name": "Kotone Furukawa",
+      "profilePath": "/vcW4qq52yAWuIwKlHw3s5y2HEnI.jpg"
+    },
+    {
+      "character": "Sentaro Obinata (voice)",
+      "id": 19588,
+      "name": "Miyu Irino",
+      "profilePath": "/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+    },
+    {
+      "character": "Eitaro Obinata (voice)",
+      "id": 2159313,
+      "name": "Takashi Okabe",
+      "profilePath": "/kcvD0Ol07ToTKyCGhXTuNtKC2LN.jpg"
+    },
+    {
+      "character": "Additional Voices (voice)",
+      "id": 1128824,
+      "name": "Manta Yamamoto",
+      "profilePath": "/3sCjXIiEurl5RuUCmYVOuNTcBe1.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 3033,
+      "logoPath": "/AwgX2FHGJd54aSWfWJqptFvT1h.png",
+      "name": "Asmik Ace"
+    },
+    {
+      "id": 82153,
+      "logoPath": "/mNEYX9oxFny6OOyb8083AKPbH8U.png",
+      "name": "Miyu Productions"
+    },
+    {
+      "id": 233546,
+      "logoPath": "/qQB4vrJaNHeXcxD03WMtp4lYWoq.png",
+      "name": "Studio Outrigger"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt32192760",
+    "twitterId": "hanaroku_movie",
+    "wikidataId": "Q136352585"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1279865,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "originalTitle": "花緑青が明ける日に",
+  "overview": "The Obinata Fireworks Shop factory is getting prepared for an administrative action for confiscation tomorrow. It has been six years since Keitaro has been holed up in a closed-down factory creating fireworks by himself, chasing after an illusion of his father who vanished. It is a story about three young people who overcome the extreme weather conditions, disasters and environmental problems imposed on them and establish their own identities.",
+  "posterPath": "/tYGMWBZtLAPLhxZei9pRJWubbo0.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-11-07"
+    }
+  },
+  "runtime": 75,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "A New Dawn",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "MD-yGCPsTpc",
+      "name": "Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 12,
+  "watchProviders": {}
+}

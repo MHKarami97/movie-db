@@ -1,0 +1,166 @@
+{
+  "backdropPath": "/epghjQKoDlwQ2vGYDQzMAFoJHRt.jpg",
+  "cast": [
+    {
+      "character": "Li Qi",
+      "id": 2122379,
+      "name": "Tan Jianci",
+      "profilePath": "/wZVw3agRZwqTKeOr4q7wkMET9hJ.jpg"
+    },
+    {
+      "character": "Tang Yuxuan",
+      "id": 2379893,
+      "name": "Wang Ge",
+      "profilePath": "/7WEHoMtdsXG3h0PFJUohZbj6lfz.jpg"
+    },
+    {
+      "character": "Zhang Xiaorui",
+      "id": 4617693,
+      "name": "Lan Xiya",
+      "profilePath": "/62rH0dD6nC9ge0jwEdlgFfuhuIF.jpg"
+    },
+    {
+      "character": "Jin Songfeng",
+      "id": 575866,
+      "name": "Wang Yanhui",
+      "profilePath": "/umBp3VwmHy8bCcvgkLUtixq6bpD.jpg"
+    },
+    {
+      "character": "Ma Ziqiang",
+      "id": 2086256,
+      "name": "Pan Binlong",
+      "profilePath": "/6UnbeOT5ORFmobVd146y3r8U0ng.jpg"
+    },
+    {
+      "character": "Ms. Wu",
+      "id": 148093,
+      "name": "Chi Peng",
+      "profilePath": "/jfHwSFSLCNAeCKGAUnCAawkP412.jpg"
+    },
+    {
+      "character": "Ms. Pan",
+      "id": 1621705,
+      "name": "Li Jingjing",
+      "profilePath": "/6nHYc8PmzePOhsiMbSKOl3WWcws.jpg"
+    },
+    {
+      "character": "Liu Chao",
+      "id": 2813501,
+      "name": "Fan Xiang",
+      "profilePath": null
+    },
+    {
+      "character": "Li Zhenhua",
+      "id": 3763838,
+      "name": "Hu Xiaoguang",
+      "profilePath": "/dKhOAVnb6GBmVcMil51PAn7DMVU.jpg"
+    },
+    {
+      "character": "Mr. Ming",
+      "id": 2187096,
+      "name": "Ning Huanyu",
+      "profilePath": "/xDe5mPTvdYKNkY99Dq5O9sCEvXg.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 131587,
+      "logoPath": "/vtQSkfAuPHoBtlEbUpsjs5kVfG6.png",
+      "name": "Lian Ray Pictures"
+    },
+    {
+      "id": 96956,
+      "logoPath": "/nMaeUdQwAhN69omhooaPDKCpEFO.png",
+      "name": "Maoyan Entertainment"
+    },
+    {
+      "id": 131092,
+      "logoPath": "/dtsMvAgTenOlDWnqaa4pEovx6d5.png",
+      "name": "Zhejiang Hengdian Film Production"
+    },
+    {
+      "id": 2270,
+      "logoPath": "/7osqu50JpFIh0klZU0s1CrnNqcc.png",
+      "name": "China Film Group Corporation"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36690044",
+    "wikidataId": "Q136691856"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1466319,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "originalTitle": "震耳欲聋",
+  "overview": "Lawyer Li Qi, driven by greed, becomes embroiled in a fraud case against deaf individuals, abandoning his deaf family background in pursuit of fame and fortune.",
+  "posterPath": "/6aKzErXjKJl2yaJ5mALN0jDVZhH.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-01-09",
+      "gapDays": 97,
+      "theatricalDate": "2025-10-04"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-10-17"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "digital": "2026-01-09",
+      "premiere": "2025-09-27",
+      "theatrical": "2025-10-04",
+      "theatricalLimited": "2025-10-02"
+    },
+    "US": {
+      "theatrical": "2025-10-17"
+    }
+  },
+  "runtime": 125,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2025-10-17",
+  "title": "Sound of Silence",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 26,
+  "watchProviders": {}
+}

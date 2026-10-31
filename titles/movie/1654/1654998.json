@@ -1,0 +1,171 @@
+{
+  "backdropPath": "/osHkvmg97Trv1QHVW1WIObbN1pu.jpg",
+  "cast": [
+    {
+      "character": "Sam",
+      "id": 5757880,
+      "name": "Bean Reid",
+      "profilePath": "/1jYS1uTMVd9CbhxYwjqgJlQ0j1r.jpg"
+    },
+    {
+      "character": "Cassandra",
+      "id": 44810,
+      "name": "Cassandra Peterson",
+      "profilePath": "/tXvakSnVSyauOV48qH4Zr0uzKGT.jpg"
+    },
+    {
+      "character": "Becka",
+      "id": 5488104,
+      "name": "Adeline Lo",
+      "profilePath": "/7qdnYQqZzJP4yYHBxvFhn9H78ek.jpg"
+    },
+    {
+      "character": "Rusty",
+      "id": 440439,
+      "name": "Matty Finochio",
+      "profilePath": "/7I2iawz7YHZDbH15V4Om0Tdep9c.jpg"
+    },
+    {
+      "character": "Evan",
+      "id": 1975740,
+      "name": "Sebastian Billingsley-Rodriguez",
+      "profilePath": "/xhPHlfkz0RgoUGDfMpvz2SCYMlf.jpg"
+    },
+    {
+      "character": "Cassie",
+      "id": 1175501,
+      "name": "Kendra Anderson",
+      "profilePath": "/eUpDAS5owssdULkD6kT2AaF9pUf.jpg"
+    },
+    {
+      "character": "Finn",
+      "id": 1428071,
+      "name": "Seth Isaac Johnson",
+      "profilePath": "/8L1vXNiNYx1jOHCuWhU8W1yghmy.jpg"
+    },
+    {
+      "character": "Sheriff",
+      "id": 1235460,
+      "name": "Bob Frazer",
+      "profilePath": "/alDdLXo3D0C0b17o85QnZJeFWfn.jpg"
+    },
+    {
+      "character": "Mean Uncle Jerry",
+      "id": 77315,
+      "name": "Robert Moloney",
+      "profilePath": "/gbmYYq0R6xvuKZQ1kwUBwkN9iso.jpg"
+    },
+    {
+      "character": "Chad",
+      "id": 3261174,
+      "name": "Miles Phoenix Foley",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 3958,
+      "logoPath": "/xkdYNmOW6e4gjgp4NSLRt0W5UIj.png",
+      "name": "Front Street Pictures"
+    },
+    {
+      "id": 275176,
+      "logoPath": null,
+      "name": "Haunting Hour Road Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2026-10-09",
+  "externalIds": {
+    "imdbId": "tt40902212"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1654998,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "R.L. Stine's Pumpkinhead 2",
+  "overview": "Sam and Becka race to stop a new Pumpkinhead curse from claiming the entire town of Redhaven.",
+  "posterPath": "/4liM7YBglVRk2UVuKsN7YQDmMpr.jpg",
+  "rating": 5.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-09",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-09"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "R.L. Stine's Pumpkinhead 2",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "3CrkxyWl5WQ",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1654998-r-l-stine-s-pumpkinhead-2/watch?locale=US",
+      "rent": []
+    }
+  }
+}

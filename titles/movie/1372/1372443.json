@@ -1,0 +1,181 @@
+{
+  "backdropPath": "/xhQsgJwT9vSLsqNWQCqKEgx6A1G.jpg",
+  "cast": [
+    {
+      "character": "John Tuggle",
+      "id": 1785590,
+      "name": "David Corenswet",
+      "profilePath": "/yoQxpUPt3le9zY4Sab3g2ANy4CE.jpg"
+    },
+    {
+      "character": "Katie",
+      "id": 1972974,
+      "name": "Isabel May",
+      "profilePath": "/RJ4djIbfvUHXCCgniiAi0ebhED.jpg"
+    },
+    {
+      "character": "Bill Parcells",
+      "id": 335,
+      "name": "Michael Shannon",
+      "profilePath": "/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+    },
+    {
+      "character": "Whitey Horai",
+      "id": 38582,
+      "name": "David Krumholtz",
+      "profilePath": "/2vaimzfyPQVxZGHbQS5M3z3tZw0.jpg"
+    },
+    {
+      "character": "Ron Faye",
+      "id": 2096500,
+      "name": "Greg Hatton",
+      "profilePath": "/j0jioHCWjJJEr41Vr2vHgRRtEMx.jpg"
+    },
+    {
+      "character": "Anita Faye",
+      "id": 33310,
+      "name": "Tandi Wright",
+      "profilePath": "/xLQ9j4pJ46HZhs5jMJ87w9zjv82.jpg"
+    },
+    {
+      "character": "Stephanie Tuggle",
+      "id": 1813177,
+      "name": "Ella Newton",
+      "profilePath": "/qu6BQ51nvSYW5gxY6QX1bdtQlzl.jpg"
+    },
+    {
+      "character": "",
+      "id": 5642984,
+      "name": "Thaddeus LaGrone",
+      "profilePath": "/2TpH3tkWxUOMwYnbeuyayTqNYFz.jpg"
+    },
+    {
+      "character": "Joe Morris",
+      "id": 2639644,
+      "name": "Takudzwa Matsatsa",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 173807,
+      "logoPath": "/vXKfbGDlT9bNCio5BXmiWpOp6Vi.png",
+      "name": "Skydance Sports"
+    },
+    {
+      "id": 216687,
+      "logoPath": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+      "name": "Domain Entertainment"
+    },
+    {
+      "id": 161410,
+      "logoPath": null,
+      "name": "Blackjack Films"
+    },
+    {
+      "id": 175046,
+      "logoPath": null,
+      "name": "Megamix"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "facebookId": "mrirrelevantmovie",
+    "imdbId": "tt30093348",
+    "instagramId": "mrirrelevant",
+    "twitterId": "Mrirrelevant",
+    "wikidataId": "Q134272423"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1372443,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Mr. Irrelevant",
+  "overview": "The last player selected in the 1983 NFL draft by the New York Giants, underdog John Tuggle, defies expectations on and off the field for head coach Bill Parcells, his newfound love, and his team, proving that remarkable hope and perseverance can transcend even the greatest challenges.",
+  "posterPath": "/v9xESDLVKXw9CqzbzA7MNWs1ROT.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-01-01"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-12-25"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2027-01-01"
+    },
+    "US": {
+      "theatrical": "2026-12-25"
+    }
+  },
+  "runtime": 125,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "He will change the way you see the world.",
+  "theatricalDate": "2026-12-25",
+  "title": "Mr. Irrelevant",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "TB4P19abpLg",
+      "name": "TikTok Transition",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "NMDHgQAEb7Y",
+      "name": "Giants Game Interviews",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "4UQCiw16Iv4",
+      "name": "Becoming Mr. Irrelevant",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "cwVE1qf6Ixs",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

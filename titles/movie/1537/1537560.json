@@ -1,0 +1,220 @@
+{
+  "backdropPath": "/7O5qZ4h2SnBwMBa7qs8X53lU6cX.jpg",
+  "cast": [
+    {
+      "character": "Ella",
+      "id": 3614248,
+      "name": "Ginna Claire",
+      "profilePath": "/5vaGVwwY2mJhRQOzZsqNzZW5QgA.jpg"
+    },
+    {
+      "character": "Nick",
+      "id": 589182,
+      "name": "Wes Brown",
+      "profilePath": "/3ZYBFaceV0SV3lfYlO8RjIB9JvL.jpg"
+    },
+    {
+      "character": "Christine",
+      "id": 5796621,
+      "name": "Talia Robinson",
+      "profilePath": null
+    },
+    {
+      "character": "Francis",
+      "id": 4782867,
+      "name": "Evan Alexander Smith",
+      "profilePath": "/nxem6l5MUsD0K2W5AzqQ5UoT6ZZ.jpg"
+    },
+    {
+      "character": "Adam / Rex",
+      "id": 111196,
+      "name": "David O'Donnell",
+      "profilePath": "/3sHDghttGGBdJdTVE7z4EBSmz8S.jpg"
+    },
+    {
+      "character": "Ada",
+      "id": 2703313,
+      "name": "Paige Cummings",
+      "profilePath": null
+    },
+    {
+      "character": "Albert",
+      "id": 2569122,
+      "name": "Joseph Dellger",
+      "profilePath": null
+    },
+    {
+      "character": "Grafton Tourist",
+      "id": 1417990,
+      "name": "Tracey B. Wilson",
+      "profilePath": null
+    },
+    {
+      "character": "Sadie",
+      "id": 1786429,
+      "name": "Regina Schneider",
+      "profilePath": "/lBgb9PtbM8WKh6bPgV8gNqflikU.jpg"
+    },
+    {
+      "character": "Vendor",
+      "id": 5796624,
+      "name": "Amanda Marie Lungaro",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 53015,
+      "logoPath": "/tWxubAjwO1QtLLWdnUR1bjS1vvf.png",
+      "name": "Hallmark Media"
+    },
+    {
+      "id": 23761,
+      "logoPath": "/4jwuS7AnT0Itq4ExleF90Cmo3mt.png",
+      "name": "Synthetic Cinema International"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36491858"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1537560,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "A Newport Christmas",
+  "overview": "A charitable and spirited Newport socialite in 1905 finds out her father intends for her to become engaged to a man she’s never met at the upcoming Christmas Eve ball. When she wishes for a different life, a man appears — and she somehow time-travels to 2025.",
+  "posterPath": "/bNWUsEOg7HzHlZmSTVKuZ6SglxM.jpg",
+  "rating": 8.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2025-11-02"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "She's ahead of her time. He has history to prove it.",
+  "theatricalDate": null,
+  "title": "A Newport Christmas",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "KaY74AGTTiY",
+      "name": "Sneak Peek",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "2SASGrMMk54",
+      "name": "Preview",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 15,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1537560-a-newport-christmas/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 290,
+          "logoPath": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "id": 2058,
+          "logoPath": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "id": 1746,
+          "logoPath": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1537560-a-newport-christmas/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "backdropPath": "/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
+  "cast": [
+    {
+      "character": "Swarna/Jhansi",
+      "id": 225312,
+      "name": "Samantha Ruth Prabhu",
+      "profilePath": "/FFGYlhLQK7FWzPLtmOb1QHTDAh.jpg"
+    },
+    {
+      "character": "Karuna",
+      "id": 1047711,
+      "name": "Gulshan Devaiah",
+      "profilePath": "/6fOS4P9KiPFvIuLyvIUfMyXiF29.jpg"
+    },
+    {
+      "character": "Dr. Anirudh",
+      "id": 1210124,
+      "name": "Diganth Manchale",
+      "profilePath": "/o5T3X15zNomtDt5CumYBVZ3FIdI.jpg"
+    },
+    {
+      "character": "Kiranmayi",
+      "id": 6295343,
+      "name": "Manjusha Mukkavilli",
+      "profilePath": "/ifyz7nkG4vensaTNrL8WOtEnF5M.jpg"
+    },
+    {
+      "character": "Kamakshi",
+      "id": 544979,
+      "name": "Gautami Tadimalla",
+      "profilePath": "/jIl0nNou47v2KMejA7CMO6i0JFH.jpg"
+    },
+    {
+      "character": "Ramaiah Raju",
+      "id": 1333243,
+      "name": "Anand",
+      "profilePath": "/nITOqirdTcd3hDCZvp8QWknV6WU.jpg"
+    },
+    {
+      "character": "Anasuya",
+      "id": 1339169,
+      "name": "Sreemukhi",
+      "profilePath": "/jCgM4s01p6f5LoAiCmRUPZ2pCBL.jpg"
+    },
+    {
+      "character": "Anirudh's Grandmother",
+      "id": 1325397,
+      "name": "Srilakshmi",
+      "profilePath": "/czQXxJ6c149HPmY0JSHPxEL5wXW.jpg"
+    },
+    {
+      "character": "Buchiraju",
+      "id": 1630694,
+      "name": "Srinivas Gavireddy",
+      "profilePath": "/kqY5KxbzP2PAb3urHCEy8Oy9oEZ.jpg"
+    },
+    {
+      "character": "Sharath",
+      "id": 588013,
+      "name": "Chaitanya Krishna",
+      "profilePath": "/gGzQ1fzidW97X3GrpcG3OspcLSz.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 262244,
+      "logoPath": "/vlXkdM3aTAGQTmBSZx7ulk6mM5V.png",
+      "name": "Tralala Moving Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt32237111",
+    "wikidataId": "Q140278104"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1227241,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "te",
+      "name": "Telugu"
+    }
+  ],
+  "originalTitle": "మా ఇంటి బంగారం",
+  "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
+  "posterPath": "/iSRIxnizjINdc7Dy68HQRkcPSR2.jpg",
+  "rating": 6.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-06-18"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-06-18"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-06-18"
+    },
+    "US": {
+      "theatrical": "2026-06-18"
+    }
+  },
+  "runtime": 158,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "This GOLD is BLOODY bold",
+  "theatricalDate": "2026-06-18",
+  "title": "Maa Inti Bangaram",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "vdTawCMwiQs",
+      "name": "Maa Inti Bangaaram Teaser Trailer | Samantha | Raj Nidimoru | Nandini | Diganth | Santhosh Narayanan",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 21,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1227241/watch?locale=US",
+      "rent": []
+    }
+  }
+}

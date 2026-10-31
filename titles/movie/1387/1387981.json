@@ -1,0 +1,212 @@
+{
+  "backdropPath": "/8S1duOpGapJLIpfPMoNLyUSwuHS.jpg",
+  "cast": [
+    {
+      "character": "Misael",
+      "id": 968157,
+      "name": "Misael Saavedra",
+      "profilePath": "/w2pmuFk3mhiY82De7AjnGgj9dRB.jpg"
+    },
+    {
+      "character": "Micaela",
+      "id": 98236,
+      "name": "Catalina Saavedra",
+      "profilePath": "/z4VVmyuL3BfIjRMFUUPS987hJET.jpg"
+    },
+    {
+      "character": "Doctor",
+      "id": 125499,
+      "name": "Adrián Fondari",
+      "profilePath": "/sZq41K3OFlmBeFdupcJO8jIHmHc.jpg"
+    },
+    {
+      "character": "",
+      "id": 6164792,
+      "name": "Alcides Fink",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 1522001,
+      "name": "Laura López Moyano",
+      "profilePath": "/5fhMBCIWljExzXFpfKAMoLqCeDB.jpg"
+    },
+    {
+      "character": "",
+      "id": 5014684,
+      "name": "Alberto Villarroel",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6234348,
+      "name": "Hugo Fabián Sanchez",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6234349,
+      "name": "Iván Carra",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6234350,
+      "name": "Ariel Ali Quiroz",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6234351,
+      "name": "Sordo",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 51671,
+      "logoPath": "/35Dmh4v9iCjxxt9jJLwkZlCDJI9.png",
+      "name": "Planta"
+    },
+    {
+      "id": 257788,
+      "logoPath": "/1xhawZrN99BMfeerXzfwAkQieqe.png",
+      "name": "Deptford Film"
+    },
+    {
+      "id": 39339,
+      "logoPath": null,
+      "name": "4L"
+    },
+    {
+      "id": 72130,
+      "logoPath": "/2aZx0CKefgtSJEwU5TBLX7oXwyR.png",
+      "name": "Les Films Fauves"
+    },
+    {
+      "id": 7306,
+      "logoPath": "/iqCkzLmACmrws2tHO2USRLkJqXY.png",
+      "name": "The Match Factory"
+    },
+    {
+      "id": 136963,
+      "logoPath": "/cy7yQL0v56g2MQChxKqYF3NGkLx.png",
+      "name": "Cimarrón Cine"
+    },
+    {
+      "id": 171436,
+      "logoPath": "/2PCuIrmhOMX9eGpxs8PQWjxfU3s.png",
+      "name": "Carte Blanche"
+    },
+    {
+      "id": 132582,
+      "logoPath": null,
+      "name": "Pulpa Film"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CL",
+      "name": "Chile"
+    },
+    {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33037660",
+    "wikidataId": "Q139374854"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1387981,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "La libertad doble",
+  "overview": "Misael works alone with his axe, cutting down trees in the woods. An unexpected responsibility upends his life, and the logic of his days fades away in a nature where human reason holds no meaning.",
+  "posterPath": "/h7wBw4qGv5omsVPA94Yl1QNubSS.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-10-31"
+    },
+    "US": {
+      "premiere": "2026-10-05"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Double Freedom",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "pEvJQ74e9Eg",
+      "name": "Lisandro Alonso and Roberto Minervini on Double Freedom",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6D3vF82OJi0",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

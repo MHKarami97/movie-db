@@ -1,0 +1,142 @@
+{
+  "backdropPath": "/rmsbCITbAU0AKZ7YiK7mJpTe5Zw.jpg",
+  "cast": [
+    {
+      "character": "Mike",
+      "id": 5876449,
+      "name": "Michael Joseph Laird",
+      "profilePath": null
+    },
+    {
+      "character": "Paige",
+      "id": 5876459,
+      "name": "Sarah Smith",
+      "profilePath": null
+    },
+    {
+      "character": "Travis",
+      "id": 5876461,
+      "name": "Travis Hedges",
+      "profilePath": null
+    },
+    {
+      "character": "Lita",
+      "id": 5876463,
+      "name": "Lita Sinclair",
+      "profilePath": null
+    },
+    {
+      "character": "Natalya",
+      "id": 5876465,
+      "name": "Nina Emanuel",
+      "profilePath": null
+    },
+    {
+      "character": "Noell",
+      "id": 5876480,
+      "name": "Noell Winter",
+      "profilePath": null
+    },
+    {
+      "character": "Dad",
+      "id": 6395295,
+      "name": "Callum Mercer",
+      "profilePath": null
+    },
+    {
+      "character": "Mom",
+      "id": 6395296,
+      "name": "Maren Thorne",
+      "profilePath": null
+    },
+    {
+      "character": "Marquise",
+      "id": 6395304,
+      "name": "Omari Diggs",
+      "profilePath": null
+    },
+    {
+      "character": "Coach",
+      "id": 6395310,
+      "name": "Kris Goldberg",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 283168,
+      "logoPath": null,
+      "name": "Moe Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2027-01-01",
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1598068,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "originalTitle": "MIKE.",
+  "overview": "Based on real events, a young man is consumed by buried trauma and destructive impulses. As family matters pull him into a chaotic downward spiral, he is forced to confront his past before he loses himself forever.",
+  "posterPath": "/xNmERwfCDJcKHnjSzkwF7NSIjRO.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2027-01-01"
+    }
+  },
+  "runtime": 60,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "MIKE.",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

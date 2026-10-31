@@ -1,0 +1,127 @@
+{
+  "backdropPath": "/3oLQ7vyfhvqANR51bnukJZG80TD.jpg",
+  "cast": [
+    {
+      "character": "La Chusa",
+      "id": 1054270,
+      "name": "Lolita Flores",
+      "profilePath": "/jkB4zldx5BliK6TrWdx8V0yrJBS.jpg"
+    },
+    {
+      "character": "",
+      "id": 2203918,
+      "name": "Asia Ortega",
+      "profilePath": "/jWDoTmcQKLIggpoFXSDugsepPrc.jpg"
+    },
+    {
+      "character": "",
+      "id": 560254,
+      "name": "Jordi Sánchez",
+      "profilePath": "/1usE9CnFsHE0SUx16XehBJ3cPZq.jpg"
+    },
+    {
+      "character": "",
+      "id": 1180371,
+      "name": "Elena Furiase",
+      "profilePath": "/hZQPwNyKlbs6ArLgGNzDKz2PeV5.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 63364,
+      "logoPath": "/2G8KkpFzSFsuz7dkM9NbtpoKNEl.png",
+      "name": "Inicia Films"
+    },
+    {
+      "id": 113896,
+      "logoPath": "/1LtdvzNa4SD7ef85ojw84IJTLGY.png",
+      "name": "Cinètica Produccions"
+    },
+    {
+      "id": 19037,
+      "logoPath": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+      "name": "uMedia"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36151341",
+    "wikidataId": "Q138390379"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1447879,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ca",
+      "name": "Catalan"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Mallorca confidencial",
+  "overview": "Mallorca, 2007. La Chusa, the matriarch of a shantytown, runs the drug market with the support of neighbors, traffickers, and police. But when she suffers a massive robbery, she sees her power and her family shaken.",
+  "posterPath": "/v2kPpCxw4Dr2CLsOt6Yco1mS4LY.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Mallorca confidencial",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 14,
+  "watchProviders": {}
+}

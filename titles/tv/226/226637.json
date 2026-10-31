@@ -1,0 +1,305 @@
+{
+  "backdropPath": "/yVP12H81dwaay5B7GVqgO893q2c.jpg",
+  "cast": [
+    {
+      "character": "Morgan Gillory",
+      "id": 95102,
+      "name": "Kaitlin Olson",
+      "profilePath": "/z84SKRCVl9zPhP9AINVS8Bx8dRO.jpg"
+    },
+    {
+      "character": "Adam Karadec",
+      "id": 10582,
+      "name": "Daniel Sunjata",
+      "profilePath": "/w3Wa0d7j2auA2R8FQvjrgfB3ozo.jpg"
+    },
+    {
+      "character": "Selena Soto",
+      "id": 159657,
+      "name": "Judy Reyes",
+      "profilePath": "/DQ8kIRHru9Zzy6CftVryHmIOJs.jpg"
+    },
+    {
+      "character": "Daphne Forrester",
+      "id": 1697199,
+      "name": "Javicia Leslie",
+      "profilePath": "/eXZHYQQmL0GYvqYP1Sdbprkxo3A.jpg"
+    },
+    {
+      "character": "Lev 'Oz' Ozdil",
+      "id": 145246,
+      "name": "Deniz Akdeniz",
+      "profilePath": "/dP8YJtscZgYH5qpYD0YUG6oSMSu.jpg"
+    },
+    {
+      "character": "Ava Gillory",
+      "id": 3046586,
+      "name": "Amirah J",
+      "profilePath": "/ywkWIPb8n56t4B746BqBBZ6RSOV.jpg"
+    },
+    {
+      "character": "Elliot Radovic",
+      "id": 3598148,
+      "name": "Matthew Lamb",
+      "profilePath": "/ebWptEAvCAzaD6QL4vEaY3GA80S.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 51964,
+      "logoPath": null,
+      "name": "Goddard Textiles"
+    },
+    {
+      "id": 160908,
+      "logoPath": "/llVFyu0XedaUI4RroWsFN4WIJSC.png",
+      "name": "Itinéraire Productions"
+    },
+    {
+      "id": 6300,
+      "logoPath": "/5TBU2ucl0rZqP417gF5GZ7LTyF8.png",
+      "name": "Septembre Productions"
+    },
+    {
+      "id": 19378,
+      "logoPath": "/AzOBqtpa9m4JAO0m6VzllQFt7g.png",
+      "name": "Spondoolie Productions"
+    },
+    {
+      "id": 236613,
+      "logoPath": "/9DTggoZARHzATCRewGRs9XSNOWP.png",
+      "name": "ABC Signature"
+    },
+    {
+      "id": 236166,
+      "logoPath": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2024-09-17",
+  "episodes": {
+    "3": [
+      {
+        "airDate": "2027-01-06",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt22091076",
+    "wikidataId": "Q129206932"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 226637,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-04-07",
+    "episodeNumber": 18,
+    "id": 7010185,
+    "name": "Family Tree",
+    "overview": "A woman is found dead at the luxury hotel where Lucia works, posing a potential complication for Karadec and Morgan's investigation. Elsewhere, Ava races to come up with the perfect idea for her art show.",
+    "seasonNumber": 2
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-06",
+    "episodeNumber": 1,
+    "id": 7403940,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 3
+  },
+  "originalTitle": "High Potential",
+  "overview": "سریال کارمند توانمند داستان مادری تنها به نام مورگان گیلروی را روایت می‌کند. مورگان، باهوشی استثنایی و توانایی خاص در حل معماها، به عنوان یک نظافتچی در اداره پلیس مشغول به کار است. او به صورت تصادفی در یک پرونده جنایی کمک می‌کند و همین باعث می‌شود به‌عنوان مشاور غیررسمی در واحد جرایم عمده پلیس لس‌آنجلس مشغول به کار شود.",
+  "posterPath": "/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+  "rating": 8.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2024-09-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2024-09-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2024-09-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2024-09-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2024-09-17"
+    },
+    "CN": {
+      "tv": "2024-09-17"
+    },
+    "GB": {
+      "tv": "2024-09-17"
+    },
+    "US": {
+      "tv": "2024-09-17"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2024-09-17",
+      "episodeCount": 13,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/ylTZ6bfmPrwUz01A0VpvluGFWsv.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2025-09-16",
+      "episodeCount": 18,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2027-01-06",
+      "episodeCount": 1,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "The new face of investigation.",
+  "theatricalDate": null,
+  "title": "High Potential",
+  "translations": {
+    "faOverview": "سریال کارمند توانمند داستان مادری تنها به نام مورگان گیلروی را روایت می‌کند. مورگان، باهوشی استثنایی و توانایی خاص در حل معماها، به عنوان یک نظافتچی در اداره پلیس مشغول به کار است. او به صورت تصادفی در یک پرونده جنایی کمک می‌کند و همین باعث می‌شود به‌عنوان مشاور غیررسمی در واحد جرایم عمده پلیس لس‌آنجلس مشغول به کار شود.",
+    "faTitle": "کارمند توانمند"
+  },
+  "type": "tv",
+  "videos": [
+    {
+      "key": "B5Hn1higb_8",
+      "name": "Official UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "t7uUe3xxtFw",
+      "name": "The Cast of High Potential Talks About Their Characters",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "W6zbdYNg9Rs",
+      "name": "High Potential (ABC) Trailer HD - Kaitlin Olson series",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 706,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/226637-high-potential/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        },
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2528,
+          "logoPath": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+          "name": "YouTube TV"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/226637-high-potential/watch?locale=US",
+      "rent": []
+    }
+  }
+}

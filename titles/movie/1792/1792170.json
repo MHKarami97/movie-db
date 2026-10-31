@@ -1,0 +1,113 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Steven Bay",
+      "id": 6383,
+      "name": "Aaron Eckhart",
+      "profilePath": "/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg"
+    },
+    {
+      "character": "",
+      "id": 59192,
+      "name": "Emmanuelle Chriqui",
+      "profilePath": "/5ll30bFOYMlIucGNrqWQ4bAA14U.jpg"
+    },
+    {
+      "character": "Gangster",
+      "id": 1903308,
+      "name": "Dave Alaimo",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 121063,
+      "logoPath": "/dvpzPTQKLg2nhh95OlBhvGFb8gD.png",
+      "name": "Red Sea Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-03",
+  "externalIds": {
+    "imdbId": "tt13884466"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1792170,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Model Citizen",
+  "overview": "Former police officer Steven Bay is haunted by amnesia and fragments of a life he can no longer remember. When seeking treatment, Steven finds himself trapped in an increasingly unsettling world of constant surveillance, mounting suspicion, and unexplained instincts that suggest someone is controlling far more than his recovery.",
+  "posterPath": "/duuH76uKtbB2nFm3esFztPkVAMt.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-03"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Model Citizen",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "VczwWXoMKL0",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

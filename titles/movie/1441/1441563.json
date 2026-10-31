@@ -1,0 +1,211 @@
+{
+  "backdropPath": "/bXZcSDQoyXlzzUw9qxjZjiUSYov.jpg",
+  "cast": [
+    {
+      "character": "Taylor Jacobson / Hugh Mann / Santa Claus",
+      "id": 58369,
+      "name": "Alexandra Breckenridge",
+      "profilePath": "/fMrvdWpmfM7sUknkNydgtQPF9kk.jpg"
+    },
+    {
+      "character": "Matthew Layne",
+      "id": 1181353,
+      "name": "Ryan Eggold",
+      "profilePath": "/6YZfGMzcugWwMquOIzGlsgx4wYN.jpg"
+    },
+    {
+      "character": "Natasha Burton",
+      "id": 87569,
+      "name": "Tia Mowry",
+      "profilePath": "/2p0l5uyURd1D4Iy3k8A81yc8lXJ.jpg"
+    },
+    {
+      "character": "Zoey",
+      "id": 3824147,
+      "name": "Madison MacIsaac",
+      "profilePath": "/nHcNlwsbdM4C9463HkQoqE6aPhU.jpg"
+    },
+    {
+      "character": "Doralee",
+      "id": 34488,
+      "name": "Diana Maria Riva",
+      "profilePath": "/fe6KB60w93zaHFzvI2sprIVOBVE.jpg"
+    },
+    {
+      "character": "Connor",
+      "id": 2687324,
+      "name": "Nathan Kay",
+      "profilePath": "/iq0sDJuSpu7fpyGXM7gcW2FLymt.jpg"
+    },
+    {
+      "character": "Eric",
+      "id": 1287152,
+      "name": "William Vaughan",
+      "profilePath": "/3Y8j1sV1ysM01HtSTyTAhNWMIRg.jpg"
+    },
+    {
+      "character": "Kenny",
+      "id": 236703,
+      "name": "Adam Beauchesne",
+      "profilePath": "/kspAirq1jX0k2zFx47j8397Wr9N.jpg"
+    },
+    {
+      "character": "Jimmy",
+      "id": 5350072,
+      "name": "Dominic Fox",
+      "profilePath": "/h0Gz9bXTfEIejnG3W1YSvE0yKmt.jpg"
+    },
+    {
+      "character": "Robert",
+      "id": 1234922,
+      "name": "Barry W. Levy",
+      "profilePath": "/ucmszxRXA8Jk9W59mFtyRWa6ZHi.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 63939,
+      "logoPath": null,
+      "name": "Howard Braunstein Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-12-03",
+  "externalIds": {
+    "imdbId": "tt35219851",
+    "wikidataId": "Q135969889"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1441563,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "My Secret Santa",
+  "overview": "A single mom needs a job. A ski resort needs a Santa. Disguised as a St. Nick lookalike, can Taylor fool a charming hotel heir into ho-ho-hiring her?",
+  "posterPath": "/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-12-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-12-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-12-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2025-12-03"
+    },
+    "GB": {
+      "digital": "2025-12-03"
+    },
+    "US": {
+      "digital": "2025-12-03"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Single mom. Double life.",
+  "theatricalDate": null,
+  "title": "My Secret Santa",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "I9Y5qYp8ro8",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 200,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1441563-my-secret-santa/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1441563-my-secret-santa/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1441563-my-secret-santa/watch?locale=US",
+      "rent": []
+    }
+  }
+}

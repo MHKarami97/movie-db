@@ -1,0 +1,167 @@
+{
+  "backdropPath": "/fyhPRqMASrPWYITtvPsbNlRRbmq.jpg",
+  "cast": [
+    {
+      "character": "Carmela",
+      "id": 4787774,
+      "name": "Kiara Arancibia",
+      "profilePath": "/arYk5r0oP0DylqnhY3oGiLpLhhg.jpg"
+    },
+    {
+      "character": "Padre",
+      "id": 34057,
+      "name": "Julián Villagrán",
+      "profilePath": "/fr3Srgr4Ta9okoigvY46Rj4Ht4k.jpg"
+    },
+    {
+      "character": "Marta",
+      "id": 4161919,
+      "name": "Janet Novás",
+      "profilePath": "/pVMpIkZpHQo1XTQoh2l8Kpy25AV.jpg"
+    },
+    {
+      "character": "Pepa",
+      "id": 132999,
+      "name": "Petra Martínez",
+      "profilePath": "/kh5K3lstUZTFPzMB8IfhUJ4Kppr.jpg"
+    },
+    {
+      "character": "Sílvia",
+      "id": 2887854,
+      "name": "Sandra Pujol",
+      "profilePath": "/pRk8hUekPkW9xSosG5aYYahcbfL.jpg"
+    },
+    {
+      "character": "Lola",
+      "id": 1141778,
+      "name": "Marta Millà",
+      "profilePath": "/hinO37klOky64Os87bXtlV1fGwB.jpg"
+    },
+    {
+      "character": "Mire",
+      "id": 5804873,
+      "name": "Alea Montesinos Fortún",
+      "profilePath": null
+    },
+    {
+      "character": "Sandra",
+      "id": 3596181,
+      "name": "Claudia Ávila",
+      "profilePath": null
+    },
+    {
+      "character": "Edgar",
+      "id": 5804875,
+      "name": "Oscar Rubio",
+      "profilePath": null
+    },
+    {
+      "character": "Albert",
+      "id": 5804876,
+      "name": "Marcel Sanchez",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 277407,
+      "logoPath": "/vSBiNC4GMNnAuSD4yrwZCGaJt1V.png",
+      "name": "Astra Pictures"
+    },
+    {
+      "id": 26174,
+      "logoPath": "/zXj7grtt7yW8pcaSZM0Wfefy634.png",
+      "name": "Avalon"
+    },
+    {
+      "id": 180453,
+      "logoPath": "/g7bFkeH9eAhcGoUgc34m36aK6rt.png",
+      "name": "Krater"
+    },
+    {
+      "id": 279815,
+      "logoPath": null,
+      "name": "Harta la Película A.I.E."
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt32676647",
+    "wikidataId": "Q127870622"
+  },
+  "fetchedAt": 1793504874718,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1563543,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ca",
+      "name": "Catalan"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "La buena hija",
+  "overview": "After her parents’ separation, Carmela and her mother move into her grandmother’s home. As Carmela struggles to adjust to her new reality, she longs to spend more time at her father’s place, a visual artist she both admires and idolizes. His presence looms over the three generations of women, pushing them to confront and decide the future they each deserve.",
+  "posterPath": "/8NI00eKWTGKTpBjQEMJRzOWGA4h.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 101,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Good Daughter",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "dKmRtws2W7o",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {}
+}

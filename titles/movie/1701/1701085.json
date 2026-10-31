@@ -1,0 +1,184 @@
+{
+  "backdropPath": "/8gyDQZlDtpLjHY1HVFXJbLbh5N2.jpg",
+  "cast": [
+    {
+      "character": "Ginny Nolan",
+      "id": 1033094,
+      "name": "Laura Osnes",
+      "profilePath": "/gczbNoTcQ3Y5E1nOlWp5YnyMVap.jpg"
+    },
+    {
+      "character": "Nick Day",
+      "id": 93031,
+      "name": "Ryan McPartlin",
+      "profilePath": "/v0vKYfoSVLBEGBZ2ldjm3cHJwf3.jpg"
+    },
+    {
+      "character": "Walter Day",
+      "id": 61962,
+      "name": "D. B. Sweeney",
+      "profilePath": "/enY28APVRWfyHjGAkh6VCkYCWOA.jpg"
+    },
+    {
+      "character": "Tyler Benton",
+      "id": 3336426,
+      "name": "Chuck Wicks",
+      "profilePath": "/wQxSMM9ss47rg5TKIifB1vZwz5X.jpg"
+    },
+    {
+      "character": "Bekah Nolan",
+      "id": 1661265,
+      "name": "Taylor Kalupa",
+      "profilePath": "/jGvR7CxN9BlOzdfBZ77WoKCm6uB.jpg"
+    },
+    {
+      "character": "Millie Martin",
+      "id": 1265329,
+      "name": "Tanya Christiansen",
+      "profilePath": "/ciifmUGctpO3zPcazaaAlD8QvJ9.jpg"
+    },
+    {
+      "character": "Piper Nolan",
+      "id": 6038417,
+      "name": "Rachel Stitt",
+      "profilePath": "/jUdY4SkhSmchc4UWWhM5w4nHnwx.jpg"
+    },
+    {
+      "character": "Andi Watson",
+      "id": 1930891,
+      "name": "Julia Reilly",
+      "profilePath": "/w93nJskkwVQsfsrd85aGe3HRTdN.jpg"
+    },
+    {
+      "character": "Cole Harrington",
+      "id": 2993647,
+      "name": "Jake Nuttall",
+      "profilePath": "/wzyf056J8NLIUiQeQuCJ8sCl9rs.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 180910,
+      "logoPath": null,
+      "name": "True Brand Entertainment"
+    },
+    {
+      "id": 299489,
+      "logoPath": null,
+      "name": "Wild Chapel"
+    },
+    {
+      "id": 144063,
+      "logoPath": "/99xI1wSHlmvhe65vYK7wnubeLGQ.png",
+      "name": "Wrigley Media Group"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt41835771"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1701085,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Silver Bells at Christmas",
+  "overview": "In Comfort, Kentucky, Ginny Nolan tries to keep her family's Christmas shop afloat as coffee-chain owner Nick Day offers to buy it. Meanwhile, Ginny's ex-flame and former songwriting partner Tyler Benton returns to town, seeking her help.",
+  "posterPath": "/vfB8VyAsCDstt347HB2jdGuIBLb.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2026-10-17"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Silver Bells at Christmas",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 278,
+          "logoPath": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+          "name": "Pure Flix"
+        },
+        {
+          "id": 2433,
+          "logoPath": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+          "name": "Great American Pure Flix Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1701085-silver-bells-at-christmas/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    }
+  }
+}

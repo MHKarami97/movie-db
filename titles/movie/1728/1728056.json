@@ -1,0 +1,203 @@
+{
+  "backdropPath": "/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 2185015,
+      "name": "Mo Gilligan",
+      "profilePath": "/b66tPXwjJ5ZsrJyU2Ww29Uci7tQ.jpg"
+    },
+    {
+      "character": "Self - Interviewer",
+      "id": 2255694,
+      "name": "Marcus Collins",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Medical Expert",
+      "id": 6395803,
+      "name": "Enam Abood",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Investigative Journo",
+      "id": 6395806,
+      "name": "Alice Driver",
+      "profilePath": null
+    },
+    {
+      "character": "Self - The Wingman",
+      "id": 2339228,
+      "name": "David Ajao",
+      "profilePath": "/uVjPOmV08tuI9syhTo8GGxrSKoU.jpg"
+    },
+    {
+      "character": "Self - The Health Prof.",
+      "id": 5827332,
+      "name": "Laura Schmidt",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Professor of Psychology",
+      "id": 5946797,
+      "name": "Ashley Gearhardt",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Sustainable Farming Advocate",
+      "id": 5227205,
+      "name": "Philip Lymbery",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Human Rights Activist",
+      "id": 6395824,
+      "name": "Magaly Licolli",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Pollution Hunter",
+      "id": 6395827,
+      "name": "Michael Payan",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 152159,
+      "logoPath": "/dU2XfRqh0GfrZF85xJDYHrWmLAr.png",
+      "name": "Mindhouse Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-08-05",
+  "externalIds": {
+    "imdbId": "tt43657327"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1728056,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Big Chicken: A Fast Food Conspiracy",
+  "overview": "In a bold 28-day experiment, comedian Mo Gilligan tours the UK and US on a fried chicken diet to uncover the impact of the craving — and industry behind it.",
+  "posterPath": "/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-08-05",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-08-05",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-08-05"
+    },
+    "US": {
+      "digital": "2026-08-05"
+    }
+  },
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Big Chicken: A Fast Food Conspiracy",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "7sGkQM6TyQU",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 18,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1728056-big-chicken-a-fast-food-conspiracy/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1728056-big-chicken-a-fast-food-conspiracy/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1728056-big-chicken-a-fast-food-conspiracy/watch?locale=US",
+      "rent": []
+    }
+  }
+}

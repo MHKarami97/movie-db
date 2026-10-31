@@ -1,0 +1,221 @@
+{
+  "backdropPath": "/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg",
+  "cast": [
+    {
+      "character": "Hwang Chung-sik",
+      "id": 1989290,
+      "name": "Jin Sun-kyu",
+      "profilePath": "/toFCyPac5rSpN58p0fsZ7lbogYc.jpg"
+    },
+    {
+      "character": "Lee Min-seok",
+      "id": 1333031,
+      "name": "Gong Myoung",
+      "profilePath": "/4c4eiMCgzw6gr4TDzOiODmmTRmG.jpg"
+    },
+    {
+      "character": "Ma Do-jun",
+      "id": 118977,
+      "name": "Kim Ji-seok",
+      "profilePath": "/qMKyA4CJvBNhLRBbjV6s6khlf5e.jpg"
+    },
+    {
+      "character": "Kim Yong-kang",
+      "id": 560081,
+      "name": "Yoon Kyung-ho",
+      "profilePath": "/217cVZqyvJypi4OR1uvxoaJxvLm.jpg"
+    },
+    {
+      "character": "Si-nae",
+      "id": 1311803,
+      "name": "Kang Han-na",
+      "profilePath": "/fXydO3AV3arjm3mMPhIxbf26l6a.jpg"
+    },
+    {
+      "character": "Hye-ran",
+      "id": 123807,
+      "name": "Lee Da-hee",
+      "profilePath": "/uaZ0kMQOEKxxtfH9IWecBZ8c4DI.jpg"
+    },
+    {
+      "character": "Cho Ah-ra",
+      "id": 126351,
+      "name": "Jeon So-min",
+      "profilePath": "/eKTdMgKkvMGrrb7Xj8U1EH8ooYu.jpg"
+    },
+    {
+      "character": "Yong-kang's Wife",
+      "id": 1252045,
+      "name": "Yoona",
+      "profilePath": "/JzAuAv17bWkLxVtfi9YJvQJhZl.jpg"
+    },
+    {
+      "character": "Yeon-ju",
+      "id": 4048807,
+      "name": "Oh Eun-seo",
+      "profilePath": "/ktCfeiyjQ9Qsew9jHYY4AI3HXh4.jpg"
+    },
+    {
+      "character": "Messy Hair",
+      "id": 3639306,
+      "name": "Lee Hyun-gul",
+      "profilePath": "/lL7r8bKBBfEYdF2x4rJ70BIYbw2.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 70681,
+      "logoPath": null,
+      "name": "TPS Company"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": "2026-06-19",
+  "externalIds": {
+    "imdbId": "tt36876775",
+    "wikidataId": "Q137843012"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1451344,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "originalTitle": "남편들",
+  "overview": "A detective teams up with his ex-wife's new husband to chase down her kidnappers. Can this unlikely duo put aside their differences for one wild rescue?",
+  "posterPath": "/ciLsGoyr0B8demTLDbLJmEUOHI5.jpg",
+  "rating": 7.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-06-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-06-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-06-19"
+    },
+    "GB": {
+      "digital": "2026-06-19"
+    },
+    "US": {
+      "digital": "2026-06-19"
+    }
+  },
+  "runtime": 110,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A chaotic match, a reckless mission.",
+  "theatricalDate": null,
+  "title": "Husbands in Action",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "PSJgwm2xcbI",
+      "name": "Official Trailer [ENG SUB]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "arFBLSgaAsE",
+      "name": "Official Teaser [ENG SUB]",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 139,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1451344/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1451344/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1451344/watch?locale=US",
+      "rent": []
+    }
+  }
+}

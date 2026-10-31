@@ -1,0 +1,131 @@
+{
+  "backdropPath": "/qKtmr3JC6Xt3zto80PEkEwgAsbX.jpg",
+  "cast": [
+    {
+      "character": "Self (archive footage)",
+      "id": 10293,
+      "name": "Carl Sagan",
+      "profilePath": "/iGUELFP1sJAw6UgbAbMBXui8MRr.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 223041,
+      "name": "Ann Druyan",
+      "profilePath": "/8wyDivzAKA67MPFO1R0s4o8q7uF.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1733860,
+      "name": "Sasha Sagan",
+      "profilePath": "/aEZSMmDhYN9R1IRowzsZr7oCGBS.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1219404,
+      "name": "Nick Sagan",
+      "profilePath": "/kBfUhvdXoOz0VC6Pk0lKY2mGqKv.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2437189,
+      "name": "Sam Sagan",
+      "profilePath": null
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 141028,
+      "name": "Johnny Carson",
+      "profilePath": "/sSltRe7S82Zw29lMRGLeEoL2PUu.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 189457,
+      "logoPath": "/a0ruFlMfEs2pTOLZ1tPHqzDH7Fc.png",
+      "name": "National Geographic Documentary Films"
+    },
+    {
+      "id": 8789,
+      "logoPath": "/1smGq637YoNgkeBZXt7TAPDYGda.png",
+      "name": "Fuzzy Door Productions"
+    },
+    {
+      "id": 76008,
+      "logoPath": "/spROWOrVPAu5U9oFjqnWVVLk3Xg.png",
+      "name": "hungryman"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt27371518",
+    "wikidataId": "Q141364487"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1113623,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Carl Sagan: We Are Made of Star Stuff",
+  "overview": "An intimate and cinematic portrait of astronomer and planetary scientist Carl Sagan.",
+  "posterPath": "/zsNoHDfuIUEoW6fbrHzHRq00AUE.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-07-16"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-10-14"
+    },
+    "US": {
+      "premiere": "2026-09-06",
+      "theatrical": "2027-07-16"
+    }
+  },
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2027-07-16",
+  "title": "Carl Sagan: We Are Made of Star Stuff",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

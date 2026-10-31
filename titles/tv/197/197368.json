@@ -1,0 +1,164 @@
+{
+  "backdropPath": "/yJAIWO6zGyXE72qVJ7sFGTqpTa1.jpg",
+  "cast": [
+    {
+      "character": "Hajime Aono (voice)",
+      "id": 1429141,
+      "name": "Shoya Chiba",
+      "profilePath": "/pF2urY77wuCYd9Fxh7dTirFYKSF.jpg"
+    },
+    {
+      "character": "Nao Saeki (voice)",
+      "id": 117527,
+      "name": "Shimba Tsuchiya",
+      "profilePath": "/qyPAAsmnc3ugr4fYq2Jy2VbuXU9.jpg"
+    },
+    {
+      "character": "Ritsuko Akine (voice)",
+      "id": 1324646,
+      "name": "Ai Kakuma",
+      "profilePath": "/o3tQSeeJAeafJNvQs2IKvpKY7av.jpg"
+    },
+    {
+      "character": "Haru Kozakura (voice)",
+      "id": 2478832,
+      "name": "Minako Sato",
+      "profilePath": "/8EgvRTl9Q6w7zNJex0UXOyxpoM2.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 4287,
+      "logoPath": "/iK3eu8AcWOHM5VSo4Gmnv9rsJWz.png",
+      "name": "Nippon Animation"
+    },
+    {
+      "id": 15505,
+      "logoPath": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+      "name": "NHK"
+    },
+    {
+      "id": 11376,
+      "logoPath": "/lrglrxyGOMRl9KCsmcjmzjjpT2H.png",
+      "name": "NHK Enterprises"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2023-04-09",
+  "externalIds": {
+    "imdbId": "tt26450255",
+    "twitterId": "aooke_anime",
+    "wikidataId": "Q115623681"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 197368,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-03-01",
+    "episodeNumber": 21,
+    "id": 6467151,
+    "name": "Graduation",
+    "overview": "",
+    "seasonNumber": 2
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "青のオーケストラ",
+  "overview": "In the fall of his third and final year of middle school, Hajime Aono, a violin prodigy, stopped playing violin for his own personal reasons. But it was also that year when he got to know a girl who told him about a high school with a prestigious school orchestra. Suddenly, the gears in the clock of Aono's life began to turn again. This is the story of a youth drama that brings forth the harmony between music and the heart!",
+  "posterPath": "/dN0yhGAMVdS7lIEk52gom9XO268.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2023-04-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2023-04-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2023-04-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2023-04-09",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2023-04-09"
+    },
+    "CN": {
+      "tv": "2023-04-09"
+    },
+    "GB": {
+      "tv": "2023-04-09"
+    },
+    "US": {
+      "tv": "2023-04-09"
+    }
+  },
+  "runtime": 25,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2023-03-20",
+      "episodeCount": 19,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/c0TmJ8EPgn7dFrx7nKHbEGorh88.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2023-04-09",
+      "episodeCount": 24,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/dN0yhGAMVdS7lIEk52gom9XO268.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2025-10-05",
+      "episodeCount": 21,
+      "name": "Season 2",
+      "overview": "Wrapping up the summer concert, the third-year students retire. The high school orchestra, now centered around second-year students, begins preparations for the national competition. But some are more motivated than others, and discord reverberates throughout over how the pieces should be played. Even so, everyone strives to create a unique harmony all their own. Hajime Aono also grows and changes his attitude towards music as well as his fellow orchestra members.",
+      "posterPath": "/7ygbtyar41PD0xoyVpCbOBObo8D.jpg",
+      "seasonNumber": 2
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Blue Orchestra",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 20,
+  "watchProviders": {}
+}

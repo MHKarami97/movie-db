@@ -1,0 +1,320 @@
+{
+  "backdropPath": "/7ARjHi3bZ6sARV6KlDiijmuG8eD.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 16814,
+      "name": "Oliver Kalkofe",
+      "profilePath": "/yBnZQwKbZHATG6nev7qOtv4xncd.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1506931,
+      "name": "Peter Rütten",
+      "profilePath": "/9X1iPdlI2WpZJinz6ZYZRffb2xk.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 57690,
+      "logoPath": null,
+      "name": "Fairworks"
+    },
+    {
+      "id": 145586,
+      "logoPath": null,
+      "name": "Kalk TV"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "2013-07-26",
+  "episodes": {
+    "14": [
+      {
+        "airDate": "2026-10-30",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 9
+      },
+      {
+        "airDate": "2026-11-06",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-13",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-20",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-27",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-04",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-11",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-18",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "schlefaz",
+    "imdbId": "tt3062428",
+    "instagramId": "schlefaz",
+    "twitterId": "schlefaz",
+    "wikidataId": "Q15805885"
+  },
+  "fetchedAt": 1793990790150,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 57109,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-30",
+    "episodeNumber": 1,
+    "id": 8028835,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 14
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-06",
+    "episodeNumber": 2,
+    "id": 8086042,
+    "name": "Episode 2",
+    "overview": "",
+    "seasonNumber": 14
+  },
+  "originalTitle": "Die schlechtesten Filme aller Zeiten",
+  "overview": "A satirical film series in which Oliver Kalkofe and Peter Rütten present and comment on B-movies that are characterized by a particularly bad style or unintentionally funny ideas.",
+  "posterPath": "/fMgQH6yY64yUQu1ZI5yoZoCextu.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2013-07-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2013-07-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2013-07-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2013-07-26",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2013-07-26"
+    },
+    "CN": {
+      "tv": "2013-07-26"
+    },
+    "GB": {
+      "tv": "2013-07-26"
+    },
+    "US": {
+      "tv": "2013-07-26"
+    }
+  },
+  "runtime": 120,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2015-03-13",
+      "episodeCount": 20,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2013-07-26",
+      "episodeCount": 12,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/v6pR40m5T9mYzGj1uuN2HNRNLDG.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2014-01-10",
+      "episodeCount": 12,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/e07n0xkLaHU50HsSN8xNQ61GGCf.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2015-06-19",
+      "episodeCount": 16,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/oAK9MXSpN0pz0FpzmX0PrAthFLo.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2016-07-15",
+      "episodeCount": 16,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/sBa3kQThnmBE579X67PA5qXQbSh.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2017-06-30",
+      "episodeCount": 16,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/vc1IKgioxWnXorMuvA3SDmlug0w.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2018-04-06",
+      "episodeCount": 16,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/y4OJBnLppy2qF91pC5kNnWbzOzb.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2019-04-26",
+      "episodeCount": 16,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/7Bc98ORiFBOVgaKtNnp91iJlVUv.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2020-04-24",
+      "episodeCount": 16,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2021-04-09",
+      "episodeCount": 16,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2022-03-18",
+      "episodeCount": 12,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2023-04-07",
+      "episodeCount": 16,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2024-08-30",
+      "episodeCount": 10,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": "/i4RpItF65SNHH25pYhLjyrKdXUu.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2025-09-05",
+      "episodeCount": 10,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": "/2rEg6RRxUpkd6pbv0vL67WFkoCu.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2026-10-30",
+      "episodeCount": 8,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Die schlechtesten Filme aller Zeiten",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 14,
+  "watchProviders": {}
+}

@@ -1,0 +1,762 @@
+{
+  "backdropPath": "/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
+  "cast": [
+    {
+      "character": "Dr. Kelson",
+      "id": 5469,
+      "name": "Ralph Fiennes",
+      "profilePath": "/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+    },
+    {
+      "character": "Spike",
+      "id": 5107934,
+      "name": "Alfie Williams",
+      "profilePath": "/3F46vn64Ya20rwtvTFVnqAK2LuI.jpg"
+    },
+    {
+      "character": "Sir Jimmy Crystal",
+      "id": 85065,
+      "name": "Jack O'Connell",
+      "profilePath": "/tCzR4clrIkbkijuJBYsNoEuwRDa.jpg"
+    },
+    {
+      "character": "Jimmy Ink",
+      "id": 1672504,
+      "name": "Erin Kellyman",
+      "profilePath": "/ngTdJIcwZ9YsyvXIR5PUzv9plwV.jpg"
+    },
+    {
+      "character": "Samson",
+      "id": 1344320,
+      "name": "Chi Lewis-Parry",
+      "profilePath": "/jAMu6BW9lDBVkawwB7VIi8CLai5.jpg"
+    },
+    {
+      "character": "Jimmy Shite",
+      "id": 5518922,
+      "name": "Connor Newall",
+      "profilePath": "/tH5BfF7KwpfME997B0pZ57Bfi6h.jpg"
+    },
+    {
+      "character": "Jimmy Jones",
+      "id": 5514148,
+      "name": "Maura Bird",
+      "profilePath": "/kuQCb4Nhe0xEE4LqanGAizuCAGR.jpg"
+    },
+    {
+      "character": "Jimmy Snake",
+      "id": 3916722,
+      "name": "Ghazi Al Ruffai",
+      "profilePath": "/iaoN4uHwbLmVmt4ESxeardbJmRG.jpg"
+    },
+    {
+      "character": "Jimmy Jimmy",
+      "id": 4502181,
+      "name": "Robert Rhodes",
+      "profilePath": "/d3fUGvffYdI6pxmEID3O5a3rPZk.jpg"
+    },
+    {
+      "character": "Jimmima",
+      "id": 2290611,
+      "name": "Emma Laird",
+      "profilePath": "/aBhm7z7fn0d1O7ed3vP0nZzCSSj.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 5,
+      "logoPath": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures"
+    },
+    {
+      "id": 22213,
+      "logoPath": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment"
+    },
+    {
+      "id": 284,
+      "logoPath": "/1lEgJkA2GckrMvzhfqENfkr04vO.png",
+      "name": "DNA Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-02-17",
+  "externalIds": {
+    "facebookId": "28yearslaterofficial",
+    "imdbId": "tt32141377",
+    "instagramId": "28yearslaterofficial",
+    "twitterId": "28YearsLaterMov",
+    "wikidataId": "Q129423731"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "id": 1272837,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "28 Years Later: The Bone Temple",
+  "overview": "داستان گروهی از بازماندگان که پس از ۲۸ سال از شیوع ویروسی مرگبار به زندگی در دنیایی وحشتناک و بی‌رحم برمی‌گردند. آنها با خطراتی غیرقابل پیش‌بینی و یک معبد مرموز مواجه می‌شوند که در آن رازهایی نهفته است که می‌تواند سرنوشت بشریت را تغییر دهد.",
+  "posterPath": "/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-01-15"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-03-03",
+      "gapDays": 48,
+      "theatricalDate": "2026-01-14"
+    },
+    "US": {
+      "digitalDate": "2026-02-17",
+      "gapDays": 32,
+      "theatricalDate": "2026-01-16"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-01-15"
+    },
+    "GB": {
+      "digital": "2026-03-03",
+      "physical": "2026-04-20",
+      "premiere": "2026-01-13",
+      "theatrical": "2026-01-14"
+    },
+    "US": {
+      "digital": "2026-02-17",
+      "physical": "2026-04-21",
+      "theatrical": "2026-01-16"
+    }
+  },
+  "runtime": 109,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Fear is the new faith.",
+  "theatricalDate": "2026-01-16",
+  "title": "28 Years Later: The Bone Temple",
+  "translations": {
+    "faOverview": "داستان گروهی از بازماندگان که پس از ۲۸ سال از شیوع ویروسی مرگبار به زندگی در دنیایی وحشتناک و بی‌رحم برمی‌گردند. آنها با خطراتی غیرقابل پیش‌بینی و یک معبد مرموز مواجه می‌شوند که در آن رازهایی نهفته است که می‌تواند سرنوشت بشریت را تغییر دهد.",
+    "faTitle": "۲۸ سال بعد: معبد استخوان"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "02iMmynyPio",
+      "name": "Ian Sets The Jimmy's in A Frenzy",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "F8UIN0WiOEo",
+      "name": "History Repeats Itself",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "2bPQE6tTLic",
+      "name": "Ian Becomes Satan",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "0gPPbqZt944",
+      "name": "Spike Tries To Run Away",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "uVSt9qK9Kdw",
+      "name": "Conversations With the Devil",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "wQsUiR_7O44",
+      "name": "The Jimmy's Crash For Dinner",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "taP5eeuiKZk",
+      "name": "Spike Sees Evil First Hand",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "ASjBgtsTOcQ",
+      "name": "First 10 Minutes",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "C4tFx0K0SaE",
+      "name": "Everybody knows Old Nick.",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "94D-kr9WfpI",
+      "name": "He crushed it.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Nh96MdgQ69U",
+      "name": "Experience The Bone Temple for yourself.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Yo9cE-_L5V4",
+      "name": "Experience the performance of a lifetime at The Bone Temple.",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "zpu38t6ORPY",
+      "name": "Blooper Reel",
+      "official": true,
+      "type": "Bloopers"
+    },
+    {
+      "key": "krmBx4pcras",
+      "name": "Across The Franchise",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "lYfmi1GeCh0",
+      "name": "3x the visual feast.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "3wTNm4HFVLc",
+      "name": "Conversation with Jack O'Connell, Nia DaCosta, and Reece Feldman",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "C9x_LdUlkO4",
+      "name": "Chi sees alllll the comments",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "G50qgltMc10",
+      "name": "A moment of realisation for Jack O'Connell",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Rq7bcGpSV7I",
+      "name": "Jack O'Connell and Alfie Williams reflect on 28 Years Later: The Bone Temple",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "a_LWuVTo5Hk",
+      "name": "Jack O'Connell on the Jimmies",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "lWEg1MantlE",
+      "name": "The evolution of this relationship.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "v83iAQa8N-Y",
+      "name": "Making of The Bone Temple",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "a-X4lnEyRxQ",
+      "name": "Behind The Scenes with Jack O'Connell and Ralph Fiennes",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "17dBsGSQa3I",
+      "name": "Cillian Murphy, Danny Boyle, and Alex Garland discuss 28 Years Later: The Bone Temple",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "IZMxrdUXrjg",
+      "name": "Views from The Bone Temple.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "UTewyvG2gAc",
+      "name": "What 3 words would you choose?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "5K4F3RGLVFs",
+      "name": "Have you discovered the secrets from The Bone Temple?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "R18bP1S1rLk",
+      "name": "We're so here for the chocolate popcorn mix!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "MKn3xvSI17U",
+      "name": "World Premiere Sizzle",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Dsz5LpUDBE8",
+      "name": "We had a lot of fun with this one",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "djguJP-Ryfc",
+      "name": "Jaws will be dropped at The Bone Temple.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "wjjicivIp4c",
+      "name": "January 16, 2026",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "nyIwRfvE4Hc",
+      "name": "And that's exactly why you should see 28 Years Later: The Bone Temple on the big screen!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "3omA4HHPqwg",
+      "name": "This goes somewhere very different...",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "g5YuHl8iJs8",
+      "name": "The next installment is here.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9LhRZwI1blQ",
+      "name": "A 24-year partnership.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "EljmqRsCJHQ",
+      "name": "Start prepping.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "-NvIU9NhmnA",
+      "name": "Jack O'Connell Recalls His Childhood Obsessions and First Film Traumas | BAFTA",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "GowzFfP88YY",
+      "name": "⭐️⭐️⭐️⭐️⭐️",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "87sOZycUKn0",
+      "name": "Discover the secret of The Bone Temple.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "YwzgVEWyLio",
+      "name": "“Insane in the best way possible.”",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "UvxpWDbzfY8",
+      "name": "Hear from Dr Kelson and Samson on their unique dynamic in 28 Years Later: The Bone Temple",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "RsV4hjVZjos",
+      "name": "You’re not ready for 28 Years Later: The Bone Temple.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Dk1yrMxEQ-g",
+      "name": "You heard them. Get down to the movie theatre on 1.16 for 28 Years Later: The Bone Temple.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "VnW_YCI7n2I",
+      "name": "Interview",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "vfeVBZk--FI",
+      "name": "Remember, you must get your tickets.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "UOnplsejmUE",
+      "name": "7 days...",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "-iJWT5G1d1E",
+      "name": "Behind The Scenes with Ralph Fiennes",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "8JtQlAlHCck",
+      "name": "Ralph Fiennes and Chi Lewis-Parry return for 28 Years Later: The Bone Temple",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "WZT0tL9z-TQ",
+      "name": "Happy New Fear!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "cpzQfHCPrMg",
+      "name": "You’ll take it with you.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "x7p6g4bAiSA",
+      "name": "I haven’t feared my life ending for many years. But today…",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ZdzOIGYP8E0",
+      "name": "Listen to reason before it’s too late.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "bhT5kgC1ak4",
+      "name": "In cinemas Jan 14",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "5Y8XBtQiONw",
+      "name": "In cinemas Jan 14",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "hGffbl2jT60",
+      "name": "In cinemas Jan 14",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "fuqvRhbhlF0",
+      "name": "In cinemas Jan 14",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "vTJrQzwhli4",
+      "name": "In cinemas Jan 14",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "lbZ6uFGkOzM",
+      "name": "In cinemas Jan 14",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "lAPJCfZmNo4",
+      "name": "In cinemas Jan 14",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "JVBzOEsSku0",
+      "name": "28 Years Later: The Bone Temple is breathtaking from beginning to end",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "9FritOsGGGs",
+      "name": "In cinemas Jan 14",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "130UlAz5cSQ",
+      "name": "In cinemas Jan 14",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "sYy_c8E1fLE",
+      "name": "In cinemas Jan 14, 2026",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "-x1j57qRQUQ",
+      "name": "28 Years Later: The Bone Temple hits cinemas Jan 14",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "G1JZNdlFoUI",
+      "name": "In cinemas Jan 14",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "17aEtlXtPNA",
+      "name": "Nia DaCosta’s Approach to Directing",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "DvbjYczRHFY",
+      "name": "In cinemas Jan 14, 2026",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "BznkFGGhYq0",
+      "name": "The hype is infectious.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "uvuXEwUc928",
+      "name": "A global moment. Reactions are in from the first-ever fans to see 28 Years Later: The Bone Temple.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "g4hxxASrHfI",
+      "name": "Evolution - International Vignette",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "dngea6T71EQ",
+      "name": "Behind the Scenes with Nia DaCosta",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "rl_DJZCyEH4",
+      "name": "International Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "QlF68NIz8dg",
+      "name": "New Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "EOwTdTZA8D8",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 1897,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1750,
+          "logoPath": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+          "name": "TOD"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1272837-28-years-later-the-bone-temple/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1272837-28-years-later-the-bone-temple/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1272837-28-years-later-the-bone-temple/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 331,
+          "logoPath": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+          "name": "FlixFling"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

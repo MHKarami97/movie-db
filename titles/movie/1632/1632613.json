@@ -1,0 +1,92 @@
+{
+  "backdropPath": "/7tkwCLJ9lCjQDWel2Sq9Ak0aeub.jpg",
+  "cast": [
+    {
+      "character": "Director",
+      "id": 2462853,
+      "name": "Gar O'Rourke",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt42047606",
+    "wikidataId": "Q140089205"
+  },
+  "fetchedAt": 1794864638140,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1632613,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "originalTitle": "The Siege of Paradise",
+  "overview": "In Cinque Terre on Italy’s northern Riviera, fewer than 3,000 locals endure over four million tourists each summer.  Across one chaotic season, six very different lives play out in parallel, revealing a sharply funny and surprisingly tender story of paradise under pressure in the age of social media driven tourism.",
+  "posterPath": "/wBYqt0W7aHnv6xxgZcp4Z6zSzeS.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-12-11"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-12-11"
+    },
+    "US": {
+      "premiere": "2026-06-07"
+    }
+  },
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-12-11",
+  "title": "The Siege of Paradise",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

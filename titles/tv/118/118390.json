@@ -1,0 +1,198 @@
+{
+  "backdropPath": "/rADgc8VCXAqtxpoM8NGhjisRiRT.jpg",
+  "cast": [
+    {
+      "character": "Presentator",
+      "id": 2970104,
+      "name": "Annechien Steenhuizen",
+      "profilePath": null
+    },
+    {
+      "character": "Coach",
+      "id": 2970105,
+      "name": "Iris Frederix",
+      "profilePath": "/fjj8WGh7LxjgNsJXh8stjgKBQ6b.jpg"
+    },
+    {
+      "character": "Coach",
+      "id": 2970109,
+      "name": "Tyas Leeuwerink",
+      "profilePath": null
+    },
+    {
+      "character": "Jury",
+      "id": 3395094,
+      "name": "Raquel van Haver",
+      "profilePath": null
+    },
+    {
+      "character": "Jury",
+      "id": 4551514,
+      "name": "Marc de Beyer",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2019-01-27",
+  "episodes": {
+    "5": [
+      {
+        "airDate": "2027-02-28",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt10033696",
+    "wikidataId": "Q62398057"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 118390,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "nl",
+      "name": "Dutch"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2024-05-19",
+    "episodeNumber": 8,
+    "id": 5342725,
+    "name": "Episode 8",
+    "overview": "",
+    "seasonNumber": 4
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-02-28",
+    "episodeNumber": 1,
+    "id": 7412324,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 5
+  },
+  "originalTitle": "Project Rembrandt",
+  "overview": "Viewers follow painters across eight episodes as the show searches for the most talented painter in the Netherlands.",
+  "posterPath": "/d40hTP3etrh4rm7JBTZyqxa2mhN.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2019-01-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2019-01-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2019-01-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2019-01-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2019-01-27"
+    },
+    "CN": {
+      "tv": "2019-01-27"
+    },
+    "GB": {
+      "tv": "2019-01-27"
+    },
+    "US": {
+      "tv": "2019-01-27"
+    }
+  },
+  "runtime": 50,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2019-01-27",
+      "episodeCount": 8,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2020-10-25",
+      "episodeCount": 8,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2022-01-23",
+      "episodeCount": 8,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/uhESsYVg8biTJEJF4zqATzXZcyu.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2024-03-24",
+      "episodeCount": 8,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2027-02-28",
+      "episodeCount": 1,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Project Rembrandt",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "9inHIuuNfRg",
+      "name": "🤪😝Morgen PROJECT REMBRANDT NPO1 20.25 Project Rembrandt  #projectrembrandt @highlight",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "zuQpglIhheM",
+      "name": "Iris Frederix Intro Project Rembrandt 2022",
+      "official": false,
+      "type": "Teaser"
+    },
+    {
+      "key": "QczaIheWwr4",
+      "name": "NPO 1 promo – Project Rembrandt (NTR)",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

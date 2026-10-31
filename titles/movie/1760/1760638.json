@@ -1,0 +1,132 @@
+{
+  "backdropPath": "/zVVDe4IG0XnTE8X7q7fbIJGhBuS.jpg",
+  "cast": [
+    {
+      "character": "James",
+      "id": 984680,
+      "name": "Spencer Boldman",
+      "profilePath": "/8aA3AyEfoYas2vEQZbBM8T3be3o.jpg"
+    },
+    {
+      "character": "Olivia",
+      "id": 1428077,
+      "name": "Paola Andino",
+      "profilePath": "/ejZMZS2CSvZ5b3nJFj3kWaQfOWW.jpg"
+    },
+    {
+      "character": "Sophia",
+      "id": 1317688,
+      "name": "Taylor Murphy",
+      "profilePath": "/zjVf2N67HzdpiTY4qP7X52XVNzv.jpg"
+    },
+    {
+      "character": "Gabby",
+      "id": 2684203,
+      "name": "Cameron Inman",
+      "profilePath": "/ytsdKZ0zPe6tMmFZZHIyw8r9Zws.jpg"
+    },
+    {
+      "character": "Aiden",
+      "id": 1099744,
+      "name": "Kristos Andrews",
+      "profilePath": "/t2SXjAL1afX5ZMQPNnhLZBTCdQx.jpg"
+    },
+    {
+      "character": "Henry",
+      "id": 110999,
+      "name": "Joe Nemmers",
+      "profilePath": "/9Pd12b0Ii8Qio0Gyprwuu62UUQi.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 309382,
+      "logoPath": null,
+      "name": "Guilder Cinema Group"
+    }
+  ],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt42192423"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1760638,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "You Can't Leave",
+  "overview": "Searching for a missing friend, a group enters a dark forest and discovers an abandoned cabin concealing an ancient evil. As night falls, they must survive the shadows and uncover the truth before it is too late.",
+  "posterPath": "/n8X4geolvhtAdcQ4mg8LnLv7gAE.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-16"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2026-10-16"
+    }
+  },
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-16",
+  "title": "You Can't Leave",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "rHcdXSC8jr8",
+      "name": "You Can't Leave (October 2026) | Official Short Trailer",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "kxWTfju6q5U",
+      "name": "You Can't Leave (October 2026) | Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

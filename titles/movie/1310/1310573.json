@@ -1,0 +1,257 @@
+{
+  "backdropPath": "/cmEDKjIioHRtHwRDHTX7CrWz8qF.jpg",
+  "cast": [
+    {
+      "character": "Piojo",
+      "id": 5579677,
+      "name": "Juan Pablo Baena",
+      "profilePath": null
+    },
+    {
+      "character": "Calambre",
+      "id": 5579679,
+      "name": "Tomas Tinoco Higuita",
+      "profilePath": null
+    },
+    {
+      "character": "Apestado",
+      "id": 5579682,
+      "name": "Bryan Erlin Garcia",
+      "profilePath": null
+    },
+    {
+      "character": "Rata",
+      "id": 5579684,
+      "name": "Samuel Andres Celis",
+      "profilePath": null
+    },
+    {
+      "character": "Caneco",
+      "id": 5579686,
+      "name": "Brahian Acecedo",
+      "profilePath": null
+    },
+    {
+      "character": "Cuchilla",
+      "id": 5579689,
+      "name": "Samuel Ruiz",
+      "profilePath": null
+    },
+    {
+      "character": "Batman",
+      "id": 5579693,
+      "name": "Estiven Salazar",
+      "profilePath": null
+    },
+    {
+      "character": "Pocillo",
+      "id": 5579694,
+      "name": "Jose Arley Marin Gonzalez",
+      "profilePath": null
+    },
+    {
+      "character": "Reporter",
+      "id": 6372789,
+      "name": "Jorge Cano",
+      "profilePath": null
+    },
+    {
+      "character": "Punk Band Guitarist",
+      "id": 6372790,
+      "name": "Joan Casas",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 205079,
+      "logoPath": "/aOFIUIBXCCsFhydiqhvPqrf6Zgh.png",
+      "name": "EDGLRD"
+    },
+    {
+      "id": 271277,
+      "logoPath": "/pydlPKBfqgGxPu7ecDfYnzkI91L.png",
+      "name": "WeOwnTheCity"
+    },
+    {
+      "id": 315749,
+      "logoPath": null,
+      "name": "Barrio Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-09",
+  "externalIds": {
+    "imdbId": "tt37660515",
+    "wikidataId": "Q139962216"
+  },
+  "fetchedAt": 1795373734473,
+  "gapDays": 91,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "id": 1310573,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Barrio Triste",
+  "overview": "In the 1980s Medellín, Colombia, a group of disaffected teens documents their lives after stealing a TV reporter's camera.",
+  "posterPath": "/w2zymRakHhwKUnRCLPKrBiL8inL.jpg",
+  "rating": 5.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-18"
+    },
+    "US": {
+      "digitalDate": "2026-10-09",
+      "gapDays": 91,
+      "theatricalDate": "2026-07-10"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-09-18"
+    },
+    "US": {
+      "digital": "2026-10-09",
+      "premiere": "2025-09-25",
+      "theatricalLimited": "2026-07-10"
+    }
+  },
+  "runtime": 89,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "I can show you the light.",
+  "theatricalDate": "2026-07-10",
+  "title": "Barrio Triste",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "pAbGrYP8Ooo",
+      "name": "Official Trailer 2",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "awTtZpezrRQ",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "ae45qMwAXmc",
+      "name": "Eric Kohn, Esteban Zuluaga & Adam Robinson on Barrio Triste",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1310573-barrio-triste/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

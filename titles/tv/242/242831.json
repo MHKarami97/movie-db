@@ -1,0 +1,132 @@
+{
+  "backdropPath": "/pvsRkFLE6Ra03ir0zriQ8KakOcJ.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 217450,
+      "logoPath": "/1Hla5bdSb9fTOxjBuL46njUDQyX.png",
+      "name": "Rock World"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "digitalDate": "2023-09-02",
+  "episodes": {
+    "2": [
+      {
+        "airDate": "2027-09-04",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 242831,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2023-09-02",
+    "episodeNumber": 1,
+    "id": 5045262,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-09-04",
+    "episodeNumber": 1,
+    "id": 7804813,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 2
+  },
+  "originalTitle": "The Town",
+  "overview": "",
+  "posterPath": "/dLiMV3AP3ox9ESnnjCIG6TINPGv.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2023-09-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2023-09-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2023-09-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2023-09-02",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2023-09-02"
+    },
+    "CN": {
+      "tv": "2023-09-02"
+    },
+    "GB": {
+      "tv": "2023-09-02"
+    },
+    "US": {
+      "tv": "2023-09-02"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2023-08-31",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2027-09-04",
+      "episodeCount": 1,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Town",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

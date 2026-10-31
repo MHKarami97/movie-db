@@ -1,0 +1,336 @@
+{
+  "backdropPath": "/s7BhhFlpat7KyglYSmL9swKmPKN.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 1546305,
+      "name": "France Beaudoin",
+      "profilePath": "/lPk3d5QGolvWRZSN0uyMDqhDxn3.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 46682,
+      "logoPath": "/ybNfe9vMywnjygOODnm7QYw9rvQ.png",
+      "name": "Attraction"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2009-09-19",
+  "episodes": {
+    "18": [
+      {
+        "airDate": "2026-09-19",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-09-26",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-03",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-10",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-17",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-24",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-31",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-07",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "endirectdelunivers",
+    "imdbId": "tt13935682",
+    "instagramId": "endirectdelunivers",
+    "wikidataId": "Q3053536"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 73817,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-24",
+    "episodeNumber": 6,
+    "id": 7951504,
+    "name": "Episode 6",
+    "overview": "",
+    "seasonNumber": 18
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-10-31",
+    "episodeNumber": 7,
+    "id": 7982943,
+    "name": "Episode 7",
+    "overview": "",
+    "seasonNumber": 18
+  },
+  "originalTitle": "En direct de l'univers",
+  "overview": "",
+  "posterPath": "/4fjas6de3ElKhe1HwNYDUwH1Q23.jpg",
+  "rating": 1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2009-09-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2009-09-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2009-09-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2009-09-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2009-09-19"
+    },
+    "CN": {
+      "tv": "2009-09-19"
+    },
+    "GB": {
+      "tv": "2009-09-19"
+    },
+    "US": {
+      "tv": "2009-09-19"
+    }
+  },
+  "runtime": 44,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2012-12-31",
+      "episodeCount": 20,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2009-09-19",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2010-09-18",
+      "episodeCount": 1,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2011-09-17",
+      "episodeCount": 1,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2012-09-15",
+      "episodeCount": 1,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2013-09-21",
+      "episodeCount": 1,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2014-09-20",
+      "episodeCount": 1,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2015-09-19",
+      "episodeCount": 1,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2016-09-17",
+      "episodeCount": 1,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2017-09-16",
+      "episodeCount": 23,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/rfT6vvS9ceuWjR0z5yydCrH3rlI.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2018-09-15",
+      "episodeCount": 23,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2019-09-14",
+      "episodeCount": 21,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2020-09-18",
+      "episodeCount": 24,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2021-09-17",
+      "episodeCount": 23,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2022-09-17",
+      "episodeCount": 24,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2023-09-16",
+      "episodeCount": 24,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": "/qvBTbgvVEZ5GhsEq9nTNACfmePe.jpg",
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2024-09-14",
+      "episodeCount": 25,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2025-09-13",
+      "episodeCount": 25,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2026-09-19",
+      "episodeCount": 8,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "En direct de l'univers",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 1,
+  "watchProviders": {}
+}

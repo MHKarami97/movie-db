@@ -1,0 +1,142 @@
+{
+  "backdropPath": "/ojD3wayQzUkzzjAadfuIOzo8Dwo.jpg",
+  "cast": [
+    {
+      "character": "Stella",
+      "id": 2336320,
+      "name": "Martina Gatti",
+      "profilePath": "/9pZvJ1ztO0OAOaQsGoHRvMHuLwX.jpg"
+    },
+    {
+      "character": "Achille",
+      "id": 1977914,
+      "name": "Matteo Olivetti",
+      "profilePath": "/zmxvANPwWtmwYs13Pedr1Sv3Aob.jpg"
+    },
+    {
+      "character": "Rossana",
+      "id": 67323,
+      "name": "Margherita Buy",
+      "profilePath": "/bVYTMEpmk7JqgmTKMXbiqLOLFLo.jpg"
+    },
+    {
+      "character": "Lucia",
+      "id": 56654,
+      "name": "Laura Morante",
+      "profilePath": "/dHPaab9C8how2C8tj3TseePEa7k.jpg"
+    },
+    {
+      "character": "Mary",
+      "id": 129080,
+      "name": "Eugenia Costantini",
+      "profilePath": "/1biGZLRFeAMZnGP6S0LLG3ZRn7x.jpg"
+    },
+    {
+      "character": "Gil",
+      "id": 5705403,
+      "name": "Jimi Durotoje",
+      "profilePath": null
+    },
+    {
+      "character": "Ascanio",
+      "id": 3360453,
+      "name": "Alessio Moneta",
+      "profilePath": "/rApbfEB5nAtQmuIViAmWKhUyOJO.jpg"
+    },
+    {
+      "character": "Flavio",
+      "id": 4326797,
+      "name": "Mattia Basciani",
+      "profilePath": null
+    },
+    {
+      "character": "Giulia",
+      "id": 3602749,
+      "name": "Paola Buratto",
+      "profilePath": "/tcBiMrEGPy8CMkkFOig9SpojO1s.jpg"
+    },
+    {
+      "character": "Don Pietro",
+      "id": 1534154,
+      "name": "Fabrizio Colica",
+      "profilePath": "/oxjLk211bGbNNAJNRfPezlvVDyF.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 10400,
+      "logoPath": "/9LlB2YAwXTkUAhx0pItSo6pDlkB.png",
+      "name": "Eagle Pictures"
+    },
+    {
+      "id": 155990,
+      "logoPath": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36283801",
+    "wikidataId": "Q139816881"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1549128,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "originalTitle": "Stella gemella",
+  "overview": "The story, set in a rural place, tells in a comic way the difference between the slow pace of the province and the frenetic pace of the capital.",
+  "posterPath": "/bplj5wOuhfXrilWV8VCKstVubNG.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Twin Stars",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 26,
+  "watchProviders": {}
+}

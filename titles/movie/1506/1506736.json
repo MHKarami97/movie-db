@@ -1,0 +1,170 @@
+{
+  "backdropPath": "/xcvPY9Wk2TzZWQRynWSwHEhnK2j.jpg",
+  "cast": [
+    {
+      "character": "Meenu",
+      "id": 5537869,
+      "name": "Vismaya Mohanlal",
+      "profilePath": "/u5lHqmZ8K1hBa69uJTGCY726Pw0.jpg"
+    },
+    {
+      "character": "Ravi",
+      "id": 584763,
+      "name": "Saikumar",
+      "profilePath": "/shnJkiBgcsnr4sozTZib4MXN1ou.jpg"
+    },
+    {
+      "character": "Master",
+      "id": 82732,
+      "name": "Mohanlal",
+      "profilePath": "/wvoBULQimwguAGPOHZ8TDoy7jBJ.jpg"
+    },
+    {
+      "character": "Jeethu",
+      "id": 5331412,
+      "name": "Aashish Joe Antony",
+      "profilePath": "/5z6O8N0MXzGBFS7BcfYFrfgkoGx.jpg"
+    },
+    {
+      "character": "CPO Baiju Dev",
+      "id": 3557114,
+      "name": "Gibin Gopinath",
+      "profilePath": "/je8EsU7Y41kserdqGKKS4daDN8C.jpg"
+    },
+    {
+      "character": "Esthappan",
+      "id": 5025736,
+      "name": "Bobby Kurian",
+      "profilePath": "/v1BBj8lJLFC8N6zp6fattXMulQe.jpg"
+    },
+    {
+      "character": "Joseph",
+      "id": 2033662,
+      "name": "Kottayam Ramesh",
+      "profilePath": "/fqkseLFq3V1i3n4PsTmWtNoK0JD.jpg"
+    },
+    {
+      "character": "Joseph's wife",
+      "id": 3616356,
+      "name": "Jaya Kurup",
+      "profilePath": "/xLfDVFVXZANPixBPVVGM5Eo4q8B.jpg"
+    },
+    {
+      "character": "CPO Vijayan",
+      "id": 584777,
+      "name": "Jaffer Idukki",
+      "profilePath": "/6kkv7LDD0NIGFTKZyrgGH5KGZpR.jpg"
+    },
+    {
+      "character": "CPO Sindhu",
+      "id": 1993291,
+      "name": "Gilu Joseph",
+      "profilePath": "/znWz6sSXntrBJrncCI2l9uWUaMV.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 16401,
+      "logoPath": "/khS7G0KzBoCYcLs4xuNjpuZjntR.png",
+      "name": "Aashirvad Cinemas"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37510017",
+    "wikidataId": "Q138589519"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1506736,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ml",
+      "name": "Malayalam"
+    }
+  ],
+  "originalTitle": "തുടക്കം",
+  "overview": "When danger strikes, a young woman fights to survive through courage and determination.",
+  "posterPath": "/A8Y0QLNqaFvsergQe80tC6Nfa2k.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-07"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-07"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-08-07"
+    },
+    "GB": {
+      "theatrical": "2026-08-07"
+    }
+  },
+  "runtime": 137,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-08-07",
+  "title": "Thudakkam",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "L7qoeUfE14w",
+      "name": "Vismaya Mohanlal’s Thudakkam | Trailer | Aashish Joe Antony | Jude Anthany | Sept 18 | JioHotstar",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 630,
+          "logoPath": "/vnpp3n6DAIh2sKXfMbehKZAWJMC.png",
+          "name": "STARZPLAY"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1506736/watch?locale=AE",
+      "rent": []
+    }
+  }
+}

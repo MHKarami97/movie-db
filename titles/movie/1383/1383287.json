@@ -1,0 +1,123 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Alice",
+      "id": 59807,
+      "name": "Élodie Bouchez",
+      "profilePath": "/pgUFT2lDgaxE4U580iEBFNqqXdw.jpg"
+    },
+    {
+      "character": "Luc",
+      "id": 37919,
+      "name": "Stanislas Merhar",
+      "profilePath": "/mydjB3KiYv5ytseH5Y5laew6bvl.jpg"
+    },
+    {
+      "character": "",
+      "id": 40938,
+      "name": "Romane Bohringer",
+      "profilePath": "/xijSy3jkjSQlbN2XfD12q7OWPPR.jpg"
+    },
+    {
+      "character": "Kévin",
+      "id": 4407126,
+      "name": "Sebastien Judea",
+      "profilePath": null
+    },
+    {
+      "character": "Robert",
+      "id": 1865226,
+      "name": "Thomas Badinot",
+      "profilePath": null
+    },
+    {
+      "character": "Ulysse",
+      "id": 6163249,
+      "name": "Alphonse Roberts",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 1507097,
+      "name": "Gringe",
+      "profilePath": "/4E4DlB4HKPWVwSIOovmgupx74yG.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 189,
+      "logoPath": "/3NcJ66KlMs1s6yOh0AMSLMvhtSV.png",
+      "name": "ARP Sélection"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt42007282",
+    "wikidataId": "Q139738193"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1383287,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Ulysse",
+  "overview": "Alice, a sociology researcher, and Volodymyr, a pianist, are going to have a child! They will call him Ulysses. Except that Ulysses, at one year old, doesn't fit the growth charts. Too small, too thin, and he still isn't walking. The verdict comes down: Ulysses won't be like the others. But how will he be?",
+  "posterPath": "/tS0Xwa7Uqd8nlT41Y1KrumHtLeU.jpg",
+  "rating": 6.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Ulysse",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 13,
+  "watchProviders": {}
+}

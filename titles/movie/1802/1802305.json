@@ -1,0 +1,112 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Oh Tae-pung",
+      "id": 2762543,
+      "name": "Younghoon",
+      "profilePath": "/zDiBmlkeONCkqdSF8EvrODaJNUY.jpg"
+    },
+    {
+      "character": "Park So-hyang",
+      "id": 1875790,
+      "name": "Luda",
+      "profilePath": "/145qxCplsJrwaXEssMU91hAf08k.jpg"
+    },
+    {
+      "character": "King Lee Hwi",
+      "id": 1299285,
+      "name": "Kim Dong-jun",
+      "profilePath": "/zw72EjXTTIu3ex9Mk8biCZK61ob.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 297980,
+      "logoPath": "/dLebC4n3guS3AM4Vmzr8ilFP1T4.png",
+      "name": "TAKEONE STUDIO"
+    },
+    {
+      "id": 305473,
+      "logoPath": "/7OXcOoPRwJepmqLjAm9vitmf6Ta.png",
+      "name": "Sky Plus"
+    },
+    {
+      "id": 314982,
+      "logoPath": null,
+      "name": "Film GRIDA"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt42666999"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "id": 1802305,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "originalTitle": "러브 와이파이 궁",
+  "overview": "",
+  "posterPath": "/dZU829zAp9WO0IYFUoEKdmBHAzU.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 110,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Wi-Fi Love in the Palace",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

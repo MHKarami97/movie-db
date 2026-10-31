@@ -1,0 +1,313 @@
+{
+  "backdropPath": "/1HtR6sISptKbZeLuZS8K7eoMU8W.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 12746,
+      "logoPath": "/unf8CxhcWt8ziwhORuqk41tj8n6.png",
+      "name": "Lion Television"
+    },
+    {
+      "id": 51455,
+      "logoPath": null,
+      "name": "Citrus Television"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2009-04-16",
+  "externalIds": {
+    "imdbId": "tt1400819",
+    "wikidataId": "Q5905004"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 32419,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-12-19",
+    "episodeNumber": 15,
+    "id": 6138675,
+    "name": "Pitiful Princes and Princesses",
+    "overview": "Marie Antoinette, Henry VIII, Bonnie Prince Charlie, and Loo Man is here to explore why being a prince or princess hasn’t always been the lovely life some might imagine.",
+    "seasonNumber": 11
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Horrible Histories",
+  "overview": "Based on the best-selling children's books and liberally splattered with guts, blood and poo, a group of British comedians offer an anarchic and unconventional take on some of history's most gruesome and funny moments, with topics including the Stone Age, the Middle Ages, the Egyptians and the Romans, among others.",
+  "posterPath": "/fwj7zkWHtveXUaB9cwrQIMvmgeQ.jpg",
+  "rating": 8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2009-04-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2009-04-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2009-04-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2009-04-16",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2009-04-16"
+    },
+    "CN": {
+      "tv": "2009-04-16"
+    },
+    "GB": {
+      "tv": "2009-04-16"
+    },
+    "US": {
+      "tv": "2009-04-16"
+    }
+  },
+  "runtime": 92,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2010-07-27",
+      "episodeCount": 93,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/6NlcIGDaDB0EEUbEXYfxmnx9PQo.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2009-04-16",
+      "episodeCount": 13,
+      "name": "Series 1",
+      "overview": "All 13 episodes of the BBC series! History with the nasty bits left in! Based on the bestselling series of books for kids (and for adults, but they just won't admit it), Horrible Histories is an anarchic, surprising and unconventional take on history's most gruesome and funny moments. Foul facts, rotten rulers, beastly battles and evil inventions feature in horribly hilarious sketches, songs, cartoons and quizzes - all linked by the show's host, a talking rat! Liberally splattered with guts, blood and poo, Horrible Histories romps through the ages with fascinating facts from the Savage Stone Age, Awful Egyptians, Rotten Romans and Vicious Vikings, taking in the Measly Middle Ages, Terrible Tudors, Gorgeous Georgians and Vile Victorians, right up to the Woeful Second World War.",
+      "posterPath": "/4mO6XN3Z8WN2I9vvu1AtJ2ec0kR.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2010-05-31",
+      "episodeCount": 12,
+      "name": "Series 2",
+      "overview": "",
+      "posterPath": "/a77nVXAYCaoNs2JYXUYM4IexTfV.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2011-05-30",
+      "episodeCount": 13,
+      "name": "Series 3",
+      "overview": "",
+      "posterPath": "/h2FT8PdNPdF9hsTydc4UYhHXdI3.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2012-04-09",
+      "episodeCount": 13,
+      "name": "Series 4",
+      "overview": "",
+      "posterPath": "/xQ7rMBB7UcQ9eDLA2QN8BHy5Gyh.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2013-05-27",
+      "episodeCount": 13,
+      "name": "Series 5",
+      "overview": "",
+      "posterPath": "/87tSEwSlzFZKdeIt0ZoGIOyhj50.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2015-02-13",
+      "episodeCount": 15,
+      "name": "Series 6",
+      "overview": "",
+      "posterPath": "/w4f4inu875Eu9wftm7QtTkF1dWp.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2017-06-15",
+      "episodeCount": 15,
+      "name": "Series 7",
+      "overview": "",
+      "posterPath": "/rIgh8eDUKEtzsOYK6JAQkL4XIcD.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2019-06-03",
+      "episodeCount": 15,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/vZE6h5Q2Iij7VrgGDEIvEbLB8sP.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2021-04-30",
+      "episodeCount": 15,
+      "name": "Season 9",
+      "overview": "Historical sketch show, based on the successful books by Terry Deary.",
+      "posterPath": "/ynaGQAX0wB2BkekI1XFucJ0DGd2.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2023-06-16",
+      "episodeCount": 15,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/kzsbRYdI33KocVHU66ZK41JwLzE.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2025-02-07",
+      "episodeCount": 15,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": "/uSC2mU02iXXJCiTlOzMtq7MKFy9.jpg",
+      "seasonNumber": 11
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "The history they don't teach you in school.",
+  "theatricalDate": null,
+  "title": "Horrible Histories",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "RkW5cVygHTE",
+      "name": "From Charles II to Cavewoman 2, Horrible Histories cast share their favourite characters | BAFTA",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "apF42GGtxNk",
+      "name": "Horrible Histories creators on bringing the show to life + a Monarchs Song sing-along! | BAFTA",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "vYyw5EqZYbc",
+      "name": "Baroness Floella Benjamin presents the BAFTA Special Award to Horrible Histories | BAFTA",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "qH-X9uWltxY",
+      "name": "CBBC: Horrible Histories - World War 1 sketch",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "4ZIR4AaPb_8",
+      "name": "Horrible Histories trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 71,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 38,
+          "logoPath": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
+          "name": "BBC iPlayer"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/32419-horrible-histories/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 613,
+          "logoPath": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png",
+          "name": "Amazon Prime Video Free with Ads"
+        },
+        {
+          "id": 1898,
+          "logoPath": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png",
+          "name": "Amazon MX Player"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 258,
+          "logoPath": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+          "name": "Criterion Channel"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/32419-horrible-histories/watch?locale=US",
+      "rent": []
+    }
+  }
+}

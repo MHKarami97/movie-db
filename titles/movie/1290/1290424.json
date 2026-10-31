@@ -1,0 +1,179 @@
+{
+  "backdropPath": "/4CmqIt9w9iNuYPLkWLFmSnczXkc.jpg",
+  "cast": [
+    {
+      "character": "Johan Otto von Spreckelsen",
+      "id": 150802,
+      "name": "Claes Bang",
+      "profilePath": "/allXGdenaUpFq1bJSIeZPkJeHfe.jpg"
+    },
+    {
+      "character": "Jean-Louis Subilon",
+      "id": 143593,
+      "name": "Xavier Dolan",
+      "profilePath": "/4DsDMNQskzolD477eBY9r2ZYgbt.jpg"
+    },
+    {
+      "character": "Paul Andreu",
+      "id": 145120,
+      "name": "Swann Arlaud",
+      "profilePath": "/38iX2NHO7pMdQH1ygoGEJ8E82WV.jpg"
+    },
+    {
+      "character": "Liv von Spreckelsen",
+      "id": 32683,
+      "name": "Sidse Babett Knudsen",
+      "profilePath": "/yVkWyBuJaup9I6FIgjZlGkczNNj.jpg"
+    },
+    {
+      "character": "François Mitterrand",
+      "id": 4395,
+      "name": "Michel Fau",
+      "profilePath": "/qEnR85ErnCrPIOYqWVWpk6Ug6NA.jpg"
+    },
+    {
+      "character": "Alain Juppé",
+      "id": 1618051,
+      "name": "Jean des Forêts",
+      "profilePath": "/wPJVyr0dI15HYwBaoHDEuxIBgK5.jpg"
+    },
+    {
+      "character": "Leloup",
+      "id": 81144,
+      "name": "Micha Lescot",
+      "profilePath": "/sKEi3DKXvgKVUObbAEQpYqo5L1l.jpg"
+    },
+    {
+      "character": "Marble man",
+      "id": 48377,
+      "name": "Alessandro Bressanello",
+      "profilePath": "/dq9iFVxC7JP3XEs8jFvo7sSW5Na.jpg"
+    },
+    {
+      "character": "Marble man's daughter",
+      "id": 5813197,
+      "name": "Ilaria Cabras",
+      "profilePath": null
+    },
+    {
+      "character": "Architect student",
+      "id": 1327785,
+      "name": "Viilbjørk Malling Agger",
+      "profilePath": "/2MeMeitDXRcGC5ODiQy6KH7tvWr.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 207,
+      "logoPath": "/uskenzq65wJe0cT0D8StQI3hJnO.png",
+      "name": "Agat Films & Cie / Ex Nihilo"
+    },
+    {
+      "id": 591,
+      "logoPath": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma"
+    },
+    {
+      "id": 5125,
+      "logoPath": "/t3oWTsVukmEzrZzvfr37XRBibo5.png",
+      "name": "Le Pacte"
+    },
+    {
+      "id": 76,
+      "logoPath": "/nebkQYtQKhZyHJfh5v0oGpNbPzu.png",
+      "name": "Zentropa Entertainments"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt32398150",
+    "wikidataId": "Q134726473"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "id": 1290424,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "da",
+      "name": "Danish"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "originalTitle": "L'Inconnu de la Grande Arche",
+  "overview": "France, 1983. The biggest architectural competition in history is launched by the new socialist president, François Mitterrand. Coveted by all the biggest international architectural firms, the open-call competition is surprisingly won by an unknown: Johan Otto von Spreckelsen, an architecture teacher from Copenhagen. Until then, the fifty-year-old Dane had built only four buildings: his home, and three small chapels.",
+  "posterPath": "/5D6E7CuuFyXOmqlGVlUKP6tpNP3.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 104,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Great Arch",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "FhtqB5aq1t8",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 132,
+  "watchProviders": {}
+}

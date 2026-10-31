@@ -1,0 +1,222 @@
+{
+  "backdropPath": "/3BALVpCd2bDbKPhQLhydZPEX9AH.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1085487,
+      "name": "Stephen C. Meyer",
+      "profilePath": "/65BFooFN2cta1tjbA1jqcjDgDxN.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 132862,
+      "name": "John Lennox",
+      "profilePath": "/alMn6WMUvl3TIsPNU7lJE9N9h44.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 57566,
+      "name": "Peter Thiel",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6067628,
+      "name": "Luke A. Barnes",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 5886962,
+      "name": "David Berlinski",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 1085488,
+      "name": "Jay Richards",
+      "profilePath": "/snmlMAurToIUEKfguzpTr4y5V7s.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6067633,
+      "name": "Robert Sheldon",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6067634,
+      "name": "Timothy McGrew",
+      "profilePath": "/pdwYdPMIa1FWjYnINcB2b9Lx7v3.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6067638,
+      "name": "Douglas Axe",
+      "profilePath": "/ny1LsAjynl44aG6XhYJLZpxvhBr.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 582433,
+      "name": "Michael Behe",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 143741,
+      "logoPath": "/4DF6yCFsIwv7trjqJpQa64GkiPC.png",
+      "name": "Sypher Studios"
+    }
+  ],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "facebookId": "profile.php",
+    "imdbId": "tt13374694",
+    "instagramId": "storyofeverythingfilm",
+    "twitterId": "TSOEfilm",
+    "wikidataId": "Q139848068"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1650789,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Story of Everything",
+  "overview": "The Story of Everything is a cinematic exploration of the cosmos that reveals the hidden hand behind our universe. From the precise laws that govern the stars to the intricate patterns found in every living cell, the film traces evidence of intentional design throughout nature. Whether examining distant star-forming clouds or the spiral structure of DNA, we discover a consistent signature woven into the fabric of existence.",
+  "posterPath": "/vajGff87GT6JfCi45K4bPquLbom.jpg",
+  "rating": 4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-30"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2026-04-30"
+    }
+  },
+  "runtime": 97,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The Science That Reveals A Mind Behind The Universe",
+  "theatricalDate": "2026-04-30",
+  "title": "The Story of Everything",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "pwL3ZKlwEoc",
+      "name": "The Story of Everything | Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1650789-the-story-of-everything/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 613,
+          "logoPath": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png",
+          "name": "Amazon Prime Video Free with Ads"
+        },
+        {
+          "id": 1898,
+          "logoPath": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png",
+          "name": "Amazon MX Player"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1650789-the-story-of-everything/watch?locale=US",
+      "rent": [
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ]
+    }
+  }
+}

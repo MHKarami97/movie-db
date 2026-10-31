@@ -1,0 +1,129 @@
+{
+  "backdropPath": "/vMZSG9ppXdHHSW7zXoThi4EvU6o.jpg",
+  "cast": [
+    {
+      "character": "Self - Narrator (voice)",
+      "id": 213368,
+      "name": "Pegah Ahangarani",
+      "profilePath": "/46laelZ4avAuYsl0WpH4uWWa6T1.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 3478670,
+      "name": "Jamshid Ahangarani",
+      "profilePath": null
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 1363680,
+      "name": "Manijeh Hekmat",
+      "profilePath": "/fzawxVwYLiFyXHhv5VE4B7xiY87.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 113817,
+      "logoPath": "/pJDTmaw7YYAV5tqTz5lemul1bev.png",
+      "name": "Europe Media Nest"
+    },
+    {
+      "id": 146052,
+      "logoPath": "/eWrxy5R2izv2WV0zA5cvGq7e2fz.png",
+      "name": "Fasten Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt41593500",
+    "wikidataId": "Q139584611"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1666864,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fa",
+      "name": "Persian"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "تمرین‌هایی برای یک انقلاب",
+  "overview": "Through five portraits of relatives and mentors, five expressions of resistance, Pegah Ahangarani sketches her life story. Drawing from personal archives, home videos, street protests footage, newspapers, and recorded voices, she retraces more than 40 years of Iran’s history. From the early days of 1979, until the war that began in 2026, she pieces together intimate and collective memories, forming the portrait of a country shaped by political repression and in constant hope for a revolution.",
+  "posterPath": "/mzocxy2wpTGoStwUlqcfHaNSxm2.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-01-08"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-01-08"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2027-01-08"
+    },
+    "US": {
+      "premiere": "2026-09-05",
+      "theatricalLimited": "2027-01-08"
+    }
+  },
+  "runtime": 101,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2027-01-08",
+  "title": "Rehearsals for a Revolution",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "oWofWD4gdbE",
+      "name": "Official US Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "kSVJUYeyvnA",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

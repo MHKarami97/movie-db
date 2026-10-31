@@ -1,0 +1,158 @@
+{
+  "backdropPath": "/3hHlBvryPY0wI6ugM73PqVBEtfJ.jpg",
+  "cast": [
+    {
+      "character": "Hein",
+      "id": 1723251,
+      "name": "Paul Boche",
+      "profilePath": "/oezN8o7wCdrwLailW8zm850csSZ.jpg"
+    },
+    {
+      "character": "Heide",
+      "id": 1332652,
+      "name": "Stephanie Amarell",
+      "profilePath": "/2UZqu1u5e67mXIYbFlXqJgfKMkT.jpg"
+    },
+    {
+      "character": "Friedemann",
+      "id": 3147083,
+      "name": "Philip Froissant",
+      "profilePath": "/6MJSTB3VTgC4Kj3QjcQGYuvQ7Ak.jpg"
+    },
+    {
+      "character": "Greta",
+      "id": 70839,
+      "name": "Emilia Schüle",
+      "profilePath": "/em77YMVTapnvCSq44Bs99OcDdLv.jpg"
+    },
+    {
+      "character": "Jorinde",
+      "id": 49018,
+      "name": "Jeanette Hain",
+      "profilePath": "/6FkzcacM6wCKovrE7OIvN74KPMZ.jpg"
+    },
+    {
+      "character": "Bernhard",
+      "id": 2368248,
+      "name": "Zhenja Isaak",
+      "profilePath": "/oHnOb2LeKxGTry3PzqLG8w06xbI.jpg"
+    },
+    {
+      "character": "Volker",
+      "id": 1820948,
+      "name": "Aaron Hilmer",
+      "profilePath": "/wVVbhpjsDeC6GI9Pa37qqbuVhZd.jpg"
+    },
+    {
+      "character": "Fiete",
+      "id": 1181865,
+      "name": "Andreas Nickl",
+      "profilePath": "/jX60elmIypF5HTOpAoLAmZybV2E.jpg"
+    },
+    {
+      "character": "Annegret",
+      "id": 3907171,
+      "name": "Maju Margrit Sartorius",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 3953323,
+      "name": "Philip Günsch",
+      "profilePath": "/jTcb6qBBJHczLNike91FMQ1PLPO.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 45460,
+      "logoPath": "/j5tLpWUFt69O7gGHEWedNcMyLei.png",
+      "name": "Tamtam Film"
+    },
+    {
+      "id": 4606,
+      "logoPath": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF"
+    },
+    {
+      "id": 45489,
+      "logoPath": "/h9pjnrYbpEqWwPZDEyJfUzHFCG9.png",
+      "name": "Lupa Film"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33522697",
+    "wikidataId": "Q138398649"
+  },
+  "fetchedAt": 1795373734473,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1476466,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "Der Heimatlose",
+  "overview": "After 14 years away, Hein returns to his home village on a remote island, only to discover that the close-knit community no longer recognises him. Suspecting him to be an impostor, they demand a trial to determine his true identity.",
+  "posterPath": "/cBxkNpLZtNVNv7Ot5FAA2WsWlQ5.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-04-11"
+    }
+  },
+  "runtime": 122,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Trial of Hein",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "7raKJKp46Z0",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {}
+}

@@ -1,0 +1,194 @@
+{
+  "backdropPath": "/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
+  "cast": [
+    {
+      "character": "Vikas Narayan",
+      "id": 588007,
+      "name": "Sharwanand",
+      "profilePath": "/n3unOPLUbyRdSnXUbF6qwVgsnhY.jpg"
+    },
+    {
+      "character": "Bullet Sunil",
+      "id": 590744,
+      "name": "Dr. Rajasekhar",
+      "profilePath": "/98rWmf6KpB7SvQMuJm0pl9au0ud.jpg"
+    },
+    {
+      "character": "Ananya",
+      "id": 1303647,
+      "name": "Malvika Nair",
+      "profilePath": "/cc4SDmyEmQPq2L8LHNm3sGHIkDr.jpg"
+    },
+    {
+      "character": "Indraneel",
+      "id": 53676,
+      "name": "Atul Kulkarni",
+      "profilePath": "/z3mRRjJfYs5C9PR4jzKsbZVKTKy.jpg"
+    },
+    {
+      "character": "Mahesh",
+      "id": 213432,
+      "name": "Brahmaji",
+      "profilePath": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg"
+    },
+    {
+      "character": "Richard",
+      "id": 2989069,
+      "name": "Dayanand Reddy",
+      "profilePath": "/8rP0hqbamgqPCVkjMhbXtydAYI4.jpg"
+    },
+    {
+      "character": "",
+      "id": 1097513,
+      "name": "Shashank",
+      "profilePath": "/eLdlMsttFqKpN2D0f5Ij0qrR0b9.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 15228,
+      "logoPath": "/wd4BquqZZiiOq9iAkGL3ViANT1x.png",
+      "name": "UV Creations"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt31593809",
+    "wikidataId": "Q138863347"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1423251,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "te",
+      "name": "Telugu"
+    }
+  ],
+  "originalTitle": "బైకర్",
+  "overview": "A seasoned motocross rider returns to the grueling sport he once abandoned, confronting fierce competition and a father who might push him to the brink.",
+  "posterPath": "/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-04"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-03"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-04-04"
+    },
+    "US": {
+      "theatrical": "2026-04-03"
+    }
+  },
+  "runtime": 162,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Go All The Way",
+  "theatricalDate": "2026-04-03",
+  "title": "Biker",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "IBl_MIY3l88",
+      "name": "Biker | Official Trailer | Sharwanand | Dr Rajasekhar | Malvika Nair | Netflix India",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1423251/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1423251/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1423251/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "backdropPath": "/Q8m7qKrvlLRqbpnIqMzgBv4v7g.jpg",
+  "cast": [
+    {
+      "character": "Herby",
+      "id": 6213,
+      "name": "Jamie Kennedy",
+      "profilePath": "/ipfv0IU3VYGOz5OBmi9WJi5autF.jpg"
+    },
+    {
+      "character": "Jesse",
+      "id": 1272847,
+      "name": "Garrett Kruithof",
+      "profilePath": "/r9vZEkHFbiLtcC946EbeaOoCPlV.jpg"
+    },
+    {
+      "character": "Charlie",
+      "id": 6111413,
+      "name": "Julian Kruithof",
+      "profilePath": null
+    },
+    {
+      "character": "Bo",
+      "id": 6111416,
+      "name": "Matthew Maniscalco",
+      "profilePath": null
+    },
+    {
+      "character": "Ronan",
+      "id": 6111420,
+      "name": "Vince Jolivette",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 198179,
+      "logoPath": "/ct4wmzYtS2prZnitm4iuMxRAMsR.png",
+      "name": "Filmopoly"
+    },
+    {
+      "id": 181730,
+      "logoPath": "/yJaxcVUTzrFXV7Ec57a60aQW5dx.png",
+      "name": "Gorilla Tree Film Co."
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-12-02",
+  "externalIds": {
+    "imdbId": "tt29712033"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "id": 1466747,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Portal in the Pines",
+  "overview": "A rural fireman discovers that a secret particle collider has opened a portal to hell.",
+  "posterPath": "/iB73OJ3smvKdPDSy1ieTW1BVaJo.jpg",
+  "rating": 5.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-12-02",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-12-02"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Portal in the Pines",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "OC92RuETXqE",
+      "name": "PORTAL IN THE PINES Official Trailer (2025) – This New Horror Movie Looks Insanely Terrifying 😱",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        },
+        {
+          "id": 1963,
+          "logoPath": "/n6E9OeoQicCDd43PnLsMpVIVYFK.png",
+          "name": "Xumo Play"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1466747-portal-in-the-pines/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

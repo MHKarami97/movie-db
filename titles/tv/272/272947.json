@@ -1,0 +1,302 @@
+{
+  "backdropPath": "/rTtg4ENjDclbvYP0w5nygSaCEYN.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 168975,
+      "logoPath": "/aQkfeYeWmX373ZJjRLUbbcvAaUV.png",
+      "name": "Black Dog Television"
+    },
+    {
+      "id": 84098,
+      "logoPath": null,
+      "name": "Acorn Media Enterprises"
+    },
+    {
+      "id": 149891,
+      "logoPath": "/2VFTrLBlFqDEPKuJgcqKTIQD8Gx.png",
+      "name": "Dynamic Television"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-06-09",
+  "episodes": {
+    "2": [
+      {
+        "airDate": "2026-12-07",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-07",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-14",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-21",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-28",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-04",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt33045989",
+    "wikidataId": "Q136645820"
+  },
+  "fetchedAt": 1794864638140,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 272947,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-07-07",
+    "episodeNumber": 6,
+    "id": 6281038,
+    "name": "Final Bid",
+    "overview": "Mick's father, Ron, is taken hostage by a criminal gang for stealing a valuable painting from them-and Mick gets an ultimatum; he and Shazia must investigate the theft of a rare Chinese vase that has disappeared from a locked vault.",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-12-07",
+    "episodeNumber": 1,
+    "id": 8137496,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 2
+  },
+  "originalTitle": "Art Detectives",
+  "overview": "In the Metropolitan Police's smallest department, the Heritage Crime Unit, an art-loving detective tackles cases connected to the world of art, antiques, collectibles and cultural heritage.",
+  "posterPath": "/kKMbkJfbK2TdAvEcnydGoC9PqUj.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-06-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2025-06-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-06-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-06-09",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2025-06-09"
+    },
+    "CN": {
+      "tv": "2025-06-09"
+    },
+    "GB": {
+      "tv": "2025-06-09"
+    },
+    "US": {
+      "tv": "2025-06-09"
+    }
+  },
+  "runtime": 45,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-12-07",
+      "episodeCount": 2,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2025-06-09",
+      "episodeCount": 6,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/4nREBXwefGJwbghon2QDPHk2hJb.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2026-12-07",
+      "episodeCount": 6,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/29neBrIiEG2re1fMeHJkwkAHJqB.jpg",
+      "seasonNumber": 2
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Art Detectives",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "5wPUfzqP-yk",
+      "name": "Inside Art Detectives | Series Premiere June 9 on Acorn TV",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "WBU2d1EZdDs",
+      "name": "Introducing DI Palmer | Art Detectives | Stream on Acorn TV",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "0SlIrMdndWw",
+      "name": "Art Detectives Starring Stephen Moyer | Official Trailer | Acorn TV",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 28,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 137,
+          "logoPath": "/fcceE9Ktrv1j1lhFcnIOvuFxb0U.png",
+          "name": "UKTV Play"
+        }
+      ],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/272947-art-detectives/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 87,
+          "logoPath": "/3aWmgZsNAqdOt8ClxIFT4pnmHrM.png",
+          "name": "Acorn TV"
+        },
+        {
+          "id": 196,
+          "logoPath": "/7BBOk6Av1TFqWqEhxBYyTJucGuL.png",
+          "name": "AcornTV Amazon Channel"
+        },
+        {
+          "id": 486,
+          "logoPath": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+          "name": "Spectrum On Demand"
+        },
+        {
+          "id": 2034,
+          "logoPath": "/1MRjoHouZAWsBCdXjjkPWEDtyV0.png",
+          "name": "Acorn TV Apple TV channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/272947-art-detectives/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "backdropPath": "/1U6BizPeYgC6lYTijQnNozS1vMg.jpg",
+  "cast": [
+    {
+      "character": "Bhooma",
+      "id": 1752056,
+      "name": "Rashmika Mandanna",
+      "profilePath": "/lj16BGfdqygHF8PZVt2KO8GUXn1.jpg"
+    },
+    {
+      "character": "Vikram",
+      "id": 2536188,
+      "name": "Dheekshith Shetty",
+      "profilePath": "/f0MzEH6dmEZiXuZ78ycDKgxECbD.jpg"
+    },
+    {
+      "character": "Durga",
+      "id": 1584559,
+      "name": "Anu Emmanuel",
+      "profilePath": "/cJP0PC9O76QLD9pVY2JuCJUcYbT.jpg"
+    },
+    {
+      "character": "Bhooma's Father",
+      "id": 586629,
+      "name": "Rao Ramesh",
+      "profilePath": "/jzO0wN21tEcmz0haekvliQU91JM.jpg"
+    },
+    {
+      "character": "Vicky's Mother",
+      "id": 467845,
+      "name": "Rohini",
+      "profilePath": "/oeT5DXeqsTY17DtJLTGpQec91fr.jpg"
+    },
+    {
+      "character": "Sudhir",
+      "id": 1052322,
+      "name": "Rahul Ravindran",
+      "profilePath": "/ejAiUB2QUhiOaGfDPgAM505R5uY.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 38582,
+      "logoPath": "/raGURQPCh7EvoBe9XHkOuw6v2o1.png",
+      "name": "Geetha Arts"
+    },
+    {
+      "id": 210930,
+      "logoPath": null,
+      "name": "Dheeraj Mogilineni Entertainment"
+    },
+    {
+      "id": 164657,
+      "logoPath": null,
+      "name": "Mass Movie Makers"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt29606526",
+    "wikidataId": "Q136765333"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1196348,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "te",
+      "name": "Telugu"
+    }
+  ],
+  "originalTitle": "ది గర్ల్‌ఫ్రెండ్‌",
+  "overview": "A college literature student falls for a charming man with a domineering streak, forcing her to confront the toxic truth of his desire.",
+  "posterPath": "/8cYve5muYPeWKvSEfFdkmWDyyDa.jpg",
+  "rating": 6.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 138,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Girlfriend",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 24,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1196348/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1196348/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1196348/watch?locale=US",
+      "rent": []
+    }
+  }
+}

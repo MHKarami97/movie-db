@@ -1,0 +1,156 @@
+{
+  "backdropPath": "/2iTOXaKgmX0JR552KbqwuEhmPXC.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 89705,
+      "logoPath": "/9lUhHbMr32wzkDgaOMNrzIu66YC.png",
+      "name": "Folivari"
+    },
+    {
+      "id": 109277,
+      "logoPath": "/v72liG1pSzELfBbVKXgTz7AItO6.png",
+      "name": "Tchack"
+    },
+    {
+      "id": 13351,
+      "logoPath": "/3cHYz3iUqBAnQfPh8LQnEaWSh1w.png",
+      "name": "Melusine Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt7085422"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "id": 588520,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "New York, Miriam et moi",
+  "overview": "New York, 1941. When his father mysteriously vanishes at Grand Central, a boy and his new friend must navigate a city crawling with spies to find him and uncover a conspiracy that's bigger than either of them imagined.",
+  "posterPath": "/2gwQ9LuE1Kr9JsmMR22lSRZBCyx.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 80,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Children of Liberty",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/588520-new-york-miriam-et-moi/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/588520-new-york-miriam-et-moi/watch?locale=US",
+      "rent": [
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ]
+    }
+  }
+}

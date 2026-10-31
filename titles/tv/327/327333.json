@@ -1,0 +1,164 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Sava Kuburović",
+      "id": 80506,
+      "name": "Nenad Jezdić",
+      "profilePath": "/20pICBQwfrYUwfvSRs570oNZGzA.jpg"
+    },
+    {
+      "character": "Dušan Kuburović",
+      "id": 2266451,
+      "name": "Pavle Mensur",
+      "profilePath": "/lbmvi5LaUYrmBLNBm2W2iiER0SE.jpg"
+    },
+    {
+      "character": "",
+      "id": 1371757,
+      "name": "Slaviša Čurović",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 2589665,
+      "name": "Jana Bjelica",
+      "profilePath": "/bBPSZpLOreXdIrcLG1U5hsECOBc.jpg"
+    },
+    {
+      "character": "Matija",
+      "id": 5006331,
+      "name": "Lazar Tasić",
+      "profilePath": null
+    },
+    {
+      "character": "Stevan Rodić",
+      "id": 2385429,
+      "name": "Miloš Petrović 'Trojpec'",
+      "profilePath": "/8qqfHqZHPay8SJeJwt43FW2vX24.jpg"
+    },
+    {
+      "character": "Grujić",
+      "id": 1579293,
+      "name": "Miodrag Radonjić",
+      "profilePath": "/knp6SIcxNQsRDAmQF2aLs7bNt03.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 25204,
+      "logoPath": "/gFf9pISFzsNKkoDuWVnLwmRF5V0.png",
+      "name": "RTS"
+    }
+  ],
+  "countries": [
+    {
+      "code": "RS",
+      "name": "Serbia"
+    }
+  ],
+  "digitalDate": "2027-10-17",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-10-17",
+        "episodeNumber": 1,
+        "name": "Pilot",
+        "overview": "Pilot is focusing on the live of police family Kuburović.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "id": 327333,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "sr",
+      "name": "Serbian"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-10-17",
+    "episodeNumber": 1,
+    "id": 7461387,
+    "name": "Pilot",
+    "overview": "Pilot is focusing on the live of police family Kuburović.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Plava krv",
+  "overview": "The series follows the Serbian Kuburović family: the father, Sava, a gendarmerie captain and war veteran nearing retirement—and his son Dušan, who also works in the police force. Also featured are the daughter, Milica (a psychologist-to-be), as well as friends, colleagues, the American administration, and Albanian criminal elements.",
+  "posterPath": "/ubOAjyRcGJbfpGkpCEPrlXMOSs4.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-10-17"
+    },
+    "CN": {
+      "tv": "2027-10-17"
+    },
+    "GB": {
+      "tv": "2027-10-17"
+    },
+    "US": {
+      "tv": "2027-10-17"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-10-17",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Blue Blood",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

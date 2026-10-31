@@ -1,0 +1,176 @@
+{
+  "backdropPath": "/jmW9NkzbpI9vhyxJU2x644Nj7VU.jpg",
+  "cast": [
+    {
+      "character": "Man",
+      "id": 27428,
+      "name": "Aaron Taylor-Johnson",
+      "profilePath": "/pFtHhih2XEaFaD3qOFyQW6q83br.jpg"
+    },
+    {
+      "character": "Woman",
+      "id": 1459885,
+      "name": "Lily-Rose Depp",
+      "profilePath": "/fulxfCO2UjDTVX3lhy4mup4wXqM.jpg"
+    },
+    {
+      "character": "Old Hunter",
+      "id": 5293,
+      "name": "Willem Dafoe",
+      "profilePath": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+      "character": "Daughter",
+      "id": 4088089,
+      "name": "Bodhi Rae Breathnach",
+      "profilePath": "/v4PXpYOKUQtcUCp85KAW2bIiS51.jpg"
+    },
+    {
+      "character": "One-Eyed Hunter",
+      "id": 202032,
+      "name": "Ralph Ineson",
+      "profilePath": "/sn3ONJw2pJxMHiCqPwvkaiWr5mc.jpg"
+    },
+    {
+      "character": "Man (young)",
+      "id": 1917498,
+      "name": "Vidal Arzoni",
+      "profilePath": "/dKyVt8FvccmqrMcP19aKGlnZykI.jpg"
+    },
+    {
+      "character": "Friar",
+      "id": 63362,
+      "name": "Ned Dennehy",
+      "profilePath": "/gSEtkD9YwYnIPbnagDc797kMVJ2.jpg"
+    },
+    {
+      "character": "Young Hunter",
+      "id": 2189085,
+      "name": "Jack Morris",
+      "profilePath": "/dQbK7ZBX1ERN2zxMnyWAkBmYAfX.jpg"
+    },
+    {
+      "character": "Priest",
+      "id": 1106964,
+      "name": "Jan Bijvoet",
+      "profilePath": "/vEiLdWybj3tt92KN67JCIvYj6vP.jpg"
+    },
+    {
+      "character": "",
+      "id": 5928452,
+      "name": "Ritchi Edwards",
+      "profilePath": "/gikJtZ5hF8fQyT6JozUuyQPzGmH.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 10163,
+      "logoPath": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+      "name": "Working Title"
+    },
+    {
+      "id": 41641,
+      "logoPath": "/rBlfMlCcxulmS25zTQwmXDHZmnB.png",
+      "name": "Maiden Voyage Pictures"
+    },
+    {
+      "id": 10146,
+      "logoPath": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+      "name": "Focus Features"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "facebookId": "werwulfmovie",
+    "imdbId": "tt35514120",
+    "instagramId": "werwulfmovie",
+    "twitterId": "werwulfmovie",
+    "wikidataId": "Q131853471"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1421903,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Werwulf",
+  "overview": "A harrowing tale of devotion, damnation and the devil within.",
+  "posterPath": "/imnkSt4PSQpxIuyiRpJCiLk3SZz.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-01-01"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-12-25"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2027-01-01"
+    },
+    "US": {
+      "theatrical": "2026-12-25"
+    }
+  },
+  "runtime": 120,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "Devoureth all mankynde.",
+  "theatricalDate": "2026-12-25",
+  "title": "Werwulf",
+  "translations": {
+    "faTitle": "ورولف"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "CL1EFACsWag",
+      "name": "Official Trailer 2",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "cmjpadVj-Vk",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

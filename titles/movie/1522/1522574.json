@@ -1,0 +1,152 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Ethan",
+      "id": 1279250,
+      "name": "Jonas Smulders",
+      "profilePath": "/5N8Z0QJ9b3SQxxFZSygvtSyTlnm.jpg"
+    },
+    {
+      "character": "Sky",
+      "id": 1603514,
+      "name": "Nina Kiri",
+      "profilePath": "/hCELEsasRGhIsS7oRfdhfK3d1Jc.jpg"
+    },
+    {
+      "character": "Amon",
+      "id": 12044,
+      "name": "Predrag Bjelac",
+      "profilePath": "/l3tzK4G7Cczoim5F8l4Mapl7xog.jpg"
+    },
+    {
+      "character": "Warrick",
+      "id": 938096,
+      "name": "Miloš Timotijević",
+      "profilePath": "/cpwpKFgLSl2KmfkWYPsO206Qbmf.jpg"
+    },
+    {
+      "character": "Ebba",
+      "id": 3402887,
+      "name": "Klara Hrvanović",
+      "profilePath": "/p5ycm61QJ4fZyxkR5hsy7EZp5sC.jpg"
+    },
+    {
+      "character": "Lev",
+      "id": 2209316,
+      "name": "Riaze Foster",
+      "profilePath": "/xtUDIxCU2MsVKkrZKRs2ld8jwTV.jpg"
+    },
+    {
+      "character": "Valeria",
+      "id": 119945,
+      "name": "Marija Karan",
+      "profilePath": "/29ouMKcanhdxzBj5kaYpvWmfaGe.jpg"
+    },
+    {
+      "character": "Rob",
+      "id": 1898026,
+      "name": "Darko Perić",
+      "profilePath": "/u3WigKj7tUriLC9Z5XbHuTNk4Wx.jpg"
+    },
+    {
+      "character": "Ikezios",
+      "id": 1049409,
+      "name": "Adnan Hasković",
+      "profilePath": "/q7Bv9cJYQlggPH7bi9piwHuLs3V.jpg"
+    },
+    {
+      "character": "Dr. Natanijel Hedlon",
+      "id": 199351,
+      "name": "Paul Leonard Murray",
+      "profilePath": "/Apgvif9yWBUP2LZevlry12MaPJc.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 85372,
+      "logoPath": null,
+      "name": "Void Pictures"
+    },
+    {
+      "id": 126747,
+      "logoPath": "/7DyXLUnWyMtKHzNThInTZnpdoWi.png",
+      "name": "Telekom Srbija"
+    }
+  ],
+  "countries": [
+    {
+      "code": "RS",
+      "name": "Serbia"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35375414"
+  },
+  "fetchedAt": 1794424086332,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "id": 1522574,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Deca bogova",
+  "overview": "In a post-apocalyptic Earth, the discovery of a cryogenically suspended woman provokes fear in a desperate village, sending a young warrior and the mysterious woman on a quest for a lost city and answers that could restore humanity.",
+  "posterPath": "/lrtJA1vZl8qcISdwgGvgPAk7VMb.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 111,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The future will not remember us.",
+  "theatricalDate": null,
+  "title": "Sanctuary",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "kEh2fXOZvJQ",
+      "name": "Sanctuary | Official Teaser Trailer",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,442 @@
+{
+  "backdropPath": "/fqLLYFnkmKvOg5BokOduaREgbgQ.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 1187971,
+      "name": "Bill Kaulitz",
+      "profilePath": "/s1uxDTtvHLJqwRMDQrbKAGRUd40.jpg"
+    },
+    {
+      "character": "",
+      "id": 1187972,
+      "name": "Tom Kaulitz",
+      "profilePath": "/dCrJBiBAOYu6N0qFrmAuGqmuilq.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 4606,
+      "logoPath": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF"
+    },
+    {
+      "id": 3391,
+      "logoPath": "/t0QBs2fI3mE3HxgoH1n39bYuzNu.png",
+      "name": "ORF"
+    },
+    {
+      "id": 42145,
+      "logoPath": "/fX8uY3tXWh814PLVqKM0IJEoDPW.png",
+      "name": "SRF"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AT",
+      "name": "Austria"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "digitalDate": "1981-02-14",
+  "episodes": {
+    "39": [
+      {
+        "airDate": "2026-12-05",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt0081961",
+    "wikidataId": "Q666799"
+  },
+  "fetchedAt": 1795588308335,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 10918,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2013-10-05",
+    "episodeNumber": 2,
+    "id": 1104199,
+    "name": "Episode 2",
+    "overview": "",
+    "seasonNumber": 33
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-12-05",
+    "episodeNumber": 1,
+    "id": 8169297,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 39
+  },
+  "originalTitle": "Wetten, dass..?",
+  "overview": "A long-running German-language entertainment television show based on the format of the British show You Bet! and the American show Wanna Bet?.",
+  "posterPath": "/4i8719B3j4z5U5EI1mjw3sOjBWe.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1981-02-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1981-02-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1981-02-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1981-02-14",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1981-02-14"
+    },
+    "CN": {
+      "tv": "1981-02-14"
+    },
+    "GB": {
+      "tv": "1981-02-14"
+    },
+    "US": {
+      "tv": "1981-02-14"
+    }
+  },
+  "runtime": 165,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2001-03-17",
+      "episodeCount": 4,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1981-02-14",
+      "episodeCount": 7,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/4i8719B3j4z5U5EI1mjw3sOjBWe.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1982-02-06",
+      "episodeCount": 6,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/4i8719B3j4z5U5EI1mjw3sOjBWe.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1983-02-19",
+      "episodeCount": 6,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/4i8719B3j4z5U5EI1mjw3sOjBWe.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1984-02-18",
+      "episodeCount": 6,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/e6QGRnHKjMusJNeeOit9biQztYL.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1985-02-09",
+      "episodeCount": 6,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/e6QGRnHKjMusJNeeOit9biQztYL.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1986-02-15",
+      "episodeCount": 6,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/e6QGRnHKjMusJNeeOit9biQztYL.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1987-02-21",
+      "episodeCount": 6,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/e6QGRnHKjMusJNeeOit9biQztYL.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1988-01-23",
+      "episodeCount": 8,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/e6QGRnHKjMusJNeeOit9biQztYL.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1989-01-28",
+      "episodeCount": 8,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1990-01-06",
+      "episodeCount": 6,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "1991-03-02",
+      "episodeCount": 6,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "1992-01-25",
+      "episodeCount": 7,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "1993-01-23",
+      "episodeCount": 6,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "1994-01-15",
+      "episodeCount": 7,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "1995-01-14",
+      "episodeCount": 7,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "1996-01-13",
+      "episodeCount": 5,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "1997-01-18",
+      "episodeCount": 6,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "1998-01-24",
+      "episodeCount": 7,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "1999-01-23",
+      "episodeCount": 8,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2000-01-29",
+      "episodeCount": 7,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2001-01-20",
+      "episodeCount": 6,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2002-01-26",
+      "episodeCount": 7,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2003-01-25",
+      "episodeCount": 6,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2004-01-24",
+      "episodeCount": 7,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2005-01-22",
+      "episodeCount": 7,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "2006-01-28",
+      "episodeCount": 6,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "2007-01-20",
+      "episodeCount": 7,
+      "name": "Season 27",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "2008-01-26",
+      "episodeCount": 6,
+      "name": "Season 28",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "2009-01-24",
+      "episodeCount": 7,
+      "name": "Season 29",
+      "overview": "",
+      "posterPath": "/qapA7K4wBwGrZr7YA0TElWah77z.jpg",
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "2010-01-23",
+      "episodeCount": 7,
+      "name": "Season 30",
+      "overview": "",
+      "posterPath": "/qapA7K4wBwGrZr7YA0TElWah77z.jpg",
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "2011-02-12",
+      "episodeCount": 6,
+      "name": "Season 31",
+      "overview": "",
+      "posterPath": "/qapA7K4wBwGrZr7YA0TElWah77z.jpg",
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "2012-10-06",
+      "episodeCount": 4,
+      "name": "Season 32",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "2013-02-23",
+      "episodeCount": 3,
+      "name": "Season 33",
+      "overview": "",
+      "posterPath": "/dA8MiM72VaZVHE96dZntUk8S3kT.jpg",
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "2026-12-05",
+      "episodeCount": 1,
+      "name": "Season 39",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 39
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Wetten, dass..?",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 24,
+  "watchProviders": {}
+}

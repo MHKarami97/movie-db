@@ -1,0 +1,201 @@
+{
+  "backdropPath": "/hwM4vWXh4cIdIynxlLn92Ul9fQd.jpg",
+  "cast": [
+    {
+      "character": "Oh Nam-hyuk",
+      "id": 1388365,
+      "name": "Heo Sung-tae",
+      "profilePath": "/j65kOkZ8RjGVuwNHjuIVbSD49tB.jpg"
+    },
+    {
+      "character": "Jo Tae-bong",
+      "id": 1428091,
+      "name": "Jo Bok-rae",
+      "profilePath": "/y8JQtClMu7rOp7ZFFWOmcD2TMcJ.jpg"
+    },
+    {
+      "character": "Lee So-yeong",
+      "id": 2617504,
+      "name": "Seo Min-joo",
+      "profilePath": "/q8GFgPUihi7MohMl1Ok3eM7bXbV.jpg"
+    },
+    {
+      "character": "Hwang Sang-gil",
+      "id": 2101538,
+      "name": "Cha Soon-bae",
+      "profilePath": "/7oDDNlBZRUb9M7VxM5X1p1eXw4c.jpg"
+    },
+    {
+      "character": "Kang Young-gu",
+      "id": 1530559,
+      "name": "Jang Hyuk-jin",
+      "profilePath": "/gBI4xgvtCBLTLz25jA6JgB0xccd.jpg"
+    },
+    {
+      "character": "Elite Park",
+      "id": 1988490,
+      "name": "Bae Yu-ram",
+      "profilePath": "/3FGkoOzQLnyzFKAgp7IS2lXzy65.jpg"
+    },
+    {
+      "character": "Insurance",
+      "id": 1989290,
+      "name": "Jin Sun-kyu",
+      "profilePath": "/toFCyPac5rSpN58p0fsZ7lbogYc.jpg"
+    },
+    {
+      "character": "Yang Hae-dong",
+      "id": 2457958,
+      "name": "Yoo Jeong-ho",
+      "profilePath": "/lUMTwdNIZmoAgQOIjpykXv0IwKf.jpg"
+    },
+    {
+      "character": "Gil-goo",
+      "id": 3798120,
+      "name": "Lee Jae-seong",
+      "profilePath": "/9gI4UXxX4uuA82lqttFDxXR3Tqq.jpg"
+    },
+    {
+      "character": "Kim",
+      "id": 6582177,
+      "name": "Shon Tae-yang",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 66404,
+      "logoPath": "/aVGd9Vd0XQ4wcaTz7DSsrJK5Ncs.png",
+      "name": "IOK Company"
+    },
+    {
+      "id": 10872,
+      "logoPath": null,
+      "name": "Popcorn Film"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33472422",
+    "wikidataId": "Q141728365"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 1160984,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "originalTitle": "정보원",
+  "overview": "Tae-bong, an informant in a smuggling operation, gets exposed during his mission. Meanwhile, bumbling detective Nam-hyuk stumbles into the chaos while attempting his own scheme. Forced into an uneasy alliance, the two must recover their losses and take down the criminals.",
+  "posterPath": "/zfMh6hJt9tv25rE0HMhlEpekQTa.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-11-09"
+    },
+    "US": {
+      "premiere": "2025-07-11"
+    }
+  },
+  "runtime": 103,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Informant",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 11,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        },
+        {
+          "id": 2077,
+          "logoPath": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+          "name": "Plex Channel"
+        },
+        {
+          "id": 575,
+          "logoPath": "/t4tushezwJkXCposaC73oZTwF5a.png",
+          "name": "OnDemandKorea"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1160984/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    }
+  }
+}

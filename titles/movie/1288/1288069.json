@@ -1,0 +1,244 @@
+{
+  "backdropPath": "/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+  "cast": [
+    {
+      "character": "Tenzing Norgay",
+      "id": 2091969,
+      "name": "Genden Phuntsok",
+      "profilePath": "/2xsreNBuPpBZYJTlpuTapi2ZvP.jpg"
+    },
+    {
+      "character": "Ed Hillary",
+      "id": 91606,
+      "name": "Tom Hiddleston",
+      "profilePath": "/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+    },
+    {
+      "character": "John Hunt",
+      "id": 5293,
+      "name": "Willem Dafoe",
+      "profilePath": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+      "character": "Boy Tenzing (9 Yrs)",
+      "id": 6553324,
+      "name": "Samdrup Dorje Lama",
+      "profilePath": null
+    },
+    {
+      "character": "Sherpa",
+      "id": 6553325,
+      "name": "Bhuchung Kata",
+      "profilePath": null
+    },
+    {
+      "character": "George Mallory",
+      "id": 137108,
+      "name": "Johnny Flynn",
+      "profilePath": "/tS3HIDFJbD8uSLAvaxZfrPc3aM0.jpg"
+    },
+    {
+      "character": "Kinzom",
+      "id": 14594,
+      "name": "Lhakpa Tsamchoe",
+      "profilePath": "/kiodZp3zbkgHEIGfmXQDAug1V57.jpg"
+    },
+    {
+      "character": "Mingma",
+      "id": 53621,
+      "name": "Jampa Kalsang Tamang",
+      "profilePath": null
+    },
+    {
+      "character": "Mrs Ingram",
+      "id": 1046233,
+      "name": "Elizabeth Blackmore",
+      "profilePath": "/8IFEnd9hBbrQOleqTvjyuTlfQXu.jpg"
+    },
+    {
+      "character": "Mr Ingram",
+      "id": 1371801,
+      "name": "Brandon McClelland",
+      "profilePath": "/cYZ3Sk95h3FzSwVm4MqF6AtDC32.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 159766,
+      "logoPath": "/A6yBN3mIr9S0tOtahRCx8rJtwuY.png",
+      "name": "Cross City Films"
+    },
+    {
+      "id": 7217,
+      "logoPath": "/vFbexaF70wSMUHRA6Fy6UcuA1ju.png",
+      "name": "See-Saw Films"
+    },
+    {
+      "id": 194232,
+      "logoPath": "/oE7H93u8sy5vvW5EH3fpCp68vvB.png",
+      "name": "Apple Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-15",
+  "externalIds": {
+    "imdbId": "tt6262770",
+    "wikidataId": "Q134386482"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 6,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "id": 1288069,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ne",
+      "name": "Nepali"
+    }
+  ],
+  "originalTitle": "Tenzing",
+  "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
+  "posterPath": "/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+  "rating": 8.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-10-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-10-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-15",
+      "gapDays": 6,
+      "theatricalDate": "2026-10-09"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-10-16"
+    },
+    "GB": {
+      "digital": "2026-10-16",
+      "premiere": "2026-10-01"
+    },
+    "US": {
+      "digital": "2026-10-15",
+      "premiere": "2026-09-05",
+      "theatricalLimited": "2026-10-09"
+    }
+  },
+  "runtime": 126,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The ascent that made history.",
+  "theatricalDate": "2026-10-09",
+  "title": "Tenzing",
+  "translations": {
+    "faTitle": "تنزینگ"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "RNyq1ABY7Dc",
+      "name": "From Thor to Tenzing Tom Hiddleston Reflects on Career Highlights & His Biggest Inspirations",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "KkYCY5YR12U",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 225,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 350,
+          "logoPath": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1288069-tenzing/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 350,
+          "logoPath": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        },
+        {
+          "id": 2243,
+          "logoPath": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "name": "Apple TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1288069-tenzing/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 350,
+          "logoPath": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        },
+        {
+          "id": 2243,
+          "logoPath": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "name": "Apple TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1288069-tenzing/watch?locale=US",
+      "rent": []
+    }
+  }
+}

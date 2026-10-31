@@ -1,0 +1,152 @@
+{
+  "backdropPath": "/7EzH0dlEN9OZWWBXBWwT5PbMNUz.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 4487239,
+      "name": "Yuval Abraham",
+      "profilePath": "/62uWfsiFDf0pmpmMtFcOlwAfdSj.jpg"
+    },
+    {
+      "character": "Self (archive footage) (uncredited)",
+      "id": 125825,
+      "name": "Benjamin Netanyahu",
+      "profilePath": "/bmpbaBWPwvPE0Wp1KyNaj8nfVzL.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 87763,
+      "logoPath": "/Ah77uoGeiXGkaUpghqcZWfdSejy.png",
+      "name": "The Guardian"
+    },
+    {
+      "id": 27543,
+      "logoPath": "/viNRcZsB71muhHNSeBHR136nWMe.png",
+      "name": "JW Films"
+    },
+    {
+      "id": 299502,
+      "logoPath": "/lxBCyR9ec2SEPs4Gdy3f2bMeBSa.png",
+      "name": "Placeholder Films"
+    },
+    {
+      "id": 308503,
+      "logoPath": null,
+      "name": "Unseen Hand"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt44766123",
+    "wikidataId": "Q141168534"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "id": 1755291,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "he",
+      "name": "Hebrew"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ar",
+      "name": "Arabic"
+    }
+  ],
+  "originalTitle": "NAZA",
+  "overview": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
+  "posterPath": "/cbxiZ1l21KUATu2KKQQ8J8fJhpe.jpg",
+  "rating": 8.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-16"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-30"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-10-18"
+    },
+    "GB": {
+      "theatricalLimited": "2026-10-16"
+    },
+    "US": {
+      "premiere": "2026-09-26",
+      "theatricalLimited": "2026-09-30"
+    }
+  },
+  "runtime": 77,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A window into systems of mass killing.",
+  "theatricalDate": "2026-09-30",
+  "title": "NAZA",
+  "translations": {
+    "faTitle": "نازا"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "HgGR59tmy7U",
+      "name": "NAZA Introduction with Producers James Wilson and Harry Davies",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "K-b4DxbhQmY",
+      "name": "Yuval Abraham and Rachel Szor on NAZA",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "40KW6knYMo4",
+      "name": "Exclusive Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 125,
+  "watchProviders": {}
+}

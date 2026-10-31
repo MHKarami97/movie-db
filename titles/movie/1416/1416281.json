@@ -1,0 +1,156 @@
+{
+  "backdropPath": "/zQSI6yJpq0CCxZgPYeXC0tZTpuc.jpg",
+  "cast": [
+    {
+      "character": "Uncle Fyodor",
+      "id": 4704514,
+      "name": "Roman Pankov",
+      "profilePath": "/x6jYt43TtJJSjs7fLDkmQuy3JGy.jpg"
+    },
+    {
+      "character": "Uncle Fyodor's Mother",
+      "id": 2223767,
+      "name": "Liza Moryak",
+      "profilePath": "/raL2ysWjYFfapq2OQdBRqiDYp2i.jpg"
+    },
+    {
+      "character": "Uncle Fyodor's Father",
+      "id": 118331,
+      "name": "Pavel Priluchny",
+      "profilePath": "/t69uHp6awConGgwxxCqEFD3qas1.jpg"
+    },
+    {
+      "character": "Pechkin the Postman",
+      "id": 126863,
+      "name": "Ivan Okhlobystin",
+      "profilePath": "/5aJPa5hQsUxuRvSmU2k8KUR56Tk.jpg"
+    },
+    {
+      "character": "Hostess",
+      "id": 1257179,
+      "name": "Tatyana Orlova",
+      "profilePath": "/fbWm4cCbXW1ROKu5F2yR3csIea.jpg"
+    },
+    {
+      "character": "Tarelkin",
+      "id": 29837,
+      "name": "Aleksei Maklakov",
+      "profilePath": "/zjroLaa2LP1cjv4DTo0AZ0aTv4Q.jpg"
+    },
+    {
+      "character": "Vilkin",
+      "id": 236002,
+      "name": "Aleksandr Lykov",
+      "profilePath": "/5q8GyA7XqpAZEajBlQrD6WsfSVh.jpg"
+    },
+    {
+      "character": "Lozhkin",
+      "id": 583737,
+      "name": "Vladimir Sychev",
+      "profilePath": "/t661UP8KGhsLFTfPGsUdZZruPT5.jpg"
+    },
+    {
+      "character": "Old Lady",
+      "id": 47949,
+      "name": "Svetlana Nemolyaeva",
+      "profilePath": "/1d3ZhUQlPZObQKPpBOIaMJuEDyb.jpg"
+    },
+    {
+      "character": "Grandma",
+      "id": 1857258,
+      "name": "Galina Stakhanova",
+      "profilePath": "/uyFQWbp73r0WHVqoJcFNqu6lTXm.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 7501,
+      "logoPath": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+      "name": "Soyuzmultfilm"
+    },
+    {
+      "id": 82340,
+      "logoPath": "/dj89PnCx2Pt7vAE3Fp7n54vvmOt.png",
+      "name": "TNT"
+    },
+    {
+      "id": 152330,
+      "logoPath": null,
+      "name": "K.B.A."
+    },
+    {
+      "id": 106390,
+      "logoPath": null,
+      "name": "Gazprom-Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "RU",
+      "name": "Russia"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt32019321",
+    "wikidataId": "Q136399995"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1416281,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ru",
+      "name": "Russian"
+    }
+  ],
+  "originalTitle": "Простоквашино",
+  "overview": "A boy nicknamed Uncle Fyodor loved animals very much, but his parents didn't want to hear anything about having a pet in their apartment. So Uncle Fyodor had to move to the village of Prostokvashino with his new friends — the cat Matroskin and the faithful dog Sharik.",
+  "posterPath": "/rAbQ6N7p5M81DiFfsFirMeOUuYY.jpg",
+  "rating": 3.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Prostokvashino",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 7,
+  "watchProviders": {}
+}

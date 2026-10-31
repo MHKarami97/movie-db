@@ -1,0 +1,204 @@
+{
+  "backdropPath": "/lvqxVKCUbhH83skNczVK9xWb5t4.jpg",
+  "cast": [
+    {
+      "character": "A. Ramanan",
+      "id": 35782,
+      "name": "Manoj Bajpayee",
+      "profilePath": "/hBiAldG2BGMVoZUPbvK3FNDSw22.jpg"
+    },
+    {
+      "character": "Deputy Governor (CR)",
+      "id": 6195986,
+      "name": "Noushad Mohamed Kunju",
+      "profilePath": null
+    },
+    {
+      "character": "Reporter Aditi Verma",
+      "id": 86030,
+      "name": "Adah Sharma",
+      "profilePath": "/7zODp1yRHDyzcUXsi10ouHYY9IV.jpg"
+    },
+    {
+      "character": "Vandita",
+      "id": 229116,
+      "name": "Madhoo",
+      "profilePath": "/vH4fS92NFq0k2TGTPZe9I5qdPbo.jpg"
+    },
+    {
+      "character": "Marshal",
+      "id": 3637592,
+      "name": "John Forbes",
+      "profilePath": "/6lcCfG0LiqgsipsIhgC1idStjRs.jpg"
+    },
+    {
+      "character": "Deepak",
+      "id": 5090820,
+      "name": "Devaang Bagga",
+      "profilePath": null
+    },
+    {
+      "character": "Sharma",
+      "id": 2335893,
+      "name": "Paritosh Sand",
+      "profilePath": "/6hzwHFF5Msb7jhzEOWT8ICm5X9m.jpg"
+    },
+    {
+      "character": "Madhavi",
+      "id": 1919775,
+      "name": "Krisha Kurup",
+      "profilePath": "/3ZMN10LgcdcG4LWJGIyYcSxl4y0.jpg"
+    },
+    {
+      "character": "Peon Patil",
+      "id": 1586795,
+      "name": "Jaywant Wadkar",
+      "profilePath": "/35f2tYHkYrOaA7Li8hYGTyskh2j.jpg"
+    },
+    {
+      "character": "Shekhar",
+      "id": 3560386,
+      "name": "Sanjay Sonu",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 14055,
+      "logoPath": null,
+      "name": "Sunshine Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36822418"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1475803,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "hi",
+      "name": "Hindi"
+    }
+  ],
+  "originalTitle": "गवर्नर",
+  "overview": "Set against Indias 1990 economic crisis, Governor follows Raman, a reluctant bureaucrat unexpectedly appointed as the Governor of the RBI when the nation stands on the brink of bankruptcy. As inflation rises, fuel runs low, and panic spreads, Raman must navigate political pressure and a collapsing system to prevent the country from falling apart.",
+  "posterPath": "/Anukm4NH6MM025vUQ9ykpWQXnFn.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-06-12"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-06-12"
+    }
+  },
+  "runtime": 122,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "If I fail... India fails.",
+  "theatricalDate": "2026-06-12",
+  "title": "Governor",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Mvm0bRY0Qyg",
+      "name": "Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 119,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1475803/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1475803/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1475803/watch?locale=US",
+      "rent": []
+    }
+  }
+}

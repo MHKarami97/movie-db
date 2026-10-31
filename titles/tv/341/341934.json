@@ -1,0 +1,202 @@
+{
+  "backdropPath": "/za1fXitSSZqQ5s2kMriDBIJx3dG.jpg",
+  "cast": [
+    {
+      "character": "Naru Shintani",
+      "id": 4236057,
+      "name": "Haru Kashiwagi",
+      "profilePath": "/7UP8Ldxd1XFgyNLbixCjmY3clut.jpg"
+    },
+    {
+      "character": "Kazunari Ikeda",
+      "id": 2636358,
+      "name": "Noritaka Hamao",
+      "profilePath": "/qkWQn0zyeg967iWzPXEDo8BvK7P.jpg"
+    },
+    {
+      "character": "Sora Hoshino",
+      "id": 1723012,
+      "name": "Karen Otomo",
+      "profilePath": "/qyL1ijHCXuuv9HK9GHQERzfUmCN.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2026-12-25",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-12-25",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-25",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-08",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-15",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-22",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-29",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-05",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-12",
+        "episodeNumber": 9,
+        "name": "Episode 9",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-19",
+        "episodeNumber": 10,
+        "name": "Episode 10",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1794596645770,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 341934,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2026-12-25",
+    "episodeNumber": 1,
+    "id": 8123595,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "アクアマン",
+  "overview": "Bound by childhood trauma and an unspoken pact of loyalty, three close friends enter university believing their bond is unbreakable. As past pain, adult anxieties, and colliding dreams surface, hidden sides of each other come to light, forcing Naru, Kazunari, and Sora to confront the shifting lines between friendship, love, and the future they want to build.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-12-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-12-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-12-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-12-25",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-12-25"
+    },
+    "CN": {
+      "tv": "2026-12-25"
+    },
+    "GB": {
+      "tv": "2026-12-25"
+    },
+    "US": {
+      "tv": "2026-12-25"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-12-25",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Planned",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Aquaman",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

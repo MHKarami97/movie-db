@@ -1,0 +1,203 @@
+{
+  "backdropPath": "/wnfNj5W8Xa38SW1mklIU81DMWVv.jpg",
+  "cast": [
+    {
+      "character": "Olivia Tate",
+      "id": 3631624,
+      "name": "Rosemary Idisi",
+      "profilePath": "/bRtJpgCaCefonrB9vojSBA4v9nb.jpg"
+    },
+    {
+      "character": "Gabe",
+      "id": 5770196,
+      "name": "Joseph Purcell",
+      "profilePath": "/1SIY8XI635mqsp2Gp8ZrD8Ye4AI.jpg"
+    },
+    {
+      "character": "Syd",
+      "id": 4564112,
+      "name": "Geffen Aviva",
+      "profilePath": null
+    },
+    {
+      "character": "John",
+      "id": 5770203,
+      "name": "Chris Angelis",
+      "profilePath": "/q7oTdMrUFgiWuvRzJCof2QDfoqh.jpg"
+    },
+    {
+      "character": "Cyrus",
+      "id": 5770206,
+      "name": "David Hernandez",
+      "profilePath": "/c1VOohhE41MUMxiMIvyj3Pvawdv.jpg"
+    },
+    {
+      "character": "Melissa",
+      "id": 5770199,
+      "name": "Annie Grant",
+      "profilePath": null
+    },
+    {
+      "character": "Hired Scarer",
+      "id": 3597247,
+      "name": "Ian Mellencamp",
+      "profilePath": "/EFDt9CiwyzfsInaMsjZ5RhEmDJ.jpg"
+    },
+    {
+      "character": "Naomi",
+      "id": 5770205,
+      "name": "Angelique Chapman",
+      "profilePath": null
+    },
+    {
+      "character": "Boutique Shopper",
+      "id": 5760274,
+      "name": "Olga Kamyshok",
+      "profilePath": null
+    },
+    {
+      "character": "Daizy",
+      "id": 3570541,
+      "name": "Isabella Ward",
+      "profilePath": "/kkveisfaT5LcZn4dghtWJC1fBAA.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38066434"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1568135,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Glamping",
+  "overview": "What begins as an influencer's dream cabin getaway with her friends soon unravels into a nightmare when a masked killer crashes the trip.",
+  "posterPath": "/xktSwffJChQG5F2zfAiOXrrpBYq.jpg",
+  "rating": 3.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 83,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Glamping",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "LGQwzRmayEA",
+      "name": "Glamping | Official Trailer | Tubi Original",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1568135-glamping/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1568135-glamping/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

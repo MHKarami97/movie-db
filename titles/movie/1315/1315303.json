@@ -1,0 +1,657 @@
+{
+  "backdropPath": "/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg",
+  "cast": [
+    {
+      "character": "Lucy",
+      "id": 1295282,
+      "name": "Johnny Sequoyah",
+      "profilePath": "/taFfjOB4lPAx75kJo9yFylKT1ek.jpg"
+    },
+    {
+      "character": "Hannah",
+      "id": 2600509,
+      "name": "Jessica Alexander",
+      "profilePath": "/5PsoZ9aN2cTXkWyhIALluBrbiWy.jpg"
+    },
+    {
+      "character": "Adam",
+      "id": 1571661,
+      "name": "Troy Kotsur",
+      "profilePath": "/24K3og12jGBGL9dqH5OYFdjF9wu.jpg"
+    },
+    {
+      "character": "Kate",
+      "id": 4979358,
+      "name": "Victoria Wyant",
+      "profilePath": "/et8teE6ZMqdWGWYj3aDIMD6Yhvt.jpg"
+    },
+    {
+      "character": "Erin",
+      "id": 3675179,
+      "name": "Gia Hunter",
+      "profilePath": "/fK7xZRr1qhCjby0njwhsfgLyW0P.jpg"
+    },
+    {
+      "character": "Nick",
+      "id": 2745054,
+      "name": "Benjamin Cheng",
+      "profilePath": "/onxgW3w20YHlNhB8CBQ714zytOL.jpg"
+    },
+    {
+      "character": "Drew",
+      "id": 4799831,
+      "name": "Charlie Mann",
+      "profilePath": "/t6U480woJ4xFkginrqjUKbDJTqh.jpg"
+    },
+    {
+      "character": "Brad",
+      "id": 3645292,
+      "name": "Tienne Simon",
+      "profilePath": "/964o0kGA0zoj2DVpjX8q188ZDcK.jpg"
+    },
+    {
+      "character": "Ben",
+      "id": 2718121,
+      "name": "Miguel Hernando Torres Umba",
+      "profilePath": "/jLlbDBqTMtD8ErKk1uu7aT8tvI0.jpg"
+    },
+    {
+      "character": "Susan",
+      "id": 4979364,
+      "name": "Amina Abdi",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 225897,
+      "logoPath": "/27MdBWUI30G7TTcKIFRhZo1DvdE.png",
+      "name": "18Hz Productions"
+    },
+    {
+      "id": 4,
+      "logoPath": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures"
+    },
+    {
+      "id": 216687,
+      "logoPath": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+      "name": "Domain Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-02-10",
+  "externalIds": {
+    "facebookId": "PrimateMovie",
+    "imdbId": "tt33028778",
+    "instagramId": "primatemovie",
+    "twitterId": "PrimateMovie",
+    "wikidataId": "Q133857446"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1315303,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Primate",
+  "overview": "College student Lucy and her friends spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
+  "posterPath": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-01-22"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-01-30"
+    },
+    "US": {
+      "digitalDate": "2026-02-10",
+      "gapDays": 32,
+      "theatricalDate": "2026-01-09"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-01-22"
+    },
+    "GB": {
+      "theatrical": "2026-01-30"
+    },
+    "US": {
+      "digital": "2026-02-10",
+      "physical": "2026-04-21",
+      "premiere": "2025-09-18",
+      "theatrical": "2026-01-09"
+    }
+  },
+  "runtime": 89,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Something's wrong with Ben.",
+  "theatricalDate": "2026-01-09",
+  "title": "Primate",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "K9js54rknmc",
+      "name": "Extended Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "wyOySR6STq4",
+      "name": "Passing The Phone",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "RPdqqDZkr68",
+      "name": "Director Johannes Roberts Breaks Down Primate",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "fuXQNH8mMz0",
+      "name": "Director Johannes Roberts On The Pool Party Scene",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "xKGw0q_6aGw",
+      "name": "Jaw On The Floor",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "1pThreKYK7Y",
+      "name": "Jaw Dropping",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "VbTgZKqx5js",
+      "name": "Nightmares",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "jxBMUfEphZk",
+      "name": "Full Body Experience",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "DyMv1uYID-w",
+      "name": "Don't See It Alone",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "OsVkAxrw3pc",
+      "name": "Horrifying",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "oLBIUDT1zIQ",
+      "name": "See It In Cinemas",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ZiTh2ixFmYc",
+      "name": "Ben Surprise",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "YKrR6thS8b4",
+      "name": "Speechless",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "jElnR65Otoo",
+      "name": "Fandom Wire Review",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "yrRP-WGTs74",
+      "name": "One Person Journey",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ohPa_gEPz_k",
+      "name": "Not So Cute",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "6vIEAnT0kTc",
+      "name": "Ready To Play",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "j8MPZZTpucA",
+      "name": "Audience Reaction",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Ek9RIhPvCZ4",
+      "name": "Terrifying",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "HauxT3V3Ffk",
+      "name": "One Word",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "izewJNTIjlU",
+      "name": "Grab Your Friends",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "fWmSb4nF04k",
+      "name": "Time to scream!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "eRL7CZvTU08",
+      "name": "Ben's POV UK Gala",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "2_DsitaI4MM",
+      "name": "Mother Nature",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "TwD7nmueqQw",
+      "name": "UK Gala",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "OKKwdKMRP68",
+      "name": "This weekend, fear goes feral.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "liVzK3by1rg",
+      "name": "Raised",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "uj73FheUVjg",
+      "name": "Intellect",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "-zys-TwGZUQ",
+      "name": "Operator",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "yjfaVFXVmsI",
+      "name": "Lucy, RUN.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "4BB4XhPZt1U",
+      "name": "Thump",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "MDWPf8-8JcQ",
+      "name": "Glass",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "l4GqkkQrItg",
+      "name": "Pool",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ypOFCaRJtPo",
+      "name": "Contrast",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "scNzpsQ-u-Y",
+      "name": "The Switch",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ugx1dGot1ms",
+      "name": "Adrenaline",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "_HxqJOXPG7s",
+      "name": "Trapped",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "tfBU23qol0c",
+      "name": "Pool Side",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "yFgT0qLikEM",
+      "name": "Closet",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "nZzQ73YaVs0",
+      "name": "Do not make a sound.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "WxcecB6moUU",
+      "name": "Listen",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "JN4VgBzRDJY",
+      "name": "Teddy Bear",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "sEWkgNizugU",
+      "name": "Something's Wrong",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "5Yt_eD75b7o",
+      "name": "Breakup",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "LG-omD7vdLg",
+      "name": "Experience \"nail-biting suspense.\"",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "vz8JwGTfAGk",
+      "name": "Experience “edge-of-your-seat-terror” on the big screen.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "huAjY09Lwwk",
+      "name": "Primate brings “edge-of-your-seat-terror” to the big screen.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "A2Dk4raFQw0",
+      "name": "They thought he was family… they were wrong.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "bkgsv8yB410",
+      "name": "Fear",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "_uUNb9I4NlM",
+      "name": "Lucy, Bad - Movie Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "3M2BGgUyuQg",
+      "name": "Mess Review",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Zc9YV9zVgsE",
+      "name": "Silence Featurette",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "4HF4C77IE-4",
+      "name": "Early Screening: Terrifying Audience Reaction",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "mPjWNA3TuS0",
+      "name": "They Thought He Was Family - Featurette",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "wo87F-va410",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "baXzvRTAhSk",
+      "name": "911 Call",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 965,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 531,
+          "logoPath": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+          "name": "Paramount Plus"
+        },
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        },
+        {
+          "id": 582,
+          "logoPath": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        },
+        {
+          "id": 2303,
+          "logoPath": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "id": 2304,
+          "logoPath": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+          "name": "Paramount Plus Basic with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1315303-primate/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1315303-primate/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 2784,
+          "logoPath": "/aaFIYn2NGPCo0rpLiWokbvNqNJd.png",
+          "name": "JustWatch TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 331,
+          "logoPath": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+          "name": "FlixFling"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

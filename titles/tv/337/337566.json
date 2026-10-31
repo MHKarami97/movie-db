@@ -1,0 +1,203 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Telegram (voice)",
+      "id": 6529589,
+      "name": "Jerome Soriano",
+      "profilePath": "/h4TUgcO1Y5MacR2OyA3ZYRMiXs2.jpg"
+    },
+    {
+      "character": "Reddit (voice)",
+      "id": 6529633,
+      "name": "Google Translate Female Voice",
+      "profilePath": null
+    },
+    {
+      "character": "Powerpoint (voice)",
+      "id": 4968608,
+      "name": "texttospeech.org",
+      "profilePath": null
+    },
+    {
+      "character": "Quicktime Player (voice)",
+      "id": 6532025,
+      "name": "Ivy TTS",
+      "profilePath": null
+    },
+    {
+      "character": "Telegram (voice)",
+      "id": 6532039,
+      "name": "Emma TTS",
+      "profilePath": null
+    },
+    {
+      "character": "X/Twitter (voice)",
+      "id": 5786813,
+      "name": "MacInTalk",
+      "profilePath": null
+    },
+    {
+      "character": "Capcut (voice)",
+      "id": 6529589,
+      "name": "Jerome Soriano",
+      "profilePath": "/h4TUgcO1Y5MacR2OyA3ZYRMiXs2.jpg"
+    },
+    {
+      "character": "Roblox (voice)",
+      "id": 6529589,
+      "name": "Jerome Soriano",
+      "profilePath": "/h4TUgcO1Y5MacR2OyA3ZYRMiXs2.jpg"
+    },
+    {
+      "character": "Snapchat (voice)",
+      "id": 6529589,
+      "name": "Jerome Soriano",
+      "profilePath": "/h4TUgcO1Y5MacR2OyA3ZYRMiXs2.jpg"
+    },
+    {
+      "character": "Skype (voice)",
+      "id": 4968608,
+      "name": "texttospeech.org",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 313347,
+      "logoPath": null,
+      "name": "JS Productions"
+    },
+    {
+      "id": 313783,
+      "logoPath": null,
+      "name": "Jerome Soriano Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "digitalDate": "2027-10-01",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-10-01",
+        "episodeNumber": 1,
+        "name": "A Tower Time",
+        "overview": "The first episode of the show,The plot is in TBA",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-10-08",
+        "episodeNumber": 2,
+        "name": "TBA",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-10-15",
+        "episodeNumber": 3,
+        "name": "TBA",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "id": 337566,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-10-01",
+    "episodeNumber": 1,
+    "id": 7915179,
+    "name": "A Tower Time",
+    "overview": "The first episode of the show,The plot is in TBA",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Battle for the Apps Server!",
+  "overview": "Plot is still in progress because the show is in progress yet,TBA",
+  "posterPath": "/52up5Wgyu7PUvWqZIVCe8nrniCp.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-10-01"
+    },
+    "CN": {
+      "tv": "2027-10-01"
+    },
+    "GB": {
+      "tv": "2027-10-01"
+    },
+    "US": {
+      "tv": "2027-10-01"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-10-01",
+      "episodeCount": 3,
+      "name": "Battle for my Apps Begins",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Planned",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Battle for the Apps Server!",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,130 @@
+{
+  "backdropPath": "/Ap7wE2u1p9y5Wegr1BEIEcDoWRk.jpg",
+  "cast": [
+    {
+      "character": "Zebro",
+      "id": 6461516,
+      "name": "Jayla Wells",
+      "profilePath": null
+    },
+    {
+      "character": "Twigs",
+      "id": 6461516,
+      "name": "Jayla Wells",
+      "profilePath": null
+    },
+    {
+      "character": "Aily",
+      "id": 6462001,
+      "name": "Endzo \"Azzie\"",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 309841,
+      "logoPath": null,
+      "name": "TVStatic Studios"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2027-12-04",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-12-04",
+        "episodeNumber": 1,
+        "name": "Pilot",
+        "overview": "After messing around where they shouldn’t have, Zebro accidentally releases dark magic into the world and now they and their friends are left to fix the mess.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "id": 334275,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-12-04",
+    "episodeNumber": 1,
+    "id": 7774636,
+    "name": "Pilot",
+    "overview": "After messing around where they shouldn’t have, Zebro accidentally releases dark magic into the world and now they and their friends are left to fix the mess.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "\"Showtime!\"",
+  "overview": "After being blessed/cursed with the powers of gods and accidentally releasing dark energy into the world, Zebro and their friends must keep the world safe from total destruction.",
+  "posterPath": "/6H0yXATePQfSZOGaH3KofH8L8ee.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-12-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-12-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-12-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-12-04",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-12-04"
+    },
+    "CN": {
+      "tv": "2027-12-04"
+    },
+    "GB": {
+      "tv": "2027-12-04"
+    },
+    "US": {
+      "tv": "2027-12-04"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-12-04",
+      "episodeCount": 1,
+      "name": "Chapter 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "\"Showtime!\"",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

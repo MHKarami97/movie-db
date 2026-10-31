@@ -1,0 +1,340 @@
+{
+  "backdropPath": "/r6eV5iz35SugczzCNzJJ0HRBnlE.jpg",
+  "cast": [
+    {
+      "character": "Anna",
+      "id": 99,
+      "name": "Amanda Plummer",
+      "profilePath": "/wEwyajjePFVVn2wFdH1NH7z9Qn5.jpg"
+    },
+    {
+      "character": "Matt",
+      "id": 4455,
+      "name": "Ulrich Thomsen",
+      "profilePath": "/qjXAPbuO8CicunlQs07c1fbFG67.jpg"
+    },
+    {
+      "character": "Boss",
+      "id": 36055,
+      "name": "Costas Mandylor",
+      "profilePath": "/yPkQdbhCj2EJM0cjDtkuJTlFp86.jpg"
+    },
+    {
+      "character": "Ismael",
+      "id": 1261694,
+      "name": "Barkhad Abdi",
+      "profilePath": "/utfeg8GnGyW3aVNcRfhII9RCXB6.jpg"
+    },
+    {
+      "character": "Eddie",
+      "id": 785,
+      "name": "James Russo",
+      "profilePath": "/nubhNb5OUkzsrndD1BNqzp7MGyo.jpg"
+    },
+    {
+      "character": "Julia",
+      "id": 168828,
+      "name": "Kristen Renton",
+      "profilePath": "/8l2jVHf2ytesVNWSDWQnK54ohU3.jpg"
+    },
+    {
+      "character": "Abdul",
+      "id": 222508,
+      "name": "Michel Qissi",
+      "profilePath": "/zl64reyhHgnrDFcDWx7lNKaVfmm.jpg"
+    },
+    {
+      "character": "Oumar",
+      "id": 1291961,
+      "name": "Marcus Henderson",
+      "profilePath": "/vTevIy7GKjhmpoAhoayifnwqgn2.jpg"
+    },
+    {
+      "character": "Cappi",
+      "id": 101165,
+      "name": "Daniel Sauli",
+      "profilePath": "/z3vw7M8NU2e1ipOP3j08Ir8QWJM.jpg"
+    },
+    {
+      "character": "Idris",
+      "id": 1230897,
+      "name": "Sammy Sheik",
+      "profilePath": "/gQ67uMJsn8V8iSdC3XXFd4LjoCm.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 23746,
+      "logoPath": null,
+      "name": "Kinostar"
+    },
+    {
+      "id": 273199,
+      "logoPath": null,
+      "name": "Borvel Film"
+    },
+    {
+      "id": 120445,
+      "logoPath": null,
+      "name": "Bolu Filmproduktion und Verleih"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "HR",
+      "name": "Croatia"
+    }
+  ],
+  "digitalDate": "2025-11-14",
+  "externalIds": {
+    "imdbId": "tt32046683",
+    "wikidataId": "Q131226672"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1246729,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Run",
+  "overview": "The film follows a boat carrying migrants from various African countries through the Mediterranean sea to Italy. When the boat loses orientation and goes off course, things turn violent as the migrants blame the smugglers. After finally making it to shore, the desperate passengers try to evade police and a few manage to get away.",
+  "posterPath": "/lAqiDMAMCRB212C4zx5SRYXbNAY.jpg",
+  "rating": 3.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-11-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-14",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2025-11-14"
+    },
+    "US": {
+      "digital": "2025-11-14"
+    }
+  },
+  "runtime": 97,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Run",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "jZjJ-5U9Tto",
+      "name": "Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1246729-run/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        },
+        {
+          "id": 2077,
+          "logoPath": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+          "name": "Plex Channel"
+        },
+        {
+          "id": 613,
+          "logoPath": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png",
+          "name": "Amazon Prime Video Free with Ads"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        },
+        {
+          "id": 1898,
+          "logoPath": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png",
+          "name": "Amazon MX Player"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2303,
+          "logoPath": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "id": 2616,
+          "logoPath": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+          "name": "Paramount Plus Essential"
+        },
+        {
+          "id": 582,
+          "logoPath": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        },
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        },
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1246729-run/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

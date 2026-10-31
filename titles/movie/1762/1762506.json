@@ -1,0 +1,191 @@
+{
+  "backdropPath": "/mMLVXM8UOKSxVSxnXcmuBPMiHsC.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 20186,
+      "name": "Damian Lewis",
+      "profilePath": "/puOXtVatFnAxoOmsFO8z7KTfyJW.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 4201615,
+      "name": "Richard D. Winters",
+      "profilePath": "/8GkamWaNqw95JQrtouqiWrR88WB.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 17402,
+      "name": "Ron Livingston",
+      "profilePath": "/pr5CjWnkaf5WKTIYh8wtNufjmyb.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2203,
+      "name": "Neal McDonough",
+      "profilePath": "/3mI3i1CpjATSCta1Tb2qsyl1KCh.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 9275,
+      "name": "Frank John Hughes",
+      "profilePath": "/cPlPRD36uPNYMlPeoHjvmOc60iX.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 52415,
+      "name": "Michael Cudlitz",
+      "profilePath": "/1snLOta9L2DAhmOTvNIn7OSxzQC.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 65395,
+      "name": "James Madio",
+      "profilePath": "/v17uyHhMLooVWKjMRS4NoGeTPyB.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 3211,
+      "name": "Dale Dye",
+      "profilePath": "/bkMcK2hvB1wRJT1YFgNTl7ivlF2.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 14409,
+      "name": "David Schwimmer",
+      "profilePath": "/XtKzJ9lM5Xwa7vCmE4xNHy6Owf.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 4201565,
+      "name": "William 'Bill' Guarnere",
+      "profilePath": "/vS13uH6VLZ7SZ0kIkXSWz8rANl0.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 4171,
+      "logoPath": "/cdwjRVcXP9zws9gkiim0KkBNs9N.png",
+      "name": "Playtone"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-09-09",
+  "externalIds": {
+    "imdbId": "tt33510831"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "id": 1762506,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Band of Brothers: Legacy",
+  "overview": "This tribute to the groundbreaking series that helped preserve the story of Easy Company and deepened public appreciation for the sacrifices of the Greatest Generation features new interviews with cast members Damian Lewis, Ron Livingston, Michael Cudlitz, Capt. Dale Dye, USMC (Ret.), David Schwimmer, and more. Through personal reflections and behind-the-scenes stories, participants revisit the experience of making the series and explore its lasting cultural resonance, and also includes never-before-seen archival footage and photographs of Easy Company and World War II.",
+  "posterPath": "/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
+  "rating": 8.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-09",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-09-09",
+      "tv": "2026-09-09"
+    }
+  },
+  "runtime": 60,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The world depended on them. They depended on each other.  A look back after 25 years.",
+  "theatricalDate": null,
+  "title": "Band of Brothers: Legacy",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "IjLg0X59fMA",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 19,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1762506-band-of-brothers-legacy/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1762506-band-of-brothers-legacy/watch?locale=US",
+      "rent": []
+    }
+  }
+}

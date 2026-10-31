@@ -1,0 +1,222 @@
+{
+  "backdropPath": "/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg",
+  "cast": [
+    {
+      "character": "Kanakaraju",
+      "id": 1407562,
+      "name": "Varun Tej",
+      "profilePath": "/2N9LTqRxLpeCCyNTYUpnVBhZiZU.jpg"
+    },
+    {
+      "character": "Chaitra",
+      "id": 3523721,
+      "name": "Ritika Nayak",
+      "profilePath": "/6KyRbryxk9Od1goIDGlK3GodKlp.jpg"
+    },
+    {
+      "character": "Chenga Reddy",
+      "id": 213428,
+      "name": "Sunil Varma",
+      "profilePath": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg"
+    },
+    {
+      "character": "Kisttappa",
+      "id": 1638503,
+      "name": "Satya",
+      "profilePath": "/fWHqfjiqnORU6R2fqwiJnowujdP.jpg"
+    },
+    {
+      "character": "Diwakar",
+      "id": 565865,
+      "name": "VTV Ganesh",
+      "profilePath": "/5JomvpPx6PrExYcZAbHM1MoHjoZ.jpg"
+    },
+    {
+      "character": "MLA's Personal Assistant",
+      "id": 2035060,
+      "name": "Mahesh Achanta",
+      "profilePath": "/2TO7x9It2iSwd3nmWTnyyA7QECR.jpg"
+    },
+    {
+      "character": "Special Appearance",
+      "id": 2252345,
+      "name": "Daksha Nagarkar",
+      "profilePath": "/4dSzAK5tqu5x8VOv0ddJJ1smuEK.jpg"
+    },
+    {
+      "character": "",
+      "id": 5266501,
+      "name": "Bheemala Revanth Pavan Sai Subhash",
+      "profilePath": null
+    },
+    {
+      "character": "Kanakaraju's Sister-in-law",
+      "id": 4432743,
+      "name": "Vishika",
+      "profilePath": "/dt5c2fK775R4bL4ZeU1BNE8vA0C.jpg"
+    },
+    {
+      "character": "Kanakaraju's Mother",
+      "id": 580662,
+      "name": "Tulasi",
+      "profilePath": "/oETAXn9y9YZ6yvCZFvzOcHBImr0.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 15228,
+      "logoPath": "/wd4BquqZZiiOq9iAkGL3ViANT1x.png",
+      "name": "UV Creations"
+    },
+    {
+      "id": 11881,
+      "logoPath": null,
+      "name": "First Frame Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2026-09-04",
+  "externalIds": {
+    "imdbId": "tt32474264",
+    "wikidataId": "Q140577306"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 28,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 1423253,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "te",
+      "name": "Telugu"
+    },
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "originalTitle": "కొరియన్ కనకరాజు",
+  "overview": "Possessed by a Korean spirit, Kanakaraju must navigate his new supernatural identity to protect his family and solve the spirit's murder.",
+  "posterPath": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-09-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-04",
+      "gapDays": 28,
+      "theatricalDate": "2026-08-07"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-09-04"
+    },
+    "US": {
+      "digital": "2026-09-04",
+      "theatricalLimited": "2026-08-07"
+    }
+  },
+  "runtime": 165,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-08-07",
+  "title": "Korean Kanakaraju",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "kq0X2owCVKw",
+      "name": "Official Trailer [ENG SUB]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1423253/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1423253/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1423253/watch?locale=US",
+      "rent": []
+    }
+  }
+}

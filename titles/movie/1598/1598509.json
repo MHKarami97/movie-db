@@ -1,0 +1,133 @@
+{
+  "backdropPath": "/aOU07Yzx08BBq0vrfq0r4prbII7.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 221882,
+      "name": "Sarah Millican",
+      "profilePath": "/g3CbMlFePexOiffZEiuZ2A7xCEa.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 69282,
+      "logoPath": null,
+      "name": "Spirit Entertainment Limited"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39285140"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1598509,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Sarah Millican: Late Bloomer",
+  "overview": "When Sarah Millican was a bairn, she wouldn't say boo to a goose. Quiet at school, not many friends, no boobs 'til she was 16. Now? NOW she is loud, with good friends, a cracking rack and goose booing all over the shop. In Sarah's seventh stand-up special, she explores how one became the other. Plus, lots of stuff about dinners and lady gardens.",
+  "posterPath": "/39flGRy4WiQIoNfTQwIKMxADk3K.jpg",
+  "rating": 5.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "physical": "2025-12-15"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Laugh at her, with her, beside her.",
+  "theatricalDate": null,
+  "title": "Sarah Millican: Late Bloomer",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "AQqbh1GqDXw",
+      "name": "Late Bloomer: Out Now! | Sarah Millican",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "mG6v-gdY1l8",
+      "name": "Plants Make The WORST Christmas Presents | Sarah Millican Late Bloomer",
+      "official": false,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 10,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1598509-sarah-millican-late-bloomer/watch?locale=AE",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1598509-sarah-millican-late-bloomer/watch?locale=US",
+      "rent": []
+    }
+  }
+}

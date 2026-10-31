@@ -1,0 +1,91 @@
+{
+  "backdropPath": "/jnOblKTzoElIAQpHNxPLzRQMTpW.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 12340,
+      "logoPath": "/2tgY95Di4hQhR4JUkejJWx2sN2z.png",
+      "name": "ma.ja.de. FilmProduktions"
+    },
+    {
+      "id": 124,
+      "logoPath": "/7MjDMOybX0D3fcIEpCyY9es5XZU.png",
+      "name": "SWR"
+    },
+    {
+      "id": 588,
+      "logoPath": "/6mWg9rdVSj8gwgMiOmZH4iBCcMm.png",
+      "name": "MDR"
+    },
+    {
+      "id": 239699,
+      "logoPath": null,
+      "name": "Beauftragte der Bundesregierung für Kultur und Medien (BKM)"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39383595",
+    "wikidataId": "Q137919790"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1303343,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "Szenario",
+  "overview": "Altmark is located in the northern part of the German region of Saxony-Anhalt. This area of the country is sparsely populated and rural, and is mostly defined by agriculture and a rather frugal architecture reminiscent of that of the Hanseatic cities. It's here that an extensive military site was built in the 1930s. It is used as a training area for the German army and also includes a garrison town, in which parts of the military corps reside. The site covers a surface area of 323 square kilometres. It is the third-biggest military area in Germany and the most modern in Europe.",
+  "posterPath": "/6YGwYIi80TyrYmq7YxikUTjPJZ9.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Scenario",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

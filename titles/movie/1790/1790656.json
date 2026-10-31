@@ -1,0 +1,108 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 52783,
+      "name": "Rachel Bilson",
+      "profilePath": "/jlacH60rFke82EfuvFqgjcxPIx0.jpg"
+    },
+    {
+      "character": "",
+      "id": 35595,
+      "name": "Scott Foley",
+      "profilePath": "/91jhs4Biigdhwvco0UdlpobnUaL.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 313480,
+      "logoPath": "/fbPLNGItFZ6edFWfRduLsG8fsyN.png",
+      "name": "Happy Accidents"
+    },
+    {
+      "id": 313481,
+      "logoPath": null,
+      "name": "ITV America Nashville"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-20",
+  "externalIds": {
+    "imdbId": "tt51456225"
+  },
+  "fetchedAt": 1795286075847,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1790656,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Jingle Bells Wedding Bells",
+  "overview": "Gracie Madden can plan the perfect wedding, but an impossible Christmas Eve deadline and the bride's charming brother, Charlie, turn her perfectly ordered life upside down.",
+  "posterPath": "/sB1qF2Q947sGlLAf7n5mZFTC8yk.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-20",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-20"
+    }
+  },
+  "runtime": 87,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Jingle Bells Wedding Bells",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "7EGKGz2e-64",
+      "name": "Jingle Bells Wedding Bells | Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

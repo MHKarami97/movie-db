@@ -1,0 +1,199 @@
+{
+  "backdropPath": "/bL2mZNrVdeNNOICyuFfPJq7YA4s.jpg",
+  "cast": [
+    {
+      "character": "Carter",
+      "id": 1509682,
+      "name": "Joel Jackson",
+      "profilePath": "/lRgRrdkuLFE3pGpsQMmMyQCYJqJ.jpg"
+    },
+    {
+      "character": "Uncle Tony",
+      "id": 7242,
+      "name": "Temuera Morrison",
+      "profilePath": "/qGGYYjLMfuWmywgVixsu88PIbJn.jpg"
+    },
+    {
+      "character": "Reynolds",
+      "id": 133212,
+      "name": "Ryan Kwanten",
+      "profilePath": "/vvbEabUWIeaHMBA2wrUChiLTjch.jpg"
+    },
+    {
+      "character": "Megan",
+      "id": 3441365,
+      "name": "Téa Heathcote-Marks",
+      "profilePath": null
+    },
+    {
+      "character": "The Chairman",
+      "id": 73489,
+      "name": "Tom Burlinson",
+      "profilePath": "/egydb2pyTAsFcLuofw9GmSU45Xw.jpg"
+    },
+    {
+      "character": "Billy",
+      "id": 3633842,
+      "name": "Riley Stiles",
+      "profilePath": "/AvFuvxXermutSY19ZoYrEQEIuCW.jpg"
+    },
+    {
+      "character": "Lily",
+      "id": 3441363,
+      "name": "Candice Callaghan",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 121204,
+      "logoPath": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+      "name": "BondIt Media Capital"
+    },
+    {
+      "id": 18873,
+      "logoPath": null,
+      "name": "Centurion"
+    },
+    {
+      "id": 10002,
+      "logoPath": "/2iHUtPgZZ25bSd65i5M2nrv2WIQ.png",
+      "name": "Filmscope Entertainment"
+    },
+    {
+      "id": 271694,
+      "logoPath": null,
+      "name": "Howling Film Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-02",
+  "externalIds": {
+    "imdbId": "tt36933185"
+  },
+  "fetchedAt": 1794158926475,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1532997,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Dead Howling",
+  "overview": "A werewolf hunts zombies after losing his family. He meets two humans seeking sanctuary and joins their quest, protecting them with his powers. Their journey grows perilous as zombies start evolving.",
+  "posterPath": "/i1vpLPnHVAZq1CyJlpVS8YI7a93.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-11-02",
+      "physical": "2026-11-02"
+    }
+  },
+  "runtime": 103,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "When the dead rise, the beast hunts.",
+  "theatricalDate": null,
+  "title": "Dead Howling",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "vtq4FIrKuFo",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 4,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1532997-dead-howling/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    }
+  }
+}

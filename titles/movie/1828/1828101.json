@@ -1,0 +1,133 @@
+{
+  "backdropPath": "/soJPwfGLYvFEuDCC25HsCLP2hjw.jpg",
+  "cast": [
+    {
+      "character": "Elrond",
+      "id": 1648346,
+      "name": "Robert Aramayo",
+      "profilePath": "/1wqSZVvB018H2mZbemMSn6gH4zq.jpg"
+    },
+    {
+      "character": "Prince Durin IV",
+      "id": 1274938,
+      "name": "Owain Arthur",
+      "profilePath": "/ljqVjVzp9pgcfTTU3oJbKtnd6im.jpg"
+    },
+    {
+      "character": "Galadriel",
+      "id": 1321628,
+      "name": "Morfydd Clark",
+      "profilePath": "/kG1Xg85F9yAggCMquo4XouAOjdo.jpg"
+    },
+    {
+      "character": "Princess Disa",
+      "id": 2056333,
+      "name": "Sophia Nomvete",
+      "profilePath": "/fRglwdtHHjLGAMIoCkqXwQ9bIfd.jpg"
+    },
+    {
+      "character": "Sauron",
+      "id": 2309879,
+      "name": "Charlie Vickers",
+      "profilePath": "/52AAfocWk3d8J3a15iznfD3cabW.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 318999,
+      "logoPath": null,
+      "name": "Amazon Studios"
+    },
+    {
+      "id": 12,
+      "logoPath": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt41902195"
+  },
+  "fetchedAt": 1795203017842,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "id": 1828101,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Lord of the Rings: The Rings of Power – Forging the One Ring",
+  "overview": "As Middle-earth's fate hangs in the balance, Sauron reaches the height of his power in his quest for the One Ring.",
+  "posterPath": "/d9moHIig8e21mN1RCk8zu80ld3k.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-23"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-23"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatricalLimited": "2026-11-23"
+    },
+    "US": {
+      "theatricalLimited": "2026-11-23"
+    }
+  },
+  "runtime": 70,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "SEE THE FORGING OF THE ONE RING EARLY IN THEATRES.",
+  "theatricalDate": "2026-11-23",
+  "title": "The Lord of the Rings: The Rings of Power – Forging the One Ring",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "maP_Kyy3DCA",
+      "name": "The Rings of Power - Season 3 Official Trailer | Prime Video",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,163 @@
+{
+  "backdropPath": "/kblQ8hLPZgIsad4V8aIdG04Wq9B.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 3084529,
+      "name": "Dionne Stax",
+      "profilePath": "/r5wBvMQxXv4CTun1o32i5GiBKLN.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 39148,
+      "logoPath": null,
+      "name": "Omroep MAX"
+    }
+  ],
+  "countries": [
+    {
+      "code": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "digitalDate": "2023-03-27",
+  "episodes": {
+    "3": [
+      {
+        "airDate": "2027-01-25",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-01",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-08",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1795726124140,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 224348,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "nl",
+      "name": "Dutch; Flemish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-02-18",
+    "episodeNumber": 7,
+    "id": 5946295,
+    "name": "Episode 7",
+    "overview": "",
+    "seasonNumber": 2
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-25",
+    "episodeNumber": 1,
+    "id": 8177814,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 3
+  },
+  "originalTitle": "Het Hoge Noorden",
+  "overview": "",
+  "posterPath": "/s3AqUhsoxT9UotwITuxaZ0eRnpc.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2023-03-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2023-03-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2023-03-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2023-03-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2023-03-27"
+    },
+    "CN": {
+      "tv": "2023-03-27"
+    },
+    "GB": {
+      "tv": "2023-03-27"
+    },
+    "US": {
+      "tv": "2023-03-27"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2023-03-27",
+      "episodeCount": 7,
+      "name": "Season 1",
+      "overview": "Dionne Stax travels through Norway and Sweden for a year, looking for compatriots who choose a life in the Scandinavian wilderness.",
+      "posterPath": "/s3AqUhsoxT9UotwITuxaZ0eRnpc.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2025-01-07",
+      "episodeCount": 7,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2027-01-25",
+      "episodeCount": 3,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Far North",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

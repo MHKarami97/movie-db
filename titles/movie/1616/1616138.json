@@ -1,0 +1,111 @@
+{
+  "backdropPath": "/hrq7JDH3oN9XojIqQOxxMZPGoNo.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 5955181,
+      "name": "Loran Bonnardot",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6363076,
+      "name": "Glenda Rogers",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 26987,
+      "logoPath": "/6j5zyBMCJV1QS0kR0XWWyzk1VUI.png",
+      "name": "Hugofilm"
+    },
+    {
+      "id": 42145,
+      "logoPath": "/fX8uY3tXWh814PLVqKM0IJEoDPW.png",
+      "name": "SRF"
+    },
+    {
+      "id": 201,
+      "logoPath": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE"
+    },
+    {
+      "id": 12431,
+      "logoPath": "/3m45frhaRCLsCKuMtuj7ZwfGwBB.png",
+      "name": "SRG SSR"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39370293"
+  },
+  "fetchedAt": 1795674215456,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1616138,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Tristan Forever",
+  "overview": "For 30 years, a doctor from Paris has maintained a friendship with a fisherman on Tristan da Cunha, the most isolated inhabited island in the world. Now he travels back one more time, with the plan to stay there for good.",
+  "posterPath": "/9DPBGoVwxnGtEkUaB0YwpBTPaSc.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-04-18"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Tristan Forever",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,189 @@
+{
+  "backdropPath": "/zfN93jpbjqh08IUYKwQfDwJl5pE.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 1269,
+      "name": "Kevin Costner",
+      "profilePath": "/bykmxJHLfbFM3NT05RZXhx8YTzF.jpg"
+    },
+    {
+      "character": "Mary",
+      "id": 4505406,
+      "name": "Gia Rose Patel",
+      "profilePath": null
+    },
+    {
+      "character": "Joseph",
+      "id": 6262828,
+      "name": "Ethan Thorne",
+      "profilePath": "/uLa6uEJ8m9uGEYIEwCOM1wSTz1U.jpg"
+    },
+    {
+      "character": "Rachel Young",
+      "id": 4502242,
+      "name": "Corinne Furman",
+      "profilePath": "/9eklFEjubxFnqr2uXHmkCXBxYtN.jpg"
+    },
+    {
+      "character": "Raya",
+      "id": 72674,
+      "name": "Paulina Gálvez",
+      "profilePath": "/qLn6T7rPAm0qLtwRwhVodD4BUTY.jpg"
+    },
+    {
+      "character": "Joachim",
+      "id": 1302695,
+      "name": "Mohamed Zouaoui",
+      "profilePath": "/8Q8DSeWJlyVcj8IkpGxzsmOGZqV.jpg"
+    },
+    {
+      "character": "Asher",
+      "id": 5853612,
+      "name": "Chaouqi Abdellatif",
+      "profilePath": null
+    },
+    {
+      "character": "King Herod",
+      "id": 317860,
+      "name": "Anthony Barclay",
+      "profilePath": "/bx8uWJ1ruBsTaLzdKm1lVd2oUOi.jpg"
+    },
+    {
+      "character": "Anne",
+      "id": 2218971,
+      "name": "Kods Joundoul",
+      "profilePath": null
+    },
+    {
+      "character": "Panthera",
+      "id": 3825695,
+      "name": "Sinan Sicimoğlu",
+      "profilePath": "/uzmGKrh2YRYKuZsYqB5BzAjqVx.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 282108,
+      "logoPath": null,
+      "name": "Ozz Films"
+    },
+    {
+      "id": 43500,
+      "logoPath": "/8Ba0xOpaqoywxf8aWVLmhT6M0ka.png",
+      "name": "Warm Springs Productions"
+    },
+    {
+      "id": 176162,
+      "logoPath": "/6p5mbxa1dzikbnVlLc11uroG9GU.png",
+      "name": "ABC"
+    },
+    {
+      "id": 282109,
+      "logoPath": null,
+      "name": "The Refinery"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-12-10",
+  "externalIds": {
+    "imdbId": "tt38867373"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1585476,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Kevin Costner Presents: The First Christmas",
+  "overview": "Kevin Costner hosts this special exploring the extraordinary journey of Mary and Joseph as they navigate the hardships, trials and triumphs surrounding Jesus Christ's birth, offering an inspiring way to experience the true meaning of Christmas.",
+  "posterPath": "/yXPmDhPj26JqEekHIruDtENSrsj.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-12-10",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-12-10",
+      "tv": "2025-12-09"
+    }
+  },
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Kevin Costner Presents: The First Christmas",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 11,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1585476-kevin-costner-presents-the-first-christmas/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1585476-kevin-costner-presents-the-first-christmas/watch?locale=US",
+      "rent": []
+    }
+  }
+}

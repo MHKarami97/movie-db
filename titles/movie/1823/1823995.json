@@ -1,0 +1,154 @@
+{
+  "backdropPath": "/tyn886evuJgyeBGCnAjhdKgxKBy.jpg",
+  "cast": [
+    {
+      "character": "Cameron Hunt",
+      "id": 1569753,
+      "name": "Shannon Brown",
+      "profilePath": "/9q4vcoDaaA35ZD1o7IAsXeqi7sV.jpg"
+    },
+    {
+      "character": "Robyn Fitzgerald",
+      "id": 1753734,
+      "name": "Reneé Domenz",
+      "profilePath": "/8dlRYyW2D9dwNHFYFR0izwAe5U2.jpg"
+    },
+    {
+      "character": "Detective Cinder",
+      "id": 2955745,
+      "name": "Elley Ringo",
+      "profilePath": "/rXXMWTHWt1qbghZlAqcj2Yob9kv.jpg"
+    },
+    {
+      "character": "Detective Blanusa",
+      "id": 3672754,
+      "name": "BJ Mezek",
+      "profilePath": "/omkBBi2jKKV0FwiM4TyHIPDIxEd.jpg"
+    },
+    {
+      "character": "Jasmine Wilkins",
+      "id": 580565,
+      "name": "Anita Nicole Brown",
+      "profilePath": "/V2nex678DhFsy6kuOA0PGRoJGE.jpg"
+    },
+    {
+      "character": "Home Buyer",
+      "id": 568607,
+      "name": "Walt Sloan",
+      "profilePath": "/gfm8nda8Sj5HnlioIJTZkLEBI3L.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35060097"
+  },
+  "fetchedAt": 1795031469102,
+  "gapDays": null,
+  "genres": [],
+  "id": 1823995,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "The Scar Lake 7",
+  "overview": "Seven friends vanished during a weekend getaway at a secluded lakeside cabin, leaving behind a mystery that would haunt the town for a decade. When advances in DNA technology finally reopen the case, two detectives interrogate the property's reclusive owner and the group's sole survivor. As their stories expose a tangled web of jealousy, betrayal, and violence, the search for answers reveals that something far more sinister may be lurking beneath the surface of Scar Lake.",
+  "posterPath": "/qtRDiNbbI6WzOAg185xjK6JzP8K.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-11"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2026-11-11"
+    }
+  },
+  "runtime": 126,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-11-11",
+  "title": "The Scar Lake 7",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "SyHQ6odF1eY",
+      "name": "The Scar Lake 7 I Official Trailer HD I Two 9 Productions",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1823995-the-scar-lake-7/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1823995-the-scar-lake-7/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    }
+  }
+}

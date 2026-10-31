@@ -1,0 +1,224 @@
+{
+  "backdropPath": "/5sBnZMT1aJ6cBvehKOzOOLdI6bz.jpg",
+  "cast": [
+    {
+      "character": "Bathvachalam 'Baththa'",
+      "id": 1123766,
+      "name": "Vijay Sethupathi",
+      "profilePath": "/a3HWdfCAbplrvoMNEJCjnkbqqOo.jpg"
+    },
+    {
+      "character": "Sabari",
+      "id": 6523177,
+      "name": "Sai Prithviraj",
+      "profilePath": "/hnTPMbhOYhJ0gVy08mtRtKq7lCP.jpg"
+    },
+    {
+      "character": "Kannima",
+      "id": 1620961,
+      "name": "Lijomol Jose",
+      "profilePath": "/vXFBgF6NMON7L4RzZ6B35lOVYOu.jpg"
+    },
+    {
+      "character": "Thenmozhi 'Thenu'",
+      "id": 4294729,
+      "name": "Sahasra Sree",
+      "profilePath": "/wc3lQUrLPcmAIho06wFuz8RcMsp.jpg"
+    },
+    {
+      "character": "Selvi",
+      "id": 1874536,
+      "name": "Santhy Balachandran",
+      "profilePath": "/gLpx6IM3Ifs6m1tytsc3yc4Lw90.jpg"
+    },
+    {
+      "character": "Jyoti",
+      "id": 1321729,
+      "name": "Arjun Chidambaram",
+      "profilePath": "/yay74IONzoiC50I2Od5L5a0bcbm.jpg"
+    },
+    {
+      "character": "Thirunavukarasu",
+      "id": 1655332,
+      "name": "Hari Krishnan",
+      "profilePath": "/2sRRE4rMjDKai32u32oU7IqYvTp.jpg"
+    },
+    {
+      "character": "Konda",
+      "id": 1289211,
+      "name": "Ajay Ghosh",
+      "profilePath": "/bvexSjSRhZM8ke753Sq1oZf5pxY.jpg"
+    },
+    {
+      "character": "Konda's wife",
+      "id": 584120,
+      "name": "Deepa Venkat",
+      "profilePath": "/zXDXPA76H7aFFtNJIhCnsFuQczN.jpg"
+    },
+    {
+      "character": "Jayanthi",
+      "id": 1519693,
+      "name": "Ramya Pandian",
+      "profilePath": "/s18aobLUuA4JZVxkWA3mQstbiLV.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 79877,
+      "logoPath": null,
+      "name": "A for Apple Studios"
+    },
+    {
+      "id": 35064,
+      "logoPath": "/mAqgOSWkUTQ3EMYBuy6pMRTFOmQ.png",
+      "name": "Cine1 Studios"
+    },
+    {
+      "id": 193910,
+      "logoPath": "/5Mev9se2yUIi4YVlAmNJfN7ArHZ.png",
+      "name": "Star Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt44090278"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 1515692,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ta",
+      "name": "Tamil"
+    }
+  ],
+  "originalTitle": "பத்தா",
+  "overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
+  "posterPath": "/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg",
+  "rating": 8.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-01"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-01"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-01"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-10-01"
+    },
+    "GB": {
+      "theatrical": "2026-10-01"
+    },
+    "US": {
+      "theatrical": "2026-10-01"
+    }
+  },
+  "runtime": 159,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-01",
+  "title": "Baththa",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "SQp3Li13tw0",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1515692/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1515692/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1515692/watch?locale=US",
+      "rent": []
+    }
+  }
+}

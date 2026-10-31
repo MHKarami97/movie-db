@@ -1,0 +1,123 @@
+{
+  "backdropPath": "/iIWciu5fiLSyUQHYzr6KMpLYKu2.jpg",
+  "cast": [
+    {
+      "character": "Caravaggio",
+      "id": 2361932,
+      "name": "Jack Bannell",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 45654,
+      "logoPath": null,
+      "name": "Seventh Art Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38351366",
+    "wikidataId": "Q136813984"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1496903,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Caravaggio",
+  "overview": "Five years in production, this is the most extensive film ever made about one of the greatest artists of all time – Caravaggio. Featuring masterpiece after masterpiece and with first-hand testimony from the artist himself on the eve of his mysterious disappearance, this beautiful new film reveals Caravaggio as never before. Multi-award-winning filmmakers David Bickerstaff and Phil Grabsky delve into the hidden narratives of Caravaggio’s life, piecing together clues embedded within his incredible art. The intriguing self-depictions within his works — sometimes disguised, sometimes in plain sight — offer a rare window into his psyche and personal struggles. Join us as we unravel the story of one of history’s most brilliant, complex and controversial figures.",
+  "posterPath": "/dRfDBbdVFsiRAKC5dhKcsIlPJI5.jpg",
+  "rating": 9.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-11-11"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2025-11-11"
+    }
+  },
+  "runtime": 101,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2025-11-11",
+  "title": "Caravaggio",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "P4bzA9uNXEU",
+      "name": "CARAVAGGIO | OFFICIAL TRAILER | EXHIBITION ON SCREEN",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2420,
+          "logoPath": "/tZwYeFngp1uSgncqVbUycz51R3S.png",
+          "name": "Marquee TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1496903-caravaggio/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2420,
+          "logoPath": "/tZwYeFngp1uSgncqVbUycz51R3S.png",
+          "name": "Marquee TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1496903-caravaggio/watch?locale=US",
+      "rent": []
+    }
+  }
+}

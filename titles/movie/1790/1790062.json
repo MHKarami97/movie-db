@@ -1,0 +1,143 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Chloe Pearson",
+      "id": 1003061,
+      "name": "Krystal Ellsworth",
+      "profilePath": "/htDYbWlOUNF8N70iF44IZDOfk7w.jpg"
+    },
+    {
+      "character": "Avery Mitchell",
+      "id": 2896400,
+      "name": "Stephen Tracey",
+      "profilePath": "/xwNqnyvvkle657B10BMZ4ZjQR05.jpg"
+    },
+    {
+      "character": "Sarah Murphy",
+      "id": 4166429,
+      "name": "Helene Henry",
+      "profilePath": "/j0Bw4T2sfmnDr7ykb7WE7pb8B8o.jpg"
+    },
+    {
+      "character": "Bryan",
+      "id": 4541764,
+      "name": "Brandon Keith Rogers",
+      "profilePath": null
+    },
+    {
+      "character": "Daphne Elliott",
+      "id": 62000,
+      "name": "Tiffany Shepis",
+      "profilePath": "/3tsmpYw309lw23i94x6yuqgDCm5.jpg"
+    },
+    {
+      "character": "Leslie Weaver",
+      "id": 4459188,
+      "name": "Rachel Pizzolato",
+      "profilePath": "/paaS2ZjS568trV7IUVGwtLvuXTT.jpg"
+    },
+    {
+      "character": "Derek",
+      "id": 3225663,
+      "name": "Lex Lauletta",
+      "profilePath": "/68gJxLU1WiMjUXecLqKWhCKG9hd.jpg"
+    },
+    {
+      "character": "Edna Moskowitz",
+      "id": 2463718,
+      "name": "Victoria Scala",
+      "profilePath": null
+    },
+    {
+      "character": "Tiffany",
+      "id": 2993645,
+      "name": "Emily Topper",
+      "profilePath": "/tb37vPbLBFW0Fyo0dr7eRNuTuGz.jpg"
+    },
+    {
+      "character": "Sergio",
+      "id": 4175266,
+      "name": "Daniel Di Amante",
+      "profilePath": "/aoiNqwIu6dWHFRxGp6nIRnsqUwJ.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37035680"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1790062,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Center Stage for Murder",
+  "overview": "After suffering a tragic accident, a ballerina finds safety, comfort and intimacy in the arms of her physical therapist. However, she soon becomes a prisoner in her own home when she discovers he's the one responsible for her injury.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-09"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2026-10-09"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-09",
+  "title": "Center Stage for Murder",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1790062-center-stage-for-murder/watch?locale=US",
+      "rent": []
+    }
+  }
+}

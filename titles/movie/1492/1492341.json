@@ -1,0 +1,179 @@
+{
+  "backdropPath": "/qgQPajFB3gt58dwJX9A13P3rJIQ.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 3814489,
+      "name": "Noah Kahan",
+      "profilePath": "/zDo8UmVkPZEgT85ijaY98EQrlVl.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2908628,
+      "name": "Bernie Sanders",
+      "profilePath": "/bkoF9qXfZbmF5aHUKV0k2HtOrNi.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 119226,
+      "logoPath": "/owO85kQ0pQXzk9SPd3NxtMeKldl.png",
+      "name": "Federal Films"
+    },
+    {
+      "id": 127499,
+      "logoPath": "/zTchoLvjEs5MvY8fEd8rSiAIhYh.png",
+      "name": "Polygram Entertainment"
+    },
+    {
+      "id": 89394,
+      "logoPath": "/m1Hku3PhgdsQiPO8uVe7szyrxAb.png",
+      "name": "RadicalMedia"
+    },
+    {
+      "id": 81368,
+      "logoPath": "/hadEBzUTj8ZzmaC1yh8MrXKXqR5.png",
+      "name": "Live Nation Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-04-13",
+  "externalIds": {
+    "imdbId": "tt37172278",
+    "wikidataId": "Q140689991"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1492341,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Noah Kahan: Out of Body",
+  "overview": "After rocketing to global fame, singer-songwriter Noah Kahan returns to his Vermont roots to get back in tune with himself.",
+  "posterPath": "/8VtZAonOgK8hae7FwOZCSg7XmCu.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-04-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-04-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-13",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-04-13"
+    },
+    "GB": {
+      "digital": "2026-04-13"
+    },
+    "US": {
+      "digital": "2026-04-13",
+      "premiere": "2026-03-16"
+    }
+  },
+  "runtime": 96,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Noah Kahan: Out of Body",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "t5kPeQqA-XY",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1492341-noah-kahan-out-of-body/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1492341-noah-kahan-out-of-body/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1492341-noah-kahan-out-of-body/watch?locale=US",
+      "rent": []
+    }
+  }
+}

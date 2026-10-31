@@ -1,0 +1,205 @@
+{
+  "backdropPath": "/8SEs6yUgrE5shU8tqXuR2MQIdlc.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1512824,
+      "name": "Magnus Carlsen",
+      "profilePath": "/u8fVdzlIgMBk2hJzqdGMi98Y5P4.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6029797,
+      "name": "Hans Niemann",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6126577,
+      "name": "Danny Rensch",
+      "profilePath": "/6vVleS7b23rnlP7KXWsUWAHtjcv.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6126579,
+      "name": "Erik Allebest",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6126580,
+      "name": "Hikaru Nakamura",
+      "profilePath": "/nAof4CSv0ZOE71kL7BK6H3WSUqn.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2931696,
+      "name": "Bruce Pandolfini",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 2166141,
+      "name": "Henrik Carlsen",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6126582,
+      "name": "Levy Rozman",
+      "profilePath": "/tHOVAsdgYWNef4Mdnt7o9NHmeLN.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 1220147,
+      "name": "Piers Morgan",
+      "profilePath": "/gQ5I0N8rrvxIqnKdh7eBcbTphB8.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 33663,
+      "name": "Donald Trump",
+      "profilePath": "/oDmVFoqIzxOyZejGjy3J5QrUmjM.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 87045,
+      "logoPath": "/6WLvW3VlxfXOPukpeEPYnjdFtwH.png",
+      "name": "Propagate Content"
+    },
+    {
+      "id": 159529,
+      "logoPath": null,
+      "name": "Stardust Frames"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt40224399"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1641962,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Untold: Chess Mates",
+  "overview": "Magnus Carlsen, widely regarded as the greatest chess player of all time, is challenged by Hans Niemann, a rising star who capitalizes on the meteoric growth of online chess. Niemann’s ascension culminated in an epic, controversy-shrouded victory over Carlsen at the 2022 Sinquefield Cup, which eventually led to allegations and revelations of cheating. Determined to clear his name, Niemann fights his way back to the top of the chess world, setting the stage for a high-stakes rematch with Carlsen in 2024.",
+  "posterPath": "/oC68KgbyFiraKJRdUedQI9aXBF.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2026-04-07"
+    }
+  },
+  "runtime": 75,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Untold: Chess Mates",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "4k7lkMdZorE",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 40,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1641962-untold-chess-mates/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1641962-untold-chess-mates/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1641962-untold-chess-mates/watch?locale=US",
+      "rent": []
+    }
+  }
+}

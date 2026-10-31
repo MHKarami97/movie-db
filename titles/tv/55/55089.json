@@ -1,0 +1,460 @@
+{
+  "backdropPath": "/oyF43S8V9Vq2Q1EkDz08ldRLZpJ.jpg",
+  "cast": [
+    {
+      "character": "Prowadzący",
+      "id": 81113,
+      "name": "Jeremy Clarkson",
+      "profilePath": "/8tnYaTYfbSzmGyHeEeBCoNUzCdZ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1390,
+      "logoPath": null,
+      "name": "Celador Productions"
+    },
+    {
+      "id": 17195,
+      "logoPath": null,
+      "name": "Carlton UK Productions"
+    },
+    {
+      "id": 123502,
+      "logoPath": null,
+      "name": "2waytraffic"
+    },
+    {
+      "id": 67006,
+      "logoPath": null,
+      "name": "Victory Television"
+    },
+    {
+      "id": 134670,
+      "logoPath": "/lmRTVYIjVFyrPEUuquBnA8oYgo7.png",
+      "name": "Stellify Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "1998-09-04",
+  "externalIds": {
+    "facebookId": "Millionaire",
+    "imdbId": "tt0166064",
+    "instagramId": "millionaireuk",
+    "twitterId": "MillionaireUK",
+    "wikidataId": "Q7997397"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 55089,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-06-07",
+    "episodeNumber": 22,
+    "id": 7339154,
+    "name": "Sun 7th Jun 9pm",
+    "overview": "Another line-up of contestants answer questions that could change their lives - with the four lifelines Ask the Audience, Phone a Friend, 50-50 and Ask the Host available to them if they get stuck. Jeremy Clarkson hosts",
+    "seasonNumber": 36
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Who Wants to Be a Millionaire?",
+  "overview": "A game show created in the United Kingdom, in which contestants attempt to answer general knowledge questions in an intimidating atmosphere in order to scoop the £1 million top prize. The original series was hosted by Chris Tarrant, and its modern-day revival is hosted by Jeremy Clarkson.",
+  "posterPath": "/upsSj24N6lfI3qFkk4UmmxtX38x.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1998-09-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1998-09-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1998-09-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1998-09-04",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1998-09-04"
+    },
+    "CN": {
+      "tv": "1998-09-04"
+    },
+    "GB": {
+      "tv": "1998-09-04"
+    },
+    "US": {
+      "tv": "1998-09-04"
+    }
+  },
+  "runtime": 45,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2003-04-21",
+      "episodeCount": 14,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1998-09-04",
+      "episodeCount": 11,
+      "name": "Season 1",
+      "overview": "Chris Tarrant is host for the award-winning game show that tests your general knowledge under the extreme pressure of winning thousands of pounds. This first series was aired in 1998 and changed the world of game shows forever.",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1999-01-01",
+      "episodeCount": 13,
+      "name": "Season 2",
+      "overview": "Chris Tarrant returns as host for the award-winning game show that tests your general knowledge under the extreme pressure of winning thousands of pounds.",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1999-03-05",
+      "episodeCount": 12,
+      "name": "Season 3",
+      "overview": "Chris Tarrant returns as host for the award-winning game show that tests your general knowledge under the extreme pressure of winning thousands of pounds.",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1999-09-03",
+      "episodeCount": 13,
+      "name": "Season 4",
+      "overview": "Chris Tarrant returns as host for the award-winning game show that tests your general knowledge under the extreme pressure of winning thousands of pounds.",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1999-11-05",
+      "episodeCount": 15,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2000-01-16",
+      "episodeCount": 16,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2000-03-26",
+      "episodeCount": 13,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2000-09-07",
+      "episodeCount": 55,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2001-01-08",
+      "episodeCount": 45,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2001-09-05",
+      "episodeCount": 43,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2002-01-05",
+      "episodeCount": 55,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2002-08-31",
+      "episodeCount": 19,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2003-01-04",
+      "episodeCount": 22,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2003-08-30",
+      "episodeCount": 21,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2004-01-03",
+      "episodeCount": 21,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2004-09-18",
+      "episodeCount": 16,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2005-01-01",
+      "episodeCount": 24,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2005-09-17",
+      "episodeCount": 11,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2006-01-07",
+      "episodeCount": 27,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2006-09-09",
+      "episodeCount": 13,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2007-03-10",
+      "episodeCount": 17,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2007-08-18",
+      "episodeCount": 11,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2008-01-01",
+      "episodeCount": 19,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2008-08-16",
+      "episodeCount": 18,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2009-06-13",
+      "episodeCount": 20,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "2010-04-13",
+      "episodeCount": 8,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "2010-08-03",
+      "episodeCount": 11,
+      "name": "Season 27",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "2011-04-02",
+      "episodeCount": 6,
+      "name": "Season 28",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "2012-01-03",
+      "episodeCount": 11,
+      "name": "Season 29",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "2013-01-01",
+      "episodeCount": 11,
+      "name": "Season 30",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "2018-05-05",
+      "episodeCount": 7,
+      "name": "Season 31",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "2018-12-31",
+      "episodeCount": 11,
+      "name": "Season 32",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "2019-08-23",
+      "episodeCount": 11,
+      "name": "Season 33",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "2019-12-25",
+      "episodeCount": 18,
+      "name": "Season 34",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "2021-02-07",
+      "episodeCount": 30,
+      "name": "Season 35",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "2025-01-26",
+      "episodeCount": 22,
+      "name": "Season 36",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 36
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Who Wants to Be a Millionaire?",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "K3bBG76EFe0",
+      "name": "Series 8 Official Trailer | Who Wants To Be A Millionaire?",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "EzLGKloXgoA",
+      "name": "The Making Of Millionaire | Who Wants To Be A Millionaire?",
+      "official": false,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "7ji2Fs6jA7w",
+      "name": "Who Wants To Be A Millionaire Trailer - ITV 1998",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 33,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 41,
+          "logoPath": "/nIViE3wOPV5Jyv45T7hetHyG6iS.png",
+          "name": "ITVX"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/55089-who-wants-to-be-a-millionaire/watch?locale=GB",
+      "rent": []
+    }
+  }
+}

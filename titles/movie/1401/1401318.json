@@ -1,0 +1,211 @@
+{
+  "backdropPath": "/2GHJGnF2jgnzeqT3XTHjHXgk5Fx.jpg",
+  "cast": [
+    {
+      "character": "Kate Holden",
+      "id": 5588,
+      "name": "Alicia Silverstone",
+      "profilePath": "/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
+    },
+    {
+      "character": "Dr. Everett Holden",
+      "id": 62692,
+      "name": "Oliver Hudson",
+      "profilePath": "/kvRmZBKs7xMZwsTu37adKPF8PKG.jpg"
+    },
+    {
+      "character": "Tess Wiley",
+      "id": 1624816,
+      "name": "Jameela Jamil",
+      "profilePath": "/e9RviCItpPoSwD79y4YYlDbIwM6.jpg"
+    },
+    {
+      "character": "Chet Moore",
+      "id": 1310521,
+      "name": "Pierson Fodé",
+      "profilePath": "/ntsQN7JrXKGUto2XJJPbP7QAleL.jpg"
+    },
+    {
+      "character": "Gabriel Holden",
+      "id": 5748877,
+      "name": "Wilder Hudson",
+      "profilePath": "/v5fDyVxUHP6KJrwjKDG6NOUtTM2.jpg"
+    },
+    {
+      "character": "Sienna Holden",
+      "id": 2209427,
+      "name": "Emily Hall",
+      "profilePath": "/8ksIocdmnyV1M82SkrqoDpze3TO.jpg"
+    },
+    {
+      "character": "August",
+      "id": 2664949,
+      "name": "Bert Cardozo",
+      "profilePath": "/asRfgu97c3TTj87oy4pyblc7YMN.jpg"
+    },
+    {
+      "character": "Nigel",
+      "id": 1742597,
+      "name": "Timothy Innes",
+      "profilePath": "/aUxpcqfSZjgi0BItJdjp156kilF.jpg"
+    },
+    {
+      "character": "Mike Holden",
+      "id": 1212317,
+      "name": "Derek McGrath",
+      "profilePath": "/cDHadLegdrktAiwiOPps6VdUQIW.jpg"
+    },
+    {
+      "character": "Daryl",
+      "id": 182617,
+      "name": "Geoffrey Owens",
+      "profilePath": "/PO73VvUgDsAIYY6sdzDw01HFSk.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 5452,
+      "logoPath": "/piIgZnVf0h0PoHY7wpHXQtFZ3O9.png",
+      "name": "Hartbreak Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-11-12",
+  "externalIds": {
+    "imdbId": "tt34992378",
+    "wikidataId": "Q132646702"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1401318,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "A Merry Little Ex-Mas",
+  "overview": "Recently separated, Kate hopes to celebrate one last perfect family Christmas with her soon-to-be ex-husband Everett and their kids before their divorce is final and the house is sold. But her holiday plans are hilariously derailed when Everett unexpectedly brings his younger, successful new girlfriend.",
+  "posterPath": "/w4ytu75uJ1b0AgPd0wLm7iZMsWJ.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-11-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-11-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2025-11-12"
+    },
+    "GB": {
+      "digital": "2025-11-12"
+    },
+    "US": {
+      "digital": "2025-11-12"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "A Merry Little Ex-Mas",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "zLuOjCbDuwY",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 195,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1401318-a-merry-little-ex-mas/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1401318-a-merry-little-ex-mas/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1401318-a-merry-little-ex-mas/watch?locale=US",
+      "rent": []
+    }
+  }
+}

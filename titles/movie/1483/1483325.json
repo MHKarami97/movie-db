@@ -1,0 +1,185 @@
+{
+  "backdropPath": "/5qLRwtbjRZ11mjYmoEfpdjHAroN.jpg",
+  "cast": [
+    {
+      "character": "Anna Blanchet",
+      "id": 1332697,
+      "name": "Camille Chamoux",
+      "profilePath": "/yEQBeUdwPiJ4gCybtrirBEiaD0g.jpg"
+    },
+    {
+      "character": "Alexandre Menin",
+      "id": 220692,
+      "name": "Alban Lenoir",
+      "profilePath": "/jOWPgqzpvsaxzgBNzDqs2RR5jI6.jpg"
+    },
+    {
+      "character": "Mr. Goulet",
+      "id": 84100,
+      "name": "Fred Testot",
+      "profilePath": "/yN14Ju54laFPhacdeXW9Y81arm4.jpg"
+    },
+    {
+      "character": "Sylviane",
+      "id": 1414118,
+      "name": "Mariama Gueye",
+      "profilePath": "/ppHRpRPYI6vMNWSjTDeESzyUaUi.jpg"
+    },
+    {
+      "character": "Betty",
+      "id": 149867,
+      "name": "Olivia Côte",
+      "profilePath": "/1ZOrkqlyDsGDUDEvbrSfU4Gx5iB.jpg"
+    },
+    {
+      "character": "Vigile",
+      "id": 1384886,
+      "name": "Estéban",
+      "profilePath": "/amXtFeWybKgSn6kd1D9rgm6V1Vp.jpg"
+    },
+    {
+      "character": "Mme Vittorino",
+      "id": 1182191,
+      "name": "Rosalia Cuevas",
+      "profilePath": null
+    },
+    {
+      "character": "Andréa",
+      "id": 5837382,
+      "name": "Guillaume de Beaufort",
+      "profilePath": null
+    },
+    {
+      "character": "Charlotte",
+      "id": 2485360,
+      "name": "Elina De Leon",
+      "profilePath": "/bDQIzZvtzMbHTLvt2FfHf7r0gsu.jpg"
+    },
+    {
+      "character": "Marcus",
+      "id": 5837384,
+      "name": "Léo Delsart",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 178908,
+      "logoPath": "/qzt3zYa0nrQQJy1VJCmbbHfOGAm.png",
+      "name": "Cheyenne Federation"
+    },
+    {
+      "id": 178889,
+      "logoPath": null,
+      "name": "Umedia"
+    },
+    {
+      "id": 356,
+      "logoPath": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production"
+    },
+    {
+      "id": 255,
+      "logoPath": "/b1zTOpnNn5g0nHjhpn3Dx17QaoP.png",
+      "name": "Paradis Films"
+    },
+    {
+      "id": 289115,
+      "logoPath": null,
+      "name": "SofiTVCine 13"
+    },
+    {
+      "id": 124138,
+      "logoPath": "/bcJuzZ0gnOUGWg52haT0ueAFHlP.png",
+      "name": "screen.brussels"
+    },
+    {
+      "id": 264002,
+      "logoPath": null,
+      "name": "RTL Play"
+    },
+    {
+      "id": 2208,
+      "logoPath": "/lyo2nqmPCpXBWvMIQhmVjvZvoHN.png",
+      "name": "RTL-TVi"
+    },
+    {
+      "id": 202584,
+      "logoPath": "/xzwuvF1SmLz0O1TunE2eMWq8Rdn.png",
+      "name": "RTL Belgium"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37719558",
+    "wikidataId": "Q139881663"
+  },
+  "fetchedAt": 1795373734473,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1483325,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Anna et les Enfants",
+  "overview": "Anna, a friendly but reclusive fortysomething, harbors an unusual phobia: she’s terrified of children. When she reconnects with Alexandre, her ex-boyfriend she never stopped loving, she thinks she’s finally found happiness… until she discovers he has two kids. When circumstances force her to care for them alone, a panicked Anna reluctantly agrees. Between ridiculous rules and absurd situations, this forced living arrangement might just change everything… for worse, but also for better.",
+  "posterPath": "/bZKBoCNoErp2M9MImk8awZIIT05.jpg",
+  "rating": 5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "She’s kid intolerant. He has two children. What could go wrong?",
+  "theatricalDate": null,
+  "title": "Anna VS the Kids",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {}
+}

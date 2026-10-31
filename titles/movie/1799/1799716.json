@@ -1,0 +1,111 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Steve",
+      "id": 4581,
+      "name": "Steve Coogan",
+      "profilePath": "/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg"
+    },
+    {
+      "character": "Rob",
+      "id": 47632,
+      "name": "Rob Brydon",
+      "profilePath": "/xoKLZVwzaUgTUEvPX4vymXpC1fU.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 7281,
+      "logoPath": "/iI7qdR1OFPo0U41BlpKBLD3xesh.png",
+      "name": "BFI"
+    },
+    {
+      "id": 163,
+      "logoPath": null,
+      "name": "Revolution Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35672897"
+  },
+  "fetchedAt": 1795640243421,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1799716,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Trip to the Northern Lights",
+  "overview": "Rob Brydon and Steve Coogan are back on the road, sharing delicious meals, hilarious banter and celebrity impressions as they journey through northern Europe.",
+  "posterPath": "/hcobrDOglgCucNKZyicaPL1gS9y.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-04-09"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-10-17"
+    },
+    "US": {
+      "theatrical": "2027-04-09"
+    }
+  },
+  "runtime": 68,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2027-04-09",
+  "title": "The Trip to the Northern Lights",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "iBNCM8V7_bU",
+      "name": "The Trip to the Northern Lights | Teaser Trailer | Steve Coogan and Rob Brydon",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

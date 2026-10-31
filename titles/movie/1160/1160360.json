@@ -1,0 +1,427 @@
+{
+  "backdropPath": "/eLVKuHGx9k8JgLk5JINQDmh9tRH.jpg",
+  "cast": [
+    {
+      "character": "Linda",
+      "id": 9827,
+      "name": "Rose Byrne",
+      "profilePath": "/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+    },
+    {
+      "character": "Therapist",
+      "id": 81200,
+      "name": "Conan O'Brien",
+      "profilePath": "/deRbViPut0t80miscBpP2DhBJU5.jpg"
+    },
+    {
+      "character": "James",
+      "id": 1521445,
+      "name": "A$AP Rocky",
+      "profilePath": "/gL0NFnIrqLosSbdxAHExOHAMkFH.jpg"
+    },
+    {
+      "character": "Caroline",
+      "id": 1203789,
+      "name": "Danielle Macdonald",
+      "profilePath": "/pPaypOzZ4oldd7KJHvDEfPSynSi.jpg"
+    },
+    {
+      "character": "Child",
+      "id": 3484285,
+      "name": "Delaney Quinn",
+      "profilePath": "/byBPP7Zg4NKQEejOBme9PUdRAZp.jpg"
+    },
+    {
+      "character": "Dr. Spring",
+      "id": 935669,
+      "name": "Mary Bronstein",
+      "profilePath": "/xizQfYcV2PzwuBUtCg1om2vZz8h.jpg"
+    },
+    {
+      "character": "Diana",
+      "id": 3195084,
+      "name": "Ivy Wolk",
+      "profilePath": "/33zDv0hoCj1BIcV8kXSNim7LX1r.jpg"
+    },
+    {
+      "character": "Parking Attendant",
+      "id": 1064935,
+      "name": "Mark Stolzenberg",
+      "profilePath": "/dQu8HV0ZRTzWNSrmRsl29mvvbk5.jpg"
+    },
+    {
+      "character": "Landlord",
+      "id": 187644,
+      "name": "Manu Narayan",
+      "profilePath": "/13R3VgNt39GCxGg8jWN5Dnztcwe.jpg"
+    },
+    {
+      "character": "Father",
+      "id": 2224,
+      "name": "Christian Slater",
+      "profilePath": "/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 41077,
+      "logoPath": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24"
+    },
+    {
+      "id": 243162,
+      "logoPath": "/ka77w8XmAhlqS2XBavyo1iMQnKx.png",
+      "name": "Central Pictures"
+    },
+    {
+      "id": 208363,
+      "logoPath": "/nPXwPbmlUVl9saVTNBMuvPGRV7c.png",
+      "name": "Fat City"
+    },
+    {
+      "id": 247337,
+      "logoPath": null,
+      "name": "Bronxburgh"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-11-18",
+  "externalIds": {
+    "facebookId": "IfIHadLegsMovie",
+    "imdbId": "tt18382850",
+    "instagramId": "ifihadlegsmovie",
+    "twitterId": "IfIHadLegsMovie",
+    "wikidataId": "Q124450734"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 25,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1160360,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "If I Had Legs I'd Kick You",
+  "overview": "در سال ۱۸۷۸، ۲۹۲ سامورایی برای شرکت در نبردی مرگبار گرد هم می‌آیند؛ جایزه، صد میلیارد ین است. هر مبارز نشان چوبی مخصوص خود را دارد و تنها آخرین بازمانده‌ای که به توکیو برسد، برنده خواهد بود. «شوجیرو ساگا» برای نجات خانواده بیمار خود وارد این بازی مرگ و بقا می‌شود، بی‌آنکه بداند سفری آغاز شده که جان، شرافت و سرنوشت او را در هم می‌آمیزد.",
+  "posterPath": "/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg",
+  "rating": 6.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-02-20"
+    },
+    "US": {
+      "digitalDate": "2025-11-18",
+      "gapDays": 25,
+      "theatricalDate": "2025-10-24"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-04-19"
+    },
+    "GB": {
+      "physical": "2026-12-07",
+      "premiere": "2025-10-13",
+      "theatrical": "2026-02-20"
+    },
+    "US": {
+      "digital": "2025-11-18",
+      "physical": "2026-05-26",
+      "premiere": "2025-01-24",
+      "theatrical": "2025-10-24",
+      "theatricalLimited": "2025-10-10",
+      "tv": "2026-01-31"
+    }
+  },
+  "runtime": 113,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Everything is under control.",
+  "theatricalDate": "2025-10-24",
+  "title": "If I Had Legs I'd Kick You",
+  "translations": {
+    "faOverview": "در سال ۱۸۷۸، ۲۹۲ سامورایی برای شرکت در نبردی مرگبار گرد هم می‌آیند؛ جایزه، صد میلیارد ین است. هر مبارز نشان چوبی مخصوص خود را دارد و تنها آخرین بازمانده‌ای که به توکیو برسد، برنده خواهد بود. «شوجیرو ساگا» برای نجات خانواده بیمار خود وارد این بازی مرگ و بقا می‌شود، بی‌آنکه بداند سفری آغاز شده که جان، شرافت و سرنوشت او را در هم می‌آمیزد.",
+    "faTitle": "اگه پا داشتم، می‌زدمت"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "UCa_fhxFAmg",
+      "name": "Mark Kermode reviews If I Had Legs I’d Kick You (2025) | BFI Player",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "bKagD0Uel2A",
+      "name": "Amelia Dimoldenberg Asks Rose Byrne If She'd Be A Good Therapist | Oscars Pre-Luncheon Luncheon",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Pj33sGJDHjI",
+      "name": "Extended Scene",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "e-ZVwo6uZao",
+      "name": "Red Carpet Interviews",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "2Y-o17PohYI",
+      "name": "This Performance Got Rose Byrne an Oscar Nomination",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "LHccUV8-Hlg",
+      "name": "The Oscar Nominated Hamster Scene",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "0hhBX2LbNf4",
+      "name": "Rose Byrne's Golden Globe Award-Winning Performance",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "HuHd2ssPrGg",
+      "name": "A24 x Letterboxd: The List - Mary Bronstein & Conan O'Brien",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "vCuO_dHxGns",
+      "name": "Wine Tasting with Rose Byrne and Mary Bronstein - Official Promo",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "JrVRi6qI2cI",
+      "name": "Official First Look",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "AiaGBj1RKVI",
+      "name": "Cast and Crew Q&A | TIFF 2025",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "xm-9ZcqGBrU",
+      "name": "Art Therapy with Rose Byrne and Conan O’Brien",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "svbMDLAZtPY",
+      "name": "Rose Byrne, Conan O'Brien, Christian Slater & Mary Bronstein on If I Had Legs I'd Kick You",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "-oDLBRLkflo",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "ywFDoT7LBbQ",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 451,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 629,
+          "logoPath": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+          "name": "OSN+"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1160360-if-i-had-legs-i-d-kick-you/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 224,
+          "logoPath": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+          "name": "BFI Player"
+        },
+        {
+          "id": 287,
+          "logoPath": "/lWzSEjT62Ob0XIHXdN7G4OQWCAr.png",
+          "name": "BFI Player Amazon Channel"
+        },
+        {
+          "id": 2041,
+          "logoPath": "/45RXTNyLafB9AKaZPNHryi2T9x1.png",
+          "name": "BFI Player Apple TV Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1160360-if-i-had-legs-i-d-kick-you/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1160360-if-i-had-legs-i-d-kick-you/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 331,
+          "logoPath": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+          "name": "FlixFling"
+        }
+      ]
+    }
+  }
+}

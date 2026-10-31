@@ -1,0 +1,343 @@
+{
+  "backdropPath": "/9DZPzEnHXjc3Kexaynj9J6iqF3B.jpg",
+  "cast": [
+    {
+      "character": "Scott Stewart",
+      "id": 15033,
+      "name": "Justin Long",
+      "profilePath": "/7TGXeHw4o86IBm6xknQotpludXK.jpg"
+    },
+    {
+      "character": "Chloe Stewart",
+      "id": 3214361,
+      "name": "Mila Harris",
+      "profilePath": "/10BSVhLPqosSBsOgp0L7qaU0Uhi.jpg"
+    },
+    {
+      "character": "Julie",
+      "id": 943913,
+      "name": "Brittany Allen",
+      "profilePath": "/kGLQeglfbdEbD5IursaYRutmRx0.jpg"
+    },
+    {
+      "character": "Liv Stewart",
+      "id": 7517,
+      "name": "Kate Bosworth",
+      "profilePath": "/ezaM2jsyrxXWVFN1SbH3UfAgZaG.jpg"
+    },
+    {
+      "character": "Trip",
+      "id": 52020,
+      "name": "Norbert Leo Butz",
+      "profilePath": "/2SMyLebGOemP26yL9pp7IFKfqG5.jpg"
+    },
+    {
+      "character": "Tony",
+      "id": 5287221,
+      "name": "Kevin Glynn",
+      "profilePath": "/jIQk6lFQ0FOg5piKabufRHfSxNc.jpg"
+    },
+    {
+      "character": "Kat",
+      "id": 968006,
+      "name": "Katherine McNamara",
+      "profilePath": "/cuGVMcnpi6HjobaGADo1xtaDglR.jpg"
+    },
+    {
+      "character": "Sheila",
+      "id": 2090258,
+      "name": "Norma Nivia",
+      "profilePath": "/hZe6OiuiPL4GJfqtB7cWabwE8sW.jpg"
+    },
+    {
+      "character": "(archive footage)",
+      "id": 97913,
+      "name": "Judith O'Dea",
+      "profilePath": "/cCZfWRio05U5qVbQBfUgncdAMHJ.jpg"
+    },
+    {
+      "character": "Devon",
+      "id": 39213,
+      "name": "Keir O'Donnell",
+      "profilePath": "/1GYWx3q4QNXIIBdwirZPiSHFFfJ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 179831,
+      "logoPath": "/9yUvtr26VMnSRJnePouXgOLFV7K.png",
+      "name": "Capstone Studios"
+    },
+    {
+      "id": 215935,
+      "logoPath": "/pYh0UKZbx8WGKLDZuBkq7WwvGSH.png",
+      "name": "Gramercy Park Media"
+    },
+    {
+      "id": 164800,
+      "logoPath": "/qZHPu9QptBtyCRtHhigklmPWvaQ.png",
+      "name": "Source Management + Production"
+    },
+    {
+      "id": 155758,
+      "logoPath": "/iZi0zd9ijrcWR9zlEUUthG8d600.png",
+      "name": "Tea Shop Productions"
+    },
+    {
+      "id": 200059,
+      "logoPath": "/q4gItsJvWmKluHx7VPYEhECQ620.png",
+      "name": "Magnetic Labs"
+    },
+    {
+      "id": 83191,
+      "logoPath": "/cir3g4iXLD6UayUJeM2nspw8RAj.png",
+      "name": "Sugar Studios LA"
+    },
+    {
+      "id": 128081,
+      "logoPath": "/c7e41WNx0l9UWKwTEHmFxVwNtCd.png",
+      "name": "Jaguar Bite"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "digitalDate": "2025-10-21",
+  "externalIds": {
+    "imdbId": "tt34581826",
+    "wikidataId": "Q136296182"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 18,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1386827,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Coyotes",
+  "overview": "Trapped in their Hollywood Hills home, a family fights for survival when caught between a raging wildfire and a pack of savage coyotes.",
+  "posterPath": "/fSzs9ZXYcrln0FRrjGIPCjuB6En.jpg",
+  "rating": 5.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-12-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-21",
+      "gapDays": 18,
+      "theatricalDate": "2025-10-03"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2025-12-29",
+      "physical": "2026-01-05"
+    },
+    "US": {
+      "digital": "2025-10-21",
+      "premiere": "2025-09-20",
+      "theatrical": "2025-10-03"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Eat the rich.",
+  "theatricalDate": "2025-10-03",
+  "title": "Coyotes",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "GB-cES_EENM",
+      "name": "Get Off Him",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "DENZQmZZ1ok",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 88,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 630,
+          "logoPath": "/vnpp3n6DAIh2sKXfMbehKZAWJMC.png",
+          "name": "STARZPLAY"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1386827-coyotes/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1386827-coyotes/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 583,
+          "logoPath": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+          "name": "MGM+ Amazon Channel"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 636,
+          "logoPath": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+          "name": "MGM Plus Roku Premium Channel"
+        },
+        {
+          "id": 34,
+          "logoPath": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+          "name": "MGM Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1386827-coyotes/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

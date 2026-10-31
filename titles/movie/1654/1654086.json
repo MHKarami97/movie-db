@@ -1,0 +1,170 @@
+{
+  "backdropPath": "/q4WeLp7kmLAvHYpzQXEzlZWJMsn.jpg",
+  "cast": [
+    {
+      "character": "Chiara King",
+      "id": 6080597,
+      "name": "Chiara King",
+      "profilePath": "/4cpmyjFUKdaosN4y303tPNJ5JGr.jpg"
+    },
+    {
+      "character": "Victor",
+      "id": 3908919,
+      "name": "Luca Storm",
+      "profilePath": "/8uOu60BYE4Bk8vdE7ZU2fJv2ZYk.jpg"
+    },
+    {
+      "character": "Mike Nybroe",
+      "id": 6216851,
+      "name": "Mike Nybroe",
+      "profilePath": null
+    },
+    {
+      "character": "Alice",
+      "id": 6405428,
+      "name": "Jazmine Summer",
+      "profilePath": "/1Merf1wQhBxKhma3YKhcLecByl1.jpg"
+    },
+    {
+      "character": "King Slayer",
+      "id": 135944,
+      "name": "Alexandre Willaume",
+      "profilePath": "/zi3AIGnIYDZCd1DrGr5VCzOA2HM.jpg"
+    },
+    {
+      "character": "Rasmus",
+      "id": 1462217,
+      "name": "Eos Karlsson",
+      "profilePath": "/3znvSEzBPaazvaYdiVvYFj9p7Pk.jpg"
+    },
+    {
+      "character": "Anna",
+      "id": 6526189,
+      "name": "Gemma Karlsen",
+      "profilePath": null
+    },
+    {
+      "character": "Alma",
+      "id": 3711411,
+      "name": "Ronja Hauge Schierup",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 183857,
+      "logoPath": null,
+      "name": "Hades Films"
+    },
+    {
+      "id": 77286,
+      "logoPath": "/a7nL8seiZ26NWoZxwpGFfxdkvRj.png",
+      "name": "Pont Neuf Productions"
+    },
+    {
+      "id": 307263,
+      "logoPath": "/7XCarxmIUIBSIVmOX7zNOoUpOcF.png",
+      "name": "Voltron Global Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-11-30",
+  "externalIds": {
+    "facebookId": "TheInfluencerProject",
+    "imdbId": "tt42643242",
+    "instagramId": "the.influencerproject",
+    "wikidataId": "Q141697796"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 59,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1654086,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "da",
+      "name": "Danish"
+    }
+  ],
+  "originalTitle": "The Influencer Project",
+  "overview": "Influencer Chiara King travels to Copenhagen with a documentary crew promising an unfiltered look behind the glamorous business of online fame. But as the cameras and her devoted fans follow her every move, someone else is watching too. When an obsessive stalker begins closing in, the documentary mutates into something far more terrifying, blurring the line between content and evidence, follower and predator, fact and fiction.",
+  "posterPath": "/3yolfJrhMf8XvfKVlBB6Zetn2wS.jpg",
+  "rating": 5.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-29"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-30",
+      "gapDays": 45,
+      "theatricalDate": "2026-10-16"
+    },
+    "US": {
+      "digitalDate": "2026-11-30",
+      "gapDays": 59,
+      "theatricalDate": "2026-10-02"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-10-29"
+    },
+    "GB": {
+      "digital": "2026-11-30",
+      "physical": "2026-11-30",
+      "theatrical": "2026-10-16"
+    },
+    "US": {
+      "digital": "2026-11-30",
+      "physical": "2026-11-30",
+      "theatrical": "2026-10-02"
+    }
+  },
+  "runtime": 95,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Where do you hide when everyone is watching?",
+  "theatricalDate": "2026-10-02",
+  "title": "The Influencer Project",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "q5DIxirBMx4",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {}
+}

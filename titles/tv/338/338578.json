@@ -1,0 +1,222 @@
+{
+  "backdropPath": "/qhnA6IxrTCSqUy9hrpW5YfTMztd.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 96116,
+      "name": "Sam Riegel",
+      "profilePath": "/fgQMEXtqK4xubDf0a2P8r4VJ8SF.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 89966,
+      "name": "Liam O'Brien",
+      "profilePath": "/ko7Bba6fQEaAbVFAp1kQHTzuYCp.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 222920,
+      "logoPath": "/6N9EXclPFxZX4ynzv2MzLAf5fsG.png",
+      "name": "Critical Role Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2018-09-28",
+  "episodes": {
+    "4": [
+      {
+        "airDate": "2026-10-28",
+        "episodeNumber": 1,
+        "name": "Berlin to Edinburgh",
+        "overview": "The boys are back! Sam Riegel and Liam O'Brien return to where it all began while visiting Europe in this episode of All Work No Play. 'The fun we done' this time: Ghost tours, castle tours, and river tours between our Critical Role live shows in Berlin and Edinburgh Castle.",
+        "stillPath": "/iMl8YM222QJBapQtfgwLc1TAuEz.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-11",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-25",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-09",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-23",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-06",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt15508130"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 338578,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-28",
+    "episodeNumber": 1,
+    "id": 7951281,
+    "name": "Berlin to Edinburgh",
+    "overview": "The boys are back! Sam Riegel and Liam O'Brien return to where it all began while visiting Europe in this episode of All Work No Play. 'The fun we done' this time: Ghost tours, castle tours, and river tours between our Critical Role live shows in Berlin and Edinburgh Castle.",
+    "seasonNumber": 4
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-11",
+    "episodeNumber": 2,
+    "id": 7951282,
+    "name": "Episode 2",
+    "overview": "",
+    "seasonNumber": 4
+  },
+  "originalTitle": "All Work No Play",
+  "overview": "Best friends Sam Riegel & Liam O'Brien need an excuse to hang out, so we gave them a new show based on their hit podcast of the same name!",
+  "posterPath": "/bw6ORhCtXbvfXfKoWafoTLHq4BU.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2018-09-28",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2018-09-28",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2018-09-28",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2018-09-28",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2018-09-28"
+    },
+    "CN": {
+      "tv": "2018-09-28"
+    },
+    "GB": {
+      "tv": "2018-09-28"
+    },
+    "US": {
+      "tv": "2018-09-28"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-04-23",
+      "episodeCount": 1,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2018-09-28",
+      "episodeCount": 8,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2020-02-04",
+      "episodeCount": 5,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2020-04-14",
+      "episodeCount": 8,
+      "name": "Season 3: Unplugged",
+      "overview": "",
+      "posterPath": "/4CG6uZNEazOrakuSY9ZqILRDaof.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2026-10-28",
+      "episodeCount": 6,
+      "name": "Season 4",
+      "overview": "Sam Riegel and Liam O’Brien are best friends who still have to make special plans to hang out, and this time they went all out! As the boys turn 50, All Work No Play returns with all-new episodes of fabulous adventures around the world, a few friends along the way, and drinks-in-hand debriefs about the fun they done.",
+      "posterPath": "/bw6ORhCtXbvfXfKoWafoTLHq4BU.jpg",
+      "seasonNumber": 4
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "All Work No Play",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "fght-xHAJJQ",
+      "name": "All Work No Play – Premieres Sept 28 on Twitch",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

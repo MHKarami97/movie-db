@@ -1,0 +1,110 @@
+{
+  "backdropPath": "/tCW1lq3wrldtagRKVWHUSlShRBR.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 46,
+      "logoPath": "/3xFdKHLXPGHEbrAkmsepGE8974Y.png",
+      "name": "WDR"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2017-09-29",
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "id": 307939,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": {
+    "airDate": "2017-09-29",
+    "episodeNumber": 9,
+    "id": 6754717,
+    "name": "Episode 9",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-09-29",
+    "episodeNumber": 2,
+    "id": 6754694,
+    "name": "Episode 2",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Die Maus - Spots non Stop",
+  "overview": "",
+  "posterPath": "/1924UJFPi4sDeqQJwD9gcfSYjx3.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2017-09-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2017-09-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2017-09-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2017-09-29",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2017-09-29"
+    },
+    "CN": {
+      "tv": "2017-09-29"
+    },
+    "GB": {
+      "tv": "2017-09-29"
+    },
+    "US": {
+      "tv": "2017-09-29"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2017-09-29",
+      "episodeCount": 9,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/oQL3TI1aGvuLsCrgd2GOEBQobGV.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Die Maus - Spots non Stop",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

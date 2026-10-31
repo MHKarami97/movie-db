@@ -1,0 +1,210 @@
+{
+  "backdropPath": "/jas9AaeGWZjT1qcbvuPjccnS56e.jpg",
+  "cast": [
+    {
+      "character": "Sunny Sanskari",
+      "id": 1108119,
+      "name": "Varun Dhawan",
+      "profilePath": "/gvvXYTpvO0Tu7naCDLL3tInyN2R.jpg"
+    },
+    {
+      "character": "Tulsi Kumari",
+      "id": 1974970,
+      "name": "Janhvi Kapoor",
+      "profilePath": "/2VqBDc19br9CIitXUFkZ52q7V2o.jpg"
+    },
+    {
+      "character": "Ananya Bhatia",
+      "id": 1756851,
+      "name": "Sanya Malhotra",
+      "profilePath": "/sQ0VIqGLecfpwYayO05Z7NC32yN.jpg"
+    },
+    {
+      "character": "Vikram Singh",
+      "id": 1904879,
+      "name": "Rohit Saraf",
+      "profilePath": "/fhrgPiIujoi25lAYz9BV2dhfVCR.jpg"
+    },
+    {
+      "character": "Kuku",
+      "id": 1263933,
+      "name": "Maniesh Paul",
+      "profilePath": "/pUEKvdgIJSv5TN5moW5qARu3dCk.jpg"
+    },
+    {
+      "character": "Param Singh",
+      "id": 1342538,
+      "name": "Akshay Oberoi",
+      "profilePath": "/dsFqDJzSzUiKZpicmj05Iv1YbOs.jpg"
+    },
+    {
+      "character": "Bantu",
+      "id": 2350856,
+      "name": "Abhinav Sharma",
+      "profilePath": "/PIOZXdgfM0bz7f6Ns5HW1HtLxq.jpg"
+    },
+    {
+      "character": "Rakhee Singh",
+      "id": 4224451,
+      "name": "Manini Chadha",
+      "profilePath": null
+    },
+    {
+      "character": "Nisha",
+      "id": 4648086,
+      "name": "Mallika Chhabra",
+      "profilePath": null
+    },
+    {
+      "character": "Pulkit Bhatia",
+      "id": 4896561,
+      "name": "Gaurav Sikri",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 19146,
+      "logoPath": "/5Ff25ornzVNhm5skuAvMAR556NB.png",
+      "name": "Dharma Productions"
+    },
+    {
+      "id": 164274,
+      "logoPath": null,
+      "name": "Mentor Disciple Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt30742355",
+    "wikidataId": "Q135987689"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1248454,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "hi",
+      "name": "Hindi"
+    }
+  ],
+  "originalTitle": "सन्नी संस्कारी की तुलसी कुमारी",
+  "overview": "Two former lovers in Delhi try to rekindle old flames, leading to amusing mix-ups and deceptions. As chaos unfolds, a new unexpected romance blooms. Who will find their happy ending amid the confusion?",
+  "posterPath": "/h3lncTnK86R8XylpXgpe0JfU1wm.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 136,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Four people. Two heartbreakers. One wedding.",
+  "theatricalDate": null,
+  "title": "Sunny Sanskari Ki Tulsi Kumari",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "syPu-cu6toQ",
+      "name": "SSKTK trailer takes over | Varun D | Janhvi K | Sanya M | Rohit S | Shashank K | Dharma Shorts",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 25,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1248454/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1248454/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1248454/watch?locale=US",
+      "rent": []
+    }
+  }
+}

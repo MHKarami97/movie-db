@@ -1,0 +1,223 @@
+{
+  "backdropPath": "/z04L1YRsQ1x7H4tN2BqIKD0Ker0.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 2291034,
+      "name": "Tao Shen",
+      "profilePath": "/bTr7sS2ZRAMdIwVE65deNP7vwoN.jpg"
+    },
+    {
+      "character": "",
+      "id": 1686977,
+      "name": "Guan Xiaotong",
+      "profilePath": "/b48jZXCEzBLMHZoTuAHLMXayWqE.jpg"
+    },
+    {
+      "character": "",
+      "id": 235518,
+      "name": "Sha Yi",
+      "profilePath": "/ip9GpE5RhxBzqlbbVX0DwktOlss.jpg"
+    },
+    {
+      "character": "",
+      "id": 1427526,
+      "name": "Yang Di",
+      "profilePath": "/t6egz5PUk6xzLuf4J2U2YQBGOmL.jpg"
+    },
+    {
+      "character": "",
+      "id": 3489613,
+      "name": "Song Yaxuan",
+      "profilePath": "/bRQsHWZ8DyQxyD7gSDF8uJpTx7y.jpg"
+    },
+    {
+      "character": "",
+      "id": 3194562,
+      "name": "Jolin Jin",
+      "profilePath": "/wLl36EqVi1m1P99ilkNI1Y5m3gq.jpg"
+    },
+    {
+      "character": "",
+      "id": 560190,
+      "name": "Tang Guoqiang",
+      "profilePath": "/k7TUG4bL1MhecuF3UPWXyCu8PZr.jpg"
+    },
+    {
+      "character": "",
+      "id": 2858382,
+      "name": "Yu Yang",
+      "profilePath": "/cccqipLF2z5SnQ5IWUjTjN9v5aG.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "digitalDate": "2016-01-29",
+  "externalIds": {
+    "imdbId": "tt6742518",
+    "wikidataId": "Q24836510"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 88580,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-11-14",
+    "episodeNumber": 12,
+    "id": 6527107,
+    "name": "Episode 12",
+    "overview": "",
+    "seasonNumber": 9
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "王牌对王牌",
+  "overview": "",
+  "posterPath": "/dJLq9SHSJ04sVghgStXR1ypGHDA.jpg",
+  "rating": 6.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2016-01-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2016-01-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2016-01-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2016-01-29",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2016-01-29"
+    },
+    "CN": {
+      "tv": "2016-01-29"
+    },
+    "GB": {
+      "tv": "2016-01-29"
+    },
+    "US": {
+      "tv": "2016-01-29"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2017-02-03",
+      "episodeCount": 49,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/1YIbSTQNOduEnZf7fn3NIl7p1w0.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2016-01-29",
+      "episodeCount": 11,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/kW8VsS8WejXCAAeu33v5TFBNwfi.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2017-01-20",
+      "episodeCount": 15,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/xvIaQ8zRrZtrcgbAlnmFgPbxOHf.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2018-02-02",
+      "episodeCount": 13,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/nciQMS5WogfZs9mzyYsUyoIHK8K.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2019-02-01",
+      "episodeCount": 12,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/oVueCNrDrZfwjzeT9FW0TnKeVvm.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2020-02-21",
+      "episodeCount": 12,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/yR4YMbIGZppLVyBs81cBBCEmD2d.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2021-01-29",
+      "episodeCount": 12,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/2zlVCHpoSjXjhueylLoOxdwPBez.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2022-02-25",
+      "episodeCount": 27,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/qty1fWxtpP4J1soDwF0f1VbsSru.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2023-10-20",
+      "episodeCount": 41,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/9CcPnQtKfBFzmXRvjN86we0tCNA.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2025-08-29",
+      "episodeCount": 12,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/dJLq9SHSJ04sVghgStXR1ypGHDA.jpg",
+      "seasonNumber": 9
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Trump Card",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 6,
+  "watchProviders": {}
+}

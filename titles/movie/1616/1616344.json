@@ -1,0 +1,116 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 2891991,
+      "name": "Hailley Lauren",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 1595615,
+      "name": "Kelsey Pribilski",
+      "profilePath": "/gM7uNT30FUd0x1JEL1UGWu1LsJr.jpg"
+    },
+    {
+      "character": "",
+      "id": 2742144,
+      "name": "Tinus Seaux",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 1485323,
+      "name": "Danielle Evon Ploeger",
+      "profilePath": "/ywPwpjiNh8rbULomqnKK0bYzoh0.jpg"
+    },
+    {
+      "character": "",
+      "id": 1204096,
+      "name": "Richard C. Jones",
+      "profilePath": "/xUj8Gy7DTODvG9bqYk0s93lNB0k.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 220195,
+      "logoPath": "/nbwSIz7VUcudZQIY9O94jpLoizf.png",
+      "name": "Roosevelt Film Lab"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39368498",
+    "wikidataId": "Q138675653"
+  },
+  "fetchedAt": 1795640243421,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1616344,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "American Dollhouse",
+  "overview": "Caught between a grotesque Christmas fantasy and her own childhood trauma, a woman's search for a fresh start in her hometown is violently interrupted by a psychopathic neighbor.",
+  "posterPath": "/4P0vgEMvblUUJJU4zf1Uzfwyj65.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-01-15"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-03-14",
+      "theatrical": "2027-01-15"
+    }
+  },
+  "runtime": 87,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2027-01-15",
+  "title": "American Dollhouse",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

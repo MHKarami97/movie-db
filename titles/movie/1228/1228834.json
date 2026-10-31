@@ -1,0 +1,319 @@
+{
+  "backdropPath": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+  "cast": [
+    {
+      "character": "Tucker",
+      "id": 69899,
+      "name": "Zachary Levi",
+      "profilePath": "/1W8L3kEMMPF9umT3ZGaNIiCYKfZ.jpg"
+    },
+    {
+      "character": "Larry",
+      "id": 3896,
+      "name": "Liam Neeson",
+      "profilePath": "/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+    },
+    {
+      "character": "Alex",
+      "id": 51682,
+      "name": "Wes Chatham",
+      "profilePath": "/lFoUyX8FZs3XvUWWItCm2ezvAEs.jpg"
+    },
+    {
+      "character": "James",
+      "id": 39389,
+      "name": "Titus Welliver",
+      "profilePath": "/3hTwn7Maktr6ONq1VvfqyRacjiv.jpg"
+    },
+    {
+      "character": "Qasim",
+      "id": 103330,
+      "name": "Navid Negahban",
+      "profilePath": "/pWi5tINf4mDvTYbNKZDJPODYKra.jpg"
+    },
+    {
+      "character": "Sophie",
+      "id": 1257563,
+      "name": "Annet Mahendru",
+      "profilePath": "/zPtC39iSy9bJTgyxZgYOhzmBEu4.jpg"
+    },
+    {
+      "character": "Matt",
+      "id": 1058027,
+      "name": "Grant Harvey",
+      "profilePath": "/sThJJbhgjQOZNvCkHVO0g3qy78j.jpg"
+    },
+    {
+      "character": "Bruce",
+      "id": 1456279,
+      "name": "Augusto Aguilera",
+      "profilePath": "/vxW6iEHbuCcC7eFoQWoBAS7SYjM.jpg"
+    },
+    {
+      "character": "Nadir",
+      "id": 35434,
+      "name": "Numan Acar",
+      "profilePath": "/krAYCiFQGreNOOqtTLX3v6TlHk5.jpg"
+    },
+    {
+      "character": "Zara",
+      "id": 2114526,
+      "name": "Elnaaz Norouzi",
+      "profilePath": "/gbiXh5zoIKFH1kEPFtuhjfElY5c.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 217982,
+      "logoPath": null,
+      "name": "Astral Future"
+    },
+    {
+      "id": 208153,
+      "logoPath": null,
+      "name": "Dreamtime Entertainment"
+    },
+    {
+      "id": 124504,
+      "logoPath": "/2lNM3d3KUlDk3phoFpTkrIS8jKU.png",
+      "name": "Oakhurst Entertainment"
+    },
+    {
+      "id": 121204,
+      "logoPath": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+      "name": "BondIt Media Capital"
+    },
+    {
+      "id": 198605,
+      "logoPath": null,
+      "name": "Latigo Films"
+    },
+    {
+      "id": 2623,
+      "logoPath": "/7Bkm1yUF0y8x6jw8dHRfzS3B6dq.png",
+      "name": "Blue Rider Pictures"
+    },
+    {
+      "id": 229487,
+      "logoPath": "/vF5HUjsJU0jFtlhpUdcodrECXBk.png",
+      "name": "Rabbits Black"
+    },
+    {
+      "id": 179981,
+      "logoPath": "/vbI6QgAC9s3BilQ5Oa7juyrf59N.png",
+      "name": "Thomasville Pictures"
+    },
+    {
+      "id": 185588,
+      "logoPath": null,
+      "name": "Eyevox Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-13",
+  "externalIds": {
+    "imdbId": "tt9601292",
+    "wikidataId": "Q130367869"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1228834,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ar",
+      "name": "Arabic"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Fix",
+  "overview": "گروهی از اپراتورهای جنگ زده سابق سیا که از پایان جنگ در افغانستان سرخورده شده بودند، به تهران رفتند تا امتیازی را که در حال تغییر زندگی‌شان بود، متوقف کنند.",
+  "posterPath": "/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-09-18",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-13",
+      "gapDays": 32,
+      "theatricalDate": "2026-09-11"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-09-18"
+    },
+    "US": {
+      "digital": "2026-10-13",
+      "theatrical": "2026-09-11"
+    }
+  },
+  "runtime": 142,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Settle the score.",
+  "theatricalDate": "2026-09-11",
+  "title": "The Fix",
+  "translations": {
+    "faOverview": "گروهی از اپراتورهای جنگ زده سابق سیا که از پایان جنگ در افغانستان سرخورده شده بودند، به تهران رفتند تا امتیازی را که در حال تغییر زندگی‌شان بود، متوقف کنند.",
+    "faTitle": "راه‌حل"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Ql0pKsNKmHs",
+      "name": "Liam Neeson Orders The Kill - Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "hfXhfC6GzJw",
+      "name": "Watch at Home",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "5dfPUGZ7-s4",
+      "name": "Clip #1 - The Nest Is Swarming",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "Ua3wq0ApsDM",
+      "name": ":15 Spot",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "0RROE5Xiug8",
+      "name": ":30 Spot",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "l5Luvr9TRRc",
+      "name": "Final Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "NYC0v8xqQdM",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 82,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1228834-the-fix/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1228834-the-fix/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

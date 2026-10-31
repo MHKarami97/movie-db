@@ -1,0 +1,160 @@
+{
+  "backdropPath": "/ce2tvX0efOHHjAT4o6udf3W6RsW.jpg",
+  "cast": [
+    {
+      "character": "عمرو",
+      "id": 230737,
+      "name": "Mohamed Henedi",
+      "profilePath": "/duDDRRuYjC3qvabxA4w1e1y7g6R.jpg"
+    },
+    {
+      "character": "ياسمين",
+      "id": 130207,
+      "name": "Mona Zaki",
+      "profilePath": "/qXImbMkrqYpWg2jEerb1RDPr3hN.jpg"
+    },
+    {
+      "character": "كريم",
+      "id": 226929,
+      "name": "Ahmed Salah ElSaadany",
+      "profilePath": "/bWNJ21irKIjy4aT0GB3EEAZAri8.jpg"
+    },
+    {
+      "character": "والدة عمرو",
+      "id": 223934,
+      "name": "Lebleba",
+      "profilePath": "/aS0lRbuphlsd0T2RlaVXn0QAhWr.jpg"
+    },
+    {
+      "character": "ليلى",
+      "id": 1622832,
+      "name": "Tara Emad",
+      "profilePath": "/oNS3ui8NT6VWPIDERi2igvN82Tf.jpg"
+    },
+    {
+      "character": "أم حماده",
+      "id": 2059006,
+      "name": "Arefa Abdul Rasoul",
+      "profilePath": "/3RZjDahSEjVwIOVJwhcvtSfxkLf.jpg"
+    },
+    {
+      "character": "والد ياسمين",
+      "id": 1165450,
+      "name": "Ahmed Halawa",
+      "profilePath": "/h9QqZbvZP7ZgLMRkMpkr0XFEnJV.jpg"
+    },
+    {
+      "character": "غازي الشيال",
+      "id": 141004,
+      "name": "Bassem Samra",
+      "profilePath": "/tKhneTl9BL6W1jIgTV43o5duFPx.jpg"
+    },
+    {
+      "character": "طبيب",
+      "id": 3533812,
+      "name": "Hatim Salah",
+      "profilePath": "/oMKk9Z3Jbmk5JLpLBP3Nsnd5JNc.jpg"
+    },
+    {
+      "character": "",
+      "id": 5497813,
+      "name": "Nancy Nabil",
+      "profilePath": "/ohYjY8PT83jxUGcbJlgrtqJGYVK.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 152421,
+      "logoPath": "/rK30F67f2gFoCIkoWVTFD8Oyiau.png",
+      "name": "Aroma Studios"
+    },
+    {
+      "id": 144520,
+      "logoPath": null,
+      "name": "الإخوة المتحدين (الإخوة المتحدين للسينما)"
+    }
+  ],
+  "countries": [
+    {
+      "code": "EG",
+      "name": "Egypt"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt43646922",
+    "wikidataId": "Q140510578"
+  },
+  "fetchedAt": 1795373734473,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 917242,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ar",
+      "name": "Arabic"
+    }
+  ],
+  "originalTitle": "الجواهرجي",
+  "overview": "After being caught one too many times, Amr El Barouqy, a famous jeweler with a weakness for women, is forced to put aside his traditional male pride. When his strong-willed wife Yasmine insists on building a healthier and more balanced life together, the couple turn to relationship counselor Dr Kareem and embark on an unconventional therapy program to save their marriage. However, instead of bringing them closer, each step unleashes a new wave of chaos, turning their attempt to fix their relationship into a series of escalating disasters.",
+  "posterPath": "/kFPgvpB8AItJkzzhdF9BMNOUzEL.jpg",
+  "rating": 5.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-06"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-07"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-08-06"
+    },
+    "GB": {
+      "theatrical": "2026-08-07"
+    }
+  },
+  "runtime": 111,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-08-07",
+  "title": "The Jeweler",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "GvVJ9r7BAQE",
+      "name": "The Jeweler | Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {}
+}

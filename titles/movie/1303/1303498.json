@@ -1,0 +1,215 @@
+{
+  "backdropPath": "/tsr2bliRfVD6kFvG2d5L6DVrxGF.jpg",
+  "cast": [
+    {
+      "character": "Mike Alvarado",
+      "id": 2989805,
+      "name": "Michael Kunicki",
+      "profilePath": "/zFiSESmEtGYHbQLV6MjfnoGxh9K.jpg"
+    },
+    {
+      "character": "Vinny",
+      "id": 4770228,
+      "name": "Vinny Kress",
+      "profilePath": "/2s96m2u1hxz8CquhPToUMeyZ4Ly.jpg"
+    },
+    {
+      "character": "Travis",
+      "id": 1593039,
+      "name": "Trevor Dawkins",
+      "profilePath": "/3uXH1ubq2DsGnz6a2SpH20VHXaW.jpg"
+    },
+    {
+      "character": "Charlene",
+      "id": 2506439,
+      "name": "Kaylyn Carter",
+      "profilePath": "/26vWNEFNmcGhOJPfXoilaTNZzRx.jpg"
+    },
+    {
+      "character": "Sequoia",
+      "id": 4770233,
+      "name": "Reagan Fitzgerald",
+      "profilePath": null
+    },
+    {
+      "character": "Lorenzo",
+      "id": 4427269,
+      "name": "Jeffrey A. Hunter",
+      "profilePath": "/bnYwk58STY7LyWJUga6oi1NaDMT.jpg"
+    },
+    {
+      "character": "Dad",
+      "id": 5296450,
+      "name": "Guido Z. Cameli",
+      "profilePath": null
+    },
+    {
+      "character": "Keith",
+      "id": 5296452,
+      "name": "Angelo Steffes",
+      "profilePath": null
+    },
+    {
+      "character": "Aunt Barb",
+      "id": 5296454,
+      "name": "Sue Hausmann",
+      "profilePath": null
+    },
+    {
+      "character": "CJ",
+      "id": 5296455,
+      "name": "Eugene Ace Banks",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 283135,
+      "logoPath": null,
+      "name": "Missing Link Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-05-12",
+  "externalIds": {
+    "imdbId": "tt30304841",
+    "wikidataId": "Q139619762"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 39,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1303498,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "$POSITIONS",
+  "overview": "A man tries to save his family from the throes of poverty by investing their savings into speculative cryptocurrencies. His life soon becomes an anxiety-inducing nightmare as his investment strategy turns into a full-blown gambling addiction.",
+  "posterPath": "/dCLWCSbqcb9bfOixZokehjimIKK.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-12",
+      "gapDays": 39,
+      "theatricalDate": "2026-04-03"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-05-12",
+      "premiere": "2025-03-08",
+      "theatricalLimited": "2026-04-03"
+    }
+  },
+  "runtime": 97,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-04-03",
+  "title": "$POSITIONS",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "HGboj1JYUtk",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1303498-positions/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 5754,
+      "logoPath": "/lYPqogOigbGMmErpSBBn2SnVypQ.png",
+      "name": "Rat Pack Filmproduktion"
+    },
+    {
+      "id": 234068,
+      "logoPath": "/26VdbRGwelApTb9RzVHLwAKtF4m.png",
+      "name": "Mack Animation"
+    },
+    {
+      "id": 1635,
+      "logoPath": null,
+      "name": "herbX film"
+    },
+    {
+      "id": 47,
+      "logoPath": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+      "name": "Constantin Film"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt42204717"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "id": 1481212,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "Hui Buh und der Fluch der Dschinn",
+  "overview": "When the castle ghost Hui Buh, of all people, is chosen to free the heart of a cursed princess from 1001 Nights together with the clumsy Genie Amira, he and his friends embark on the greatest adventure of his life.",
+  "posterPath": "/unVQC9AxUREYV7IzYD9JJOwIkRg.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Planned",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Hui Boo and the Curse of the Genies",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

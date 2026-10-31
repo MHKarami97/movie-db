@@ -1,0 +1,119 @@
+{
+  "backdropPath": "/qmUOo4HY49Fd8YwEKAUE4xlFygP.jpg",
+  "cast": [
+    {
+      "character": "Self (uncredited)",
+      "id": 5878668,
+      "name": "Tamuna Museridze",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "PL",
+      "name": "Poland"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39177948"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1583382,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ka",
+      "name": "Georgian"
+    }
+  ],
+  "originalTitle": "Stolen Children",
+  "overview": "The film takes us to Georgia, where the shadows of the post-Soviet past still loom large. At its center is investigative reporter Tamuna Museridze, who sets out to unravel a profoundly personal mystery. As she follows the trail of a widespread 1990s scheme in which newborns were taken from Georgian maternity wards and trafficked across the world, she exposes networks, mechanisms, and long-buried secrets along with family tragedies that remain just as painful today. The scale of the practice is staggering: as many as 100,000 children were stolen from hospitals and sold. Among them were Amy and Ano, twin sisters separated at birth who finally found each other in 2024 through social media.",
+  "posterPath": "/7KKBbZ3w2RcusDZtTYE87XKKjWP.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 97,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Stolen Children",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1583382-stolen-children/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1583382-stolen-children/watch?locale=US",
+      "rent": []
+    }
+  }
+}

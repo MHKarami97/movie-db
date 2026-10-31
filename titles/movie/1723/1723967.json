@@ -1,0 +1,188 @@
+{
+  "backdropPath": "/sH85TD7mzEErRQhbodSP1hBkMdw.jpg",
+  "cast": [
+    {
+      "character": "Vivian Graves",
+      "id": 4963198,
+      "name": "Reese Parish",
+      "profilePath": null
+    },
+    {
+      "character": "Ellis Greene",
+      "id": 6319226,
+      "name": "DeVaughn Loman",
+      "profilePath": null
+    },
+    {
+      "character": "Chuck",
+      "id": 5562189,
+      "name": "Sandon Sylva",
+      "profilePath": null
+    },
+    {
+      "character": "Humphrey 'Hump' Alexander",
+      "id": 6319231,
+      "name": "Noah Keckler",
+      "profilePath": null
+    },
+    {
+      "character": "Penny Campos",
+      "id": 5326103,
+      "name": "Chloe Rodriques",
+      "profilePath": null
+    },
+    {
+      "character": "The Leech",
+      "id": 6319233,
+      "name": "Dylan Obrochta",
+      "profilePath": null
+    },
+    {
+      "character": "Reporter Marshall Skies",
+      "id": 3778436,
+      "name": "Casey James Brockway",
+      "profilePath": "/tj2DrvrjYjEq1SYf9tDiFPe6hdb.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 303033,
+      "logoPath": null,
+      "name": "ShoWorld"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2026-07-07",
+  "externalIds": {
+    "imdbId": "tt30516208",
+    "instagramId": "theleachingfilm",
+    "wikidataId": "Q140753051"
+  },
+  "fetchedAt": 1793732202619,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1723967,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "The Leaching",
+  "overview": "After waking up on her father's isolated forest property with amnesia, Vivian must use her limited memory to piece together the nightmarish truth, all the while being tormented by the undead, a giant leech monster, and her \"father.\"",
+  "posterPath": "/8xdLmP9ksISVyNg0kKUlI3DWtQg.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-07",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-07-07"
+    }
+  },
+  "runtime": 75,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Family Can Be So Draining",
+  "theatricalDate": null,
+  "title": "The Leaching",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "mXIQeadgKgo",
+      "name": "THE LEACHING - Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1723967-the-leaching/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

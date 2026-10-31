@@ -1,0 +1,351 @@
+{
+  "backdropPath": "/168dp7vy3kwOehcMpFaLOfB52NV.jpg",
+  "cast": [
+    {
+      "character": "Will",
+      "id": 1167375,
+      "name": "Alex Roe",
+      "profilePath": "/n3EVRACN3XEuOzrWK3TTn791gWo.jpg"
+    },
+    {
+      "character": "Sage",
+      "id": 593202,
+      "name": "Maddie Hasson",
+      "profilePath": "/k4mZCWtBVxcRmC74taxhlpB8gYT.jpg"
+    },
+    {
+      "character": "Diego",
+      "id": 1252323,
+      "name": "Marco Pigossi",
+      "profilePath": "/gWtzmoCeBGSc4PnTw7cNk4Fplve.jpg"
+    },
+    {
+      "character": "Cin",
+      "id": 997379,
+      "name": "Andra Nechita",
+      "profilePath": "/em1s0NBy64ow9LbpBjgrTV6i3pU.jpg"
+    },
+    {
+      "character": "Brett",
+      "id": 4888306,
+      "name": "Clayton Spencer",
+      "profilePath": "/hRmVjpisYzW5jJzB96O9uKNU0MT.jpg"
+    },
+    {
+      "character": "Angie",
+      "id": 4390286,
+      "name": "Eliane Reis",
+      "profilePath": "/s0m5qJ5CNTPitpPYWUkI5de07Go.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 8533,
+      "logoPath": "/5jxaT7zoJKtnwqxniiJ9iJLsJru.png",
+      "name": "LD Entertainment"
+    },
+    {
+      "id": 167986,
+      "logoPath": "/xtZztkvakekloKHF857Hy8ttAs8.png",
+      "name": "Bleecker Street"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-10-24",
+  "externalIds": {
+    "imdbId": "tt26783625",
+    "wikidataId": "Q135443289"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 21,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1330421,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Bone Lake",
+  "overview": "A couple’s romantic vacation at a secluded lakeside estate is upended when they are forced to share the mansion with a mysterious and attractive couple. In this darkly hilarious and seductive horror story, a dream getaway spirals into a nightmarish maze of sex, lies, and manipulation, bringing terrifying secrets to light and triggering a bloody battle for survival.",
+  "posterPath": "/sGo5ti82LlydAZrvcsaj31iPuEI.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-11-24",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-24",
+      "gapDays": 21,
+      "theatricalDate": "2025-10-03"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2025-11-24"
+    },
+    "US": {
+      "digital": "2025-10-24",
+      "premiere": "2024-09-21",
+      "theatrical": "2025-10-03"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "What's your body count?",
+  "theatricalDate": "2025-10-03",
+  "title": "Bone Lake",
+  "translations": {
+    "faTitle": "دریاچه استخوان"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "DRb4sNKq1JA",
+      "name": "Dive in",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "3wFZFcIV-lU",
+      "name": ":30 Blood Soaked",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "B-nI_8i-sDc",
+      "name": "\"Let Yourself\" - Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "3sCuwvDHSVg",
+      "name": "\"About Bone Lake\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "SnxEPzV29d4",
+      "name": "\"It’s a Euphemism\"",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "PEDeXcajLFM",
+      "name": ":15 Memories",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "x7YHZJXsKbc",
+      "name": ":30 Cutdown",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "XcEbRHIJLwo",
+      "name": ":15 Cutdown",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "bpJmFwtvTDY",
+      "name": "\"Sex & Violence\"",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "sghsTQdoaXA",
+      "name": "Rotten Tomatoes",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "hAcxCHBBljM",
+      "name": "Sexy Aesthetic Trailer",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "SOVT2ServZE",
+      "name": "UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "ngbKOkY6eXE",
+      "name": "Official *Censored* First Scene",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "mQy7BuW-R6c",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "oCxFT5Bys_c",
+      "name": "Official Red Band Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 285,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1330421-bone-lake/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1330421-bone-lake/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

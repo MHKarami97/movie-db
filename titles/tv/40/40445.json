@@ -1,0 +1,347 @@
+{
+  "backdropPath": "/8k97HAgStlXkRGtDHq2Oxhey2g0.jpg",
+  "cast": [
+    {
+      "character": "Michael Dörfler",
+      "id": 10240,
+      "name": "Robert Lohr",
+      "profilePath": "/jTOdAEbX2rtRMxMkBF6jGbrKaV7.jpg"
+    },
+    {
+      "character": "Emilie Hofer",
+      "id": 1194043,
+      "name": "Stefanie von Poser",
+      "profilePath": "/fReX2XqM3G4kYqd3wM5ultmq6qI.jpg"
+    },
+    {
+      "character": "Franz Marthaler",
+      "id": 39288,
+      "name": "Heinz Marecek",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 3391,
+      "logoPath": "/t0QBs2fI3mE3HxgoH1n39bYuzNu.png",
+      "name": "ORF"
+    },
+    {
+      "id": 4606,
+      "logoPath": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AT",
+      "name": "Austria"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "2009-11-26",
+  "episodes": {
+    "18": [
+      {
+        "airDate": "2026-10-29",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": "/rkPExCBdwIEGUSCU1NkoGW6czwe.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-05",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": "/6rSc48iLOiaokq2WIcaKwfJxUtK.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-12",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": "/qPCbh8hLiH2HShtc7qpELcnlNaq.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-19",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": "/vZHrd3v62eqH7ZJi2nAb8qGQLyc.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-26",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": "/hmLvvSnI9SKrQyQL5hOl2vMtBih.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-03",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": "/9cGXFXuNiAqSt0v3qMHHmH8R3cg.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-10",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": "/bxjggLscOlCeLDzu8e6CeUFvgMj.jpg",
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt1555868",
+    "wikidataId": "Q1211274"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 40445,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-29",
+    "episodeNumber": 1,
+    "id": 7832344,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 18
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-05",
+    "episodeNumber": 2,
+    "id": 7846271,
+    "name": "Episode 2",
+    "overview": "",
+    "seasonNumber": 18
+  },
+  "originalTitle": "Die Bergretter",
+  "overview": "Die Bergwacht is a German mountain rescue television series, broadcast since 26 November, 2009 on ZDF.",
+  "posterPath": "/uCztKdNXcbXymAgHdBLsuask9yF.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2009-11-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2009-11-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2009-11-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2009-11-26",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2009-11-26"
+    },
+    "CN": {
+      "tv": "2009-11-26"
+    },
+    "GB": {
+      "tv": "2009-11-26"
+    },
+    "US": {
+      "tv": "2009-11-26"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2022-11-17",
+      "episodeCount": 2,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2009-11-26",
+      "episodeCount": 4,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/b0g2wCCOWIjztIHkTc4KKksUBbI.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2010-10-07",
+      "episodeCount": 12,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/lsXPn3pjPp8XDAAJYoaMQ0UqaWY.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2012-01-12",
+      "episodeCount": 5,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/udcdIru0hVl7mYzSt9ebitCB4rX.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2013-01-03",
+      "episodeCount": 5,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/lxedZqbXzcXH0WRC3CjWwiDEzW3.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2014-03-13",
+      "episodeCount": 6,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/zuT1l7Iy4TwEaMAAxoA74VNGFSo.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2014-11-06",
+      "episodeCount": 6,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/jYaN4sPXbZJ9Hbe05wGZC4RRtXI.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2015-11-05",
+      "episodeCount": 6,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/qqHktCxtLNEVSZz6pEPTmhfQCCN.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2016-11-17",
+      "episodeCount": 6,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/2DZbmfvcB4n5VLpzB8vPiUZN5mD.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2017-11-09",
+      "episodeCount": 6,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/yAcl55ZrHZMqdym5VnkGy1AJ8FC.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2018-11-15",
+      "episodeCount": 7,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/utOcLgpm3jAJOWqv1GKzDbjGLfp.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2019-11-07",
+      "episodeCount": 7,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": "/Ah7f7j286ggIGyA3xXdgzIJ0tye.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2020-11-12",
+      "episodeCount": 5,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": "/rQrai1Y2W5ACcQm8asgEBToaErN.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2021-11-18",
+      "episodeCount": 9,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": "/if9ObuQhvnNeOu4EOg3JjRIYujm.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2023-03-02",
+      "episodeCount": 6,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": "/t8yaCAqqSYpBDduRDU5KE0X3GVQ.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2023-11-16",
+      "episodeCount": 6,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": "/kNurq7vHhnnMyBPXWDhlrM3dAMc.jpg",
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2024-11-07",
+      "episodeCount": 5,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": "/gG5crAN4SkX4forg9Q9BcjlMFqG.jpg",
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2025-10-30",
+      "episodeCount": 7,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": "/zTkBQe3e79jbpk8dLA6VkXLXbyW.jpg",
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2026-10-29",
+      "episodeCount": 7,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Die Bergretter",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 11,
+  "watchProviders": {}
+}

@@ -1,0 +1,205 @@
+{
+  "backdropPath": "/5MaWBfAxdlbsqDpq8mjCBNVoLM3.jpg",
+  "cast": [
+    {
+      "character": "Shenba",
+      "id": 2243286,
+      "name": "Priyanka Arul Mohan",
+      "profilePath": "/rvEEKFnjJqJQuEvfPPeDkLkaAna.jpg"
+    },
+    {
+      "character": "Mani",
+      "id": 3356248,
+      "name": "Rishikanth",
+      "profilePath": "/7ThlIFeocFWWYa0boExL6NONR00.jpg"
+    },
+    {
+      "character": "Yeon-Ok",
+      "id": 1661283,
+      "name": "Park Hye-jin",
+      "profilePath": "/5cM51cww0P6CVNCRt3BQrGERBfc.jpg"
+    },
+    {
+      "character": "Heo Jun-jae",
+      "id": 6075219,
+      "name": "Baek Si-hun",
+      "profilePath": "/tPzCli0VfXbEwnRLGwpbfvVn2KN.jpg"
+    },
+    {
+      "character": "Min-seok",
+      "id": 6075224,
+      "name": "Jang Jae-hyeon",
+      "profilePath": "/tJaIGuPuWlJk1Tub1Xt06fmdigR.jpg"
+    },
+    {
+      "character": "Han-sol",
+      "id": 6075221,
+      "name": "Kim So-ri",
+      "profilePath": "/kwLfST2WIoWE8CTn5S5EWJiZuYo.jpg"
+    },
+    {
+      "character": "Sung-hun",
+      "id": 6075225,
+      "name": "Jo Ha-ram",
+      "profilePath": "/q6VllQni6IVoWW5BFpK7GKQG6XX.jpg"
+    },
+    {
+      "character": "Woo-jin",
+      "id": 6075222,
+      "name": "Kim Rok",
+      "profilePath": null
+    },
+    {
+      "character": "Shenba's Father",
+      "id": 3522352,
+      "name": "Thirunavukkarasu",
+      "profilePath": "/k1Eo5yLekELwnwVR1oAE946dnLn.jpg"
+    },
+    {
+      "character": "Saamy",
+      "id": 2668204,
+      "name": "Jenson Dhivakar",
+      "profilePath": "/4QAdVaCP4l1BA39Fc35WwH7mv4T.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 120409,
+      "logoPath": null,
+      "name": "Rise East Entertainments Pvt Ltd"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2026-03-12",
+  "externalIds": {
+    "imdbId": "tt38674977",
+    "wikidataId": "Q138653623"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1561687,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ko",
+      "name": "Korean"
+    },
+    {
+      "code": "ta",
+      "name": "Tamil"
+    }
+  ],
+  "originalTitle": "மேட் இன் கொரியா",
+  "overview": "A woman from a small town in Tamil Nadu moves to South Korea — a place she always dreamed of — but struggles to find her footing in a foreign land.",
+  "posterPath": "/n6gCKjagOFsU4arFngUq2QqR1jv.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-03-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-03-12"
+    },
+    "US": {
+      "digital": "2026-03-12"
+    }
+  },
+  "runtime": 113,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Made in Korea",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 46,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1561687/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1561687/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1561687/watch?locale=US",
+      "rent": []
+    }
+  }
+}

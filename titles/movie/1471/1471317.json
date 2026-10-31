@@ -1,0 +1,228 @@
+{
+  "backdropPath": "/fEl0kNcRnhSpJTptb2yuVBYkPja.jpg",
+  "cast": [
+    {
+      "character": "Sophie Park / Joo Hyun",
+      "id": 3390795,
+      "name": "Amy Keum",
+      "profilePath": "/llcK2sM14D8CjTgvKPZF3FgCK6R.jpg"
+    },
+    {
+      "character": "Jun / Anderson",
+      "id": 2284943,
+      "name": "Kevin Woo",
+      "profilePath": "/2SdDhOT2Kzvbs5BULRBayKEiK1w.jpg"
+    },
+    {
+      "character": "Grandma",
+      "id": 2306320,
+      "name": "Vana Kim",
+      "profilePath": "/p3gbfDTnhleyUlfdGdF7Ex2uexi.jpg"
+    },
+    {
+      "character": "Gabriel Park",
+      "id": 1456481,
+      "name": "Joseph Lim Kim",
+      "profilePath": null
+    },
+    {
+      "character": "Kelly Park",
+      "id": 1968282,
+      "name": "Eliza Shin",
+      "profilePath": "/vQcZ06dT6TeMrkig5ZSxlnVXuG9.jpg"
+    },
+    {
+      "character": "Ari Han",
+      "id": 3594504,
+      "name": "Alice Bang",
+      "profilePath": null
+    },
+    {
+      "character": "Ji-Won Park / Young Hannah",
+      "id": 5398783,
+      "name": "Michelle Sun",
+      "profilePath": null
+    },
+    {
+      "character": "Fiona Paek / Yoon-Suh",
+      "id": 4244133,
+      "name": "April Valentine",
+      "profilePath": null
+    },
+    {
+      "character": "Angela Kim",
+      "id": 5138540,
+      "name": "Jas Wang",
+      "profilePath": "/4nCV6tMrROLSHBPiprX84iJVKKQ.jpg"
+    },
+    {
+      "character": "Brian Koh",
+      "id": 5872260,
+      "name": "Andy Han",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2026-01-09",
+  "externalIds": {
+    "imdbId": "tt32213976"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1471317,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "originalTitle": "Death Name",
+  "overview": "A young Korean American woman yearns to learn more about her heritage, not knowing the further she digs, the more she reawakens a deadly family curse.",
+  "posterPath": "/uhyhWRzgCSiVfY0Ighgz9ujP85T.jpg",
+  "rating": 4.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-01-09",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-01-09"
+    }
+  },
+  "runtime": 82,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Death Name",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "88AGf3FwvPs",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 386,
+          "logoPath": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+          "name": "Peacock Premium"
+        },
+        {
+          "id": 387,
+          "logoPath": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+          "name": "Peacock Premium Plus"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1471317-death-name/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

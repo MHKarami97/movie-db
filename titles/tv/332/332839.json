@@ -1,0 +1,243 @@
+{
+  "backdropPath": "/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
+  "cast": [
+    {
+      "character": "Anna Bersz",
+      "id": 105562,
+      "name": "Agnieszka Grochowska",
+      "profilePath": "/9XBjnqR2PWw4KdcyTRaTZCFllxu.jpg"
+    },
+    {
+      "character": "Agnieszka Grabska",
+      "id": 1527552,
+      "name": "Agnieszka Żulewska",
+      "profilePath": "/4rvcJMkl1Test5C6DFFpqJY2CrJ.jpg"
+    },
+    {
+      "character": "Mariusz Trynkiewicz",
+      "id": 2458673,
+      "name": "Michał Pawlik",
+      "profilePath": "/loDhKENuDQ6VCijcWVq9WUBvuX9.jpg"
+    },
+    {
+      "character": "",
+      "id": 82313,
+      "name": "Andrzej Chyra",
+      "profilePath": "/md1w26RncjcM3KHTTDnYtgC1rme.jpg"
+    },
+    {
+      "character": "",
+      "id": 46244,
+      "name": "Kamilla Baar",
+      "profilePath": "/eTQ5AazCtryaBYZBCIuaATRa9l4.jpg"
+    },
+    {
+      "character": "",
+      "id": 1650372,
+      "name": "Michalina Łabacz",
+      "profilePath": "/960l2Fl6aH3KYOGAQN2ZgCVMz5m.jpg"
+    },
+    {
+      "character": "",
+      "id": 1573859,
+      "name": "Jacek Beler",
+      "profilePath": "/rKGVdNT83XNUNg4r28AMFnk5H4k.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 308860,
+      "logoPath": null,
+      "name": "Entrego"
+    }
+  ],
+  "countries": [
+    {
+      "code": "PL",
+      "name": "Poland"
+    }
+  ],
+  "digitalDate": "2026-11-18",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-11-18",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "The prospect of Mariusz Trynkiewicz's release in 2014 stirs national anger. Prison director and former investigator Anna faces the case once again.",
+        "stillPath": "/bN34GYLGTTH0grQUERNPHpfiVab.jpg",
+        "voteAverage": 8.7
+      },
+      {
+        "airDate": "2026-11-18",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "In 1988, Anna faces pressure to find the killer, but a new lead gives insight into his past. In 2014, Agnieszka reevaluated his psychiatric condition.",
+        "stillPath": "/90TKW7ATuezwnbUXvUUvlLcBWY4.jpg",
+        "voteAverage": 9
+      },
+      {
+        "airDate": "2026-11-18",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "Trynkiewicz confesses to a part of his crime, and Agnieszka faces pressure around her diagnosis. Decades later, a new law could change everything.",
+        "stillPath": "/vMPGPkuYA4oYAtubHd7KhuHNnGc.jpg",
+        "voteAverage": 8.5
+      },
+      {
+        "airDate": "2026-11-18",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "In 1988, Anna and Agnieszka fall out over the potential diagnosis. In 2014, Agnieszka turns to a lawyer to save her profession's integrity.",
+        "stillPath": "/fkAx5hLm6rZjT5Oj4DB5jQ8CcbX.jpg",
+        "voteAverage": 8.5
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt44079238"
+  },
+  "fetchedAt": 1795151878286,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 332839,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pl",
+      "name": "Polish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-11-18",
+    "episodeNumber": 4,
+    "id": 7730286,
+    "name": "Episode 4",
+    "overview": "In 1988, Anna and Agnieszka fall out over the potential diagnosis. In 2014, Agnieszka turns to a lawyer to save her profession's integrity.",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Prawo bestii",
+  "overview": "When the case of a child serial killer resurfaces after 25 years as an unresolved legal and social problem, two former friends are forced to confront the choices that broke their friendship and shaped their lives.",
+  "posterPath": "/9anIbazZJUteF9FLvdSsISJcNNq.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-11-18",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-11-18",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-18",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-18",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-11-18"
+    },
+    "CN": {
+      "tv": "2026-11-18"
+    },
+    "GB": {
+      "tv": "2026-11-18"
+    },
+    "US": {
+      "tv": "2026-11-18"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-11-18",
+      "episodeCount": 4,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/KnhUSXgKqiG96mf4GofisAhhS2.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Law of Beasts",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 11,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/332839-prawo-bestii/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/332839-prawo-bestii/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/332839-prawo-bestii/watch?locale=US",
+      "rent": []
+    }
+  }
+}

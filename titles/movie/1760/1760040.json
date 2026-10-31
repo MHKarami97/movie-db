@@ -1,0 +1,131 @@
+{
+  "backdropPath": "/dFo3Eh0UCsRsdS0N4nOCvmntaDu.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 67302,
+      "logoPath": "/3xfDii9VwPHRj9nVZhJAPXRA1hN.png",
+      "name": "Arrow Media"
+    },
+    {
+      "id": 138115,
+      "logoPath": "/k84dhoDEu4vxaoOvuAzQU4SsqCv.png",
+      "name": "Rock’n Robin Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt40431884"
+  },
+  "fetchedAt": 1793554197690,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1760040,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "102 Minutes: Inside the Towers",
+  "overview": "Offers perspectives from survivors of the World Trade Center, timed to the 25th anniversary of the 9/11 attacks.",
+  "posterPath": "/z17OwhLVB3oMiFZ21Op4fM2QIUP.jpg",
+  "rating": 8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2026-09-11"
+    }
+  },
+  "runtime": 102,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "102 Minutes: Inside the Towers",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 155,
+          "logoPath": "/4cHhgsNAxu15DEut0ZBmc8lK0Zt.png",
+          "name": "History"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1760040-102-minutes-inside-the-towers/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

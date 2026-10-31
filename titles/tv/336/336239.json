@@ -1,0 +1,107 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 305212,
+      "logoPath": null,
+      "name": "9Line Production"
+    },
+    {
+      "id": 311866,
+      "logoPath": null,
+      "name": "not-a-virus.exe studio's"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2027-04-07",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-04-07",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 336239,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-04-07",
+    "episodeNumber": 1,
+    "id": 7842592,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Компашка",
+  "overview": "",
+  "posterPath": "/u4Lkijd8bHeCa7LpPYxI6gICEH9.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-04-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-04-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-04-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-04-07",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-04-07"
+    },
+    "CN": {
+      "tv": "2027-04-07"
+    },
+    "GB": {
+      "tv": "2027-04-07"
+    },
+    "US": {
+      "tv": "2027-04-07"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-04-07",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Компашка",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

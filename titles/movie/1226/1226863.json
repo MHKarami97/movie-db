@@ -1,0 +1,594 @@
+{
+  "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+  "cast": [
+    {
+      "character": "Mario (voice)",
+      "id": 73457,
+      "name": "Chris Pratt",
+      "profilePath": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+    },
+    {
+      "character": "Luigi (voice)",
+      "id": 95101,
+      "name": "Charlie Day",
+      "profilePath": "/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg"
+    },
+    {
+      "character": "Princess Peach (voice)",
+      "id": 1397778,
+      "name": "Anya Taylor-Joy",
+      "profilePath": "/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
+    },
+    {
+      "character": "Bowser (voice)",
+      "id": 70851,
+      "name": "Jack Black",
+      "profilePath": "/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
+    },
+    {
+      "character": "Toad (voice)",
+      "id": 298410,
+      "name": "Keegan-Michael Key",
+      "profilePath": "/xmdzYXP9j87a43FSiL138nLesuS.jpg"
+    },
+    {
+      "character": "Bowser Junior (voice)",
+      "id": 227564,
+      "name": "Benny Safdie",
+      "profilePath": "/u10A5DpUYRB1zMF7YoGYcyvhois.jpg"
+    },
+    {
+      "character": "Yoshi (voice)",
+      "id": 119589,
+      "name": "Donald Glover",
+      "profilePath": "/jqVkQfeeEmdga1G0jpBwwXXwwSK.jpg"
+    },
+    {
+      "character": "Fox McCloud (voice)",
+      "id": 83271,
+      "name": "Glen Powell",
+      "profilePath": "/7eG0GB1GY3RXI7Tg3GoKrLO9mPW.jpg"
+    },
+    {
+      "character": "Rosalina (voice)",
+      "id": 60073,
+      "name": "Brie Larson",
+      "profilePath": "/xSGvMwNNJcEQvVcjiIUTyxyMfkZ.jpg"
+    },
+    {
+      "character": "Wart (voice)",
+      "id": 40481,
+      "name": "Luis Guzmán",
+      "profilePath": "/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 6704,
+      "logoPath": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+      "name": "Illumination"
+    },
+    {
+      "id": 33,
+      "logoPath": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures"
+    },
+    {
+      "id": 12288,
+      "logoPath": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+      "name": "Nintendo"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-05-19",
+  "externalIds": {
+    "facebookId": "supermariomovie",
+    "imdbId": "tt28650488",
+    "instagramId": "supermariomovie",
+    "twitterId": "supermariomovie",
+    "wikidataId": "Q124806421"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 48,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "id": 1226863,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Super Mario Galaxy Movie",
+  "overview": "ماریو این بار از قلمرو آشنای قارچ‌ها فراتر می‌رود و راهی کهکشان‌ها می‌شود. او در میان دنیاهای کیهانی شگفت‌انگیز، با چالش‌ها و دشمنان تازه‌ای روبه‌رو شده و برای نجات جهان، سفری پرخطر و تماشایی را تجربه می‌کند.",
+  "posterPath": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+  "rating": 8.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-01"
+    },
+    "CN": {
+      "digitalDate": "2026-07-10",
+      "gapDays": 98,
+      "theatricalDate": "2026-04-03"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-01"
+    },
+    "US": {
+      "digitalDate": "2026-05-19",
+      "gapDays": 48,
+      "theatricalDate": "2026-04-01"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-04-01"
+    },
+    "CN": {
+      "digital": "2026-07-10",
+      "theatrical": "2026-04-03"
+    },
+    "GB": {
+      "theatrical": "2026-04-01"
+    },
+    "US": {
+      "digital": "2026-05-19",
+      "physical": "2026-06-16",
+      "theatrical": "2026-04-01"
+    }
+  },
+  "runtime": 98,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The galaxy awaits.",
+  "theatricalDate": "2026-04-01",
+  "title": "The Super Mario Galaxy Movie",
+  "translations": {
+    "faOverview": "ماریو این بار از قلمرو آشنای قارچ‌ها فراتر می‌رود و راهی کهکشان‌ها می‌شود. او در میان دنیاهای کیهانی شگفت‌انگیز، با چالش‌ها و دشمنان تازه‌ای روبه‌رو شده و برای نجات جهان، سفری پرخطر و تماشایی را تجربه می‌کند.",
+    "faTitle": "سوپر ماریو کهکشان"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "nGxzDrZ-W0s",
+      "name": "The Making Of Mario - Bonus Feature",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "w0DVJGwEdBM",
+      "name": "Peach's New Adventure - Bonus Feature",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "RjO8kZSsjDo",
+      "name": "The Animation Magic Behind The Movie - Bonus Feature",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "AmYxf_OG_Ho",
+      "name": "High Action Moments - Bonus Feature",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "xc5_uk_5MHw",
+      "name": "Bowser's Villainous Family - Bonus Feature",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "54YguCcps10",
+      "name": "New Power Ups - Bonus Feature",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "wFQirtwwTdU",
+      "name": "What if Toad was British? Keegan-Michael Key on Voicing Toad in The Super Mario Galaxy Movie",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "-LLhj6QYQi8",
+      "name": "Watch at Home",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "RjqUFNywK14",
+      "name": "Watch At Home",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "2JuEmP6uHqs",
+      "name": "Watch at Home today",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "jMmOeX8xYjo",
+      "name": "Princess Peach's New Adventure - Extended Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "35kFpZ3Y10Q",
+      "name": "Watch at Home May 19th",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "PPY0pe5yYt4",
+      "name": "does that mean the egg became IMAX-sized too?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "QDpgLIvYKhU",
+      "name": "The Galaxy is taking over the world!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "fm3oeAGbcd4",
+      "name": "Sheesh Bowser Jr. I was just trying to buy tickets!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "or_e7WwdWt4",
+      "name": "Yoshi's a star!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Ba8C3QSFK1U",
+      "name": "Big galaxy, big screen",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "YB-v6xXFER8",
+      "name": "Mystery Box Questions",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "gWfOfyb_6Zs",
+      "name": "Here we go!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "nSrlhT4Yyx4",
+      "name": "They're ready for their close up.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "KArll9s11c0",
+      "name": "Check out Bowser's totally unbiased recap of the first film for THE SUPER MARIO GALAXY MOVIE.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Q8HuSVirI-Y",
+      "name": "Jump into all new worlds in THE SUPER MARIO GALAXY MOVIE, only in cinemas April 1.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "kcd8j4M9fBY",
+      "name": "An unforgettable adventure awaits in IMAX",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "PnTszHAyJws",
+      "name": "Brie Larson voices Rosalina.",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "ptr8JFnmjpI",
+      "name": "World Map",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "J4JDEd16ijA",
+      "name": "Rosalina",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "8pbbtFakrhk",
+      "name": "15 GalaxyEventCutdown",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "cA2R_136Q3I",
+      "name": "When Jack Black says “Koopas”… you listen!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "s5PfuJR3rUI",
+      "name": "Yoshi Saves Baby Mario & Luigi from a DINOSAUR",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "Zv0JLvTFNyw",
+      "name": "Join Princess Peach and Toad on a cosmic adventure",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "SzMMY1NMkPg",
+      "name": "A New Star has Arrived... ✨ROSALINA✨",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "rvmqo89OPvg",
+      "name": "Say hello to Yoshi… and goodbye to Toad's candy apple!",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "En5QZmL5R1s",
+      "name": "Final Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "3046Plw0KIw",
+      "name": "Intense",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "H0zZo3XqMNQ",
+      "name": "Heroes",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "mt6TxIPw11M",
+      "name": "Roar",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9xQ1EmUPiVk",
+      "name": "Level Up",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "RR2nFS042dg",
+      "name": "Yoshi Chomps Back",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "SA9ohTuGl4Q",
+      "name": "Yoshi First Look",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "jw6vtgE76gw",
+      "name": "Mario & Luigi vs. Bowser Jr.",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "-91VJV8fgBs",
+      "name": "Bowser Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "jPBngl0o3P8",
+      "name": "Bowser Jr. Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "9cOfYyx6fKE",
+      "name": "Benny Safdie Voices Bowser Jr.",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "ypyJAZeoT68",
+      "name": "Brie Larson Voices Rosalina",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "FdL2GorGdKc",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "c1mTbYB6EOM",
+      "name": "Official Title Announcement",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "o9b7BJprUx4",
+      "name": "New Animated Film Announcement",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 3923,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1226863-the-super-mario-galaxy-movie/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 386,
+          "logoPath": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+          "name": "Peacock Premium"
+        },
+        {
+          "id": 387,
+          "logoPath": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+          "name": "Peacock Premium Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1226863-the-super-mario-galaxy-movie/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

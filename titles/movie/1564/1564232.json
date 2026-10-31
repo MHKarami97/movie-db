@@ -1,0 +1,126 @@
+{
+  "backdropPath": "/3GoZeiFgbG17rDdF1ZXevYLbbz3.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 299743,
+      "name": "Sebastian Maniscalco",
+      "profilePath": "/bvJQGVOI8fJ9Y4eAvYqoQcOAbHZ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 223531,
+      "logoPath": "/kWuMbK7Nfk67O1TsjXD3iSperId.png",
+      "name": "Done+Dusted"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-11-21",
+  "externalIds": {
+    "imdbId": "tt34253990",
+    "wikidataId": "Q136955354"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1564232,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Sebastian Maniscalco: It Ain't Right",
+  "overview": "Filmed live at the legendary United Center arena in Chicago, Sebastian Maniscalco goes all in on family chaos, aging, and the little things that drive us all nuts—with his one-of-a-kind comedic bite.",
+  "posterPath": "/AmbvVjDFXR9ATykIA4jXe9rtkL6.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-11-21",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-21",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2025-11-21"
+    },
+    "US": {
+      "digital": "2025-11-21"
+    }
+  },
+  "runtime": 57,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The biggest set in comedy.",
+  "theatricalDate": null,
+  "title": "Sebastian Maniscalco: It Ain't Right",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "BJfIZXt8Q2Y",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 11,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1564232-sebastian-maniscalco-it-ain-t-right/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1564232-sebastian-maniscalco-it-ain-t-right/watch?locale=US",
+      "rent": []
+    }
+  }
+}

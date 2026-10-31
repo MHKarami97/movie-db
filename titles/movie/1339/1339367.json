@@ -1,0 +1,170 @@
+{
+  "backdropPath": "/dJF3O15RrRD2AjXCf7noOx9kXGO.jpg",
+  "cast": [
+    {
+      "character": "Santiago Pallares",
+      "id": 1171461,
+      "name": "Sergio Prina",
+      "profilePath": "/iC7YLuMTKmHBQ9diXwsbEOzRDSj.jpg"
+    },
+    {
+      "character": "Rocio",
+      "id": 1086355,
+      "name": "Pilar Gamboa",
+      "profilePath": "/nBhqzOm0SfEskzL3hacEQWhZd5b.jpg"
+    },
+    {
+      "character": "Oficinita Juzgado",
+      "id": 54190,
+      "name": "César Troncoso",
+      "profilePath": "/eUbQSEPu2qrIAQ2UMzTXN1Ofq8r.jpg"
+    },
+    {
+      "character": "Americo",
+      "id": 4906301,
+      "name": "Mandrake Wolf",
+      "profilePath": null
+    },
+    {
+      "character": "German",
+      "id": 548835,
+      "name": "Néstor Guzzini",
+      "profilePath": "/sIxuUnMnHGG0Z0ohQYfF3AmI7nw.jpg"
+    },
+    {
+      "character": "Policia Argentino 1",
+      "id": 1489621,
+      "name": "Daniel Elías",
+      "profilePath": "/oRl1rOrvnMVMccRZNwBEe1PeCao.jpg"
+    },
+    {
+      "character": "Operario Fabrica Quesos 1",
+      "id": 3451017,
+      "name": "Fernando Amaral",
+      "profilePath": "/uzFAZfAj1uwPKcT4MPXbrcnCymC.jpg"
+    },
+    {
+      "character": "Barman Tropicana",
+      "id": 1117847,
+      "name": "Ezequiel Díaz",
+      "profilePath": "/xABb3qvk74FLYyUma6Zm61nYkWT.jpg"
+    },
+    {
+      "character": "Policia Argentino 2",
+      "id": 50928,
+      "name": "Germán de Silva",
+      "profilePath": "/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg"
+    },
+    {
+      "character": "Pasajero Omnibus",
+      "id": 5393622,
+      "name": "Ramiro Perdomo",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 72538,
+      "logoPath": "/aSei2kIiR1LXNuyx6uy2KY63KKh.png",
+      "name": "Cordón Films"
+    },
+    {
+      "id": 107826,
+      "logoPath": "/a0ujPI9vDmg41Oxvmmodv0UcDLP.png",
+      "name": "Wanka Cine"
+    },
+    {
+      "id": 6281,
+      "logoPath": "/k23Mf2IzRlphE6drmyXtHOxCaRT.png",
+      "name": "Nephilim Producciones"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    {
+      "code": "UY",
+      "name": "Uruguay"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36980776",
+    "wikidataId": "Q136506844"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1339367,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Un cabo suelto",
+  "overview": "Santiago, an Argentine police corporal, crosses the border into Uruguay fleeing from other police officers who are looking for him. Using his uniform, he inspects regional food stalls, sampling dairy products and cold cuts to survive, while trying to go unnoticed among the locals. Without money or lodging, but with empathy and cunning, he begins to plot a new life, receiving help from local characters he meets along the way and even finding what he believes to be the love of his life.",
+  "posterPath": "/d7UZp9QKmAsG7fUqvRdLf4tVe5z.jpg",
+  "rating": 6.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-06-12"
+    }
+  },
+  "runtime": 95,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "A Loose End",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "-jqV31ol1Cs",
+      "name": "Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {}
+}

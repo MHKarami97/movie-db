@@ -1,0 +1,183 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Gregory",
+      "id": 6546005,
+      "name": "Renan Arcanjo",
+      "profilePath": "/ohNeukpQN2QXMF8Sk5NbsaDYpZe.jpg"
+    },
+    {
+      "character": "William Bradley afton",
+      "id": 6546016,
+      "name": "William",
+      "profilePath": "/zsvTNDJ2zChopnQSQnH9XZ6xjmk.jpg"
+    },
+    {
+      "character": "Elizabeth Afton",
+      "id": 6546019,
+      "name": "Isabela",
+      "profilePath": null
+    },
+    {
+      "character": "Rainbow",
+      "id": 6546023,
+      "name": "Arthur Pereira",
+      "profilePath": "/gP26y6KOXeVhrNOxsfOkAmeyHWa.jpg"
+    },
+    {
+      "character": "Cassidy",
+      "id": 6546042,
+      "name": "Yumi",
+      "profilePath": null
+    },
+    {
+      "character": "Charlote",
+      "id": 6546044,
+      "name": "Samilles",
+      "profilePath": null
+    },
+    {
+      "character": "Jeremy",
+      "id": 6546045,
+      "name": "Brayan Henrique",
+      "profilePath": null
+    },
+    {
+      "character": "Cassie",
+      "id": 6546047,
+      "name": "Isabella",
+      "profilePath": null
+    },
+    {
+      "character": "Oswald",
+      "id": 6546050,
+      "name": "Oswald",
+      "profilePath": null
+    },
+    {
+      "character": "Henry Emily",
+      "id": 6546054,
+      "name": "Henry Emily",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2027-08-19",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-08-19",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 338379,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italian"
+    },
+    {
+      "code": "ja",
+      "name": "Japanese"
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-08-19",
+    "episodeNumber": 1,
+    "id": 7946428,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "FnaBlox",
+  "overview": "",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-08-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-08-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-08-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-08-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-08-19"
+    },
+    "CN": {
+      "tv": "2027-08-19"
+    },
+    "GB": {
+      "tv": "2027-08-19"
+    },
+    "US": {
+      "tv": "2027-08-19"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-08-19",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Pilot",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "FnaBlox",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

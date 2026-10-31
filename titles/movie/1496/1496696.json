@@ -1,0 +1,189 @@
+{
+  "backdropPath": "/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
+  "cast": [
+    {
+      "character": "Russell",
+      "id": 1885228,
+      "name": "Daniel Doheny",
+      "profilePath": "/wRmWiPx9X2IozM0EZNeOHs2VT18.jpg"
+    },
+    {
+      "character": "Patti",
+      "id": 1219312,
+      "name": "Dot-Marie Jones",
+      "profilePath": "/p6Lg9p6Y9IGlYjv2VEaGb4dvoWm.jpg"
+    },
+    {
+      "character": "Ainsley",
+      "id": 1475808,
+      "name": "Maddie Phillips",
+      "profilePath": "/uuQBuEdkhgDSJ2wnE5N4tyryl4t.jpg"
+    },
+    {
+      "character": "Haley",
+      "id": 1301092,
+      "name": "Tanaya Beatty",
+      "profilePath": "/nQQd9rpMxYM2MshYlOSV0PfffPP.jpg"
+    },
+    {
+      "character": "Cosette",
+      "id": 2217296,
+      "name": "Paige McGarvin",
+      "profilePath": "/uje6RhaW8fengmdf8WEWYvT5sH7.jpg"
+    },
+    {
+      "character": "Angela",
+      "id": 152823,
+      "name": "Carmen Moore",
+      "profilePath": "/cPUNFyRPEbgNpBfEVYKWNZtoGML.jpg"
+    },
+    {
+      "character": "Yara",
+      "id": 1988801,
+      "name": "Lillian Doucet-Roche",
+      "profilePath": "/nspOpe1oXYpqSjEFd6Gebe5UKAl.jpg"
+    },
+    {
+      "character": "Cindy",
+      "id": 100878,
+      "name": "Rochelle Greenwood",
+      "profilePath": "/1AsN5UFwBRibQJqKNhczDQlV7M9.jpg"
+    },
+    {
+      "character": "Celeste",
+      "id": 2145844,
+      "name": "Charlotte Kavanagh",
+      "profilePath": "/4MKnhkgRWqziQZOmLiuE5eFmQrP.jpg"
+    },
+    {
+      "character": "Officer Morgan",
+      "id": 1874357,
+      "name": "John Murphy",
+      "profilePath": "/kRizKtn3RWdiKG9NoFynid62bLg.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 229487,
+      "logoPath": "/vF5HUjsJU0jFtlhpUdcodrECXBk.png",
+      "name": "Rabbits Black"
+    },
+    {
+      "id": 84308,
+      "logoPath": null,
+      "name": "Hadron Films"
+    },
+    {
+      "id": 145463,
+      "logoPath": null,
+      "name": "Mitchell & Start Films"
+    },
+    {
+      "id": 228504,
+      "logoPath": null,
+      "name": "Four J Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt9213874",
+    "wikidataId": "Q139547632"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1496696,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Breeder",
+  "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there’s a catch.",
+  "posterPath": "/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
+  "rating": 6.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-28"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-06-06",
+      "theatricalLimited": "2026-10-28"
+    }
+  },
+  "runtime": 97,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Perfection has its price.",
+  "theatricalDate": "2026-10-28",
+  "title": "Breeder",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "6AdcpfSy84M",
+      "name": "Official Clip | Eating Dinner in the Dog House",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "9MeILB0M274",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 2,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1496696-breeder/watch?locale=US",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ]
+    }
+  }
+}

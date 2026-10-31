@@ -1,0 +1,192 @@
+{
+  "backdropPath": "/hcPbtkReett3egrOnQRII2PqqvK.jpg",
+  "cast": [
+    {
+      "character": "Veneno",
+      "id": 5655910,
+      "name": "Victor Prieto Simental",
+      "profilePath": "/wqeYSXEZTwDGnDETYd7piirFgEt.jpg"
+    },
+    {
+      "character": "El Muñeco",
+      "id": 2361147,
+      "name": "Osvaldo Sánchez",
+      "profilePath": "/uvVUmTr79lQXklNld8JhHcvjCMC.jpg"
+    },
+    {
+      "character": "El Eulas",
+      "id": 6240807,
+      "name": "Mariano López Sosa",
+      "profilePath": null
+    },
+    {
+      "character": "El Pelón",
+      "id": 6240808,
+      "name": "Héctor Cárdenas",
+      "profilePath": null
+    },
+    {
+      "character": "Lupe",
+      "id": 6240809,
+      "name": "Obdulia Morales",
+      "profilePath": null
+    },
+    {
+      "character": "Licha",
+      "id": 6240810,
+      "name": "Elizabeth Infante",
+      "profilePath": null
+    },
+    {
+      "character": "Hombre Mayor",
+      "id": 6240811,
+      "name": "Victor Manuel Aguirre",
+      "profilePath": null
+    },
+    {
+      "character": "Omar",
+      "id": 6240812,
+      "name": "Giovanni Ontiveros",
+      "profilePath": null
+    },
+    {
+      "character": "Padre de Veneno",
+      "id": 6240813,
+      "name": "Francisco Navar Carrera",
+      "profilePath": null
+    },
+    {
+      "character": "Veneno Niño",
+      "id": 6240814,
+      "name": "Neydan Ricardo",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 14707,
+      "logoPath": "/lXULDRRWb50uPhp9HVWLkoqp2w5.png",
+      "name": "Animal de Luz Films"
+    },
+    {
+      "id": 271280,
+      "logoPath": null,
+      "name": "Producciones Año Bisiesto"
+    },
+    {
+      "id": 271281,
+      "logoPath": "/7IrnJxvutXn2YMwtmcMcy3Ald6x.png",
+      "name": "The Maestros"
+    },
+    {
+      "id": 103832,
+      "logoPath": "/AhbCrTCxKtl2706mPPLHRdQ1yQ6.png",
+      "name": "La Corriente del Golfo"
+    },
+    {
+      "id": 84645,
+      "logoPath": "/chCohwvNl0TZEGaxI4UGZN4NK5L.png",
+      "name": "Terminal"
+    },
+    {
+      "id": 299,
+      "logoPath": "/elssmtHcogGtF8Gxokh9phZvLKi.png",
+      "name": "Instituto Mexicano de Cinematografía"
+    },
+    {
+      "id": 89127,
+      "logoPath": "/bCjod1AL15DQgCQu3TFe75nO1oW.png",
+      "name": "Eficine"
+    }
+  ],
+  "countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37660509",
+    "wikidataId": "Q135686753"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1517123,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "En el camino",
+  "overview": "Veneno, a rebellious young drifter, frequents roadside diners where he sleeps with truck drivers. Urgently needing a ride, he meets Muñeco, a hard-edged driver who keeps to himself. He convinces Muñeco to take him deep into the hyper-masculine world of long-haul trucking across the north of Mexico. As they travel together and an unexpected intimacy builds between them, shadows from Veneno’s past resurface, putting both their lives at risk.",
+  "posterPath": "/u169hcLX3OsM9eRs4wtIzi0ymGZ.jpg",
+  "rating": 8.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-28"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatricalLimited": "2026-10-28"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-28",
+  "title": "On the Road",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "vDFkdSdYiEs",
+      "name": "On The Road | Official US Trailer UHD | Strand Releasing",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "92gV-ObLHos",
+      "name": "ON THE ROAD International Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 78,
+  "watchProviders": {}
+}

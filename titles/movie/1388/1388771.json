@@ -1,0 +1,244 @@
+{
+  "backdropPath": "/s9k5t842Mpa6hkwLmF5dIzWyO25.jpg",
+  "cast": [
+    {
+      "character": "Randy Harris",
+      "id": 3994691,
+      "name": "Noah J. Welter",
+      "profilePath": null
+    },
+    {
+      "character": "Amy Hanson",
+      "id": 4331090,
+      "name": "Erica Fett",
+      "profilePath": null
+    },
+    {
+      "character": "Emma Grove",
+      "id": 3060136,
+      "name": "Celeste Blandon",
+      "profilePath": "/6uHWxNZIEjunZuafqXTh5kAKtJ3.jpg"
+    },
+    {
+      "character": "Peter Moore",
+      "id": 3622505,
+      "name": "Jake Kopronica",
+      "profilePath": "/eWqaoxIQ9jnL6VbtSFveyuzke9I.jpg"
+    },
+    {
+      "character": "Thomas Kilroy",
+      "id": 99906,
+      "name": "John Bloom",
+      "profilePath": "/tNs5FL2yg0PhEQQwp4oyFWSJ2wI.jpg"
+    },
+    {
+      "character": "Val Pearson",
+      "id": 4369733,
+      "name": "Otis B. Dreds",
+      "profilePath": null
+    },
+    {
+      "character": "Candice Gibbs",
+      "id": 5062580,
+      "name": "Cory Cowley",
+      "profilePath": null
+    },
+    {
+      "character": "JR Wallace",
+      "id": 1582229,
+      "name": "Tommy Bechtold",
+      "profilePath": "/M6TSw88ZmfYjzkq1BPNvpNvhCP.jpg"
+    },
+    {
+      "character": "Stacy Wallace",
+      "id": 2435136,
+      "name": "Chelsea LeSage",
+      "profilePath": "/j1m9MjVPsUBr9fjjloyLtlTQwsK.jpg"
+    },
+    {
+      "character": "Missing Person",
+      "id": 3651767,
+      "name": "Connor Flynn",
+      "profilePath": "/u1Zstv69bG3MaUrkEcsTwKh1R4H.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 181354,
+      "logoPath": null,
+      "name": "Horror Dadz"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-02-06",
+  "externalIds": {
+    "imdbId": "tt32879420"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1388771,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Fairfield County Four",
+  "overview": "Four young adults disappear while investigating reports of a large, wolf-like creature. Though no trace of the four was found, their camera was eventually located. This would be the last known footage of The Fairfield County Four.",
+  "posterPath": "/rgCVAdvyciFfOFdTHXuzpiPxTx5.jpg",
+  "rating": 5.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-06",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-02-06"
+    }
+  },
+  "runtime": 76,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Fairfield County Four",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "ZIyCCCFyP_g",
+      "name": "The Fairfield County Four (2026) | Teaser Trailer",
+      "official": false,
+      "type": "Teaser"
+    },
+    {
+      "key": "XDIJ4ubZgGM",
+      "name": "The Fairfield County Four | Found Footage Horror Campaign Teaser",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "AE": {
+      "ads": [
+        {
+          "id": 2478,
+          "logoPath": "/2hAu4MUecOOMTtrlJ3XEqB4dhZr.png",
+          "name": "FOUND TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1388771-the-fairfield-county-four/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [
+        {
+          "id": 559,
+          "logoPath": "/6tVbNdx7Yzvi6LThNW5Wo1yov6A.png",
+          "name": "Filmzie"
+        },
+        {
+          "id": 2478,
+          "logoPath": "/2hAu4MUecOOMTtrlJ3XEqB4dhZr.png",
+          "name": "FOUND TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1388771-the-fairfield-county-four/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 559,
+          "logoPath": "/6tVbNdx7Yzvi6LThNW5Wo1yov6A.png",
+          "name": "Filmzie"
+        },
+        {
+          "id": 2478,
+          "logoPath": "/2hAu4MUecOOMTtrlJ3XEqB4dhZr.png",
+          "name": "FOUND TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1388771-the-fairfield-county-four/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    }
+  }
+}

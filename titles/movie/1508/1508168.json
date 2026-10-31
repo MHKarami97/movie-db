@@ -1,0 +1,181 @@
+{
+  "backdropPath": "/zms3m4kVz7RXmobU1B0nhrvUEmP.jpg",
+  "cast": [
+    {
+      "character": "Justin Davis",
+      "id": 1071561,
+      "name": "Nivin Pauly",
+      "profilePath": "/5A4IZUUCBQsBs4tIrlsuqQP9urT.jpg"
+    },
+    {
+      "character": "Ashley Thankachan",
+      "id": 2191938,
+      "name": "Mamitha Baiju",
+      "profilePath": "/9ySiE3j7ep16fhKi3u5iq5rbOk6.jpg"
+    },
+    {
+      "character": "Joel Davis",
+      "id": 3389588,
+      "name": "Sangeeth Prathap",
+      "profilePath": "/2f7mTmZ1RttbacuADm6vv7xpTAi.jpg"
+    },
+    {
+      "character": "Baiju Xavier",
+      "id": 141074,
+      "name": "Suresh Krishna",
+      "profilePath": "/hQ4TZgh8IuUh1LJtxCRmUY45fo6.jpg"
+    },
+    {
+      "character": "Kunjanty",
+      "id": 591174,
+      "name": "Bindu Panicker",
+      "profilePath": "/18KNkcI2UpSASkztGHJCGDtw4bP.jpg"
+    },
+    {
+      "character": "Alex",
+      "id": 1160633,
+      "name": "Vinay Forrt",
+      "profilePath": "/26P7CfxRs6Hay7xAkHAghDtvGzO.jpg"
+    },
+    {
+      "character": "Hari",
+      "id": 3398014,
+      "name": "Shyam Mohan",
+      "profilePath": "/wqUndf8mfVUxKtus68hrh7dlBhX.jpg"
+    },
+    {
+      "character": "Reshma",
+      "id": 1293125,
+      "name": "Srindaa",
+      "profilePath": "/5kdOuFtZ6T3LPwtu5mQfXSXPYUP.jpg"
+    },
+    {
+      "character": "Glikson",
+      "id": 4027672,
+      "name": "Roshan Shanavas",
+      "profilePath": "/lotiqK0sfK4rZKV6tHvHrg9Cty3.jpg"
+    },
+    {
+      "character": "Brinto",
+      "id": 1868474,
+      "name": "Shameer Khan",
+      "profilePath": "/9Itf9zkDofkuASocyJVs2FR1W3q.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 148370,
+      "logoPath": "/4BQiSMEuGfZynsWiMDMpm3zf5vt.png",
+      "name": "Bhavana Studios"
+    },
+    {
+      "id": 54205,
+      "logoPath": "/9UVxeoW8MBpqIy11A2uvL79Qp2J.png",
+      "name": "Fahadh Faasil and Friends Private Limited"
+    },
+    {
+      "id": 113530,
+      "logoPath": null,
+      "name": "Working Class Hero"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2026-10-01",
+  "externalIds": {
+    "imdbId": "tt37535100",
+    "wikidataId": "Q138716562"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 41,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1508168,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ml",
+      "name": "Malayalam"
+    }
+  ],
+  "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
+  "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+  "posterPath": "/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
+  "rating": 8.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-21"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-21"
+    },
+    "US": {
+      "digitalDate": "2026-10-01",
+      "gapDays": 41,
+      "theatricalDate": "2026-08-21"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-08-21"
+    },
+    "GB": {
+      "theatrical": "2026-08-21"
+    },
+    "US": {
+      "digital": "2026-10-01",
+      "theatrical": "2026-08-21"
+    }
+  },
+  "runtime": 155,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-08-21",
+  "title": "Bethlehem Kudumba Unit",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 39,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 630,
+          "logoPath": "/vnpp3n6DAIh2sKXfMbehKZAWJMC.png",
+          "name": "STARZPLAY"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1508168/watch?locale=AE",
+      "rent": []
+    }
+  }
+}

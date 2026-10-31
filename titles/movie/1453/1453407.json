@@ -1,0 +1,214 @@
+{
+  "backdropPath": "/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
+  "cast": [
+    {
+      "character": "Ajay Nirvit",
+      "id": 35782,
+      "name": "Manoj Bajpayee",
+      "profilePath": "/hBiAldG2BGMVoZUPbvK3FNDSw22.jpg"
+    },
+    {
+      "character": "Suneeta Chaudhary",
+      "id": 35778,
+      "name": "Divya Dutta",
+      "profilePath": "/yedHuFQSzH9tpVj2v5lnKPCOaR0.jpg"
+    },
+    {
+      "character": "Naveen Madhok",
+      "id": 1342538,
+      "name": "Akshay Oberoi",
+      "profilePath": "/dsFqDJzSzUiKZpicmj05Iv1YbOs.jpg"
+    },
+    {
+      "character": "Karan Gill",
+      "id": 1147461,
+      "name": "Saqib Saleem",
+      "profilePath": "/r9I1R0OwwSiCKRTxEp8zO89s7vS.jpg"
+    },
+    {
+      "character": "Neha Prabhu",
+      "id": 1065777,
+      "name": "Shraddha Das",
+      "profilePath": "/zt3UYBlohKs8arf1JJaahWZUwwb.jpg"
+    },
+    {
+      "character": "SHO Praveen Rana",
+      "id": 2357580,
+      "name": "Rajiv Gupta",
+      "profilePath": "/2sXJLNQn86xUuR1poilKB3NHMt.jpg"
+    },
+    {
+      "character": "Arya Sahni",
+      "id": 4499350,
+      "name": "Aditi Sandhya Sharma",
+      "profilePath": "/fxVfjx0AyZdKVDqqL90uZqsg1kp.jpg"
+    },
+    {
+      "character": "Rosie",
+      "id": 1148844,
+      "name": "Nushrratt Bharuccha",
+      "profilePath": "/czHifXFFsCoJp8VPcXc22EJjblx.jpg"
+    },
+    {
+      "character": "Lovely",
+      "id": 1632609,
+      "name": "Kiku Sharda",
+      "profilePath": "/j1yxHbF12tDRoTqqLVqdJzCo9ro.jpg"
+    },
+    {
+      "character": "Santosh Sabharwal",
+      "id": 2721542,
+      "name": "Sunit Tandon",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 130688,
+      "logoPath": null,
+      "name": "Friday Storytellers"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2026-10-23",
+  "externalIds": {
+    "imdbId": "tt39631280"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1453407,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "hi",
+      "name": "Hindi"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "ग़ज़ब रात",
+  "overview": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
+  "posterPath": "/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
+  "rating": 4.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-23",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-23"
+    }
+  },
+  "runtime": 124,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Gajab Raat",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "BwFuJbHNE4o",
+      "name": "Official Trailer [ENG SUB]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "1g7WGT3-rqc",
+      "name": "First Look",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 11,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1453407/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1453407/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1453407/watch?locale=US",
+      "rent": []
+    }
+  }
+}

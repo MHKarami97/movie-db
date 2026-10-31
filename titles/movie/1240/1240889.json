@@ -1,0 +1,488 @@
+{
+  "backdropPath": "/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg",
+  "cast": [
+    {
+      "character": "Kris",
+      "id": 2559506,
+      "name": "Hannah Einbinder",
+      "profilePath": "/iWMeyJAghUYP3zxmOxzcYLU5G8Z.jpg"
+    },
+    {
+      "character": "Billy",
+      "id": 12214,
+      "name": "Gillian Anderson",
+      "profilePath": "/3Ny8ZYahb33vpqNEPNCE2IOXPew.jpg"
+    },
+    {
+      "character": "Young Billy",
+      "id": 3054663,
+      "name": "Amanda Fix",
+      "profilePath": "/ju3aa2yJL4h5msWcbEryh7cjXOt.jpg"
+    },
+    {
+      "character": "Alex",
+      "id": 3706720,
+      "name": "Arthur Conti",
+      "profilePath": "/pnO8qBwvLJfN54UaKsy0QQlAc8u.jpg"
+    },
+    {
+      "character": "DJ Ella Giastic",
+      "id": 2425998,
+      "name": "Eva Victor",
+      "profilePath": "/nlEirkGOQPVUVgNzIqEJysnt70q.jpg"
+    },
+    {
+      "character": "Will",
+      "id": 1838225,
+      "name": "Zach Cherry",
+      "profilePath": "/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
+    },
+    {
+      "character": "Kris' Agent",
+      "id": 2198504,
+      "name": "Sarah Sherman",
+      "profilePath": "/5BwGUREK2H6acSH5Inqmy2hFpGY.jpg"
+    },
+    {
+      "character": "Rudolph",
+      "id": 52801,
+      "name": "Patrick Fischler",
+      "profilePath": "/vVj7GjHL9hOilbKwViXZpnUlbcQ.jpg"
+    },
+    {
+      "character": "Jeffrey",
+      "id": 19152,
+      "name": "Dylan Baker",
+      "profilePath": "/4mw6xj8Aj3ixjjeUj9pZdZPTbvz.jpg"
+    },
+    {
+      "character": "Mari",
+      "id": 1508653,
+      "name": "Jasmin Savoy Brown",
+      "profilePath": "/yWaCA2iKmVps20SFxwiB1DvbN6j.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 204957,
+      "logoPath": "/16gclYCHdh6QFQyBRNOo3DuaqDT.png",
+      "name": "MUBI"
+    },
+    {
+      "id": 81,
+      "logoPath": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+      "name": "Plan B Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-09-18",
+  "externalIds": {
+    "imdbId": "tt35298123",
+    "instagramId": "welcometocampmiasma",
+    "twitterId": "CampMiasmaFilm",
+    "wikidataId": "Q134434223"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 28,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1240889,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Teenage Sex and Death at Camp Miasma",
+  "overview": "An ambitious director sets out to revive a faded slasher franchise, but her meeting with the film’s reclusive original star spirals into a terrifying maze of obsession, fear, and blood-soaked delusion.",
+  "posterPath": "/jcGvB76v8p1sqYXXkBetWASV0uM.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-10-02",
+      "gapDays": 42,
+      "theatricalDate": "2026-08-21"
+    },
+    "US": {
+      "digitalDate": "2026-09-18",
+      "gapDays": 28,
+      "theatricalDate": "2026-08-21"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-11-01"
+    },
+    "GB": {
+      "digital": "2026-10-02",
+      "physical": "2026-12-14",
+      "premiere": "2026-06-06",
+      "theatrical": "2026-08-21"
+    },
+    "US": {
+      "digital": "2026-09-18",
+      "premiere": "2026-06-01",
+      "theatrical": "2026-08-21",
+      "theatricalLimited": "2026-08-07"
+    }
+  },
+  "runtime": 112,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Blood. Lust.",
+  "theatricalDate": "2026-08-21",
+  "title": "Teenage Sex and Death at Camp Miasma",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "ILG13f6TDNU",
+      "name": "R.E.M. x CAMP MIASMA - \"Supernatural Superserious\" Edit",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Uw0hwivGJns",
+      "name": "Hannah Einbinder | MUBI Picks at Posteritati",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "AA5ojvDhEks",
+      "name": "ASMR with Hannah Einbinder & Gillian Anderson",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "qYB4lFaVq-8",
+      "name": "Memory Lane with Jane Schoenbrun, Gillian Anderson &  Hannah Einbinder",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "JaeK3VOD5mY",
+      "name": "Director Jane Schoenbrun on How Hannah Einbinder Elevated Camp Miasma",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "weohMkSjuMA",
+      "name": "Interview with director Jane Schoenbrun",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "wy-KYZZxGMw",
+      "name": "There was blood at the Curzon Soho screening",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Uk-3SqojO88",
+      "name": "MIASMANIA. The phenomenon is spreading.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ksSRxDEZmW0",
+      "name": "At 96% on Rotten Tomatoes, CAMP MIASMA is the best reviewed horror film of the year.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "rp3jevFe2xA",
+      "name": "Fall into a world of desire and delirium.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "b88wDCiK-Dc",
+      "name": "Picture Perfect with Hannah Einbinder & Gillian Anderson",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "w8gXjjQjQ6w",
+      "name": "Scenes from our video store and screening takeover at Vidiots, ft. guest clerk Hannah Einbinder.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "-iRaKLSArqs",
+      "name": "Hannah Einbinder, behind the scenes",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "ieuTqT-oY-U",
+      "name": "Kiss your inhibitions goodbye.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "t9wzR70naq8",
+      "name": "What a trip to CAMP MIASMA feels like.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "u24xY1jO4Qk",
+      "name": "Gillian Anderson & Hannah Einbinder",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "qpIEMDr-i4Q",
+      "name": "Slasher Survival Strategy with the CAMP MIASMA cast and community.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "7mgPvX9iSgo",
+      "name": "Hannah Einbinder is Kris",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Nf-HBNQ3R8A",
+      "name": "There’s a hole at the bottom of the lake, and it’s open wide.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "aO61ZC1TIA8",
+      "name": "Ratchapoom Boonbunchachoke’s one-of-a-kind debut feature, A USEFUL GHOST.",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "S7AVQQZ0m3o",
+      "name": "The first clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "fSOMnpH0MVI",
+      "name": "This or That (and never making #HannahEinbinder pick a diva).",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "YLzu5_zH7Ko",
+      "name": "Final Girl Ranking",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "GpfL7SdR0Bc",
+      "name": "Gillian Anderson is Billy Presley.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "3-7Zlp7FXms",
+      "name": "Gillian Anderson & Hannah Einbinder",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "jG85Wbb19CU",
+      "name": "Whatcha getting from the CAMP MIASMA gift shop?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "j_X1rcIWqQs",
+      "name": "Gay awakenings and queer comfort watches.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "zvNmvETw1Mg",
+      "name": "Here’s what the audience had to say after the AU premiere of Teenage Sex and Death at Camp Miasma.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "j9TsiTgYZGw",
+      "name": "Official Vertical Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "dimCiC_hdoA",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "o8Wi3ZwdODA",
+      "name": "Official Vertical Teaser",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "MA5NqUMEdbI",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "V-iw33lyFD4",
+      "name": "A new kind of horror remake from Jane Schoenbrun.",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 366,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 11,
+          "logoPath": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+          "name": "MUBI"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1240889-teenage-sex-and-death-at-camp-miasma/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 11,
+          "logoPath": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+          "name": "MUBI"
+        },
+        {
+          "id": 201,
+          "logoPath": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+          "name": "MUBI Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1240889-teenage-sex-and-death-at-camp-miasma/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 11,
+          "logoPath": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+          "name": "MUBI"
+        },
+        {
+          "id": 201,
+          "logoPath": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+          "name": "MUBI Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1240889-teenage-sex-and-death-at-camp-miasma/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

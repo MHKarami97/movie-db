@@ -1,0 +1,343 @@
+{
+  "backdropPath": "/kAlAFblqBI6aGXItR4DRpT5Tozg.jpg",
+  "cast": [
+    {
+      "character": "Ploughman",
+      "id": 37625,
+      "name": "Andrew Garfield",
+      "profilePath": "/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+    },
+    {
+      "character": "John Ball",
+      "id": 478,
+      "name": "Jamie Bell",
+      "profilePath": "/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg"
+    },
+    {
+      "character": "Archbishop Sudbury",
+      "id": 8435,
+      "name": "Stephen Dillane",
+      "profilePath": "/qjIa6pXD4Z7nL7nH2LxyHDfxNgC.jpg"
+    },
+    {
+      "character": "King Richard II",
+      "id": 1945369,
+      "name": "Woody Norman",
+      "profilePath": "/jQlx4bAGAmQfvzEuXw6A9cEmb95.jpg"
+    },
+    {
+      "character": "Treasurer Hales",
+      "id": 2441,
+      "name": "Tom Hollander",
+      "profilePath": "/cqZiJsImFZ6TaeShRRg49AZ9TyT.jpg"
+    },
+    {
+      "character": "Wat Tyler",
+      "id": 1363054,
+      "name": "Cosmo Jarvis",
+      "profilePath": "/1kgghZ558CxZCJip5ufO6BAqUGp.jpg"
+    },
+    {
+      "character": "Alyce",
+      "id": 1356758,
+      "name": "Thomasin McKenzie",
+      "profilePath": "/WOpnEFG5Q8LWxP81MtUrskmVox.jpg"
+    },
+    {
+      "character": "Mayor Walworth",
+      "id": 9012,
+      "name": "Jonny Lee Miller",
+      "profilePath": "/otCQdDtnrMvZ5tPC62zLx0SaXeR.jpg"
+    },
+    {
+      "character": "Countess",
+      "id": 77795,
+      "name": "Katherine Waterston",
+      "profilePath": "/zaqbXjr5jE1DnEoyAHokUDoCKOM.jpg"
+    },
+    {
+      "character": "Chief Justice Bealknap",
+      "id": 25074,
+      "name": "Stanley Townsend",
+      "profilePath": "/ry1kek817WYHOh1npa3ojxmGJcI.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 239077,
+      "logoPath": null,
+      "name": "Supernix"
+    },
+    {
+      "id": 227877,
+      "logoPath": null,
+      "name": "Thank You Pictures"
+    },
+    {
+      "id": 67260,
+      "logoPath": "/oV2FZfhRcEc1HReC66e1L4t2qPV.png",
+      "name": "Electric Shadow Company"
+    },
+    {
+      "id": 7493,
+      "logoPath": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+      "name": "FilmNation Entertainment"
+    },
+    {
+      "id": 314016,
+      "logoPath": "/m9hpJbTXQIJfGSqYqaYDboUyjac.png",
+      "name": "Blumhouse Atomic Monster"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-09-29",
+  "externalIds": {
+    "imdbId": "tt36983905",
+    "instagramId": "theuprisingfilm",
+    "twitterId": "theuprisingmov",
+    "wikidataId": "Q135103999"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 19,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "id": 977942,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Uprising",
+  "overview": "در انگلستان قرن چهاردهم، در پی طاعون، مالیات‌های سنگین و نارضایتی مردم، یک شورش بزرگ علیه حکومت شکل می‌گیرد و کشاورزی به نام Wat Tyler به یکی از رهبران آن تبدیل می‌شود.",
+  "posterPath": "/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+  "rating": 7.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-10"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-09"
+    },
+    "US": {
+      "digitalDate": "2026-09-29",
+      "gapDays": 19,
+      "theatricalDate": "2026-09-10"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-09-10"
+    },
+    "GB": {
+      "theatrical": "2026-10-09"
+    },
+    "US": {
+      "digital": "2026-09-29",
+      "physical": "2026-11-03",
+      "premiere": "2026-09-02",
+      "theatrical": "2026-09-10"
+    }
+  },
+  "runtime": 128,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Rise or die.",
+  "theatricalDate": "2026-09-10",
+  "title": "The Uprising",
+  "translations": {
+    "faOverview": "در انگلستان قرن چهاردهم، در پی طاعون، مالیات‌های سنگین و نارضایتی مردم، یک شورش بزرگ علیه حکومت شکل می‌گیرد و کشاورزی به نام Wat Tyler به یکی از رهبران آن تبدیل می‌شود.",
+    "faTitle": "قیام"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Tmf3wFh6Bgc",
+      "name": "Watch at Home September 29",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "g4EqU8TSR6I",
+      "name": "In Cinemas Everywhere Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "HJD9tusTQFg",
+      "name": "In Cinemas Everywhere Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9k6U6jaLYTI",
+      "name": "Watch At Home Now",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "NCXXGB4sJUs",
+      "name": "Andrew Garfield on History, Violence & Rebellion - Bonus Feature",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "FqnU23PZehE",
+      "name": "BTS Featurette",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "UUtU-3RBVpw",
+      "name": "Andrew Garfield Leads The Rebellion - Extended Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "VWeSyZFcJRw",
+      "name": "In UK Cinemas Everywhere October 9",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "zIgwl5-OVxc",
+      "name": "Prop Shop",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6TX3GGh1Lec",
+      "name": "Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "j0hAQcqx4_E",
+      "name": "In UK Cinemas Everywhere October 9",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "sCFX-c_prKw",
+      "name": "\"Theirs Or His\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "vmD8b035M4c",
+      "name": "\"His Plan\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "lyhCxZN4Ro8",
+      "name": "UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "ZVkrhHebz1Q",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 385,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/977942-the-uprising/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

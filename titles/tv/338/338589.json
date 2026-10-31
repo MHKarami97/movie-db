@@ -1,0 +1,123 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Game Master",
+      "id": 1992947,
+      "name": "Chris Perkins",
+      "profilePath": "/1jZSMg30nl7cErO3YUVeLJw9B1T.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 222920,
+      "logoPath": "/6N9EXclPFxZX4ynzv2MzLAf5fsG.png",
+      "name": "Critical Role Productions"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2027-01-13",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-13",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "id": 338589,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-13",
+    "episodeNumber": 1,
+    "id": 7951491,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Reign of the Weredragon",
+  "overview": "Reign of the Weredragon is a new actual-play Daggerheart miniseries that combines the vibe of several classic fairy tales with an unexpectedly eerie world.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-13",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-13"
+    },
+    "CN": {
+      "tv": "2027-01-13"
+    },
+    "GB": {
+      "tv": "2027-01-13"
+    },
+    "US": {
+      "tv": "2027-01-13"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-13",
+      "episodeCount": 1,
+      "name": "Miniseries",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Reign of the Weredragon",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,264 @@
+{
+  "backdropPath": "/i0YlPmyAfjxWJczVqK0MP88XKU4.jpg",
+  "cast": [
+    {
+      "character": "Alma",
+      "id": 3627,
+      "name": "Paz Vega",
+      "profilePath": "/fNLlJysFd5f0Q8Lj20EZpU8BiRN.jpg"
+    },
+    {
+      "character": "Aurelio",
+      "id": 565373,
+      "name": "Juan Pablo Shuk",
+      "profilePath": "/bUJgufFSqWMpa8gEXPTNun8MP8i.jpg"
+    },
+    {
+      "character": "Colonel Montenegro",
+      "id": 21049,
+      "name": "Yancey Arias",
+      "profilePath": "/eiaSjMTZw4yB7QdjOm1sW57VC6t.jpg"
+    },
+    {
+      "character": "Sarah",
+      "id": 8211,
+      "name": "Mena Suvari",
+      "profilePath": "/xjqKvy0bos02oSKNYzC4mxLbQ0W.jpg"
+    },
+    {
+      "character": "Randall Walker",
+      "id": 20495,
+      "name": "Jeff Fahey",
+      "profilePath": "/zRu1ZmM7ekKwKbmXn3U0VjD8Wyd.jpg"
+    },
+    {
+      "character": "José Guevara",
+      "id": 5902777,
+      "name": "Mateo Honles",
+      "profilePath": "/ji1Wj71Bmwxt3pRqm7IK7m8140W.jpg"
+    },
+    {
+      "character": "Morales",
+      "id": 2293177,
+      "name": "Ermis Cruz",
+      "profilePath": null
+    },
+    {
+      "character": "Sebastián",
+      "id": 5903179,
+      "name": "Alexis Martínez",
+      "profilePath": null
+    },
+    {
+      "character": "Maravilla",
+      "id": 5903181,
+      "name": "Rodrigo Trigueros",
+      "profilePath": null
+    },
+    {
+      "character": "Eduardo",
+      "id": 1713297,
+      "name": "Carlos Aylagas",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 35625,
+      "logoPath": "/zxIrXuRMBmsXf7XpouDrF0P4RjI.png",
+      "name": "Premiere Entertainment Group"
+    },
+    {
+      "id": 231386,
+      "logoPath": "/4WS75ndvhPMm7Rj2RFZnFYwBS2o.png",
+      "name": "Magenta Light Studios"
+    },
+    {
+      "id": 2448,
+      "logoPath": "/5sHdaGheYOw2qA20fewRVGDM4Xk.png",
+      "name": "Yari Film Group"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "SV",
+      "name": "El Salvador"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt2090499",
+    "wikidataId": "Q113552087"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "id": 1015154,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Luciérnagas en El Mozote",
+  "overview": "A boy seeks revenge after surviving El Mozote massacre in El Salvador, where government forces killed his family and destroyed his village - the deadliest civilian massacre in modern Latin America.",
+  "posterPath": "/vAMPpEvaW9EmRwFmzFMaM8wS3KV.jpg",
+  "rating": 8.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-17"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatricalLimited": "2026-04-17"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-04-17",
+  "title": "Fireflies at El Mozote",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "cNJZnlDVRcY",
+      "name": "Official Clip",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "D3sQsAuxJWE",
+      "name": "US Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 35,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1715,
+          "logoPath": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+          "name": "Shahid VIP"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1015154-luciernagas-en-el-mozote/watch?locale=AE",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1015154-luciernagas-en-el-mozote/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

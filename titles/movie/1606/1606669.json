@@ -1,0 +1,164 @@
+{
+  "backdropPath": "/xWjvtWYAEhWfv6dEc4b3Jrm5U8N.jpg",
+  "cast": [
+    {
+      "character": "Pete Burke",
+      "id": 5907111,
+      "name": "Thomas Burke",
+      "profilePath": "/1im9KXCuYg86CapqKGy8pCXDKKK.jpg"
+    },
+    {
+      "character": "Shadow",
+      "id": 5907140,
+      "name": "Nathan Church",
+      "profilePath": null
+    },
+    {
+      "character": "Host",
+      "id": 5907160,
+      "name": "Eliot",
+      "profilePath": "/jTWYr6rCujH60aVkGcgFhPiC133.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 153107,
+      "logoPath": null,
+      "name": "Ghost Machine Pictures"
+    }
+  ],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38980561"
+  },
+  "fetchedAt": 1793906464749,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1606669,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Wilderness Tapes: Volume One",
+  "overview": "Nearly a million smartphones and cameras are lost in the wilderness each year. For the first time in history, recovered footage from such devices is presented in a chilling anthology series. Wilderness Tapes: Volume One chronicles a journey into an abandoned gold mine that goes wrong, plunging \"Prospector Pete\" into the depths of supernatural madness.",
+  "posterPath": "/asPDDlXEPzsATwBmD3ipUgLpX4j.jpg",
+  "rating": 4.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-01-01"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2026-01-01"
+    }
+  },
+  "runtime": 52,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Finding Buried Terror",
+  "theatricalDate": "2026-01-01",
+  "title": "Wilderness Tapes: Volume One",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "qckx_MHVElU",
+      "name": "WEBCAST - Official Trailer #1 (2018) - Horror Movie HD",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "AE": {
+      "ads": [
+        {
+          "id": 2478,
+          "logoPath": "/2hAu4MUecOOMTtrlJ3XEqB4dhZr.png",
+          "name": "FOUND TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1606669-wilderness-tapes-volume-one/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        },
+        {
+          "id": 2478,
+          "logoPath": "/2hAu4MUecOOMTtrlJ3XEqB4dhZr.png",
+          "name": "FOUND TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1606669-wilderness-tapes-volume-one/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        },
+        {
+          "id": 2478,
+          "logoPath": "/2hAu4MUecOOMTtrlJ3XEqB4dhZr.png",
+          "name": "FOUND TV"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1606669-wilderness-tapes-volume-one/watch?locale=US",
+      "rent": []
+    }
+  }
+}

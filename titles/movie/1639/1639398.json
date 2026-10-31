@@ -1,0 +1,149 @@
+{
+  "backdropPath": "/dRw70TX664CS3Gf19QpU8LcEfPD.jpg",
+  "cast": [
+    {
+      "character": "Nora",
+      "id": 1831843,
+      "name": "Adriana Llabrés",
+      "profilePath": "/eHAxHKyxj0QTM8NjrBDqBeQJr9b.jpg"
+    },
+    {
+      "character": "Ariel",
+      "id": 1299682,
+      "name": "Hoze Meléndez",
+      "profilePath": "/uEYPg9sZRpPkMTOXfLbmiK5DBLg.jpg"
+    },
+    {
+      "character": "Eder",
+      "id": 947768,
+      "name": "Andrés Almeida",
+      "profilePath": "/4cTw37HIfjFrD4CcFf8IKokyYJM.jpg"
+    },
+    {
+      "character": "Ramírez",
+      "id": 52746,
+      "name": "Horacio García Rojas",
+      "profilePath": "/75Yo3FmhEOZhMzP0ImYQIoalurn.jpg"
+    },
+    {
+      "character": "Celeste",
+      "id": 1731102,
+      "name": "Ruth Ramos",
+      "profilePath": "/6043w3WOtFSkjw1YGFaP1SItoHr.jpg"
+    },
+    {
+      "character": "Hedra",
+      "id": 1238952,
+      "name": "Nailea Norvind",
+      "profilePath": "/egV1BPIcHkkZVxJNzQuFzpTOn0f.jpg"
+    },
+    {
+      "character": "Melesio",
+      "id": 1301522,
+      "name": "Gerardo Trejoluna",
+      "profilePath": "/fJzcjj3JrARh3iQEx5lMbCEfRKq.jpg"
+    },
+    {
+      "character": "Julieta",
+      "id": 1309506,
+      "name": "Myriam Bravo",
+      "profilePath": "/xUyNkMU3FkUSY6OlPIA93kzj5bG.jpg"
+    },
+    {
+      "character": "Irene",
+      "id": 6065406,
+      "name": "Ana Rivero",
+      "profilePath": "/rag3SfuPV6AwcbdCmYikbE89frq.jpg"
+    },
+    {
+      "character": "Rafa",
+      "id": 1549908,
+      "name": "Andrés Delgado",
+      "profilePath": "/gq7nwfzsF9R81qGCc2tlzgO2FI7.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt32205214"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1639398,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Psicópata: El Asesino del Conejo Blanco",
+  "overview": "Follows an \"ultra-violent and intelligent\" psychopath who challenges the police by leaving a white paper rabbit at each crime scene, connecting them all.",
+  "posterPath": "/7tIgfsTWuzXKR2kLRUPrLRTbcuo.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Mexican Psycho",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 110,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        },
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1639398-psicopata-el-asesino-del-conejo-blanco/watch?locale=US",
+      "rent": []
+    }
+  }
+}

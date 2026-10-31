@@ -1,0 +1,212 @@
+{
+  "backdropPath": "/wPSOPYy2fV62GjeXpVdKyweZGZu.jpg",
+  "cast": [
+    {
+      "character": "Melina",
+      "id": 6334059,
+      "name": "Marissa Arguijo",
+      "profilePath": null
+    },
+    {
+      "character": "Shawn",
+      "id": 2488033,
+      "name": "Michael-Eoin Stanney",
+      "profilePath": "/ybgdmLiPWu0P9RH1lgGBR49d0Rt.jpg"
+    },
+    {
+      "character": "Brett",
+      "id": 1005130,
+      "name": "Marcus Jean Pirae",
+      "profilePath": "/4XD78iRQJpx0uTQRg98Dfzgyb69.jpg"
+    },
+    {
+      "character": "Diego",
+      "id": 6334068,
+      "name": "Dominic Hernandez",
+      "profilePath": null
+    },
+    {
+      "character": "Detective Linquist",
+      "id": 172880,
+      "name": "Nigel Vonas",
+      "profilePath": "/hhFFUHGXU8kSDjvJZPEVFCVsagz.jpg"
+    },
+    {
+      "character": "Detective Delgado",
+      "id": 6334069,
+      "name": "Oscar Alejandro",
+      "profilePath": null
+    },
+    {
+      "character": "Director of ICE, Stephanie Maynor",
+      "id": 5340190,
+      "name": "Mary Salafia",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 303697,
+      "logoPath": null,
+      "name": "Gen1 Entertainment, LLC"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "digitalDate": "2026-07-17",
+  "externalIds": {
+    "imdbId": "tt28638842",
+    "instagramId": "borderline_movie"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1727780,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "la",
+      "name": "Latin"
+    }
+  ],
+  "originalTitle": "Borderline",
+  "overview": "Convinced they are our secret saviors, rogue U.S. operatives abduct Mexican gang members and seed them across major American cities, unleashing criminal chaos, swaying voters by playing on nativist prejudices, and forcing law enforcement into a race to expose the plot as the escalating carnage threatens democracy itself.",
+  "posterPath": "/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-17",
+      "gapDays": 0,
+      "theatricalDate": "2026-07-17"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-07-17",
+      "theatricalLimited": "2026-07-17"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-07-17",
+  "title": "Borderline",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "BGRbXKc64Jk",
+      "name": "BORDERLINE - Official Trailer (2026)",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "ORHBgSvX_24",
+      "name": "Borderline - Official Trailer | Starring Samara Weaving and Ray Nicholson | In theaters March 14",
+      "official": true,
+      "type": "Bloopers"
+    }
+  ],
+  "voteCount": 16,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1727780-borderline/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

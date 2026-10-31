@@ -1,0 +1,199 @@
+{
+  "backdropPath": "/2VMkpRFGCupBmAJlZiDzlAjxYL1.jpg",
+  "cast": [
+    {
+      "character": "Julián",
+      "id": 1457004,
+      "name": "Oscar Martínez",
+      "profilePath": "/t8d1BEV3OEasLnIULbL1oYVIvxa.jpg"
+    },
+    {
+      "character": "Boris",
+      "id": 2483053,
+      "name": "Matías Mayer",
+      "profilePath": "/3X0x2MrSI2FBDGyWjPLdOgg41Jd.jpg"
+    },
+    {
+      "character": "Leticia",
+      "id": 932926,
+      "name": "Inés Estévez",
+      "profilePath": "/zV57im2AguAXx42YzIscEXtuaB1.jpg"
+    },
+    {
+      "character": "Bebe",
+      "id": 103431,
+      "name": "Luis Luque",
+      "profilePath": "/aj2TUHR1jdIQLvwt7iorMLbGj6k.jpg"
+    },
+    {
+      "character": "Andrea",
+      "id": 933618,
+      "name": "Silvia Kutika",
+      "profilePath": "/fxokcTyxouCy1lcS8oGHxYJ6lUC.jpg"
+    },
+    {
+      "character": "Mich",
+      "id": 2482588,
+      "name": "Johanna Francella",
+      "profilePath": "/e1exwDc2ZJms6LnnuMtanStKz41.jpg"
+    },
+    {
+      "character": "Lula",
+      "id": 1694299,
+      "name": "Alexia Moyano",
+      "profilePath": "/oXpC3xRnUujZhqs1U59fjHX7pl0.jpg"
+    },
+    {
+      "character": "Amigo Boris Karaoke",
+      "id": 1523012,
+      "name": "Javier De Nevares",
+      "profilePath": null
+    },
+    {
+      "character": "Milo",
+      "id": 3475013,
+      "name": "Nacho Sureda",
+      "profilePath": null
+    },
+    {
+      "character": "Maurito",
+      "id": 2790453,
+      "name": "Fernando Vergara",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 224809,
+      "logoPath": "/9o5HIZxfby42es6BKzsmUcUS42r.png",
+      "name": "Leyenda Films"
+    },
+    {
+      "id": 110888,
+      "logoPath": "/ApVEmLRyrJtQxhIesrXXi2EQfOP.png",
+      "name": "Kuarzo Entertainment Argentina"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "digitalDate": "2026-04-01",
+  "externalIds": {
+    "imdbId": "tt39773309",
+    "wikidataId": "Q138575710"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1487320,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "El último gigante",
+  "overview": "Follows Boris, a charismatic tour guide who unexpectedly reunites with his estranged father Julián. Their tense and emotional encounters explore past wounds and the possibility of forgiveness.",
+  "posterPath": "/lARMzlnHtusEnY8LrTmNID92CJo.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-04-01"
+    }
+  },
+  "runtime": 102,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Giant Falls",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 32,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1487320-el-ultimo-gigante/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1487320-el-ultimo-gigante/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1487320-el-ultimo-gigante/watch?locale=US",
+      "rent": []
+    }
+  }
+}

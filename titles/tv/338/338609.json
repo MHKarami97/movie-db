@@ -1,0 +1,178 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 154400,
+      "logoPath": null,
+      "name": "tv2 play"
+    }
+  ],
+  "countries": [
+    {
+      "code": "NO",
+      "name": "Norway"
+    }
+  ],
+  "digitalDate": "2026-10-14",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-10-14",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-22",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-05",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-26",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-09",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-21",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-28",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt49152051"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 338609,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "no",
+      "name": "Norwegian"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-22",
+    "episodeNumber": 2,
+    "id": 7995500,
+    "name": "Episode 2",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-05",
+    "episodeNumber": 3,
+    "id": 7997376,
+    "name": "Episode 3",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Viking på innsiden",
+  "overview": "",
+  "posterPath": "/cgFyx4g0JbUn2ls3oyIflV8ApKp.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-10-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-10-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-10-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-14",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-10-14"
+    },
+    "CN": {
+      "tv": "2026-10-14"
+    },
+    "GB": {
+      "tv": "2026-10-14"
+    },
+    "US": {
+      "tv": "2026-10-14"
+    }
+  },
+  "runtime": 9,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-10-14",
+      "episodeCount": 7,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Viking på innsiden",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

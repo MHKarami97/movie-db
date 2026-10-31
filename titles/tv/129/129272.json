@@ -1,0 +1,168 @@
+{
+  "backdropPath": "/iXIqmNNCk1QheQQBiWJULYq0y5L.jpg",
+  "cast": [
+    {
+      "character": "导演",
+      "id": 4478964,
+      "name": "高峰",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 84946,
+      "logoPath": "/8wrAXwrNZ5zHImKb0SyVLQbXkaM.png",
+      "name": "Tencent Penguin Pictures"
+    },
+    {
+      "id": 169141,
+      "logoPath": "/3AZdrBZR9ZSWqZtk7xBJlsHmaqx.png",
+      "name": "Soyep"
+    },
+    {
+      "id": 81620,
+      "logoPath": "/7LkIVuWBVScdujpKhBPx1TMnPQE.png",
+      "name": "Tencent Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "digitalDate": "2021-07-16",
+  "externalIds": {
+    "imdbId": "tt15816496"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "id": 129272,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-30",
+    "episodeNumber": 562,
+    "id": 7367241,
+    "name": "Episode 562",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-02",
+    "episodeNumber": 563,
+    "id": 7367242,
+    "name": "Episode 563",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "逆天至尊",
+  "overview": "The entire universe is divided into the inner universe and the outer universe. The two universes are enemies of each other. The outer universe is ruled by demons, and the inner universe is divided into The Realm of gods, the Eternal Realm, and the Mortal Realm. In the universe, there are countless mortal worlds like the Tianfa Continent, and they are collectively referred to as the Jiutian Xin Region. In the field of Jiutian Xin, nine immortal emperors commanded all star fields in nine layers. Above the nine heavens is the realm of purification of immortal gods.",
+  "posterPath": "/6QnS1gfGaaLGkamcmngBc3sIIkH.jpg",
+  "rating": 8.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2021-07-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2021-07-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2021-07-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2021-07-16",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2021-07-16"
+    },
+    "CN": {
+      "tv": "2021-07-16"
+    },
+    "GB": {
+      "tv": "2021-07-16"
+    },
+    "US": {
+      "tv": "2021-07-16"
+    }
+  },
+  "runtime": 10,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2021-07-16",
+      "episodeCount": 580,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/h0tQdLzFshqi9euz0Tk9grC62A1.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Against The Sky Supreme",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 8,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 623,
+          "logoPath": "/wonfCSSdI55EfVFlWJyyQZIlYx7.png",
+          "name": "WeTV"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/129272/watch?locale=AE",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 623,
+          "logoPath": "/wonfCSSdI55EfVFlWJyyQZIlYx7.png",
+          "name": "WeTV"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/129272/watch?locale=US",
+      "rent": []
+    }
+  }
+}

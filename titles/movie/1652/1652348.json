@@ -1,0 +1,147 @@
+{
+  "backdropPath": "/z1nGGXUSzEVyJWM74iubV8yEcth.jpg",
+  "cast": [
+    {
+      "character": "Anna Campbell",
+      "id": 31363,
+      "name": "Candace Cameron Bure",
+      "profilePath": "/sDNFyYgyVmE5AGFCeLR0DVDzCji.jpg"
+    },
+    {
+      "character": "James Campbell",
+      "id": 152831,
+      "name": "Jonathan Scarfe",
+      "profilePath": "/vVkvdi33vVCc2nkGbqXqCzQFl34.jpg"
+    },
+    {
+      "character": "Rubin",
+      "id": 25389,
+      "name": "Peter Bryant",
+      "profilePath": "/enc6Lz5tsntLpWGjbzMgOk1DHvv.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 182197,
+      "logoPath": "/oG5cuyTyU4QPpcrD5Zr1JfkwUwA.png",
+      "name": "Candy Rock Entertainment"
+    },
+    {
+      "id": 180934,
+      "logoPath": "/dTBkfIQZvImcftJvp5ckAYog6w6.png",
+      "name": "Great American Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt46668520"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1652348,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "A Second Chance Christmas",
+  "overview": "Anna and James Campbell have been divorced for five years, their once-happy union now a carefully managed truce for the sake of their children. When their daughter invites the entire family to meet her serious boyfriend over Christmas at her grandparents’ rustic Smoky Mountain cabin, the former couple reluctantly agrees. Arriving a day early to avoid awkwardness, Anna is surprised to find James has the same idea. But when the worst ice storm in a decade traps them in the mountains with no way out, the exes are forced to confront the history they share – and the possibility that their story may not be finished after all.",
+  "posterPath": "/yE6Lu2zi3MDQqwJP1Q9lFX6cS8x.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2026-10-10"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "A Second Chance Christmas",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "3tQlvE8Cu7I",
+      "name": "A Second Chance Christmas | Trailer | Premieres Sat. October 10 on Great American Family",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 278,
+          "logoPath": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+          "name": "Pure Flix"
+        },
+        {
+          "id": 2433,
+          "logoPath": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+          "name": "Great American Pure Flix Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1652348-a-second-chance-christmas/watch?locale=US",
+      "rent": []
+    }
+  }
+}

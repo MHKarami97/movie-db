@@ -1,0 +1,172 @@
+{
+  "backdropPath": "/aFh0O1steZzPY2pZ5PhjrbGCIoE.jpg",
+  "cast": [
+    {
+      "character": "Diab",
+      "id": 127762,
+      "name": "Mohamed Saad",
+      "profilePath": "/zpIK3GYmqDPumneEDf0aqsqxhV1.jpg"
+    },
+    {
+      "character": "Naglaa",
+      "id": 140868,
+      "name": "Ghada Adel",
+      "profilePath": "/z2bEbhdv3gRKPeZ9aASshDgWDEP.jpg"
+    },
+    {
+      "character": "Walaa",
+      "id": 3900232,
+      "name": "Donia Sami",
+      "profilePath": "/a8ZSmhmj4W7Fld7QcMQTNu2QNDz.jpg"
+    },
+    {
+      "character": "Layla",
+      "id": 1926546,
+      "name": "Haidy Karam",
+      "profilePath": "/oAKSE5MRo0SwWmgoHbn0t3UnSzE.jpg"
+    },
+    {
+      "character": "ميساء - مديرة المنزل",
+      "id": 1164340,
+      "name": "Salwa Mohamed Ali",
+      "profilePath": "/mIgBQ3gZeP4EX83zlN8f8ISs6Co.jpg"
+    },
+    {
+      "character": "أحمد",
+      "id": 3548013,
+      "name": "Ahmed Al Rafeay",
+      "profilePath": null
+    },
+    {
+      "character": "سيحا",
+      "id": 223962,
+      "name": "Mahmoud Abdel Moghny",
+      "profilePath": "/78NvDJqQ2X71GDKXDIpH0kqEdvp.jpg"
+    },
+    {
+      "character": "",
+      "id": 6064775,
+      "name": "Yazan Elessawy",
+      "profilePath": null
+    },
+    {
+      "character": "كريم",
+      "id": 3548250,
+      "name": "Osama El Hady",
+      "profilePath": "/5D465cAshACC649EO9bGzgqte8Q.jpg"
+    },
+    {
+      "character": "Dina",
+      "id": 4609109,
+      "name": "Tasneem Matar",
+      "profilePath": "/zoj0wTYQOelWxNnPZcRa2MLOIXD.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 226440,
+      "logoPath": "/9Avpps8L4sJmHdnM1H0ryCHclUe.png",
+      "name": "Rasheedy Films"
+    },
+    {
+      "id": 173309,
+      "logoPath": "/ddLQHSJ1uPqbf8Lyo0MwqgzArnn.png",
+      "name": "Magic Beans Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "EG",
+      "name": "Egypt"
+    }
+  ],
+  "digitalDate": "2026-06-18",
+  "externalIds": {
+    "imdbId": "tt40887190",
+    "wikidataId": "Q138673371"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1567555,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ar",
+      "name": "Arabic"
+    }
+  ],
+  "originalTitle": "فاميلي بيزنس",
+  "overview": "A poor family struggles to survive through petty theft, but the father decides to abandon crime after an incident that nearly lands him in prison. He devises a different plan: each family member gets a job working for a wealthy family, concealing their familial ties. They constantly confront the stark contrast between their own world and that of their employers.",
+  "posterPath": "/cTkgBDGGDPlUzLJ1zEWmOopoLdV.jpg",
+  "rating": 4.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-18",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-06-18"
+    }
+  },
+  "runtime": 118,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Family Business",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "X8lgM7iVvZs",
+      "name": "الكبير وصل..🔥استنوا فيلم #فاميلي_بيزنس قريبا بجميع دور العرض#رشيدي_فيلم",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1567555/watch?locale=AE",
+      "rent": []
+    }
+  }
+}

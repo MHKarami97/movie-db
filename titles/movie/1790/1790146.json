@@ -1,0 +1,197 @@
+{
+  "backdropPath": "/3c7UzUJjFGw55FOuu6CYTMfeh9D.jpg",
+  "cast": [
+    {
+      "character": "Dr. Joseph Charalambous",
+      "id": 155209,
+      "name": "Matthew Morrison",
+      "profilePath": "/u3CA6kqhpPVhK3zLD7yW0UfCyWt.jpg"
+    },
+    {
+      "character": "Shelley Charalambous",
+      "id": 4298156,
+      "name": "Molly Saunders",
+      "profilePath": null
+    },
+    {
+      "character": "Jacqueline",
+      "id": 59183,
+      "name": "Sarah-Jane Redmond",
+      "profilePath": "/qhJ0QsKnZslUOCGLur4NS91BXgM.jpg"
+    },
+    {
+      "character": "Katie Simmonds",
+      "id": 1368519,
+      "name": "Matreya Scarrwener",
+      "profilePath": "/fBgjT3cMSxszVipy163O1u6Yf5A.jpg"
+    },
+    {
+      "character": "Chris Simmonds",
+      "id": 29476,
+      "name": "William deVry",
+      "profilePath": "/iCzMYf1eXkrHXhO1PeuLqxW1SBq.jpg"
+    },
+    {
+      "character": "Corporal J. Reid",
+      "id": 72099,
+      "name": "Ben Cotton",
+      "profilePath": "/gn8KZSkxZs0c95ARpjXvxBtwwlX.jpg"
+    },
+    {
+      "character": "Ben",
+      "id": 6541995,
+      "name": "Sebastien Skinner-Kanji",
+      "profilePath": null
+    },
+    {
+      "character": "Danny",
+      "id": 6541997,
+      "name": "Lucky Narciso",
+      "profilePath": null
+    },
+    {
+      "character": "Susan Simmonds",
+      "id": 21092,
+      "name": "Fiona Hogan",
+      "profilePath": "/x5l6bARorJJcG366LnsN9ir9UQO.jpg"
+    },
+    {
+      "character": "Sian Simmonds",
+      "id": 3295317,
+      "name": "Olga Petsa",
+      "profilePath": "/GMQU9mcXz9N9P2lShhOcjU4ynO.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 140422,
+      "logoPath": "/bdzcN8jo9l77g5zKqPlxW3CkejM.png",
+      "name": "Champlain Media"
+    },
+    {
+      "id": 3431,
+      "logoPath": "/bVTF0p5xlPfQhQIuBLr9BFtrKip.png",
+      "name": "Lifetime"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt46970284"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1790146,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Monster She Married",
+  "overview": "Groomed since she was a teen, a woman confronts the dark truth about her husband, the man she once trusted as her pediatrician. When another one of his patients is murdered just days before testifying against him, she must break her silence.",
+  "posterPath": "/coCHKzLH088vh7NcwoWQp2JkFhD.jpg",
+  "rating": 7.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2026-10-10"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Monster She Married",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 4,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1790146-the-monster-she-married/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

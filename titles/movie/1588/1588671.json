@@ -1,0 +1,133 @@
+{
+  "backdropPath": "/8XpdtLahoQ0dem3wQ4ksTUsXk51.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 3506,
+      "logoPath": "/edR3oWGqXyIqYcZNYfdf7QMr4vF.png",
+      "name": "Pioneer Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2025-11-27",
+  "externalIds": {
+    "imdbId": "tt38873848"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1588671,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Louvre Heist: Minute by Minute",
+  "overview": "Dive into a real-time investigation of the shocking daylight robbery at Paris' Louvre Museum. Former thieves, security staff, eyewitnesses and investigators piece together the crime and ongoing chase to recover France's crown jewels before it's too late.",
+  "posterPath": "/fRmX5LRt9OGH879DKnFThO9xUXj.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-11-27"
+    }
+  },
+  "runtime": 42,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Louvre Heist: Minute by Minute",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 9,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 629,
+          "logoPath": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+          "name": "OSN+"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1588671-louvre-heist-minute-by-minute/watch?locale=AE",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 584,
+          "logoPath": "/52htht83nlt2aAobIug88TeiWvO.png",
+          "name": "Discovery+ Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        },
+        {
+          "id": 520,
+          "logoPath": "/tHseJEgZaUdVlLtBpOGmKPfzbQ8.png",
+          "name": "Discovery +"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1588671-louvre-heist-minute-by-minute/watch?locale=US",
+      "rent": []
+    }
+  }
+}

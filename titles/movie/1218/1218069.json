@@ -1,0 +1,169 @@
+{
+  "backdropPath": "/sJZkcbSeK7CYJW9NP5NcpQIjfdB.jpg",
+  "cast": [
+    {
+      "character": "Yugly (voice)",
+      "id": 4333756,
+      "name": "Washim Abdul Gafoor",
+      "profilePath": "/jOknFAeSo334z4Bc0APXEWRTtEL.jpg"
+    },
+    {
+      "character": "Mochy (voice)",
+      "id": 1722940,
+      "name": "Axel Auriant",
+      "profilePath": "/3DHyaI1NvxAyTt64NeVICVYqAMe.jpg"
+    },
+    {
+      "character": "Jerry J (voice)",
+      "id": 1745981,
+      "name": "Olivier Chauvel",
+      "profilePath": "/yIngQdPtD86w4AL3Z5KT6eC6wOa.jpg"
+    },
+    {
+      "character": "Molly (voice)",
+      "id": 6675464,
+      "name": "Fanny Chelim",
+      "profilePath": null
+    },
+    {
+      "character": "Gerald (voice)",
+      "id": 130698,
+      "name": "Bruno Magne",
+      "profilePath": "/5IMxcKhz4Dop8MRLt8pxLX65vs1.jpg"
+    },
+    {
+      "character": "Virginie Woolfe (voice)",
+      "id": 3260609,
+      "name": "Lily Rubens",
+      "profilePath": "/gB6iMLbZzi6hs8LAqQwth0ClCPw.jpg"
+    },
+    {
+      "character": "Papy (voice)",
+      "id": 1612602,
+      "name": "Olivier Peissel",
+      "profilePath": "/m4yIOqEj1tIoDf5V21bu2Ib8SFx.jpg"
+    },
+    {
+      "character": "Puppacino (voice)",
+      "id": 1565968,
+      "name": "Stéphane Ronchewski",
+      "profilePath": "/ch1Y70vg5vPYIyheMPuh0f2uYWZ.jpg"
+    },
+    {
+      "character": "Skull (voice)",
+      "id": 1619513,
+      "name": "Arnaud Léonard",
+      "profilePath": "/xqhMF3jE02r58yL5cqkSYAS2kuI.jpg"
+    },
+    {
+      "character": "Lady Céleste (voice)",
+      "id": 1515111,
+      "name": "Barbara Beretta",
+      "profilePath": "/durLjYMB6bmj9PxD0vZ79LmkT35.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 10159,
+      "logoPath": "/5JOsh2wI3joS6LyGwIJ7I4WopbZ.png",
+      "name": "nWave Pictures"
+    },
+    {
+      "id": 146118,
+      "logoPath": "/qnwbrI1QEvUG3blDWmUolg0BjLs.png",
+      "name": "Octopolis"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt7081280",
+    "wikidataId": "Q140319951"
+  },
+  "fetchedAt": 1795475598522,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1218069,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Yugly",
+  "overview": "Yugly, an irresistibly ugly dog, is determined to compete in the World's Best Dog Show, rallied by a bunch of flamboyant strays.",
+  "posterPath": "/v0k03CaQh6uFc5Ot8Jjhvr5BMYu.jpg",
+  "rating": 5.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 81,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Adorably Ugly",
+  "theatricalDate": null,
+  "title": "Yugly",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "g7Pu1eEmqAw",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {}
+}

@@ -1,0 +1,136 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Zander Vale",
+      "id": 6696282,
+      "name": "Ryan Perry",
+      "profilePath": null
+    },
+    {
+      "character": "Isabella Sanchez",
+      "id": 4222001,
+      "name": "Brianna Borello",
+      "profilePath": "/c00oXDrrD33zKuvo9Gw98GwL3Yc.jpg"
+    },
+    {
+      "character": "Dalya Derry",
+      "id": 5831963,
+      "name": "Amanda Orsini",
+      "profilePath": "/63N1R5aSs7qnZgASJAVQKA87p4i.jpg"
+    },
+    {
+      "character": "Colleen",
+      "id": 6696301,
+      "name": "Malia Jaffe",
+      "profilePath": "/2E2twsNrP1tkHotkrlQ1EZTrhLt.jpg"
+    },
+    {
+      "character": "Michelle",
+      "id": 3378982,
+      "name": "Ashlyn McCain",
+      "profilePath": null
+    },
+    {
+      "character": "Emma",
+      "id": 6696311,
+      "name": "Brooke Siborg",
+      "profilePath": null
+    },
+    {
+      "character": "Grace",
+      "id": 6696313,
+      "name": "Bianca Atari",
+      "profilePath": "/2cGZDxp2zhCGKbMeKPeMOPZtFgD.jpg"
+    },
+    {
+      "character": "Kelly",
+      "id": 3541897,
+      "name": "Sabrina Corsino",
+      "profilePath": "/nOaoMFEVVXeKbjVU1V8XYoUi0S0.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 17807,
+      "logoPath": null,
+      "name": "Reaper Films"
+    },
+    {
+      "id": 291583,
+      "logoPath": null,
+      "name": "Reaper Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt43706132"
+  },
+  "fetchedAt": 1795726124140,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1843139,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "The Skin Crawler Murders",
+  "overview": "A detective investigating ritualistic murders uncovers a taxidermist serial killer who abducts women and harvests their body parts in a twisted experiment.",
+  "posterPath": "/huc4u7fcxJ849qzg7Vf881FdMXJ.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-24"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2026-11-24"
+    }
+  },
+  "runtime": 82,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-11-24",
+  "title": "The Skin Crawler Murders",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

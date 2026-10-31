@@ -1,0 +1,192 @@
+{
+  "backdropPath": "/190eSIqQgXLg9gbr9EjulBV7rR6.jpg",
+  "cast": [
+    {
+      "character": "Eloá",
+      "id": 5815929,
+      "name": "Bianca Sousa",
+      "profilePath": null
+    },
+    {
+      "character": "Lindemberg",
+      "id": 5815930,
+      "name": "Everson Alexandre",
+      "profilePath": null
+    },
+    {
+      "character": "Tina",
+      "id": 5815931,
+      "name": "Maria Jaqueline",
+      "profilePath": null
+    },
+    {
+      "character": "Everaldo",
+      "id": 5815932,
+      "name": "Pery Maia",
+      "profilePath": null
+    },
+    {
+      "character": "Douglas",
+      "id": 5704608,
+      "name": "Caio del Rossi",
+      "profilePath": "/5msBsJItK1Z1nLIXlyn99LS2cXN.jpg"
+    },
+    {
+      "character": "Victor",
+      "id": 1429355,
+      "name": "Caio Cesar Laranjeira",
+      "profilePath": null
+    },
+    {
+      "character": "Iago",
+      "id": 5815933,
+      "name": "Felipe Souza Ferreira",
+      "profilePath": null
+    },
+    {
+      "character": "Nayara",
+      "id": 5815934,
+      "name": "Amanda Celi",
+      "profilePath": "/4IbOGsCCEASWCVcH8bGTrAxxIFs.jpg"
+    },
+    {
+      "character": "Atos",
+      "id": 5815935,
+      "name": "Leandro Destácio",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 93195,
+      "logoPath": "/qjk6yikGcCAqMQvi7Jo2juoIMY.png",
+      "name": "Paris Entretenimento"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "digitalDate": "2025-11-12",
+  "externalIds": {
+    "imdbId": "tt38772659",
+    "wikidataId": "Q138315087"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1564346,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "Caso Eloá: Refém Ao Vivo",
+  "overview": "A tragic hostage case from 2008 Brazil unfolds through unseen diary entries, family interviews, and media coverage, as a 15-year-old girl is held captive by her ex-boyfriend for 100 hours while TV networks broadcast it live.",
+  "posterPath": "/zhDxIfVMmcEE4g7sx5gCcuJYzad.jpg",
+  "rating": 7.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-11-12"
+    }
+  },
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Eloá the Hostage: Live on TV",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 36,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1564346-caso-eloa-refem-ao-vivo/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1564346-caso-eloa-refem-ao-vivo/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1564346-caso-eloa-refem-ao-vivo/watch?locale=US",
+      "rent": []
+    }
+  }
+}

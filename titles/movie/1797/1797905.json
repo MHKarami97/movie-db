@@ -1,0 +1,168 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Izzy",
+      "id": 6293372,
+      "name": "Lou Dubois",
+      "profilePath": null
+    },
+    {
+      "character": "Luna",
+      "id": 5928905,
+      "name": "Emma Barbara",
+      "profilePath": "/AoZmu5D2s4f9esl51Q87klH0Nc7.jpg"
+    },
+    {
+      "character": "Mortimer",
+      "id": 5868674,
+      "name": "Jacob Dalton",
+      "profilePath": null
+    },
+    {
+      "character": "Officer Nicolas Stokes",
+      "id": 6293367,
+      "name": "Kastriot Hasani",
+      "profilePath": null
+    },
+    {
+      "character": "Sophia",
+      "id": 6048755,
+      "name": "Amber Loth",
+      "profilePath": null
+    },
+    {
+      "character": "Parker",
+      "id": 6550494,
+      "name": "Maxim Lewis",
+      "profilePath": null
+    },
+    {
+      "character": "William",
+      "id": 4743389,
+      "name": "Ben Maddocks",
+      "profilePath": null
+    },
+    {
+      "character": "Don",
+      "id": 6304000,
+      "name": "Maxfield Usher",
+      "profilePath": null
+    },
+    {
+      "character": "Mara",
+      "id": 2060814,
+      "name": "Jessie Vinning",
+      "profilePath": "/dcunhsYc1sxrqhLgrEPcxyaFGIX.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 282695,
+      "logoPath": null,
+      "name": "Frenchie Flicks"
+    },
+    {
+      "id": 148176,
+      "logoPath": null,
+      "name": "ITN Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-10-18",
+  "externalIds": {
+    "imdbId": "tt39291785"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1797905,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Shark Lake",
+  "overview": "A couple travel to a remote hotel hoping to repair their relationship, only to discover that the mysterious owner is hiding a deadly secret involving his hungry pet shark, Cinnamon.",
+  "posterPath": "/gi7wHSk0ZoUgPYn2bQaA03eB9Bg.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-10-18",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-10-18"
+    }
+  },
+  "runtime": 86,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Shark Lake",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "ot0t2wYjVro",
+      "name": "SHARK LAKE Official Trailer (2026)",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1797905-shark-lake/watch?locale=US",
+      "rent": [
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

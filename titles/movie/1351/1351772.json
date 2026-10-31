@@ -1,0 +1,193 @@
+{
+  "backdropPath": "/qDjQJ7rEvpdHnfpqiYWR5sa9Urp.jpg",
+  "cast": [
+    {
+      "character": "Charlie",
+      "id": 144288,
+      "name": "Maiara Walsh",
+      "profilePath": "/bzSzz3HmCl12KK0vbTqMajKE1Ct.jpg"
+    },
+    {
+      "character": "Sebastian",
+      "id": 207509,
+      "name": "Mark Hapka",
+      "profilePath": "/a7ST5UIS6oNfFfuZQBPmGBjhMEE.jpg"
+    },
+    {
+      "character": "Atticus",
+      "id": 1924458,
+      "name": "Cameron Cowperthwaite",
+      "profilePath": "/uT8SXIWieodbiVxjzSavuVr5rM1.jpg"
+    },
+    {
+      "character": "Naomi",
+      "id": 238609,
+      "name": "Maya Stojan",
+      "profilePath": "/peqvjTecu9GHD6PVGJfMyK0UL6u.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 238085,
+      "logoPath": "/fAl3oh9jjnFTg89Cc3MoquKUx1B.png",
+      "name": "White Room"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-02-10",
+  "externalIds": {
+    "imdbId": "tt33320124"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1351772,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Bight",
+  "overview": "Two couples' daring foray into open relationships leads down a tumultuous path of jealousy, betrayal, and emotional devastation.",
+  "posterPath": "/jaUEZi2kKNDfgeVQttsIRveH9y0.jpg",
+  "rating": 4.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-10",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-02-10",
+      "premiere": "2026-01-28"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Penitence for our sins.",
+  "theatricalDate": null,
+  "title": "Bight",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "H3CiIdywCzE",
+      "name": "Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 1957,
+          "logoPath": "/rqCIpmrCBpnL6oliak6E1mrq5DD.png",
+          "name": "Cineverse"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2704,
+          "logoPath": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+          "name": "Cineverse Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1351772-bight/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

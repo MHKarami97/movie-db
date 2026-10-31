@@ -1,0 +1,130 @@
+{
+  "backdropPath": "/x9aPgQNnMYp7S0cJ24pJ0ck0sqw.jpg",
+  "cast": [
+    {
+      "character": "Julia",
+      "id": 6161473,
+      "name": "Nena Martins",
+      "profilePath": null
+    },
+    {
+      "character": "Brad",
+      "id": 5995357,
+      "name": "Michael Kunicki",
+      "profilePath": null
+    },
+    {
+      "character": "Ronnie",
+      "id": 2952097,
+      "name": "Jimmy Chung",
+      "profilePath": null
+    },
+    {
+      "character": "The Doctor",
+      "id": 6419567,
+      "name": "William Derrick III",
+      "profilePath": null
+    },
+    {
+      "character": "Lana",
+      "id": 5094586,
+      "name": "Margo O’Donnell",
+      "profilePath": null
+    },
+    {
+      "character": "Abbott Penrose",
+      "id": 1409066,
+      "name": "Brian Rooney",
+      "profilePath": null
+    },
+    {
+      "character": "Gretchen",
+      "id": 1194215,
+      "name": "Joette Waters",
+      "profilePath": "/32kNjwb3xkXeZJtAdcZOb0XVRVs.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 183188,
+      "logoPath": "/qNgImFjk8SP7lwzoH69VgeAGPii.png",
+      "name": "Yale Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-08-18",
+  "externalIds": {
+    "imdbId": "tt32881432",
+    "wikidataId": "Q141364483"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1314826,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Yellow Eyes",
+  "overview": "A young couple inherits a house containing a mysterious relic that hosts the spirit of a powerful demon, and the wife of the man it possesses must find an exorcist to save him.",
+  "posterPath": "/tdIqb0g8fimv2bXIEZdWu6Zfywt.jpg",
+  "rating": 4.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-08-18",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-08-18"
+    }
+  },
+  "runtime": 86,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Yellow Eyes",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "LaeA-hXwqPY",
+      "name": "Yellow Eyes | Official Trailer | Horror Brains",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {}
+}

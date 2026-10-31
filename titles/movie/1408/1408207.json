@@ -1,0 +1,183 @@
+{
+  "backdropPath": "/mH4RXqdkpOzdV3730HDfssPUQvb.jpg",
+  "cast": [
+    {
+      "character": "Mary",
+      "id": 3769534,
+      "name": "Deva Cassel",
+      "profilePath": "/h7ZrTLkgZKbo4bHqtTWEE0vvFmR.jpg"
+    },
+    {
+      "character": "Joseph",
+      "id": 1647127,
+      "name": "Jamie Ward",
+      "profilePath": "/pQU2FMStrAkV7Eh3NxwgUs2ApQ9.jpg"
+    },
+    {
+      "character": "King Herod",
+      "id": 8767,
+      "name": "Jim Caviezel",
+      "profilePath": "/3dwavYsGYA6zzzipfdLIHbudIZW.jpg"
+    },
+    {
+      "character": "Antipater",
+      "id": 65731,
+      "name": "Sam Worthington",
+      "profilePath": "/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+    },
+    {
+      "character": "Nahash",
+      "id": 77335,
+      "name": "Ben Mendelsohn",
+      "profilePath": "/pA9mu9D2IolVA0v2Yo0tJm6uUyI.jpg"
+    },
+    {
+      "character": "Joachim",
+      "id": 258,
+      "name": "Gael García Bernal",
+      "profilePath": "/7uEO29wtdyY9bjt2JN43gVpE6vt.jpg"
+    },
+    {
+      "character": "Dismas",
+      "id": 1420278,
+      "name": "James Oliver Wheatley",
+      "profilePath": "/9h2uhnNzfQZEPKkFR0vDNGZnurU.jpg"
+    },
+    {
+      "character": "Mordecai",
+      "id": 2528280,
+      "name": "Yahya Mahayni",
+      "profilePath": "/kC4BC6BI3eR1Cn73tatConv28l.jpg"
+    },
+    {
+      "character": "Melchior / Astrologer",
+      "id": 54809,
+      "name": "Marco Khan",
+      "profilePath": "/mZhRtwJinLGh7a6R0qcwK7sBeEs.jpg"
+    },
+    {
+      "character": "Mother",
+      "id": 5032432,
+      "name": "Valentina Kamenova",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 165435,
+      "logoPath": "/pDh2WDdOajWST9jlkFo6TOvETnB.png",
+      "name": "Angel Studios"
+    },
+    {
+      "id": 122446,
+      "logoPath": "/l7L9HPjyUPHFK6cxLLO2LovXorh.png",
+      "name": "Kasbah Films"
+    },
+    {
+      "id": 223271,
+      "logoPath": "/2Rc6Dvg3tpIfDzgQE6ycWxNj0kT.png",
+      "name": "2521 Entertainment"
+    },
+    {
+      "id": 262144,
+      "logoPath": null,
+      "name": "Cloud9 Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "MA",
+      "name": "Morocco"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34491649",
+    "wikidataId": "Q131144618"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1408207,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Zero A.D.: The Birth of Christ",
+  "overview": "A star rises over Bethlehem as Christ is born. But when Herod orders the slaughter of the innocents, Mary and Joseph must protect the child promised to save the world.",
+  "posterPath": "/dUeEofJFpp04OjRr2hatZGCFrlR.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-12-11"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2026-12-11"
+    }
+  },
+  "runtime": 115,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "The beginning was nearly the end.",
+  "theatricalDate": "2026-12-11",
+  "title": "Zero A.D.: The Birth of Christ",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "lRF1Etsd4wo",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "JpZ7y72u-c8",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "vWVQYdAUvb8",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,149 @@
+{
+  "backdropPath": "/t2NdxB5kIscjsmK4ZKTWBf7XpY4.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 5753698,
+      "name": "Craig Hemsworth",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 74568,
+      "name": "Chris Hemsworth",
+      "profilePath": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 7503,
+      "logoPath": "/aeJuoe7sjkk8akoybtDeMh5VZr2.png",
+      "name": "Protozoa Pictures"
+    },
+    {
+      "id": 46077,
+      "logoPath": "/7d5nLhfl5dWSDa79L5sV8qn3RBg.png",
+      "name": "Nutopia"
+    },
+    {
+      "id": 183787,
+      "logoPath": "/8G6CbTenzORJdoep1AaghtSEQrY.png",
+      "name": "Wild State"
+    },
+    {
+      "id": 7521,
+      "logoPath": "/fRqMjLjyAqThtEg9P9WKCXLmCpJ.png",
+      "name": "National Geographic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2025-11-24",
+  "externalIds": {
+    "imdbId": "tt38691426",
+    "wikidataId": "Q136955342"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1563925,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Chris Hemsworth: A Road Trip to Remember",
+  "overview": "In his most personal documentary yet, Chris Hemsworth turns the camera on his own family after his dad’s recent Alzheimer’s diagnosis. They embark on a road trip into their past, exploring the science of social connection and how it can support memory function. They revisit meaningful places and faces, capturing it all as a home movie, and reviving treasured recollections.",
+  "posterPath": "/uRvBvxOmqaCMeZNJGducuh2WsgE.jpg",
+  "rating": 7.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-24",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-11-24",
+      "tv": "2025-11-23"
+    }
+  },
+  "runtime": 51,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Chris Hemsworth: A Road Trip to Remember",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "bJtFW5PQ7NU",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 12,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1563925-chris-hemsworth-a-road-trip-to-remember/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1563925-chris-hemsworth-a-road-trip-to-remember/watch?locale=US",
+      "rent": []
+    }
+  }
+}

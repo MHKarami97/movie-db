@@ -1,0 +1,736 @@
+{
+  "backdropPath": "/vooOqBDaPtG0kwhD8h3YLTKLLLF.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 3324,
+      "logoPath": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "1958-10-16",
+  "episodes": {
+    "37": [],
+    "38": [],
+    "40": [],
+    "41": [],
+    "42": [
+      {
+        "airDate": "1999-04-07",
+        "episodeNumber": 87,
+        "name": "Episode 87",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ],
+    "44": [],
+    "45": [],
+    "46": [],
+    "47": [],
+    "48": [
+      {
+        "airDate": "2005-03-21",
+        "episodeNumber": 8,
+        "name": "Doctor Who Special",
+        "overview": "Christopher Eccleston and Billie Piper guest star to discuss the upcoming Doctor Who series.",
+        "stillPath": "/71UdUatVjQO924w76sjQ5va54Tp.jpg",
+        "voteAverage": 0
+      }
+    ],
+    "49": [],
+    "50": [],
+    "51": [],
+    "52": [
+      {
+        "airDate": "2009-06-30",
+        "episodeNumber": 85,
+        "name": "Episode 85",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ],
+    "53": [],
+    "54": [],
+    "55": [],
+    "56": [],
+    "57": [],
+    "58": [
+      {
+        "airDate": "2016-06-10",
+        "episodeNumber": 23,
+        "name": "A Big Surprise & Matilda Ramsay!",
+        "overview": "Lindsey and Radzi try their hand at indoor skydiving.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ],
+    "59": [
+      {
+        "airDate": "2017-12-28",
+        "episodeNumber": 52,
+        "name": "Awesome 2017",
+        "overview": "Blue Peter look back at an epic 2017. A whole year of Blue Peter awesomeness in a 28 minute chunk! Relive some of your favourite challenges, guests and makes.",
+        "stillPath": "/pTaujZ6S3Ak4RJEuYqV1yBjIB1y.jpg",
+        "voteAverage": 0
+      }
+    ],
+    "61": [
+      {
+        "airDate": "2019-04-04",
+        "episodeNumber": 48,
+        "name": "Lindsay and the Alpacas",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ],
+    "62": [],
+    "63": [],
+    "64": [],
+    "65": [],
+    "66": [],
+    "67": []
+  },
+  "externalIds": {
+    "imdbId": "tt0051257",
+    "wikidataId": "Q1247639"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 548,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-10-17",
+    "episodeNumber": 7,
+    "id": 6623904,
+    "name": "Bro’s in Control, Pranks and What Really Happens at the Airport!",
+    "overview": "Bro's in Control stars Adam B, Callum B and Joe Tasker go head-to-head against the Blue Peter presenters in three bonkers battles... with an unexpected prank! Shini goes behind the scenes at Heathrow Airport to discover the epic jobs and secret areas you never usually get to see!",
+    "seasonNumber": 68
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Blue Peter",
+  "overview": "A fun-packed and informative magazine show for younger viewers with information and reports from around the world.",
+  "posterPath": "/qONA6QgXZsqwDNzqv6sLLMicJnU.jpg",
+  "rating": 7.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1958-10-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1958-10-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1958-10-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1958-10-16",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1958-10-16"
+    },
+    "CN": {
+      "tv": "1958-10-16"
+    },
+    "GB": {
+      "tv": "1958-10-16"
+    },
+    "US": {
+      "tv": "1958-10-16"
+    }
+  },
+  "runtime": 25,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "1982-09-06",
+      "episodeCount": 1,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1958-10-16",
+      "episodeCount": 380,
+      "name": "1959-1965",
+      "overview": "The initial run of consecutive episodes from 1959-1965.",
+      "posterPath": "/8sq8Tn5xLnOhLcZNafUONX4hOxo.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1965-09-20",
+      "episodeCount": 87,
+      "name": "1965-1966",
+      "overview": "John Noakes joins.",
+      "posterPath": "/rDcsRIuYr3eJJhMuwN4vf9TZYS4.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1966-09-19",
+      "episodeCount": 84,
+      "name": "1966-1967",
+      "overview": "Christopher Trace leaves.",
+      "posterPath": "/dUo0Z0BH5Idd5feVgxy9LszHkR5.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1967-09-25",
+      "episodeCount": 84,
+      "name": "1967-1968",
+      "overview": "Peter Purves joins.",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1968-09-23",
+      "episodeCount": 81,
+      "name": "1968-1969",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1969-09-15",
+      "episodeCount": 81,
+      "name": "1969-1970",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1970-09-15",
+      "episodeCount": 80,
+      "name": "1970-1971",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1971-09-13",
+      "episodeCount": 82,
+      "name": "1971-1972",
+      "overview": "Leslie Judd joins.",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1972-09-11",
+      "episodeCount": 82,
+      "name": "1972-1973",
+      "overview": "Valerie Singleton leaves.",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1973-09-10",
+      "episodeCount": 82,
+      "name": "1973-1974",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "1974-09-09",
+      "episodeCount": 80,
+      "name": "1974-1975",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "1975-09-08",
+      "episodeCount": 84,
+      "name": "1975-1976",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "1976-09-13",
+      "episodeCount": 80,
+      "name": "1976-1977",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "1977-09-12",
+      "episodeCount": 80,
+      "name": "1977-1978",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "1978-09-11",
+      "episodeCount": 79,
+      "name": "1978-1979",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "1979-09-10",
+      "episodeCount": 81,
+      "name": "1979-1980",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "1980-09-08",
+      "episodeCount": 82,
+      "name": "1980-1981",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "1981-09-14",
+      "episodeCount": 79,
+      "name": "1981-1982",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "1982-09-13",
+      "episodeCount": 79,
+      "name": "1982-1983",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "1983-09-12",
+      "episodeCount": 77,
+      "name": "1983-1984",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "1984-09-10",
+      "episodeCount": 79,
+      "name": "1984-1985",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "1985-09-02",
+      "episodeCount": 1,
+      "name": "1985-1986",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "1986-09-01",
+      "episodeCount": 1,
+      "name": "1986-1987",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "1987-09-07",
+      "episodeCount": 1,
+      "name": "1987-1988",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "1988-09-12",
+      "episodeCount": 1,
+      "name": "1988-1989",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "1989-09-04",
+      "episodeCount": 1,
+      "name": "1989-1990",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "1990-09-10",
+      "episodeCount": 1,
+      "name": "1990-1991",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "1991-09-02",
+      "episodeCount": 1,
+      "name": "1991-1992",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "1992-09-14",
+      "episodeCount": 1,
+      "name": "1992-1993",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "1993-09-13",
+      "episodeCount": 1,
+      "name": "1993-1994",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "1994-09-12",
+      "episodeCount": 1,
+      "name": "1994-1995",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "1995-09-11",
+      "episodeCount": 1,
+      "name": "1995-1996",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "1996-09-02",
+      "episodeCount": 1,
+      "name": "1996-1997",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "1997-09-08",
+      "episodeCount": 1,
+      "name": "1997-1998",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "1998-09-07",
+      "episodeCount": 2,
+      "name": "1998-1999",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "1999-09-06",
+      "episodeCount": 1,
+      "name": "1999-2000",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 36
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "1994",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 37
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "1995",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 38
+    },
+    {
+      "airDate": "1995-09-11",
+      "episodeCount": 12,
+      "name": "1996",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 39
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "1997",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 40
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "1998",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 41
+    },
+    {
+      "airDate": null,
+      "episodeCount": 1,
+      "name": "1999",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 42
+    },
+    {
+      "airDate": "2000-09-04",
+      "episodeCount": 1,
+      "name": "2000",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 43
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "2001",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 44
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "2002",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 45
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "2003",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 46
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "2004",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 47
+    },
+    {
+      "airDate": null,
+      "episodeCount": 1,
+      "name": "2005",
+      "overview": "",
+      "posterPath": "/d44MCwlkXDOoE1zbtMkE4q5bTmA.jpg",
+      "seasonNumber": 48
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "2006",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 49
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "2007",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 50
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "2008",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 51
+    },
+    {
+      "airDate": null,
+      "episodeCount": 1,
+      "name": "2009",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 52
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "2010",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 53
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "2011",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 54
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "2012",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 55
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "2013",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 56
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "2014",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 57
+    },
+    {
+      "airDate": null,
+      "episodeCount": 1,
+      "name": "2015",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 58
+    },
+    {
+      "airDate": null,
+      "episodeCount": 1,
+      "name": "2016",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 59
+    },
+    {
+      "airDate": "2018-01-04",
+      "episodeCount": 21,
+      "name": "2017",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 60
+    },
+    {
+      "airDate": null,
+      "episodeCount": 1,
+      "name": "2018",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 61
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "2019",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 62
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "2020",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 63
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "2021",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 64
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "2022",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 65
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "2023",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 66
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "2024",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 67
+    },
+    {
+      "airDate": "2025-09-05",
+      "episodeCount": 7,
+      "name": "2025",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 68
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Blue Peter",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 8,
+  "watchProviders": {}
+}

@@ -1,0 +1,237 @@
+{
+  "backdropPath": "/vCQ0xBQvA9QKIS4PIq8NIJkKkfd.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 108987,
+      "logoPath": "/pMHL0KoxJ0U1cQoB24D4FwQWq3C.png",
+      "name": "Jesse Collins Entertainment"
+    },
+    {
+      "id": 115672,
+      "logoPath": "/lqV7pQ6lXUjDzbvRfI4eNiT1QDB.png",
+      "name": "Warner Horizon Unscripted Television"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States"
+    }
+  ],
+  "digitalDate": "2026-11-15",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-11-15",
+        "episodeNumber": 1,
+        "name": "Art Imitates Life",
+        "overview": "In 1996, the story began...",
+        "stillPath": "/lLszDydGhVK7XO7xHH9xATsEAt3.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-22",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-29",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-06",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-13",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-20",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ],
+    "2": [
+      {
+        "airDate": "2027-01-03",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-10",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-17",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-24",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-31",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-07",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt51168327"
+  },
+  "fetchedAt": 1795640243421,
+  "gapDays": null,
+  "genres": [],
+  "id": 342335,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-11-22",
+    "episodeNumber": 2,
+    "id": 8138315,
+    "name": "Episode 2",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-29",
+    "episodeNumber": 3,
+    "id": 8138316,
+    "name": "Episode 3",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Space Jam: Beyond the Jam",
+  "overview": "Get ready to go Beyond the Jam with the upcoming six-part mini-doc featuring Michael Jordan, Aleali May, Anthony Anderson, Azzi Fudd, DJ Khaled, Jayson Tatum, Kam Patterson, Nigel Sylvester, Russell Westbrook, Teyana Taylor, and many more!",
+  "posterPath": "/kuLmnRfFQMWWYyC1rthaIWon3W6.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-11-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-11-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-15",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-11-15"
+    },
+    "CN": {
+      "tv": "2026-11-15"
+    },
+    "GB": {
+      "tv": "2026-11-15"
+    },
+    "US": {
+      "tv": "2026-11-15"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-11-15",
+      "episodeCount": 6,
+      "name": "Miniseries",
+      "overview": "",
+      "posterPath": "/xiD6iKWI1P62xquSAObBLxWEIAu.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2027-01-03",
+      "episodeCount": 6,
+      "name": "Miniseries",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "So many questions about doc, so we decided to make one.",
+  "theatricalDate": null,
+  "title": "Space Jam: Beyond the Jam",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "llmTn3mQegA",
+      "name": "It’s time to Jam. Space Jam: Beyond the Jam, Episode 1. Stream it now on Jordan TV.",
+      "official": false,
+      "type": "Teaser"
+    },
+    {
+      "key": "B61T-Rhv4Zk",
+      "name": "Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

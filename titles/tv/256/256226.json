@@ -1,0 +1,210 @@
+{
+  "backdropPath": "/iDnZoZvv220H6pigUWt3BlfPdxQ.jpg",
+  "cast": [
+    {
+      "character": "Baek Ah-jin",
+      "id": 140335,
+      "name": "Kim You-jung",
+      "profilePath": "/eFcMTDIgzSGLHZYXcsf1M42cvFt.jpg"
+    },
+    {
+      "character": "Yoon Joon-seo",
+      "id": 2260418,
+      "name": "Kim Young-dae",
+      "profilePath": "/eF0ymiYRrCmoFncGf6mxRjhWelZ.jpg"
+    },
+    {
+      "character": "Kim Jae-oh",
+      "id": 2152558,
+      "name": "Kim Do-hoon",
+      "profilePath": "/3ISggEbubgBtZiDV7kMVm09X0MG.jpg"
+    },
+    {
+      "character": "Lim Le-na",
+      "id": 1467384,
+      "name": "Lee Yul-eum",
+      "profilePath": "/f0GTS4kgkFAE2zvvX5BzZjTgw95.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 116360,
+      "logoPath": "/mAdUKZhvKTEzjSWYWnt0U46OVpa.png",
+      "name": "Monster Union"
+    },
+    {
+      "id": 273270,
+      "logoPath": null,
+      "name": "Siwoo Company"
+    },
+    {
+      "id": 86418,
+      "logoPath": "/vzzqRwqTin3iAAMw2JlrmVPNnPa.png",
+      "name": "Studio Dragon"
+    },
+    {
+      "id": 128404,
+      "logoPath": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
+      "name": "CJ ENM"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": "2025-11-06",
+  "externalIds": {
+    "imdbId": "tt37890201",
+    "wikidataId": "Q128799066"
+  },
+  "fetchedAt": 1794596645770,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 256226,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ny",
+      "name": "Chichewa; Nyanja"
+    },
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-12-04",
+    "episodeNumber": 12,
+    "id": 6660644,
+    "name": "The Final X",
+    "overview": "Ah-jin’s deepest darkest secrets are revealed just as she rises to the very top.",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "친애하는 X",
+  "overview": "Behind a beautiful face hides a cruel nature—Baek Ah-jin, who sees through and manipulates others' hearts. After stepping on the sacrifices of many to reach the top, everything begins to change the moment she arrives there. A woman wearing a mask to escape hell and climb to the highest place. And the story of the Xs being brutally crushed by her.",
+  "posterPath": "/j2w2PZ5JHEv0HUXwrhsToYiTP4r.jpg",
+  "rating": 8.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-11-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2025-11-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-11-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-06",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2025-11-06"
+    },
+    "CN": {
+      "tv": "2025-11-06"
+    },
+    "GB": {
+      "tv": "2025-11-06"
+    },
+    "US": {
+      "tv": "2025-11-06"
+    }
+  },
+  "runtime": 64,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2025-11-06",
+      "episodeCount": 12,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/wfntYNjE8ZsfFKniWY07maFNJbj.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Ended",
+  "tagline": "\"X\" Marks Her Next Victim.",
+  "theatricalDate": null,
+  "title": "Dear X",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "9reQKNRodEg",
+      "name": "Dear X | Highlights | #HBOMaxAsia",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "4_s3l_jrEmM",
+      "name": "Dear X | Official Trailer | November 6 on #HBOMaxAsia",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "r--u88qbwMQ",
+      "name": "Dear X | Official Teaser | November 6 on #HBOMaxAsia",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 135,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2709,
+          "logoPath": "/mT4URFPgO0MvKxTnjm6b5dkpaL7.png",
+          "name": "CJ ENM Selects Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/256226-x/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 344,
+          "logoPath": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+          "name": "Rakuten Viki"
+        }
+      ],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 344,
+          "logoPath": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+          "name": "Rakuten Viki"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/256226-x/watch?locale=US",
+      "rent": []
+    }
+  }
+}

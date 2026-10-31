@@ -1,0 +1,224 @@
+{
+  "backdropPath": "/tPXHTm4Z48AMwLN43E7DYNxeQpT.jpg",
+  "cast": [
+    {
+      "character": "牧 云",
+      "id": 5430987,
+      "name": "溪林",
+      "profilePath": null
+    },
+    {
+      "character": "秦梦瑶",
+      "id": 5430990,
+      "name": "忻子约",
+      "profilePath": null
+    },
+    {
+      "character": "Voice",
+      "id": 2720416,
+      "name": "Shuai Guan",
+      "profilePath": "/1rTmvuKnSKQs2DqDTKfWBWaIOmi.jpg"
+    },
+    {
+      "character": "Voice",
+      "id": 5431000,
+      "name": "季骜杰",
+      "profilePath": null
+    },
+    {
+      "character": "Voice",
+      "id": 5431003,
+      "name": "钟巍",
+      "profilePath": null
+    },
+    {
+      "character": "Voice",
+      "id": 2721286,
+      "name": "Zhang Ni",
+      "profilePath": null
+    },
+    {
+      "character": "Voice",
+      "id": 2723047,
+      "name": "Xiang Xu",
+      "profilePath": "/hE2BnMQ7KoGyEyM3fNPCWzALLCk.jpg"
+    },
+    {
+      "character": "Voice",
+      "id": 5431012,
+      "name": "Akira明",
+      "profilePath": null
+    },
+    {
+      "character": "Voice",
+      "id": 5431013,
+      "name": "兰若镝",
+      "profilePath": null
+    },
+    {
+      "character": "Voice",
+      "id": 5431015,
+      "name": "默伶",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 138296,
+      "logoPath": "/6QznS7WheoayqktYQfty2IS3RlT.png",
+      "name": "Ruo Hong Culture"
+    },
+    {
+      "id": 122699,
+      "logoPath": "/rNuZaO3S54yNb2inykTHBg8meCe.png",
+      "name": "iQIYI Pictures （重复 同 iQiyi Motion Pictures）"
+    },
+    {
+      "id": 84946,
+      "logoPath": "/8wrAXwrNZ5zHImKb0SyVLQbXkaM.png",
+      "name": "Tencent Penguin Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "digitalDate": "2020-05-18",
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "id": 107116,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-30",
+    "episodeNumber": 653,
+    "id": 7853222,
+    "name": "Episode 653",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-02",
+    "episodeNumber": 654,
+    "id": 7853226,
+    "name": "Episode 654",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "无上神帝",
+  "overview": "Ten thousand years after his betrayal, Immortal King Mu Yun awakens in the body of a \"useless\" young man. With hidden alchemy skills and the Slaughter Immortal Diagram, he cures Qin Mengyao, uncovering her Ice Phoenix spirit. As their bond grows, jealous rival Dongfang Yu seeks revenge. Mu Yun embarks on a training journey—unaware assassins await their chance to strike.",
+  "posterPath": "/8vmZErkbw5d5iwXHO23zVmvixOB.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2020-05-18",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2020-05-18",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2020-05-18",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2020-05-18",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2020-05-18"
+    },
+    "CN": {
+      "tv": "2020-05-18"
+    },
+    "GB": {
+      "tv": "2020-05-18"
+    },
+    "US": {
+      "tv": "2020-05-18"
+    }
+  },
+  "runtime": 8,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2020-05-18",
+      "episodeCount": 660,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/r6U4AIvhdmhDER4b30btOMQvI1V.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Supreme God Emperor",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 8,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 623,
+          "logoPath": "/wonfCSSdI55EfVFlWJyyQZIlYx7.png",
+          "name": "WeTV"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/107116/watch?locale=AE",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 623,
+          "logoPath": "/wonfCSSdI55EfVFlWJyyQZIlYx7.png",
+          "name": "WeTV"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/107116/watch?locale=US",
+      "rent": []
+    }
+  }
+}

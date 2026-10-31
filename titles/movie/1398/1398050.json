@@ -1,0 +1,267 @@
+{
+  "backdropPath": "/3fs6Encf71ChabAKV6VrnpQRrjV.jpg",
+  "cast": [
+    {
+      "character": "Jeremy",
+      "id": 3153829,
+      "name": "Sam Nivola",
+      "profilePath": "/4EL6gTYGkmrjZo7hBjDemut3m1Q.jpg"
+    },
+    {
+      "character": "Evie",
+      "id": 4427211,
+      "name": "Sophie Telegadis",
+      "profilePath": "/tFupUcQJ5gNyOFkAiIW2cRcNqJ7.jpg"
+    },
+    {
+      "character": "Aparna",
+      "id": 1881789,
+      "name": "Mohana Krishnan",
+      "profilePath": "/4utuJbEgmnbQdFmoRQg3Dsk14LF.jpg"
+    },
+    {
+      "character": "Yoshi",
+      "id": 3535989,
+      "name": "Aidan Laprete",
+      "profilePath": "/ipfzLeDycmV9qqpiyN4yzGj8Ure.jpg"
+    },
+    {
+      "character": "Mr. Rivers",
+      "id": 466505,
+      "name": "Kumail Nanjiani",
+      "profilePath": "/9EyrK1Cv7ey1h1GgmsVAOn45w6G.jpg"
+    },
+    {
+      "character": "Principal Fisher",
+      "id": 28640,
+      "name": "Molly Shannon",
+      "profilePath": "/5ZTbNpJtDRU4ZCH24nJvFRxaqAD.jpg"
+    },
+    {
+      "character": "Samantha",
+      "id": 3591923,
+      "name": "Lilah Pate",
+      "profilePath": "/3b7iVk86SRKrOL0FETBUVf6AKIl.jpg"
+    },
+    {
+      "character": "Officer Walsh",
+      "id": 1394353,
+      "name": "Tim Baltz",
+      "profilePath": "/zCUcN5SDKrrZRaA0GfaVxYeMLSX.jpg"
+    },
+    {
+      "character": "Officer Lee",
+      "id": 3422457,
+      "name": "Bri Giger",
+      "profilePath": "/pHxreuXoyS2AbcwPV1pgCykrv36.jpg"
+    },
+    {
+      "character": "Lo",
+      "id": 3087892,
+      "name": "Marley Aliah",
+      "profilePath": "/2ZSqjL98KvbwyCswDvXeiIhiWwO.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 110799,
+      "logoPath": "/eHjtiQJjrGQTooEsBmPSYoUnNB.png",
+      "name": "AGC Studios"
+    },
+    {
+      "id": 274258,
+      "logoPath": null,
+      "name": "Jonas Pate"
+    },
+    {
+      "id": 196919,
+      "logoPath": null,
+      "name": "TFC Productions"
+    },
+    {
+      "id": 121204,
+      "logoPath": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+      "name": "BondIt Media Capital"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt9308022",
+    "wikidataId": "Q133540776"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1398050,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Driver's Ed",
+  "overview": "A group of teens hit the road in a stolen driver's ed car, racing against time to help a lovesick high school senior track down his college-freshman girlfriend and win her back.",
+  "posterPath": "/hHbzSzjJnmcq02l2razSScBEVBf.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-06-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-15"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-06-26"
+    },
+    "US": {
+      "theatricalLimited": "2026-05-15"
+    }
+  },
+  "runtime": 102,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Follow you heart... and the rules of the road.",
+  "theatricalDate": "2026-05-15",
+  "title": "Driver's Ed",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "NTwuzdjmfTo",
+      "name": "Driver's Ed | Official Trailer (HD) | Vertical",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 99,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1398050-driver-s-ed/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2303,
+          "logoPath": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "id": 2616,
+          "logoPath": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+          "name": "Paramount Plus Essential"
+        },
+        {
+          "id": 582,
+          "logoPath": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        },
+        {
+          "id": 633,
+          "logoPath": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+          "name": "Paramount+ Roku Premium Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1398050-driver-s-ed/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

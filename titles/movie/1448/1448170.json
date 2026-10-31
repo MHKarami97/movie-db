@@ -1,0 +1,205 @@
+{
+  "backdropPath": "/lpi4D78RsCA0cZoDr5U2q6ZvBTb.jpg",
+  "cast": [
+    {
+      "character": "Michael C Williams",
+      "id": 3270697,
+      "name": "Roshan Meka",
+      "profilePath": "/nuwKLExCflAJFHCymjcaNeIzPGR.jpg"
+    },
+    {
+      "character": "Tallapudi Chandrakala",
+      "id": 1899034,
+      "name": "Anaswara Rajan",
+      "profilePath": "/p6EAI6n2Zg7g82MIR5f4PiAFyto.jpg"
+    },
+    {
+      "character": "Raaji Reddy",
+      "id": 3646471,
+      "name": "Nandamuri Kalyana Chakravarthy",
+      "profilePath": null
+    },
+    {
+      "character": "Babu Deshmukh",
+      "id": 1337335,
+      "name": "Santhosh Prathap",
+      "profilePath": "/3Rb6nFHRLZmHSSdlMzd4ZNsZYpM.jpg"
+    },
+    {
+      "character": "Qasim Razvi",
+      "id": 86020,
+      "name": "Kay Kay Menon",
+      "profilePath": "/lcCMzGpxHXTStLMN7G9SQovxSQo.jpg"
+    },
+    {
+      "character": "Sundaraiah",
+      "id": 85588,
+      "name": "Murali Sharma",
+      "profilePath": "/8m4L7L9lK4Z2YK4Jg97pMbA0Le5.jpg"
+    },
+    {
+      "character": "Hashim",
+      "id": 85451,
+      "name": "Ranvir Shorey",
+      "profilePath": "/bkJYFpPmBB77GwlbjCIgYE8qVrO.jpg"
+    },
+    {
+      "character": "Chakrapani",
+      "id": 1911155,
+      "name": "Hyper Adhi",
+      "profilePath": "/qKFNVomWgVPNTi69kqwTk8z3Y9Q.jpg"
+    },
+    {
+      "character": "Andrea",
+      "id": 435722,
+      "name": "Kovai Sarala",
+      "profilePath": "/rujbfPg6rp9DOphQZYUjll7KNPz.jpg"
+    },
+    {
+      "character": "Diana",
+      "id": 2749024,
+      "name": "Avantika",
+      "profilePath": "/4kASmotHYtrwkIMGmyArKLvaQOz.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 104527,
+      "logoPath": null,
+      "name": "Swapna Cinema"
+    },
+    {
+      "id": 86347,
+      "logoPath": "/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png",
+      "name": "Zee Studios"
+    },
+    {
+      "id": 80065,
+      "logoPath": "/9zMLq3789hC7qAPpbMl4TwaxJ69.png",
+      "name": "Vyjayanthi Movies"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt27136041",
+    "wikidataId": "Q136462960"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1448170,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "te",
+      "name": "Telugu"
+    }
+  ],
+  "originalTitle": "ఛాంపియన్",
+  "overview": "An aspiring football star desperately seeks a way to travel to England to play for a famous team, but his journey leads him to a village waging a bloody conflict.",
+  "posterPath": "/mC8s4ZUt1bTAL3OAlZGSSEs3Ieo.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-12-25"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2025-12-25"
+    }
+  },
+  "runtime": 167,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2025-12-25",
+  "title": "Champion",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "5V9gNyaKpxg",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1448170/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1448170/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1448170/watch?locale=US",
+      "rent": []
+    }
+  }
+}

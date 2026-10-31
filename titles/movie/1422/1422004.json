@@ -1,0 +1,294 @@
+{
+  "backdropPath": "/4CJiw5bAYHBa9XZJ2QdTlQW7KKA.jpg",
+  "cast": [
+    {
+      "character": "Bunny",
+      "id": 3026500,
+      "name": "Mo Stark",
+      "profilePath": "/ztqyEqvrrj1ZRbG0qNUi9Qa9Axg.jpg"
+    },
+    {
+      "character": "Dino",
+      "id": 1799774,
+      "name": "Ben Jacobson",
+      "profilePath": "/pssVh963NqH02Q9WfB77VLg8S5b.jpg"
+    },
+    {
+      "character": "Rabbi",
+      "id": 15319,
+      "name": "Henry Czerny",
+      "profilePath": "/zOWZzRmliKf9032IOOq0a3jXhVv.jpg"
+    },
+    {
+      "character": "Officer Belle",
+      "id": 71889,
+      "name": "Michael Abbott Jr.",
+      "profilePath": "/af4hYV7WwEtL48eND0xDsdobJq9.jpg"
+    },
+    {
+      "character": "Officer Cellestino",
+      "id": 1982,
+      "name": "Ajay Naidu",
+      "profilePath": "/tOvD8yveJ4Aq10LICADK3wS3dwE.jpg"
+    },
+    {
+      "character": "Officer Nadov",
+      "id": 3514776,
+      "name": "Liz Caribel Sierra",
+      "profilePath": "/o19U0aAcLwvf6mYtD4VpmKkNtqH.jpg"
+    },
+    {
+      "character": "Bobbie",
+      "id": 3655725,
+      "name": "Liza Colby",
+      "profilePath": "/wmlb73a5e52hLydxS7xRfrtZVms.jpg"
+    },
+    {
+      "character": "Loren",
+      "id": 173686,
+      "name": "Anthony Drazan",
+      "profilePath": null
+    },
+    {
+      "character": "Linda",
+      "id": 5197147,
+      "name": "Linda Rong Mei Chen",
+      "profilePath": null
+    },
+    {
+      "character": "Happy Chana",
+      "id": 61018,
+      "name": "Genevieve Hudson-Price",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 258543,
+      "logoPath": null,
+      "name": "Pragma"
+    },
+    {
+      "id": 57743,
+      "logoPath": "/fon2TaTj6WU8kVfAmlHsvpPdt2p.png",
+      "name": "Free Association"
+    },
+    {
+      "id": 258544,
+      "logoPath": null,
+      "name": "Sarah Sarandos Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-11-14",
+  "externalIds": {
+    "imdbId": "tt35519464",
+    "wikidataId": "Q133307626"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1422004,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Bunny",
+  "overview": "Two best friends rally the neighbors in their tenement building to help them hide a dead body over the best/worst night of their lives.",
+  "posterPath": "/gFPGHCC7yJrtoL6C3jlcXhutq3y.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-12-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-14",
+      "gapDays": 0,
+      "theatricalDate": "2025-11-14"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2025-12-08"
+    },
+    "US": {
+      "digital": "2025-11-14",
+      "premiere": "2025-03-08",
+      "theatricalLimited": "2025-11-14"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "5 floors. 4 neighbors. 3 cops. 2 bodies. 1 night.",
+  "theatricalDate": "2025-11-14",
+  "title": "Bunny",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Us3Mu_NVHpY",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 14,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1422004-bunny/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1422004-bunny/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

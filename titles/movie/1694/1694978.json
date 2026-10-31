@@ -1,0 +1,296 @@
+{
+  "backdropPath": "/6kheApG5qPsKbiKDxsGpOb6i6i6.jpg",
+  "cast": [
+    {
+      "character": "Tina",
+      "id": 59860,
+      "name": "Alice Eve",
+      "profilePath": "/tJUSx0Cw7pCnRsCWbGTX2POiTKM.jpg"
+    },
+    {
+      "character": "Tom",
+      "id": 83051,
+      "name": "Eric Michael Cole",
+      "profilePath": "/v2eLFJQ0TOAFvGwCr2T1Y4dMOJt.jpg"
+    },
+    {
+      "character": "Roy",
+      "id": 206624,
+      "name": "Jim Klock",
+      "profilePath": "/uP9BqJHWhtLmJ2UEmwSiRp4jpp6.jpg"
+    },
+    {
+      "character": "Sadie",
+      "id": 5549022,
+      "name": "Elle Haymond",
+      "profilePath": "/wGu8Thpu7xxPQmbHSApDgRKZ7xk.jpg"
+    },
+    {
+      "character": "Rachinda",
+      "id": 2143996,
+      "name": "Sarah Siadat",
+      "profilePath": "/vyF9rI23fe2MQbkYDorP5znHbHC.jpg"
+    },
+    {
+      "character": "Rick",
+      "id": 4093581,
+      "name": "Johnny Gaffney",
+      "profilePath": "/y4ZlgwVOnSwM3WQ8oYntT5jtYXj.jpg"
+    },
+    {
+      "character": "Britney",
+      "id": 3077764,
+      "name": "Lisa Yaro",
+      "profilePath": "/nB7zCr0kuNe6VBBQdL9a3tiWkWa.jpg"
+    },
+    {
+      "character": "Captain Mackey",
+      "id": 622844,
+      "name": "Vince Jolivette",
+      "profilePath": null
+    },
+    {
+      "character": "Captain Daniels",
+      "id": 2331079,
+      "name": "Robert Grose",
+      "profilePath": "/uHPmAaFulYFwuHWFMGpDpokCmRA.jpg"
+    },
+    {
+      "character": "Coast Guard Officer",
+      "id": 4049977,
+      "name": "Peppijna Dalli",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 7579,
+      "logoPath": "/a4siBqtQZuQacF2oku8KHrmokv3.png",
+      "name": "Redwire Pictures"
+    },
+    {
+      "id": 116018,
+      "logoPath": null,
+      "name": "Green Light Pictures"
+    },
+    {
+      "id": 225651,
+      "logoPath": null,
+      "name": "KED Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "MT",
+      "name": "Malta"
+    }
+  ],
+  "digitalDate": "2026-06-05",
+  "externalIds": {
+    "imdbId": "tt41604789",
+    "wikidataId": "Q139858801"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1694978,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Chum",
+  "overview": "A newlywed couple joins friends on a Mediterranean yacht excursion, only to find themselves caught between a predatory shark and a psychopathic killer in their midst-transforming a sun-drenched escape into a fight for survival.",
+  "posterPath": "/uJOW6pWxJ0i5sji9VXRR6Y1wXyE.jpg",
+  "rating": 5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-27"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-08-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-05",
+      "gapDays": 0,
+      "theatricalDate": "2026-06-05"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-05-27"
+    },
+    "GB": {
+      "digital": "2026-08-17"
+    },
+    "US": {
+      "digital": "2026-06-05",
+      "theatricalLimited": "2026-06-05"
+    }
+  },
+  "runtime": 87,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "There's no hiding in the sea.",
+  "theatricalDate": "2026-06-05",
+  "title": "Chum",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "oZWDFelquX4",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 47,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1694978-chum/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 635,
+          "logoPath": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+          "name": "AMC+ Roku Premium Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1694978-chum/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "backdropPath": "/3E7yiIPQDEETOBVYDzVDgbnUM0.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1184882,
+      "name": "Billie Jean King",
+      "profilePath": "/iim56BMfTZxeifP4Y5HiAdyhFit.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 11370,
+      "name": "Elton John",
+      "profilePath": "/wjsJqw6nliNPV3oVpo9sCGWia48.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 44127,
+      "name": "Larry King",
+      "profilePath": "/afNrrwBSbeFLrh0dVHvlMRRyont.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1214573,
+      "name": "Serena Williams",
+      "profilePath": "/qMoRnzYuUkqb8VZjbX4XWZeQZzY.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 46986,
+      "name": "Chris Evert",
+      "profilePath": "/A48QDxeagITZPRp8vwWKemWXrl1.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 1184883,
+      "name": "Bobby Riggs",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 18595,
+      "logoPath": "/2K8ko5VX6K2JTLmyctDpvH7Sgk9.png",
+      "name": "ESPN Films"
+    },
+    {
+      "id": 136480,
+      "logoPath": "/5fLrloYGsWbdxS0HMmetiyZJ0Tw.png",
+      "name": "Story Syndicate"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States"
+    }
+  ],
+  "digitalDate": "2026-11-22",
+  "externalIds": {
+    "imdbId": "tt39150093",
+    "wikidataId": "Q137427768"
+  },
+  "fetchedAt": 1795811653654,
+  "gapDays": 2,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1596314,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Give Me the Ball!",
+  "overview": "World champion tennis trailblazer Billie Jean King has had a game-changing impact on culture and sports. Rare archive and candid interviews with Billie Jean and those closest to her reveal how one woman put changing the world ahead of saving herself.",
+  "posterPath": "/3c676NigenwRlT1VmW3do9IU5Hd.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-22",
+      "gapDays": 2,
+      "theatricalDate": "2026-11-20"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-22",
+      "premiere": "2026-01-26",
+      "theatricalLimited": "2026-11-20",
+      "tv": "2026-11-22"
+    }
+  },
+  "runtime": 101,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-11-20",
+  "title": "Give Me the Ball!",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "NVPD94LeDGY",
+      "name": "30 FOR 30: GIVE ME THE BALL! Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1596314-give-me-the-ball/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1596314-give-me-the-ball/watch?locale=US",
+      "rent": []
+    }
+  }
+}

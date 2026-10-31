@@ -1,0 +1,121 @@
+{
+  "backdropPath": "/deDfgwDIomaQXZLR8iL6pRFXiB4.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 194565,
+      "logoPath": null,
+      "name": "Studio K"
+    },
+    {
+      "id": 74238,
+      "logoPath": "/9wDgX5ryoIZr4LLxZ261S7DAvBW.png",
+      "name": "KBS"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": "2022-08-29",
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 208960,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-25",
+    "episodeNumber": 154,
+    "id": 7937172,
+    "name": "ILLIT: Korea's Leading Women CEOs Conference (EP. 78-1)",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-01",
+    "episodeNumber": 155,
+    "id": 7937173,
+    "name": "ILLIT: Korea's Leading Women CEOs Conference (EP. 78-2)",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "돌박이일",
+  "overview": "Spin-off version of the famous variety show \"1 Night 2 Days\".",
+  "posterPath": "/i2qij6ZaV3esGOiEPCTBIJwn456.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2022-08-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2022-08-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2022-08-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2022-08-29",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2022-08-29"
+    },
+    "CN": {
+      "tv": "2022-08-29"
+    },
+    "GB": {
+      "tv": "2022-08-29"
+    },
+    "US": {
+      "tv": "2022-08-29"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2022-08-29",
+      "episodeCount": 155,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/dTiUwkavZkMXH7gdLhPwE3SmCyd.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "IDOL 1N2D",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

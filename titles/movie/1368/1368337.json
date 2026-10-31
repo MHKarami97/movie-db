@@ -1,0 +1,678 @@
+{
+  "backdropPath": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+  "cast": [
+    {
+      "character": "Odysseus",
+      "id": 1892,
+      "name": "Matt Damon",
+      "profilePath": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+    },
+    {
+      "character": "Telemachus",
+      "id": 1136406,
+      "name": "Tom Holland",
+      "profilePath": "/5OK84Wn1bIEIThFKcVoaN087mLj.jpg"
+    },
+    {
+      "character": "Penelope",
+      "id": 1813,
+      "name": "Anne Hathaway",
+      "profilePath": "/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg"
+    },
+    {
+      "character": "Antinous",
+      "id": 11288,
+      "name": "Robert Pattinson",
+      "profilePath": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+    },
+    {
+      "character": "Eurylochus",
+      "id": 1227717,
+      "name": "Himesh Patel",
+      "profilePath": "/icqsXLmU0FxBGTv63kkA0GcrecO.jpg"
+    },
+    {
+      "character": "Calypso",
+      "id": 6885,
+      "name": "Charlize Theron",
+      "profilePath": "/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+    },
+    {
+      "character": "Eumaeus",
+      "id": 5723,
+      "name": "John Leguizamo",
+      "profilePath": "/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+      "character": "Bard",
+      "id": 1978406,
+      "name": "Travis Scott",
+      "profilePath": "/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg"
+    },
+    {
+      "character": "Polybus",
+      "id": 1154054,
+      "name": "Corey Hawkins",
+      "profilePath": "/wRt0Bc0chN5BSjvYzmg2evgqNzp.jpg"
+    },
+    {
+      "character": "Leodes",
+      "id": 84706,
+      "name": "Jarreth J. Merz",
+      "profilePath": "/ze8WDEujZmTXdCLcUy0IaymwlcS.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 33,
+      "logoPath": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures"
+    },
+    {
+      "id": 9996,
+      "logoPath": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+      "name": "Syncopy"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-17",
+  "externalIds": {
+    "facebookId": "OdysseyMovie",
+    "imdbId": "tt33764258",
+    "instagramId": "theodysseymovie",
+    "twitterId": "odysseymovie",
+    "wikidataId": "Q131547207"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 123,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "id": 1368337,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Odyssey",
+  "overview": "این فیلم یک اقتباس حماسی و اکشن از شعر حماسی معروف هومر (Odyssey) به حساب می‌آید که داستان سفر طولانی و پرماجرای اودیسئوس (پادشاه ایتاکا) رو بعد از جنگ تروآ روایت می‌کند. او با موجودات اساطیری مثل سایکلوپس (پولیفموس)، سیرن‌ها و سیرسه روبرو شده و سعی می‌کند به خانه و همسرش پنه‌لوپه برگردد.",
+  "posterPath": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+  "rating": 8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-07-16"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-14"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-07-17"
+    },
+    "US": {
+      "digitalDate": "2026-11-17",
+      "gapDays": 123,
+      "theatricalDate": "2026-07-17"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-07-16"
+    },
+    "CN": {
+      "premiere": "2026-07-30",
+      "theatrical": "2026-08-14",
+      "theatricalLimited": "2026-08-01"
+    },
+    "GB": {
+      "premiere": "2026-07-06",
+      "theatrical": "2026-07-17"
+    },
+    "US": {
+      "digital": "2026-11-17",
+      "physical": "2026-11-17",
+      "premiere": "2026-07-14",
+      "theatrical": "2026-07-17"
+    }
+  },
+  "runtime": 173,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Defy the gods.",
+  "theatricalDate": "2026-07-17",
+  "title": "The Odyssey",
+  "translations": {
+    "faOverview": "این فیلم یک اقتباس حماسی و اکشن از شعر حماسی معروف هومر (Odyssey) به حساب می‌آید که داستان سفر طولانی و پرماجرای اودیسئوس (پادشاه ایتاکا) رو بعد از جنگ تروآ روایت می‌کند. او با موجودات اساطیری مثل سایکلوپس (پولیفموس)، سیرن‌ها و سیرسه روبرو شده و سعی می‌کند به خانه و همسرش پنه‌لوپه برگردد.",
+    "faTitle": "اودیسه"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "2mfqNJTC1QU",
+      "name": "Watch at Home November 17",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "TMtYbo_pJo8",
+      "name": "Nolan's mind + IMAX technology = Cinematic Perfection",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ZcmMD92CVg4",
+      "name": "The odyssey of The Odyssey continues.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "b0lQs4hnCqU",
+      "name": "A moment for this cinematic duo, director Christopher Nolan and producer Emma Thomas.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "CUvciqDZ328",
+      "name": "Our radiant Penelope, Anne Hathaway at the World Premiere of The Odyssey.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "aUWTVfwdm-c",
+      "name": "The EPIC journey of The Odyssey will be back in IMAX this FRIDAY",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "L4DhA5uFuK4",
+      "name": "A suave Tom Holland at the World Premiere of The Odyssey.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "uZR0s1THqg0",
+      "name": "The Odyssey has officially reached $1B worldwide",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "eFiZslD5WRE",
+      "name": "the whole story deserves the whole frame",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "vnKy33NxZ9Q",
+      "name": "A moment between Tom Holland and a young fan.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "R0mPzTSYaHU",
+      "name": "Behind the scenes on the Trojan Horse for the World Premiere of The Odyssey in London.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "su8h58z210s",
+      "name": "a man. an icon. a song.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "dYULabYel5U",
+      "name": "The Odyssey cast with the oldest known book copy of Homer’s epic in existence",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "UwNughNtPho",
+      "name": "From the workshop floor to the World Premiere red carpet.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "p6W3EWqpvZ4",
+      "name": "See it to believe it.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "5AtY6lfSr84",
+      "name": "Step onto the set of The Odyssey with Anne Hathaway and Matt Damon",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "b26ooADsW1I",
+      "name": "Exclusive IMAX Interview",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "U6Y5X3fJVhA",
+      "name": "Bring home the epic. The Odyssey x IMAX collection. Available now. Exclusively in the IMAX Store.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "MSlhF2Lt-Hg",
+      "name": "Brand new state of the art IMAX cameras.",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "gIiZ7acBx34",
+      "name": "Biggest IMAX opening of 2026!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "aQP316HV8Ek",
+      "name": "Christopher Nolan's BIGGEST opening weekend.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "jjAlx6gdWz4",
+      "name": "As Nolan intended",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "MaXOG70qBBY",
+      "name": "The filming locations of The Odyssey",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "e_Q2d8rZaq0",
+      "name": "A film that needs to be experienced on the biggest screen possible.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Xq7569vxQls",
+      "name": "Step behind the scenes with Tom Holland as he trains for The Odyssey fight scenes",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "YGf9Pno431w",
+      "name": "A colossal cast gave us some iconic looks for The Odyssey global press tour.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "N0M8E7owlsU",
+      "name": "group project: success",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "eO0pgPxeNGc",
+      "name": "Trojan Horse🤝 Trafalgar Square",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "k6aYIQjfutw",
+      "name": "Something's landed on our shores Mzansi",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ZWV92fM9r40",
+      "name": "The looks we encountered on our Journey to see Christopher Nolan's The Odyssey on the biggest screen",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "kYUPEBa5Tjc",
+      "name": "Mzansi the journey awaits.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "q6nuEJr_WDc",
+      "name": "THE ODYSSEY RELEASE IS TODAY! The voyage home is never as simple as it seems.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "HI_1D7lzkwg",
+      "name": "The wait is over. The Odyssey is in cinemas now.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "q87YwVj0c7k",
+      "name": "who knows nolan as well as i do",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "od-qTgAS_2A",
+      "name": "Special delivery!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "qoKFX0SQMiU",
+      "name": "Trojan Horse in London",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "TS1Nsh_m1QQ",
+      "name": "The Odyssey is leaving audiences in awe.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "tXC6YtXkNOw",
+      "name": "my eyes and ears have been blessed",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "gJ37xyqVtQQ",
+      "name": "Come on England",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "fUNA-IqWT4I",
+      "name": "It's almost too beautiful to behold",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "GT37prVAl6o",
+      "name": "The hype is real.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "qikpHP6JOj4",
+      "name": "shaking with excitement rn",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "rsa0iPKQNl0",
+      "name": "Trojan Horse in Trafalgar Square",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "jaQRCe5rOeM",
+      "name": "Military Students Surprise",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "z4NbBNsnzQ8",
+      "name": "The Odyssey cast have a message for you.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "2FutwYQUseM",
+      "name": "The Odyssey cast and filmmakers in Mumbai",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "WuwK4LCPsiM",
+      "name": "Nobody does it like Christopher Nolan.",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "Ug0VLhNrLNA",
+      "name": "A star-studded night at the World Premiere of The Odyssey.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ZGG-pBIWKss",
+      "name": "In Rehearsal: Tom Holland",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "_OW0Pbbc3ns",
+      "name": "A Look Inside",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "5xVyjpsNo_w",
+      "name": "Check out the amazing cast of Christopher Nolan's The Odyssey at the London premiere.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ZoBiXoEI1WU",
+      "name": "A family reunion. Matt Damon, Anne Hathaway & Tom Holland at the World Premiere of The Odyssey.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ErpdQeowp_8",
+      "name": "King & Queen of Ithaca. Matt Damon & Anne Hathaway at The Odyssey World Premiere.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "5_iyqjf4v2M",
+      "name": "An epic team for an epic tale.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "IrNKaER_n3c",
+      "name": "Welcoming Christopher Nolan, the director of The Odyssey, alongside producer Emma Thomas.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "CEx94hiz_GM",
+      "name": "Robert Pattinson aka the sinister Antinuous at The Odyssey World Premiere.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6Qio4TeltQI",
+      "name": "Charlize Theron who plays the captivating Calypso in The Odyssey at the World Premiere.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "1Ftr1C1o_OI",
+      "name": "The incredible Lupita Nyong'o arrives at the World Premiere of The Odyssey.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ihVcO_SfV98",
+      "name": "Zendaya is Athena, goddess of wisdom and war in The Odyssey.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "lMFOmwDQGfU",
+      "name": "Anne Hathaway graces the carpet at the World Premiere of The Odyssey.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "aTiupL0O5og",
+      "name": "Tom Holland aka Telemachus arrives at the World Premiere of Christopher Nolan’s The Odyssey.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ar9XMtwNNSw",
+      "name": "Matt Damon, the heroic Odysseus himself arrives at the World Premiere of The Odyssey.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "dog0n1in4L4",
+      "name": "World Premiere Livestream",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "NVSwUFLDLuA",
+      "name": "A family affair... Matt Damon, Anne Hathaway & Tom Holland AKA Father, Mother & Son in The Odyssey.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "VIfMlmTWO-Q",
+      "name": "Swapping Ancient Greece for the rooftops of London, it’s Matt Damon, Tom Holland & Robert Pattinson.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6DJRc7f0cuU",
+      "name": "Anne Hathaway, Zendaya, Lupita Nyong’o, and Samantha Morton",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "qlK4o7-aRR4",
+      "name": "The epic cast of The Odyssey & director Christopher Nolan have landed in London",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "MYZqwrfwk-Q",
+      "name": "Matt Damon and John Leguizamo",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "878fqgrIRIQ",
+      "name": "Completely in IMAX",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "AyIZ9tiiN8I",
+      "name": "Official Countdown Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "ie6k69mpHHI",
+      "name": "On July 17 embark on an epic journey",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "M9RP7Y4bgkc",
+      "name": "Fantastic Voyage",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "0XhKvtlLJk4",
+      "name": "In Studio: Ludwig Göransson",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "C99aF-ojPaM",
+      "name": "Matt Damon on IMAX 70MM",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "9pPe6Jx2gjo",
+      "name": "Anne Hathaway on IMAX",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "m4FqzBhmlj8",
+      "name": "Lupita Nyong'o on 70MM",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "36leCRzkprQ",
+      "name": "Robert Pattinson on 35MM",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "MM146mBw5dY",
+      "name": "Zendaya on Dolby Cinema",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "2ixBwVUxFDU",
+      "name": "Tom Holland on Premium Large Formats",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "q2MJjJmj-Q4",
+      "name": "On The Set",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "f_bKjZeJBBI",
+      "name": "Official New Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "GGIriClDwkk",
+      "name": "LeBron & Bronny James",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Mzw2ttJD2qQ",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 4314,
+  "watchProviders": {}
+}

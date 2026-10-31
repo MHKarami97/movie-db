@@ -1,0 +1,247 @@
+{
+  "backdropPath": "/gzNKeXtIOrv6mxBgw0Sh4plo8Ud.jpg",
+  "cast": [
+    {
+      "character": "Alfonso",
+      "id": 19827,
+      "name": "Pablo Derqui",
+      "profilePath": "/aqwJOsmnqbigPR5tZ6QFp4Q25XM.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 127522,
+      "logoPath": "/bEeTzk7aLDNHWW2L0L0yRbFegGA.png",
+      "name": "The Mediapro Studio"
+    },
+    {
+      "id": 62385,
+      "logoPath": null,
+      "name": "100 Balas"
+    },
+    {
+      "id": 7344,
+      "logoPath": "/wSPFwK4I42Z63YWcuTzcq8e4dhw.png",
+      "name": "Sayaka Producciones"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": "2025-02-27",
+  "episodes": {
+    "2": [
+      {
+        "airDate": "2027-01-15",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-15",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-15",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-15",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-15",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-15",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt31418326",
+    "wikidataId": "Q131585373"
+  },
+  "fetchedAt": 1794864638140,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 246929,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-02-27",
+    "episodeNumber": 7,
+    "id": 5274843,
+    "name": "Queen",
+    "overview": "Alfonso XIV has returned to Spain to record the traditional Royal Christmas Speech, in which, rather than abdicating, the King apologizes for putting his immature daughter in charge of the country. The branches of government warn Pilar that her father is out of his mind. They've tried speaking to him, but he refuses to listen. Pilar will have to convince him it's time for him to step aside.",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-15",
+    "episodeNumber": 1,
+    "id": 7397383,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 2
+  },
+  "originalTitle": "Su majestad",
+  "overview": "Spain, 2024. After a scandal involving Alfonso XVI damages the monarchy's reputation, the king temporarily takes a backseat and his daughter and heir to the throne of Spain, the irresponsible Princess Pilar, takes over the monarchical institution to show that she is up to the task.",
+  "posterPath": "/oYz66iyll5q5yImMnzVkvUOxBho.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-02-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2025-02-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-02-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-02-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2025-02-27"
+    },
+    "CN": {
+      "tv": "2025-02-27"
+    },
+    "GB": {
+      "tv": "2025-02-27"
+    },
+    "US": {
+      "tv": "2025-02-27"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2025-02-27",
+      "episodeCount": 7,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/fyjNxEFyXD1KbpvLObaUOSZnnzv.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2027-01-15",
+      "episodeCount": 6,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/mkZErHL6SRA2HOEekFrQ1Aqhluz.jpg",
+      "seasonNumber": 2
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Her Majesty",
+  "translations": {
+    "faTitle": "اولیا حضرت"
+  },
+  "type": "tv",
+  "videos": [],
+  "voteCount": 35,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 119,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/246929-su-majestad/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/246929-su-majestad/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/246929-su-majestad/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "backdropPath": "/yp8UsDjoCI76PLBrdqQvMozvpws.jpg",
+  "cast": [
+    {
+      "character": "Judith",
+      "id": 1963404,
+      "name": "Julia Franz Richter",
+      "profilePath": "/iVSMl2PIZJJYsBzDUmomIu95f6b.jpg"
+    },
+    {
+      "character": "Ryan",
+      "id": 582089,
+      "name": "Reinout Scholten van Aschat",
+      "profilePath": "/mnCuo51aVjc7OOgD4P1sB9cMWDL.jpg"
+    },
+    {
+      "character": "Paula",
+      "id": 45151,
+      "name": "Gerti Drassl",
+      "profilePath": "/xzgYYLeAXQLKeyemPdDfEL2O0fF.jpg"
+    },
+    {
+      "character": "Frau Ramsauer",
+      "id": 40525,
+      "name": "Maria Hofstätter",
+      "profilePath": "/vTZrok9eKbeq9vIlN7zNocfHSJw.jpg"
+    },
+    {
+      "character": "Hanna Schatzenberger",
+      "id": 238240,
+      "name": "Erika Mottl",
+      "profilePath": "/wQ9fa0210Ru0hSxo8KU3DuFceUK.jpg"
+    },
+    {
+      "character": "Scheichl",
+      "id": 231819,
+      "name": "Gerhard Liebmann",
+      "profilePath": "/585SIvVzKh2X35tx2K9vSt352xq.jpg"
+    },
+    {
+      "character": "Frau Dorfner",
+      "id": 1079939,
+      "name": "Beatrix Brunschko",
+      "profilePath": "/dRRos6dw6bVXS0LkZMLVP4NhhN2.jpg"
+    },
+    {
+      "character": "Frau Loidl",
+      "id": 1034595,
+      "name": "Inge Maux",
+      "profilePath": "/4OQ1xazrCgSKLVMk0P2jNg5Wzgx.jpg"
+    },
+    {
+      "character": "Frau Gebtesroither",
+      "id": 1284243,
+      "name": "Carmen Gratl",
+      "profilePath": "/kpuZMh0AvWpcAxBImb5zvsMgQeq.jpg"
+    },
+    {
+      "character": "Mother Scheichl",
+      "id": 1355113,
+      "name": "Linde Prelog",
+      "profilePath": "/hT2IP14kGTKpjQC3QuCUnanXF6g.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 191,
+      "logoPath": "/5Cz9SVf733VhCvKpaivl1jlAXAK.png",
+      "name": "Senator Film"
+    },
+    {
+      "id": 37058,
+      "logoPath": "/pWUIywEOdy0650kBbuRw5aI90zA.png",
+      "name": "Lotus-Film"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AT",
+      "name": "Austria"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35051072",
+    "wikidataId": "Q131460776"
+  },
+  "fetchedAt": 1793452486014,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1404180,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "Welcome Home Baby",
+  "overview": "Judith works as an emergency doctor in Berlin. When she inherits a house in Austria from the family who gave her away as a child, her quest to solve the mystery of her origins turns into a nightmarish journey into the past and the dark places of her soul.",
+  "posterPath": "/lwoNUp2YKCv1sQGATDOjUn3A1Cz.jpg",
+  "rating": 4.8,
+  "regionGaps": {
+    "CA": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "DE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-11-27"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "IR": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AT": {
+      "theatrical": "2025-10-03"
+    },
+    "BE": {
+      "premiere": "2025-04-13"
+    },
+    "DE": {
+      "premiere": "2025-02-13",
+      "theatrical": "2025-11-27"
+    },
+    "FR": {
+      "premiere": "2025-09-07"
+    },
+    "ID": {
+      "premiere": "2025-09-27"
+    },
+    "KR": {
+      "premiere": "2025-07-05"
+    }
+  },
+  "runtime": 115,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2025-11-27",
+  "title": "Welcome Home Baby",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 10,
+  "watchProviders": {
+    "AT": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 20,
+          "logoPath": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+          "name": "maxdome Store"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1404180-welcome-home-baby/watch?locale=AT",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 20,
+          "logoPath": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+          "name": "maxdome Store"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "BE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1736,
+          "logoPath": "/ds5Gvv5tN46cuRCkb8zPXZ5UABD.png",
+          "name": "Shadowz Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1404180-welcome-home-baby/watch?locale=BE",
+      "rent": []
+    },
+    "CH": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1404180-welcome-home-baby/watch?locale=CH",
+      "rent": []
+    },
+    "DE": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 178,
+          "logoPath": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+          "name": "MagentaTV"
+        },
+        {
+          "id": 20,
+          "logoPath": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+          "name": "maxdome Store"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 1993,
+          "logoPath": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+          "name": "Videoload"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        },
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1404180-welcome-home-baby/watch?locale=DE",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 178,
+          "logoPath": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+          "name": "MagentaTV"
+        },
+        {
+          "id": 20,
+          "logoPath": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+          "name": "maxdome Store"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 349,
+          "logoPath": "/xA51o6jG0Bn0z8YmMcZ6kua9cbp.png",
+          "name": "Kino on Demand"
+        },
+        {
+          "id": 1993,
+          "logoPath": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+          "name": "Videoload"
+        },
+        {
+          "id": 2209,
+          "logoPath": "/iUGee0WhY5ZSBZZuCunNt0K7au2.png",
+          "name": "Freenet meinVOD"
+        }
+      ]
+    },
+    "FR": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 58,
+          "logoPath": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+          "name": "Canal VOD"
+        },
+        {
+          "id": 389,
+          "logoPath": "/a9ZXOebUSXGUFxTi3N36sA8wSSh.png",
+          "name": "Sooner"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2286,
+          "logoPath": "/uzTONLCUH92RRMSzs206OYtWVml.png",
+          "name": "VIVA by videofutur"
+        },
+        {
+          "id": 2307,
+          "logoPath": "/yERf5EH3GjWMB0ZSWPaov1kCKrR.png",
+          "name": "Premiere Max"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1967,
+          "logoPath": "/g8P4BJ2Wrya0VkbGUxBoUqpXtSs.png",
+          "name": "Molotov TV"
+        },
+        {
+          "id": 1736,
+          "logoPath": "/ds5Gvv5tN46cuRCkb8zPXZ5UABD.png",
+          "name": "Shadowz Amazon Channel"
+        },
+        {
+          "id": 513,
+          "logoPath": "/4Hmt479nSu8j4JIFDu6WPqsc6AT.png",
+          "name": "Shadowz"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1404180-welcome-home-baby/watch?locale=FR",
+      "rent": [
+        {
+          "id": 58,
+          "logoPath": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+          "name": "Canal VOD"
+        },
+        {
+          "id": 389,
+          "logoPath": "/a9ZXOebUSXGUFxTi3N36sA8wSSh.png",
+          "name": "Sooner"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2286,
+          "logoPath": "/uzTONLCUH92RRMSzs206OYtWVml.png",
+          "name": "VIVA by videofutur"
+        },
+        {
+          "id": 2307,
+          "logoPath": "/yERf5EH3GjWMB0ZSWPaov1kCKrR.png",
+          "name": "Premiere Max"
+        }
+      ]
+    },
+    "LI": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1404180-welcome-home-baby/watch?locale=LI",
+      "rent": []
+    },
+    "LU": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1404180-welcome-home-baby/watch?locale=LU",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "backdropPath": "/paZuQDNYwuD0WBwZERfvgSNQZDz.jpg",
+  "cast": [
+    {
+      "character": "Madam H",
+      "id": 35745,
+      "name": "Preity Zinta",
+      "profilePath": "/dcDMi0u33alx4x4ZtZ7JWf5J98H.jpg"
+    },
+    {
+      "character": "Hardik Sharma",
+      "id": 85454,
+      "name": "Kunal Kemmu",
+      "profilePath": "/b14MYOFVeebBGyD2Zr86DIMNH0h.jpg"
+    },
+    {
+      "character": "Bhagirath 'Bugs'",
+      "id": 2505976,
+      "name": "Sparsh Shrivastava",
+      "profilePath": "/d123XZfocCLnc5LAjrlBifffYFf.jpg"
+    },
+    {
+      "character": "Kareena",
+      "id": 6082756,
+      "name": "Vanshika Dhir",
+      "profilePath": "/yD9JA0MODbRELEZbhcvbrXWpjRt.jpg"
+    },
+    {
+      "character": "Bansi",
+      "id": 1640836,
+      "name": "Dinesh Lal Yadav Nirahua",
+      "profilePath": "/flTi9LuCoEkWX5zUNnBC5brdIzT.jpg"
+    },
+    {
+      "character": "Rawal",
+      "id": 86022,
+      "name": "Yashpal Sharma",
+      "profilePath": "/hYDZkMl6u3rM2cASabpHgrvA0mf.jpg"
+    },
+    {
+      "character": "Home Minister",
+      "id": 13753,
+      "name": "Sharmila Tagore",
+      "profilePath": "/m2MFSVdx4aKVoLRFPJoO5u0FMon.jpg"
+    },
+    {
+      "character": "Next Phase Tech Office Colleague",
+      "id": 4961914,
+      "name": "Aditya Kulshreshtha",
+      "profilePath": "/2uRhfyh58LbAmE7BEUuq6yUo4uv.jpg"
+    },
+    {
+      "character": "Abid",
+      "id": 1165770,
+      "name": "Salem Kali",
+      "profilePath": "/btlsJSpgZeaXvKJkXlw1L4AY8Ih.jpg"
+    },
+    {
+      "character": "Abu Al Sayeed",
+      "id": 286661,
+      "name": "Hiten Paintal",
+      "profilePath": "/iOKuLBnTz5FValLNv0g0UrOCOQ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 292620,
+      "logoPath": null,
+      "name": "Drongo Films"
+    },
+    {
+      "id": 210099,
+      "logoPath": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-12",
+  "externalIds": {
+    "imdbId": "tt40856286",
+    "wikidataId": "Q141182293"
+  },
+  "fetchedAt": 1794766926929,
+  "gapDays": 55,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1654566,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "hi",
+      "name": "Hindi"
+    }
+  ],
+  "originalTitle": "वाइब",
+  "overview": "Two inseparable friends' ordinary, unassuming lives spiral into an unpredictable, high-energy adventure that pushes their survival instincts and friendship to the limit.",
+  "posterPath": "/1K2cYaK42vcQkg1iITxF6xcbJrs.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-18"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-18"
+    },
+    "US": {
+      "digitalDate": "2026-11-12",
+      "gapDays": 55,
+      "theatricalDate": "2026-09-18"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-09-18"
+    },
+    "GB": {
+      "theatrical": "2026-09-18"
+    },
+    "US": {
+      "digital": "2026-11-12",
+      "theatricalLimited": "2026-09-18"
+    }
+  },
+  "runtime": 145,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-09-18",
+  "title": "Vibe",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 119,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1654566-vaib/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1654566-vaib/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1654566-vaib/watch?locale=US",
+      "rent": []
+    }
+  }
+}

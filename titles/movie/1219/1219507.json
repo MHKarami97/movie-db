@@ -1,0 +1,214 @@
+{
+  "backdropPath": "/avbEBZQ77d5TsPY2EzS1lUJ22TF.jpg",
+  "cast": [
+    {
+      "character": "Lucy",
+      "id": 1468293,
+      "name": "Alex Sarrigeorgiou",
+      "profilePath": "/fyAvQ5wJvNPqjWBrx3TadEgv9zD.jpg"
+    },
+    {
+      "character": "Ilse",
+      "id": 49971,
+      "name": "Jennifer Ehle",
+      "profilePath": "/kMddVKineLFpxsUoGrb3E6edkOv.jpg"
+    },
+    {
+      "character": "Tom",
+      "id": 469462,
+      "name": "François Arnaud",
+      "profilePath": "/2aPDGUGRcrBYmrQLc8AklEqp7xI.jpg"
+    },
+    {
+      "character": "Garry",
+      "id": 1048566,
+      "name": "Theodore Bouloukos",
+      "profilePath": "/7NbjfvcLyTmP22PRlj7bdd5qhbN.jpg"
+    },
+    {
+      "character": "Hugh",
+      "id": 206902,
+      "name": "Andrew Garman",
+      "profilePath": "/q5laaFn2OhYWjPFWKuE2Dv9pAnJ.jpg"
+    },
+    {
+      "character": "Charlie",
+      "id": 3060080,
+      "name": "Tre Ryder",
+      "profilePath": null
+    },
+    {
+      "character": "Jimmy",
+      "id": 4183446,
+      "name": "Corey Wells",
+      "profilePath": null
+    },
+    {
+      "character": "Sammy",
+      "id": 6480616,
+      "name": "Nicole Paige Chaffin",
+      "profilePath": null
+    },
+    {
+      "character": "Susan",
+      "id": 2540830,
+      "name": "Sandy York",
+      "profilePath": null
+    },
+    {
+      "character": "Gallery Assistant",
+      "id": 6480584,
+      "name": "Roxanne Sarrigeorgiou",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 255015,
+      "logoPath": null,
+      "name": "Valmora Productions"
+    },
+    {
+      "id": 219152,
+      "logoPath": null,
+      "name": "BKE Productions"
+    },
+    {
+      "id": 266862,
+      "logoPath": null,
+      "name": "Little Language Films"
+    },
+    {
+      "id": 177662,
+      "logoPath": "/iCGCiNVrqkdv6vzkpiRC24HWh2i.png",
+      "name": "Good Question Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2026-12-01",
+  "externalIds": {
+    "imdbId": "tt21275854",
+    "wikidataId": "Q135236095"
+  },
+  "fetchedAt": 1794261012106,
+  "gapDays": 30,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1219507,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "In Transit",
+  "overview": "When a complacent young bartender living in small-town Maine agrees to model for a existentially floundering painter on an artist's retreat, both women must confront their preconceptions of what makes a good life.",
+  "posterPath": "/pwLQA4dir1QY3RzPOWb89yXsWNv.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-12-01",
+      "gapDays": 30,
+      "theatricalDate": "2026-11-01"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-08-17"
+    },
+    "US": {
+      "digital": "2026-12-01",
+      "premiere": "2025-10-11",
+      "theatricalLimited": "2026-11-01"
+    }
+  },
+  "runtime": 82,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-11-01",
+  "title": "In Transit",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "FeJD9y7eSx4",
+      "name": "IN TRANSIT /// TRAILER",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1219507-in-transit/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

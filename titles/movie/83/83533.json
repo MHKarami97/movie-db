@@ -1,0 +1,933 @@
+{
+  "backdropPath": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+  "cast": [
+    {
+      "character": "Jake",
+      "id": 65731,
+      "name": "Sam Worthington",
+      "profilePath": "/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+    },
+    {
+      "character": "Neytiri",
+      "id": 8691,
+      "name": "Zoe Saldaña",
+      "profilePath": "/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+    },
+    {
+      "character": "Kiri",
+      "id": 10205,
+      "name": "Sigourney Weaver",
+      "profilePath": "/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+      "character": "Quaritch",
+      "id": 32747,
+      "name": "Stephen Lang",
+      "profilePath": "/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
+    },
+    {
+      "character": "Varang",
+      "id": 566331,
+      "name": "Oona Chaplin",
+      "profilePath": "/uYnBSVKcFgw48Wxts01Dh5Gxlar.jpg"
+    },
+    {
+      "character": "Spider",
+      "id": 1895760,
+      "name": "Jack Champion",
+      "profilePath": "/7qgRRgap16cVI85WsBdzFLOzYiP.jpg"
+    },
+    {
+      "character": "Ronal",
+      "id": 204,
+      "name": "Kate Winslet",
+      "profilePath": "/6qNnMsKtKz9si5rabpUEG85UfHp.jpg"
+    },
+    {
+      "character": "Tonowari",
+      "id": 7248,
+      "name": "Cliff Curtis",
+      "profilePath": "/dfaElGoyJWseFWxXwEMLL9WTi7V.jpg"
+    },
+    {
+      "character": "Norm",
+      "id": 59231,
+      "name": "Joel David Moore",
+      "profilePath": "/mMVhVglj6BZFuvqAXnEibce08k7.jpg"
+    },
+    {
+      "character": "Mo'at",
+      "id": 30485,
+      "name": "CCH Pounder",
+      "profilePath": "/yLOU0qA5MwJyoKMc0e4HyZz4oFV.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 127928,
+      "logoPath": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+      "name": "20th Century Studios"
+    },
+    {
+      "id": 574,
+      "logoPath": "/8wdmrfGcDx3TJxYiiDksLzAW4pB.png",
+      "name": "Lightstorm Entertainment"
+    },
+    {
+      "id": 22213,
+      "logoPath": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-03-31",
+  "externalIds": {
+    "facebookId": "Avatar",
+    "imdbId": "tt1757678",
+    "instagramId": "avatar",
+    "twitterId": "officialavatar",
+    "wikidataId": "Q29580929"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 102,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "id": 83533,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Avatar: Fire and Ash",
+  "overview": "پس از مرگ نتیام، خانواده جیک و نیتیری حالا داغدار اوست اما باید خود را برای مقابله با یک قبیله جدید به‌نام قبیله خاکستر آماده کنند.",
+  "posterPath": "/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+  "rating": 7.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-12-18"
+    },
+    "CN": {
+      "digitalDate": "2026-05-29",
+      "gapDays": 161,
+      "theatricalDate": "2025-12-19"
+    },
+    "GB": {
+      "digitalDate": "2026-03-31",
+      "gapDays": 102,
+      "theatricalDate": "2025-12-19"
+    },
+    "US": {
+      "digitalDate": "2026-03-31",
+      "gapDays": 102,
+      "theatricalDate": "2025-12-19"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2025-12-18"
+    },
+    "CN": {
+      "digital": "2026-05-29",
+      "premiere": "2025-12-08",
+      "theatrical": "2025-12-19",
+      "theatricalLimited": "2025-12-17"
+    },
+    "GB": {
+      "digital": "2026-03-31",
+      "physical": "2026-06-01",
+      "premiere": "2025-12-11",
+      "theatrical": "2025-12-19"
+    },
+    "US": {
+      "digital": "2026-03-31",
+      "physical": "2026-05-19",
+      "premiere": "2025-12-01",
+      "theatrical": "2025-12-19"
+    }
+  },
+  "runtime": 198,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The world of Pandora will change forever.",
+  "theatricalDate": "2025-12-19",
+  "title": "Avatar: Fire and Ash",
+  "translations": {
+    "faOverview": "پس از مرگ نتیام، خانواده جیک و نیتیری حالا داغدار اوست اما باید خود را برای مقابله با یک قبیله جدید به‌نام قبیله خاکستر آماده کنند.",
+    "faTitle": "آواتار : آتش و خاکستر"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "3ThgcAj0UyE",
+      "name": "Streaming on Disney+ June 24",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "uEUGMJpuF0Y",
+      "name": "Stream on Disney+ June 24",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ITmRYfeg4H0",
+      "name": "Buy it on Digital March 31",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "uTngQbV7vfU",
+      "name": "Avatar: Fire and Ash Best Visual Effects Press Room Speech",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "vAaUuMlIRh0",
+      "name": "‘Avatar: Fire and Ash” Wins Best Visual Effects | 98th Oscars Speech (2026)",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "a-kpSdJdxaw",
+      "name": "Avatar: Fire and Ash Wins The BAFTA For Special Visual Effects",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "BnaWnhbT9UU",
+      "name": "How Avatar Comes Alive Onscreen and in the Parks",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "RlofL5WU28k",
+      "name": "A Deeper World",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "s0YeLmtoz_4",
+      "name": "Epic Wars",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "rc-3XrUL3rQ",
+      "name": "War Is Here",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "EMZvdyu2FQA",
+      "name": "#1 Movie in the World",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "mj3tDKIN8kQ",
+      "name": "Experience Review 4 Weeks",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "XGANfY05UCQ",
+      "name": "The Creatures of Fire and Ash: Medusoids",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "yhspmyu1hcA",
+      "name": "Once Toruk Makto",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "F4PenO2M5_M",
+      "name": "Behind the Craft",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "_Mps_3oGMZ8",
+      "name": "The Score",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "-mtEO5Z4b-I",
+      "name": "Designing and Building Pandora",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "tHDs-4quso0",
+      "name": "Editing Starts with Performance Capture",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "HKuKtuSemBk",
+      "name": "The Fire Within",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "TeNhegAY2d4",
+      "name": "Eywa",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "guZXWvNG4C0",
+      "name": "Fight The Fire",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "IZw84AK3p3M",
+      "name": "The Tides That Bend",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "X8YsBe8u9K8",
+      "name": "Fire Reviews",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "LB3STPMb0V0",
+      "name": "The Creatures of Fire and Ash: Nightwraith",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "MfJ98R1Fnqo",
+      "name": "Again #3 Weeks",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "CQdYoOdIAPM",
+      "name": "James Cameron on the Meaning of Avatar: Fire and Ash's Ending",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "DoBg_pZkbKU",
+      "name": "Side by Side",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "lc_zY8gN_Ew",
+      "name": "Who else wants to be a dream walker in Pandora?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "bgZJnA7XiXs",
+      "name": "New Year",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "MEo4auqToCc",
+      "name": "Tickets On Sale",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "qvj950h_AqA",
+      "name": "Fight The Fire",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "2O6q3HOEhQM",
+      "name": "Sullys Never Quit",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "GqwT4rF3rQo",
+      "name": "Fire Review",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9W5-ODHFvWA",
+      "name": "Transitions",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "IuDtX0mwVl8",
+      "name": "Fire or Ash",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "MHzaf7plECs",
+      "name": "Varang Event",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "1RC9_-kC3vY",
+      "name": "Cast Shoutouts",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "KH9FMIGeDyk",
+      "name": "The Windtraders",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "cjagOAvrWRY",
+      "name": "#1 Movie For 2 Weeks",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "hsxgDO2mvng",
+      "name": "It's Time",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "lUc3pRoNybQ",
+      "name": "#1 Movie",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "d2-7aduJUNI",
+      "name": "Pandora Moodlets",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "zNLA7sEPNTs",
+      "name": "Varang Aura",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "g1ZbsCXdYB4",
+      "name": "Avatar: Fire and Ash is the #1 movie in the world.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9nH8YCr3L5A",
+      "name": "The Creatures of Fire and Ash: Tsyong",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "sQ-9bsSiXUA",
+      "name": "Experience Booth at Plaza Singapura",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "rTqNN72ruAw",
+      "name": "Ignite",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "PS0o9MOqN_I",
+      "name": "The Ash People",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "lR95ii9YnZc",
+      "name": "Prepare Review",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "EcQdo_gr_cw",
+      "name": "Saga Review",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "inO4ey64mi8",
+      "name": "The Creatures of Fire and Ash: The Matriarch",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "iexeIakqT_M",
+      "name": "Adventure Review",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "KY667OR2yDs",
+      "name": "Inside the Creative Leap of the New ‘Avatar’ Film",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "P3MRlUuBVkQ",
+      "name": "Avatar: Fire & Ash will bring 'a depth of emotion and heartbreak not seen since Titanic'",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "BIetU-iImaI",
+      "name": "James Cameron's \"Canadian spirit\" shaped his work on the AVATAR films",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "nXZlmbf1fjw",
+      "name": "IMAX Exclusive",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "CePwQo_uxh4",
+      "name": "Exhale Review",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "07N4JzJgBcM",
+      "name": "Every Moment",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "W4YHwdo89Lc",
+      "name": "Review Tickets",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ny3hbPjWXJM",
+      "name": "An epic movie deserves an epic screen.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "xB4umQymDDU",
+      "name": "The day has come.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "95W8yzKMr4A",
+      "name": "You heard it here first...",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "2vYVZ24N6y0",
+      "name": "Avatar’s Stephen Lang & Jamie Flatters on working with James Cameron",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "sU40JG12VKE",
+      "name": "Exclusive Interview",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "7MUUMQKpyv4",
+      "name": "Cast Roundtable",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "-81ui84xOIo",
+      "name": "Creating \"Dream As One\" by Miley Cyrus",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "JlhAmlb1J6g",
+      "name": "Creating Varang",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "S0hquou1tHA",
+      "name": "Designing Fire and Ash",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "2eFq-yXvjug",
+      "name": "Enter The World",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "qpvswyefXOg",
+      "name": "it's hard work being a cinephile",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "8PLHAcWiXr8",
+      "name": "Behind the Camera",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "8adoeixGU7w",
+      "name": "Neytiri",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "D9j9If__Eb4",
+      "name": "Another day in the life at IMAX HQ.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "GHH_Ay0lLS4",
+      "name": "\"What's it like working with James Cameron?\"",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "gGtWQVjwm70",
+      "name": "Locked And Loaded",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "xM0QPBbh3pY",
+      "name": "Groundbreaking",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "WjQ8giVSyEc",
+      "name": "Mangkwan Inferno",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "uCI78LPXKdU",
+      "name": "UK Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "sV4PHkbm4BQ",
+      "name": "From The Ashes",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "0mq8uagltTQ",
+      "name": "Story Tease",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "j65ZFV2j8Y4",
+      "name": "Stephen Lang Performance Capture",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "u2ci6UftjP8",
+      "name": "Raising the Stakes",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "mSS-LUNC7nk",
+      "name": "Exclusive James Cameron Interview",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "M6TaiYmFftU",
+      "name": "Dream As One by Miley Cyrus (Music Video)",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "qcR1ssPouQk",
+      "name": "Immerse Yourself",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Ks_KwQWxuI8",
+      "name": "Century",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "gzClvkE9sVE",
+      "name": "In Theatres December 19",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "HJy9qRq_TT4",
+      "name": "Cinematic Marvel",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "2-le_orAW7o",
+      "name": "Greatest",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "IOs1n6SkS-0",
+      "name": "Promise",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "OjqEqPQB-m4",
+      "name": "Hottest Ticket",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "HZzedRS-30I",
+      "name": "D23 Takes You Inside the World Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "c6-DT2kKz4Q",
+      "name": "Tickets on Sale",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "aUK6kCxRib4",
+      "name": "Unmissable",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "eZLlFy_QuJo",
+      "name": "Dream",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "CPlxdXDlcdA",
+      "name": "Cast Greeting",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "PzumvNLneO8",
+      "name": "Sully's Never Quit",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "qRLrsuwhSkE",
+      "name": "James Cameron Greeting",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "WDRwsETpyjE",
+      "name": "In Theatres December 19",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "xxEt9fnILgQ",
+      "name": "In Theatres December 19",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Lo77PczUf1g",
+      "name": "Tickets on Sale",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "5ReDXhtEIlc",
+      "name": "Monday Night Flight - Exclusive Look During Monday Night Football on TSN",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "cDEOVEJAKfU",
+      "name": "Igniting the Next Chapter",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Ma1x7ikpid8",
+      "name": "New Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "y35F2nMfVwY",
+      "name": "New Trailer Online Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "nb_fFj_0rq8",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 4626,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}
