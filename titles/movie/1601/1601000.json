@@ -1,0 +1,129 @@
+{
+  "backdropPath": "/t2p67zRXn00bUrw94HReWdTp7Q0.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1839516,
+      "name": "John Carlos Frey",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 14914,
+      "logoPath": "/1RZBWz53SpHUTLpRcM8BGv2plIP.png",
+      "name": "HBO Documentary Films"
+    },
+    {
+      "id": 108312,
+      "logoPath": "/4ygexO7yU9nKkqtFryGXTck0dk3.png",
+      "name": "Crazyrose"
+    },
+    {
+      "id": 90560,
+      "logoPath": "/cLO3O47KIkE5sr70DUVj1gHYVYm.png",
+      "name": "Film 45"
+    },
+    {
+      "id": 13135,
+      "logoPath": null,
+      "name": "Midnight Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-12-29",
+  "externalIds": {
+    "imdbId": "tt39222512"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1601000,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Critical Incident: Death at the Border",
+  "overview": "Revisits the 2010 death of Anastasio Hernández-Rojas, an undocumented Mexican immigrant who died while in custody at the border. When eye-witness video emerges, it sparks a far-reaching investigation from a border checkpoint to Washington D.C. CRITICAL INCIDENT chronicles journalists’, lawyers’, and family members’ efforts to explore the Border Patrol’s involvement in the incident, ultimately pointing to cover-ups, and uncovering the existence of a little-known unit inside the agency that had been involved in other border related incident.",
+  "posterPath": "/gThb7GuqTZ19EHgcvX3GSDdNBqJ.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-12-29",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-12-29",
+      "tv": "2025-12-29"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Critical Incident: Death at the Border",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "1FQWH5IYT5Y",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1601000-critical-incident-death-at-the-border/watch?locale=US",
+      "rent": []
+    }
+  }
+}

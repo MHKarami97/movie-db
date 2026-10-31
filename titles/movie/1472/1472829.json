@@ -1,0 +1,150 @@
+{
+  "backdropPath": "/yiv3EcZxbtzjbPLjSVF7P6amdPu.jpg",
+  "cast": [
+    {
+      "character": "Cyrano de Bergerac",
+      "id": 1562548,
+      "name": "Artus",
+      "profilePath": "/78eYMroV3AyRJDqijnp0FSLPCgZ.jpg"
+    },
+    {
+      "character": "Madeleine Béjart",
+      "id": 1074716,
+      "name": "Julia Piaton",
+      "profilePath": "/10QGSeZaq121UJgOizGFcW0SRku.jpg"
+    },
+    {
+      "character": "D’Artagnan",
+      "id": 24893,
+      "name": "Franck Dubosc",
+      "profilePath": "/2sCXXZYrWSO1nGxuyVBGETj2wdE.jpg"
+    },
+    {
+      "character": "Molière",
+      "id": 1291694,
+      "name": "Némo Schiffman",
+      "profilePath": "/8Cf0C97G4E4XnKT7CASSnmV6Qet.jpg"
+    },
+    {
+      "character": "Conti",
+      "id": 54293,
+      "name": "Xavier Robic",
+      "profilePath": "/sXhSZ7Gyiq6sq3R85eRPMkoiJOh.jpg"
+    },
+    {
+      "character": "Anne d'Autriche",
+      "id": 1280476,
+      "name": "Doria Tillier",
+      "profilePath": "/kCS73s2jtUY7dV7eDVKOAZjvgVS.jpg"
+    },
+    {
+      "character": "Louis XIV",
+      "id": 3643058,
+      "name": "Nils Hamel Brochen",
+      "profilePath": null
+    },
+    {
+      "character": "La Grande Demoiselle",
+      "id": 2463404,
+      "name": "Suzanne de Baecque",
+      "profilePath": "/uWVYkNntGMjUZOImfY1oM8EzX7q.jpg"
+    },
+    {
+      "character": "",
+      "id": 109474,
+      "name": "Damien Jouillerot",
+      "profilePath": "/tVlPUpSCg4fONZFGpq4kZDuTfzp.jpg"
+    },
+    {
+      "character": "",
+      "id": 1169737,
+      "name": "Noam Morgensztern",
+      "profilePath": "/coDyPa5OugCeHkAhsWxV69cPhaZ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 121654,
+      "logoPath": "/3IzRrnakUemajC7fzC07WRNyZ9D.png",
+      "name": "Mandarin Production"
+    },
+    {
+      "id": 23075,
+      "logoPath": "/9PGhFLert9zO5wm7oiZGzpIXRyK.png",
+      "name": "Elephant"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37376862",
+    "wikidataId": "Q139715394"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "id": 1472829,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Les Caprices de l’Enfant Roi",
+  "overview": "During the Paris rebellion, young Louis XIV must be hidden from danger and is secretly replaced at court by a look-alike. Entrusted to the musketeer-poet Cyrano de Bergerac, Louis is sheltered within Madeleine Béjart’s traveling theater troupe, where the actor and aspiring playwright Molière has just joined – unaware their newest member is the future king of France. As Cyrano struggles to handle the arrogant and clumsy young king, he begins writing a bold play for the troupe. Molière, bursting with ideas, transforms the work with wit and heart, awakening his genius for comedy and deepening his secret feelings for Madeleine, while young Louis discovers the joy of theater and the power of friendship. But back in Paris, intrigue is brewing – can the young king return in time before the masquerade is revealed and embrace his true royal destiny?",
+  "posterPath": "/kP1Zl9IpGp28P2x0ogzKcQKkALv.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 118,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Wit, love and an undercover prince spark the beginning of French comedy.",
+  "theatricalDate": null,
+  "title": "Molière, Cyrano and the Young King",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 22,
+  "watchProviders": {}
+}

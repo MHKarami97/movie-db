@@ -1,0 +1,141 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Self - Presenter",
+      "id": 6473203,
+      "name": "Luke Alexander",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Presenter",
+      "id": 6592890,
+      "name": "Max Dowman",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Judge",
+      "id": 1219127,
+      "name": "Anton du Beke",
+      "profilePath": "/4W58ek4ejuUn2BfmrJqwh34y7Hg.jpg"
+    },
+    {
+      "character": "Self - Judge",
+      "id": 1220269,
+      "name": "Claudia Winkleman",
+      "profilePath": "/1UA5WnjUgXu0gCm5kvNWTD6kHkY.jpg"
+    },
+    {
+      "character": "Self - Judge",
+      "id": 1926172,
+      "name": "Oti Mabuse",
+      "profilePath": "/drPVuUZVUmctMqHu1k6bnHiM7Kq.jpg"
+    },
+    {
+      "character": "Self - Judge",
+      "id": 1214508,
+      "name": "Bradley Walsh",
+      "profilePath": "/pSLXGYSqHEe7kXHdBOSeHFGAqvP.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2027-01-16",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-16",
+        "episodeNumber": 1,
+        "name": "Launch Show",
+        "overview": "It’s time to start dancing! Strictly’s very first series is here. Luke Alexander and Max Dowman take the helm as the ballroom doors open for the first time, launching a brand-new show filled with glitz, glamour, spectacular performances and plenty of dancing!",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-23",
+        "episodeNumber": 2,
+        "name": "Week 1",
+        "overview": "It’s the first show, and the full Strictly cast take to the floor for an incredible opening performance. Luke, and Max welcome our 15 couples back to the ballroom.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793591562658,
+  "gapDays": null,
+  "genres": [],
+  "id": 340700,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-16",
+    "episodeNumber": 1,
+    "id": 8048102,
+    "name": "Launch Show",
+    "overview": "It’s time to start dancing! Strictly’s very first series is here. Luke Alexander and Max Dowman take the helm as the ballroom doors open for the first time, launching a brand-new show filled with glitz, glamour, spectacular performances and plenty of dancing!",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Strictly on Ice",
+  "overview": "A dance competition where celebrities compete to be crowned the winner. Who is kicked out of the competition each week is decided by the judges scores and votes. Are today's celebrities fleet of foot or do they have two left feet?",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-16",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-16"
+    },
+    "CN": {
+      "tv": "2027-01-16"
+    },
+    "GB": {
+      "tv": "2027-01-16"
+    },
+    "US": {
+      "tv": "2027-01-16"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-16",
+      "episodeCount": 2,
+      "name": "Series 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Strictly on Ice",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

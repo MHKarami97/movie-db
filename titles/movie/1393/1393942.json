@@ -1,0 +1,288 @@
+{
+  "backdropPath": "/ezMP8W9CbyQQRyYRFw91mm2IEpX.jpg",
+  "cast": [
+    {
+      "character": "Detective Collymore",
+      "id": 1083174,
+      "name": "Fabrizio Santino",
+      "profilePath": "/1eHNYXtepAJ4RoNljVZN9yzu4JS.jpg"
+    },
+    {
+      "character": "Jitters",
+      "id": 1196144,
+      "name": "Daniel Jordan",
+      "profilePath": "/oAPa714RPIR4m8ofs8c2cp3Tkmu.jpg"
+    },
+    {
+      "character": "Detective Sam Harding",
+      "id": 3614098,
+      "name": "Anto Sharp",
+      "profilePath": "/yF6DC6AurzyGP5BvUVwKjbxxWK1.jpg"
+    },
+    {
+      "character": "Tiffany Bowman",
+      "id": 3839189,
+      "name": "Jessica Impiazzi",
+      "profilePath": "/osDmUyg6s2i5URFEOncLh4HH6bR.jpg"
+    },
+    {
+      "character": "Julia",
+      "id": 2698751,
+      "name": "Lauren Budd",
+      "profilePath": "/d6hY5XUCz1TFdY1BUerg8gZ6i1B.jpg"
+    },
+    {
+      "character": "Izzy Collymore",
+      "id": 5083968,
+      "name": "Chloe Hews",
+      "profilePath": null
+    },
+    {
+      "character": "Taylor Mara",
+      "id": 5083971,
+      "name": "Boo Miller",
+      "profilePath": null
+    },
+    {
+      "character": "Detective Lionbur",
+      "id": 5928452,
+      "name": "Ritchi Edwards",
+      "profilePath": "/gikJtZ5hF8fQyT6JozUuyQPzGmH.jpg"
+    },
+    {
+      "character": "Waiter",
+      "id": 2545144,
+      "name": "Ketan Majmudar",
+      "profilePath": "/x3ZtlMyCRMW4eMvE6MTyMK0IAo4.jpg"
+    },
+    {
+      "character": "Ilona",
+      "id": 4429378,
+      "name": "Alyssa Haymor",
+      "profilePath": "/3SBXiEFqtUfd2bOVTjMSbGRp7vI.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 121297,
+      "logoPath": null,
+      "name": "Aptitude Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-03-17",
+  "externalIds": {
+    "imdbId": "tt31936713"
+  },
+  "fetchedAt": 1794158926475,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1393942,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Jitters",
+  "overview": "Detective Collymore, a single divorced father, stumbles upon a mysterious case involving the death of Tiffany, initially deemed natural. Digging deeper, he discovers the horrors of Jitters.",
+  "posterPath": "/fccvkZkZ9yL6BIxojXdqFxPC8fR.jpg",
+  "rating": 4.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-03-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-03-16"
+    },
+    "US": {
+      "digital": "2026-03-17"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "When fear is the only rule.",
+  "theatricalDate": null,
+  "title": "Jitters",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "wByrNek3PXQ",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        },
+        {
+          "id": 204,
+          "logoPath": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+          "name": "Shudder Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1393942-jitters/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1393942-jitters/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "backdropPath": "/X5N8GliuEHrKBydQnKcztqT7AV.jpg",
+  "cast": [
+    {
+      "character": "Papá Noel",
+      "id": 10847,
+      "name": "Santiago Segura",
+      "profilePath": "/w5gSHzLWoivAN2g4z2yaxCSFyTY.jpg"
+    },
+    {
+      "character": "Salva",
+      "id": 972158,
+      "name": "Ernesto Sevilla",
+      "profilePath": "/l5GXI8Udu08Jv1gT2tNqicQ0LKy.jpg"
+    },
+    {
+      "character": "Rafita",
+      "id": 1205318,
+      "name": "Pablo Chiapella",
+      "profilePath": "/AkOhRbgkzBp9QWUIjb8Bu8SaBPx.jpg"
+    },
+    {
+      "character": "Pilar",
+      "id": 46856,
+      "name": "María Botto",
+      "profilePath": "/loXdfUOLAg9Ey6Ppt8pmJ36t5Gf.jpg"
+    },
+    {
+      "character": "Lucas",
+      "id": 3782119,
+      "name": "Unax Hayden",
+      "profilePath": null
+    },
+    {
+      "character": "Rami",
+      "id": 962179,
+      "name": "Emilio Gavira",
+      "profilePath": "/iYCqFiBqQJwtjEIv5U17DlqpTZs.jpg"
+    },
+    {
+      "character": "Esther",
+      "id": 1193083,
+      "name": "Paulina Dávila",
+      "profilePath": "/2kRoqJjcQE9V1jHg7wCXuvXbUO.jpg"
+    },
+    {
+      "character": "Martín",
+      "id": 1415546,
+      "name": "Vadhir Derbez",
+      "profilePath": "/2RCdA5ZB5m0zAnJngQpZWlMMizG.jpg"
+    },
+    {
+      "character": "",
+      "id": 5272626,
+      "name": "Irene Gallego",
+      "profilePath": null
+    },
+    {
+      "character": "Monitor Reserva Natural",
+      "id": 114462,
+      "name": "Joaquín Reyes",
+      "profilePath": "/nmYj32Pgnt60N99nI503K63QMK5.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 91991,
+      "logoPath": "/ngEpBkH7nkFfyCCtvGhhIzPS1xF.png",
+      "name": "Bowfinger"
+    },
+    {
+      "id": 149886,
+      "logoPath": "/oDG7mNqzGZGRI8Q4qIAPOS0wdh4.png",
+      "name": "Esto También Pasará"
+    },
+    {
+      "id": 10012,
+      "logoPath": "/p2lszp9t84Mq9H87ITBCzopuUu4.png",
+      "name": "Nadie es Perfecto"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": "2025-12-06",
+  "externalIds": {
+    "imdbId": "tt38895441",
+    "wikidataId": "Q136746182"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1196207,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "La Navidad en sus manos 2",
+  "overview": "When Santa vanishes during a chaotic Christmas, a quirky actor tries to replace him. A father, his teen son and special friends must rescue Santa to save Christmas.",
+  "posterPath": "/n1YtLc6viVt93gOdU8SX7mnq22y.jpg",
+  "rating": 5.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-12-06",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-12-06"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Night My Dad Saved Christmas 2",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "7Zrtw25-iHM",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 35,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1196207-la-navidad-en-sus-manos-2/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1196207-la-navidad-en-sus-manos-2/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1196207-la-navidad-en-sus-manos-2/watch?locale=US",
+      "rent": []
+    }
+  }
+}

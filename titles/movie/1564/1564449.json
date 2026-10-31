@@ -1,0 +1,262 @@
+{
+  "backdropPath": "/w2ADdZiVK9DK4IWgnZOP2hHkMrI.jpg",
+  "cast": [
+    {
+      "character": "Jacob",
+      "id": 1858287,
+      "name": "Zach Tinker",
+      "profilePath": "/kq2gX0HQ55AtTr9MsfBRL5ajRiw.jpg"
+    },
+    {
+      "character": "Murdoch",
+      "id": 95638,
+      "name": "John Pyper-Ferguson",
+      "profilePath": "/2IYFYfH67yG1UGedH49BYjigMe.jpg"
+    },
+    {
+      "character": "Olivia",
+      "id": 4685762,
+      "name": "Ana Nicolle Chavez",
+      "profilePath": "/nBkwB39a3poP0wm8ab3q29CF4qh.jpg"
+    },
+    {
+      "character": "Young Jacob",
+      "id": 3283989,
+      "name": "Kieran Sitawi",
+      "profilePath": "/ivKxagHESlFgOjQgTZV3Tye8XWl.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 277559,
+      "logoPath": null,
+      "name": "JSBfilmFBU"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-10-14",
+  "externalIds": {
+    "imdbId": "tt30807329"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1564449,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Beneath the Light",
+  "overview": "A man with a haunted past takes a job repairing an abandoned lighthouse that's only reachable by boat. His feelings of isolation and uneasiness grow as he starts to see the strange apparition of a young girl that he somehow recognizes.",
+  "posterPath": "/asqClWSo9J9h9q9u5aEFxoKj454.jpg",
+  "rating": 5.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-10-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-14",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2025-10-14"
+    },
+    "US": {
+      "digital": "2025-10-14",
+      "premiere": "2025-09-06"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Beneath the Light",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "GCWpOV3c6f4",
+      "name": "BTL - Making Of Deep Dive",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "Z1roYyQZ51c",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "G5Vpuw3PVCI",
+      "name": "See what Audiences are RAVING!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "yMmrbfDj5wA",
+      "name": "Behind the Scenes: The Cast",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "d2WtkcCNWD0",
+      "name": "Behind the Scenes: Real Ghosts",
+      "official": true,
+      "type": "Behind the Scenes"
+    }
+  ],
+  "voteCount": 10,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1564449-beneath-the-light/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1564449-beneath-the-light/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

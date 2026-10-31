@@ -1,0 +1,212 @@
+{
+  "backdropPath": "/Ary1sG0AHn4V1DFrwV7g72Fomq0.jpg",
+  "cast": [
+    {
+      "character": "Eletta",
+      "id": 5249362,
+      "name": "Sarah Toscano",
+      "profilePath": "/rIPA2RMej3ntWQ57iTHJdLv3R4N.jpg"
+    },
+    {
+      "character": "Giuliana",
+      "id": 1127659,
+      "name": "Serena Rossi",
+      "profilePath": "/8g5oni4UHJ8IHXSDAWgF2QBUO6R.jpg"
+    },
+    {
+      "character": "Caterina",
+      "id": 1808352,
+      "name": "Carola Insolera",
+      "profilePath": "/wh0d52UNuXlrAwg8ZkGTZr0GWMB.jpg"
+    },
+    {
+      "character": "Alessandro",
+      "id": 1808351,
+      "name": "Emilio Insolera",
+      "profilePath": "/dTxvQ2XqApzlQyXuSiwVIEI2tCI.jpg"
+    },
+    {
+      "character": "Francesco",
+      "id": 6100771,
+      "name": "Antonio Iorillo",
+      "profilePath": "/hxkJkNuuALDVo5sQomuwJeit7Fm.jpg"
+    },
+    {
+      "character": "Martina",
+      "id": 5607825,
+      "name": "Asia Corvino",
+      "profilePath": "/tk1raxNA0WK1dXwyikoDOO0Gru3.jpg"
+    },
+    {
+      "character": "Marco Traversato",
+      "id": 6100780,
+      "name": "Alessandro Parigi",
+      "profilePath": null
+    },
+    {
+      "character": "Giornalista",
+      "id": 3792791,
+      "name": "Simonetta Pellizzer",
+      "profilePath": null
+    },
+    {
+      "character": "Presidente di giuria",
+      "id": 3474573,
+      "name": "Alberto Barbi",
+      "profilePath": null
+    },
+    {
+      "character": "Veterinario",
+      "id": 1880466,
+      "name": "Mario Bois",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 219631,
+      "logoPath": "/2phwt8E7kcmwsiO03vZk9ZWwuDE.png",
+      "name": "Small Forward Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": "2026-04-03",
+  "externalIds": {
+    "imdbId": "tt38589464",
+    "wikidataId": "Q138807879"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1620551,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "originalTitle": "Non abbiam bisogno di parole",
+  "overview": "A teenager, the only hearing member of a deaf family, finds her voice and learns to believe in herself through her passion for singing.",
+  "posterPath": "/4Tf0qTA73XLhBnfP6YgvqtLZBnt.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-04-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-04-03"
+    },
+    "US": {
+      "digital": "2026-04-03"
+    }
+  },
+  "runtime": 105,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Feel My Voice",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "jcDax7jiSqM",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 156,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1620551-non-abbiam-bisogno-di-parole/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1620551-non-abbiam-bisogno-di-parole/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1620551-non-abbiam-bisogno-di-parole/watch?locale=US",
+      "rent": []
+    }
+  }
+}

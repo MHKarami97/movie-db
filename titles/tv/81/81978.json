@@ -1,0 +1,178 @@
+{
+  "backdropPath": "/fDSZ9s6QJfgDvqceTBLUFpNB71j.jpg",
+  "cast": [
+    {
+      "character": "Self - Big Honey",
+      "id": 1239240,
+      "name": "Yu Jae-seok",
+      "profilePath": "/1uktAM7R2Hgc3dynIXvzfACOmnW.jpg"
+    },
+    {
+      "character": "Self - Little Honey",
+      "id": 1523030,
+      "name": "Jo Se-ho",
+      "profilePath": "/byV2UFSUJg39LPJyOutL1z0v2HY.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 128404,
+      "logoPath": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
+      "name": "CJ ENM"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": "2018-08-29",
+  "externalIds": {
+    "imdbId": "tt14313304",
+    "instagramId": "youquizontheblock",
+    "wikidataId": "Q56290182"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 81978,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-09-23",
+    "episodeNumber": 361,
+    "id": 7846718,
+    "name": "Episode 361",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "유 퀴즈 온 더 블럭",
+  "overview": "Yoo Jae-suk and Jo Se-ho who enter ordinary people's everyday lives, chat with them, and give them surprise quizzes! The talk and quiz show program will spotlight these people's lives and aims to gift them a refreshing, different kind of day. Recently they're also inviting celebrities & professionals to the show.",
+  "posterPath": "/4zAQgKWGP2bJk11OKvwY1GCJjQR.jpg",
+  "rating": 8.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2018-08-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2018-08-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2018-08-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2018-08-29",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2018-08-29"
+    },
+    "CN": {
+      "tv": "2018-08-29"
+    },
+    "GB": {
+      "tv": "2018-08-29"
+    },
+    "US": {
+      "tv": "2018-08-29"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2019-04-09",
+      "episodeCount": 3,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/yq8mLP36jUjByiCsjdu28klscfU.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2018-08-29",
+      "episodeCount": 361,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/mKzHtpp1lCvgrIMb3EPQ7Z2cQIS.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2019-04-16",
+      "episodeCount": 1,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/Aq0CZ3DMkP4jQU56G2enDgkFxS9.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2020-03-11",
+      "episodeCount": 1,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/wFDpJhNYne3NgqZyQwIUUApAm8d.jpg",
+      "seasonNumber": 3
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Are you ready for a surprise quiz? (\"You Quiz?\")",
+  "theatricalDate": null,
+  "title": "You Quiz on the Block",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "j2IOYzbzP3c",
+      "name": "You Quiz on the Block | 劉在街頭 Promo (Subbed)",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "D7G3eD2PKfk",
+      "name": "You Quiz on the Block | 劉在街頭 Teaser (Subbed)",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2709,
+          "logoPath": "/mT4URFPgO0MvKxTnjm6b5dkpaL7.png",
+          "name": "CJ ENM Selects Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/81978/watch?locale=GB",
+      "rent": []
+    }
+  }
+}

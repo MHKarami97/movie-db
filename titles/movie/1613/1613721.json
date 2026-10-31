@@ -1,0 +1,136 @@
+{
+  "backdropPath": "/4wYpP9sGjt0dlfCfVo6bJFwlSoe.jpg",
+  "cast": [
+    {
+      "character": "Wu Ling",
+      "id": 1518226,
+      "name": "Han Dong",
+      "profilePath": "/85yojZHWpgEpOb8sE3VqTeuXrNq.jpg"
+    },
+    {
+      "character": "Tian Jinxiao",
+      "id": 4630457,
+      "name": "Dou Guiyu",
+      "profilePath": "/9OPK2I1CSbgo1M9juX9fNxSDyRR.jpg"
+    },
+    {
+      "character": "Yang Zhizhi",
+      "id": 2182998,
+      "name": "Song Haijie",
+      "profilePath": "/yQTaHLabV8lgiriBDWzYRE4BLvO.jpg"
+    },
+    {
+      "character": "Wu Shuang",
+      "id": 5583142,
+      "name": "Zhao Daixi",
+      "profilePath": "/bCXA0CuYxJ5ic6ZbMHAW3qmNiHa.jpg"
+    },
+    {
+      "character": "",
+      "id": 2304118,
+      "name": "Liu Xu",
+      "profilePath": "/dU33y9uQAT2ZbhlCO0Lx8R1Hax6.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 122699,
+      "logoPath": "/rNuZaO3S54yNb2inykTHBg8meCe.png",
+      "name": "iQIYI Pictures （重复 同 iQiyi Motion Pictures）"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "digitalDate": "2026-01-20",
+  "externalIds": {
+    "imdbId": "tt39401002"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1613721,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "originalTitle": "判妖邪",
+  "overview": "During the chaotic final days of the Tang Dynasty, Wu Ling refuses to believe the rumors that his sister Wu Shuang has become a malevolent spirit. Using a forbidden resurrection technique, he brings her back to life and devises a cunning plan in the shadowy Temple of the Plague God to uncover the real villains and restore justice.",
+  "posterPath": "/l6jzWopN47S1EC7g7bplMcG0adO.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-01-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-01-20",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "digital": "2026-01-13"
+    },
+    "US": {
+      "digital": "2026-01-20"
+    }
+  },
+  "runtime": 83,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Evil's Return",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 6,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 629,
+          "logoPath": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+          "name": "OSN+"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1613721/watch?locale=AE",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "backdropPath": "/xWaPyblpSDi4ZmiNLvJcmug01hv.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 307995,
+      "logoPath": null,
+      "name": "Unbroken Generation Productions"
+    },
+    {
+      "id": 307996,
+      "logoPath": null,
+      "name": "Karandash Animation Studios"
+    },
+    {
+      "id": 117604,
+      "logoPath": "/hHAOkqSR2G3jh4Ui5I6ICLI4KTG.png",
+      "name": "PFX"
+    }
+  ],
+  "countries": [
+    {
+      "code": "UA",
+      "name": "Ukraine"
+    },
+    {
+      "code": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt43586637",
+    "wikidataId": "Q141779950"
+  },
+  "fetchedAt": 1793504874718,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "id": 1752150,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "uk",
+      "name": "Ukrainian"
+    }
+  ],
+  "originalTitle": "Ash and Crayons",
+  "overview": "Seven Ukrainian children demonstrate resilience while facing catastrophic injuries and forcible deportations during the ongoing war, their stories told through verité footage and animation by Ukrainian artists.",
+  "posterPath": "/9ay4eosyvRT6HfWKQwHiBRVvxj2.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-20"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-06-28",
+      "theatrical": "2026-11-20"
+    }
+  },
+  "runtime": 98,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A story of innocence and resilience in the shadow of war.",
+  "theatricalDate": "2026-11-20",
+  "title": "Ash and Crayons",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

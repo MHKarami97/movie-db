@@ -1,0 +1,175 @@
+{
+  "backdropPath": "/amgPQ7hCwd8beF91w379rxgPh77.jpg",
+  "cast": [
+    {
+      "character": "Jeanne Manin",
+      "id": 1348474,
+      "name": "Camille Cottin",
+      "profilePath": "/ArBIA46esEk1qMlSwoVPR1SxPvc.jpg"
+    },
+    {
+      "character": "Suzanne Manin",
+      "id": 2887131,
+      "name": "Juliette Armanet",
+      "profilePath": "/iuyLuYOuVBD0tkaXLteXKhTpyzM.jpg"
+    },
+    {
+      "character": "Nicole",
+      "id": 143595,
+      "name": "Monia Chokri",
+      "profilePath": "/i06QbNMDTrjeM4NgdT1lgrWF4IK.jpg"
+    },
+    {
+      "character": "Gaspard",
+      "id": 5017258,
+      "name": "Manoâ Varvat",
+      "profilePath": null
+    },
+    {
+      "character": "Margaux",
+      "id": 4393192,
+      "name": "Nina Birman",
+      "profilePath": null
+    },
+    {
+      "character": "Sébastien",
+      "id": 239118,
+      "name": "Guillaume Gouix",
+      "profilePath": "/caQHHQaVmfHHvbchMxB9kJ6JSDm.jpg"
+    },
+    {
+      "character": "Le père",
+      "id": 20285,
+      "name": "Féodor Atkine",
+      "profilePath": "/qCpSPJyM7v9p3fGBJV8ZqGETBr0.jpg"
+    },
+    {
+      "character": "Leïla",
+      "id": 931296,
+      "name": "Frankie Wallach",
+      "profilePath": "/6wODVo5qd3czhXbAajzbOdmFA7E.jpg"
+    },
+    {
+      "character": "La juge aux affaires familiales",
+      "id": 1689510,
+      "name": "Myriem Akheddiou",
+      "profilePath": "/9Xw3XoQSAuUcArgyDjV9erC8W3C.jpg"
+    },
+    {
+      "character": "Mme Garcia",
+      "id": 145088,
+      "name": "Tania Dessources",
+      "profilePath": "/wmlvqVFRH3QxWBTPgHkRBVti9Tu.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 34780,
+      "logoPath": "/ahgzFRXKF2fkOV0WfB0RCxEmxki.png",
+      "name": "Chi-Fou-Mi Productions"
+    },
+    {
+      "id": 694,
+      "logoPath": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal"
+    },
+    {
+      "id": 83,
+      "logoPath": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35455855",
+    "wikidataId": "Q131736592"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1277882,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Les enfants vont bien",
+  "overview": "When Jeanne, a meticulous insurance assessor, is suddenly left to care for her estranged sister’s two children after their mother vanishes, her carefully ordered life begins to unravel. Confronted with unexpected responsibilities, she must balance the fragile task of earning the children’s trust while also tending to her own relationship with her girlfriend, who struggles to adjust to Jeanne’s new role. As grief, uncertainty, and shifting loyalties mount, Jeanne finds herself redefining what family and love truly mean.",
+  "posterPath": "/qLEyWZUTYyeBiGvNUz9wmqT6cFd.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 111,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Out of Love",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Qo1lgxJUog8",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 113,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2400,
+          "logoPath": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+          "name": "France Channel Amazon Channel"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1277882-les-enfants-vont-bien/watch?locale=US",
+      "rent": []
+    }
+  }
+}

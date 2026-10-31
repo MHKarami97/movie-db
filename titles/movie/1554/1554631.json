@@ -1,0 +1,129 @@
+{
+  "backdropPath": "/p8NfxilxJaV5cmtU4lHmBQOPLFv.jpg",
+  "cast": [
+    {
+      "character": "Abuelo/Gaspar/Noruego/Peluzín",
+      "id": 3260254,
+      "name": "Sergio Lebrija",
+      "profilePath": null
+    },
+    {
+      "character": "voces adicionales",
+      "id": 2576077,
+      "name": "Arturo Navarro",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 7570,
+      "logoPath": "/gW8dfVtl1JsGIiLnvglea1OHHVr.png",
+      "name": "Videocine"
+    },
+    {
+      "id": 296332,
+      "logoPath": null,
+      "name": "F3 Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt42027122"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "id": 1554631,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "La Familia Del Barrio: La Maldición del Quinto Partido",
+  "overview": "Since 1994, Mexico has been eliminated time and again before the coveted fifth game. For El Abuelo, this is no coincidence: it's a curse. When he learns he only has a few months to live, he decides he can't die without seeing the national team break the curse. What begins as a patriotic crusade ends up becoming an illegal journey to the United States, where they discover that the devil lives in Los Angeles and that the mascot of the 1986 World Cup holds a secret that will change everything. Between failed attempts to cross the border, unexpected betrayals, and family revelations, the family returns to Mexico to perform a soccer ritual at the Estadio Azteca. To break the pact, they must gather eleven sacred relics of Mexican soccer and confront not only the devil, but their own past. While the entire country awaits the decisive penalty kick on television, the family wages a battle that could change the history of Mexican soccer.",
+  "posterPath": "/riJTZUL3Q2rKVoCE78Akbop7Yt8.jpg",
+  "rating": 9.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "A Neighborhood Family",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 50,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 457,
+          "logoPath": "/ieJ55scAVrvboTpeJcZa3JlLIrS.png",
+          "name": "VIX "
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1866,
+          "logoPath": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+          "name": "ViX Premium Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1554631-la-familia-del-barrio-la-maldicion-del-quinto-partido/watch?locale=US",
+      "rent": []
+    }
+  }
+}

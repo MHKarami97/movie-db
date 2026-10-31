@@ -1,0 +1,182 @@
+{
+  "backdropPath": "/dl0pL20Fnk1QpnZI0PCkC8EjEkd.jpg",
+  "cast": [
+    {
+      "character": "Terri Joe / Jeorgia / Amethyst",
+      "id": 5885540,
+      "name": "Kelon Campbell",
+      "profilePath": "/ooqRFZ9pk5YAFVz3fTsNFRCQnAg.jpg"
+    },
+    {
+      "character": "Jesus",
+      "id": 2132439,
+      "name": "Andrew Romano",
+      "profilePath": "/2dKlhKxbA7n7ojpKZVNwF0ZfeMo.jpg"
+    },
+    {
+      "character": "Beau Taylor",
+      "id": 5960712,
+      "name": "Chase Garland",
+      "profilePath": null
+    },
+    {
+      "character": "Bob Anne Taylor",
+      "id": 1191205,
+      "name": "Katie Keene",
+      "profilePath": "/nc1MCQLgvKZI7mN4wXPzgNAk2iT.jpg"
+    },
+    {
+      "character": "Raine",
+      "id": 3614324,
+      "name": "Rolin Alexis",
+      "profilePath": null
+    },
+    {
+      "character": "Bobby Taylor",
+      "id": 2369512,
+      "name": "Dylan Bougis",
+      "profilePath": null
+    },
+    {
+      "character": "Bobford Taylor",
+      "id": 3697556,
+      "name": "Adam D. Crain",
+      "profilePath": "/7STNsJx17EgDTisehsOxdLskpTj.jpg"
+    },
+    {
+      "character": "Nicki",
+      "id": 5886051,
+      "name": "Jasmine Hurt",
+      "profilePath": null
+    },
+    {
+      "character": "Homeless Man",
+      "id": 4885459,
+      "name": "Gordon Eric Knowles",
+      "profilePath": null
+    },
+    {
+      "character": "Marcus",
+      "id": 5886052,
+      "name": "Nicholas Ramsay",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 120832,
+      "logoPath": null,
+      "name": "Megamind Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-01-30",
+  "externalIds": {
+    "imdbId": "tt39282210"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1600513,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Terri Joe: Missionary in Miami",
+  "overview": "In this wild farce, Southern Belle Terri Joe ventures to Miami to outrun wacky criminals and find a new church where she can atone for her sins.",
+  "posterPath": "/2cNfetC40BtP2lyk5oOxJXEwm6e.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-01-30",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-01-30"
+    }
+  },
+  "runtime": 82,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Terri Joe: Missionary in Miami",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "raYOQXjNi0I",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "ApUbsO_chac",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1600513-terri-joe-missionary-in-miami/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1600513-terri-joe-missionary-in-miami/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "backdropPath": "/wNj3vgm13CyKb04xIq7NQ8zTY1e.jpg",
+  "cast": [
+    {
+      "character": "Charlie",
+      "id": 1108907,
+      "name": "Nick Robinson",
+      "profilePath": "/vWFoPTd8G7DIDXYmiTiq4oaYG5G.jpg"
+    },
+    {
+      "character": "Harper",
+      "id": 1331023,
+      "name": "Emilia Jones",
+      "profilePath": "/vQHfiR6bSKf7bJcYyDvfUSXlB9Q.jpg"
+    },
+    {
+      "character": "Kevin",
+      "id": 1499398,
+      "name": "Nicholas Cirillo",
+      "profilePath": "/wjZRcdKRqJ7Lod2rSTYlrdQxIOl.jpg"
+    },
+    {
+      "character": "Chef",
+      "id": 1748131,
+      "name": "Jonathan Gregg",
+      "profilePath": "/wGLxWftGzRD5mtP2203cCjsnE87.jpg"
+    },
+    {
+      "character": "Claire",
+      "id": 1017023,
+      "name": "Jessica Blackmore",
+      "profilePath": "/jEJzmYdZqf5PuwnylP78WAmYkUL.jpg"
+    },
+    {
+      "character": "Jessica",
+      "id": 1410702,
+      "name": "Virginia Tucker",
+      "profilePath": "/5WPp13dhgMrqyZM359SZEyp3oPG.jpg"
+    },
+    {
+      "character": "Brian",
+      "id": 3513744,
+      "name": "Ja'Quan Monroe-Henderson",
+      "profilePath": "/sQqkVUIyfu0lpr6XTvNNPsYkLGW.jpg"
+    },
+    {
+      "character": "David",
+      "id": 3546884,
+      "name": "Sebastian Delascasas",
+      "profilePath": "/saM21YQ1DzDZmnwCGp0DE2Xao7t.jpg"
+    },
+    {
+      "character": "Randy",
+      "id": 557804,
+      "name": "Gralen Bryant Banks",
+      "profilePath": "/mLxMcf6IoX6e0K1YpERdKY4t0Hc.jpg"
+    },
+    {
+      "character": "Jade",
+      "id": 5669413,
+      "name": "Kareemah Muhammad",
+      "profilePath": "/aOYbimgGSIS3kO7v5SHyQY5moex.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 12292,
+      "logoPath": "/5J93SHsuvIV32AE9oSbMi02pqw9.png",
+      "name": "Temple Hill Entertainment"
+    },
+    {
+      "id": 196367,
+      "logoPath": null,
+      "name": "Little Ray Media"
+    },
+    {
+      "id": 159430,
+      "logoPath": "/uyWLvnD838IcdrQ5jwOenC9QXLZ.png",
+      "name": "Picture Perfect Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt27739255",
+    "wikidataId": "Q136190269"
+  },
+  "fetchedAt": 1794158926475,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1126097,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Charlie Harper",
+  "overview": "As an ambitious chef and her struggling partner move to a new city to start fresh, the stark divide in their drives tests the limits of their love.",
+  "posterPath": "/9Nf8Pluoi1JrT6S0qDsDMndFnlz.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-01"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-25"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-10-01"
+    },
+    "GB": {
+      "digital": "2026-11-16"
+    },
+    "US": {
+      "theatrical": "2026-09-25"
+    }
+  },
+  "runtime": 102,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "is love enough?",
+  "theatricalDate": "2026-09-25",
+  "title": "Charlie Harper",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Syp1bGpWTSs",
+      "name": "UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "3EwAPmmNBU4",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1126097-charlie-harper/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

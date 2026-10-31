@@ -1,0 +1,382 @@
+{
+  "backdropPath": "/kDV679vDedA72qxKrO4AG0YPrhd.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 1300970,
+      "name": "Javier Coronas",
+      "profilePath": "/nJjgCoBoNNBE6V5q5qxllscdMaQ.jpg"
+    },
+    {
+      "character": "Self - Panelist",
+      "id": 1533129,
+      "name": "Pepe Colubi",
+      "profilePath": "/we4PttygeGVMvKtOWHXMGp18RXs.jpg"
+    },
+    {
+      "character": "Self - Panelist",
+      "id": 1331711,
+      "name": "Javier Cansado",
+      "profilePath": "/wB0BVZBGLateJumMr2D8Kse5Mo4.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 67412,
+      "logoPath": "/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png",
+      "name": "Movistar Plus"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": "2008-11-01",
+  "episodes": {
+    "20": [
+      {
+        "airDate": "2026-09-08",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-09-15",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-09-22",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-09-29",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-06",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-13",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-20",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-27",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-03",
+        "episodeNumber": 9,
+        "name": "Episode 9",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-10",
+        "episodeNumber": 10,
+        "name": "Episode 10",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt5147074",
+    "wikidataId": "Q16578293"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 64372,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-27",
+    "episodeNumber": 8,
+    "id": 7984556,
+    "name": "Episode 8",
+    "overview": "",
+    "seasonNumber": 20
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-03",
+    "episodeNumber": 9,
+    "id": 7984557,
+    "name": "Episode 9",
+    "overview": "",
+    "seasonNumber": 20
+  },
+  "originalTitle": "Ilustres Ignorantes",
+  "overview": "",
+  "posterPath": "/Ahbds2odpMWYhPpgSU8j8OYvls8.jpg",
+  "rating": 7.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2008-11-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2008-11-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2008-11-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2008-11-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2008-11-01"
+    },
+    "CN": {
+      "tv": "2008-11-01"
+    },
+    "GB": {
+      "tv": "2008-11-01"
+    },
+    "US": {
+      "tv": "2008-11-01"
+    }
+  },
+  "runtime": 25,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2016-09-12",
+      "episodeCount": 4,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/j9tKeJjxFPZmsur1Gf4cbkTpgT0.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2008-11-01",
+      "episodeCount": 9,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/9EvjLmxbzII3T3NvILQvuGKTlqg.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2009-09-19",
+      "episodeCount": 19,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/2PhkBx3TsoijJzpr2lNgwWD1aKA.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2010-09-08",
+      "episodeCount": 21,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/qPv9sJGAPVu12gHt85fK4Uk9z9F.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2011-11-02",
+      "episodeCount": 21,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/9GD1E38tWKvCObufqPhhBxMM5Nz.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2012-10-31",
+      "episodeCount": 21,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/cVBaFg9lrc7NiSB2YaJY3sKhqIc.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2013-11-01",
+      "episodeCount": 21,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/3eraJn9ZHgmQD7puDVXsVyLbK02.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2014-10-31",
+      "episodeCount": 21,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/6XQGxRCrnpHy7x0lXDxaeOyY2Co.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2015-10-30",
+      "episodeCount": 20,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/2Qd9ib0DAXR3O6HsRIL64ZZJIWm.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2016-04-29",
+      "episodeCount": 20,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/itvM0NSldDcevSKcCnXKCoS2sh4.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2016-09-12",
+      "episodeCount": 38,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/hsn9hw9nuopeygPnJr8C8wPHF1n.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2017-09-12",
+      "episodeCount": 41,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": "/5SyTHZfdtGNj00VLOPAFVHDssgs.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2018-09-11",
+      "episodeCount": 40,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": "/r396BMTtwAVJhcjYi1H9My8pXhh.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2019-09-10",
+      "episodeCount": 40,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": "/r396BMTtwAVJhcjYi1H9My8pXhh.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2020-09-15",
+      "episodeCount": 40,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": "/iWmzkmRNj7oNZtwo917NtMLkqpA.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2021-09-14",
+      "episodeCount": 40,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": "/iWmzkmRNj7oNZtwo917NtMLkqpA.jpg",
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2022-09-13",
+      "episodeCount": 39,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": "/2x0Kv9pCqjVZ9KGL7s8F3gjBVGd.jpg",
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2023-09-12",
+      "episodeCount": 41,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": "/fbVvuoy52s947JHQEc4c7T4Z2q5.jpg",
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2024-09-10",
+      "episodeCount": 41,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": "/jZPmccxg50LtcsqoUBQl2Y6L4cf.jpg",
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2025-09-09",
+      "episodeCount": 45,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": "/cS8XSH3lrKbUqz122mCOrEFF3IF.jpg",
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2026-09-08",
+      "episodeCount": 10,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": "/xs2KnrwTjIUrlQ3GyUGwUMJ4O83.jpg",
+      "seasonNumber": 20
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Ilustres Ignorantes",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 8,
+  "watchProviders": {}
+}

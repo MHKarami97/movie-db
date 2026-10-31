@@ -1,0 +1,212 @@
+{
+  "backdropPath": "/3uDyPIGNZ6OxGPaFgGs47JhNUuK.jpg",
+  "cast": [
+    {
+      "character": "Pawan Malik",
+      "id": 35747,
+      "name": "Saif Ali Khan",
+      "profilePath": "/kzOy1DoCeLoKJ07nbYnQDObU3yY.jpg"
+    },
+    {
+      "character": "Varsha",
+      "id": 86243,
+      "name": "Rasika Dugal",
+      "profilePath": "/hDLEHqYoIY6ZGrbmlsUJpwn9nl3.jpg"
+    },
+    {
+      "character": "Ashok",
+      "id": 85879,
+      "name": "Sanjay Mishra",
+      "profilePath": "/4MGKohKGU4v9SoXcQKCcC4e4Bpi.jpg"
+    },
+    {
+      "character": "Anand Shri",
+      "id": 5576987,
+      "name": "Saurabh Dwivedi",
+      "profilePath": "/mX0LkUJnSXXPSrFUFWW59QUG0bE.jpg"
+    },
+    {
+      "character": "Harihar",
+      "id": 85656,
+      "name": "Zakir Hussain",
+      "profilePath": "/etiL0ANjzBhTiyvUblZl6vwIog9.jpg"
+    },
+    {
+      "character": "Keshav",
+      "id": 1040951,
+      "name": "Manish Chaudhary",
+      "profilePath": "/1l4vmA0IJQLieebZWOOCAFu4ra6.jpg"
+    },
+    {
+      "character": "Amar",
+      "id": 1294159,
+      "name": "Durgesh Kumar",
+      "profilePath": "/nLt1cgrxIapn7fRVwFjqnSFXc1x.jpg"
+    },
+    {
+      "character": "Nirmal",
+      "id": 1294161,
+      "name": "Saharsh Kumar Shukla",
+      "profilePath": "/jBDpti5r8uOuNJAEApcJyvrlVFA.jpg"
+    },
+    {
+      "character": "Honey",
+      "id": 6215055,
+      "name": "Swastik Bhagat",
+      "profilePath": null
+    },
+    {
+      "character": "Deepak",
+      "id": 6215056,
+      "name": "Saurabh Abrol",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 2343,
+      "logoPath": "/fkrlAFxgAtIHgYJGIQcDggeucKV.png",
+      "name": "Red Chillies Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2026-05-15",
+  "externalIds": {
+    "imdbId": "tt39664733",
+    "wikidataId": "Q139694411"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1628367,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "hi",
+      "name": "Hindi"
+    }
+  ],
+  "originalTitle": "कर्त्तव्य",
+  "overview": "With his family's safety at stake and menacing threats closing in, a police officer must decide how far he'll go to uphold his duty.",
+  "posterPath": "/doTwMyAphlDL5Z8WqE3elWWvj8M.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-05-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-15",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-05-15"
+    },
+    "US": {
+      "digital": "2026-05-15"
+    }
+  },
+  "runtime": 109,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Kartavya",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "WnoY3M1eaeE",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 36,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1628367/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1628367/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1628367/watch?locale=US",
+      "rent": []
+    }
+  }
+}

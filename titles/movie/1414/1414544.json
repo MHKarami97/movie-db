@@ -1,0 +1,132 @@
+{
+  "backdropPath": "/oxzZQ2Pl7Y6LKytx7ewPleheDIX.jpg",
+  "cast": [
+    {
+      "character": "Diego (voice)",
+      "id": 1280145,
+      "name": "Moisés Iván Mora",
+      "profilePath": "/jO1GMKEix1JLfqi6GLeEJmk0m5a.jpg"
+    },
+    {
+      "character": "Xóchitl (voice)",
+      "id": 4558560,
+      "name": "Ana Tena",
+      "profilePath": "/dhhroNZC4rKVzcP0yrAqx00p4tk.jpg"
+    },
+    {
+      "character": "Tezca (voice)",
+      "id": 2372264,
+      "name": "Humberto Solórzano",
+      "profilePath": "/AryxOeRnzziOCaYylpZUpy9ockd.jpg"
+    },
+    {
+      "character": "Tláloc (voice)",
+      "id": 105843,
+      "name": "Silverio Palacios",
+      "profilePath": "/knRcubASXmakYNyY4G8BXEj12Rz.jpg"
+    },
+    {
+      "character": "Nene (voice)",
+      "id": 6414595,
+      "name": "Erasmo Catarino",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 121281,
+      "logoPath": null,
+      "name": "Fotosíntesis Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    {
+      "code": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt22393352",
+    "wikidataId": "Q138588527"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1414544,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Mi amigo el sol",
+  "overview": "Diego, a father struggling to give his daughter Xóchitl a real home, sees his life transformed when the mural she paints opens a portal to Tollan, the realm of the Mexica gods. As Xóchitl is chosen as a possible Sixth Sun, the ambitious Tezcatlipoca plots to claim that power. Separated between worlds, father and daughter must face deception, gods, and their own flaws to reunite. With the help of unexpected allies, they discover that true strength is born from sacrifice, trust, and faith in humanity.",
+  "posterPath": "/297MtGInVjGPPqNAxMb74SFi9cp.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-10-17"
+    }
+  },
+  "runtime": 81,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The inherent search for identity",
+  "theatricalDate": null,
+  "title": "My Friend The Sun",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "ykCFtKDE2vQ",
+      "name": "BTS of Mexico's 'My Friend the Sun'",
+      "official": false,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "2bRljgteHpY",
+      "name": "'My Friend the Sun' - Making Of",
+      "official": false,
+      "type": "Behind the Scenes"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

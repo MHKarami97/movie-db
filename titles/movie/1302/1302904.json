@@ -1,0 +1,942 @@
+{
+  "backdropPath": "/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+  "cast": [
+    {
+      "character": "Sally Owens",
+      "id": 18277,
+      "name": "Sandra Bullock",
+      "profilePath": "/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
+    },
+    {
+      "character": "Gillian Owens",
+      "id": 2227,
+      "name": "Nicole Kidman",
+      "profilePath": "/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
+    },
+    {
+      "character": "Kylie",
+      "id": 125025,
+      "name": "Joey King",
+      "profilePath": "/94c69mPYSK9jFsAEu0OKB7Qs684.jpg"
+    },
+    {
+      "character": "Antonia",
+      "id": 1181313,
+      "name": "Maisie Williams",
+      "profilePath": "/zk1rlBVci2fmnFhMezaPpa4kwZF.jpg"
+    },
+    {
+      "character": "Gideon",
+      "id": 1185997,
+      "name": "Xolo Maridueña",
+      "profilePath": "/tJMI7BpjlhHSMpzSz9e1XxygnKd.jpg"
+    },
+    {
+      "character": "Ian Wright",
+      "id": 72095,
+      "name": "Lee Pace",
+      "profilePath": "/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
+    },
+    {
+      "character": "Jet",
+      "id": 1902,
+      "name": "Dianne Wiest",
+      "profilePath": "/p9mfzY68FtEbedOMNB5X4eBShhx.jpg"
+    },
+    {
+      "character": "Franny",
+      "id": 8893,
+      "name": "Stockard Channing",
+      "profilePath": "/fsk0HkOVKtdcbHfsc99bQvMJep3.jpg"
+    },
+    {
+      "character": "Tom Lockland",
+      "id": 3060978,
+      "name": "Solly McLeod",
+      "profilePath": "/6aMA4kUV1ji4uu3zzBzQ9fwgUDO.jpg"
+    },
+    {
+      "character": "Maria Owens",
+      "id": 5639097,
+      "name": "Ema Cavolli",
+      "profilePath": "/mzAXiBoJeY1fA9Nc6KNsKNPfsgO.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 813,
+      "logoPath": "/xz25F3NFQOQJCH47VscbrcI10Om.png",
+      "name": "Di Novi Pictures"
+    },
+    {
+      "id": 174,
+      "logoPath": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+      "name": "Warner Bros. Pictures"
+    },
+    {
+      "id": 32537,
+      "logoPath": "/7fUmRWUJgO4grf61sPMmc4kVYVR.png",
+      "name": "Blossom Films"
+    },
+    {
+      "id": 4258,
+      "logoPath": "/2AAcFwLxc1yble95qTSi6QfxKRa.png",
+      "name": "Fortis Films"
+    },
+    {
+      "id": 216687,
+      "logoPath": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+      "name": "Domain Entertainment"
+    },
+    {
+      "id": 1088,
+      "logoPath": "/9WOE5AQUXbOtLU6GTwfjS8OMF0v.png",
+      "name": "Alcon Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-13",
+  "externalIds": {
+    "facebookId": "PracticalMagicMovie",
+    "imdbId": "tt32588798",
+    "instagramId": "practicalmagicmovie",
+    "twitterId": "PracticalMagic",
+    "wikidataId": "Q131901398"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1302904,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Practical Magic 2",
+  "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+  "posterPath": "/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-10"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-10-13",
+      "gapDays": 32,
+      "theatricalDate": "2026-09-11"
+    },
+    "US": {
+      "digitalDate": "2026-10-13",
+      "gapDays": 32,
+      "theatricalDate": "2026-09-11"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-09-10"
+    },
+    "GB": {
+      "digital": "2026-10-13",
+      "premiere": "2026-08-26",
+      "theatrical": "2026-09-11"
+    },
+    "US": {
+      "digital": "2026-10-13",
+      "premiere": "2026-08-31",
+      "theatrical": "2026-09-11"
+    }
+  },
+  "runtime": 130,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Everything you've witched for.",
+  "theatricalDate": "2026-09-11",
+  "title": "Practical Magic 2",
+  "translations": {
+    "faTitle": "جادوی عملی ۲"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "orpVGiKr29g",
+      "name": "Sisters, Spells & Secrets - Behind The Scenes",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "-rvGi_tQhwc",
+      "name": "Fighting Dark Magic",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "jdvVAl89OjU",
+      "name": "The Magic Returns - Behind The Scenes",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "AgOLekit2HU",
+      "name": "Magical Wedding & Midnight Margaritas",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "0oSIKwn8huM",
+      "name": "Full Movie Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "_de_g6qhKDw",
+      "name": "Audiences are loving Practical Magic 2!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Bo1kyi4mefI",
+      "name": "Two early birds who love a marg. It’s a perfect match!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "HKHkVbRiQEk",
+      "name": "If you need her, she’s with her sister!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "PYRp3-WCu24",
+      "name": "A for effort.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "J5M-DlxIDBE",
+      "name": "It's official, Practical Magic 2 is the #1 movie in the world!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "C7H6gYNdAhs",
+      "name": "Gather your sisters and get your tickets!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "wbov5sBHwNM",
+      "name": "Summon your tickets today! Consider this your sign to see Practical Magic 2 in theaters.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "DQpwQAWZheo",
+      "name": "The Deathwatch beetle returns...",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "SPCp3LpcwzY",
+      "name": "Sisters that were meant to be",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "-UXkq27Wnys",
+      "name": "Cast by fate, tested by time, and never broken. Tell your sisters to get tickets!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "x-vA9LSoETA",
+      "name": "Who are you taking to the theater? They’re so in sync, it’s like magic!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "xHxGVZwupvc",
+      "name": "It's giving twins!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "7k5oMk0Rcz4",
+      "name": "There's extra special magic here.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "IP3xm_D10BY",
+      "name": "Follow the magic all the way to the theater.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "xvRj4ynCa4Q",
+      "name": "Experience the magical feeling of sisterhood.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "8KzOcMaPKVY",
+      "name": "The magic that goes on behind the scenes of PRACTICAL MAGIC 2",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "Lh0dkyqg954",
+      "name": "The Owens family brought their magic to the red carpet for the Practical Magic 2 London premiere!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "tmnitSU5sE0",
+      "name": "Have you gotten your tickets yet?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ews-BCFv56A",
+      "name": "There is no magic without you, the fans.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "sfOKjw5BhPU",
+      "name": "Tag your besties to remind them to get their tickets!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "2eQLKgqaGe4",
+      "name": "The icon Nicole Kidman herself",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "pLEZ1QgzT5M",
+      "name": "We've waited such a long time for this.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Yfi8Fgj2YXw",
+      "name": "Looking Practical Magic 2 right in the eye.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "f29RMV4ZGA8",
+      "name": "Just another great reason to get your tickets for Practical Magic 2",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "NDK81p2SxC0",
+      "name": "Did someone say Practical Magic 2 is in theaters TOMORROW?!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "NlsE1Vhmsts",
+      "name": "Tickets? ✅ Coven? ✅",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "_5W-mPM49K0",
+      "name": "Have you summoned your tickets yet?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "GxGm8GNnTg8",
+      "name": "Obsessed with Sandra Bullock in PRACTICAL MAGIC 2",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "cxAIs88BGJM",
+      "name": "The whole coven's invited!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ajs_2LRzDz8",
+      "name": "The cast of PRACTICAL MAGIC 2 put their British knowledge to the test...",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "dqeFpLKIWnk",
+      "name": "Anything but the beetle.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "X6xYkIe-rBA",
+      "name": "The angles, they're important!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "xRurGLtCy0I",
+      "name": "Must be the season of getting tickets for Practical Magic 2",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "RDoWkHrsjZo",
+      "name": "Love is the most magical thing of all.",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "_1fgRTEwxHk",
+      "name": "Nicole Kidman appeared to surprise fans at a special screening of PRACTICAL MAGIC 2 in Australia!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "jQ73-3pVC8E",
+      "name": "Let the cast of PRACTICAL MAGIC 2 cleanse your feed",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "vlpg5WAg12U",
+      "name": "Gilly, she's still the spontaneous one.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "t5MpkTaNiC8",
+      "name": "Magic is in her past, but her past won't be silenced.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "IQM6zIqm_U8",
+      "name": "Nicole Kidman spills all on filming PRACTICAL MAGIC 2 in the UK",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "1tVwec-A_XI",
+      "name": "The reviews are in: audiences are under the spell of Practical Magic 2.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "DCb9geKr-7E",
+      "name": "The Owens family is waiting to welcome you home!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "w8Wr-pAjWzk",
+      "name": "The apple doesn't fall far from the tree.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ygkyqRY3Ncg",
+      "name": "This is your sign to go watch PRACTICAL MAGIC 2 with your coven in theaters starting September 11...",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ttOBh3YA46g",
+      "name": "Kylie is taking matters into her own hands.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "U_yRzBFgoEA",
+      "name": "Practical Magic 2 is a love letter to girlhood.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "GAO-mpdfiHg",
+      "name": "Magic is best experienced together.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "JWre2Lq_94Q",
+      "name": "Who are you manifesting seeing Practical Magic 2 with?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "U-Nn8-QY2zI",
+      "name": "Take the plans out of the group chat and get your tickets for Practical Magic 2",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "5sd5-3lZu2M",
+      "name": "Trust the magical process...",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "zf_An007vMs",
+      "name": "Tag your sisters in the comments to remind them to get Practical Magic 2 tickets!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "rEEsxG6wIiI",
+      "name": "You'll laugh, you'll cry, you'll want more!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "prbzzLkD2Ro",
+      "name": "The countdown is almost over!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "V2HpBJrPKzw",
+      "name": "Some things only your sister can cure.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "8cOHxxk3QeM",
+      "name": "Things can escalate quickly...",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "08M1NTemKSU",
+      "name": "Grab your umbrella and fly to the theater!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "u2JoMvkNe4w",
+      "name": "Some call it chemistry, we call it magic.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "jxi3oy06dFI",
+      "name": "These witches know how to dress",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6GTs6SQTKzI",
+      "name": "The Owens family is making magic in Los Angeles.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "KXerkapLbxU",
+      "name": "Conjure up tickets and tag your sisters in the comments to do the same!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "GjHIKD8BNn4",
+      "name": "Lee Pace has us under his spell in PRACTICAL MAGIC 2",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "R3WHfBdaGpo",
+      "name": "Time to have some fun.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "bnq1YHl7yMg",
+      "name": "You heard them.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "G9SfvQohtLc",
+      "name": "Tag the person you want to watch Practical Magic 2 with!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "jGLrM0ogP6Y",
+      "name": "It's officially the season of the witch with the cast of PRACTICAL MAGIC 2 in London",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "wFPzH1Mr9yk",
+      "name": "Tag your coven to remind them to get their Practical Magic 2 tickets!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "E2aYktBr5KI",
+      "name": "Summon the person you're taking to the theater in the comments!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "8EvbH638oqY",
+      "name": "Activate the phone tree to get tickets to Practical Magic 2",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ihk97HaPLP4",
+      "name": "Maisie Williams and Joey King in London for PRACTICAL MAGIC 2",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "l2agQ84qEWI",
+      "name": "Stockard Channing joined Dianne Wiest in London",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "2Os0Q_vyrwc",
+      "name": "Sandra Bullock and Nicole Kidman in London",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "QvHdrH9IjTw",
+      "name": "Tag your coven to bring to theater to see Practical Magic 2",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9pTnlfjmeC0",
+      "name": "Dianne Wiest and Stockard Channing reunited at the PRACTICAL MAGIC 2 London premiere!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "R9p7I3kdwfM",
+      "name": "Joey King and Maisie Williams brought double the magic to the PRACTICAL MAGIC 2 London premiere.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "lm6HrF-xul0",
+      "name": "Just gonna leave this here…",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ep8wo-rHzY0",
+      "name": "Is there a spell to make Mercury retrograde easier?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "dyYB6K3oRtw",
+      "name": "There's one thing we know for certain: their sisterhood has always been stronger than any magic.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "mprgGOx3SMM",
+      "name": "In our Practical Magic Era. Who's with us?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "n0i3I_9Jk1A",
+      "name": "Owens family lore.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "lmzBr0EPPGU",
+      "name": "They got it from their momma!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "s7Iq_gwKNZw",
+      "name": "Magic isn’t just what they do, it’s who they are.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "hk2wZKp2kOc",
+      "name": "Uh oh.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "_zEE2T2Yfwg",
+      "name": "Everyone just stay calm.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "c1g5Q3Z5E6k",
+      "name": "The magic is in your hands. Conjure your Practical Magic 2 tickets.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ZJdAKRZPxtY",
+      "name": "Channel the magic. Break the curse.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "_l7eCgKAseI",
+      "name": "There's magic in your future.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "WhINvqT53so",
+      "name": "Never. Getting. Over. This.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "X9fdzsfNA7M",
+      "name": "What are you waiting for?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "XLn4alXVzpg",
+      "name": "Raise a midnight margarita glass and summon your Practical Magic 2 tickets NOW",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "z26iyyjY-H0",
+      "name": "Piping hot tea 🤝 Salt rim margs.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "RyudJc_xzOo",
+      "name": "Trust the process.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "a7g2oUdMAJ8",
+      "name": "A girls night and PRACTICAL MAGIC 2? The dream",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "DlFxE-TBums",
+      "name": "Whether earth-rooted or solar-ruled, everyone needs tickets to Practical Magic 2",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "NNVKVal7kh8",
+      "name": "Tickets on Sale",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "PLFzB7JfjSI",
+      "name": "No time for second guesses.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "GSUNFgz7ePY",
+      "name": "A bond that cannot be broken.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "DlIsO4BT_H0",
+      "name": "Love is their undoing.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "PP-V84z8pGM",
+      "name": "In this together, forever.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Ho10_4IX1jE",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "jGKHTrAI3oM",
+      "name": "The Owens sister are summoning you for something special.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "rdcb5-p8ndE",
+      "name": "The magic returns.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "iSWP2feb4rw",
+      "name": "Official Teaser Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 344,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1302904-practical-magic-2/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1302904-practical-magic-2/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

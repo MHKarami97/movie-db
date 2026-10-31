@@ -1,0 +1,163 @@
+{
+  "backdropPath": "/hmO6gcVSYchZXN0N7XcbXtjaC0k.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 176484,
+      "name": "Marc Munden",
+      "profilePath": "/cyfprG5yZt9DzGiwf3scHhHF9g1.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1205876,
+      "name": "Maja Meschede",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 207132,
+      "name": "Jack Thorne",
+      "profilePath": "/siVfYSurwcIrplOc0vP3DiJAVN2.jpg"
+    },
+    {
+      "character": "Self - Nicholas (Piggy)",
+      "id": 4925207,
+      "name": "David McKenna",
+      "profilePath": "/m3iSEe5F8oAQkE0kRN3LTqMTpG.jpg"
+    },
+    {
+      "character": "Self - Jack Merridew",
+      "id": 4738228,
+      "name": "Lox Pratt",
+      "profilePath": "/7emX09ZcVBJ91TsS9qYy8EayoFU.jpg"
+    },
+    {
+      "character": "Self - Ralph",
+      "id": 4925209,
+      "name": "Winston Sawyers",
+      "profilePath": "/8pBpHS4t2SeV0GgwseJvprShFGs.jpg"
+    },
+    {
+      "character": "Self - Simon",
+      "id": 4925211,
+      "name": "Ike Talbut",
+      "profilePath": "/weWQlgx5GVug6hgrzBgcqA3Sm04.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 4061906,
+      "name": "Joel Wilson",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6144212,
+      "name": "Brian Chew",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 4925226,
+      "name": "Callum Devrell-Cameron",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 34666,
+      "logoPath": "/dDQq31vXtTvnRrFKoF9nK3PmLau.png",
+      "name": "Eleven"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-05-04",
+  "externalIds": {
+    "imdbId": "tt40383471"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1672938,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Making of Lord of the Flies",
+  "overview": "A trippy tale capturing the creative vision of writer Jack Thorne and director Marc Munden, as a British crew and young cast film this timely adaptation on the remote islands of Malaysia during monsoon season. The crew battle twisters, torrential rain and scary insects to create this hallucinatory fever dream, featuring behind-the-scenes interviews and mesmerising performances by the newbie cast.",
+  "posterPath": "/mjhgTkb3WVqyasATS3SQNh99qtN.jpg",
+  "rating": 9.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-02-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-04",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-02-26"
+    },
+    "US": {
+      "digital": "2026-05-04"
+    }
+  },
+  "runtime": 62,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Making of Lord of the Flies",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 12,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1672938-making-of-lord-of-the-flies/watch?locale=US",
+      "rent": []
+    }
+  }
+}

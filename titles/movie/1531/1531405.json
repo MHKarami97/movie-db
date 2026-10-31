@@ -1,0 +1,285 @@
+{
+  "backdropPath": "/6cMXtzw9gJ9Xk2jhVpsotX90paw.jpg",
+  "cast": [
+    {
+      "character": "Venu",
+      "id": 3190090,
+      "name": "Unni Raja",
+      "profilePath": "/2LYy0cp2fOCRJB6zficuXB21Ubv.jpg"
+    },
+    {
+      "character": "Prakashan",
+      "id": 3383756,
+      "name": "Renji Kankol",
+      "profilePath": null
+    },
+    {
+      "character": "Mukundan",
+      "id": 5130632,
+      "name": "Rakesh Ushar",
+      "profilePath": "/kfOxnBUAgPUW2KU3FVLgRWKRdiG.jpg"
+    },
+    {
+      "character": "Murali",
+      "id": 4160017,
+      "name": "Dhanesh Koliyat",
+      "profilePath": null
+    },
+    {
+      "character": "Vinod",
+      "id": 3373735,
+      "name": "Vineeth Vasudevan",
+      "profilePath": "/mgCBBEs2DUDG0870JJQZdiB0kZR.jpg"
+    },
+    {
+      "character": "Nirmala",
+      "id": 3111577,
+      "name": "Vrindha Menon",
+      "profilePath": "/wwviIzrJA1sFzjEWsAktqvTXt7V.jpg"
+    },
+    {
+      "character": "Nidish",
+      "id": 5673916,
+      "name": "Ajith Punnad",
+      "profilePath": null
+    },
+    {
+      "character": "Madhavan",
+      "id": 5673917,
+      "name": "Unnikrishnan Parappa",
+      "profilePath": null
+    },
+    {
+      "character": "Mahesh",
+      "id": 5673918,
+      "name": "Aneesh Chemmarathi",
+      "profilePath": null
+    },
+    {
+      "character": "Geetha",
+      "id": 5673919,
+      "name": "Vijisha Nileshwaram",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 105950,
+      "logoPath": "/fttKfs2TgjOiKOGgWAg63cCo9Um.png",
+      "name": "E4 Experiments"
+    },
+    {
+      "id": 162532,
+      "logoPath": null,
+      "name": "Imagin Cinemas"
+    },
+    {
+      "id": 271465,
+      "logoPath": null,
+      "name": "Marley State of Mind"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38202962",
+    "wikidataId": "Q136462961"
+  },
+  "fetchedAt": 1793452486014,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1531405,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ml",
+      "name": "Malayalam"
+    }
+  ],
+  "originalTitle": "അവിഹിതം",
+  "overview": "A drunken man's encounter sets off a chain of gossip in a town of secrets. As whispers spread, a woman's hidden past threatens to tear everything apart.",
+  "posterPath": "/gPHdHjoUK2Hft5XpyYQ4s7XqxrE.jpg",
+  "rating": 5.8,
+  "regionGaps": {
+    "CA": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "DE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "IR": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AU": {
+      "premiere": "2026-08-19"
+    },
+    "IN": {
+      "digital": "2025-11-13",
+      "theatrical": "2025-10-10"
+    },
+    "US": {
+      "premiere": "2026-05-31"
+    }
+  },
+  "runtime": 104,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "അവിഹിതം",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 10,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 630,
+          "logoPath": "/vnpp3n6DAIh2sKXfMbehKZAWJMC.png",
+          "name": "STARZPLAY"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1531405/watch?locale=AE",
+      "rent": []
+    },
+    "DZ": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 630,
+          "logoPath": "/vnpp3n6DAIh2sKXfMbehKZAWJMC.png",
+          "name": "STARZPLAY"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1531405/watch?locale=DZ",
+      "rent": []
+    },
+    "EG": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 630,
+          "logoPath": "/vnpp3n6DAIh2sKXfMbehKZAWJMC.png",
+          "name": "STARZPLAY"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1531405/watch?locale=EG",
+      "rent": []
+    },
+    "IN": {
+      "ads": [
+        {
+          "id": 2336,
+          "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
+        }
+      ],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2336,
+          "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1531405/watch?locale=IN",
+      "rent": []
+    },
+    "MA": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 630,
+          "logoPath": "/vnpp3n6DAIh2sKXfMbehKZAWJMC.png",
+          "name": "STARZPLAY"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1531405/watch?locale=MA",
+      "rent": []
+    },
+    "SA": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 630,
+          "logoPath": "/vnpp3n6DAIh2sKXfMbehKZAWJMC.png",
+          "name": "STARZPLAY"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1531405/watch?locale=SA",
+      "rent": []
+    },
+    "TN": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 630,
+          "logoPath": "/vnpp3n6DAIh2sKXfMbehKZAWJMC.png",
+          "name": "STARZPLAY"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1531405/watch?locale=TN",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1531405/watch?locale=US",
+      "rent": []
+    }
+  }
+}

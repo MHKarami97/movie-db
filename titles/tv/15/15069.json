@@ -1,0 +1,567 @@
+{
+  "backdropPath": "/jZGxKCxDbepPaARnSu74Df9UE5Y.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 8273,
+      "logoPath": "/pXZ6qUs6bZUsS5zsRXrojW9aZ1f.png",
+      "name": "Eagle Rock Entertainment"
+    },
+    {
+      "id": 10492,
+      "logoPath": "/3fcHNVpW66wgG6o0cgFJlcP8cCg.png",
+      "name": "THIRTEEN"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "1986-06-23",
+  "episodes": {
+    "40": [
+      {
+        "airDate": "2026-01-27",
+        "episodeNumber": 1,
+        "name": "Elie Wiesel: Soul on Fire",
+        "overview": "Learn about Elie Wiesel, Holocaust survivor and Nobel Peace Prize-winning author of Night. After his internment at the Auschwitz Concentration Camp and liberation from Buchenwald, Wiesel became a journalist in France before immigrating to America. Over the course of his life, Wiesel fought the “sin of indifference” by writing, teaching, speaking truth to power and championing for human rights.",
+        "stillPath": null,
+        "voteAverage": 1
+      },
+      {
+        "airDate": "2026-02-14",
+        "episodeNumber": 2,
+        "name": "Sun Ra: Do the Impossible",
+        "overview": "Discover the extraordinary life of poet, philosopher and music visionary Sun Ra. With his ever-evolving collective, the Sun Ra Arkestra, he self-produced more than 200 albums, stretching the boundaries of jazz.",
+        "stillPath": null,
+        "voteAverage": 1
+      },
+      {
+        "airDate": "2026-03-17",
+        "episodeNumber": 3,
+        "name": "Bella! This Woman's Place Is in the House",
+        "overview": "Follow the meteoric rise of firebrand politician and activist Bella Abzug. Considered one of the first feminists to be elected to Congress, her commitment to women’s rights and progressive causes upended the status quo in Washington. This version of the film contains extended audio description.",
+        "stillPath": null,
+        "voteAverage": 1
+      },
+      {
+        "airDate": "2026-05-19",
+        "episodeNumber": 4,
+        "name": "W.E.B. Du Bois",
+        "overview": "Explore the life and legacy of notable Black scholar and civil rights pioneer W.E.B. Du Bois. From his birth, just five years after the Emancipation Proclamation; to his death, on the eve of the March on Washington in 1963, his legacy as an activist continues to resonate today.",
+        "stillPath": null,
+        "voteAverage": 1
+      },
+      {
+        "airDate": "2026-08-25",
+        "episodeNumber": 5,
+        "name": "Mary Oliver: Saved by the Beauty of the World",
+        "overview": "Celebrate the life and career of Pulitzer Prize-winning writer Mary Oliver. Shaped by a solitary childhood and rising literary fame, Oliver published more than 30 collections of poetry and essays on nature, beauty, and love.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-06",
+        "episodeNumber": 6,
+        "name": "American Pachuco: The Legend of Luis Valdez",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-24",
+        "episodeNumber": 7,
+        "name": "Liz Diller",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ],
+    "41": [
+      {
+        "airDate": "2026-12-29",
+        "episodeNumber": 1,
+        "name": "Gene Wilder",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt0364151",
+    "wikidataId": "Q2842976"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 15069,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-06",
+    "episodeNumber": 6,
+    "id": 7815016,
+    "name": "American Pachuco: The Legend of Luis Valdez",
+    "overview": "",
+    "seasonNumber": 40
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-24",
+    "episodeNumber": 7,
+    "id": 7818304,
+    "name": "Liz Diller",
+    "overview": "",
+    "seasonNumber": 40
+  },
+  "originalTitle": "American Masters",
+  "overview": "American Masters is a PBS television series which produces biographies on enduring writers, musicians, visual and performing artists, dramatists, filmmakers, and others who have left an indelible impression on the cultural landscape of the United States.",
+  "posterPath": "/orhckEZ9DR4uqsMwHDwKFtQ2jNw.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1986-06-23",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1986-06-23",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1986-06-23",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1986-06-23",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1986-06-23"
+    },
+    "CN": {
+      "tv": "1986-06-23"
+    },
+    "GB": {
+      "tv": "1986-06-23"
+    },
+    "US": {
+      "tv": "1986-06-23"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "1985-10-07",
+      "episodeCount": 1,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1986-06-23",
+      "episodeCount": 12,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1987-07-06",
+      "episodeCount": 10,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1988-07-11",
+      "episodeCount": 8,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1989-07-03",
+      "episodeCount": 10,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1990-07-02",
+      "episodeCount": 8,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1991-07-01",
+      "episodeCount": 9,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1993-03-14",
+      "episodeCount": 3,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1993-12-08",
+      "episodeCount": 2,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1994-11-30",
+      "episodeCount": 4,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1995-11-29",
+      "episodeCount": 5,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "1996-11-25",
+      "episodeCount": 5,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "1997-09-17",
+      "episodeCount": 6,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "1998-10-28",
+      "episodeCount": 7,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "1999-11-01",
+      "episodeCount": 7,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2000-09-27",
+      "episodeCount": 8,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2001-10-07",
+      "episodeCount": 8,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2002-10-02",
+      "episodeCount": 8,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2003-09-03",
+      "episodeCount": 8,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": "/l4LP0g8otVQifgV0URuNr4yDK5X.jpg",
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2005-05-11",
+      "episodeCount": 8,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": "/AlBf9adtf0Ri9o07mBMp5t7KISp.jpg",
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2006-05-10",
+      "episodeCount": 9,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2007-04-04",
+      "episodeCount": 9,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2008-02-27",
+      "episodeCount": 9,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2009-02-18",
+      "episodeCount": 8,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2010-01-11",
+      "episodeCount": 8,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2011-01-12",
+      "episodeCount": 9,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "2012-01-23",
+      "episodeCount": 8,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "2013-02-22",
+      "episodeCount": 5,
+      "name": "Season 27",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "2013-12-27",
+      "episodeCount": 10,
+      "name": "Season 28",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "2015-01-23",
+      "episodeCount": 8,
+      "name": "Season 29",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "2016-01-29",
+      "episodeCount": 9,
+      "name": "Season 30",
+      "overview": "",
+      "posterPath": "/ap2Ijo8rBeblvU4lDVVZMxEJ8TM.jpg",
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "2017-01-03",
+      "episodeCount": 10,
+      "name": "Season 31",
+      "overview": "",
+      "posterPath": "/d1HIIQK6ewr2FCdIlCXmhh8bZxB.jpg",
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "2018-01-19",
+      "episodeCount": 8,
+      "name": "Season 32",
+      "overview": "",
+      "posterPath": "/ap2Ijo8rBeblvU4lDVVZMxEJ8TM.jpg",
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "2019-01-02",
+      "episodeCount": 12,
+      "name": "Season 33",
+      "overview": "",
+      "posterPath": "/ap2Ijo8rBeblvU4lDVVZMxEJ8TM.jpg",
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "2020-03-03",
+      "episodeCount": 8,
+      "name": "Season 34",
+      "overview": "",
+      "posterPath": "/rHGYB4YXIxlHr4Hq0h9GK4p6Roj.jpg",
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "2021-01-18",
+      "episodeCount": 10,
+      "name": "Season 35",
+      "overview": "",
+      "posterPath": "/rHGYB4YXIxlHr4Hq0h9GK4p6Roj.jpg",
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "2022-01-11",
+      "episodeCount": 8,
+      "name": "Season 36",
+      "overview": "",
+      "posterPath": "/rHGYB4YXIxlHr4Hq0h9GK4p6Roj.jpg",
+      "seasonNumber": 36
+    },
+    {
+      "airDate": "2023-01-24",
+      "episodeCount": 9,
+      "name": "Season 37",
+      "overview": "",
+      "posterPath": "/rHGYB4YXIxlHr4Hq0h9GK4p6Roj.jpg",
+      "seasonNumber": 37
+    },
+    {
+      "airDate": "2024-01-02",
+      "episodeCount": 7,
+      "name": "Season 38",
+      "overview": "",
+      "posterPath": "/rHGYB4YXIxlHr4Hq0h9GK4p6Roj.jpg",
+      "seasonNumber": 38
+    },
+    {
+      "airDate": "2025-02-21",
+      "episodeCount": 8,
+      "name": "Season 39",
+      "overview": "",
+      "posterPath": "/o0kCtJkRiLRv5QvKwgJmlooGsZP.jpg",
+      "seasonNumber": 39
+    },
+    {
+      "airDate": "2026-01-27",
+      "episodeCount": 7,
+      "name": "Season 40",
+      "overview": "",
+      "posterPath": "/ml8Um2OeW17vB7NbeYKqx0bn8Cx.jpg",
+      "seasonNumber": 40
+    },
+    {
+      "airDate": "2026-12-29",
+      "episodeCount": 1,
+      "name": "Season 41",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 41
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "American Masters",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "S41ihy68K3w",
+      "name": "Official Trailer | Flannery | American Masters | PBS",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 25,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 2621,
+          "logoPath": "/gq031DkuykfuuHVoLPx9BFNyfPU.png",
+          "name": "KQED"
+        }
+      ],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 209,
+          "logoPath": "/kwKCUFjKjq1GlZeIjImBV62IypB.png",
+          "name": "PBS"
+        },
+        {
+          "id": 2622,
+          "logoPath": "/dQKjAyrGlA3HPbDs4hp8RyaXUiK.png",
+          "name": "Thirteen"
+        },
+        {
+          "id": 2657,
+          "logoPath": "/fwzxYZXp5T57T2WaazFhzArAmYd.png",
+          "name": "WETA+"
+        }
+      ],
+      "free": [
+        {
+          "id": 209,
+          "logoPath": "/kwKCUFjKjq1GlZeIjImBV62IypB.png",
+          "name": "PBS"
+        },
+        {
+          "id": 2657,
+          "logoPath": "/fwzxYZXp5T57T2WaazFhzArAmYd.png",
+          "name": "WETA+"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/15069-american-masters/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "backdropPath": "/q1o1JehssonxPGRSpHCjmfAFMv3.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 1697747,
+      "name": "Nah Yung-suk",
+      "profilePath": "/gjEHjHqRiYW8VN5EGRGDk6dlN8q.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 128404,
+      "logoPath": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
+      "name": "CJ ENM"
+    },
+    {
+      "id": 129223,
+      "logoPath": "/j5z3VHCFQ8Q98SWtIBJBsOMFmtt.png",
+      "name": "Egg is Coming"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": "2021-03-12",
+  "episodes": {
+    "3": [],
+    "4": [
+      {
+        "airDate": null,
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": "/mZnnGIIP94bWQgIoRCUD01aeRgl.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": null,
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": null,
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": null,
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt14551740",
+    "wikidataId": "Q115783618"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 123473,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-11-20",
+    "episodeNumber": 88,
+    "id": 6703884,
+    "name": "The Game Caterers X STARSHIP Sports Festival EP. 3-4",
+    "overview": "",
+    "seasonNumber": 2
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "출장 십오야",
+  "overview": "A webseries where Na Young Seok, a variety show producer, caters people his iconic games from 'New Journey to the West'.",
+  "posterPath": "/j7qTXKpWlz9DheaU0Mygj7Gccbs.jpg",
+  "rating": 8.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2021-03-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2021-03-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2021-03-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2021-03-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2021-03-12"
+    },
+    "CN": {
+      "tv": "2021-03-12"
+    },
+    "GB": {
+      "tv": "2021-03-12"
+    },
+    "US": {
+      "tv": "2021-03-12"
+    }
+  },
+  "runtime": 15,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2021-03-12",
+      "episodeCount": 31,
+      "name": "Season 1",
+      "overview": "Whenever you call, we'll be there!\n\nWorld's first-ever game delivery: The Game Caterers.",
+      "posterPath": "/j7qTXKpWlz9DheaU0Mygj7Gccbs.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2021-12-26",
+      "episodeCount": 88,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/wkF2M0ApsqscicSzsMZglxNBL2S.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": null,
+      "episodeCount": 4,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Game Caterers",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 10,
+  "watchProviders": {}
+}

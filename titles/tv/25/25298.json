@@ -1,0 +1,669 @@
+{
+  "backdropPath": "/11QwqK3hUCWkLJclPUPzd6tgtxL.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 197485,
+      "logoPath": "/nSwKZSMOlq3yyBehBSIN1Cijt0T.png",
+      "name": "The Recording Academy"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "1959-11-29",
+  "episodes": {
+    "64": [
+      {
+        "airDate": "2026-02-01",
+        "episodeNumber": 1,
+        "name": "68th Grammy Awards Premiere Ceremony",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-02-01",
+        "episodeNumber": 2,
+        "name": "The 68th Annual Grammy Awards",
+        "overview": "The 68th Annual Grammy Awards honored the best recordings, compositions, and artists of 2025, as chosen by the members of the Recording Academy.",
+        "stillPath": "/pJw6iyTA9pDXs3m9juUe8s9Sku6.jpg",
+        "voteAverage": 7
+      }
+    ],
+    "65": [
+      {
+        "airDate": "2027-02-07",
+        "episodeNumber": 1,
+        "name": "The 69th Annual Grammy Awards",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "GRAMMYawards",
+    "wikidataId": "Q41254"
+  },
+  "fetchedAt": 1794071861044,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 25298,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-02-01",
+    "episodeNumber": 2,
+    "id": 6437413,
+    "name": "The 68th Annual Grammy Awards",
+    "overview": "The 68th Annual Grammy Awards honored the best recordings, compositions, and artists of 2025, as chosen by the members of the Recording Academy.",
+    "seasonNumber": 64
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-02-07",
+    "episodeNumber": 1,
+    "id": 8092564,
+    "name": "The 69th Annual Grammy Awards",
+    "overview": "",
+    "seasonNumber": 65
+  },
+  "originalTitle": "The Grammys",
+  "overview": "An awards show honoring the achievements of the members of the professional music recording industry. The members of the Recording Academy vote on who they think is most deserving of an award in 108 categories as specified by the academy.",
+  "posterPath": "/2itSpL4aBPoJXQ4QVtBFxQyz0j0.jpg",
+  "rating": 8.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1959-11-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1959-11-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1959-11-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1959-11-29",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1959-11-29"
+    },
+    "CN": {
+      "tv": "1959-11-29"
+    },
+    "GB": {
+      "tv": "1959-11-29"
+    },
+    "US": {
+      "tv": "1959-11-29"
+    }
+  },
+  "runtime": 180,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2014-02-09",
+      "episodeCount": 6,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1959-11-29",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1963-05-15",
+      "episodeCount": 1,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1965-04-13",
+      "episodeCount": 1,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1966-03-15",
+      "episodeCount": 1,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1967-03-02",
+      "episodeCount": 1,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1968-02-29",
+      "episodeCount": 1,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1969-03-12",
+      "episodeCount": 1,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1970-03-11",
+      "episodeCount": 1,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1971-03-16",
+      "episodeCount": 1,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1972-03-14",
+      "episodeCount": 1,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "1973-03-03",
+      "episodeCount": 1,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "1974-03-02",
+      "episodeCount": 1,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "1975-03-01",
+      "episodeCount": 1,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "1976-02-28",
+      "episodeCount": 1,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "1977-02-19",
+      "episodeCount": 1,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "1978-02-23",
+      "episodeCount": 1,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "1979-02-15",
+      "episodeCount": 1,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "1980-02-27",
+      "episodeCount": 1,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "1981-02-25",
+      "episodeCount": 1,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "1982-02-24",
+      "episodeCount": 1,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "1983-02-23",
+      "episodeCount": 1,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "1984-02-28",
+      "episodeCount": 1,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "1985-02-26",
+      "episodeCount": 1,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "1986-02-25",
+      "episodeCount": 1,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "1987-02-24",
+      "episodeCount": 1,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "1988-03-02",
+      "episodeCount": 1,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": "/c7tGnhPhod86vJJ3Alr3WRGf3xP.jpg",
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "1989-02-22",
+      "episodeCount": 1,
+      "name": "Season 27",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "1990-02-22",
+      "episodeCount": 1,
+      "name": "Season 28",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "1991-02-20",
+      "episodeCount": 1,
+      "name": "Season 29",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "1992-02-25",
+      "episodeCount": 1,
+      "name": "Season 30",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "1993-02-24",
+      "episodeCount": 1,
+      "name": "Season 31",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "1994-03-01",
+      "episodeCount": 1,
+      "name": "Season 32",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "1995-03-01",
+      "episodeCount": 1,
+      "name": "Season 33",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "1996-02-28",
+      "episodeCount": 1,
+      "name": "Season 34",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "1997-02-26",
+      "episodeCount": 1,
+      "name": "Season 35",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "1998-02-25",
+      "episodeCount": 1,
+      "name": "Season 36",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 36
+    },
+    {
+      "airDate": "1999-02-24",
+      "episodeCount": 1,
+      "name": "Season 37",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 37
+    },
+    {
+      "airDate": "2000-02-23",
+      "episodeCount": 1,
+      "name": "Season 38",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 38
+    },
+    {
+      "airDate": "2001-02-21",
+      "episodeCount": 1,
+      "name": "Season 39",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 39
+    },
+    {
+      "airDate": "2002-02-27",
+      "episodeCount": 1,
+      "name": "Season 40",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 40
+    },
+    {
+      "airDate": "2003-02-23",
+      "episodeCount": 1,
+      "name": "Season 41",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 41
+    },
+    {
+      "airDate": "2004-02-08",
+      "episodeCount": 1,
+      "name": "Season 42",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 42
+    },
+    {
+      "airDate": "2005-02-13",
+      "episodeCount": 1,
+      "name": "Season 43",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 43
+    },
+    {
+      "airDate": "2006-02-08",
+      "episodeCount": 1,
+      "name": "Season 44",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 44
+    },
+    {
+      "airDate": "2007-02-11",
+      "episodeCount": 1,
+      "name": "Season 45",
+      "overview": "",
+      "posterPath": "/iT06OmaUdaoJPtlHB9OH70IPKaL.jpg",
+      "seasonNumber": 45
+    },
+    {
+      "airDate": "2008-02-10",
+      "episodeCount": 1,
+      "name": "Season 46",
+      "overview": "",
+      "posterPath": "/sQzogfOVdklFvHKO6DEV4yit5DP.jpg",
+      "seasonNumber": 46
+    },
+    {
+      "airDate": "2009-02-08",
+      "episodeCount": 1,
+      "name": "Season 47",
+      "overview": "",
+      "posterPath": "/xVSwn4pVkEWtSBl3yIKiFDKOqMC.jpg",
+      "seasonNumber": 47
+    },
+    {
+      "airDate": "2010-01-31",
+      "episodeCount": 1,
+      "name": "Season 48",
+      "overview": "",
+      "posterPath": "/3SszwnuXUEMpP3SG3SbBhNIqyJL.jpg",
+      "seasonNumber": 48
+    },
+    {
+      "airDate": "2011-02-13",
+      "episodeCount": 1,
+      "name": "Season 49",
+      "overview": "",
+      "posterPath": "/4n6T0iPpUrUyAGXhIgNKDgE9PpM.jpg",
+      "seasonNumber": 49
+    },
+    {
+      "airDate": "2012-02-12",
+      "episodeCount": 1,
+      "name": "Season 50",
+      "overview": "",
+      "posterPath": "/8c9iaoDwPHqKcmY3dYidDHbdyuN.jpg",
+      "seasonNumber": 50
+    },
+    {
+      "airDate": "2013-02-10",
+      "episodeCount": 1,
+      "name": "Season 51",
+      "overview": "",
+      "posterPath": "/1kVpeQ9ysZFR63rW4OlejHrPz1A.jpg",
+      "seasonNumber": 51
+    },
+    {
+      "airDate": "2014-01-26",
+      "episodeCount": 1,
+      "name": "Season 52",
+      "overview": "",
+      "posterPath": "/5RiMEdNVRJKf9ylgsqnB6cIr5jI.jpg",
+      "seasonNumber": 52
+    },
+    {
+      "airDate": "2015-02-08",
+      "episodeCount": 1,
+      "name": "Season 53",
+      "overview": "",
+      "posterPath": "/dPN85ZHp5Z89LZPPCoQH5I70BXy.jpg",
+      "seasonNumber": 53
+    },
+    {
+      "airDate": "2016-02-15",
+      "episodeCount": 1,
+      "name": "Season 54",
+      "overview": "",
+      "posterPath": "/aQssbdiW45lQdEnjzeoiAyVJW5R.jpg",
+      "seasonNumber": 54
+    },
+    {
+      "airDate": "2017-02-12",
+      "episodeCount": 1,
+      "name": "Season 55",
+      "overview": "",
+      "posterPath": "/1jEaHuzFgKASytMp5MiVboiD1tB.jpg",
+      "seasonNumber": 55
+    },
+    {
+      "airDate": "2018-01-28",
+      "episodeCount": 1,
+      "name": "Season 56",
+      "overview": "",
+      "posterPath": "/7BHFbNi2zb7vvXrEA1dzjDYmuDq.jpg",
+      "seasonNumber": 56
+    },
+    {
+      "airDate": "2019-02-10",
+      "episodeCount": 1,
+      "name": "Season 57",
+      "overview": "",
+      "posterPath": "/oSsq3XwhoHM3LbHVJdsEZAhDaoI.jpg",
+      "seasonNumber": 57
+    },
+    {
+      "airDate": "2020-01-26",
+      "episodeCount": 1,
+      "name": "Season 58",
+      "overview": "",
+      "posterPath": "/pF8Xbe7K4LyA0Q4crxKkNk2fq2d.jpg",
+      "seasonNumber": 58
+    },
+    {
+      "airDate": "2021-03-14",
+      "episodeCount": 1,
+      "name": "Season 59",
+      "overview": "",
+      "posterPath": "/2itSpL4aBPoJXQ4QVtBFxQyz0j0.jpg",
+      "seasonNumber": 59
+    },
+    {
+      "airDate": "2022-04-03",
+      "episodeCount": 1,
+      "name": "Season 60",
+      "overview": "",
+      "posterPath": "/yMJ0qMLRgsOiOY9SVHdxcGPP4DA.jpg",
+      "seasonNumber": 60
+    },
+    {
+      "airDate": "2023-02-05",
+      "episodeCount": 1,
+      "name": "Season 61",
+      "overview": "",
+      "posterPath": "/8MbQcq7FRBZltJs9qoGdLZliEq4.jpg",
+      "seasonNumber": 61
+    },
+    {
+      "airDate": "2024-02-03",
+      "episodeCount": 1,
+      "name": "Season 62",
+      "overview": "",
+      "posterPath": "/rlXQ4sCpWJgkauKct6TNc8xkeQW.jpg",
+      "seasonNumber": 62
+    },
+    {
+      "airDate": "2025-02-02",
+      "episodeCount": 1,
+      "name": "Season 63",
+      "overview": "",
+      "posterPath": "/xsSd0O8tD35cPwWpTwUIPDKoPuX.jpg",
+      "seasonNumber": 63
+    },
+    {
+      "airDate": "2026-02-01",
+      "episodeCount": 2,
+      "name": "Season 64",
+      "overview": "",
+      "posterPath": "/axDeCqxlVwqZXCrhWxicNtus9nF.jpg",
+      "seasonNumber": 64
+    },
+    {
+      "airDate": "2027-02-07",
+      "episodeCount": 1,
+      "name": "Season 65",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 65
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Grammys",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 47,
+  "watchProviders": {}
+}

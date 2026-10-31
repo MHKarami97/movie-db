@@ -1,0 +1,108 @@
+{
+  "backdropPath": "/vet2X6O42OmeE2Ie9TPxegBPoZE.jpg",
+  "cast": [
+    {
+      "character": "Self - actor",
+      "id": 1205,
+      "name": "Richard Gere",
+      "profilePath": "/i7wcBNmFldh2E4QInCvmv7CPSIR.jpg"
+    },
+    {
+      "character": "Self - producer",
+      "id": 16398,
+      "name": "Sarah Green",
+      "profilePath": "/uvGWdMkGLrnPRrCJaTpAIU75lWj.jpg"
+    },
+    {
+      "character": "Self - media scholar",
+      "id": 6108699,
+      "name": "Gudrun Schwenk",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 587,
+      "logoPath": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE"
+    },
+    {
+      "id": 4606,
+      "logoPath": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF"
+    },
+    {
+      "id": 28914,
+      "logoPath": "/dv4794b0QGRNHob31rMuMnmQRyt.png",
+      "name": "Studio.TV.Film"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt41256131"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1660717,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Terrence Malick - Suche nach dem Unsichtbaren",
+  "overview": "Traces Malick's artistic journey – from his philosophical studies at Harvard through his early masterpieces \"Badlands\" and \"Days of Heaven\" to his later films \"The Thin Red Line\" and \"A Hidden Life.\" Hollywood stars like Brad Pitt and actresses like Valerie Pachner and Maria Simon talk about working with a director who gave them the greatest possible freedom.",
+  "posterPath": "/Aw9oU2WBDIhAVUDl0bkXqQGpBZx.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 57,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Terrence Malick - Filming the Invisible",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {}
+}

@@ -1,0 +1,335 @@
+{
+  "backdropPath": "/kowuqNLsxuNR1yjOq45BoKGK6g4.jpg",
+  "cast": [
+    {
+      "character": "Judge",
+      "id": 3398970,
+      "name": "Kathleen Soriano",
+      "profilePath": "/uTvmOplTUgnWI3AIu1GsEfMVMxF.jpg"
+    },
+    {
+      "character": "Judge",
+      "id": 2477643,
+      "name": "Tai Shan Schierenberg",
+      "profilePath": "/v08vaaXdL7A93mFVXPUuDPDNVWs.jpg"
+    },
+    {
+      "character": "Judge",
+      "id": 2088418,
+      "name": "Kate Bryan",
+      "profilePath": "/aq2IY16TvfmFaRm0M0SCQpfiNUA.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 110402,
+      "logoPath": null,
+      "name": "Storyvault Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "SG",
+      "name": "Singapore"
+    }
+  ],
+  "digitalDate": "2013-11-05",
+  "episodes": {
+    "13": [
+      {
+        "airDate": "2026-10-07",
+        "episodeNumber": 1,
+        "name": "Lennie James, Sheridan Smith, Vanessa Williams",
+        "overview": "Stephen Mangan presents as nine artists have four hours to paint Vanessa Williams, Sheridan Smith or Lennie James.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-14",
+        "episodeNumber": 2,
+        "name": "Louis Theroux, Anthony Scaramucci, Joanna Scanlan",
+        "overview": "Nine artists paint documentarian Louis Theroux, actress Joanna Scanlan or political commentator Anthony Scaramucci. Who progresses?",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-21",
+        "episodeNumber": 3,
+        "name": "Matt Weston, Dexter Fletcher, Nikita Gill",
+        "overview": "Nine artists paint actor-director Dexter Fletcher, Olympic champion Matt Weston or poet Nikita Gill. Who will reach the semi-final?",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-28",
+        "episodeNumber": 4,
+        "name": "Danny Beard, Yalda Hakim, Arti Shah",
+        "overview": "Nine artists paint drag performer Danny Beard, actress Arti Shah or broadcaster Yalda Hakim. Who will earn a semi-final place?",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt4445396",
+    "wikidataId": "Q30646729"
+  },
+  "fetchedAt": 1793819640448,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 78889,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-28",
+    "episodeNumber": 4,
+    "id": 8035933,
+    "name": "Danny Beard, Yalda Hakim, Arti Shah",
+    "overview": "Nine artists paint drag performer Danny Beard, actress Arti Shah or broadcaster Yalda Hakim. Who will earn a semi-final place?",
+    "seasonNumber": 13
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Portrait Artist of the Year",
+  "overview": "Artists from the UK and Ireland compete by creating portraits of famous people.",
+  "posterPath": "/kMWYPx6z9ylRbTIavUWao4DU8Ua.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2013-11-05",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2013-11-05",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2013-11-05",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2013-11-05",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2013-11-05"
+    },
+    "CN": {
+      "tv": "2013-11-05"
+    },
+    "GB": {
+      "tv": "2013-11-05"
+    },
+    "US": {
+      "tv": "2013-11-05"
+    }
+  },
+  "runtime": 60,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2023-06-14",
+      "episodeCount": 2,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2013-11-05",
+      "episodeCount": 7,
+      "name": "2013",
+      "overview": "",
+      "posterPath": "/rDfzL229D6SzhZHycBtpB0uENvg.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2014-09-04",
+      "episodeCount": 9,
+      "name": "2014",
+      "overview": "",
+      "posterPath": "/sudHQW68iP6lhszkmhiP7QIHjUX.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2017-01-24",
+      "episodeCount": 9,
+      "name": "2017",
+      "overview": "",
+      "posterPath": "/jqXvAGwKfnX1RWgvNA4artFzCCS.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2018-01-16",
+      "episodeCount": 11,
+      "name": "2018",
+      "overview": "",
+      "posterPath": "/1G69wwN3rVCiBwJpRCVJDPSPWDJ.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2019-02-12",
+      "episodeCount": 11,
+      "name": "2019",
+      "overview": "",
+      "posterPath": "/3fNsX1RA4O7bQLQPdiOZkcdO6SL.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2020-01-21",
+      "episodeCount": 11,
+      "name": "2020",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2020-10-14",
+      "episodeCount": 11,
+      "name": "2020",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2021-10-13",
+      "episodeCount": 11,
+      "name": "2021",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2022-10-05",
+      "episodeCount": 12,
+      "name": "2022",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2023-10-11",
+      "episodeCount": 11,
+      "name": "2023",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2024-10-14",
+      "episodeCount": 12,
+      "name": "2024",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2025-10-01",
+      "episodeCount": 12,
+      "name": "2025",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2026-10-07",
+      "episodeCount": 4,
+      "name": "2026",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Portrait Artist of the Year",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 3,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/78889-portrait-artist-of-the-year/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 613,
+          "logoPath": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png",
+          "name": "Amazon Prime Video Free with Ads"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        },
+        {
+          "id": 1898,
+          "logoPath": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png",
+          "name": "Amazon MX Player"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/78889-portrait-artist-of-the-year/watch?locale=US",
+      "rent": []
+    }
+  }
+}

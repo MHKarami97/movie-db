@@ -1,0 +1,321 @@
+{
+  "backdropPath": "/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
+  "cast": [
+    {
+      "character": "Brandon Beckett",
+      "id": 228371,
+      "name": "Chad Michael Collins",
+      "profilePath": "/9lcEpAYRBCylYIVMZYXHqfmRzfP.jpg"
+    },
+    {
+      "character": "Zero",
+      "id": 77164,
+      "name": "Ryan Robbins",
+      "profilePath": "/kZrq5a760JU1kHuxQ7Q8YCgsOr6.jpg"
+    },
+    {
+      "character": "Nova",
+      "id": 1994213,
+      "name": "Manuel Rodriguez-Saenz",
+      "profilePath": "/7X46IGRRkxEpLnC0r7LDavStSQ2.jpg"
+    },
+    {
+      "character": "Intel Pete",
+      "id": 1180979,
+      "name": "Josh Brener",
+      "profilePath": "/sIyQYq2imu1V2RxRQ1zp70RSqTi.jpg"
+    },
+    {
+      "character": "Thomas Beckett",
+      "id": 13022,
+      "name": "Tom Berenger",
+      "profilePath": "/zLxzAdAfu7y02yEx29JSLDgXJZ4.jpg"
+    },
+    {
+      "character": "Zondi",
+      "id": 2387550,
+      "name": "Sizo Mahlangu",
+      "profilePath": "/otkOcNIjfw39XrwLnwnwlVfl7Tb.jpg"
+    },
+    {
+      "character": "Angel",
+      "id": 2387551,
+      "name": "Masasa Mbangeni",
+      "profilePath": "/fkaFtmR5ElQ9cVnVqnrCI4JXKv3.jpg"
+    },
+    {
+      "character": "Frost",
+      "id": 2721701,
+      "name": "Jason K. Ralph",
+      "profilePath": "/km9yZ3430hNwDFGYG4K8YDGwJjy.jpg"
+    },
+    {
+      "character": "Skylar",
+      "id": 3791829,
+      "name": "Danica De La Rey",
+      "profilePath": "/fTtueFonjxAmx7GgegKpLcpnNTW.jpg"
+    },
+    {
+      "character": "Lorenzo",
+      "id": 1491629,
+      "name": "Clayton Evertson",
+      "profilePath": "/2kp5998NZrsL1FxuZgy2IEYPe4V.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 769,
+      "logoPath": "/j8zjbr6CzgiOj4kdtkTkwjdn0b3.png",
+      "name": "Destination Films"
+    },
+    {
+      "id": 82659,
+      "logoPath": "/3mZkZUZUaqXDcIoYnECLb98PSWC.png",
+      "name": "Blue Ice Pictures"
+    },
+    {
+      "id": 156309,
+      "logoPath": null,
+      "name": "Blue Ice Africa"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "digitalDate": "2026-04-07",
+  "externalIds": {
+    "imdbId": "tt39538786",
+    "wikidataId": "Q139250667"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1641319,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Sniper: No Nation",
+  "overview": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
+  "posterPath": "/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-04-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-07",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-04-07"
+    },
+    "US": {
+      "digital": "2026-04-07",
+      "physical": "2026-04-07"
+    }
+  },
+  "runtime": 96,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "No flag, no backup, and no mercy.",
+  "theatricalDate": null,
+  "title": "Sniper: No Nation",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "cvTvF78HsT0",
+      "name": "First 10 Minutes Extended Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "-smVu1cxPm8",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 105,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1750,
+          "logoPath": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+          "name": "TOD"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1641319-sniper-no-nation/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1641319-sniper-no-nation/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1641319-sniper-no-nation/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

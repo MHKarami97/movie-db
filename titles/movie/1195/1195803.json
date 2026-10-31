@@ -1,0 +1,533 @@
+{
+  "backdropPath": "/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+  "cast": [
+    {
+      "character": "Fisherwoman",
+      "id": 39187,
+      "name": "Olivia Colman",
+      "profilePath": "/lawJUdbLb1YW0niaYjiVGR9IBG8.jpg"
+    },
+    {
+      "character": "Wicker Husband",
+      "id": 28846,
+      "name": "Alexander Skarsgård",
+      "profilePath": "/6VNNddrSrIVgdzhXr4Zg89gmOzY.jpg"
+    },
+    {
+      "character": "Basket Weaver",
+      "id": 22970,
+      "name": "Peter Dinklage",
+      "profilePath": "/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+    },
+    {
+      "character": "Tailor’s Wife",
+      "id": 1133349,
+      "name": "Elizabeth Debicki",
+      "profilePath": "/nTTnQVTn13Ve4ifjRY9v8kVc99w.jpg"
+    },
+    {
+      "character": "Tailor's Wife's Sister",
+      "id": 2057222,
+      "name": "Marli Siu",
+      "profilePath": "/pNi3TfnnJuDz25m93Nr2AKIYV4R.jpg"
+    },
+    {
+      "character": "Tailor",
+      "id": 2152343,
+      "name": "Nabhaan Rizwan",
+      "profilePath": "/ljDpNmRnx9Mxe6DZbOMVZlGVXAN.jpg"
+    },
+    {
+      "character": "Doctor",
+      "id": 20766,
+      "name": "Richard E. Grant",
+      "profilePath": "/92oaBntIXhndCxUXaGywUyILIIE.jpg"
+    },
+    {
+      "character": "Innkeeper",
+      "id": 1786304,
+      "name": "Kiell Smith-Bynoe",
+      "profilePath": "/6pVa2SEgMfR2u7E3xfIUGZSqinh.jpg"
+    },
+    {
+      "character": "Bottle Washer",
+      "id": 1428295,
+      "name": "Gustav Lindh",
+      "profilePath": "/qbCsiIl0C0E1vYvLXqK2T98bvyO.jpg"
+    },
+    {
+      "character": "Bakerwoman",
+      "id": 3250136,
+      "name": "Ella Bruccoleri",
+      "profilePath": "/xVqbUOELKqxhEdqAz5IXhFYp7Uy.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 99366,
+      "logoPath": "/r5UIazzNzEOUSEbxOfwWzEOBe5F.png",
+      "name": "Topic Studios"
+    },
+    {
+      "id": 168181,
+      "logoPath": "/adHpT0fRW86W80jPtJRo96pqJE4.png",
+      "name": "Tango Entertainment"
+    },
+    {
+      "id": 167259,
+      "logoPath": "/bSwCootf79JLvjEKH9BC4pTOSUW.png",
+      "name": "South of the River Pictures"
+    },
+    {
+      "id": 34455,
+      "logoPath": "/wTz9ZMSoxFBDnqrRZRwBLWpsQQO.png",
+      "name": "Votiv Films"
+    },
+    {
+      "id": 124854,
+      "logoPath": null,
+      "name": "Yoki"
+    },
+    {
+      "id": 129195,
+      "logoPath": null,
+      "name": "Escape Plan"
+    },
+    {
+      "id": 173376,
+      "logoPath": null,
+      "name": "Lobo Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-12-01",
+  "externalIds": {
+    "imdbId": "tt29611136",
+    "instagramId": "wickermovie",
+    "twitterId": "wickermovie",
+    "wikidataId": "Q136428321"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 39,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1195803,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Wicker",
+  "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+  "posterPath": "/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+  "rating": 7.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-30"
+    },
+    "US": {
+      "digitalDate": "2026-12-01",
+      "gapDays": 39,
+      "theatricalDate": "2026-10-23"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-10-08",
+      "theatrical": "2026-10-30"
+    },
+    "US": {
+      "digital": "2026-12-01",
+      "premiere": "2026-01-24",
+      "theatrical": "2026-10-23"
+    }
+  },
+  "runtime": 105,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Marriage material.",
+  "theatricalDate": "2026-10-23",
+  "title": "Wicker",
+  "translations": {
+    "faTitle": "ویکر"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "WxNJiQGmJS4",
+      "name": "Olivia Colman | WICKER @ London Film Festival",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "G84tXvGS3Rk",
+      "name": "Alexander Skarsgård | WICKER @ London Film Festival",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "0hg0wJiLc9g",
+      "name": "What would you want the basket maker to weave for you?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "tUfC-AoKuk0",
+      "name": "Alex Huston Fischer & Eleanor Wilson | WICKER @ London Film Festival",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "XbGHVzY2Rlg",
+      "name": "Gustav Lindh | WICKER @ London Film Festival",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "kXoKU1IDV18",
+      "name": "Elizabeth Debicki | WICKER @ London Film Festival",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "0wPfKRtZ7h0",
+      "name": "Marli Siu | WICKER @ London Film Festival",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "uCtjeAVEaxw",
+      "name": "\"Pardon my arse?” Hear what audiences have to say about WICKER.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Q0040HMQEME",
+      "name": "Star-studded. Crafted to perfection.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Moa22dUG5ko",
+      "name": "In UK Cinemas Tomorrow. Bring your baskets.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "CPEjnUfsEr8",
+      "name": "Now Playing",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "m7BTp5Vi-jc",
+      "name": "Husband Material",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "7H3BPydJId4",
+      "name": "Olivia Colman and Alexander Skarsgård play 'Guess my film'.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "K2BBDSW5BKU",
+      "name": "In UK Cinemas Friday",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "rgnFGOIWth0",
+      "name": "The Wicker Husband",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "qnV_B9SQJlk",
+      "name": "Now Playing",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "YeHPJ71pUzU",
+      "name": "The Baker's Wife",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "W_lX280fzxE",
+      "name": "In Theaters Friday",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ob-KN-uRkB0",
+      "name": "Wicker Co-Stars Olivia Colman and Alexander Skarsgård Watch Early Career Clips Together",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "kA9NfV4pM_Q",
+      "name": "Final Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "VT6lx-s6jyQ",
+      "name": "Hysteria",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "JdM6RS4Sqm4",
+      "name": "In Theaters Friday",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "y_DBcl1YTAc",
+      "name": "Official ASMR",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ZRXOiqFCitQ",
+      "name": "Romance Poster Reveal",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "l16kv0nQfok",
+      "name": "Vinterior, The Basketmaker will not be happy…",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "qHOzJfffYRs",
+      "name": "Fable",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "UzK2X7403FM",
+      "name": "Tickets on sale now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "b7Usmhh3N4k",
+      "name": "The Bottle-Washer's Wife",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "IzXKAcli7rk",
+      "name": "Romance",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "eolnxY7WMwg",
+      "name": "Soft Bodied Female",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "EB5Oy5SUop8",
+      "name": "Romance",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "GCaWyrYLfJk",
+      "name": "Get Tickets Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "aybFUndtAsM",
+      "name": "Tickets On Sale Everywhere",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "cM5nnrBBDP0",
+      "name": "Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "XXUM64fIKn4",
+      "name": "Get Tickets Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "J0QTQeZZsWE",
+      "name": "The Innkeeper's Wife",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "xFEnk2PNEaU",
+      "name": "London Film Festival",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Gh60gI2UkJc",
+      "name": "In Two Weeks",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "-viUbGsdW9E",
+      "name": "Book Tickets Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "SD3DOBgKeTE",
+      "name": "Alexander Skarsgård on his extraordinary Wicker husband transformation",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "mFvMalEOUD0",
+      "name": "Meet The Doctor",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "DNdVVJt4x8o",
+      "name": "Olivia Colman on how Wicker cast mates became a family on set",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "LNDo5o6Fboo",
+      "name": "Tickets on sale now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "H2pMwTnak2k",
+      "name": "The Basketmaker",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "bX674oupRYo",
+      "name": "The Tailor's Wife",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "5E1HNb4f64M",
+      "name": "One Night With Wicker In 4DX",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "LQUtJYAgpFI",
+      "name": "In cinemas Oct 30",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "iAGnv7pHNeE",
+      "name": "Olivia Colman and Alexander Skarsgård at WICKER Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ca_x2m38q0c",
+      "name": "\"I was made to be with you.\"",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "R6D7nvUBy_Q",
+      "name": "Sounds of Wicker | 1 Hour Loop",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6BXcKYm6aII",
+      "name": "'Felicitations'",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "giaATR4M0YQ",
+      "name": "'Bed Is Broken'",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "UVAki9SGrlg",
+      "name": "Official UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "HP0BWBWn14I",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 19,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1195803-wicker/watch?locale=US",
+      "rent": []
+    }
+  }
+}

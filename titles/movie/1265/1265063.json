@@ -1,0 +1,390 @@
+{
+  "backdropPath": "/8jHvHZPiw6h3Xfy0cv3m7H40O8e.jpg",
+  "cast": [
+    {
+      "character": "Alma Imhoff",
+      "id": 1204,
+      "name": "Julia Roberts",
+      "profilePath": "/fQacAdIa1WUNChQ6FgEko13eqOA.jpg"
+    },
+    {
+      "character": "Maggie Resnick",
+      "id": 2195140,
+      "name": "Ayo Edebiri",
+      "profilePath": "/wrqYWaAmVPM2yueEEQUtMo6kCp2.jpg"
+    },
+    {
+      "character": "Hank Gibson",
+      "id": 37625,
+      "name": "Andrew Garfield",
+      "profilePath": "/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+    },
+    {
+      "character": "Frederik Mendelssohn",
+      "id": 72873,
+      "name": "Michael Stuhlbarg",
+      "profilePath": "/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+    },
+    {
+      "character": "Dr. Kim Sayers",
+      "id": 2838,
+      "name": "Chloë Sevigny",
+      "profilePath": "/aeuBNiaMm3Fepbu833J5zeuP6Qk.jpg"
+    },
+    {
+      "character": "Katie",
+      "id": 2515060,
+      "name": "Thaddea Graham",
+      "profilePath": "/A9JcILciCMWx5v0eMQYADaMB60z.jpg"
+    },
+    {
+      "character": "Arthur",
+      "id": 2348730,
+      "name": "Will Price",
+      "profilePath": "/7Gv2bTLOxuPSkcIMRuPpEXcHFn4.jpg"
+    },
+    {
+      "character": "Patricia",
+      "id": 1544787,
+      "name": "Christine Dye",
+      "profilePath": "/dVR7464nWiofEH2bgIUXdOK0mQJ.jpg"
+    },
+    {
+      "character": "Alex",
+      "id": 2016551,
+      "name": "Lio Mehiel",
+      "profilePath": "/mZqH6QPvtsyQAy2mq1sk4HnYuJY.jpg"
+    },
+    {
+      "character": "Dean RJ Thomas",
+      "id": 5646705,
+      "name": "David Leiber",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 46344,
+      "logoPath": "/qpSdIjnGHiz6UNIQWGIJkDnG79l.png",
+      "name": "Frenesy Film"
+    },
+    {
+      "id": 23,
+      "logoPath": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+      "name": "Imagine Entertainment"
+    },
+    {
+      "id": 6831,
+      "logoPath": "/fWSI4EjIDEEzCNJC8OTPX9Pdbxv.png",
+      "name": "Big Indie Pictures"
+    },
+    {
+      "id": 210099,
+      "logoPath": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": "2025-11-20",
+  "externalIds": {
+    "facebookId": "afterthehuntmovie",
+    "imdbId": "tt32159989",
+    "instagramId": "afterthehuntmovie",
+    "wikidataId": "Q127382372"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 34,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1265063,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "After the Hunt",
+  "overview": "یک استاد دانشگاه در لحظه‌ای سرنوشت‌ساز هم در زندگی شخصی و هم در حرفه خود قرار می‌گیرد؛ زمانی که شاگرد ممتازی اتهامی علیه یکی از همکارانش مطرح می‌کند و رازی تاریک از گذشته‌ی او در شرف افشا شدن است.",
+  "posterPath": "/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-11-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-11-20",
+      "gapDays": 34,
+      "theatricalDate": "2025-10-17"
+    },
+    "US": {
+      "digitalDate": "2025-11-20",
+      "gapDays": 34,
+      "theatricalDate": "2025-10-17"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2025-11-20"
+    },
+    "GB": {
+      "digital": "2025-11-20",
+      "premiere": "2025-10-11",
+      "theatrical": "2025-10-17"
+    },
+    "US": {
+      "digital": "2025-11-20",
+      "premiere": "2025-09-26",
+      "theatrical": "2025-10-17",
+      "theatricalLimited": "2025-10-10"
+    }
+  },
+  "runtime": 139,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Not everything is supposed to make you comfortable.",
+  "theatricalDate": "2025-10-17",
+  "title": "After the Hunt",
+  "translations": {
+    "faOverview": "یک استاد دانشگاه در لحظه‌ای سرنوشت‌ساز هم در زندگی شخصی و هم در حرفه خود قرار می‌گیرد؛ زمانی که شاگرد ممتازی اتهامی علیه یکی از همکارانش مطرح می‌کند و رازی تاریک از گذشته‌ی او در شرف افشا شدن است.",
+    "faTitle": "پس از شکار"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "xCGBa1R8Px0",
+      "name": "Scene at the Academy (with Julia Roberts, Andrew Garfield, Luca Guadagnino, & More)",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "mIIWuJrSI_g",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "9DZHpsbEGUc",
+      "name": "Julia Roberts Turned Her HOUSE Into A Rehearsal Room!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "dGlExLEFjvo",
+      "name": "Chatting to the incredible director Luca Guadagnino on all things After The Hunt",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "3DKSJSO9xbU",
+      "name": "Happy birthday to the one and only Julia Roberts",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "vM3qIqMmiXY",
+      "name": "Every great cast starts with great chemistry",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "npjdjALL3Pw",
+      "name": "There are worse things to be than a cliché.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "2VOFDc4Hitc",
+      "name": "Ayo Edebiri and Andrew Garfield interview each other on After The Hunt",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Q-qW3rp8nyU",
+      "name": "The walls are closing in. See Julia Roberts in After The Hunt",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "pKlORT561T4",
+      "name": "Name a more iconic trio.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6NNISCsr3jY",
+      "name": "Julia Roberts, Andrew Garfield & Ayo Edebiri KILL in new Crime Thriller 'After the Hunt\"!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "qwL5At5zQ9g",
+      "name": "The pressure is on.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "vM4Kp6OQ5C0",
+      "name": "The After The Hunt cast on films they want to watch for the first time again",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "YjctGsDIRKM",
+      "name": "What a night.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "CAdC5n1-PZ0",
+      "name": "Last night in LA",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Lrs9ngsDxLA",
+      "name": "After The Hunt as the Opening Night selection of New York Film Festival",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "RvoS8ORzBdM",
+      "name": "Sweeping Generalizations – Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "8BqlOvYIZ_Q",
+      "name": "I Don’t Feel Comfortable – Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "8MH6vSXsdPQ",
+      "name": "Luca Guadagnino and Julia Roberts Introduce After the Hunt",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "5NJWqWE4vbc",
+      "name": "Luca Guadagnino, Julia Roberts, Ayo Edebiri, Andrew Garfield & More on After the Hunt",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "-fe6g8w4bXQ",
+      "name": "Luca Guadagnino, Julia Roberts, Ayo Edebiri, Andrew Garfield & More on After the Hunt",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "TdRU4gm8h7c",
+      "name": "See It In Theaters Featurette",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "sCC7iIMHq2U",
+      "name": "Official Trailer 2",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "DnDcmW6fsMQ",
+      "name": "A night to remember - After The Hunt at the Venice Film Festival.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ebuDKIF0i24",
+      "name": "Moments from the world premiere at the Venice Film Festival",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "A8R6DMlDtxk",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 538,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 119,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1265063-after-the-hunt/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1265063-after-the-hunt/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1265063-after-the-hunt/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "backdropPath": "/kOf2kqgdaLkoOBNn8W041E8JVve.jpg",
+  "cast": [
+    {
+      "character": "Lexi",
+      "id": 65871,
+      "name": "Amanda Schull",
+      "profilePath": "/1u0zGqSDaWOQVYmnpUCmEZ50oJP.jpg"
+    },
+    {
+      "character": "Ridge",
+      "id": 1215144,
+      "name": "Victor Webster",
+      "profilePath": "/16bNzaHZRXLGB8T6nByDCGY6lhI.jpg"
+    },
+    {
+      "character": "June",
+      "id": 104646,
+      "name": "Barbara Niven",
+      "profilePath": "/qRwCFXzAzna7viOOC4xjOCSu2Hy.jpg"
+    },
+    {
+      "character": "Piper",
+      "id": 2425167,
+      "name": "Verity Marks",
+      "profilePath": "/bKzhE8JV3E7EbX7UVUXYHR7HGpE.jpg"
+    },
+    {
+      "character": "Dan",
+      "id": 33051,
+      "name": "John B. Lowe",
+      "profilePath": "/j2Ra0REYuP9Ipdx6nG7tkukyycG.jpg"
+    },
+    {
+      "character": "Ezra",
+      "id": 4794837,
+      "name": "Zachary Cox",
+      "profilePath": "/pWrNfn2muV3uMlNjdEYFItgYOi2.jpg"
+    },
+    {
+      "character": "Jax",
+      "id": 2537199,
+      "name": "Alec Carlos",
+      "profilePath": "/pJpbBcA79cRuDVmq81KWhYxlz4f.jpg"
+    },
+    {
+      "character": "Rachael",
+      "id": 3645871,
+      "name": "Dutchess Cayetano",
+      "profilePath": "/xaaxyPVdA55AtQR6MgTswIiFtq8.jpg"
+    },
+    {
+      "character": "Melissa",
+      "id": 3688246,
+      "name": "Cherrel Bergen",
+      "profilePath": "/frnl2629KQWP8lgTvQmjYf81B1U.jpg"
+    },
+    {
+      "character": "Customer",
+      "id": 4295106,
+      "name": "Keishon Joseph",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 248590,
+      "logoPath": "/kF3YGvrjjdfNMFkPKxsqH7LGxsE.png",
+      "name": "Evoke Entertainment"
+    },
+    {
+      "id": 308424,
+      "logoPath": null,
+      "name": "Evoke Canadian Pictures"
+    }
+  ],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt40644230"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1772765,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "'Tis the Season for Setups",
+  "overview": "Hyper organized single mom and party planner Lexi, her free-spirited mother June, and teen daughter Piper are set to spend Christmas at a local ski resort after Lexi is hired to organize their annual holiday party. Upon arrival, she immediately butts heads with Ridge, the ski instructor and son of the lodge's owner, Dan.",
+  "posterPath": "/gf3lx7vxAoSONF2TYerFwLDeHzV.jpg",
+  "rating": 2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2026-10-16"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "'Tis the Season for Setups",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 1,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 290,
+          "logoPath": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "id": 2058,
+          "logoPath": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "id": 1746,
+          "logoPath": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1772765-tis-the-season-for-setups/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Liz Harper",
+      "id": 4429378,
+      "name": "Alyssa Haymor",
+      "profilePath": "/3SBXiEFqtUfd2bOVTjMSbGRp7vI.jpg"
+    },
+    {
+      "character": "Jack Harper",
+      "id": 3614098,
+      "name": "Anto Sharp",
+      "profilePath": "/yF6DC6AurzyGP5BvUVwKjbxxWK1.jpg"
+    },
+    {
+      "character": "Rick Spector",
+      "id": 1826758,
+      "name": "Christopher Mulvin",
+      "profilePath": null
+    },
+    {
+      "character": "Mia Harper",
+      "id": 5083968,
+      "name": "Chloe Hews",
+      "profilePath": null
+    },
+    {
+      "character": "Whisper",
+      "id": 6530273,
+      "name": "Eli Oakes",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 139415,
+      "logoPath": null,
+      "name": "Dark Fable Media"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2026-10-06",
+  "externalIds": {
+    "imdbId": "tt36398784",
+    "instagramId": "@darkfablerich"
+  },
+  "fetchedAt": 1793452486014,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1784043,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "JINX",
+  "overview": "After moving into her new home, Mia, a mute Girl, discovers a cursed dollhouse hidden in the attic. When her younger brother vanishes into thin air, she must unlock the relic's dark mysteries before the ancient hex claims his soul forever.",
+  "posterPath": "/cKt3zqbyvyqUiRrzowQVdRiuFiW.jpg",
+  "rating": 10,
+  "regionGaps": {
+    "CA": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "DE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-10-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "IR": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-06",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-10-15"
+    },
+    "US": {
+      "digital": "2026-10-06"
+    }
+  },
+  "runtime": 90,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "JINX",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "C4rvV9_CmE8",
+      "name": "Jinx (2026) - Official Trailer | VMI Worldwide",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 1,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1784043-jinx/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    }
+  }
+}

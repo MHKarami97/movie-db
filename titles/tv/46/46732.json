@@ -1,0 +1,472 @@
+{
+  "backdropPath": "/h1NDX8KuFkefABPujQJ5wWlqRdj.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 91410,
+      "logoPath": "/klnZXdGFzDn6fBqHgJs91PYLSUZ.png",
+      "name": "Den of Thieves"
+    },
+    {
+      "id": 181729,
+      "logoPath": null,
+      "name": "MTV Entertainment Events"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "1984-09-14",
+  "episodes": {
+    "43": [
+      {
+        "airDate": "2026-09-27",
+        "episodeNumber": 1,
+        "name": "MTV Video Music Awards 2026",
+        "overview": "The nominees were announced on August 18, 2026. Madonna led with eleven nominations. She is followed by Taylor Swift with nine, Ariana Grande and Sabrina Carpenter with seven each, Bruno Mars, PinkPantheress and Zara Larsson with five each, Lisa with four, while Shakira, Tate McRae, Gener8ion and Yung Lean received three nominations each.",
+        "stillPath": null,
+        "voteAverage": 8
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "VMAs",
+    "imdbId": "tt14811264",
+    "instagramId": "vmas",
+    "twitterId": "vmas",
+    "wikidataId": "223703"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 46732,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-09-27",
+    "episodeNumber": 1,
+    "id": 7756660,
+    "name": "MTV Video Music Awards 2026",
+    "overview": "The nominees were announced on August 18, 2026. Madonna led with eleven nominations. She is followed by Taylor Swift with nine, Ariana Grande and Sabrina Carpenter with seven each, Bruno Mars, PinkPantheress and Zara Larsson with five each, Lisa with four, while Shakira, Tate McRae, Gener8ion and Yung Lean received three nominations each.",
+    "seasonNumber": 43
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "MTV Video Music Awards",
+  "overview": "An annual award ceremony presented by MTV to honor the best in the music video medium.",
+  "posterPath": "/nwcFFwWc0CYKW95ytYQqtC5D3sa.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1984-09-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1984-09-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1984-09-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1984-09-14",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1984-09-14"
+    },
+    "CN": {
+      "tv": "1984-09-14"
+    },
+    "GB": {
+      "tv": "1984-09-14"
+    },
+    "US": {
+      "tv": "1984-09-14"
+    }
+  },
+  "runtime": 180,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": null,
+      "episodeCount": 5,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/iWIWpyA3Iul6NbuIlXgDjgztCPx.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1984-09-14",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/z3maoZVYARXeSuomaIs7WvBKAGH.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1985-09-13",
+      "episodeCount": 1,
+      "name": "Season 2",
+      "overview": "Radio City Music Hall, New York",
+      "posterPath": "/zMTJJ1Mf5x2ghKXUHbztC1FX0Tz.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1986-09-05",
+      "episodeCount": 1,
+      "name": "Season 3",
+      "overview": "Universal Amphitheatre, Los Angeles",
+      "posterPath": "/1ZCHrxVfWfbhzXQPliE5jHwNSH7.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1987-09-11",
+      "episodeCount": 1,
+      "name": "Season 4",
+      "overview": "Universal Amphitheatre, Los Angeles",
+      "posterPath": "/sYQY74KX4yWIbZIDCO3ygJqs0UM.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1988-09-07",
+      "episodeCount": 1,
+      "name": "Season 5",
+      "overview": "Universal Amphitheatre, Los Angeles",
+      "posterPath": "/yOZPXPIOtUMcfaMhjFkP6THhuVz.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1989-09-06",
+      "episodeCount": 1,
+      "name": "Season 6",
+      "overview": "Universal Amphitheatre, Los Angeles",
+      "posterPath": "/wIQ3AyQ9tmHk0CZMBa2cAxb1yYu.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1990-09-06",
+      "episodeCount": 1,
+      "name": "Season 7",
+      "overview": "Universal Amphitheatre, Los Angeles",
+      "posterPath": "/srKhMRZbS3H177o7zLPD6Jp3wsz.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1991-09-05",
+      "episodeCount": 1,
+      "name": "Season 8",
+      "overview": "Universal Amphitheatre, Los Angeles",
+      "posterPath": "/gk5WHhNeYVDA1FHAGTUQcMVgD08.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1992-09-09",
+      "episodeCount": 1,
+      "name": "Season 9",
+      "overview": "Pauley Pavilion, Los Angeles",
+      "posterPath": "/oQTg5uMyAVicHhaWuHmT7DVeluN.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1993-09-02",
+      "episodeCount": 1,
+      "name": "Season 10",
+      "overview": "Gibson Amphitheatre, Los Angeles",
+      "posterPath": "/pBAZQBc2RxwoGmovrzWAGrLLnti.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "1994-09-08",
+      "episodeCount": 1,
+      "name": "Season 11",
+      "overview": "Radio City Music Hall, New York",
+      "posterPath": "/vYJow7efH1jsQ79KRB3LEGHaAZy.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "1995-09-07",
+      "episodeCount": 1,
+      "name": "Season 12",
+      "overview": "Radio City Music Hall, New York",
+      "posterPath": "/dyj4p29AyYbAse8U4w6KjyDvNJh.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "1996-09-04",
+      "episodeCount": 1,
+      "name": "Season 13",
+      "overview": "Radio City Music Hall, New York",
+      "posterPath": "/fBpbk0djFEaOMyfxCb99pPIBswT.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "1997-09-04",
+      "episodeCount": 1,
+      "name": "Season 14",
+      "overview": "Radio City Music Hall, New York",
+      "posterPath": "/mS8j0doEVpNb34H7PzcBihaJiNy.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "1998-09-10",
+      "episodeCount": 1,
+      "name": "Season 15",
+      "overview": "Universal Amphitheatre, Los Angeles",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "1999-09-09",
+      "episodeCount": 1,
+      "name": "Season 16",
+      "overview": "Metropolitan Opera House, New York",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2000-09-07",
+      "episodeCount": 1,
+      "name": "Season 17",
+      "overview": "Radio City Music Hall, New York",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2001-09-06",
+      "episodeCount": 1,
+      "name": "Season 18",
+      "overview": "Metropolitan Opera House, New York",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2002-08-29",
+      "episodeCount": 1,
+      "name": "Season 19",
+      "overview": "Radio City Music Hall, New York",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2003-08-28",
+      "episodeCount": 1,
+      "name": "Season 20",
+      "overview": "Radio City Music Hall, New York",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2004-08-29",
+      "episodeCount": 1,
+      "name": "Season 21",
+      "overview": "American Airlines Arena, Miami",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2005-08-28",
+      "episodeCount": 1,
+      "name": "Season 22",
+      "overview": "American Airlines Arena, Miami",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2006-08-31",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2006",
+      "overview": " Radio City Music Hall, New York",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2007-09-09",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2007",
+      "overview": "The Palms, Las Vegas",
+      "posterPath": "/aE2ZLFWhyr8heVZY5DyX18wI8o5.jpg",
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2008-09-07",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2008",
+      "overview": " Paramount Studios, Los Angeles",
+      "posterPath": "/nugaezH1AfJunusbmcUoT2fubcq.jpg",
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "2009-09-13",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2009",
+      "overview": "Radio City Music Hall, New York",
+      "posterPath": "/mVAeDHWXy0OSHCOVtqqwzl7cYYh.jpg",
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "2010-09-12",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2010",
+      "overview": "Nokia Theatre, Los Angeles",
+      "posterPath": "/yOWOOYV9JFTrfUqNcaoc6y3NZnr.jpg",
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "2011-08-28",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2011",
+      "overview": "Nokia Theatre, Los Angeles",
+      "posterPath": "/7rYh81pEP6Rl8l8U1iyFCf5rf8u.jpg",
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "2012-09-06",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2012",
+      "overview": "Staples Center, Los Angeles",
+      "posterPath": "/ajDz01MSjj2xBQOml3H3vYC2ZP5.jpg",
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "2013-08-25",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2013",
+      "overview": "Barclays Center, Brooklyn",
+      "posterPath": "/lubDzPXsPzNzPc6HWvgru4zJvZr.jpg",
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "2014-08-24",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2014",
+      "overview": "",
+      "posterPath": "/oIKAh5HBucATYXL41PILkC1gsHM.jpg",
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "2015-08-30",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2015",
+      "overview": "",
+      "posterPath": "/1mIdLUi1xoXBMftcFyuRCK1giyT.jpg",
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "2016-08-28",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2016",
+      "overview": "",
+      "posterPath": "/5TukGl9eYtNHM1XOhHH4leJA9K0.jpg",
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "2017-08-27",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2017",
+      "overview": "",
+      "posterPath": "/5QUNdeVlw4TP1PdjzzfkXchm6q0.jpg",
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "2018-08-20",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2018",
+      "overview": "The MTV Video Music Awards are returning to Radio City Music Hall in NYC, with performances by Nicki Minaj, Ariana Grande, Shawn Mendes, Travis Scott, Post Malone, Logic featuring Ryan Tedder, and this year's Video Vanguard recipient, Jennifer Lopez.",
+      "posterPath": "/ge63rjAOGX2oUS8RGJCWvzcWQNN.jpg",
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "2019-08-26",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2019",
+      "overview": "",
+      "posterPath": "/tpWE8UVmOz7qexRrhdB0YjNv4RD.jpg",
+      "seasonNumber": 36
+    },
+    {
+      "airDate": "2020-08-30",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2020",
+      "overview": "",
+      "posterPath": "/1r8Z7DKmBt5bB1PJJBwpJqg2hIV.jpg",
+      "seasonNumber": 37
+    },
+    {
+      "airDate": "2021-09-12",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2021",
+      "overview": "Hosted by Doja Cat, the 2021 VMAs featured performances from the biggest stars in a celebration of the best music videos of the year, and honored artists from the worlds of pop, rock, hip-hop and more.",
+      "posterPath": "/nwcFFwWc0CYKW95ytYQqtC5D3sa.jpg",
+      "seasonNumber": 38
+    },
+    {
+      "airDate": "2022-08-28",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2022",
+      "overview": "",
+      "posterPath": "/5SE1Zp4WfdzuYGY8y1gGczYikLc.jpg",
+      "seasonNumber": 39
+    },
+    {
+      "airDate": "2023-09-12",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2023",
+      "overview": "",
+      "posterPath": "/e2LQ35YPgo7SxMNX8NiUzPjwaDT.jpg",
+      "seasonNumber": 40
+    },
+    {
+      "airDate": "2024-09-11",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2024",
+      "overview": "The 2024 MTV Video Music Awards will be held at the UBS Arena in Elmont, New York, on September 11, 2024",
+      "posterPath": "/3ffaQojKdyvr6m0Z3WGStB7MfqB.jpg",
+      "seasonNumber": 41
+    },
+    {
+      "airDate": "2025-09-07",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2025",
+      "overview": "",
+      "posterPath": "/7aEkKhU6h6cyIwtPr9c00mkdtS6.jpg",
+      "seasonNumber": 42
+    },
+    {
+      "airDate": "2026-09-27",
+      "episodeCount": 1,
+      "name": "MTV Video Music Awards 2026",
+      "overview": "The 2026 MTV Video Music Awards will be held at the Peacock Theater in Los Angeles, California, on September 27, 2026.",
+      "posterPath": "/lzO8hqFGS4CPecuewokoLkMX9To.jpg",
+      "seasonNumber": 43
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "MTV Video Music Awards",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 26,
+  "watchProviders": {}
+}

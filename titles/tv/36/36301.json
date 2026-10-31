@@ -1,0 +1,392 @@
+{
+  "backdropPath": "/pJuH3WLjEqIrsztrV9t8a0lmRS7.jpg",
+  "cast": [
+    {
+      "character": "Melanie Hansen",
+      "id": 68840,
+      "name": "Sanna Englund",
+      "profilePath": null
+    },
+    {
+      "character": "Franziska Jung",
+      "id": 1243552,
+      "name": "Rhea Harder",
+      "profilePath": "/wHkpxTQ2tuvwqwgCN8ZQP88uFc5.jpg"
+    },
+    {
+      "character": "Jörn 'Wolle' Wollenberger",
+      "id": 1325636,
+      "name": "Harald Maack",
+      "profilePath": "/5QTfAqQGbvSpV8IhB0bJBwzAY96.jpg"
+    },
+    {
+      "character": "Jasmin Jonas",
+      "id": 48513,
+      "name": "Gerit Kling",
+      "profilePath": "/kq7KrMAQ8Mehd0UuaAE3pZ82kB7.jpg"
+    },
+    {
+      "character": "Philipp Haase",
+      "id": 1253804,
+      "name": "Fabian Harloff",
+      "profilePath": "/vFvBALb2dxS1IEw9zrNhCfjPF0q.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 2538,
+      "logoPath": "/yWB5nl8uOhLTwKOqMpkGjfv0FIW.png",
+      "name": "Letterbox Filmproduktion"
+    },
+    {
+      "id": 43453,
+      "logoPath": "/tnXQJstA260fBwZxzgyaG7LQz3Y.png",
+      "name": "Studio Hamburg"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "2007-01-04",
+  "episodes": {
+    "21": [
+      {
+        "airDate": "2026-09-24",
+        "episodeNumber": 1,
+        "name": "The Show must go on",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-01",
+        "episodeNumber": 2,
+        "name": "Schneckenhaus",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-08",
+        "episodeNumber": 3,
+        "name": "Verhext",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-15",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-22",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-29",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-05",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-12",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-19",
+        "episodeNumber": 9,
+        "name": "Episode 9",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "NotrufHafenkante",
+    "imdbId": "tt0940902",
+    "wikidataId": "Q321085"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 36301,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-29",
+    "episodeNumber": 6,
+    "id": 7860728,
+    "name": "Episode 6",
+    "overview": "",
+    "seasonNumber": 21
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-05",
+    "episodeNumber": 7,
+    "id": 7860730,
+    "name": "Episode 7",
+    "overview": "",
+    "seasonNumber": 21
+  },
+  "originalTitle": "Notruf Hafenkante",
+  "overview": "Shows the interaction between Hamburg police officers and paramedics.",
+  "posterPath": "/JSNSFn5vIIkdZnshTbNra4bcrZ.jpg",
+  "rating": 5.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2007-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2007-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2007-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2007-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2007-01-04"
+    },
+    "CN": {
+      "tv": "2007-01-04"
+    },
+    "GB": {
+      "tv": "2007-01-04"
+    },
+    "US": {
+      "tv": "2007-01-04"
+    }
+  },
+  "runtime": 43,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2007-01-04",
+      "episodeCount": 22,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/lFGxhAX3ifnsNOARRmCETYf4NSQ.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2007-10-11",
+      "episodeCount": 25,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/gzxZxXWHTtHSXgTl4OdhoAQSXiH.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2008-10-30",
+      "episodeCount": 25,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/zCB28WW0OnN7D7ux9Hk9fCO9P4v.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2009-09-24",
+      "episodeCount": 25,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/6f73kBYrR7upmLRONrLiW9rQNJN.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2010-11-04",
+      "episodeCount": 25,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/bz8pMhuknV1bKEzqw27CF1tUuQo.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2011-09-29",
+      "episodeCount": 28,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/6mn6pBjUGIx3nurftp6LWSuJ3yY.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2012-09-20",
+      "episodeCount": 27,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/yZDo6axi8RyIc3X3YBNeyVNPHCn.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2013-09-26",
+      "episodeCount": 13,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/nOrzYtabhqR9MN1jltDa1xOMRMb.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2014-09-18",
+      "episodeCount": 27,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/pLi1GJotuwArwhFm2F1JopcsdIk.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2015-09-10",
+      "episodeCount": 29,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/6MQBIEbbyeFR3qwIU7kBv78OP0k.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2016-09-15",
+      "episodeCount": 29,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": "/2Zzb85SDrRfNYgPTzLYNWKlsb70.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2017-10-05",
+      "episodeCount": 27,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": "/1juWu3Tcw1uZhAfsmg9E9tg5jBa.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2018-10-18",
+      "episodeCount": 26,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": "/3emjk0SGL6GaXOxPETPZF1nUbXP.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2019-09-26",
+      "episodeCount": 25,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": "/gqZwtZtArYqpLXJWjiWMyczzHPU.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2020-09-24",
+      "episodeCount": 25,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": "/yzUtKYNkfK9scOQObeXRpyxTXUm.jpg",
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2021-09-09",
+      "episodeCount": 28,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": "/v24pQp8Cyohpwk1WdQVXlgjzv2K.jpg",
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2022-09-15",
+      "episodeCount": 26,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": "/vCaLUGbJkJmWfPe0vBXOxjY1cyj.jpg",
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2023-09-28",
+      "episodeCount": 26,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": "/uDvQUxhEOrSsKUktwfF4i5MTFg1.jpg",
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2024-09-26",
+      "episodeCount": 25,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2025-10-09",
+      "episodeCount": 22,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2026-09-24",
+      "episodeCount": 9,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Hamburg Dockland",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 15,
+  "watchProviders": {}
+}

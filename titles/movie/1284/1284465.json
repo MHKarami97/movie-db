@@ -1,0 +1,337 @@
+{
+  "backdropPath": "/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+  "cast": [
+    {
+      "character": "Robin Hood",
+      "id": 6968,
+      "name": "Hugh Jackman",
+      "profilePath": "/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+    },
+    {
+      "character": "Sister Brigid",
+      "id": 1388593,
+      "name": "Jodie Comer",
+      "profilePath": "/AfsBpnfw0E2h8NZK4zkFcOjYlEb.jpg"
+    },
+    {
+      "character": "Little John",
+      "id": 137905,
+      "name": "Bill Skarsgård",
+      "profilePath": "/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg"
+    },
+    {
+      "character": "The Leper",
+      "id": 152416,
+      "name": "Murray Bartlett",
+      "profilePath": "/eN20zfcRB2F51bmUbTK9byQCpb9.jpg"
+    },
+    {
+      "character": "Arthur / Godwyn",
+      "id": 1590759,
+      "name": "Noah Jupe",
+      "profilePath": "/xbswZN0SHgeCbyo5GQ0xfZKH3vs.jpg"
+    },
+    {
+      "character": "Wainwright",
+      "id": 1303071,
+      "name": "Jade Croot",
+      "profilePath": "/j4DuuFPDdnEcDWFWCyBUuhhHkxg.jpg"
+    },
+    {
+      "character": "Little Margaret",
+      "id": 4526195,
+      "name": "Faith Delaney",
+      "profilePath": "/jIKjTzr4dCoybQgNhyREahh9Aym.jpg"
+    },
+    {
+      "character": "Sarah",
+      "id": 5396679,
+      "name": "Tabitha Smyth",
+      "profilePath": "/uREVbfIi4rD2W29zWbtzNqIhP4u.jpg"
+    },
+    {
+      "character": "Hob",
+      "id": 3676238,
+      "name": "Beau Thompson",
+      "profilePath": "/9mGiYt7w8YqsqM6TLoGqYV9SvFY.jpg"
+    },
+    {
+      "character": "Hendrie",
+      "id": 4633814,
+      "name": "Alfie Lawless",
+      "profilePath": "/761sH9H88m86M3iUuxMJpLQ2GE2.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 180839,
+      "logoPath": "/v2A9SsZdaWpmZdXPf3I7Ajxn1Pc.png",
+      "name": "Lyrical Media"
+    },
+    {
+      "id": 172841,
+      "logoPath": "/MKTZVUIIWMjwpF58tGtAx8UXFs.png",
+      "name": "Ryder Picture Company"
+    },
+    {
+      "id": 11667,
+      "logoPath": "/dhBJdstAolGmqRfbQfElhsU1cTo.png",
+      "name": "Northern Ireland Screen"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-07-28",
+  "externalIds": {
+    "imdbId": "tt32273171",
+    "twitterId": "DeathOfRH_UK",
+    "wikidataId": "Q125960231"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 39,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 1284465,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Death of Robin Hood",
+  "overview": "رابین هود پس از سال‌ها زندگی در مسیر جرم و قتل، با گذشته تاریک خود درگیر است. او در پی نبردی که گمان می‌کرد آخرین رویارویی‌اش خواهد بود، به‌شدت زخمی می‌شود و در آستانه مرگ قرار می‌گیرد. در حالی که مرز میان زندگی و مرگ برای او کم‌رنگ شده، زنی مرموز او را به مراقبت می‌گیرد. این زن فرصتی برای رستگاری و رهایی از گذشته در اختیارش می‌گذارد؛ فرصتی که می‌تواند سرنوشت رابین هود را برای همیشه تغییر دهد و ...",
+  "posterPath": "/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-02"
+    },
+    "US": {
+      "digitalDate": "2026-07-28",
+      "gapDays": 39,
+      "theatricalDate": "2026-06-19"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-09-02"
+    },
+    "US": {
+      "digital": "2026-07-28",
+      "premiere": "2026-06-10",
+      "theatrical": "2026-06-19",
+      "tv": "2026-10-17"
+    }
+  },
+  "runtime": 123,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "He was no hero.",
+  "theatricalDate": "2026-06-19",
+  "title": "The Death of Robin Hood",
+  "translations": {
+    "faOverview": "رابین هود پس از سال‌ها زندگی در مسیر جرم و قتل، با گذشته تاریک خود درگیر است. او در پی نبردی که گمان می‌کرد آخرین رویارویی‌اش خواهد بود، به‌شدت زخمی می‌شود و در آستانه مرگ قرار می‌گیرد. در حالی که مرز میان زندگی و مرگ برای او کم‌رنگ شده، زنی مرموز او را به مراقبت می‌گیرد. این زن فرصتی برای رستگاری و رهایی از گذشته در اختیارش می‌گذارد؛ فرصتی که می‌تواند سرنوشت رابین هود را برای همیشه تغییر دهد و ...",
+    "faTitle": "مرگ رابین هود"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "A1UKNvmb1Go",
+      "name": "Stories",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "eH1Z9NcsukY",
+      "name": "Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "n--mHQ8hnu4",
+      "name": "Official Promo",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ii1gTLxWukk",
+      "name": "Official First Look",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "GSfq5jq7ChQ",
+      "name": "Official Promo",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "tlSDDuWxO_0",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 588,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1284465-the-death-of-robin-hood/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1284465-the-death-of-robin-hood/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "backdropPath": "/66Pg2wfKvnKYR9akKoA5RlOKHyf.jpg",
+  "cast": [
+    {
+      "character": "Leo",
+      "id": 4882896,
+      "name": "Julia Sulleiro",
+      "profilePath": "/4pbzo7EBnOC39IEfLF2E3LvYbWj.jpg"
+    },
+    {
+      "character": "Lou",
+      "id": 589477,
+      "name": "Isak Férriz",
+      "profilePath": "/rFkVuTNGu8H8kRVjFB5pIu3gkrp.jpg"
+    },
+    {
+      "character": "Máximo",
+      "id": 264955,
+      "name": "Manuel Manquiña",
+      "profilePath": "/fEgl8Pifj7s4HBBFSFQCcBjWAMF.jpg"
+    },
+    {
+      "character": "María",
+      "id": 932628,
+      "name": "Marta Larralde",
+      "profilePath": "/mmaekjqGCUspRfpzW56Q1gz8cZ6.jpg"
+    },
+    {
+      "character": "India",
+      "id": 132996,
+      "name": "María Pujalte",
+      "profilePath": "/pgVtz88o0O3ik0Ov2dQnSbwSNYD.jpg"
+    },
+    {
+      "character": "Mar",
+      "id": 1075560,
+      "name": "Maggie Civantos",
+      "profilePath": "/gCDu8bx0Aklyhe0phKbzXUEY8RW.jpg"
+    },
+    {
+      "character": "Sr. Liras (jefe de Lou)",
+      "id": 956692,
+      "name": "Miguel de Lira",
+      "profilePath": "/A8PiVOTM6PLaJcup4rgoXt4AF4l.jpg"
+    },
+    {
+      "character": "Javi (Camping)",
+      "id": 1534889,
+      "name": "Denís Gómez",
+      "profilePath": "/pIr5Fhj5QkSFJKQ3CGDgXW0KVNx.jpg"
+    },
+    {
+      "character": "Lorena (Camping)",
+      "id": 1327075,
+      "name": "Natalia Díaz",
+      "profilePath": "/dJ2zhsSsRHG93ah6xUyUEXrn9xN.jpg"
+    },
+    {
+      "character": "Profesor",
+      "id": 6038934,
+      "name": "Máximo Solano",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 9967,
+      "logoPath": "/273isjO76GPpWVBLjBiBgFPUfwu.png",
+      "name": "Zeta Studios"
+    },
+    {
+      "id": 75962,
+      "logoPath": "/nZ40hIbYiR6FWjVRTT0F2hPTjJA.png",
+      "name": "Frida Films"
+    },
+    {
+      "id": 236291,
+      "logoPath": null,
+      "name": "Lunatica Limited"
+    },
+    {
+      "id": 143636,
+      "logoPath": null,
+      "name": "Motion Picture Management"
+    },
+    {
+      "id": 9987,
+      "logoPath": "/o5OTKAw7Acl5fTZYPyl8M8D9570.png",
+      "name": "Lipsync Productions"
+    },
+    {
+      "id": 215964,
+      "logoPath": "/hgueKTQkSwc6r7rNfMaC155E1bl.png",
+      "name": "Richmond Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "RO",
+      "name": "Romania"
+    }
+  ],
+  "digitalDate": "2026-02-27",
+  "externalIds": {
+    "imdbId": "tt33098517",
+    "wikidataId": "Q136457046"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1329189,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Leo & Lou",
+  "overview": "Leo, an orphaned mute girl who can't fit in, escapes from the shelter where she lives in order to go to a fishing competition that reminds her of her parents. On the way, Lou, a non-conformist with no job or benefit, finds her hitchhiking and, without knowing Leo's real purpose, agrees to take her in his car, thinking he is taking her back home. Together they will embark on an adventure in which, despite the obstacles they encounter along the way, they will become inseparable and discover the extraordinary meaning of the word family.",
+  "posterPath": "/y4A7TkHhwdEue6VG3tQJfmPW48p.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-02-27"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Leo & Lou",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 8,
+  "watchProviders": {}
+}

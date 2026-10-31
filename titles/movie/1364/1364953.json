@@ -1,0 +1,285 @@
+{
+  "backdropPath": "/c4w0cHapoKndfq4fXnDoUyW90Xd.jpg",
+  "cast": [
+    {
+      "character": "Mary",
+      "id": 2076358,
+      "name": "Ariāna Osborne",
+      "profilePath": "/gu1vSwyPriSqAEudEVBn83l2VW1.jpg"
+    },
+    {
+      "character": "Nathaniel Cole",
+      "id": 10881,
+      "name": "Toby Stephens",
+      "profilePath": "/1NCqxC8kMiKABrZ9Xgt4nNHGxaI.jpg"
+    },
+    {
+      "character": "Peggy",
+      "id": 4072446,
+      "name": "Umi Myers",
+      "profilePath": "/sWofAn489etQ3BBHjYODae8MFev.jpg"
+    },
+    {
+      "character": "Jack Fenton",
+      "id": 150396,
+      "name": "Erroll Shand",
+      "profilePath": "/75nc5lUcp1So9RTNNr08NZ0oQDG.jpg"
+    },
+    {
+      "character": "Arthur Cole",
+      "id": 1290160,
+      "name": "Jordan Mooney",
+      "profilePath": "/jj49Eg4bzW1k3UyNGuBCo8ziEDS.jpg"
+    },
+    {
+      "character": "Anne",
+      "id": 6146307,
+      "name": "Evelyn Towersy",
+      "profilePath": "/nILXLrE7gRSNu6f7KZqBiiHvuoA.jpg"
+    },
+    {
+      "character": "Hinemoana",
+      "id": 3450611,
+      "name": "Mihi Te Rauhi Daniels",
+      "profilePath": null
+    },
+    {
+      "character": "Arorangi",
+      "id": 5261200,
+      "name": "Turia Schmidt-Peke",
+      "profilePath": "/dPJRtMwLpN7WNr8qUmROLaEuuJa.jpg"
+    },
+    {
+      "character": "Thomas Boyd",
+      "id": 3628125,
+      "name": "Elliot Blakely",
+      "profilePath": "/lE3ObHlVSn3UqYM5BLf2nLrpJ6h.jpg"
+    },
+    {
+      "character": "Driver",
+      "id": 130609,
+      "name": "Jonno Roberts",
+      "profilePath": "/6r8F57fYRgWWNVWp11B9a1E8qiS.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 202892,
+      "logoPath": null,
+      "name": "Sweetshop & Green"
+    },
+    {
+      "id": 85698,
+      "logoPath": null,
+      "name": "Vendetta Films"
+    },
+    {
+      "id": 23457,
+      "logoPath": null,
+      "name": "MPI Media Group"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-06-09",
+  "externalIds": {
+    "imdbId": "tt15284556",
+    "wikidataId": "Q131613343"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 53,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1364953,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "mi",
+      "name": "Maori"
+    }
+  ],
+  "originalTitle": "Mārama",
+  "overview": "1859. When a young Māori woman is summoned from New Zealand to North Yorkshire, she uncovers her horrific colonial heritage and is compelled to confront and destroy the titled Englishman who devastated her family.",
+  "posterPath": "/tD9yi1i2t6cgXDrqaBRzjUy7bEX.jpg",
+  "rating": 6.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-12-11"
+    },
+    "US": {
+      "digitalDate": "2026-06-09",
+      "gapDays": 53,
+      "theatricalDate": "2026-04-17"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-11-15",
+      "theatrical": "2026-12-11"
+    },
+    "US": {
+      "digital": "2026-06-09",
+      "premiere": "2025-09-21",
+      "theatricalLimited": "2026-04-17"
+    }
+  },
+  "runtime": 89,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A Māori gothic story of retribution.",
+  "theatricalDate": "2026-04-17",
+  "title": "Mārama",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "77kwRjys2cg",
+      "name": "Watch at Home",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "VDP4C1CidI0",
+      "name": "Exclusive Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "uP_BNr2VerM",
+      "name": "Official US Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "qRQrXmHW8p4",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 53,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1854,
+          "logoPath": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 635,
+          "logoPath": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+          "name": "AMC+ Roku Premium Channel"
+        },
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1364953-marama/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

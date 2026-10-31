@@ -1,0 +1,203 @@
+{
+  "backdropPath": "/xVUY7fJum48tTUqiqeamousRBUX.jpg",
+  "cast": [
+    {
+      "character": "Bhagat Singh",
+      "id": 237048,
+      "name": "Pawan Kalyan",
+      "profilePath": "/5vbrrJgkH79UV4PSQupwc8TFw8i.jpg"
+    },
+    {
+      "character": "RJ Leela",
+      "id": 2476557,
+      "name": "Sreeleela",
+      "profilePath": "/fHrQFHy9GPII2rGsImbpBg83N3p.jpg"
+    },
+    {
+      "character": "Shloka",
+      "id": 1210037,
+      "name": "Raashii Khanna",
+      "profilePath": "/8nx3hzFdge51Cb5BcocIe4ShumU.jpg"
+    },
+    {
+      "character": "Nalla Nagappa",
+      "id": 584718,
+      "name": "R. Parthiban",
+      "profilePath": "/nCyK46hLNVxv0AQr2XPr4q1AkBV.jpg"
+    },
+    {
+      "character": "Ajmal Rahim",
+      "id": 1119739,
+      "name": "Nawab Shah",
+      "profilePath": "/mx168p9eqjrGyaAc3TM6viLIG4L.jpg"
+    },
+    {
+      "character": "Miya Bhai",
+      "id": 1179742,
+      "name": "Avinash",
+      "profilePath": "/uvDw1elYkPDooFNnq6yHJKBhz6s.jpg"
+    },
+    {
+      "character": "",
+      "id": 544979,
+      "name": "Gautami Tadimalla",
+      "profilePath": "/jIl0nNou47v2KMejA7CMO6i0JFH.jpg"
+    },
+    {
+      "character": "",
+      "id": 1429161,
+      "name": "Narra Srinu",
+      "profilePath": "/7PXj2khczo0S3PBF0rjQEDhR3aY.jpg"
+    },
+    {
+      "character": "",
+      "id": 1755710,
+      "name": "Naga Mahesh",
+      "profilePath": "/jx2QdDAKx48GcAiIblA8EWduKfn.jpg"
+    },
+    {
+      "character": "",
+      "id": 1838566,
+      "name": "Temper Vamsi",
+      "profilePath": "/7QmDysL95O4LFocakRIZeE2Np9Q.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 69125,
+      "logoPath": "/7kRvsVRhT76VTbhGLgJ2CrTgdpa.png",
+      "name": "Mythri Movie Makers"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt14338246",
+    "twitterId": "UBSTheFilm",
+    "wikidataId": "Q120188867"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 868668,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "te",
+      "name": "Telugu"
+    }
+  ],
+  "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
+  "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name 'Bhagat Singh'. He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
+  "posterPath": "/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-03-19"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-03-19"
+    }
+  },
+  "runtime": 151,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "This time it's not just entertainment.",
+  "theatricalDate": "2026-03-19",
+  "title": "Ustaad Bhagat Singh",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 11,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/868668/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/868668/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/868668/watch?locale=US",
+      "rent": []
+    }
+  }
+}

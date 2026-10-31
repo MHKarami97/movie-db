@@ -1,0 +1,153 @@
+{
+  "backdropPath": "/8BVpdY93rqrbopHi9BwEkiIdkX7.jpg",
+  "cast": [
+    {
+      "character": "Mao Zedong",
+      "id": 20654,
+      "name": "Liu Ye",
+      "profilePath": "/viShE7lIq0EBZYSY8R64wRaYJus.jpg"
+    },
+    {
+      "character": "Zhou Enlai",
+      "id": 1866382,
+      "name": "Wang Lei",
+      "profilePath": "/ejf8O1fMEyef9WFlYEkO8TPoZ2h.jpg"
+    },
+    {
+      "character": "Zhao Defa",
+      "id": 3193743,
+      "name": "Yu Shi",
+      "profilePath": "/6BwBpYqt6VKrJB8GUQR2eCsdjfY.jpg"
+    },
+    {
+      "character": "Bo Gu",
+      "id": 1591362,
+      "name": "Timmy Xu",
+      "profilePath": "/mntBCVt07NMqVafuBKOc9kCFl9U.jpg"
+    },
+    {
+      "character": "Zhu Huiyong",
+      "id": 1815239,
+      "name": "Wang Tianchen",
+      "profilePath": "/hWfKsHErCBPR3Z8gRkRvLuj9r0o.jpg"
+    },
+    {
+      "character": "Wu Qiwei",
+      "id": 130984,
+      "name": "Jerry Lee",
+      "profilePath": "/29SF639O4mzp3dhIuIFcaux0Te9.jpg"
+    },
+    {
+      "character": "Zhu De",
+      "id": 1291458,
+      "name": "Wang Zhifei",
+      "profilePath": "/p5A1cWUaoCkL4yRnoyKOG6mvfNb.jpg"
+    },
+    {
+      "character": "Jiang Jieshi",
+      "id": 1623136,
+      "name": "David Wang",
+      "profilePath": "/uDOia8x3GyqhRnQs7Akgqytui7Y.jpg"
+    },
+    {
+      "character": "Guo Chuang",
+      "id": 2133336,
+      "name": "Wang Yutian",
+      "profilePath": "/9F9oPL9lliVqyGYA8qqW4rWsbzW.jpg"
+    },
+    {
+      "character": "Liu Bocheng",
+      "id": 1280710,
+      "name": "Cao Bingkun",
+      "profilePath": "/l4fjc7g4Lqy82r3asDS8FbAEDoa.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 30148,
+      "logoPath": "/zerhOenUD6CkH8SMgZUhrDkOs4w.png",
+      "name": "Bona Film Group"
+    },
+    {
+      "id": 39074,
+      "logoPath": "/vPfI15Ab1IUgf7aT2swnXvswo9F.png",
+      "name": "八一电影制片厂"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39276601",
+    "wikidataId": "Q140392387"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "id": 1604133,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "originalTitle": "四渡",
+  "overview": "A retelling of the Red Army crossing the Chishui River four times to outmaneuver 400,000 enemy troops.",
+  "posterPath": "/wlnltvu01zZvcC2dVAp4Xdwb1JG.jpg",
+  "rating": 5.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-06-26"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-07-10"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "theatrical": "2026-06-26"
+    },
+    "US": {
+      "theatrical": "2026-07-10"
+    }
+  },
+  "runtime": 122,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-07-10",
+  "title": "Crossing",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {}
+}

@@ -1,0 +1,194 @@
+{
+  "backdropPath": "/8hUPAKKxU20sq8oyAUnK19zCzsi.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1146754,
+      "name": "Lukas Podolski",
+      "profilePath": "/kOqngGWClXL2ClqOjEs3N1FLfEr.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1146771,
+      "name": "Joachim Löw",
+      "profilePath": "/1tInrQywpAncyCQ28VMuZG1Taio.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 42684,
+      "name": "Oliver Kahn",
+      "profilePath": "/151HlHs8SQfvJIXVzmiyDhdnUQx.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1146756,
+      "name": "Thomas Müller",
+      "profilePath": "/uCjVMAFhQaBMjHrWJxcskDyfztP.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1146752,
+      "name": "Bastian Schweinsteiger",
+      "profilePath": "/6nTHuR9wwLmVFcXwNqUOJWRfSCe.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1328982,
+      "name": "Andrés Iniesta",
+      "profilePath": "/5ZvV9BggAGWEqMfYPHGnIaGujvt.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1146767,
+      "name": "Toni Kroos",
+      "profilePath": "/a4PuQCkY0msOiOEAti9SiEUEV8u.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 5719401,
+      "name": "Willi Breuer",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6337008,
+      "name": "Christian Gaier",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6337010,
+      "name": "Irene Gawronski",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "2026-06-04",
+  "externalIds": {
+    "imdbId": "tt42456008"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1693201,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "Poldi",
+  "overview": "Footballer, entrepreneur, fan favorite and true community hero — Lukas Podolski reflects on his journey and what comes next in this intimate documentary.",
+  "posterPath": "/euscz6PC9uHa2oLybmBUtgdyafh.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-04",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-06-04"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Poldi",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "COUkUkLAIII",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 10,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1693201-poldi/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1693201-poldi/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1693201-poldi/watch?locale=US",
+      "rent": []
+    }
+  }
+}

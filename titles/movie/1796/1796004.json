@@ -1,0 +1,166 @@
+{
+  "backdropPath": "/r35KsUQvvElJvb6BhDa4HY69hWC.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 2521242,
+      "name": "Kristen Welker",
+      "profilePath": "/t46Do2IUgnjzRURREROX82A08HH.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2148611,
+      "name": "Hallie Jackson",
+      "profilePath": "/acoJV2Aj6Dt4HJUJHcIraFwJAoG.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 4374533,
+      "name": "Steve Kornacki",
+      "profilePath": "/ozoQZ4DrBSeXtFioyh35BIy9hWs.jpg"
+    },
+    {
+      "character": "Self - NBC News Chief White House Correspondent",
+      "id": 6357815,
+      "name": "Garrett Haake",
+      "profilePath": "/1witu9mNYF00snla2Uo0K1VKaAt.jpg"
+    },
+    {
+      "character": "Self - NBC News Chief Capitol Hill Correspondent",
+      "id": 6545404,
+      "name": "Ryan Nobles",
+      "profilePath": "/tgeEZlzlIOskiLhV6nlSc942OBS.jpg"
+    },
+    {
+      "character": "Self - NBC News Correspondent",
+      "id": 3350588,
+      "name": "Ryan Chandler",
+      "profilePath": null
+    },
+    {
+      "character": "Self - NBC News Correspondent",
+      "id": 6545432,
+      "name": "Shaquille Brewster",
+      "profilePath": "/6HCP6uurhlbcOt1O2BPdW6beVKF.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 33663,
+      "name": "Donald Trump",
+      "profilePath": "/oDmVFoqIzxOyZejGjy3J5QrUmjM.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 6020657,
+      "name": "James Talarico",
+      "profilePath": "/gqdCMXTEoOriMVgp8Xk2v6HSCET.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 6472182,
+      "name": "Angie Nixon",
+      "profilePath": "/5ZZGwemI2Yu6HoPlKi4VXPvMfup.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 60324,
+      "logoPath": "/bG83WjZgjmWuWz0TYAxlWVRGmln.png",
+      "name": "NBC News"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-06",
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1796004,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Decision 2026: Battle for Control of Congress",
+  "overview": "With less than a month to the 2026 midterm elections, in this NBC News special report, Kristen Welker, Hallie Jackson, and Steve Kornacki examine what's at stake for both parties as they battle for control of Congress and what polling says across the United States.",
+  "posterPath": "/9Oat46AMKw34wW6VHSQ9Ac0pLe1.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-06",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-06",
+      "tv": "2026-10-06"
+    }
+  },
+  "runtime": 53,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Decision 2026",
+  "theatricalDate": null,
+  "title": "Decision 2026: Battle for Control of Congress",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "TcnctnWibY8",
+      "name": "Decision 2026: Battle for Control of Congress",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 386,
+          "logoPath": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+          "name": "Peacock Premium"
+        },
+        {
+          "id": 387,
+          "logoPath": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+          "name": "Peacock Premium Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1796004-decision-2026-battle-for-control-of-congress/watch?locale=US",
+      "rent": []
+    }
+  }
+}

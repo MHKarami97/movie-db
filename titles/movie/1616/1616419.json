@@ -1,0 +1,175 @@
+{
+  "backdropPath": "/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
+  "cast": [
+    {
+      "character": "Léonard Landry",
+      "id": 93532,
+      "name": "Laurent Lafitte",
+      "profilePath": "/9mTtfK5F9WMoYqvUvqlugnsX6SS.jpg"
+    },
+    {
+      "character": "Noé",
+      "id": 1660839,
+      "name": "Anthony Bajon",
+      "profilePath": "/eHpGmQtj4oRHQ3jn9tngWdb6Z9T.jpg"
+    },
+    {
+      "character": "Iris Saint Didier",
+      "id": 19119,
+      "name": "Mélanie Laurent",
+      "profilePath": "/i99ogEo4gQyanCmHWYYoS6hsUqL.jpg"
+    },
+    {
+      "character": "Anne Lamarck",
+      "id": 10500,
+      "name": "Carole Bouquet",
+      "profilePath": "/nCyI95wVvhXFH1GiornFHsL9YOx.jpg"
+    },
+    {
+      "character": "L'homme de main",
+      "id": 4198411,
+      "name": "Gwendal Kerdelhue",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 26677,
+      "logoPath": "/3niMKWcBpqOh4C1PHAG4FSubsgp.png",
+      "name": "Iconoclast Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": "2026-11-09",
+  "externalIds": {
+    "imdbId": "tt39453578",
+    "wikidataId": "Q140696036"
+  },
+  "fetchedAt": 1794337910228,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1616419,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Un bon avocat",
+  "overview": "Léonard Landry, a flamboyant criminal defence lawyer, overdoses in the middle of the courtroom. After undergoing rehab, he has one week to save his career and prepare for his own trial, reluctantly assisted by a tenacious intern, Noé. This marks the beginning of a frantic race involving legal manoeuvres, temptations and dramatic twists.",
+  "posterPath": "/rVkMvD7CpBueGmNIz2uVgluhTjS.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-09",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-09"
+    }
+  },
+  "runtime": 114,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Good Lawyer",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "3Ep7Rq24jDA",
+      "name": "The Good Lawyer | Official Hindi Trailer | Netflix Original Film",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1616419-un-bon-avocat/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1616419-un-bon-avocat/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1616419-un-bon-avocat/watch?locale=US",
+      "rent": []
+    }
+  }
+}

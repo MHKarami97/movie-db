@@ -1,0 +1,212 @@
+{
+  "backdropPath": "/aVPp9XJeYhAbGSaXOXgX8AtUq6g.jpg",
+  "cast": [
+    {
+      "character": "Eddie",
+      "id": 8293,
+      "name": "Marion Cotillard",
+      "profilePath": "/biitzOF0GffIqFYLyOPkoiaOngQ.jpg"
+    },
+    {
+      "character": "Valentina",
+      "id": 1385600,
+      "name": "Noémie Merlant",
+      "profilePath": "/l9ECDc9GGIESuKuT5zxIJknAD33.jpg"
+    },
+    {
+      "character": "Lilia",
+      "id": 4836320,
+      "name": "Martina Scrinzi",
+      "profilePath": "/rC7fkTQxsp0GNXVgPokMIQYJWUY.jpg"
+    },
+    {
+      "character": "Viva",
+      "id": 148926,
+      "name": "Agnese Claisse",
+      "profilePath": "/Au2UFzo2Tkkn9R9BpByIkALHNk0.jpg"
+    },
+    {
+      "character": "Claudia",
+      "id": 78681,
+      "name": "Isabella Ferrari",
+      "profilePath": "/eZkxlvM7JGIl0GkQcNS2uE8HyeB.jpg"
+    },
+    {
+      "character": "Andrea",
+      "id": 1423301,
+      "name": "Maurizio Lombardi",
+      "profilePath": "/4l11pikTOITlsayYCOtAl939Uz6.jpg"
+    },
+    {
+      "character": "Marco",
+      "id": 1045414,
+      "name": "Milutin Dapčević",
+      "profilePath": "/ftgM7JfQ5Rd5ox0jE1d6RRZPW3J.jpg"
+    },
+    {
+      "character": "Verde",
+      "id": 3003092,
+      "name": "Josephine Thiesen",
+      "profilePath": "/1YThG6A6GDI5sgUfxKOjZvWmKlE.jpg"
+    },
+    {
+      "character": "Rosso",
+      "id": 2243653,
+      "name": "Michele Bravi",
+      "profilePath": "/vS3HudRzFYjC8bGtCVcjNrUW5Bn.jpg"
+    },
+    {
+      "character": "Grigio",
+      "id": 1087190,
+      "name": "Alessio Gallo",
+      "profilePath": "/tEAr8NW0ndjfJCn8TNXUe7B9Hmn.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 102468,
+      "logoPath": "/7116YZNSKt5xKXgO9inx6bH0bq8.png",
+      "name": "Atelier de Production"
+    },
+    {
+      "id": 145943,
+      "logoPath": "/vDoGyvR20qqjgQQtucWe5DD6xUl.png",
+      "name": "Redibis Film"
+    },
+    {
+      "id": 74065,
+      "logoPath": "/2zMkXdiEX16WDRft4ebKqcgAxu0.png",
+      "name": "Dugong Films"
+    },
+    {
+      "id": 223262,
+      "logoPath": null,
+      "name": "Provence Studios"
+    },
+    {
+      "id": 299716,
+      "logoPath": null,
+      "name": "My Unity Production"
+    },
+    {
+      "id": 94,
+      "logoPath": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma"
+    },
+    {
+      "id": 18626,
+      "logoPath": "/gb0xmYIKvNy2LnUOfLVglww7U0g.png",
+      "name": "Kinology"
+    },
+    {
+      "id": 173537,
+      "logoPath": null,
+      "name": "Kobayashi Prod."
+    },
+    {
+      "id": 299717,
+      "logoPath": null,
+      "name": "Enable Prod."
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt32596720",
+    "wikidataId": "Q131522104"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1302994,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "originalTitle": "Roma elastica",
+  "overview": "1982. French actress Eddie is on the verge of collapse and travels to Rome accompanied by her loyal makeup artist, Valentina, to shoot a science-fiction film – a film that could be her last one.",
+  "posterPath": "/xMkf1d2gDtagqFENfEN0oxjScXb.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-09-18"
+    }
+  },
+  "runtime": 107,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Roma elastica",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "ldaQp2UpcZk",
+      "name": "Official Teaser",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

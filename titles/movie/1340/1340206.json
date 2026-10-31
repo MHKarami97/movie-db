@@ -1,0 +1,598 @@
+{
+  "backdropPath": "/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+  "cast": [
+    {
+      "character": "Niki White",
+      "id": 3477880,
+      "name": "Leo Woodall",
+      "profilePath": "/aurLg09FobKlhY3fNLg2xyiNBaZ.jpg"
+    },
+    {
+      "character": "Harry Horowitz",
+      "id": 4483,
+      "name": "Dustin Hoffman",
+      "profilePath": "/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
+    },
+    {
+      "character": "Ruthie Waymon",
+      "id": 2378813,
+      "name": "Havana Rose Liu",
+      "profilePath": "/lqdialbfdj5l4KYMSlL4aausMaV.jpg"
+    },
+    {
+      "character": "Uri",
+      "id": 1259880,
+      "name": "Lior Raz",
+      "profilePath": "/6uHFnt0iZtcdTOXAXThqfQhuG5T.jpg"
+    },
+    {
+      "character": "Marla Horowitz",
+      "id": 41640,
+      "name": "Tovah Feldshuh",
+      "profilePath": "/c0VOkTP88UneW37YOBebtBhMHYF.jpg"
+    },
+    {
+      "character": "Marius Maissner",
+      "id": 1003,
+      "name": "Jean Reno",
+      "profilePath": "/mw0EZJYz3kiFq9fNxsML773gotF.jpg"
+    },
+    {
+      "character": "Benny",
+      "id": 5137293,
+      "name": "Nissan Sakira",
+      "profilePath": "/hGr4YLXaNZ6nWOOQ9Wih6QNqOU.jpg"
+    },
+    {
+      "character": "Yoni",
+      "id": 1715727,
+      "name": "Gil Cohen",
+      "profilePath": "/lHZi4fChatE5ul54xaAAWppQ8sR.jpg"
+    },
+    {
+      "character": "Dr. Madeline Richard",
+      "id": 88929,
+      "name": "Jean Yoon",
+      "profilePath": "/ce8sXtsy7HNGWG0xqSo4QTaghjM.jpg"
+    },
+    {
+      "character": "Sung",
+      "id": 1074677,
+      "name": "Jonnie Park",
+      "profilePath": "/lcIPg223TayLkrDvaizIOwSADQY.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 22146,
+      "logoPath": "/v37N1mFeXNQfvPankg3feBhVvM7.png",
+      "name": "Black Bear Pictures"
+    },
+    {
+      "id": 82552,
+      "logoPath": "/cLEXKtCpRQs0meQwT7HK6u3QmRH.png",
+      "name": "Elevation Pictures"
+    },
+    {
+      "id": 272916,
+      "logoPath": null,
+      "name": "English Breakfast Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-06-23",
+  "externalIds": {
+    "imdbId": "tt33296751",
+    "instagramId": "tunerfilm",
+    "twitterId": "tunerfilm",
+    "wikidataId": "Q130660452"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1340206,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "he",
+      "name": "Hebrew"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Tuner",
+  "overview": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+  "posterPath": "/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
+  "rating": 7.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-08-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-29"
+    },
+    "US": {
+      "digitalDate": "2026-06-23",
+      "gapDays": 32,
+      "theatricalDate": "2026-05-22"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "digital": "2026-08-04"
+    },
+    "GB": {
+      "premiere": "2025-10-09",
+      "theatrical": "2026-05-29"
+    },
+    "US": {
+      "digital": "2026-06-23",
+      "premiere": "2025-08-30",
+      "theatricalLimited": "2026-05-22"
+    }
+  },
+  "runtime": 108,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Everybody has one hidden talent.",
+  "theatricalDate": "2026-05-22",
+  "title": "Tuner",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "pd9OsOVmFbQ",
+      "name": "Get It On Digital Today!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "MNeFYE_dzdY",
+      "name": "Time Limit",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "WiZ8OsUC8R8",
+      "name": "Pitch Perfect",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "kde0TnPqxM0",
+      "name": "⭐⭐⭐⭐⭐ FINANCIAL TIMES ⭐⭐⭐⭐ EMPIRE ⭐⭐⭐⭐ Far Out ⭐⭐⭐⭐ The Guardian",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "N7jTV4Iwzfw",
+      "name": "Catch the \"Pitch Perfect Thriller\" this weekend.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "n3GNRzKJgLo",
+      "name": "Verified Hot",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "IgosoEY4UOI",
+      "name": "\"Clever, soulful crime thriller\" Financial Times.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "agcmwQorm1c",
+      "name": "Pulses Raising",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "SSJ3k-UQNjU",
+      "name": "Guess That Sound",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "7Xj_JNqeQz8",
+      "name": "Lip Reading Challenge",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "rGOrfAHNTx4",
+      "name": "The Movie Everyone Is Talking About",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "8rnPbJpxoDg",
+      "name": "Favorite Scene",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "KRLIqnr6ktg",
+      "name": "In UK Cinemas tomorrow.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "6wu97zVKyIA",
+      "name": "Certified Fresh",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "BbQ5yQZ7X_g",
+      "name": "Interview with Leo Woodall",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "F-KV25f_Zms",
+      "name": "In A Word",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "gMtYV2cF7w8",
+      "name": "Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "8L5EeGNFiMM",
+      "name": "Poetry in Motion",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "cS2rSbYucYY",
+      "name": "People Are Talking",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "xLvNvSYNWbE",
+      "name": "Daniel Roher | MUBI Picks at Posteritati",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "TX3D2nKAkLs",
+      "name": "NYC Screening Sizzle",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "SJ5otPv9v3U",
+      "name": "Meet the Niki.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "NqIxAlsNpiQ",
+      "name": "Now Playing in NY & LA",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "lxGC8Ss0y0Y",
+      "name": "A Look Inside with Director Daniel Roher",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "b9gvM2xIqCg",
+      "name": "Chopsticks",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "A906izqXsnE",
+      "name": "Leo Woodall and Dustin Hoffman star in pitch-perfect heist thriller, Tuner.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "a0DBzca_Pm0",
+      "name": "Certified Fresh",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "iEud_-yDiuE",
+      "name": "The Drop",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "AXXCnJfBUmc",
+      "name": "Harmony",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Rl3iYevWLYg",
+      "name": "Sound",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "LjRDfd3vaKU",
+      "name": "scene breakdown",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "-77jB32rOSc",
+      "name": "Top Tracks",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "cNPXWUdBlJ0",
+      "name": "Ruthie",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "fLUjlhk0-88",
+      "name": "get tickets",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "d8Qubxopfms",
+      "name": "Have you got your tickets for TUNER? Hear what audiences are saying following a Dazed preview.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "P_s7DqFbyXU",
+      "name": "Special Screening with Leo & Havana",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Qm2V8B3Tfl4",
+      "name": "Trouble",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Wlu6Qhx_gyU",
+      "name": "Tickets on sale now.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "gtmxsZagUSM",
+      "name": "In Cinemas soon",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "o0ToNiME_wE",
+      "name": "Record Store Day",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "HYxzyLVJORA",
+      "name": "Tuner - OFFICIAL TRAILER",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "-uM6JLdGBhA",
+      "name": "Tuner | Clip | Leo Woodall, Dustin Hoffman, Havana Rose Liu",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "9_cmOrubMSU",
+      "name": "“Diner” Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "XiehvETTjTQ",
+      "name": "TUNER Trailer 4K (2026) | Leo Woodall, Havana Rose Liu, Dustin Hoffman, Jean Reno | Crime, Thriller",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "zW1cRf5X8Hk",
+      "name": "TUNER | Official Trailer HD",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "rdlOZhl-nSA",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "wCq_bgf4OYg",
+      "name": "Leo Woodall reveals Tuner as this year’s Surprise Film at LFF",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 627,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1340206-tuner/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2303,
+          "logoPath": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "id": 2616,
+          "logoPath": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+          "name": "Paramount Plus Essential"
+        },
+        {
+          "id": 582,
+          "logoPath": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        },
+        {
+          "id": 633,
+          "logoPath": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+          "name": "Paramount+ Roku Premium Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1340206-tuner/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

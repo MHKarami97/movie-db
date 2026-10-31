@@ -1,0 +1,239 @@
+{
+  "backdropPath": "/9GnoKfvrLBmuAchlDzxAQmz1kzF.jpg",
+  "cast": [
+    {
+      "character": "Isabel Haynes",
+      "id": 22082,
+      "name": "Lacey Chabert",
+      "profilePath": "/1q9Xe7QVi5oayhPMEiRPgd6FFKG.jpg"
+    },
+    {
+      "character": "Jason Duncan",
+      "id": 134673,
+      "name": "Andrew W. Walker",
+      "profilePath": "/iff2n02XlPjZKJrjIoocWcTec7y.jpg"
+    },
+    {
+      "character": "Charlie Duncan",
+      "id": 2538431,
+      "name": "Cadence Compton",
+      "profilePath": "/uZLnQAaz4BFqb5mqueQar1rRoxy.jpg"
+    },
+    {
+      "character": "Rudolph Sweitzer",
+      "id": 33355,
+      "name": "Steve Bacic",
+      "profilePath": "/aGEGpzzXuggaLCU0wTaVHbBdYYu.jpg"
+    },
+    {
+      "character": "Heidi",
+      "id": 1746177,
+      "name": "Louriza Tronco",
+      "profilePath": "/taqxXukoTRHmn6SieJwOys91QaF.jpg"
+    },
+    {
+      "character": "Wanda",
+      "id": 62716,
+      "name": "BJ Harrison",
+      "profilePath": "/kw3KgdTMCgonWfVQcYiQe7hXYnM.jpg"
+    },
+    {
+      "character": "Giuseppe",
+      "id": 1882593,
+      "name": "Alessandro Miro",
+      "profilePath": "/yw4UB5cvGygfus4JpSgPpPZFcPq.jpg"
+    },
+    {
+      "character": "Santa",
+      "id": 1366511,
+      "name": "Dax Belanger",
+      "profilePath": null
+    },
+    {
+      "character": "Jimbo",
+      "id": 1813360,
+      "name": "Francisco Trujillo Avalos-Davidson",
+      "profilePath": "/ex5k6zqfNtCahwwLswWrzXKtRzd.jpg"
+    },
+    {
+      "character": "Santa Impersonator",
+      "id": 1216707,
+      "name": "Kurt Long",
+      "profilePath": "/mIkFooEOxYU0AG26RFGWEb9CtEV.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 53015,
+      "logoPath": "/tWxubAjwO1QtLLWdnUR1bjS1vvf.png",
+      "name": "Hallmark Media"
+    },
+    {
+      "id": 3958,
+      "logoPath": "/xkdYNmOW6e4gjgp4NSLRt0W5UIj.png",
+      "name": "Front Street Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38354965"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1516208,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "She's Making a List",
+  "overview": "Naughty or Nice inspector Isabel Haynes doesn’t anticipate anything out of the ordinary when she’s assigned to evaluate 11-year-old Charlie Duncan. However, soon, Isabel falls for Charlie’s widowed father Jason, which makes her question the rigid rules of her job. As Christmas approaches, Isabel must choose between following the holiday algorithm or following her heart.",
+  "posterPath": "/rpqNhO6PtTrBsuEh10O3rAVWDg1.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2025-12-06"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "She's Making a List",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Ky-StLOMr1s",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 18,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1516208-she-s-making-a-list/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 290,
+          "logoPath": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "id": 2058,
+          "logoPath": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "id": 1746,
+          "logoPath": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1516208-she-s-making-a-list/watch?locale=US",
+      "rent": []
+    }
+  }
+}

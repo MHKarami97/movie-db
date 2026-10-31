@@ -1,0 +1,244 @@
+{
+  "backdropPath": "/s4ZnPpSVJwtq8sclFuYz5zYQLeS.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 23451,
+      "logoPath": "/etKVcIPvGwznZ8oLbKQjmVIvLIb.png",
+      "name": "Polyphon"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "1981-11-22",
+  "episodes": {
+    "2": [],
+    "5": [
+      {
+        "airDate": "1992-12-26",
+        "episodeNumber": 19,
+        "name": "Episode 19",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "1993-02-07",
+        "episodeNumber": 20,
+        "name": "Episode 20",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "1993-04-12",
+        "episodeNumber": 21,
+        "name": "Episode 21",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ],
+    "12": [
+      {
+        "airDate": "1999-12-26",
+        "episodeNumber": 34,
+        "name": "Episode 34",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2000-01-01",
+        "episodeNumber": 35,
+        "name": "Episode 35",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2000-02-13",
+        "episodeNumber": 36,
+        "name": "Episode 36",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ],
+    "13": [
+      {
+        "airDate": "2000-12-10",
+        "episodeNumber": 37,
+        "name": "Episode 37",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2000-12-26",
+        "episodeNumber": 38,
+        "name": "Episode 38",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2001-01-01",
+        "episodeNumber": 39,
+        "name": "Episode 39",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt0207932",
+    "wikidataId": "Q370296"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 21116,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-04-05",
+    "episodeNumber": 109,
+    "id": 7089908,
+    "name": "Episode 109",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-22",
+    "episodeNumber": 110,
+    "id": 7799569,
+    "name": "Episode 110",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Das Traumschiff",
+  "overview": "The series is about a cruise ship that travels to places around the world.",
+  "posterPath": "/6Jb2jvnbly0E0xLvpTCLsr9wD2O.jpg",
+  "rating": 5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1981-11-22",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1981-11-22",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1981-11-22",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1981-11-22",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1981-11-22"
+    },
+    "CN": {
+      "tv": "1981-11-22"
+    },
+    "GB": {
+      "tv": "1981-11-22"
+    },
+    "US": {
+      "tv": "1981-11-22"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "1986-11-30",
+      "episodeCount": 27,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/a15ZOW77D0ZPvMRkQjhFlWiwmQJ.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1981-11-22",
+      "episodeCount": 112,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/byfqJsqzx1AagUvMO3y9pZ0nRoC.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": null,
+      "episodeCount": 3,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": null,
+      "episodeCount": 3,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": null,
+      "episodeCount": 3,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Das Traumschiff",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 17,
+  "watchProviders": {}
+}

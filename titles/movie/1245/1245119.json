@@ -1,0 +1,199 @@
+{
+  "backdropPath": "/mlJoaocwe4yopxastL9ki8vKSy1.jpg",
+  "cast": [
+    {
+      "character": "Sergiu Celibidache (young adult)",
+      "id": 224167,
+      "name": "Ben Schnetzer",
+      "profilePath": "/drpFFDyWj2jeoX5I1D1WhUfcCCx.jpg"
+    },
+    {
+      "character": "Sergiu Celibidache",
+      "id": 6949,
+      "name": "John Malkovich",
+      "profilePath": "/7GoOdGNc4ra1L0F5nJTkmIB37iu.jpg"
+    },
+    {
+      "character": "Demostene Celibidache",
+      "id": 48,
+      "name": "Sean Bean",
+      "profilePath": "/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
+    },
+    {
+      "character": "Ioana Celibidache",
+      "id": 8436,
+      "name": "Miranda Richardson",
+      "profilePath": "/2IEW3fxqHb4AHBl5xU8JuipJbNK.jpg"
+    },
+    {
+      "character": "Ioana Celibidache (young adult)",
+      "id": 1392625,
+      "name": "Kate Phillips",
+      "profilePath": "/b8u5SAMAg0p1x7D4wXbr8F1JWJT.jpg"
+    },
+    {
+      "character": "Martin Steinke",
+      "id": 27397,
+      "name": "Anton Lesser",
+      "profilePath": "/x0lmqgkmphvOCSTHk2oxsaxA9Ra.jpg"
+    },
+    {
+      "character": "Ortancia",
+      "id": 36672,
+      "name": "Tamzin Merchant",
+      "profilePath": "/ghXLBqOWfaWWbTeoKHdVr3W4RV4.jpg"
+    },
+    {
+      "character": "Miki",
+      "id": 142389,
+      "name": "Charlie Rowe",
+      "profilePath": "/fy32UYAHB7gbK30m0O0mdDbYX1d.jpg"
+    },
+    {
+      "character": "Sergiu Celibidache (teen)",
+      "id": 4014756,
+      "name": "Ewan Horrocks",
+      "profilePath": "/lICEEZLfIKtVaTCGfzLh1ZVlvES.jpg"
+    },
+    {
+      "character": "Sonia Celibidache",
+      "id": 1347006,
+      "name": "Olivia Popica",
+      "profilePath": "/pN2zo0l83Vu1K70YKHYhA2pPJeB.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 157830,
+      "logoPath": "/f2lSAmhtAgcrBExmyuMWB6vPpo5.png",
+      "name": "Avanpost"
+    },
+    {
+      "id": 220858,
+      "logoPath": null,
+      "name": "Celi Films"
+    },
+    {
+      "id": 96143,
+      "logoPath": null,
+      "name": "Oblique Media Film"
+    },
+    {
+      "id": 220859,
+      "logoPath": null,
+      "name": "Saleframe VFX"
+    }
+  ],
+  "countries": [
+    {
+      "code": "RO",
+      "name": "Romania"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "facebookId": "CravataGalbena.filmul",
+    "imdbId": "tt5335774",
+    "instagramId": "cravatagalbena_filmul",
+    "wikidataId": "Q108585934"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "id": 1245119,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    },
+    {
+      "code": "he",
+      "name": "Hebrew"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italian"
+    },
+    {
+      "code": "ro",
+      "name": "Romanian"
+    }
+  ],
+  "originalTitle": "Cravata galbenă",
+  "overview": "The extraordinary life of Sergiu Celibidache, from his childhood in Romania to his exile in pursuit of a career in music, his struggle for survival in wartime Germany and his rise, fall and rise again, in an unimaginable life journey.",
+  "posterPath": "/tkCQjcvLKG5HhvVyqkNriifLgLW.jpg",
+  "rating": 8.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-09"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-10-09"
+    }
+  },
+  "runtime": 145,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Greatness comes at a cost.",
+  "theatricalDate": "2026-10-09",
+  "title": "The Yellow Tie",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "2BhecPoz6bU",
+      "name": "UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "2PypbMOUULA",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 22,
+  "watchProviders": {}
+}

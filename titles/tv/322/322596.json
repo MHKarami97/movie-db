@@ -1,0 +1,145 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Yoon Ok-hee",
+      "id": 1572354,
+      "name": "Lee Jung-eun",
+      "profilePath": "/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
+    },
+    {
+      "character": "Kang Eun-ho",
+      "id": 1326874,
+      "name": "Sooyoung Choi",
+      "profilePath": "/ttti8CMjJzevHQFkIubJDDy7YDK.jpg"
+    },
+    {
+      "character": "Kang Ji-cheol",
+      "id": 139515,
+      "name": "Lee Sung-jae",
+      "profilePath": "/nJRkgbl8rN4hQ1wrTy0RFRjNe8K.jpg"
+    },
+    {
+      "character": "Han Seung-woo",
+      "id": 1855432,
+      "name": "Jeon Seong-woo",
+      "profilePath": "/wpUQNHwwx6icC0zLdQQDruelvA8.jpg"
+    },
+    {
+      "character": "Kang Jun",
+      "id": 1499985,
+      "name": "Kang Seung-yoon",
+      "profilePath": "/kthB41TTnmwUuo3x12Bs5mcJl2B.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2027-02-13",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-02-13",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-14",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 322596,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-02-13",
+    "episodeNumber": 1,
+    "id": 7274588,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "학교 다녀왔습니다",
+  "overview": "The story of a nosy mother who belatedly enrolls in college and redesigns the second act of her life.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-02-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-02-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-02-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-02-13",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-02-13"
+    },
+    "CN": {
+      "tv": "2027-02-13"
+    },
+    "GB": {
+      "tv": "2027-02-13"
+    },
+    "US": {
+      "tv": "2027-02-13"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-02-13",
+      "episodeCount": 2,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "I Went to School",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

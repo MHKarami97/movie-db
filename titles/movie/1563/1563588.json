@@ -1,0 +1,202 @@
+{
+  "backdropPath": "/7dvto6jc3R9w46uphDkupiLvqnv.jpg",
+  "cast": [
+    {
+      "character": "Jorge Silva",
+      "id": 2110671,
+      "name": "Nicolás Zárate",
+      "profilePath": "/i7qnRAdThCKcPHdlNHUgoxt7VS9.jpg"
+    },
+    {
+      "character": "Colonel Soler",
+      "id": 590990,
+      "name": "Boris Quercia",
+      "profilePath": "/nVdMWfQzAPfTWYs6d8KwuxvaFHJ.jpg"
+    },
+    {
+      "character": "Colonel Jahn",
+      "id": 590883,
+      "name": "Marcial Tagle",
+      "profilePath": "/sveAdNSZir3JX6DAKUYIwA8dJZh.jpg"
+    },
+    {
+      "character": "Rosa",
+      "id": 2463676,
+      "name": "Catalina Stuardo",
+      "profilePath": null
+    },
+    {
+      "character": "Sargent Hernández",
+      "id": 3334650,
+      "name": "Arón Hernández",
+      "profilePath": "/iIcWxJ8znt5P39JqtHFH3rVGgGr.jpg"
+    },
+    {
+      "character": "Felipe Agüero Piwonka",
+      "id": 4648476,
+      "name": "Taiu Braver Iosovich",
+      "profilePath": null
+    },
+    {
+      "character": "Caporal Mujica",
+      "id": 6291452,
+      "name": "Juan Cano",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 102588,
+      "logoPath": "/3ML7UUJVzezPczLT07sFXiDgBDT.png",
+      "name": "Villano"
+    },
+    {
+      "id": 134957,
+      "logoPath": "/wlb2BDyBON3qg9Zr88RiODWni31.png",
+      "name": "Brava Cine"
+    },
+    {
+      "id": 185794,
+      "logoPath": "/i597IUv41oBlFqOMOoe74Ebxdvk.png",
+      "name": "Rain Dogs"
+    },
+    {
+      "id": 239069,
+      "logoPath": null,
+      "name": "Caravan"
+    },
+    {
+      "id": 57324,
+      "logoPath": "/tFBKZTT2B3Tbe2DIiYxp2IUH7hE.png",
+      "name": "Berta Film"
+    },
+    {
+      "id": 75686,
+      "logoPath": "/edyWZcduu9EC9Mr4v8TK8Mhhqxj.png",
+      "name": "Televisión Nacional de Chile"
+    },
+    {
+      "id": 19026,
+      "logoPath": null,
+      "name": "Corfo"
+    },
+    {
+      "id": 6458,
+      "logoPath": "/eT4oMUK7ODM0vvZue8yq3Ojwqf8.png",
+      "name": "INCAA"
+    },
+    {
+      "id": 296698,
+      "logoPath": null,
+      "name": "Mendoza Film Commission"
+    },
+    {
+      "id": 65091,
+      "logoPath": "/7D7JB71JEiWigcRwkUawvukMocx.png",
+      "name": "Programa Ibermedia"
+    },
+    {
+      "id": 14016,
+      "logoPath": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CL",
+      "name": "Chile"
+    },
+    {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37664358",
+    "wikidataId": "Q138431022"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1563588,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Hangar Rojo",
+  "overview": "Chile, 1973. The military coup will force Jorge Silva, an Air Force captain, to face the unfolding horror. Inside a military base, he must choose between becoming part of the repression or helping those fighting to stay alive.",
+  "posterPath": "/9s3ZMPt7IpxN7CvfqegDK5EWsUa.jpg",
+  "rating": 8.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-06-14"
+    },
+    "GB": {
+      "premiere": "2026-06-01"
+    },
+    "US": {
+      "premiere": "2026-04-12"
+    }
+  },
+  "runtime": 81,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Red Hangar",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "XT0Dd_ZUj9g",
+      "name": "Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 17,
+  "watchProviders": {}
+}

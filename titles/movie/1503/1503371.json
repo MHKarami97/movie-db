@@ -1,0 +1,192 @@
+{
+  "backdropPath": "/cE5J31SeLd96MNaHWMRtWNACnRN.jpg",
+  "cast": [
+    {
+      "character": "Gemma",
+      "id": 31838,
+      "name": "Danielle Panabaker",
+      "profilePath": "/faX0EDc44GL5ZcsEcxTOBcfWpCP.jpg"
+    },
+    {
+      "character": "Nick",
+      "id": 43265,
+      "name": "Corey Sevier",
+      "profilePath": "/wKt1pHZ5Q6kgkmZsNz53lNPzLR3.jpg"
+    },
+    {
+      "character": "Enzo",
+      "id": 3535405,
+      "name": "Brendan Morgan",
+      "profilePath": "/6eqJShDBTzGobdJUBFp0dB9IQuy.jpg"
+    },
+    {
+      "character": "Helen",
+      "id": 3807840,
+      "name": "Jocelyn Chugg",
+      "profilePath": "/1lZ54v9UeulZMIgdUlilzlY9JOF.jpg"
+    },
+    {
+      "character": "Calvin (Uncredited)",
+      "id": 1432636,
+      "name": "Ari Rombough",
+      "profilePath": "/FWajBc2mzaGMKKFHC6iokxenUm.jpg"
+    },
+    {
+      "character": "Leslie",
+      "id": 1073006,
+      "name": "Barb Mitchell",
+      "profilePath": "/e0gQf88ZVJmlIjfGB79sP33QOH1.jpg"
+    },
+    {
+      "character": "Barbara",
+      "id": 4249989,
+      "name": "Davina Stewart",
+      "profilePath": null
+    },
+    {
+      "character": "Madame Morgana",
+      "id": 1668925,
+      "name": "Catherine Gell",
+      "profilePath": "/gYlLjHxEHtM5SIaQXk9wIjSTJYf.jpg"
+    },
+    {
+      "character": "Birthday Girl",
+      "id": 3228854,
+      "name": "Adeline Pearce",
+      "profilePath": null
+    },
+    {
+      "character": "Waitress (Dive bar)",
+      "id": 5727833,
+      "name": "Maya Baker",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 32185,
+      "logoPath": "/yeOKSwpoVWvntT6LT1kbrEA94dt.png",
+      "name": "Bell Media"
+    },
+    {
+      "id": 266212,
+      "logoPath": null,
+      "name": "Harlequin Studios"
+    },
+    {
+      "id": 218482,
+      "logoPath": "/hEpcdJ4O6eitG9ADSnDXNUrlovS.png",
+      "name": "The CW"
+    },
+    {
+      "id": 124756,
+      "logoPath": "/464kIonX9LVW2oaygXrIeYLHcoo.png",
+      "name": "Neshama Entertainment"
+    },
+    {
+      "id": 266211,
+      "logoPath": null,
+      "name": "Centinel Media"
+    },
+    {
+      "id": 121813,
+      "logoPath": "/7OwtRpQAFKU3KWA7InBg3h3PxqI.png",
+      "name": "Fremantle"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33630559"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1503371,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Second Guessing Fate",
+  "overview": "Gemma has given up on dating until a fortune teller predicts she's one last horrible date away from true love. When she goes on a date with Nick, anything and everything goes wrong, including crashing her car into a handsome and wealthy stranger.",
+  "posterPath": "/5qtu4C3SqM712R9unVpgbTAESX5.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2025-11-23"
+    }
+  },
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Second Guessing Fate",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 83,
+          "logoPath": "/6fcYLKQIjGnrswtH7WxjjoSiyy3.png",
+          "name": "The CW"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1503371-second-guessing-fate/watch?locale=US",
+      "rent": []
+    }
+  }
+}

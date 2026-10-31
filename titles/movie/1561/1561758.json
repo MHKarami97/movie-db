@@ -1,0 +1,201 @@
+{
+  "backdropPath": "/8PK61ixYoSX3kXWyCMH4ats79k4.jpg",
+  "cast": [
+    {
+      "character": "Halina Madej",
+      "id": 236453,
+      "name": "Anna Seniuk",
+      "profilePath": "/n6Wk3ddgUxDOgA0n1hRWge2KORb.jpg"
+    },
+    {
+      "character": "Jan Perzyna",
+      "id": 1387,
+      "name": "Artur Barciś",
+      "profilePath": "/n6DVAasjjJA6TtXygonn7GRcziB.jpg"
+    },
+    {
+      "character": "Wojtek Kurzak",
+      "id": 2200925,
+      "name": "Filip Gurłacz",
+      "profilePath": "/jVoSuORh1CcIlAvXAQife0tTGwX.jpg"
+    },
+    {
+      "character": "",
+      "id": 945094,
+      "name": "Joanna Trzepiecińska",
+      "profilePath": "/8nFIJcoVz6YX2fbMfhk1v41hXhZ.jpg"
+    },
+    {
+      "character": "Oliwia Madej",
+      "id": 2309286,
+      "name": "Anna Szymańczyk",
+      "profilePath": "/7855u4AOw6QlnU9yAYluurpyD37.jpg"
+    },
+    {
+      "character": "Adam Wolak",
+      "id": 107636,
+      "name": "Cezary Żak",
+      "profilePath": "/futKJUJvkgd2NZC1rFsojmhK2or.jpg"
+    },
+    {
+      "character": "Kuba Wolak",
+      "id": 1613070,
+      "name": "Mateusz Janicki",
+      "profilePath": "/kDOuuvQ9XhJzcBhEFWyS1TAAt4F.jpg"
+    },
+    {
+      "character": "",
+      "id": 107865,
+      "name": "Wiktor Zborowski",
+      "profilePath": "/5ehaVgrIBh73wK50hZyv4wkPFzZ.jpg"
+    },
+    {
+      "character": "",
+      "id": 227746,
+      "name": "Piotr Pręgowski",
+      "profilePath": "/qxFyhSDeqftPZpFlYTDVEojOLGI.jpg"
+    },
+    {
+      "character": "Wieśka",
+      "id": 1138907,
+      "name": "Paulina Holtz",
+      "profilePath": "/a8eEBcNApsVggHQRBM0krXULbmZ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 201766,
+      "logoPath": "/xSKhGZAUh0sL6kD52iIw4ZhElpO.png",
+      "name": "ZPR Media Film & TV"
+    }
+  ],
+  "countries": [
+    {
+      "code": "PL",
+      "name": "Poland"
+    }
+  ],
+  "digitalDate": "2026-04-01",
+  "externalIds": {
+    "imdbId": "tt38681815"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1561758,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "pl",
+      "name": "Polish"
+    }
+  ],
+  "originalTitle": "Podlasie",
+  "overview": "When financial trouble forces Halina to call off her wedding, her friends and family decide to hatch a wild plan to bring in tourist money.",
+  "posterPath": "/znUVVJh0WSCHAhiJ6Att5qhmAzG.jpg",
+  "rating": 5.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-04-01"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "It Takes a Village",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 18,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1561758-podlasie/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1561758-podlasie/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1561758-podlasie/watch?locale=US",
+      "rent": []
+    }
+  }
+}

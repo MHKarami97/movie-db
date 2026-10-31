@@ -1,0 +1,210 @@
+{
+  "backdropPath": "/rVFW91FgYbya2Jeuu6MKhbwtawJ.jpg",
+  "cast": [
+    {
+      "character": "Sue",
+      "id": 53891,
+      "name": "Najarra Townsend",
+      "profilePath": "/sncP55xW6cXWr0CeFL3PRJ6Bn0D.jpg"
+    },
+    {
+      "character": "James",
+      "id": 1085939,
+      "name": "David Wayman",
+      "profilePath": "/M5U57NeWvj143cMIQSCdOEAFpp.jpg"
+    },
+    {
+      "character": "Cass",
+      "id": 2573936,
+      "name": "Mariah Nonnemacher",
+      "profilePath": null
+    },
+    {
+      "character": "Dan",
+      "id": 3243391,
+      "name": "Durassie Kiangangu",
+      "profilePath": "/aKGjaLj00IviD9Naj0axHh2V8tw.jpg"
+    },
+    {
+      "character": "Sarah",
+      "id": 3976659,
+      "name": "Amelie Edwards",
+      "profilePath": null
+    },
+    {
+      "character": "Nes",
+      "id": 3634443,
+      "name": "Nobuse Jnr Uwaifo",
+      "profilePath": null
+    },
+    {
+      "character": "Kit",
+      "id": 2969831,
+      "name": "Patrick Shearer",
+      "profilePath": "/1Rg8VrCGwrh9d9PTm9EwReivp4k.jpg"
+    },
+    {
+      "character": "Julia",
+      "id": 5257087,
+      "name": "Jasmine Clark",
+      "profilePath": null
+    },
+    {
+      "character": "Mark",
+      "id": 4166478,
+      "name": "Charlie Rich",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 29702,
+      "logoPath": null,
+      "name": "Old Jim Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-03-06",
+  "externalIds": {
+    "imdbId": "tt18375626",
+    "wikidataId": "Q138660620"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1436835,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "NFT: Cursed Images",
+  "overview": "A group of crypto savvy friends begin experiencing strange occurrences after buying into a cursed NFT collection.",
+  "posterPath": "/7H7Aqun1GTiMAtlE6Z2DnwxUbo2.jpg",
+  "rating": 3.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-03-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-06",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-03-06"
+    },
+    "US": {
+      "digital": "2026-03-06"
+    }
+  },
+  "runtime": 73,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "You are NGMI.",
+  "theatricalDate": null,
+  "title": "NFT: Cursed Images",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "oswXX2wYN-Y",
+      "name": "Official Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "Oo5xrPGzXag",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "2GltSC4rGcY",
+      "name": "NFT - NEW Crypto Horror Movie TRAILER",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "free": [
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1436835-nft-cursed-images/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

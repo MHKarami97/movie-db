@@ -1,0 +1,123 @@
+{
+  "backdropPath": "/9R15wIAjPnZqZkP1bZtTAGS7uT7.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 108085,
+      "logoPath": null,
+      "name": "Del Barrio Producciones"
+    },
+    {
+      "id": 160763,
+      "logoPath": null,
+      "name": "América Televisión"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2025-04-01",
+  "externalIds": {
+    "imdbId": "tt36283938",
+    "wikidataId": "Q133781543"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 287618,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-27",
+    "episodeNumber": 83,
+    "id": 6381250,
+    "name": "Episode 83",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-03",
+    "episodeNumber": 84,
+    "id": 6381252,
+    "name": "Episode 84",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Eres Mi Sangre",
+  "overview": "",
+  "posterPath": "/4yUw43LNRQKdaxToJVb4lDdfqqj.jpg",
+  "rating": 8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-04-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2025-04-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-04-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-04-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2025-04-01"
+    },
+    "CN": {
+      "tv": "2025-04-01"
+    },
+    "GB": {
+      "tv": "2025-04-01"
+    },
+    "US": {
+      "tv": "2025-04-01"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2025-04-01",
+      "episodeCount": 120,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Eres Mi Sangre",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 2,
+  "watchProviders": {}
+}

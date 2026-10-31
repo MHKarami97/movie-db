@@ -1,0 +1,151 @@
+{
+  "backdropPath": "/kRlYXEFORGxWlqfNPOrGvUqeDLw.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 2051375,
+      "name": "Chris Fleming",
+      "profilePath": "/qahUJqkMc2DrLOT88CaPUx4XCLl.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 290803,
+      "logoPath": null,
+      "name": "DePiglio"
+    },
+    {
+      "id": 109829,
+      "logoPath": "/wW1hvmA2edFqjJaoWMK4GChFnpE.png",
+      "name": "Irony Point"
+    },
+    {
+      "id": 65126,
+      "logoPath": null,
+      "name": "Conaco"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-02-27",
+  "externalIds": {
+    "imdbId": "tt39765131"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1632879,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Chris Fleming: Live at The Palace",
+  "overview": "From the Cadillac Palace Theatre in Chicago, comedian Chris Fleming bursts onto the screen with a fun and lighthearted blend of skillful storytelling and wild physicality in his first HBO stand-up special. A high-energy performer who seamlessly pivots from one everyday topic to another – from Trader Joe’s to Oreos, NPR, and dog breeds – Fleming bounds across the stage as he shares his unique takes on masculinity, conga lines, and more.",
+  "posterPath": "/uFLfgsKrdGJGny3i2nZ5ECBn4ZS.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-03-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-03-25"
+    },
+    "US": {
+      "digital": "2026-02-27",
+      "tv": "2026-02-27"
+    }
+  },
+  "runtime": 75,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Chris Fleming: Live at The Palace",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "AOLF150VR8Y",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1632879-chris-fleming-live-at-the-palace/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1632879-chris-fleming-live-at-the-palace/watch?locale=US",
+      "rent": []
+    }
+  }
+}

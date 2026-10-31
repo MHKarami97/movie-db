@@ -1,0 +1,360 @@
+{
+  "backdropPath": "/p1swd15DRtCnNj20U904dbXeVsi.jpg",
+  "cast": [
+    {
+      "character": "Mash Burnedead (voice)",
+      "id": 2279389,
+      "name": "Chiaki Kobayashi",
+      "profilePath": "/o0XZFXc50z28ICUpvfZ1QcTL2Yt.jpg"
+    },
+    {
+      "character": "Finn Ames (voice)",
+      "id": 2710568,
+      "name": "Reiji Kawashima",
+      "profilePath": "/tJriYA3tctzKP3ZnAwsxkey9iyU.jpg"
+    },
+    {
+      "character": "Lance Crown (voice)",
+      "id": 1324666,
+      "name": "Kaito Ishikawa",
+      "profilePath": "/fzjIkotjUHHs3wgftM9tqdsG8ph.jpg"
+    },
+    {
+      "character": "Dot Barrett (voice)",
+      "id": 1248374,
+      "name": "Takuya Eguchi",
+      "profilePath": "/hPPhUp0mM65Lc87Q8WXUEmGQAXx.jpg"
+    },
+    {
+      "character": "Lemon Irvine (voice)",
+      "id": 1452028,
+      "name": "Reina Ueda",
+      "profilePath": "/2WV61uVU7y6XGYqNHLMpP0sApdu.jpg"
+    },
+    {
+      "character": "Narration (voice)",
+      "id": 84505,
+      "name": "Hiroaki Hirata",
+      "profilePath": "/mMWEdlssJm3TVuXW4Wb7pQeX20Z.jpg"
+    },
+    {
+      "character": "Chichi Lance (voice)",
+      "id": 2920591,
+      "name": "Hiroshi Watanabe",
+      "profilePath": "/4DdXrVRosioqQklJDLy39eGsq9B.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 13113,
+      "logoPath": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+      "name": "A-1 Pictures"
+    },
+    {
+      "id": 2883,
+      "logoPath": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+      "name": "Aniplex"
+    },
+    {
+      "id": 189968,
+      "logoPath": "/lDGcesNvJp4s3ReoKVDTjtFCkIg.png",
+      "name": "INSPION EDGE"
+    },
+    {
+      "id": 2918,
+      "logoPath": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+      "name": "Shueisha"
+    },
+    {
+      "id": 162019,
+      "logoPath": "/inMGZK76HIbFhTnCGzVx39BMGzr.png",
+      "name": "ADK Marketing Solutions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2023-04-08",
+  "externalIds": {
+    "imdbId": "tt21209804",
+    "twitterId": "mashle_official",
+    "wikidataId": "Q115754239"
+  },
+  "fetchedAt": 1794424086332,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "id": 204832,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2024-03-30",
+    "episodeNumber": 24,
+    "id": 5048458,
+    "name": "Mash Burnedead and His Good Friends",
+    "overview": "Innocent Zero leaves a fusion of dead monster bodies that form a giant in his wake. Seeing Mash fight against this monster in a trapped, hopeless situation where all magic has become ineffective, the students from the school start to cheer him on.",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "マッシュル-MASHLE-",
+  "overview": "This is a world of magic where magic is used for everything. But deep in the forest exists a young man who spends his time training and bulking up. He can't use magic, but he enjoys a peaceful life with his father. But one day, his life is put in danger! Will his muscular body protect him from the magic users who are out to get him? Powerfully trained muscles crush magic as this abnormal magical fantasy begins!",
+  "posterPath": "/hfSh6ISwUvtvihITPMK6TPOWarK.jpg",
+  "rating": 8.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2023-04-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2023-04-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2023-04-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2023-04-08",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2023-04-08"
+    },
+    "CN": {
+      "tv": "2023-04-08"
+    },
+    "GB": {
+      "tv": "2023-04-08"
+    },
+    "US": {
+      "tv": "2023-04-08"
+    }
+  },
+  "runtime": 24,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2023-05-20",
+      "episodeCount": 15,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/kkpkjwIUmAkvctAMw0paAaMLLJN.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2023-04-08",
+      "episodeCount": 25,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/d4jnckGTUHUqAMo8Ayw2xaBoKc8.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "MASHLE: MAGIC AND MUSCLES",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "9rVKos-oGnQ",
+      "name": "S2 Opening | Bling-Bang-Bang-Born - Creepy Nuts",
+      "official": true,
+      "type": "Opening Credits"
+    },
+    {
+      "key": "u3X7rpAczgA",
+      "name": "“How to Build MASHLE” EPISODE 6: Masaru Yokoyama [Subtitled]",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "hxnl9nYl67k",
+      "name": "English Dub Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "zzOwbsN7x9I",
+      "name": "“How to Build MASHLE” EPISODE 5: Kaito Ishikawa [Subtitled]",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "O6GFH41RJMA",
+      "name": "“How to Build MASHLE” EPISODE 4: Reiji Kawashima [Subtitled]",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "Px8joYbt8To",
+      "name": "“How to Build MASHLE” EPISODE 3: Masaru Yokoyama [Subtitled]",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "2qph_bGG5yA",
+      "name": "“How to Build MASHLE” EPISODE 2: Reina Ueda [Subtitled]",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "OJMC3Qljaho",
+      "name": "The Voices of Mash Burnedead: Aleks Le x Chiaki Kobayashi [Subtitled]",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "ec9be19kB6k",
+      "name": "“How to Build MASHLE” EPISODE 1: Chiaki Kobayashi [Subtitled]",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "nVcH_rQSS_Y",
+      "name": "English Dub Character Teaser - Mash Burnedead",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "_ce5_P1Hj5A",
+      "name": "Main Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "AwQJLqJAUBI",
+      "name": "Teaser Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 694,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 283,
+          "logoPath": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+          "name": "Crunchyroll"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/204832-mashle/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 283,
+          "logoPath": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+          "name": "Crunchyroll"
+        },
+        {
+          "id": 1968,
+          "logoPath": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+          "name": "Crunchyroll Amazon Channel"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/204832-mashle/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        },
+        {
+          "id": 283,
+          "logoPath": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+          "name": "Crunchyroll"
+        },
+        {
+          "id": 1968,
+          "logoPath": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+          "name": "Crunchyroll Amazon Channel"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/204832-mashle/watch?locale=US",
+      "rent": []
+    }
+  }
+}

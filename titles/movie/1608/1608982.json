@@ -1,0 +1,199 @@
+{
+  "backdropPath": "/uiSaYXR0jLLWma0EPA1tcBhX6wT.jpg",
+  "cast": [
+    {
+      "character": "Siham Ghalib",
+      "id": 2761045,
+      "name": "Adhwa Fahad",
+      "profilePath": "/tNp5HctxW0VACOPVsn8sTp59262.jpg"
+    },
+    {
+      "character": "",
+      "id": 5955203,
+      "name": "Aseel Morya",
+      "profilePath": null
+    },
+    {
+      "character": "Marzouka",
+      "id": 4029607,
+      "name": "Aisha Al Rifaie",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 5955205,
+      "name": "Aseel Seraj",
+      "profilePath": null
+    },
+    {
+      "character": "Heba",
+      "id": 5056728,
+      "name": "Wafa Wafi",
+      "profilePath": "/bfWvl1XTlP02I0A2XMXN4HYAdKe.jpg"
+    },
+    {
+      "character": "",
+      "id": 5957931,
+      "name": "Modi Abdullah",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 5957936,
+      "name": "Asil Moria",
+      "profilePath": null
+    },
+    {
+      "character": "Wedad",
+      "id": 4443753,
+      "name": "Darin Al Bayed",
+      "profilePath": "/y0U78RxKrGq4k5AgxNGOBbZcNgA.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 259835,
+      "logoPath": "/vgMh4ILSaCUo6rVVWZ8VgSNwl58.png",
+      "name": "Ideation Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    }
+  ],
+  "digitalDate": "2026-01-22",
+  "externalIds": {
+    "imdbId": "tt36398562",
+    "wikidataId": "Q138011277"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1608982,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ar",
+      "name": "Arabic"
+    }
+  ],
+  "originalTitle": "جرس إنذار: الحفرة",
+  "overview": "Trapped in an underground pit during a storm, three students from an all-girls school must confront their personal conflicts as they fight to survive.",
+  "posterPath": "/iwZIR8wp1lqj69zsbWmZKhXTTIU.jpg",
+  "rating": 4.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-01-22",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-01-22",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-01-22",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-01-22"
+    },
+    "GB": {
+      "digital": "2026-01-22"
+    },
+    "US": {
+      "digital": "2026-01-22"
+    }
+  },
+  "runtime": 88,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "From the Ashes: The Pit",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "0Uc4M9JvL0g",
+      "name": "Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 25,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1608982/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1608982/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1608982/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "backdropPath": "/5IHYBbVG1qWv9oNjyh6ZRnn9ZFh.jpg",
+  "cast": [
+    {
+      "character": "Lærke",
+      "id": 1476834,
+      "name": "Josephine Park",
+      "profilePath": "/66GcXJ1Mb1GTpaUwSH0bQFsGiJJ.jpg"
+    },
+    {
+      "character": "Alex",
+      "id": 234907,
+      "name": "Dar Salim",
+      "profilePath": "/mqIH4exzdXXU47ykPohDTAkZ8tN.jpg"
+    },
+    {
+      "character": "Agnes",
+      "id": 1916142,
+      "name": "Josephine Chavarria Højbjerg",
+      "profilePath": "/vjPiFVqu0iCVaNToOlZRX0Dcayz.jpg"
+    },
+    {
+      "character": "Joan",
+      "id": 4458,
+      "name": "Paprika Steen",
+      "profilePath": "/c0OSsG2akVhYMOrCd3EYNGY4AuN.jpg"
+    },
+    {
+      "character": "Tom",
+      "id": 1184,
+      "name": "Anders W. Berthelsen",
+      "profilePath": "/yEaRQLSOTcGsVHCkKEusb6PfUCE.jpg"
+    },
+    {
+      "character": "Paula",
+      "id": 1651932,
+      "name": "Sara Jiménez",
+      "profilePath": "/cJEec4fkQfMfnIWji9MxHiXHJAz.jpg"
+    },
+    {
+      "character": "Kristian",
+      "id": 223684,
+      "name": "Sebastian Jessen",
+      "profilePath": "/yWd0O3P3YVieaSYpLmm9IqFPBJg.jpg"
+    },
+    {
+      "character": "",
+      "id": 1433478,
+      "name": "Lise Baastrup",
+      "profilePath": "/r5yz1NJ2YKadtp8ioAjDCorQWGx.jpg"
+    },
+    {
+      "character": "",
+      "id": 2785775,
+      "name": "Ninton Sánchez",
+      "profilePath": "/2hra5kOOw3Q7QwmYoympDIhdtqD.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 156866,
+      "logoPath": "/wlOL4m6hceuvuzoJiobXfFGa5TF.png",
+      "name": "Drive Studios"
+    },
+    {
+      "id": 95152,
+      "logoPath": "/9CjTf5DFIBYOz7VkUz8Glpb1D4s.png",
+      "name": "Rocket Road Pictures"
+    },
+    {
+      "id": 143164,
+      "logoPath": "/gUHRNTkRHBzHkS15Dx5KfZhbPbT.png",
+      "name": "Nordisk Film"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "digitalDate": "2025-11-07",
+  "externalIds": {
+    "imdbId": "tt33293169",
+    "wikidataId": "Q136659339"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1426792,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "da",
+      "name": "Danish"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Mango",
+  "overview": "An ambitious hotelier and her reluctant daughter take a trip to Málaga, where they find what they've been craving in a farmer's idyllic mango orchard.",
+  "posterPath": "/8aTla8ofmtJdfhInKyLTyZifA3k.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-11-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-11-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-07",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2025-11-07"
+    },
+    "GB": {
+      "digital": "2025-11-07"
+    },
+    "US": {
+      "digital": "2025-11-07"
+    }
+  },
+  "runtime": 96,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Mango",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "zO7uZiIhScs",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "eb27fWFaPkc",
+      "name": "Sneak Peek [Subtitled]",
+      "official": true,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 63,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1426792-mango/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1426792-mango/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1426792-mango/watch?locale=US",
+      "rent": []
+    }
+  }
+}

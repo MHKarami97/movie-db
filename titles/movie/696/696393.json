@@ -1,0 +1,464 @@
+{
+  "backdropPath": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
+  "cast": [
+    {
+      "character": "Naomi",
+      "id": 1335315,
+      "name": "Georgina Campbell",
+      "profilePath": "/kgXHKjI728Nv7FLVf38S9QzHU2n.jpg"
+    },
+    {
+      "character": "Teacake",
+      "id": 1467219,
+      "name": "Joe Keery",
+      "profilePath": "/ayIAVLMfZGEGIFwAo3pPnY7p59.jpg"
+    },
+    {
+      "character": "Robert Quinn",
+      "id": 3896,
+      "name": "Liam Neeson",
+      "profilePath": "/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+    },
+    {
+      "character": "Abigail",
+      "id": 1457454,
+      "name": "Ellora Torchia",
+      "profilePath": "/xGeOoLNne2U3rViaL8adlT7Hhpl.jpg"
+    },
+    {
+      "character": "Mary Rooney",
+      "id": 13333,
+      "name": "Vanessa Redgrave",
+      "profilePath": "/hBsjc7cW1DA0V6APwe3A7ESH3Lv.jpg"
+    },
+    {
+      "character": "Dr. Hero Martins",
+      "id": 1396124,
+      "name": "Sosie Bacon",
+      "profilePath": "/hMsjirweIK9wGuy49l52b8SnLuv.jpg"
+    },
+    {
+      "character": "Trini Romano",
+      "id": 72305,
+      "name": "Lesley Manville",
+      "profilePath": "/tioPlSoypjdME3oMu3g7XmgIIKS.jpg"
+    },
+    {
+      "character": "Wesley Jerabek",
+      "id": 3901,
+      "name": "Richard Brake",
+      "profilePath": "/JwsiErANShzPSdYsNoiNYdrSg1.jpg"
+    },
+    {
+      "character": "Mike Snyder",
+      "id": 1624770,
+      "name": "Aaron Heffernan",
+      "profilePath": "/KkE3C4DQM9GTRZoJT7VQPHlwi7.jpg"
+    },
+    {
+      "character": "Enos Namatjira",
+      "id": 1636490,
+      "name": "Rob Collins",
+      "profilePath": "/nXeiLbMGLCFcgTsTU6DxRSfXEsi.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 275988,
+      "logoPath": "/y4GU9rJyElzf58iSPtwhUSVegHU.png",
+      "name": "Pariah"
+    },
+    {
+      "id": 113521,
+      "logoPath": "/fWQ9uEqIKuPukxrbZEUIrkPRrjs.png",
+      "name": "StudioCanal UK"
+    },
+    {
+      "id": 218178,
+      "logoPath": "/fWQ9uEqIKuPukxrbZEUIrkPRrjs.png",
+      "name": "StudioCanal"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-03-06",
+  "externalIds": {
+    "imdbId": "tt8879928",
+    "instagramId": "coldstoragemovie",
+    "wikidataId": "Q117805784"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 21,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 696393,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Cold Storage",
+  "overview": "داستان دو کارمند ساده که در یک مرکز نگهداری اجناس در یک پایگاه نظامی تعطیل‌شده شب‌کاری می‌کنند. وقتی یک قارچ خطرناک و مسری که سال‌ها در اعماق زیرزمین نگه داشته شده بود آزاد می‌شود، آن‌ها باید با کمک یک متخصص سابق مرکز مبارزه با بیوتروریسم، برای نجات خود و شاید حتی بشریت تلاش کنند؛ یک شب پر از وحشت، خنده و هرج‌ومرج که هیچ‌کس انتظارش را ندارد!",
+  "posterPath": "/3HA2iiq982e01EKXJvPFyfMADVM.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-07-29",
+      "gapDays": 123,
+      "theatricalDate": "2026-03-28"
+    },
+    "GB": {
+      "digitalDate": "2026-03-06",
+      "gapDays": 14,
+      "theatricalDate": "2026-02-20"
+    },
+    "US": {
+      "digitalDate": "2026-03-06",
+      "gapDays": 21,
+      "theatricalDate": "2026-02-13"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "digital": "2026-07-29",
+      "theatrical": "2026-03-28"
+    },
+    "GB": {
+      "digital": "2026-03-06",
+      "theatrical": "2026-02-20"
+    },
+    "US": {
+      "digital": "2026-03-06",
+      "premiere": "2026-01-29",
+      "theatrical": "2026-02-13"
+    }
+  },
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "If it spreads, you're dead.",
+  "theatricalDate": "2026-02-13",
+  "title": "Cold Storage",
+  "translations": {
+    "faOverview": "داستان دو کارمند ساده که در یک مرکز نگهداری اجناس در یک پایگاه نظامی تعطیل‌شده شب‌کاری می‌کنند. وقتی یک قارچ خطرناک و مسری که سال‌ها در اعماق زیرزمین نگه داشته شده بود آزاد می‌شود، آن‌ها باید با کمک یک متخصص سابق مرکز مبارزه با بیوتروریسم، برای نجات خود و شاید حتی بشریت تلاش کنند؛ یک شب پر از وحشت، خنده و هرج‌ومرج که هیچ‌کس انتظارش را ندارد!",
+    "faTitle": "انبار سرد"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "PcfSjFlWjIQ",
+      "name": "Cold Storage is in cinemas now!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "2TnM6TRGgFc",
+      "name": "10 Minute Extended Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "dZpbZg9AChk",
+      "name": "Worst Work Day Ever",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "kOGzvxhSLnU",
+      "name": "🙀🙀🙀 Cold Storage is in US and UK theaters NOW",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "w0Ws_Fy90g8",
+      "name": "When the world's at stake, there's only one man for the job…",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "2tK_mUmhsGE",
+      "name": "We're here with more Teacake content.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "S8GwADOYrvA",
+      "name": "Naomi is *locked in*.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Twc_ukX0cho",
+      "name": "Weirdest first date ever?",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "CFclBZonh0I",
+      "name": "Save the date.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "jvwxQRdGgI4",
+      "name": "This one’s gonna take a while to bounce back from.",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "mHd4WWU8-1w",
+      "name": "'That is a Nuke' Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "BnO6JZI0Tfw",
+      "name": "'Fungus Fact or Fungus Fiction' with Joe Keery and Georgina Campbell",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "oxlVX5uvmsw",
+      "name": "One bad day can be contagious.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ShtqUNcl3vw",
+      "name": "Teacake And Naomi Meet Robert clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "UZZEYODTCy8",
+      "name": "we love our 🍵🍰",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "AzlfL1ehFEw",
+      "name": "Deer Explosion Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "W8whG_qLojQ",
+      "name": "'Down A Mine' with Joe Keery and Georgina Campbell",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "lBEU6NkF5RI",
+      "name": "'Call the F-ing Army' Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "5K13cnK71p4",
+      "name": "Their shift has hit the fan.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "L9biJQ3rn_8",
+      "name": "In UK cinemas February 20th",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "kea7gnh1uYA",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "cSeXZTKeHOI",
+      "name": "Official Teaser Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 858,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/696393-cold-storage/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2784,
+          "logoPath": "/aaFIYn2NGPCo0rpLiWokbvNqNJd.png",
+          "name": "JustWatch TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 583,
+          "logoPath": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+          "name": "MGM+ Amazon Channel"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 636,
+          "logoPath": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+          "name": "MGM Plus Roku Premium Channel"
+        },
+        {
+          "id": 34,
+          "logoPath": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+          "name": "MGM Plus"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        },
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/696393-cold-storage/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "backdropPath": "/ohlNSR8MsHk5e6fcAxqAJmcz4Sm.jpg",
+  "cast": [
+    {
+      "character": "Hanzala",
+      "id": 53650,
+      "name": "Anthony Mackie",
+      "profilePath": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg"
+    },
+    {
+      "character": "Princess Hind",
+      "id": 1257937,
+      "name": "Aiysha Hart",
+      "profilePath": "/ilIvkFvqgyDrlKpJwNcDpAITeNd.jpg"
+    },
+    {
+      "character": "Hani",
+      "id": 20667,
+      "name": "Sami Bouajila",
+      "profilePath": "/q903sFX1TVcFH7ySSRKbPhBTdS.jpg"
+    },
+    {
+      "character": "Jalabzeen",
+      "id": 82191,
+      "name": "Sharlto Copley",
+      "profilePath": "/em89OJJvBRX7kNJJPASmNKQujsC.jpg"
+    },
+    {
+      "character": "Emperor Kisra II",
+      "id": 2282,
+      "name": "Ben Kingsley",
+      "profilePath": "/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
+    },
+    {
+      "character": "King Numan",
+      "id": 70577,
+      "name": "Ghassan Massoud",
+      "profilePath": "/cJuAOuB6M8XortdpdZbz64VIImB.jpg"
+    },
+    {
+      "character": "Medicine Woman",
+      "id": 1563830,
+      "name": "Lamis Ammar",
+      "profilePath": "/qNWpwJOXepQaoIDs1zLly0caRJi.jpg"
+    },
+    {
+      "character": "Ibn Qabisah",
+      "id": 28031,
+      "name": "Ramsey Faragallah",
+      "profilePath": "/lxjwDvvfenkjUI1n8qwO13QmhEv.jpg"
+    },
+    {
+      "character": "Samir",
+      "id": 2256775,
+      "name": "Saïd Boumazoughe",
+      "profilePath": "/5aOxePnZD6X1rMYXueN7aKUl7u9.jpg"
+    },
+    {
+      "character": "Aasif",
+      "id": 1389576,
+      "name": "Younes Bouab",
+      "profilePath": "/vlZtenkbtcUB6nt6qyfRjYRzshR.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 145428,
+      "logoPath": "/dgUV94AxFEumfIICKEg5UdCCU3k.png",
+      "name": "MBC Studios"
+    },
+    {
+      "id": 124233,
+      "logoPath": null,
+      "name": "JB Pictures"
+    },
+    {
+      "id": 110799,
+      "logoPath": "/eHjtiQJjrGQTooEsBmPSYoUnNB.png",
+      "name": "AGC Studios"
+    },
+    {
+      "id": 299933,
+      "logoPath": null,
+      "name": "Studio Mechanical"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    }
+  ],
+  "digitalDate": "2026-05-26",
+  "externalIds": {
+    "facebookId": "desertwarriormovie",
+    "imdbId": "tt13570066",
+    "instagramId": "desertwarriormovie",
+    "wikidataId": "Q110903821"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 898704,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Desert Warrior",
+  "overview": "In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history.",
+  "posterPath": "/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-23"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-06-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-26",
+      "gapDays": 32,
+      "theatricalDate": "2026-04-24"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-04-23"
+    },
+    "GB": {
+      "digital": "2026-06-29"
+    },
+    "US": {
+      "digital": "2026-05-26",
+      "theatricalLimited": "2026-04-24"
+    }
+  },
+  "runtime": 127,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "One warrior must unite them all.",
+  "theatricalDate": "2026-04-24",
+  "title": "Desert Warrior",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "fraAGOuT3sA",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 56,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1715,
+          "logoPath": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+          "name": "Shahid VIP"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/898704-desert-warrior/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/898704-desert-warrior/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/898704-desert-warrior/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

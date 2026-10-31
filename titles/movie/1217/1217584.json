@@ -1,0 +1,166 @@
+{
+  "backdropPath": "/1I6QPJ2s6lch1WYO54Cv2j2Y8Z4.jpg",
+  "cast": [
+    {
+      "character": "José Luis Torrente",
+      "id": 10847,
+      "name": "Santiago Segura",
+      "profilePath": "/w5gSHzLWoivAN2g4z2yaxCSFyTY.jpg"
+    },
+    {
+      "character": "Cuco",
+      "id": 23215,
+      "name": "Gabino Diego",
+      "profilePath": "/qqAWyPU31uk6juPPP6YLHI6jr3a.jpg"
+    },
+    {
+      "character": "Pelayo",
+      "id": 114461,
+      "name": "Carlos Areces",
+      "profilePath": "/qoJz3KqgNvXUWD52b0SWX0oDplG.jpg"
+    },
+    {
+      "character": "Jacobo Carrascal",
+      "id": 275949,
+      "name": "Ramón Langa",
+      "profilePath": "/xqF6bJrJOOac88IVgPVVl3fX869.jpg"
+    },
+    {
+      "character": "Franki",
+      "id": 2588513,
+      "name": "Francisco Nicolás",
+      "profilePath": "/wJy4zi5dTwoz867vJ8hu0aKc9wf.jpg"
+    },
+    {
+      "character": "Santi",
+      "id": 3536432,
+      "name": "Willy Bárcenas",
+      "profilePath": "/rG7Lp2xoEMETd9TjJ5F3jDRX0XN.jpg"
+    },
+    {
+      "character": "Antoñito",
+      "id": 1423066,
+      "name": "Cañita Brava",
+      "profilePath": "/xOtzI94YZLjKRo73vgid7aH8UjG.jpg"
+    },
+    {
+      "character": "Manolito",
+      "id": 1042768,
+      "name": "José María Rubio",
+      "profilePath": "/8pxBddQcBw7qxDUfbD9ioTeuuMW.jpg"
+    },
+    {
+      "character": "Torrelavega",
+      "id": 1423073,
+      "name": "Xavier Deltell",
+      "profilePath": "/8JCBRGsTfqI5rWlj9JUyh2PU22H.jpg"
+    },
+    {
+      "character": "David",
+      "id": 1490500,
+      "name": "David Guapo",
+      "profilePath": "/zeZyXMdsYtt5kOCC89Ed2em7uQa.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 91991,
+      "logoPath": "/ngEpBkH7nkFfyCCtvGhhIzPS1xF.png",
+      "name": "Bowfinger"
+    },
+    {
+      "id": 281730,
+      "logoPath": "/udDPNCGoaOFah1VRTPKbCqoM5uK.png",
+      "name": "Atresmedia Cine"
+    },
+    {
+      "id": 7864,
+      "logoPath": "/l9efXIoHSP4jDw3YAz5mZZv0mKj.png",
+      "name": "Amiguetes Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37969901",
+    "wikidataId": "Q136410910"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1217584,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Torrente presidente",
+  "overview": "Years have passed since his last adventure, but José Luis Torrente, the most politically incorrect former cop in Spain, still sees himself as a national hero.",
+  "posterPath": "/yrDKwAdZRJjoQ9RZwzRGPpMC7U1.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 103,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Torrente for President",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "KYMXpCIRR1c",
+      "name": "Santiago Segura presenta TORRENTE PRESIDENTE. Solo en cines 13 de marzo.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "r38yTNAJO_g",
+      "name": "Vuelve la vergüenza del cine español... TORRENTE PRESIDENTE, solo en cines 13 de marzo.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "w72qB7eR5Gg",
+      "name": "Ya va siendo hora de que alguien tome las riendas de nuestro país... #TorrentePresidente, 13/03.",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 160,
+  "watchProviders": {}
+}

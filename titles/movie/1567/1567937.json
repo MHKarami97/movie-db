@@ -1,0 +1,172 @@
+{
+  "backdropPath": "/mm8VecTY7YxWevgS8F2ygqLMAiv.jpg",
+  "cast": [
+    {
+      "character": "Wan Ziqiang",
+      "id": 1743471,
+      "name": "Zhu Yilong",
+      "profilePath": "/6Xh8cVq1hHvKZjuN56d6LWnqFEi.jpg"
+    },
+    {
+      "character": "Qi Honggang",
+      "id": 2122379,
+      "name": "Tan Jianci",
+      "profilePath": "/wZVw3agRZwqTKeOr4q7wkMET9hJ.jpg"
+    },
+    {
+      "character": "Chen Huiyan",
+      "id": 56861,
+      "name": "Tony Leung Ka-fai",
+      "profilePath": "/sPDShFDtDx1pMNwHEx14o4WHrEH.jpg"
+    },
+    {
+      "character": "Luo Jiayuan",
+      "id": 1005911,
+      "name": "Michelle Wai Si-nga",
+      "profilePath": "/cnxcAvB38lisa74Iq43yRXKoc6X.jpg"
+    },
+    {
+      "character": "Li Huiru",
+      "id": 84205,
+      "name": "Kara Wai Ying-hung",
+      "profilePath": "/38Z4n6fkNme4hbcbpIGk1pdBzYt.jpg"
+    },
+    {
+      "character": "Guan Suchen",
+      "id": 1178843,
+      "name": "Selena Lee",
+      "profilePath": "/fHwTvf1qkwspkfPYEWP4rj1QKjE.jpg"
+    },
+    {
+      "character": "Rong Ge",
+      "id": 551605,
+      "name": "Ben Yuen Foo-wah",
+      "profilePath": "/XFt49WTIm48LRjsELMIaDozNLw.jpg"
+    },
+    {
+      "character": "Chang Weijie",
+      "id": 17382,
+      "name": "Ni Dahong",
+      "profilePath": "/4Eo2UHZTIyo6WU5I3zqIb60je9U.jpg"
+    },
+    {
+      "character": "Zhao Huanxin",
+      "id": 83696,
+      "name": "Cecilia Yip Tung",
+      "profilePath": "/10iQp4s5JUWG9ACpvHwOjFieV4Q.jpg"
+    },
+    {
+      "character": "Ding Feng",
+      "id": 106581,
+      "name": "Huang Jue",
+      "profilePath": "/nM34PRe6anyLwedKkoOcC4JNVIz.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 229987,
+      "logoPath": null,
+      "name": "广东珠影影视制作有限公司"
+    },
+    {
+      "id": 278203,
+      "logoPath": null,
+      "name": "广东联瑞木马影业有限公司"
+    },
+    {
+      "id": 131092,
+      "logoPath": "/dtsMvAgTenOlDWnqaa4pEovx6d5.png",
+      "name": "Zhejiang Hengdian Film Production"
+    },
+    {
+      "id": 130843,
+      "logoPath": "/uAoqbSIBGD0w28DkZdWPQrXmrX0.png",
+      "name": "Pearl River Film Group 珠江电影集团"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "digitalDate": "2026-10-23",
+  "externalIds": {
+    "imdbId": "tt38775487",
+    "wikidataId": "Q141080101"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 65,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1567937,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    },
+    {
+      "code": "cn",
+      "name": "Cantonese"
+    }
+  ],
+  "originalTitle": "空枪",
+  "overview": "In the early 1990s, this city of desire, once a land of opportunity, was plagued by rampant crime and a breakdown of order. Man Tsz-keung, a working-class man desperate to change his fate, meets flight attendant Lok Ka-yuen, and the two team up to rob a large sum of money. This success fuels Man Tsz-keung's madness, pushing him into a deeper power struggle with wealthy businessman Chan Fai-yin. Meanwhile, mainland police officer Qi Honggang and Hong Kong police officer Guan Suchen continue their investigation of Wan Ziqiang, leading to a joint operation between the two police forces, setting the stage for a clash between good and evil. This film is fictional.",
+  "posterPath": "/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-10-23",
+      "gapDays": 65,
+      "theatricalDate": "2026-08-19"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-25"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "digital": "2026-10-23",
+      "theatrical": "2026-08-19"
+    },
+    "GB": {
+      "theatrical": "2026-09-25"
+    }
+  },
+  "runtime": 160,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-08-19",
+  "title": "V",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 13,
+  "watchProviders": {}
+}

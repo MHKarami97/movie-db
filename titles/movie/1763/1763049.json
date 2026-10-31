@@ -1,0 +1,94 @@
+{
+  "backdropPath": "/iNkPN3MPdfRHf39cWK7Tf3SHB10.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 245427,
+      "logoPath": "/uER3lzCqcgITWaUAWO88JlW8rDR.png",
+      "name": "Long Holiday"
+    },
+    {
+      "id": 104327,
+      "logoPath": "/aYDyrMWGUfJ4cUq8pZnXd1DbEKI.png",
+      "name": "Felix Culpa"
+    },
+    {
+      "id": 223671,
+      "logoPath": "/pA8XPl75iffViINEgBYlpVwioOL.png",
+      "name": "Parkside Films"
+    },
+    {
+      "id": 256216,
+      "logoPath": null,
+      "name": "Voyager"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33430223"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1763049,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Under Fire",
+  "overview": "As a fire captain in Idaho, Rob has spent his life saving others. Now, with the help of an experimental therapy, he may just learn how to save himself.",
+  "posterPath": "/84QC1crk5n87LWyqKVpIrZqNgrW.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-11-12"
+    }
+  },
+  "runtime": 88,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Under Fire",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

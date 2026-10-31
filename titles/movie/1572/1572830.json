@@ -1,0 +1,138 @@
+{
+  "backdropPath": "/ajqlk7EGZVjjl4b5VrrQQUc6k7G.jpg",
+  "cast": [
+    {
+      "character": "Chen Guoliang",
+      "id": 939118,
+      "name": "Yang Haoyu",
+      "profilePath": "/ckiQnxLBzpHEl1hDpkMQcwZEySN.jpg"
+    },
+    {
+      "character": "Chen Tao",
+      "id": 4517641,
+      "name": "Zhan Xin",
+      "profilePath": null
+    },
+    {
+      "character": "Jiang Yuzhen",
+      "id": 2227790,
+      "name": "Liu Lin",
+      "profilePath": "/62SqxzF2YsvUtAPbEQsjpmxNRTR.jpg"
+    },
+    {
+      "character": "Examiner",
+      "id": 4554581,
+      "name": "Jeff Shi",
+      "profilePath": "/e2IDOIsyKGTMckaFdknjOp5Id2U.jpg"
+    },
+    {
+      "character": "Private Secretary",
+      "id": 3372839,
+      "name": "Liu Shou",
+      "profilePath": "/t30ntO7u7M5MHBzEl7eT1drmIgt.jpg"
+    },
+    {
+      "character": "Young Master Ke",
+      "id": 3145249,
+      "name": "Jerry Liu",
+      "profilePath": "/65nnjRtMbRQ2xKS1hA3QSXMREzU.jpg"
+    },
+    {
+      "character": "Director Zheng",
+      "id": 4549678,
+      "name": "Tu Dou",
+      "profilePath": "/7Jjy59rTBrrTTsulGRAldIGarLY.jpg"
+    },
+    {
+      "character": "Fang Bo",
+      "id": 3015157,
+      "name": "Song Tianshuo",
+      "profilePath": "/3wWntd8uI5upPj1zllh3P5sORad.jpg"
+    },
+    {
+      "character": "Editor Zhou",
+      "id": 4549672,
+      "name": "Ma Xudong",
+      "profilePath": "/xQcCnY0LngakQ10wjiTEqSaFroM.jpg"
+    },
+    {
+      "character": "Lu Ping",
+      "id": 2151704,
+      "name": "Zhang Xiaowan",
+      "profilePath": "/ntwjCmT7C3CTGcRp5OaX1MY6Jiw.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "digitalDate": "2026-09-10",
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": 70,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1572830,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "originalTitle": "不成功穿越指南",
+  "overview": "After failing in the big city, Chen Tao returns home and unexpectedly reunites with his deceased father through an old book, leading to whimsical adventures that heal their rift and inspire him to start anew.",
+  "posterPath": "/3ETbY1nV0vJIeoxiJslXon0Z9Q9.jpg",
+  "rating": 5.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-09-10",
+      "gapDays": 70,
+      "theatricalDate": "2026-07-02"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "digital": "2026-09-10",
+      "premiere": "2025-11-12",
+      "theatrical": "2026-07-02"
+    }
+  },
+  "runtime": 115,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-07-02",
+  "title": "Once Upon A Time",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {}
+}

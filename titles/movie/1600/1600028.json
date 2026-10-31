@@ -1,0 +1,179 @@
+{
+  "backdropPath": "/fIuuYkIjF9Q7W26YbIeKX5OWwiL.jpg",
+  "cast": [
+    {
+      "character": "Héctor",
+      "id": 1134885,
+      "name": "Omar Chaparro",
+      "profilePath": "/fAIDrbtyHBcDDbRdRZ3bvNesKU7.jpg"
+    },
+    {
+      "character": "Alma",
+      "id": 3954423,
+      "name": "Mariana Calderón",
+      "profilePath": null
+    },
+    {
+      "character": "Maestra Ingrid",
+      "id": 1596934,
+      "name": "Natalia Reyes",
+      "profilePath": "/9N7FNKUhjtinrNPy8ANvXrB7iEr.jpg"
+    },
+    {
+      "character": "\"Tigre\"",
+      "id": 18468,
+      "name": "Gustavo Sánchez Parra",
+      "profilePath": "/oBG9fCTuPgtAiDtvk9Big3hemI.jpg"
+    },
+    {
+      "character": "Capitán Avilez",
+      "id": 99508,
+      "name": "Jorge A. Jimenez",
+      "profilePath": "/jWAzvFOMCfoWrE404gwpM0PxJfx.jpg"
+    },
+    {
+      "character": "Yadira",
+      "id": 5945813,
+      "name": "Sofía Álvarez",
+      "profilePath": null
+    },
+    {
+      "character": "Tomás",
+      "id": 1311106,
+      "name": "Juan Pablo de Santiago",
+      "profilePath": "/cdhzvOui6Q5CmiXPFKGt7wuBH7y.jpg"
+    },
+    {
+      "character": "Director Navarro",
+      "id": 118539,
+      "name": "Marco Antonio Treviño",
+      "profilePath": null
+    },
+    {
+      "character": "Iván",
+      "id": 90265,
+      "name": "Arturo Ríos",
+      "profilePath": "/isARgiwics5Y3RQzcKpStT7YjDc.jpg"
+    },
+    {
+      "character": "Lorenza",
+      "id": 3635943,
+      "name": "Laura Alonso Escobar",
+      "profilePath": "/jrMh0F8WqTiXDG1mCtrnZStcBp6.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 230425,
+      "logoPath": null,
+      "name": "The 42 Film"
+    },
+    {
+      "id": 166492,
+      "logoPath": "/gTpZxeS2tKh3IzWmQFSJEUOAlk0.png",
+      "name": "Secuoya Studios"
+    },
+    {
+      "id": 204005,
+      "logoPath": null,
+      "name": "Rock & Ruz"
+    },
+    {
+      "id": 286505,
+      "logoPath": null,
+      "name": "Black Sheep Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": "2026-02-13",
+  "externalIds": {
+    "imdbId": "tt29466658"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1600028,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "La celda de los milagros",
+  "overview": "After being falsely accused of a terrible crime, Hector, a man with a neurological disability, goes to a secret prison. His goodness conquers the prisoners, who plan to prove their innocence.",
+  "posterPath": "/heC13pt4SV7y3HF5lWNzf0u729j.jpg",
+  "rating": 8.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-13",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-02-13"
+    }
+  },
+  "runtime": 101,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "A Father's Miracle",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 93,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1600028-la-celda-de-los-milagros/watch?locale=US",
+      "rent": []
+    }
+  }
+}

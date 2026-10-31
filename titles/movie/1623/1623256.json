@@ -1,0 +1,211 @@
+{
+  "backdropPath": "/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
+  "cast": [
+    {
+      "character": "Filip",
+      "id": 63764,
+      "name": "Gustaf Skarsgård",
+      "profilePath": "/bfh0yP6Qr55jg9CGTGScXAw8Ftu.jpg"
+    },
+    {
+      "character": "Caroline",
+      "id": 570784,
+      "name": "Aliette Opheim",
+      "profilePath": "/waFUEGAL58vlAiQe0q3FjdUwsLX.jpg"
+    },
+    {
+      "character": "Ossi",
+      "id": 986805,
+      "name": "Filip Berg",
+      "profilePath": "/e3bcKd5ZnTjAVEanGaji5dffu5f.jpg"
+    },
+    {
+      "character": "Kina",
+      "id": 116612,
+      "name": "Josephine Bornebusch",
+      "profilePath": "/nba2j9kEqZrFI1VdoYNXxWeK2Mv.jpg"
+    },
+    {
+      "character": "Jacob",
+      "id": 47068,
+      "name": "Jonas Karlsson",
+      "profilePath": "/1KHhcBGX5v9LsmWiHbtZpbEBrh5.jpg"
+    },
+    {
+      "character": "Nicholas",
+      "id": 79171,
+      "name": "Johan Rheborg",
+      "profilePath": "/yfEAI5fzwC2IUycSdhU1wifMw6E.jpg"
+    },
+    {
+      "character": "Stefan",
+      "id": 225636,
+      "name": "Henrik Dorsin",
+      "profilePath": "/xCy1BDKAeGNCV6V1ntyYvo3kBB0.jpg"
+    },
+    {
+      "character": "Henrik Müller",
+      "id": 1428298,
+      "name": "Christopher Wagelin",
+      "profilePath": "/pqo0mTnRcRvL0zDKaK2SCIxbdPZ.jpg"
+    },
+    {
+      "character": "Ninni",
+      "id": 3242315,
+      "name": "Sara Shirpey",
+      "profilePath": "/jNk3VZ2TZy9TzeHtz889u0g1eVo.jpg"
+    },
+    {
+      "character": "Nattis",
+      "id": 1452005,
+      "name": "Gizem Erdogan",
+      "profilePath": "/k4K9hKFyCdTUD0Ywhsy8Q5kWbh8.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 94521,
+      "logoPath": "/Jrad5e1fAD3JnY0JU0APsrj189.png",
+      "name": "Warner Bros. International Television Production Sweden"
+    }
+  ],
+  "countries": [
+    {
+      "code": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "digitalDate": "2026-10-15",
+  "externalIds": {
+    "imdbId": "tt37070354",
+    "wikidataId": "Q134598725"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1623256,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "sv",
+      "name": "Swedish"
+    }
+  ],
+  "originalTitle": "Stormen",
+  "overview": "When a storm traps old university pals at a luxury lodge, their civilized birthday bash spirals into a cyclone of betrayals, grudges and unfiltered chaos.",
+  "posterPath": "/5YNjTi5AhbSM4hDOynJcgFfvKRn.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-15",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-15"
+    }
+  },
+  "runtime": 101,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Storm",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Zfb-62tjT_Y",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "_nFTVZH-ZRc",
+      "name": "Official Clip [Subtitled]",
+      "official": true,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 59,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1623256-stormen/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1623256-stormen/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1623256-stormen/watch?locale=US",
+      "rent": []
+    }
+  }
+}

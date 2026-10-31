@@ -1,0 +1,612 @@
+{
+  "backdropPath": "/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
+  "cast": [
+    {
+      "character": "Davis",
+      "id": 74568,
+      "name": "Chris Hemsworth",
+      "profilePath": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "character": "Lou",
+      "id": 103,
+      "name": "Mark Ruffalo",
+      "profilePath": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+      "character": "Sharon",
+      "id": 4587,
+      "name": "Halle Berry",
+      "profilePath": "/84HRDZodRCuBSpYGSc3ow8WucI4.jpg"
+    },
+    {
+      "character": "Ormon",
+      "id": 1290466,
+      "name": "Barry Keoghan",
+      "profilePath": "/ngoitknM6hw8fffLywyvjzy6Iti.jpg"
+    },
+    {
+      "character": "Maya",
+      "id": 1525043,
+      "name": "Monica Barbaro",
+      "profilePath": "/nxkFcvDIC4tC3st1K1BJXJm1F2h.jpg"
+    },
+    {
+      "character": "Money",
+      "id": 1733,
+      "name": "Nick Nolte",
+      "profilePath": "/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+      "character": "Tillman",
+      "id": 1154054,
+      "name": "Corey Hawkins",
+      "profilePath": "/wRt0Bc0chN5BSjvYzmg2evgqNzp.jpg"
+    },
+    {
+      "character": "Angie",
+      "id": 10431,
+      "name": "Jennifer Jason Leigh",
+      "profilePath": "/7DbG2AO3nygHAkNC866HLPKkxv9.jpg"
+    },
+    {
+      "character": "Ben Haddad",
+      "id": 1561485,
+      "name": "Peter Banifaz",
+      "profilePath": "/fQXcGOpKU8mzkYNyzXrmtXP5In4.jpg"
+    },
+    {
+      "character": "Ali",
+      "id": 1362974,
+      "name": "Babak Tafti",
+      "profilePath": "/ybXVTUHNyyvT30l8TDrh9P6LyxZ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 10163,
+      "logoPath": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+      "name": "Working Title"
+    },
+    {
+      "id": 122772,
+      "logoPath": null,
+      "name": "The Story Factory"
+    },
+    {
+      "id": 23949,
+      "logoPath": "/3QFwomSxcZZgMQGBkdUPuJEnSFB.png",
+      "name": "RAW"
+    },
+    {
+      "id": 210099,
+      "logoPath": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios"
+    },
+    {
+      "id": 183787,
+      "logoPath": "/8G6CbTenzORJdoep1AaghtSEQrY.png",
+      "name": "Wild State"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-04-01",
+  "externalIds": {
+    "facebookId": "Crime101Film",
+    "imdbId": "tt32430579",
+    "instagramId": "crime101film",
+    "wikidataId": "Q126394034"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 47,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1171145,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Crime 101",
+  "overview": "وقتی یک سارق فراری که سرقت‌های بزرگش را در امتداد بزرگراه نمادین ۱۰۱ در لس‌آنجلس انجام می‌دهد، نقشه بزرگ‌ ترین سرقت عمرش را با امید اینکه این آخرین کارش باشد می‌کشد، مسیر زندگی‌اش با یک کارشناس بیمه ناامید که خود بر سر دوراهی بزرگی قرار دارد، تلاقی می‌کند. در همین حال، یک کارآگاه پیگیر و مصمم برای حل پرونده به آن‌ها نزدیک‌تر می‌شود و هیجان و خطر ماجرا را به اوج می‌رساند.",
+  "posterPath": "/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-02-11"
+    },
+    "CN": {
+      "digitalDate": "2026-08-26",
+      "gapDays": 172,
+      "theatricalDate": "2026-03-07"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-02-11"
+    },
+    "US": {
+      "digitalDate": "2026-04-01",
+      "gapDays": 47,
+      "theatricalDate": "2026-02-13"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-02-11"
+    },
+    "CN": {
+      "digital": "2026-08-26",
+      "theatrical": "2026-03-07"
+    },
+    "GB": {
+      "premiere": "2026-01-28",
+      "theatrical": "2026-02-11"
+    },
+    "US": {
+      "digital": "2026-04-01",
+      "physical": "2026-06-30",
+      "theatrical": "2026-02-13"
+    }
+  },
+  "runtime": 141,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Always have an exit.",
+  "theatricalDate": "2026-02-13",
+  "title": "Crime 101",
+  "translations": {
+    "faOverview": "وقتی یک سارق فراری که سرقت‌های بزرگش را در امتداد بزرگراه نمادین ۱۰۱ در لس‌آنجلس انجام می‌دهد، نقشه بزرگ‌ ترین سرقت عمرش را با امید اینکه این آخرین کارش باشد می‌کشد، مسیر زندگی‌اش با یک کارشناس بیمه ناامید که خود بر سر دوراهی بزرگی قرار دارد، تلاقی می‌کند. در همین حال، یک کارآگاه پیگیر و مصمم برای حل پرونده به آن‌ها نزدیک‌تر می‌شود و هیجان و خطر ماجرا را به اوج می‌رساند.",
+    "faTitle": "جنایت ۱۰۱"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "ZF6XnJLI-_c",
+      "name": "Which cast member would you choose?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "SpzFBsDJ-HY",
+      "name": "Crime 101 takeover NYC? Check.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "bB-g8o_TpXE",
+      "name": "The plan is working.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "kNqHXLO7ElY",
+      "name": "Your love letter from the cast of Crime 101",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "7Z4Dt3GQW0w",
+      "name": "Masterpiece Review",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "gZtI8lNd5yE",
+      "name": "Film Clip - Mystery Man",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "eWnkkw_GW3E",
+      "name": "An Awkward Romance",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "UmpsU6Aur58",
+      "name": "Chris Driving",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "qDx0X9Rgt7w",
+      "name": "European Gala Screening VOXPOP",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "N6r6_33mSLw",
+      "name": "Simply no words.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "czaLrU0uYfY",
+      "name": "A Criminal Ensemble - Featurette",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "uVAad4Hx8e8",
+      "name": "Filming In LAX",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "bunQxs0IO5k",
+      "name": "Popcorn for the win.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "WGSZjBKnYUQ",
+      "name": "The heist arrives in IMAX.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Bkg4_OBfkd0",
+      "name": "Mastermind of Crime - Featurette",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "zJib9VzLBKk",
+      "name": "Team Up Chris",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Z7y1wsJ-6mM",
+      "name": "This is your sign to see Crime 101 on the biggest screen possible!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "FEa72TWgg64",
+      "name": "In Cinemas February 18",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "WjPnjyWzotc",
+      "name": "In Cinemas February 18",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "x4sqt99L8aM",
+      "name": "In Cinemas February 18",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "-MI9zw9F1SA",
+      "name": "In Cinemas February 18",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "bZ_4MUW0Uik",
+      "name": "In Cinemas February 18",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Rc-ntbG6qbM",
+      "name": "In Cinemas February 18",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "bj6R_g5BfQw",
+      "name": "In Cinemas February 18",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "jjmlElPXP7w",
+      "name": "In Cinemas February 18",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Gdkm2mAuGBA",
+      "name": "In Cinemas February 18",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "gcjp4PTrnew",
+      "name": "Interview with Bart Layton",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "lXP8X8lGBXs",
+      "name": "This is a Chris Hemsworth appreciation post.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "mmjOCSjPd6c",
+      "name": "We're keeping this forever",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ImIqWo2b4Ys",
+      "name": "The plan comes together in IMAX",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "WQWlhBXQpqU",
+      "name": "The plan is set.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "W2LbBTuU-OQ",
+      "name": "Don’t miss Crime 101 in cinemas Feb 13!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "02IX3b8hIeA",
+      "name": "A Kid with Nothing to Lose - Featurette",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "g74ixIpJ6n4",
+      "name": "A Cop With A Dilemma - Featurette",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "oXQiLuwRDgU",
+      "name": "A Broker with a Choice - Featurette",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "8Bj30rWaAgA",
+      "name": "A Thief With A Code - Featurette",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "iangSZLN2Ws",
+      "name": "European Gala Screening Sizzle",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Ls1gxIbeY_o",
+      "name": "Sharon Sizes Up Mike - Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "lIyCdb_dqJ8",
+      "name": "Who Are You Working For - Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "k7lul3Y53xY",
+      "name": "Thrill of the Chase - Featurette",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "KeEHsuZ4Ja4",
+      "name": "Official Trailer 2",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "4rc3rqy1AB4",
+      "name": "Crime never looked this good.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "1Gbc0tCSaMw",
+      "name": "Chris Hemsworth is Mike Davis in Crime 101",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "qLA_1vtct_U",
+      "name": "Barry Keoghan is Ormon in Crime 101",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "X4uv4xDRebI",
+      "name": "First Look - Featurette",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "VsmHkvNPVhM",
+      "name": "Don’t miss Mark Ruffalo as detective Lou Lubesnick in Crime101",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "f5y-cziwmMw",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 1460,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 119,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1171145-crime-101/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1171145-crime-101/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1171145-crime-101/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "backdropPath": "/bEimEeWa8aj9bulpmbCql2tsMbM.jpg",
+  "cast": [
+    {
+      "character": "Johan",
+      "id": 5371516,
+      "name": "Gerrit Knobbe",
+      "profilePath": "/cQyrvis4oiqaSdRlUHceP31NDp6.jpg"
+    },
+    {
+      "character": "Dana",
+      "id": 5371517,
+      "name": "Loïs Reinders",
+      "profilePath": "/yul1XFbwBG6a2HM4tJGidkdJDK4.jpg"
+    },
+    {
+      "character": "Aafke",
+      "id": 6374983,
+      "name": "Mirthe Labree",
+      "profilePath": null
+    },
+    {
+      "character": "Police Commissioner",
+      "id": 6374984,
+      "name": "Dirk Braad",
+      "profilePath": null
+    },
+    {
+      "character": "Police Detective",
+      "id": 1152376,
+      "name": "Vincent Linthorst",
+      "profilePath": null
+    },
+    {
+      "character": "Nel",
+      "id": 6374985,
+      "name": "Rolinka Stoter",
+      "profilePath": null
+    },
+    {
+      "character": "Jan",
+      "id": 3681789,
+      "name": "Michael Adama",
+      "profilePath": null
+    },
+    {
+      "character": "Aleida",
+      "id": 3737234,
+      "name": "Anna Loeffen",
+      "profilePath": "/67by0n6ZzZLwCRxYiTi67fgJU5H.jpg"
+    },
+    {
+      "character": "Aukje",
+      "id": 6374986,
+      "name": "Poppy Setton",
+      "profilePath": null
+    },
+    {
+      "character": "Kasper",
+      "id": 5689700,
+      "name": "Yannick Zoet",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 44438,
+      "logoPath": "/mnoDqJffaYKJmOQ6plRZYksZPXF.png",
+      "name": "Viking Film"
+    },
+    {
+      "id": 3134,
+      "logoPath": "/1w7LQKO5fNzovefxGReUpZlM8e9.png",
+      "name": "A Private View"
+    }
+  ],
+  "countries": [
+    {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36543850",
+    "wikidataId": "Q134218074"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1464323,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "nl",
+      "name": "Dutch"
+    }
+  ],
+  "originalTitle": "Rietland",
+  "overview": "When reed cutter Johan discovers the lifeless body of a girl on his land, he is overcome by an ambiguous sense of guilt. While taking care of his granddaughter, he sets out on a quest to track down evil.",
+  "posterPath": "/kTRGVm6d5hUzhPO6qb0boddIBIY.jpg",
+  "rating": 5.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2025-09-26"
+    }
+  },
+  "runtime": 105,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Reedland",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "15NVHX_kM_Y",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 10,
+  "watchProviders": {}
+}

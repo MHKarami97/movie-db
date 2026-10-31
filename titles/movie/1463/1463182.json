@@ -1,0 +1,196 @@
+{
+  "backdropPath": "/IM5cSAzD2C9pPo85qA4PC37NCP.jpg",
+  "cast": [
+    {
+      "character": "Emma Parker",
+      "id": 84948,
+      "name": "Katie Leclerc",
+      "profilePath": "/7OGbo7V1gw9i43ALLeva9SHdJqL.jpg"
+    },
+    {
+      "character": "Mitch Henriksen",
+      "id": 85480,
+      "name": "Ryan Carnes",
+      "profilePath": "/5My1IRZbDGTxKU3Ko42T4LOwvjF.jpg"
+    },
+    {
+      "character": "Brian Parker",
+      "id": 1320114,
+      "name": "Ed Amatrudo",
+      "profilePath": "/425tSvu0USMcnjLiXnKr4XoeexF.jpg"
+    },
+    {
+      "character": "Sally Parker",
+      "id": 23214,
+      "name": "Debrah Farentino",
+      "profilePath": "/6cc84IvLQTSj3vwXWP8CiGT81Hi.jpg"
+    },
+    {
+      "character": "Max Henriksen",
+      "id": 4966857,
+      "name": "Seamus Flynn",
+      "profilePath": "/hzndMFQqZah04xeV1Za5QU8CSXk.jpg"
+    },
+    {
+      "character": "Everett Henriksen",
+      "id": 64873,
+      "name": "Peter Carey",
+      "profilePath": "/zDqHYYp0O96yyfEb6OzA2vBxvyN.jpg"
+    },
+    {
+      "character": "Calvin Russo",
+      "id": 5366663,
+      "name": "Parth Akoliya",
+      "profilePath": null
+    },
+    {
+      "character": "Clara Henriksen",
+      "id": 1189227,
+      "name": "Jennifer Joan Taylor",
+      "profilePath": "/82U9bSkv9s8T9yhFIBq7nBl883e.jpg"
+    },
+    {
+      "character": "Jennifer",
+      "id": 2967265,
+      "name": "Anna Zhang",
+      "profilePath": null
+    },
+    {
+      "character": "Teresa",
+      "id": 2799105,
+      "name": "Jen Bosworth-Ramirez",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 97347,
+      "logoPath": "/1FTYaCRDAt6vbTImeIFrzW3kCUt.png",
+      "name": "H9 Films"
+    },
+    {
+      "id": 170857,
+      "logoPath": "/583tGqXU1c7HewprC5f30o7LASt.png",
+      "name": "Nicely Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-10-09",
+  "externalIds": {
+    "imdbId": "tt36454258",
+    "wikidataId": "Q137379907"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1463182,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "A Wisconsin Christmas Pie",
+  "overview": "An ambitious pastry chef returns to her small-town roots in Door County, WI, and, over the holidays, needs to decide between her career dreams and her family’s struggling orchard business.",
+  "posterPath": "/elomTsFObLuNNGi1YxtSXsrvOLc.jpg",
+  "rating": 5.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-09",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-10-09",
+      "tv": "2025-10-11"
+    }
+  },
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "A Wisconsin Christmas Pie",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Jxxhkj5qTMA",
+      "name": "A Cherry Pie Christmas | Nicely Entertainment | Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 278,
+          "logoPath": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+          "name": "Pure Flix"
+        },
+        {
+          "id": 2433,
+          "logoPath": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+          "name": "Great American Pure Flix Amazon Channel"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1463182-a-wisconsin-christmas-pie/watch?locale=US",
+      "rent": []
+    }
+  }
+}

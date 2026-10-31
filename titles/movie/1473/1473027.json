@@ -1,0 +1,238 @@
+{
+  "backdropPath": "/ApqTiOGKcclNTU1mnplJgthNVrd.jpg",
+  "cast": [
+    {
+      "character": "Gibbs",
+      "id": 1328,
+      "name": "Sean Astin",
+      "profilePath": "/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+    },
+    {
+      "character": "Charlie Fleck",
+      "id": 5405857,
+      "name": "Myles Erlick",
+      "profilePath": null
+    },
+    {
+      "character": "Bree",
+      "id": 5405858,
+      "name": "Ali Astin",
+      "profilePath": null
+    },
+    {
+      "character": "Miles Sugar",
+      "id": 5405859,
+      "name": "Jamie Alexander",
+      "profilePath": null
+    },
+    {
+      "character": "Lucas",
+      "id": 5405860,
+      "name": "Patrick Britton",
+      "profilePath": null
+    },
+    {
+      "character": "Brian",
+      "id": 5405861,
+      "name": "Quinn Angell",
+      "profilePath": null
+    },
+    {
+      "character": "ONYX Guild Ryan",
+      "id": 5405863,
+      "name": "Kevin Lawson",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 5405864,
+      "name": "Alison Haislip",
+      "profilePath": null
+    },
+    {
+      "character": "Bartender",
+      "id": 5405865,
+      "name": "J Williams Reynold",
+      "profilePath": null
+    },
+    {
+      "character": "Passenger #1",
+      "id": 1253910,
+      "name": "Bryan Massey",
+      "profilePath": "/91rLOgZ4iJwvFqqSkbC538Juz1s.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 27592,
+      "logoPath": null,
+      "name": "Mediajuice Studios"
+    },
+    {
+      "id": 16005,
+      "logoPath": "/lIEdncC1t5p7CddNyePFHXaCoy6.png",
+      "name": "Panoramic Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt27723650",
+    "wikidataId": "Q138275699"
+  },
+  "fetchedAt": 1793504874718,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "id": 1473027,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Matter of Time",
+  "overview": "Charlie Fleck, a 29-year-old aspiring video game designer, is has the opportunity of a lifetime with a time-stopping device given to him by his friend, an eccentric Toy shop owner Gibbs. Challenges ensues, and hardships arise as he navigates world, and pursue his dreams",
+  "posterPath": "/AgB3p5tyH1IaiA4Xf8Ud6Hab5ev.jpg",
+  "rating": 1.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-02-27"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-06-19"
+    },
+    "US": {
+      "premiere": "2025-10-10",
+      "theatricalLimited": "2026-02-27"
+    }
+  },
+  "runtime": 106,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-02-27",
+  "title": "Matter of Time",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "2sVmA1Tl_vs",
+      "name": "Official Trailer 1",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1473027-matter-of-time/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

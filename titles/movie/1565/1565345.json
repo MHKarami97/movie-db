@@ -1,0 +1,143 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Self",
+      "id": 6064392,
+      "name": "Yaniv Avitan",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6064393,
+      "name": "Raz Shifer",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6064394,
+      "name": "Dov Engel",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6064395,
+      "name": "Bar Rudaeff",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6064396,
+      "name": "Valeria Dvorkin",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6064398,
+      "name": "Ben King",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6064399,
+      "name": "David Klein",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6064400,
+      "name": "Yakir Uzan",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6064401,
+      "name": "Tuval Haim",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6064402,
+      "name": "Sagi Ara",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1565345,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "he",
+      "name": "Hebrew"
+    }
+  ],
+  "originalTitle": "The Bridge",
+  "overview": "Young Israeli survivors of the October 7 attacks travel to Los Angeles for Rock ’n’ Roll Fantasy Camp, discovering healing and strength through music and shared resilience.",
+  "posterPath": "/fPkeszK2q9RiFZOeJDUw5UrOJDk.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-05"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatricalLimited": "2026-10-05"
+    }
+  },
+  "runtime": 70,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A journey from trauma to healing through music.",
+  "theatricalDate": "2026-10-05",
+  "title": "The Bridge",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "CjP-_gNqqAI",
+      "name": "The Bridge Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

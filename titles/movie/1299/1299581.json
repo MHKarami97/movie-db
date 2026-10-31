@@ -1,0 +1,147 @@
+{
+  "backdropPath": "/nbnFwaYmajIbGEXfXgWgzpiwQXF.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 9147,
+      "name": "Salman Rushdie",
+      "profilePath": "/6LuR8XwMMOCU4K773MJgYaFa3cV.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 2740,
+      "logoPath": "/gSiDWkmEOyOn9MsaCgnjd8Mohmx.png",
+      "name": "Jigsaw Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt32534849",
+    "wikidataId": "Q137460738"
+  },
+  "fetchedAt": 1793452486014,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1299581,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Knife: The Attempted Murder of Salman Rushdie",
+  "overview": "In 2022, Salman Rushdie was preparing to deliver a lecture on the United States as a safe haven for writers when a man rushed the stage and, in 27 seconds, stabbed him 15 times. Airlifted to hospital, Rushdie survived, barely, and his wife Rachel Eliza Griffiths began filming immediately, capturing an unfiltered view of his recovery, return to life and how he regained his spirit and hope for the future.",
+  "posterPath": "/zIHezCczCvRFtkuAoCm1tEJGa0W.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "CA": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "DE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-02"
+    },
+    "IR": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AU": {
+      "premiere": "2026-06-03"
+    },
+    "CZ": {
+      "premiere": "2026-10-25"
+    },
+    "DE": {
+      "premiere": "2026-10-22"
+    },
+    "GB": {
+      "premiere": "2026-09-10",
+      "theatrical": "2026-10-02"
+    },
+    "IE": {
+      "theatrical": "2026-10-02"
+    },
+    "KR": {
+      "premiere": "2026-09-13"
+    },
+    "LV": {
+      "premiere": "2026-09-09"
+    },
+    "SE": {
+      "theatrical": "2026-10-02"
+    },
+    "US": {
+      "premiere": "2026-01-25"
+    },
+    "ZA": {
+      "premiere": "2026-06-07"
+    }
+  },
+  "runtime": 107,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-02",
+  "title": "Knife: The Attempted Murder of Salman Rushdie",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "lA_kFZb3rN0",
+      "name": "\"In My City\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "4Dntq0XUcls",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {
+    "SE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1299581-knife-the-attempted-murder-of-salman-rushdie/watch?locale=SE",
+      "rent": [
+        {
+          "id": 517,
+          "logoPath": "/dmt94TXdeHGnA211Lo1tBQO0fXH.png",
+          "name": "TriArt Play"
+        }
+      ]
+    }
+  }
+}

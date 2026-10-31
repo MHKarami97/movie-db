@@ -1,0 +1,188 @@
+{
+  "backdropPath": "/kvGDXseMAZ6GYExkjP9h5L6hrWi.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1220503,
+      "name": "Gary Lineker",
+      "profilePath": "/m1obnolNGXZwRdRUAbWuKx1rRXa.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1211596,
+      "name": "Jorge Valdano",
+      "profilePath": "/6jbAs4gT77lZiyF5yGVmPeHI832.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1705269,
+      "name": "John Barnes",
+      "profilePath": "/lmB3MvKQHkPPnU9BTAizaRZAoD3.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2173801,
+      "name": "Jorge Burruchaga",
+      "profilePath": "/1aKZKVvHM9zTynUwFtsZ6vsh907.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6132906,
+      "name": "Ricardo Giusti",
+      "profilePath": "/5GupWNeNfWcKCI79VeEd29QWZuW.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2966273,
+      "name": "Julio Olarticoechea",
+      "profilePath": "/l8hHs83ucFYGVJdZz51nw2O8FKU.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 3477628,
+      "name": "Oscar Ruggeri  ",
+      "profilePath": "/oD7jQcxMRgWLZrQP23B4Qs4KXyU.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1234015,
+      "name": "Peter Shilton",
+      "profilePath": "/hK2iotC21rHJfq4ZW1S5XdLTlvZ.jpg"
+    },
+    {
+      "character": "Self (Archive)",
+      "id": 1770374,
+      "name": "Kevin Keegan",
+      "profilePath": "/lahfK8ZFvJ4paMA4zLpCUk7aSd2.jpg"
+    },
+    {
+      "character": "Self (Archive)",
+      "id": 56218,
+      "name": "Diego Maradona",
+      "profilePath": "/m4qVLeVSRzwcCpt6MdAT305YdDC.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 278104,
+      "logoPath": null,
+      "name": "Industria del Milagro"
+    },
+    {
+      "id": 252891,
+      "logoPath": "/9vNlETFVUPX4nRFW2sAvdH0ls41.png",
+      "name": "Blurr Stories"
+    },
+    {
+      "id": 159116,
+      "logoPath": null,
+      "name": "Labhouse"
+    },
+    {
+      "id": 232381,
+      "logoPath": "/cyLQ1pGf7hhyAIjzXiCsbOneLps.png",
+      "name": "Buena Vista International"
+    },
+    {
+      "id": 102626,
+      "logoPath": "/hejnYBBwutw4U2dA6LGfMArjya0.png",
+      "name": "Cine Argentino"
+    },
+    {
+      "id": 6458,
+      "logoPath": "/eT4oMUK7ODM0vvZue8yq3Ojwqf8.png",
+      "name": "INCAA"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt41593328",
+    "wikidataId": "Q139076841"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1666712,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "El Partido",
+  "overview": "Film reconstructs the historic match Argentina vs England at the 1986 FIFA World Cup quarter-finals, famously remembered for the the hand of God goal by Maradona. Also exploring the sporting, political, and cultural dimensions of the encounter, in the background of the recent deadly Malvinas War between the two countries.",
+  "posterPath": "/pfQipztZvb3MNG4FQnsrk3Mf4US.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-07-16"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-07-16"
+    },
+    "GB": {
+      "premiere": "2026-10-08"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "When does a match start? When does it end?",
+  "theatricalDate": "2026-07-16",
+  "title": "The Match",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "xED9MDEkezY",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {}
+}

@@ -1,0 +1,162 @@
+{
+  "backdropPath": "/4NNWt9lFG3VY6SnsttrT9Cph9Fm.jpg",
+  "cast": [
+    {
+      "character": "Carla Moretti",
+      "id": 128748,
+      "name": "Alba Rohrwacher",
+      "profilePath": "/swffcvnDnj5966fdLSnXOMY186.jpg"
+    },
+    {
+      "character": "Arnaud Boronat",
+      "id": 5443,
+      "name": "Vincent Lindon",
+      "profilePath": "/tjRKMKfsIH7MrqtN7cMPIZubSXa.jpg"
+    },
+    {
+      "character": "Etienne, coach happiness",
+      "id": 2548881,
+      "name": "Sharif Andoura",
+      "profilePath": "/szZjLQoIrlVmz6sqWJyXAcN79Cb.jpg"
+    },
+    {
+      "character": "Olivier",
+      "id": 3421998,
+      "name": "David Talbot",
+      "profilePath": "/o9zV6RCPthvxibtyCnPkvBh2ALg.jpg"
+    },
+    {
+      "character": "Louis",
+      "id": 6478209,
+      "name": "Adrien Bobinet",
+      "profilePath": null
+    },
+    {
+      "character": "Julien",
+      "id": 1064096,
+      "name": "Philippe Pollet-Villard",
+      "profilePath": "/qe86OnZbnGP8RGgloNV9qIhoEnk.jpg"
+    },
+    {
+      "character": "Rose",
+      "id": 6132400,
+      "name": "Rose Bourdon",
+      "profilePath": null
+    },
+    {
+      "character": "Mrs Lalouette",
+      "id": 6478211,
+      "name": "Carine Rouvier",
+      "profilePath": null
+    },
+    {
+      "character": "Sylvie Morel",
+      "id": 6478213,
+      "name": "Sandra Le Gall",
+      "profilePath": null
+    },
+    {
+      "character": "Mrs Laurentin",
+      "id": 6478214,
+      "name": "Sabine Mariolle",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 9,
+      "logoPath": "/h4zSRszvKHr1tjqEp8voJVahuza.png",
+      "name": "Gaumont"
+    },
+    {
+      "id": 591,
+      "logoPath": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt41802342",
+    "wikidataId": "Q140680910"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1430815,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Un bon petit soldat",
+  "overview": "Follows Carla, a 43-year-old high-performing executive newly recruited as HR manager of a major insurer, tasked with rebuilding its brand in a corporate environment where vulnerability is not an asset.",
+  "posterPath": "/8f44DSQtdo5VBZWLrAuJt4Sp5us.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-10-16"
+    },
+    "US": {
+      "premiere": "2026-10-18"
+    }
+  },
+  "runtime": 102,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "A Good Little Soldier",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "hOFq7J4fmhY",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "ftzvMIPwY1A",
+      "name": "A GOOD LITTLE SOLDIER - Official Trailer",
+      "official": true,
+      "type": "Behind the Scenes"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

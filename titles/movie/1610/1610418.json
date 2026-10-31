@@ -1,0 +1,275 @@
+{
+  "backdropPath": "/r9aYDDP7tHpwCvQbOxcfhZFBT63.jpg",
+  "cast": [
+    {
+      "character": "Amy",
+      "id": 3270848,
+      "name": "Logan Wallace",
+      "profilePath": "/a1cVY1pUOiyL2oo08qnjdyeggxJ.jpg"
+    },
+    {
+      "character": "Tony",
+      "id": 4341284,
+      "name": "Andrew Thomas",
+      "profilePath": "/pxTunH4QbXjRrRktYaoE54OCjBI.jpg"
+    },
+    {
+      "character": "Bradley",
+      "id": 3206199,
+      "name": "Stuart Maxheimer",
+      "profilePath": "/wAHdiQ8YhyA1T1uJ4vth8SVD4if.jpg"
+    },
+    {
+      "character": "Kate",
+      "id": 5320568,
+      "name": "Cashmere Moniqué",
+      "profilePath": "/isNBYSJEzsFNoWtkCge0LcaaFgW.jpg"
+    },
+    {
+      "character": "Dylan",
+      "id": 3206202,
+      "name": "Dylan DeVane",
+      "profilePath": null
+    },
+    {
+      "character": "Cop 1",
+      "id": 3206201,
+      "name": "Brent Downs",
+      "profilePath": null
+    },
+    {
+      "character": "Cop 2",
+      "id": 4144829,
+      "name": "Austin J. Rhodes",
+      "profilePath": "/mcXy80KvpSkqIuH3u5eHEG7ohPc.jpg"
+    },
+    {
+      "character": "Moe",
+      "id": 2932735,
+      "name": "Kellan Rudnicki",
+      "profilePath": null
+    },
+    {
+      "character": "Hostage Ghost",
+      "id": 5947764,
+      "name": "Shaelyn Clark",
+      "profilePath": null
+    },
+    {
+      "character": "Barrel Ghost",
+      "id": 5947766,
+      "name": "Emily Thorton",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 136784,
+      "logoPath": "/z5ZNKcPpchQeDClPJ6ZKakJjj7G.png",
+      "name": "DBS Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-01-09",
+  "externalIds": {
+    "imdbId": "tt38353877"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1610418,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The House on Haunted Grounds",
+  "overview": "What begins as a routine investigation into a house slated for demolition turns into a nightmare when the team faces an evil force, leaving behind only the recovered footage.",
+  "posterPath": "/750RNSHr25GQcCr2Ws8iSGrHJA9.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-01-09",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-01-09"
+    }
+  },
+  "runtime": 69,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The House on Haunted Grounds",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "uXHjb8_z9bE",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 28,
+  "watchProviders": {
+    "AE": {
+      "ads": [
+        {
+          "id": 2478,
+          "logoPath": "/2hAu4MUecOOMTtrlJ3XEqB4dhZr.png",
+          "name": "FOUND TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1610418-the-house-on-haunted-grounds/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        },
+        {
+          "id": 2478,
+          "logoPath": "/2hAu4MUecOOMTtrlJ3XEqB4dhZr.png",
+          "name": "FOUND TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1610418-the-house-on-haunted-grounds/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        },
+        {
+          "id": 2077,
+          "logoPath": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+          "name": "Plex Channel"
+        },
+        {
+          "id": 2478,
+          "logoPath": "/2hAu4MUecOOMTtrlJ3XEqB4dhZr.png",
+          "name": "FOUND TV"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1610418-the-house-on-haunted-grounds/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ]
+    }
+  }
+}

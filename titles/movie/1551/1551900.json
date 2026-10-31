@@ -1,0 +1,161 @@
+{
+  "backdropPath": "/rxFwyLPnOMLrq3uE3D2fTGe4nwV.jpg",
+  "cast": [
+    {
+      "character": "Raffi",
+      "id": 2692952,
+      "name": "Octavio Hinojosa Martínez",
+      "profilePath": "/7Kor87Vt0XRrpdxYXry7c1o3B8Y.jpg"
+    },
+    {
+      "character": "Inés",
+      "id": 36638,
+      "name": "Maya Zapata",
+      "profilePath": "/sk1MsMBOoTDyu33JSJwllRPDYpA.jpg"
+    },
+    {
+      "character": "Trino",
+      "id": 1306685,
+      "name": "Alfonso Borbolla",
+      "profilePath": "/60Pw7d3SNCIAf5Iw6QAaikIl9p.jpg"
+    },
+    {
+      "character": "Emilia",
+      "id": 224321,
+      "name": "Mónica Dionne",
+      "profilePath": "/tVonMtXNKtixZ2dH9yzhT0l3Rmp.jpg"
+    },
+    {
+      "character": "Simón",
+      "id": 967328,
+      "name": "Hugo Catalán",
+      "profilePath": "/gfd5GNkpMNWzRmxp8UZ258NZAtp.jpg"
+    },
+    {
+      "character": "Daniela",
+      "id": 1199773,
+      "name": "Elsy Reyes",
+      "profilePath": null
+    },
+    {
+      "character": "Rafael",
+      "id": 1315585,
+      "name": "Juan Carlos Vives",
+      "profilePath": "/infxcHuilQQqj0Q59XIUznhu69Z.jpg"
+    },
+    {
+      "character": "Rodrigo",
+      "id": 3315411,
+      "name": "Felix De Valdivia",
+      "profilePath": null
+    },
+    {
+      "character": "Yisus",
+      "id": 38764,
+      "name": "Hugo Stiglitz",
+      "profilePath": "/5ey2VfxAUWSSXloSR4Y1fFPkNPQ.jpg"
+    },
+    {
+      "character": "Greta",
+      "id": 1318700,
+      "name": "Pilar Ixquic Mata",
+      "profilePath": "/3B9YeUQIkY8kM44M9gbnPHDbfIM.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 275326,
+      "logoPath": null,
+      "name": "OLAH Films"
+    },
+    {
+      "id": 275327,
+      "logoPath": "/rCRc8kkQOUw476RcUHGdR8jdbJK.png",
+      "name": "The Original Content Society"
+    },
+    {
+      "id": 275328,
+      "logoPath": null,
+      "name": "Talacha Fina"
+    }
+  ],
+  "countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33366340"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1551900,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Sobriedad, me estás matando",
+  "overview": "Raffi, nearly forty and defiant of the system, has cycled through rehab countless times. After being kicked out of the clinic in his fifth attempt to get clean, he is forced to return to the person he despises most: his mother. Two days later, she kicks him out, and Raffi turns to Trino, his last remaining friend, for refuge. When he learns that his high school crush, Inés, is newly divorced, Raffi vows to win her over, even if it means getting a regular job, growing up, and finally taking his recovery seriously.",
+  "posterPath": "/d7Xu9JfMWvtb4hmWvdFOqE7avmh.jpg",
+  "rating": 5.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 109,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Dear Sobriety: You're Killing Me",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 15,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1551900-sobriedad-me-estas-matando/watch?locale=US",
+      "rent": []
+    }
+  }
+}

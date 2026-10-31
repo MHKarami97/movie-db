@@ -1,0 +1,105 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Gadget",
+      "id": 2443112,
+      "name": "Michael Kovach",
+      "profilePath": "/zUTjC1AiLgNAuHtl8yhiwqdpqAo.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2027-08-31",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-08-31",
+        "episodeNumber": 1,
+        "name": "Pilot",
+        "overview": "Pilot episode",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt29808795"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 339878,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-08-31",
+    "episodeNumber": 1,
+    "id": 8006628,
+    "name": "Pilot",
+    "overview": "Pilot episode",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Zipped Up",
+  "overview": "Zipped Up is an indie animated series about two teenagers, Alejandra and Nelly, a cowboy named Levi, and a robot called Gadget unzipping portals into the what-ifs of the multiverse.",
+  "posterPath": "/vyhMMVKDOAtauyS94bT7ixIIudZ.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-08-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-08-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-08-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-08-31",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-08-31"
+    },
+    "CN": {
+      "tv": "2027-08-31"
+    },
+    "GB": {
+      "tv": "2027-08-31"
+    },
+    "US": {
+      "tv": "2027-08-31"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-08-31",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Zipped Up",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

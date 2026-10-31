@@ -1,0 +1,145 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 1239460,
+      "name": "Sarah Podemski",
+      "profilePath": "/fWJtGHHTNhQC0qSEJ9ukrHItnOr.jpg"
+    },
+    {
+      "character": "",
+      "id": 84219,
+      "name": "Chaske Spencer",
+      "profilePath": "/yYXfNYra3BKPTXfLtAdUJ0RinjE.jpg"
+    },
+    {
+      "character": "",
+      "id": 154647,
+      "name": "Michael Greyeyes",
+      "profilePath": "/jy45vhkNT0s7gtf1dRIfFL77YWg.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 169682,
+      "logoPath": "/dSajIaySHCYM1jsxFVg7lypSATH.png",
+      "name": "Sphère Média"
+    },
+    {
+      "id": 83549,
+      "logoPath": "/uQL1UWvkByUEru6WgQsj59ZEwit.png",
+      "name": "Inferno Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2027-01-03",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-03",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 327292,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-03",
+    "episodeNumber": 1,
+    "id": 7459903,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Cold Country",
+  "overview": "The discovery of two Indigenous men found frozen to death in a single week in the same remote location shakes a small town.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-03"
+    },
+    "CN": {
+      "tv": "2027-01-03"
+    },
+    "GB": {
+      "tv": "2027-01-03"
+    },
+    "US": {
+      "tv": "2027-01-03"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-03",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Planned",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Cold Country",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,547 @@
+{
+  "backdropPath": "/dsf201EcCENveE99OHK6vwYgekn.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 55052,
+      "logoPath": null,
+      "name": "CBS News Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "1988-01-19",
+  "episodes": {
+    "40": [
+      {
+        "airDate": "2026-10-17",
+        "episodeNumber": 1,
+        "name": "The Corn Rake Witness",
+        "overview": "At just 13 years old, Trysten Mullis found his mother Amy on the ground with a corn rake sticking out of her back on their family's high farm. Now 21 years old, with his father behind bars for murder, Trysten speaks out for the first time and maintains that his father is innocent.",
+        "stillPath": "/9BvZLo3unT4zciewNpcLsuqIWZ0.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-17",
+        "episodeNumber": 2,
+        "name": "The Detective & the Chewing Gum Sting",
+        "overview": "Judy Weaver was found murdered in her residence in Everett, Washington, in 1984. Decades later, a clever detective catches the elusive killer with a stick of gum.",
+        "stillPath": "/xkZfz5yj5Fuw07YvCVbn1oKzJnT.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-24",
+        "episodeNumber": 3,
+        "name": "What the Cameras Saw",
+        "overview": "Savannah Tolbert, 37, is found dead inside her car at a Huntsville, Alabama, strip mall in November 2022. Multiple surveillance cameras capture the final moments of what happened before a mysterious figure ends Savannah's life.",
+        "stillPath": "/qpF27fhemMRvT0KN0FEKCuP9RvA.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-24",
+        "episodeNumber": 4,
+        "name": "The Mansion Above Dale Hollow Lake",
+        "overview": "After Michael Harding is murdered and his wife Julie Harding is found dead, it feeds into a local legend of a \"cursed\" house in Celina, Tennessee.",
+        "stillPath": "/6PK3cBGWT5m3G37u5vONJZnnHLh.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-31",
+        "episodeNumber": 5,
+        "name": "Jade Benning's Final Call",
+        "overview": "A phone call from a dying woman becomes a crucial piece of evidence when a date night turns out deadly.",
+        "stillPath": "/khiU1EtPKvzNZh6TxfUcJPA215B.jpg",
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "48hours",
+    "imdbId": "tt0271894",
+    "instagramId": "48hourscbs",
+    "twitterId": "48hours",
+    "wikidataId": "Q4031546"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 3719,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-24",
+    "episodeNumber": 4,
+    "id": 7995540,
+    "name": "The Mansion Above Dale Hollow Lake",
+    "overview": "After Michael Harding is murdered and his wife Julie Harding is found dead, it feeds into a local legend of a \"cursed\" house in Celina, Tennessee.",
+    "seasonNumber": 40
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-10-31",
+    "episodeNumber": 5,
+    "id": 8031777,
+    "name": "Jade Benning's Final Call",
+    "overview": "A phone call from a dying woman becomes a crucial piece of evidence when a date night turns out deadly.",
+    "seasonNumber": 40
+  },
+  "originalTitle": "48 Hours",
+  "overview": "This newsmagazine series investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening — and resolution — of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart.",
+  "posterPath": "/kniPe4BLIcj2WnErZcFeHo50q6B.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1988-01-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1988-01-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1988-01-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1988-01-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1988-01-19"
+    },
+    "CN": {
+      "tv": "1988-01-19"
+    },
+    "GB": {
+      "tv": "1988-01-19"
+    },
+    "US": {
+      "tv": "1988-01-19"
+    }
+  },
+  "runtime": 42,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "1998-04-23",
+      "episodeCount": 46,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1988-01-19",
+      "episodeCount": 29,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1988-09-08",
+      "episodeCount": 61,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1990-01-04",
+      "episodeCount": 1,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1991-09-11",
+      "episodeCount": 1,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1992-09-16",
+      "episodeCount": 1,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1993-09-15",
+      "episodeCount": 1,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1994-09-21",
+      "episodeCount": 1,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1995-09-14",
+      "episodeCount": 1,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1996-09-12",
+      "episodeCount": 30,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1997-09-11",
+      "episodeCount": 52,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "1998-04-30",
+      "episodeCount": 16,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "1998-09-17",
+      "episodeCount": 53,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "1999-09-23",
+      "episodeCount": 43,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2000-09-21",
+      "episodeCount": 42,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2001-09-28",
+      "episodeCount": 45,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2002-09-20",
+      "episodeCount": 43,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2003-09-27",
+      "episodeCount": 35,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2004-09-25",
+      "episodeCount": 30,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2005-09-24",
+      "episodeCount": 30,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2006-09-23",
+      "episodeCount": 29,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2007-09-29",
+      "episodeCount": 27,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2008-09-24",
+      "episodeCount": 26,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2009-09-19",
+      "episodeCount": 26,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2010-09-25",
+      "episodeCount": 27,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": "/6Si0pICstrD0HzgVwKNLN9BRD7a.jpg",
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2011-09-24",
+      "episodeCount": 27,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "2012-09-28",
+      "episodeCount": 27,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "2013-09-28",
+      "episodeCount": 34,
+      "name": "Season 27",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "2014-09-27",
+      "episodeCount": 68,
+      "name": "Season 28",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "2015-09-12",
+      "episodeCount": 38,
+      "name": "Season 29",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "2016-09-24",
+      "episodeCount": 33,
+      "name": "Season 30",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "2017-09-30",
+      "episodeCount": 32,
+      "name": "Season 31",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "2018-09-29",
+      "episodeCount": 30,
+      "name": "Season 32",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "2019-09-14",
+      "episodeCount": 33,
+      "name": "Season 33",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "2020-09-09",
+      "episodeCount": 37,
+      "name": "Season 34",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "2021-09-18",
+      "episodeCount": 31,
+      "name": "Season 35",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "2022-09-17",
+      "episodeCount": 31,
+      "name": "Season 36",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 36
+    },
+    {
+      "airDate": "2023-09-16",
+      "episodeCount": 33,
+      "name": "Season 37",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 37
+    },
+    {
+      "airDate": "2024-09-21",
+      "episodeCount": 33,
+      "name": "Season 38",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 38
+    },
+    {
+      "airDate": "2025-09-27",
+      "episodeCount": 30,
+      "name": "Season 39",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 39
+    },
+    {
+      "airDate": "2026-10-17",
+      "episodeCount": 5,
+      "name": "Season 40",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 40
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "48 Hours",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 56,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        },
+        {
+          "id": 300,
+          "logoPath": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+          "name": "Pluto TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 582,
+          "logoPath": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        },
+        {
+          "id": 633,
+          "logoPath": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+          "name": "Paramount+ Roku Premium Channel"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/3719-48-hours/watch?locale=US",
+      "rent": []
+    }
+  }
+}

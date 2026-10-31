@@ -1,0 +1,169 @@
+{
+  "backdropPath": "/zF7D0p8qH48C8coIcQkj6JTMin8.jpg",
+  "cast": [
+    {
+      "character": "Self (archive footage)",
+      "id": 3479856,
+      "name": "Shelley Beattie",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 19797,
+      "name": "Marlee Matlin",
+      "profilePath": "/1iV3yA07kdj7RFj2yyzwO2T6M8o.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6466061,
+      "name": "John Romano",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6466062,
+      "name": "Ed Connors",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 3038532,
+      "name": "Bill Koch",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6466063,
+      "name": "Julie Moisa",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 78716,
+      "logoPath": "/zanTFCnT4L5Bqspx8LphYOcr6Vc.png",
+      "name": "Vermilion Films"
+    },
+    {
+      "id": 14914,
+      "logoPath": "/1RZBWz53SpHUTLpRcM8BGv2plIP.png",
+      "name": "HBO Documentary Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-09-22",
+  "externalIds": {
+    "imdbId": "tt38516475"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1552433,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Siren: The Voices of Shelley Beattie",
+  "overview": "Shelley Beattie, a Deaf woman and champion bodybuilder, found fame in the 1990s on the hit TV show American Gladiators, where she competed under the name \"Siren\" before her untimely death in 2008. While charismatic, gorgeous, and a fierce competitor, Beattie also battled personal demons, struggling with mental illness, addiction, and questions of her own identity. Framed by the insight of another Deaf woman in Hollywood who found herself in the spotlight at the same time, Academy Award-winning actress Marlee Matlin, the documentary unpacks the story of Shelley \"Siren\" Beattie and her complex legacy entwined with beauty, mental illness, and love.",
+  "posterPath": "/AnDdiPWDJDrgOqLdoJkcGItSMlV.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-22",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-09-22",
+      "premiere": "2025-10-17",
+      "tv": "2026-09-22"
+    }
+  },
+  "runtime": 103,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Siren: The Voices of Shelley Beattie",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "W0Bs0wE2hig",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1552433-siren-the-voices-of-shelley-beattie/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1552433-siren-the-voices-of-shelley-beattie/watch?locale=US",
+      "rent": []
+    }
+  }
+}

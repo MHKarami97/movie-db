@@ -1,0 +1,94 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Clara",
+      "id": 3267066,
+      "name": "Larissa Kiers",
+      "profilePath": "/3jhZH8VxR1m0uucKk9JYl8kLKBr.jpg"
+    },
+    {
+      "character": "Johannes",
+      "id": 1181865,
+      "name": "Andreas Nickl",
+      "profilePath": "/jX60elmIypF5HTOpAoLAmZybV2E.jpg"
+    },
+    {
+      "character": "Stevie",
+      "id": 2481325,
+      "name": "Kevin Patzke",
+      "profilePath": "/lY6m0BBoz1jClAbyQwo2FR4hLZS.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 121085,
+      "logoPath": null,
+      "name": "Projekt:Film"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34223576",
+    "instagramId": "balance_der_film"
+  },
+  "fetchedAt": 1794677631424,
+  "gapDays": null,
+  "genres": [],
+  "id": 1556894,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    },
+    {
+      "code": "nl",
+      "name": "Dutch"
+    }
+  ],
+  "originalTitle": "Balance",
+  "overview": "Johannes, a moderately successful musician, receives a visit from his daughter Clara, who lives with her mother in the Netherlands. Everything is prepared for one of their usual brief encounters: the guest room is aired out, and the bathroom has been haphazardly cleaned. Clara is just passing through anyway; she’s planning to travel on to Korea the next day. But when her flight is delayed, father and daughter suddenly have more time than they know how to fill. What happens when there’s suddenly space to truly connect? Johannes suggests spending a few days at the old family cabin by the Baltic Sea. What begins euphorically becomes a journey of discovery, where music plays the leading role.",
+  "posterPath": "/7RolXzH2cneN4OtMoDB2JWDzBsX.jpg",
+  "rating": 10,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 79,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Balance",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 1,
+  "watchProviders": {}
+}

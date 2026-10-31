@@ -1,0 +1,142 @@
+{
+  "backdropPath": "/bCASckjHVcF3KaI86Oxj3f0Dfjz.jpg",
+  "cast": [
+    {
+      "character": "Marion",
+      "id": 1021689,
+      "name": "Anamaria Vartolomei",
+      "profilePath": "/jRU3453OyqirChIl2EEevhliAjq.jpg"
+    },
+    {
+      "character": "Nour",
+      "id": 2345947,
+      "name": "Sayyid El Alami",
+      "profilePath": "/zAPj1oTPAJPTVocnaaRZu7Sd0CP.jpg"
+    },
+    {
+      "character": "Chaya",
+      "id": 5464385,
+      "name": "Douae Butarbuch Mzaouki",
+      "profilePath": null
+    },
+    {
+      "character": "Ben",
+      "id": 3147599,
+      "name": "Arcadi Radeff",
+      "profilePath": "/5e8phMITmDTHRbdF3KaB46x6pOl.jpg"
+    },
+    {
+      "character": "Rafi",
+      "id": 6405637,
+      "name": "Omar Al Jbaai",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 172061,
+      "logoPath": "/1mTGZfOHTclhsgMOW0qfUb9bWAn.png",
+      "name": "June Films"
+    },
+    {
+      "id": 726,
+      "logoPath": "/hHaQQgxqg2NohqZSxbMTB9E483m.png",
+      "name": "Haut et Court"
+    },
+    {
+      "id": 591,
+      "logoPath": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma"
+    },
+    {
+      "id": 1926,
+      "logoPath": "/eSnbNBmDyok9rcpWxYRaBjTaq1n.png",
+      "name": "Les Films du Fleuve"
+    },
+    {
+      "id": 122594,
+      "logoPath": "/w7CeTbwg9SmhZVilZXh4Yy1yp6Y.png",
+      "name": "HOBAB"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34671488",
+    "wikidataId": "Q140502097"
+  },
+  "fetchedAt": 1794261012106,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1387504,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Les Yeux Verts",
+  "overview": "Chaya, 11, lives with her family in the Landes region, by the ocean. When they learn they’re being evicted, her older brother Nour falls into a deep and mysterious sleep. Chaya will do everything she can to wake him up, even going so far as to dive into his dreams to find him.",
+  "posterPath": "/huXtt6bsXMqMLNhSaMDMttEGpGb.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Green Eyes",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Iy9r9vDk0zU",
+      "name": "Official Teaser",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

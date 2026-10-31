@@ -1,0 +1,116 @@
+{
+  "backdropPath": "/uYTppC60aDL6pZsZOc1PLlErFwO.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 127436,
+      "logoPath": "/85hn0WZVj2wpm7scTkrQz76lKJ7.png",
+      "name": "LCP - Assemblée nationale"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": "2020-11-25",
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 239217,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-11-30",
+    "episodeNumber": 6,
+    "id": 4909598,
+    "name": "Episode 6",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-20",
+    "episodeNumber": 7,
+    "id": 4909601,
+    "name": "Episode 7",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Génération 2008 : qui seront-ils demain ?",
+  "overview": "",
+  "posterPath": "/c3SGq7iM7gwLqrhmIFkpAtV8jii.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2020-11-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2020-11-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2020-11-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2020-11-25",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2020-11-25"
+    },
+    "CN": {
+      "tv": "2020-11-25"
+    },
+    "GB": {
+      "tv": "2020-11-25"
+    },
+    "US": {
+      "tv": "2020-11-25"
+    }
+  },
+  "runtime": 52,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2020-11-25",
+      "episodeCount": 10,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Génération 2008 : qui seront-ils demain ?",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

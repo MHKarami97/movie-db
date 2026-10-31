@@ -1,0 +1,228 @@
+{
+  "backdropPath": "/wG2VyZvBjXwuZUvqK00UcUNIpCG.jpg",
+  "cast": [
+    {
+      "character": "Chiharu (voice)",
+      "id": 4206137,
+      "name": "Momoka Terasawa",
+      "profilePath": "/lLS7b6k1653tiVwbi6pq9JXzMBW.jpg"
+    },
+    {
+      "character": "Makima (voice)",
+      "id": 2889712,
+      "name": "Anna Nagase",
+      "profilePath": "/heDlgzYufLmyYdlLoiwXeJDiX8H.jpg"
+    },
+    {
+      "character": "Ryoko (voice)",
+      "id": 1281498,
+      "name": "Mikako Komatsu",
+      "profilePath": "/13tQEZ1tLdOmi7oGoRJ4xep1ODQ.jpg"
+    },
+    {
+      "character": "Akane (voice)",
+      "id": 1116333,
+      "name": "Hisako Kanemoto",
+      "profilePath": "/yosLId8iiPcvDZpeoLuGkDKlorU.jpg"
+    },
+    {
+      "character": "Kanata (voice)",
+      "id": 1645397,
+      "name": "Makoto Koichi",
+      "profilePath": "/gpslQDgkGoL3Ap9QsK1nljeGPKJ.jpg"
+    },
+    {
+      "character": "Kurt (voice)",
+      "id": 1254052,
+      "name": "Koki Uchiyama",
+      "profilePath": "/sllSm3iZZWVLTBrDZQRtWrZUfEj.jpg"
+    },
+    {
+      "character": "Max (voice)",
+      "id": 1325033,
+      "name": "Yoshitaka Yamaya",
+      "profilePath": "/jptl2nYlIMSs6oJViWyIWYvyXPj.jpg"
+    },
+    {
+      "character": "O.T.A.M. (voice)",
+      "id": 2810738,
+      "name": "Yuri Fujiwara",
+      "profilePath": "/q7jw6xX2m5m6DkaUj5IM5eoNcos.jpg"
+    },
+    {
+      "character": "Asami (voice)",
+      "id": 1065297,
+      "name": "Kensho Ono",
+      "profilePath": "/wUYJ3HIeygHfh4rAqupE4RPoG3W.jpg"
+    },
+    {
+      "character": "Haga (voice)",
+      "id": 2840664,
+      "name": "Robert Waterman",
+      "profilePath": "/xsawPq0cYw1UU0uvUu9t1y9svVE.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 5141,
+      "logoPath": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+      "name": "Shin-Ei Animation"
+    },
+    {
+      "id": 156047,
+      "logoPath": "/bR1IGv2EUNaLGPIA3jRgbATUaX8.png",
+      "name": "Bit grooove promotion"
+    },
+    {
+      "id": 173132,
+      "logoPath": "/yV9EORK2ZwdMg45K10PuVh6LlM3.png",
+      "name": "Bandai Namco Filmworks"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2026-06-01",
+  "externalIds": {
+    "imdbId": "tt39228706",
+    "instagramId": "milkygalacticuniverse",
+    "twitterId": "MGUJapan"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "id": 1598785,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "originalTitle": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+  "overview": "Six delinquents are tasked with cleaning a train as part of a community service program. But when the train suddenly takes off, chaos ensues.",
+  "posterPath": "/brQf6Odu4S6WzfVLuXLbOcbsOP2.jpg",
+  "rating": 8.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-06-01"
+    }
+  },
+  "runtime": 46,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Milky☆Subway: The Galactic Limited Express - the Movie",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "5aYkjZYbWX8",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 47,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1598785/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1598785/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1598785/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "backdropPath": "/j0mFEBC9xqAy92wPL3oarD1QxhV.jpg",
+  "cast": [
+    {
+      "character": "Maarten",
+      "id": 1425599,
+      "name": "Leo Alkemade",
+      "profilePath": "/zNfR6xQsEGzQkA8iEQeO6qCM1mz.jpg"
+    },
+    {
+      "character": "Hans",
+      "id": 1854,
+      "name": "Huub Stapel",
+      "profilePath": "/Ar41d7m6EA9eHGc7sMYTligjA77.jpg"
+    },
+    {
+      "character": "Loes",
+      "id": 78801,
+      "name": "Jennifer Hoffman",
+      "profilePath": "/oRf4bmHG5323H97rKoiLwJT4vE0.jpg"
+    },
+    {
+      "character": "Sophie",
+      "id": 211089,
+      "name": "Beppie Melissen",
+      "profilePath": "/piTNgDXkDv4ERhBDhPOj3PTXrmM.jpg"
+    },
+    {
+      "character": "",
+      "id": 1021438,
+      "name": "Guus Meeuwis",
+      "profilePath": "/w6Mms7A4zRVlp5wYPeAUNlfyWC6.jpg"
+    },
+    {
+      "character": "Maartens tante",
+      "id": 934585,
+      "name": "Bianca Krijgsman",
+      "profilePath": "/uKlg3slzJvefqHpPwETC10jqk0H.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 284102,
+      "logoPath": null,
+      "name": "Aattache Films"
+    },
+    {
+      "id": 108148,
+      "logoPath": "/3uQcIexuoQKQOgYuVIdhwygtr9R.png",
+      "name": "Incredible Film"
+    }
+  ],
+  "countries": [
+    {
+      "code": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38816122",
+    "wikidataId": "Q138635058"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1603145,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "nl",
+      "name": "Dutch"
+    }
+  ],
+  "originalTitle": "Champagne",
+  "overview": "When Maarten learns that his father, Hans, is terminally ill, he decides to take him on one last road trip to the Champagne region.",
+  "posterPath": "/2yOOA93nZFu9279ss4pA6WT49LS.jpg",
+  "rating": 6.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "An ode to all fathers.",
+  "theatricalDate": null,
+  "title": "Champagne",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {}
+}

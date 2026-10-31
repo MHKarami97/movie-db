@@ -1,0 +1,171 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Heidi",
+      "id": 9281,
+      "name": "Elizabeth Banks",
+      "profilePath": "/hQ7IwCQjlpsBPSpnnjjhH3rjwSJ.jpg"
+    },
+    {
+      "character": "",
+      "id": 1091324,
+      "name": "Rob Delaney",
+      "profilePath": "/xirfT1znRkkughLiPemKu3NhkKQ.jpg"
+    },
+    {
+      "character": "",
+      "id": 12836,
+      "name": "Ted Danson",
+      "profilePath": "/2QUEYVhrKbOkRKeFEUnc5sJby6a.jpg"
+    },
+    {
+      "character": "Adam",
+      "id": 1719593,
+      "name": "Jared Goldstein",
+      "profilePath": "/wD8vhQZ5m7hdd2swvKGn33zzx2Q.jpg"
+    },
+    {
+      "character": "Riley",
+      "id": 1592086,
+      "name": "Spencer Moss",
+      "profilePath": "/bHtcIXimeMcqROrLULOWrRGTEkX.jpg"
+    },
+    {
+      "character": "Evan",
+      "id": 184581,
+      "name": "Hamish Linklater",
+      "profilePath": "/ksTXQnWuKvmcVcbmHrvGaDof0P2.jpg"
+    },
+    {
+      "character": "Melissa",
+      "id": 1475128,
+      "name": "Michelle Buteau",
+      "profilePath": "/mgAH1JsATQXsQPwquuNJpqux4TO.jpg"
+    },
+    {
+      "character": "Dr. Zhou",
+      "id": 1489211,
+      "name": "Simu Liu",
+      "profilePath": "/cCx2OghLj9KN73oyRZe92i2p3Ih.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 236166,
+      "logoPath": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television"
+    },
+    {
+      "id": 12365,
+      "logoPath": "/nwjOaV5QmJ7cbXOBRG4wf8AVeUx.png",
+      "name": "Brownstone Productions"
+    },
+    {
+      "id": 194665,
+      "logoPath": null,
+      "name": "Selfish Mermaid"
+    },
+    {
+      "id": 122574,
+      "logoPath": "/2xI0eR2IYla5gBVoWAqJTQ62LKg.png",
+      "name": "Small Dog Picture Company"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "episodes": {
+    "1": [
+      {
+        "airDate": null,
+        "episodeNumber": 1,
+        "name": "Pilot",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": null,
+        "episodeNumber": 2,
+        "name": "What Kind of Friends Are We?",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt42027157"
+  },
+  "fetchedAt": 1794511516390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 320582,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": null,
+  "originalTitle": "She's Fine",
+  "overview": "Fresh off a messy divorce, Heidi sets out to secure a lively second act for herself and her kids. But when she stumbles into coordinating her father's retirement community sex dates, Heidi is forced into an unlikely alliance with his girlfriend’s perpetually single son.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": null,
+      "episodeCount": 2,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Planned",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "She's Fine",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

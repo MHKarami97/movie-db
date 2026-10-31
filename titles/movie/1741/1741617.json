@@ -1,0 +1,184 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Amelia",
+      "id": 2618671,
+      "name": "Christy Tate",
+      "profilePath": "/kAsGL6164ee4SwSENFpka7IsQ8t.jpg"
+    },
+    {
+      "character": "Hansel",
+      "id": 5247605,
+      "name": "Griffin Edge",
+      "profilePath": "/jUaLScfnxviuojD4CeRtB67gcjv.jpg"
+    },
+    {
+      "character": "Gretel",
+      "id": 6384178,
+      "name": "Alexia Berry",
+      "profilePath": null
+    },
+    {
+      "character": "Madison",
+      "id": 6080432,
+      "name": "Aubree Payne",
+      "profilePath": null
+    },
+    {
+      "character": "Jacob",
+      "id": 6384179,
+      "name": "Nehemiah Auxer",
+      "profilePath": null
+    },
+    {
+      "character": "Taylor",
+      "id": 5602681,
+      "name": "Madison Sein",
+      "profilePath": null
+    },
+    {
+      "character": "Michael",
+      "id": 6384182,
+      "name": "Tate Skelton",
+      "profilePath": null
+    },
+    {
+      "character": "Jacob's Mom",
+      "id": 6384184,
+      "name": "Amanda Stump",
+      "profilePath": null
+    },
+    {
+      "character": "Allison Cooper",
+      "id": 2848798,
+      "name": "Caroline Kelly",
+      "profilePath": null
+    },
+    {
+      "character": "Chloe",
+      "id": 6384188,
+      "name": "Kensington Jolie Jones",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 122637,
+      "logoPath": null,
+      "name": "Devilworks"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2026-08-01",
+  "externalIds": {
+    "imdbId": "tt41927454"
+  },
+  "fetchedAt": 1794337910228,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "id": 1741617,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Hansel & Gretel's Halloween",
+  "overview": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
+  "posterPath": "/taNnBPN5FrJqYxsiJIqAL0KhqZ.jpg",
+  "rating": 4.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-08-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-08-01"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Hansel & Gretel's Halloween",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "ix27wcPrFw4",
+      "name": "Hansel & Gretel's Halloween Exclusive Trailer (2026)",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 332,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango at Home Free"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1741617-hansel-gretel-s-halloween/watch?locale=US",
+      "rent": [
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

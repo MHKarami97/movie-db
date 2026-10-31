@@ -1,0 +1,209 @@
+{
+  "backdropPath": "/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
+  "cast": [
+    {
+      "character": "Sandhya",
+      "id": 1034471,
+      "name": "Parineeti Chopra",
+      "profilePath": "/DDBuGxqPZOcb2o9bk3ihPQdBn8.jpg"
+    },
+    {
+      "character": "Vinod",
+      "id": 110292,
+      "name": "Deven Bhojani",
+      "profilePath": "/4gKlQ8QD6BtfachIRAXOxB5vidB.jpg"
+    },
+    {
+      "character": "",
+      "id": 227849,
+      "name": "Adil Hussain",
+      "profilePath": "/eCWVa1pH7mmz0i9Q0l4VEKs7g6m.jpg"
+    },
+    {
+      "character": "",
+      "id": 1235143,
+      "name": "Shekhar Suman",
+      "profilePath": "/u6rcpRPOuqV4ONOMt6NGSgyR1w2.jpg"
+    },
+    {
+      "character": "",
+      "id": 105650,
+      "name": "Amol Palekar",
+      "profilePath": "/kUnejDjArzNVxouIaIj3WxxC83G.jpg"
+    },
+    {
+      "character": "",
+      "id": 130111,
+      "name": "Nassar",
+      "profilePath": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg"
+    },
+    {
+      "character": "",
+      "id": 1197127,
+      "name": "Geeta Agrawal Sharma",
+      "profilePath": "/5Jrwb9zWG2Hjmf8PQLuDmCKnMHG.jpg"
+    },
+    {
+      "character": "",
+      "id": 1093644,
+      "name": "Saswata Chatterjee",
+      "profilePath": "/cVJVLDy7BNzIbFMcJBPOWeN0Kb.jpg"
+    },
+    {
+      "character": "Pooja",
+      "id": 1239665,
+      "name": "Prachee Shah",
+      "profilePath": "/nCiNfb8VCtQ0PcYzIzzdVI5GlRl.jpg"
+    },
+    {
+      "character": "",
+      "id": 225163,
+      "name": "Pitobash",
+      "profilePath": "/p6BMCwXziu3tiqOfXYbHaS3ZZX1.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 312464,
+      "logoPath": null,
+      "name": "Old Monk Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2026-10-09",
+  "externalIds": {
+    "imdbId": "tt47657999",
+    "wikidataId": "Q141682667"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1389172,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "hi",
+      "name": "Hindi"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "रिपोर्टिंग लाइव",
+  "overview": "A young reporter and her reluctant cameraman chase a story, only to get entangled in an illegal sand-mining racket run by a ruthless syndicate.",
+  "posterPath": "/xVabS4lTi6IMscr2FOucxydE6ZD.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-09",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-09"
+    }
+  },
+  "runtime": 116,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Some stories refuse to be buried.",
+  "theatricalDate": null,
+  "title": "Reporting Live",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "GgGNG9XEJds",
+      "name": "Reporting Live | Official Trailer | Parineeti Chopra, Deven Bhojani, Pitobash | Netflix India",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1389172/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1389172/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1389172/watch?locale=US",
+      "rent": []
+    }
+  }
+}

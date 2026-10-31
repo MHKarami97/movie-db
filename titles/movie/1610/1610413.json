@@ -1,0 +1,209 @@
+{
+  "backdropPath": "/edGuDPKY6qHBg9hYvmnvLjcFoy4.jpg",
+  "cast": [
+    {
+      "character": "Self - Creator / Writer / Director",
+      "id": 1179422,
+      "name": "Ross Duffer",
+      "profilePath": "/AnZhpHzHKy0IWwn9KxkukXXWNte.jpg"
+    },
+    {
+      "character": "Self - Creator / Writer / Director",
+      "id": 1179419,
+      "name": "Matt Duffer",
+      "profilePath": "/xaBSTbWWVmKcZN5RoIzPiF5RzZj.jpg"
+    },
+    {
+      "character": "Self - Writer",
+      "id": 1666689,
+      "name": "Paul Dichter",
+      "profilePath": "/mXO68nUspmEPfcg257zbL5vstFJ.jpg"
+    },
+    {
+      "character": "Self - Writer",
+      "id": 1916848,
+      "name": "Kate Trefry",
+      "profilePath": "/3jom2ZqqSJ93G3DAbJGtItAsRS8.jpg"
+    },
+    {
+      "character": "Self - Writer",
+      "id": 3566405,
+      "name": "Caitlin Schneiderhan",
+      "profilePath": "/eDRgMiLEIcvxqSivArBJleoKijk.jpg"
+    },
+    {
+      "character": "Self - Executive Producer / Director / Guest Director Chapter 6 And 7",
+      "id": 17825,
+      "name": "Shawn Levy",
+      "profilePath": "/rpAvyeds9OztUQUUMmgg7eivfLY.jpg"
+    },
+    {
+      "character": "Self - Line Producer / Co-Executive Producer",
+      "id": 1113659,
+      "name": "Lampton Enochs",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Production Designer",
+      "id": 966560,
+      "name": "Chris Trujillo",
+      "profilePath": "/buKt8mPzNsQ9Gb6XNIVAcQkeIJc.jpg"
+    },
+    {
+      "character": "Self - Set Decorator",
+      "id": 1285825,
+      "name": "Jess Royal",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Costume Designer",
+      "id": 2025119,
+      "name": "Amy Parris",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 182083,
+      "logoPath": "/snRLy61xn6sZNtNi3uNpFp1nLVE.png",
+      "name": "MakeMake"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-01-12",
+  "externalIds": {
+    "imdbId": "tt39307872"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1610413,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "One Last Adventure: The Making of Stranger Things 5",
+  "overview": "مستندی از پروسه ساخت و فیلمبرداری فصل آخر سریال مشهور اتفاقات عجیب.",
+  "posterPath": "/iX3ccl1TUNZgu4cNUm1pRLcevww.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-01-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-01-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-01-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-01-12"
+    },
+    "GB": {
+      "digital": "2026-01-12"
+    },
+    "US": {
+      "digital": "2026-01-12"
+    }
+  },
+  "runtime": 123,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "One Last Adventure: The Making of Stranger Things 5",
+  "translations": {
+    "faOverview": "مستندی از پروسه ساخت و فیلمبرداری فصل آخر سریال مشهور اتفاقات عجیب.",
+    "faTitle": "آخرین ماجراجویی: ساخت اتفاقات عجیب ۵"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "bLxvdUroRic",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 99,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1610413-one-last-adventure-the-making-of-stranger-things-5/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1610413-one-last-adventure-the-making-of-stranger-things-5/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1610413-one-last-adventure-the-making-of-stranger-things-5/watch?locale=US",
+      "rent": []
+    }
+  }
+}

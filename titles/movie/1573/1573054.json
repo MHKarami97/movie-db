@@ -1,0 +1,146 @@
+{
+  "backdropPath": "/6wpaygiUJGovZDWkmVlifC4vK6P.jpg",
+  "cast": [
+    {
+      "character": "Elliot",
+      "id": 1968242,
+      "name": "Will Harrison",
+      "profilePath": "/cBVQp3Q0nFl5dmeGVQJQYHImRkw.jpg"
+    },
+    {
+      "character": "Cath",
+      "id": 1221085,
+      "name": "Jessica Sula",
+      "profilePath": "/2lLET7EhRy98ad5Mgc9jMk4Sb0S.jpg"
+    },
+    {
+      "character": "Alden",
+      "id": 3395594,
+      "name": "Jordan Gonzalez",
+      "profilePath": "/i5GZ3xQ9kAHhUBRA0LDvnzok5dk.jpg"
+    },
+    {
+      "character": "Mr. Morton",
+      "id": 58528,
+      "name": "James Urbaniak",
+      "profilePath": "/7KUK2x6OI5XdPX5xrYAo9hxL49Z.jpg"
+    },
+    {
+      "character": "",
+      "id": 963213,
+      "name": "Nina Millin",
+      "profilePath": "/9zvP4oAr8sZ8BJBIc1RCwMEwhJe.jpg"
+    },
+    {
+      "character": "",
+      "id": 3667994,
+      "name": "Kevin Keppy",
+      "profilePath": "/52KbtEvQylLmtfGpqFZW3jXme6Y.jpg"
+    },
+    {
+      "character": "",
+      "id": 6454466,
+      "name": "Koda Zephyr",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 150095,
+      "logoPath": "/ahzjpqFBPQLTA3KLAd17HQSDiBv.png",
+      "name": "CHROMA"
+    },
+    {
+      "id": 285103,
+      "logoPath": null,
+      "name": "Skinny Ghost"
+    },
+    {
+      "id": 89115,
+      "logoPath": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
+      "name": "Divide / Conquer"
+    },
+    {
+      "id": 314016,
+      "logoPath": "/m9hpJbTXQIJfGSqYqaYDboUyjac.png",
+      "name": "Blumhouse Atomic"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38492840",
+    "instagramId": "playhousemovie",
+    "wikidataId": "Q141682665"
+  },
+  "fetchedAt": 1794337910228,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1573054,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Play House",
+  "overview": "While renovating a dilapidated house to win back his ex, a man discovers VHS tapes of an unaired children’s show that begins to invade his life and threaten his chance at reconciliation.",
+  "posterPath": "/xklRbyVyO7itKSfC1jONLvGb4lM.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-09-19"
+    }
+  },
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Welcome home.",
+  "theatricalDate": null,
+  "title": "Play House",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "LSbb6I2b8RA",
+      "name": "Play House | Official Clip | Chroma",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 1,
+  "watchProviders": {}
+}

@@ -1,0 +1,277 @@
+{
+  "backdropPath": "/juKO2h7aa371poRvShNCTidInd9.jpg",
+  "cast": [
+    {
+      "character": "Sophie",
+      "id": 2038232,
+      "name": "Sandra Guldberg Kampp",
+      "profilePath": "/z3pdqhsGrgEEMA1dTnuGXS3Wn6M.jpg"
+    },
+    {
+      "character": "Mary",
+      "id": 17257,
+      "name": "Elina Löwensohn",
+      "profilePath": "/pRFLUsONKzg0hnl2CLnNBE4AJZ1.jpg"
+    },
+    {
+      "character": "Bana",
+      "id": 2822971,
+      "name": "Tracy Gotoas",
+      "profilePath": "/sj3SKfnvMTklXRXvClHUwfs4orh.jpg"
+    },
+    {
+      "character": "Nelly",
+      "id": 1430853,
+      "name": "Lily Taïeb",
+      "profilePath": "/1HLJSP3xewf4M3l6Bpc1IliKRfN.jpg"
+    },
+    {
+      "character": "Frida",
+      "id": 5154489,
+      "name": "Juliana Vieira-Guerra",
+      "profilePath": null
+    },
+    {
+      "character": "Heidi",
+      "id": 1756490,
+      "name": "Helena Zengel",
+      "profilePath": "/6ousX9QcimaM2tuaeBcqYEfBjKG.jpg"
+    },
+    {
+      "character": "Xue",
+      "id": 2828742,
+      "name": "Lucie Zhang",
+      "profilePath": "/82uHWNBOfjHM21tk68IHdBCEZA9.jpg"
+    },
+    {
+      "character": "Fred",
+      "id": 1883133,
+      "name": "Vincent Romeo",
+      "profilePath": null
+    },
+    {
+      "character": "Erin",
+      "id": 6504423,
+      "name": "Ambre Olive",
+      "profilePath": null
+    },
+    {
+      "character": "Stavkos",
+      "id": 31960,
+      "name": "Zlatko Burić",
+      "profilePath": "/2b9ErKvUwblnByewNMXqBtFEIzQ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 233252,
+      "logoPath": null,
+      "name": "BT Co-Production"
+    },
+    {
+      "id": 20037,
+      "logoPath": "/6W92BtQOutAi9KFp0aeb41RBH95.png",
+      "name": "Augenschein Filmproduktion"
+    },
+    {
+      "id": 63193,
+      "logoPath": "/4Yh9YAmFBxEDToZWSushagyRzap.png",
+      "name": "Port au Prince Films"
+    },
+    {
+      "id": 242631,
+      "logoPath": "/9l53h4TYA8ptXcM4JPDabycZO4v.png",
+      "name": "Das kleine Fernsehspiel"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "2026-09-25",
+  "externalIds": {
+    "imdbId": "tt34735922",
+    "wikidataId": "Q141740861"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1314122,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Bloody Tennis",
+  "overview": "Sophie joins a prestigious tennis academy, where the brutality of competitive sports is taken to its extreme and only the hungriest survive.",
+  "posterPath": "/3lc1DsvKGUEtAcd8Od0viYk327Y.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-24"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-25",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-09-24"
+    },
+    "US": {
+      "digital": "2026-09-25",
+      "premiere": "2026-09-17"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Bloody Tennis",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "lM0zVd8CSR4",
+      "name": "BLOODY TENNIS | Official Trailer | Shudder",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1314122-bloody-tennis/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1854,
+          "logoPath": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 635,
+          "logoPath": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+          "name": "AMC+ Roku Premium Channel"
+        },
+        {
+          "id": 526,
+          "logoPath": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+          "name": "AMC+"
+        },
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1314122-bloody-tennis/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

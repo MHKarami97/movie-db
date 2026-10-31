@@ -1,0 +1,151 @@
+{
+  "backdropPath": "/h3l6TVyQrpu6DUdIw5sHqPsZPwB.jpg",
+  "cast": [
+    {
+      "character": "Eva",
+      "id": 106817,
+      "name": "Blanca Suárez",
+      "profilePath": "/otfekDB4sJbZeXavqyC0CKadSkQ.jpg"
+    },
+    {
+      "character": "Nazario",
+      "id": 17093,
+      "name": "Eduardo Noriega",
+      "profilePath": "/wL2pCdw5lNsDrWRor3rxwLaSTQK.jpg"
+    },
+    {
+      "character": "José",
+      "id": 33411,
+      "name": "Tamar Novas",
+      "profilePath": "/3MpjB6lxeTUA9EunaV4kAyvOvIG.jpg"
+    },
+    {
+      "character": "Celia",
+      "id": 592476,
+      "name": "Marian Álvarez",
+      "profilePath": "/1pD1WvFckQ8t6LrovKn8wWkCxvW.jpg"
+    },
+    {
+      "character": "Ezequiel",
+      "id": 272018,
+      "name": "Joaquín Climent",
+      "profilePath": "/xtq8blzK76qwRwg5CAtvk9gm57D.jpg"
+    },
+    {
+      "character": "Javi",
+      "id": 1098350,
+      "name": "Raúl Prieto",
+      "profilePath": "/osXhdIeQ44FTJIOOtJfP2yQ15tA.jpg"
+    },
+    {
+      "character": "Alicia",
+      "id": 3705593,
+      "name": "Claudia Mora",
+      "profilePath": "/v7QQiLERrRBPQ2XudJA0Xor4e8Y.jpg"
+    },
+    {
+      "character": "Madre de Ali",
+      "id": 6038257,
+      "name": "Iolanda Muñoz",
+      "profilePath": null
+    },
+    {
+      "character": "Amante Madre de Ali",
+      "id": 1147828,
+      "name": "Raúl Julve",
+      "profilePath": "/zvrkxvVIoUaEjnCaNUICi2FhjQx.jpg"
+    },
+    {
+      "character": "Asociada Empresa Eva",
+      "id": 6038259,
+      "name": "Lucía Aibar",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 107062,
+      "logoPath": "/jGCjbdQZXvjbjiIAk7dgIGu7UDG.png",
+      "name": "Sunrise Pictures"
+    },
+    {
+      "id": 155911,
+      "logoPath": "/hHqytK6u6SYrSHsq6fgViBUZ8YX.png",
+      "name": "Prisma Cine"
+    },
+    {
+      "id": 1181,
+      "logoPath": "/5wdbLRmYZoKTh8e71J4t6P6NS1T.png",
+      "name": "Telespan 2000"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    },
+    {
+      "code": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt32379198",
+    "wikidataId": "Q136428311"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1292315,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Parecido a un asesinato",
+  "overview": "Eva is in a happy moment of her life with her new partner, Nazario, and his daughter Alicia. But an encounter with her ex, José, opens the door to complicated situations that will send her on a journey of fear that has terrible consequences for everyone. Nothing is what it seems.",
+  "posterPath": "/tzRbiQOKBHn15ri72EgBeHBLcyH.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 111,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Hidden Murder",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 37,
+  "watchProviders": {}
+}

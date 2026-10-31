@@ -1,0 +1,165 @@
+{
+  "backdropPath": "/yBF6wReT80V1K8x71087LHjafMn.jpg",
+  "cast": [
+    {
+      "character": "Ahtitsa",
+      "id": 1923653,
+      "name": "Matina Douskou",
+      "profilePath": null
+    },
+    {
+      "character": "Gerbinho",
+      "id": 1617518,
+      "name": "Olia Lazaridou",
+      "profilePath": "/3cHQv6UKSbCB0nx3gQ1F0wclfO5.jpg"
+    },
+    {
+      "character": "Margaritis",
+      "id": 2158537,
+      "name": "Alexandros Mavropoulos",
+      "profilePath": "/ijnIxVVuEFbQ6TOCrhQSrtXro5G.jpg"
+    },
+    {
+      "character": "Teacher",
+      "id": 2980948,
+      "name": "Vasilis Magouliotis",
+      "profilePath": "/bl6VYCh21rBWDKQaoVgssXhOqOo.jpg"
+    },
+    {
+      "character": "Father Dimitris",
+      "id": 1074097,
+      "name": "Antonis Kafetzopoulos",
+      "profilePath": "/suBwnu35QJAbSgIe7tZrl1D2w2g.jpg"
+    },
+    {
+      "character": "Merchant",
+      "id": 123047,
+      "name": "Stelios Mainas",
+      "profilePath": "/gEhcVRXaHpdu08YdATefGuXM8ww.jpg"
+    },
+    {
+      "character": "Alexandros Papadiamantis",
+      "id": 6565715,
+      "name": "Takis Tzamargias",
+      "profilePath": null
+    },
+    {
+      "character": "Captain",
+      "id": 6614117,
+      "name": "Christos Giannoulis",
+      "profilePath": null
+    },
+    {
+      "character": "Harvester",
+      "id": 3046070,
+      "name": "Patis Koutsaftis",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 123751,
+      "logoPath": "/6c8cIOL6B392vUWezHgaC7qJU6U.png",
+      "name": "Pan Entertainment"
+    },
+    {
+      "id": 7254,
+      "logoPath": "/hDJO96mUfqtB9ia7ef7mEvguPxl.png",
+      "name": "Greek Film Centre"
+    },
+    {
+      "id": 7255,
+      "logoPath": "/aHu0SirjV9Mi0OrlnFWqZwy50wW.png",
+      "name": "ERT"
+    },
+    {
+      "id": 273818,
+      "logoPath": null,
+      "name": "ΕΚΚΟΜΕΔ"
+    },
+    {
+      "id": 22948,
+      "logoPath": "/xgMyvXdOY4r0zjZaxdkLV1fiGdN.png",
+      "name": "Feelgood Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GR",
+      "name": "Greece"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt48255466"
+  },
+  "fetchedAt": 1794677631424,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1793175,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "el",
+      "name": "Greek"
+    }
+  ],
+  "originalTitle": "Η Σταχομαζώχτρα",
+  "overview": "On Christmas Eve, on a small snow-covered Aegean island in the late 19th century, Ahtitsa, a poor elderly woman, struggles to raise her two orphaned grandchildren, with the help of her kind neighbor Gerbinho. Just as despair is about to consume her, a check from her long-lost son in America brings hope. When the village grocer attempts to exploit her ignorance of its true value, a chance intervention by a stranded merchant from Syros gifts Ahtitsa a brighter future.",
+  "posterPath": "/xWY2VXd0EMhC7M3UzFmV8FjKkH7.jpg",
+  "rating": 8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 72,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Gleaner",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "4qAjsLuqZnA",
+      "name": "ΣΤΑΧΟΜΑΖΩΧΤΡΑ - official trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 1,
+  "watchProviders": {}
+}

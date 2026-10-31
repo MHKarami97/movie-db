@@ -1,0 +1,230 @@
+{
+  "backdropPath": "/t8twfnytLPitdJzNVU1yjP4gjD7.jpg",
+  "cast": [
+    {
+      "character": "Ai",
+      "id": 1732473,
+      "name": "Anna Yamada",
+      "profilePath": "/2cCWdsCpZbG67HJ96QdI9VVvh0G.jpg"
+    },
+    {
+      "character": "Yuu",
+      "id": 1320679,
+      "name": "Yuzu Aoki",
+      "profilePath": "/xZdmoDei5fxBruGtpy9I01XV4aF.jpg"
+    },
+    {
+      "character": "Principal",
+      "id": 120434,
+      "name": "Pierre Taki",
+      "profilePath": "/nIgFcU0smYH7FdzUt96d685uU1h.jpg"
+    },
+    {
+      "character": "",
+      "id": 2018780,
+      "name": "Ren Komai",
+      "profilePath": "/lqNVytUK3Pa5QND6LZZv7twmbuw.jpg"
+    },
+    {
+      "character": "",
+      "id": 5002006,
+      "name": "Danhi Kinoshita",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 3762673,
+      "name": "Arisa Sasaki",
+      "profilePath": "/n7SXQAx9h6v6HLK7bzCfjSLPjsu.jpg"
+    },
+    {
+      "character": "",
+      "id": 6499243,
+      "name": "Kano Rogers",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 3759620,
+      "name": "Jun Hosoi",
+      "profilePath": "/3Uza3qtzOOTHoyhBw3WjQ5H9DLb.jpg"
+    },
+    {
+      "character": "",
+      "id": 3577938,
+      "name": "Ryo Matsumoto",
+      "profilePath": "/iFeVMnLT4qSEU5d8Olzt9ZvQOyD.jpg"
+    },
+    {
+      "character": "Ai's Father",
+      "id": 1385839,
+      "name": "Tomomitsu Adachi",
+      "profilePath": "/oHl0D6F1FBH0Y3IvZT7quWhoGmk.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 288838,
+      "logoPath": "/qRcWwa7jYG206gK212CXRlEVtx1.png",
+      "name": "Gemini Films"
+    },
+    {
+      "id": 2073,
+      "logoPath": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+      "name": "KADOKAWA"
+    },
+    {
+      "id": 170125,
+      "logoPath": "/aQ07cYAVuJCmfuCeiaDnmmhdibk.png",
+      "name": "Movie Walker"
+    },
+    {
+      "id": 288840,
+      "logoPath": null,
+      "name": "Sasaki kogyo"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2026-11-06",
+  "externalIds": {
+    "imdbId": "tt37694048",
+    "twitterId": "newgroup_movie",
+    "wikidataId": "Q136361213"
+  },
+  "fetchedAt": 1794424086332,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1494715,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "originalTitle": "NEW GROUP",
+  "overview": "Ai is a high school girl who feels suffocated by social pressure, but finds it hard to fight going with the flow. One day, the people in her school inexplicably start to form a human pyramid. The principal and other teachers start to act weird and encourage taking part in it, and the various gymnastic formations start to spread and take over the whole town. Eventually only Ai and Yuu, a transfer student who finds it hard to fit in, are left to rebel against the conformity madness.",
+  "posterPath": "/pGFwsjc8hybMa0EKeFrIJAs5k12.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-06",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-11-06"
+    },
+    "US": {
+      "digital": "2026-11-06",
+      "premiere": "2025-10-01"
+    }
+  },
+  "runtime": 82,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "New Group",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Bb-D56wriE8",
+      "name": "New Group | Official Trailer | Horror Brains",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        },
+        {
+          "id": 204,
+          "logoPath": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+          "name": "Shudder Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1494715-new-group/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1854,
+          "logoPath": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 526,
+          "logoPath": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+          "name": "AMC+"
+        },
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1494715-new-group/watch?locale=US",
+      "rent": []
+    }
+  }
+}

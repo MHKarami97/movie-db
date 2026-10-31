@@ -1,0 +1,169 @@
+{
+  "backdropPath": "/q3VkiqQi7syrVANAK8PjgIry0Vx.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 6472206,
+      "name": "Rob Bonta",
+      "profilePath": "/qfkiFSRP4Id0zciBhFs7lelFtTq.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 125345,
+      "logoPath": "/z3Ly3BKafB4PUkvVmkTwLQ8V8yS.png",
+      "name": "Concordia Studio"
+    },
+    {
+      "id": 267524,
+      "logoPath": null,
+      "name": "City Hill Arts"
+    },
+    {
+      "id": 26249,
+      "logoPath": null,
+      "name": "Bay Bridge Productions Inc."
+    },
+    {
+      "id": 4183,
+      "logoPath": "/bPOaJehJ43bEq1sip5jE1G53IEE.png",
+      "name": "Diamond Docs"
+    },
+    {
+      "id": 233430,
+      "logoPath": null,
+      "name": "Minderoo Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-03-16",
+  "externalIds": {
+    "imdbId": "tt39345599"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1636918,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Plastic Detox",
+  "overview": "This eye-opening documentary follows six couples with unexplained infertility as they lower their exposure to plastics in hopes it helps them conceive.",
+  "posterPath": "/1FuExEaXy9ejGGm6VHCdirvk6zg.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-03-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-16",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-03-16"
+    },
+    "US": {
+      "digital": "2026-03-16"
+    }
+  },
+  "runtime": 92,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Plastic Detox",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Esd8PEWlt9w",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 18,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1636918-the-plastic-detox/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1636918-the-plastic-detox/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1636918-the-plastic-detox/watch?locale=US",
+      "rent": []
+    }
+  }
+}

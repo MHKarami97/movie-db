@@ -1,0 +1,202 @@
+{
+  "backdropPath": "/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg",
+  "cast": [
+    {
+      "character": "Elan",
+      "id": 1751939,
+      "name": "Elan",
+      "profilePath": "/5gHZ9md8xQHYLFAjV5gq9koJtfQ.jpg"
+    },
+    {
+      "character": "Pavithra",
+      "id": 2480543,
+      "name": "Saanve Megghana",
+      "profilePath": "/7V5nyIQGh5stBcad5fo45yv6GWc.jpg"
+    },
+    {
+      "character": "Chandra Rani",
+      "id": 562177,
+      "name": "Radhika Sarathkumar",
+      "profilePath": "/kEKzT8HAJw8lfFUtWWd0SoQ9kC9.jpg"
+    },
+    {
+      "character": "Rajasekar",
+      "id": 130114,
+      "name": "M. S. Bhaskar",
+      "profilePath": "/jyamX33xAwz2ZWCgh29qkg9exb8.jpg"
+    },
+    {
+      "character": "Vinoth",
+      "id": 1540764,
+      "name": "Yogi Babu",
+      "profilePath": "/4UMOPd8NqGfKp19VQHsnIzlSRUl.jpg"
+    },
+    {
+      "character": "Nirmala",
+      "id": 3188093,
+      "name": "Geetha Kailasam",
+      "profilePath": "/8hOXtSmjgIVEq2LhSJAxNirTN95.jpg"
+    },
+    {
+      "character": "Srinivasan",
+      "id": 1425004,
+      "name": "Elango Kumaravel",
+      "profilePath": "/8LtXDdacaCA7Gk4B8ACxTs430EO.jpg"
+    },
+    {
+      "character": "Nadhars Thatha",
+      "id": 140468,
+      "name": "Senthil",
+      "profilePath": "/4p0yBgR0tmfVi8evBBG5epJtVIs.jpg"
+    },
+    {
+      "character": "Ganesh",
+      "id": 3046098,
+      "name": "Lollu Sabha Maaran",
+      "profilePath": "/uWeSvoMN2rOxHsEj5qENJSTGMDZ.jpg"
+    },
+    {
+      "character": "Michael",
+      "id": 1014317,
+      "name": "Deepz",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 120409,
+      "logoPath": null,
+      "name": "Rise East Entertainments Pvt Ltd"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2026-08-21",
+  "externalIds": {
+    "imdbId": "tt39260895",
+    "wikidataId": "Q141168888"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1538273,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ta",
+      "name": "Tamil"
+    }
+  ],
+  "originalTitle": "ப்யார் ப்ரேமா கல்யாணம்",
+  "overview": "When a bride refuses to leave her family home after marriage, her husband must find out if he can adjust to life under his in-laws' roof.",
+  "posterPath": "/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-08-21",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-08-21"
+    }
+  },
+  "runtime": 127,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Pyaar Prema Kalyanam",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 14,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1538273/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1538273/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1538273/watch?locale=US",
+      "rent": []
+    }
+  }
+}

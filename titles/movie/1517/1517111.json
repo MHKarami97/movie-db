@@ -1,0 +1,214 @@
+{
+  "backdropPath": "/igS7kqXk6KJX7pe3xOHsWfKrgmp.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 19665,
+      "name": "John Boorman",
+      "profilePath": "/8BTV6SKCXbmD4x1nyuHgBGZU06N.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 7071,
+      "name": "Louise Fletcher",
+      "profilePath": "/hN15em5LqXqDe1QgDa6lXK9fx3z.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 54025,
+      "name": "Karyn Kusama",
+      "profilePath": "/pfVHh9OEfgYPouqO3aSOxwmqoFS.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 551463,
+      "name": "Mike Flanagan",
+      "profilePath": "/sjnAyb7un3eS7THLQQzJBzkv2Yo.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 4600,
+      "name": "Joe Dante",
+      "profilePath": "/2Aev68oWboAC31dj8eJnEUzH41x.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 5710176,
+      "name": "Simon Abrams",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 37366,
+      "name": "Linda Blair",
+      "profilePath": "/diMBw4RF5HIFnBak6C2Obq3n2Dt.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1399143,
+      "name": "Garrett Brown",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 1082092,
+      "name": "Bilge Ebiri",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 939346,
+      "name": "Jim Hemphill",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37654454",
+    "wikidataId": "Q136434768"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1517111,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Boorman and the Devil",
+  "overview": "Featuring commentary from surviving participants, as well as other filmmakers and critics, this documentary chronicles the career of director John Boorman and the tumultuous production of his film Exorcist II: The Heretic, exploring its critical and commercial failure, how it changed the industry, and the importance of risk-taking in art.",
+  "posterPath": "/4HJzmhP8iMzkIQ7cjr2zfIcReiK.jpg",
+  "rating": 8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-25"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-28"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-03-06",
+      "theatricalLimited": "2026-09-25"
+    },
+    "US": {
+      "premiere": "2025-09-24",
+      "theatricalLimited": "2026-08-28"
+    }
+  },
+  "runtime": 112,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Every artist has his demon.",
+  "theatricalDate": "2026-08-28",
+  "title": "Boorman and the Devil",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "a_VjhXJ0N54",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 361,
+          "logoPath": "/7LA3wg2A01nyV3PCLN01WNOVhcT.png",
+          "name": "TCM"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1517111-boorman-and-the-devil/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

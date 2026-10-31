@@ -1,0 +1,108 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "President Alexander Roth",
+      "id": 3004699,
+      "name": "Nick Dent",
+      "profilePath": "/qnzx1kSqzuWJ5nGg93sFszt5uP0.jpg"
+    },
+    {
+      "character": "Eric",
+      "id": 2143075,
+      "name": "Geno Romo",
+      "profilePath": null
+    },
+    {
+      "character": "Uncle Mark",
+      "id": 1312546,
+      "name": "Bob Olin",
+      "profilePath": "/iQdNnfw9pUa5OPNYktnMRVkIa45.jpg"
+    },
+    {
+      "character": "Commander Jacobs",
+      "id": 1285413,
+      "name": "Jeffrey Schneider",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 139798,
+      "logoPath": null,
+      "name": "WJD films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt9810236"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1286030,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Apophis 2029",
+  "overview": "On April 13, 2029, the asteroid Apophis will pass close enough to Earth, it will be below our satellites. It will dip below and pop back out.",
+  "posterPath": "/sAfEgcdWeSREos4KRKx1C3LMXSW.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-12-30"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2026-12-30"
+    }
+  },
+  "runtime": 96,
+  "schemaVersion": 2,
+  "status": "Rumored",
+  "tagline": "",
+  "theatricalDate": "2026-12-30",
+  "title": "Apophis 2029",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

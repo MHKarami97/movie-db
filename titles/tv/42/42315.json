@@ -1,0 +1,390 @@
+{
+  "backdropPath": "/tmxAeySkCdcCM22WZvjJZXYjoCK.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 1229974,
+      "name": "Gayle King",
+      "profilePath": "/8pgxwvySCYZ7XXtONVjpPHfSSQR.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 55052,
+      "logoPath": null,
+      "name": "CBS News Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "1987-11-30",
+  "episodes": {
+    "28": [
+      {
+        "airDate": "2026-01-01",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ],
+    "29": [
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ],
+    "30": [
+      {
+        "airDate": null,
+        "episodeNumber": 1,
+        "name": "Delete",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt0355070",
+    "wikidataId": "Q2784108"
+  },
+  "fetchedAt": 1794677631424,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 42315,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-01-01",
+    "episodeNumber": 1,
+    "id": 8127591,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 28
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-01",
+    "episodeNumber": 1,
+    "id": 8127592,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 29
+  },
+  "originalTitle": "CBS Mornings",
+  "overview": "CBS This Morning is an American morning television show that is broadcast on CBS. The program broadcasts from the CBS Broadcast Center in New York City. It premiered on January 9, 2012, and airs live from 7 to 9 a.m. Eastern Time Monday through Friday; most affiliates in the Central and Mountain time zones air the show on tape-delay from 7 to 9 a.m. local time. Stations in the Pacific Time Zone receive an updated feed with an updated opening and update live reports. It is the tenth distinct program format that CBS has aired in the morning slot since 1954; it replaced The Early Show, which aired from 1999 to 2012.\n\nCBS This Morning, which shares its title with a program that ran from 1987 to 1999, was announced on November 15, 2011 by CBS News management as a \"redefining\" alternative of hard news and analysis. Norah O'Donnell and Gayle King serve as weekday anchors of the program.",
+  "posterPath": "/kLxvqYcHpzC86jfZsYhQf8UGzne.jpg",
+  "rating": 4.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1987-11-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1987-11-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1987-11-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1987-11-30",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1987-11-30"
+    },
+    "CN": {
+      "tv": "1987-11-30"
+    },
+    "GB": {
+      "tv": "1987-11-30"
+    },
+    "US": {
+      "tv": "1987-11-30"
+    }
+  },
+  "runtime": 77,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "1987-11-30",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1988-01-01",
+      "episodeCount": 1,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1989-01-02",
+      "episodeCount": 1,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1990-01-01",
+      "episodeCount": 2,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1991-01-01",
+      "episodeCount": 1,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1992-01-01",
+      "episodeCount": 2,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1993-01-01",
+      "episodeCount": 1,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1994-01-03",
+      "episodeCount": 1,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1995-01-02",
+      "episodeCount": 1,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1996-01-01",
+      "episodeCount": 1,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "1997-01-01",
+      "episodeCount": 1,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "1998-01-02",
+      "episodeCount": 1,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "1999-01-01",
+      "episodeCount": 2,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2012-01-09",
+      "episodeCount": 52,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2013-01-01",
+      "episodeCount": 1,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2014-01-01",
+      "episodeCount": 1,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2015-01-01",
+      "episodeCount": 1,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2016-01-01",
+      "episodeCount": 1,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2017-01-02",
+      "episodeCount": 1,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2018-01-01",
+      "episodeCount": 1,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2019-01-01",
+      "episodeCount": 1,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2019-01-01",
+      "episodeCount": 1,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2021-01-01",
+      "episodeCount": 1,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2022-01-03",
+      "episodeCount": 1,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2023-01-02",
+      "episodeCount": 1,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "2024-01-01",
+      "episodeCount": 1,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "2025-01-01",
+      "episodeCount": 1,
+      "name": "Season 27",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "2026-01-01",
+      "episodeCount": 1,
+      "name": "Season 28",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "2027-01-01",
+      "episodeCount": 1,
+      "name": "Season 29",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 29
+    },
+    {
+      "airDate": null,
+      "episodeCount": 1,
+      "name": "Season 30",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 30
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "CBS Mornings",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 6,
+  "watchProviders": {}
+}

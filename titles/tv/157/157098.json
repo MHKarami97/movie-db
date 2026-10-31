@@ -1,0 +1,246 @@
+{
+  "backdropPath": "/aoaTsPFCMA3rHjNd1UYf4zOVjkV.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 3604080,
+      "name": "Inés Hernand",
+      "profilePath": "/pmDieoJ6Wf4fSYfvCMioxQWlkcB.jpg"
+    },
+    {
+      "character": "Self - Host",
+      "id": 1097440,
+      "name": "Jesús Vázquez",
+      "profilePath": "/8zsjULOJkEVoOqKj15mKpBkhgMY.jpg"
+    },
+    {
+      "character": "Self - Host",
+      "id": 95606,
+      "name": "Javier Ambrossi",
+      "profilePath": "/i1hmPzhaOSJ3pu7KYnbC9E6OoLm.jpg"
+    },
+    {
+      "character": "Self - Host",
+      "id": 2607280,
+      "name": "LalaChus",
+      "profilePath": "/zTiVECkgQmCyeMul6ZVnH1x6uDZ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 981,
+      "logoPath": "/pkrdO9ykplO4Zc8edikoSX5APUN.png",
+      "name": "TVE"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2022-01-26",
+  "episodes": {
+    "5": [
+      {
+        "airDate": "2026-02-10",
+        "episodeNumber": 1,
+        "name": "First Semifinal",
+        "overview": "",
+        "stillPath": "/c3sRH8eS6Cn3wHYKQnMdz9KbnEs.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-02-12",
+        "episodeNumber": 2,
+        "name": "Second Semifinal",
+        "overview": "",
+        "stillPath": "/mQuYYgbGDpveQ5qRsLRGGo2EAxn.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-02-14",
+        "episodeNumber": 3,
+        "name": "Grand Finale",
+        "overview": "",
+        "stillPath": "/kwne9oAcFOfeAbHAICAYDHxQ9vr.jpg",
+        "voteAverage": 0
+      }
+    ],
+    "6": [
+      {
+        "airDate": "2027-01-26",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-28",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-30",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt16579412",
+    "wikidataId": "Q108743617"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 157098,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-02-14",
+    "episodeNumber": 3,
+    "id": 6893195,
+    "name": "Grand Finale",
+    "overview": "",
+    "seasonNumber": 5
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-26",
+    "episodeNumber": 1,
+    "id": 7810161,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 6
+  },
+  "originalTitle": "Benidorm Fest",
+  "overview": "Benidorm Fest is a song festival organized in Spain by the public communication company Radiotelevisión Española in collaboration with the Generalitat Valenciana. The winner of Benidorm Fest will represent Spain at the Eurovision Song Contest.",
+  "posterPath": "/whQVxuAddsyojH0zg3MjWrPMDDf.jpg",
+  "rating": 4.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2022-01-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2022-01-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2022-01-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2022-01-26",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2022-01-26"
+    },
+    "CN": {
+      "tv": "2022-01-26"
+    },
+    "GB": {
+      "tv": "2022-01-26"
+    },
+    "US": {
+      "tv": "2022-01-26"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2022-01-26",
+      "episodeCount": 5,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/4XL9km6rF7wsnTNF79qFTfpT01q.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2022-01-26",
+      "episodeCount": 3,
+      "name": "Season 1 - 2022",
+      "overview": "",
+      "posterPath": "/71QRrhcBcu93BoRFD3wgLbj6uw4.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2022-10-29",
+      "episodeCount": 9,
+      "name": "Season 2 - 2023",
+      "overview": "",
+      "posterPath": "/cbqLkKB0A4SvDjtrZ9tixrM1d2.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2024-01-30",
+      "episodeCount": 3,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/sdRan7zrHh1B4vdIo4FgLbWurzp.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2025-01-28",
+      "episodeCount": 3,
+      "name": "2025",
+      "overview": "",
+      "posterPath": "/gFlRYi2Z02x6dPTH739AyPMKapu.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2026-02-10",
+      "episodeCount": 3,
+      "name": "2026",
+      "overview": "",
+      "posterPath": "/icOadRIcO6S7csOnbuuqYiaoFa6.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2027-01-26",
+      "episodeCount": 3,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/xdaKepCg9sONLiOCgpKJZ1Jyn7l.jpg",
+      "seasonNumber": 6
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Benidorm Fest: Spain's Eurovision National Selection",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 4,
+  "watchProviders": {}
+}

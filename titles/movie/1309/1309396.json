@@ -1,0 +1,173 @@
+{
+  "backdropPath": "/qNtbEnmHjNDwhdgzgaIhn7BLLk9.jpg",
+  "cast": [
+    {
+      "character": "Rémi Allard",
+      "id": 992623,
+      "name": "Vincent Macaigne",
+      "profilePath": "/6Z4JmAauiallW2lXTOuSAiHdHGf.jpg"
+    },
+    {
+      "character": "Patricia",
+      "id": 17522,
+      "name": "Cécile de France",
+      "profilePath": "/8nzL3XON3VfUevvP2KvYbnbF5sT.jpg"
+    },
+    {
+      "character": "Audrey",
+      "id": 1449871,
+      "name": "Zoé Marchal",
+      "profilePath": "/cAc417DqXCnygDvGTKE3K1Wb3hn.jpg"
+    },
+    {
+      "character": "Domi",
+      "id": 3013205,
+      "name": "Adèle Journeaux",
+      "profilePath": "/dRkA7E0h7aKtx9NUFOVR5SI97Kz.jpg"
+    },
+    {
+      "character": "Bernard",
+      "id": 5079,
+      "name": "Gilbert Melki",
+      "profilePath": "/f1TwBvQV0vJTzpws5EL4On9Fb9n.jpg"
+    },
+    {
+      "character": "Rosy",
+      "id": 15481,
+      "name": "Marianne Basler",
+      "profilePath": "/74bRbi3pfSAzkwpbWtS822LRoYU.jpg"
+    },
+    {
+      "character": "Eric",
+      "id": 4197198,
+      "name": "Ludovic Thievon",
+      "profilePath": "/xChACnfNtHpVPVa6fqVTMJVYT1t.jpg"
+    },
+    {
+      "character": "Hervé",
+      "id": 2210869,
+      "name": "Eric Guerin",
+      "profilePath": null
+    },
+    {
+      "character": "Renan",
+      "id": 2234779,
+      "name": "Victor Bonnel",
+      "profilePath": "/p6eNNSeLxYvsmrQOkD5jnIVS392.jpg"
+    },
+    {
+      "character": "Louis",
+      "id": 2381692,
+      "name": "Souleymane Sylla",
+      "profilePath": "/9OmROhsBPtlP3VpwudihYFem2H7.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 91480,
+      "logoPath": "/vJWpSo7JXAHHE863ttdpXrS5UIu.png",
+      "name": "Novoprod"
+    },
+    {
+      "id": 102468,
+      "logoPath": "/7116YZNSKt5xKXgO9inx6bH0bq8.png",
+      "name": "Atelier de Production"
+    },
+    {
+      "id": 45969,
+      "logoPath": "/AvrRw4FeISnzeTl1nmerovrNucn.png",
+      "name": "31 Juin Films"
+    },
+    {
+      "id": 80017,
+      "logoPath": null,
+      "name": "Les Films du Parc"
+    },
+    {
+      "id": 58726,
+      "logoPath": "/jyjhaJdl5hcOoMwajYJJgVIwX8M.png",
+      "name": "Borsalino Productions"
+    },
+    {
+      "id": 11010,
+      "logoPath": "/lNGhXPAxxNSMHgdJLm2Qu0yTJZR.png",
+      "name": "Paprika Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36749000",
+    "wikidataId": "Q136945628"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1309396,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "La Poupée",
+  "overview": "Eastern France, nowadays.  Rémi, who has never recovered from a heartbreak, shares his life with a doll called Audrey. But the day his new coworker, Patricia, arrives at his company, Audrey comes to life. The two women will turn Rémi’s life upside down.",
+  "posterPath": "/beVlVuYI0ZVb9AMyxwbQlUvaiqp.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Doll",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "WVBUUcdHENs",
+      "name": "LA POUPÉE Bande Annonce (2026) Vincent Macaigne, Cécile de France",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 35,
+  "watchProviders": {}
+}

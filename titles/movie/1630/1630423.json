@@ -1,0 +1,205 @@
+{
+  "backdropPath": "/xA6AM5MvEkieZKlv1Tn3sN23I7i.jpg",
+  "cast": [
+    {
+      "character": "Lhan",
+      "id": 127449,
+      "name": "Pimchanok Luevisadpaibul",
+      "profilePath": "/1dAa0G7gG3KbeF66HOof4DPXrpX.jpg"
+    },
+    {
+      "character": "Pran",
+      "id": 1536085,
+      "name": "Thanapob Leeratanakachorn",
+      "profilePath": "/zZCYpbtAe4axyySy0TYS8eICujw.jpg"
+    },
+    {
+      "character": "M",
+      "id": 2247748,
+      "name": "Sivakorn Adulsuttikul",
+      "profilePath": "/tbE7j3kwPCW6Yj3WQPZFtL9EasR.jpg"
+    },
+    {
+      "character": "Poh",
+      "id": 1341880,
+      "name": "Chartayodom Hiranyasthiti",
+      "profilePath": "/srsQcBSRLjjyIhSdS72xNPlHhUZ.jpg"
+    },
+    {
+      "character": "Pruek",
+      "id": 1177656,
+      "name": "Theerachai Wimolchaireuk",
+      "profilePath": "/s4NJCN5jvx3xx7lrJvGdQH5mouf.jpg"
+    },
+    {
+      "character": "Lhek",
+      "id": 60852,
+      "name": "Teerawat Mulvilai",
+      "profilePath": "/p67Fm2px5Cs2iBBPrXzS45Ly893.jpg"
+    },
+    {
+      "character": "Deaw",
+      "id": 64358,
+      "name": "Dan Chupong",
+      "profilePath": "/hl3Xhzbf5Vpxfx9bcdDPsdlXmWB.jpg"
+    },
+    {
+      "character": "Ja",
+      "id": 64364,
+      "name": "Kessarin Ektawatkul",
+      "profilePath": "/1IffgogYt2XbkWB2YloZL9PsLxp.jpg"
+    },
+    {
+      "character": "Chaba",
+      "id": 1088150,
+      "name": "Chanudom Suksathit",
+      "profilePath": "/wBHSK4gROmspHSb4cUIbtv35kNJ.jpg"
+    },
+    {
+      "character": "Doctor Der",
+      "id": 4932182,
+      "name": "Nikorn Saetang",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 289025,
+      "logoPath": null,
+      "name": "Sunwrite Moonact"
+    }
+  ],
+  "countries": [
+    {
+      "code": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "digitalDate": "2026-05-07",
+  "externalIds": {
+    "imdbId": "tt39749979",
+    "wikidataId": "Q139737444"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1630423,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "th",
+      "name": "Thai"
+    }
+  ],
+  "originalTitle": "เลือดรักนักฆ่า",
+  "overview": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces.",
+  "posterPath": "/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
+  "rating": 8.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-05-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-07",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-05-07"
+    },
+    "US": {
+      "digital": "2026-05-07"
+    }
+  },
+  "runtime": 128,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Love, Sacrifice and Vengeance.",
+  "theatricalDate": null,
+  "title": "My Dearest Assassin",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 316,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1630423/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1630423/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1630423/watch?locale=US",
+      "rent": []
+    }
+  }
+}

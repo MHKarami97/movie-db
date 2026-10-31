@@ -1,0 +1,170 @@
+{
+  "backdropPath": "/oEUKetllZMCOXB9oLzisi0s3ZaV.jpg",
+  "cast": [
+    {
+      "character": "Jane Pirie",
+      "id": 1256710,
+      "name": "Flora Nicholson",
+      "profilePath": "/k6OmcwxjhjBZ6JCupW4ve3pPzYV.jpg"
+    },
+    {
+      "character": "Marianne Woods",
+      "id": 1851644,
+      "name": "Clare Dunne",
+      "profilePath": "/AisYR4krGar2CcdVck1IMl51FLv.jpg"
+    },
+    {
+      "character": "Jane Cumming",
+      "id": 4140137,
+      "name": "Mia Tharia",
+      "profilePath": "/oHb6lb5swU8U4JPEGfbUY5vkW5y.jpg"
+    },
+    {
+      "character": "Lady Cumming Gordon",
+      "id": 10981,
+      "name": "Fiona Shaw",
+      "profilePath": "/8X7fZybxtwh2nTvYk6kjRYo9RIY.jpg"
+    },
+    {
+      "character": "Ann Woods",
+      "id": 1240508,
+      "name": "Sadie Shimmin",
+      "profilePath": "/1BT2QcAzcRmkxknHFitbjAieXXl.jpg"
+    },
+    {
+      "character": "John Clerk",
+      "id": 71770,
+      "name": "Stephen McCole",
+      "profilePath": "/y3IuUJVnfXwdKILa7O4LmMdQr01.jpg"
+    },
+    {
+      "character": "Footman",
+      "id": 3837386,
+      "name": "Conor McLeod",
+      "profilePath": "/pntnrW3Y3F3StsMEegU9Sh5MESd.jpg"
+    },
+    {
+      "character": "Miss Hay",
+      "id": 5577064,
+      "name": "Nina Barnett",
+      "profilePath": "/gflc53IwJEu0TEUIWEyRxJDn9C5.jpg"
+    },
+    {
+      "character": "Margot Dunbar",
+      "id": 6044284,
+      "name": "Amy Louise Walker",
+      "profilePath": null
+    },
+    {
+      "character": "Little Miss Hunter",
+      "id": 6075631,
+      "name": "Eva McMurray",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 23406,
+      "logoPath": "/tqIQbCdoa2yfPv05wG8mT9EM0gB.png",
+      "name": "Heimatfilm"
+    },
+    {
+      "id": 28950,
+      "logoPath": "/8RuUUKhPiJbICV03XO79IhSh8CH.png",
+      "name": "Dschoint Ventschr Filmproduktion"
+    },
+    {
+      "id": 184537,
+      "logoPath": "/9nMLjSmCsZJjsUSq1MmVxZkzHiN.png",
+      "name": "Sylph Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt27811182",
+    "wikidataId": "Q134533779"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1609274,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Education of Jane Cumming",
+  "overview": "Edinburgh, 1810. Two female teachers find themselves at the centre of a scandal when one of their pupils accuses them of having a love affair.",
+  "posterPath": "/WXvo64J78OGrqZko0t0DWWgavY.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-08-17"
+    },
+    "US": {
+      "premiere": "2026-10-17"
+    }
+  },
+  "runtime": 114,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Education of Jane Cumming",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

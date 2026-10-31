@@ -1,0 +1,167 @@
+{
+  "backdropPath": "/svSgDxA61mVtSrFeRrUrZL881x3.jpg",
+  "cast": [
+    {
+      "character": "Natasha Maxwell",
+      "id": 224842,
+      "name": "Jordin Sparks",
+      "profilePath": "/aScYc7I0vK0QmuXTr37N0nYtpbp.jpg"
+    },
+    {
+      "character": "Adrian",
+      "id": 1461433,
+      "name": "Keon Alexander",
+      "profilePath": "/dmBhoaAd4osiSVCgw1VxUFaSXAA.jpg"
+    },
+    {
+      "character": "Allison Whitaker",
+      "id": 3185750,
+      "name": "Amanda Ip",
+      "profilePath": "/lppwPfA3tBkLocjMwMndrTEeU5K.jpg"
+    },
+    {
+      "character": "Grandma Vanita Maxwell",
+      "id": 62716,
+      "name": "BJ Harrison",
+      "profilePath": "/kw3KgdTMCgonWfVQcYiQe7hXYnM.jpg"
+    },
+    {
+      "character": "Kelly Twinway",
+      "id": 3587590,
+      "name": "Maxine Denis",
+      "profilePath": "/rst3yIv9Bhye1H9Wep8YXfsr1L6.jpg"
+    },
+    {
+      "character": "Sabrina Dawson",
+      "id": 1052133,
+      "name": "Arlen Aguayo-Stewart",
+      "profilePath": "/2oockOLP6BVShcdJFkSiqygQY3h.jpg"
+    },
+    {
+      "character": "Josie The Barista",
+      "id": 1542583,
+      "name": "Tori Barban",
+      "profilePath": "/rSDJg5gKWdW9Lg7ZOCGiAIQVNSZ.jpg"
+    },
+    {
+      "character": "Customer",
+      "id": 1855289,
+      "name": "Amena Ahmad",
+      "profilePath": "/2tRFmjn4yDhYHjVY01HKcF40Vri.jpg"
+    },
+    {
+      "character": "Gary",
+      "id": 2707899,
+      "name": "Kadeem A. Maxwell",
+      "profilePath": "/r4DA6crbwOz1iWN5oubmIRUdrPr.jpg"
+    },
+    {
+      "character": "Mulled Wine Vendor",
+      "id": 1301505,
+      "name": "Holden Wong",
+      "profilePath": "/tB6Oh9M3rGF0DN47b8AffbMw580.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 279515,
+      "logoPath": null,
+      "name": "Roku Media"
+    },
+    {
+      "id": 13404,
+      "logoPath": "/4F5RxvJgbVT0vFQHs3IYRPfJvo3.png",
+      "name": "Incendo Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2025-11-19",
+  "externalIds": {
+    "imdbId": "tt38773476"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1575382,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Merry Little Mystery",
+  "overview": "Natasha Maxwell spends the holidays at her grandparent’s house in the tiny town of Roundtop, where she grew up. She happily takes over from her grandfather as the small town’s benevolent Secret Santa, covertly delivering gifts to deserving and grateful citizens. Meanwhile, while attempting to foil Adrian, an investigative reporter determined to reveal Natasha’s identity as the mystery gift giver, she ends up falling in love.",
+  "posterPath": "/iDiGhoIyrlIa0JuSxLib7R5rlma.jpg",
+  "rating": 4.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-11-19"
+    }
+  },
+  "runtime": 78,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Merry Little Mystery",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "NcT4hWMA06Q",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1575382-merry-little-mystery/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "backdropPath": "/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
+  "cast": [
+    {
+      "character": "John Madden",
+      "id": 2963,
+      "name": "Nicolas Cage",
+      "profilePath": "/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+    },
+    {
+      "character": "Al Davis",
+      "id": 3894,
+      "name": "Christian Bale",
+      "profilePath": "/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+    },
+    {
+      "character": "Trip Hawkins",
+      "id": 933558,
+      "name": "John Mulaney",
+      "profilePath": "/i3dGv3WoIONVLSlOpW4NIaT8Fs2.jpg"
+    },
+    {
+      "character": "Virginia Madden",
+      "id": 17696,
+      "name": "Kathryn Hahn",
+      "profilePath": "/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg"
+    },
+    {
+      "character": "Carol Davis",
+      "id": 23459,
+      "name": "Sienna Miller",
+      "profilePath": "/lq2mEeDbL98bSz0H7xcHA3F2Rrb.jpg"
+    },
+    {
+      "character": "",
+      "id": 3231008,
+      "name": "Shane Gillis",
+      "profilePath": "/ijRXBDjfazwne2jxjWEaaWqPw2.jpg"
+    },
+    {
+      "character": "",
+      "id": 3138960,
+      "name": "Sergio Duque",
+      "profilePath": "/4eqMzJUTpAnE6MCM9tj1ustTFTn.jpg"
+    },
+    {
+      "character": "Trainer Tony",
+      "id": 118236,
+      "name": "David Lengel",
+      "profilePath": "/paRZPvkTXF3oc1UbHTFB2syEe9M.jpg"
+    },
+    {
+      "character": "Neighbor",
+      "id": 3037265,
+      "name": "Shawn Alexander Thompson",
+      "profilePath": "/iFkEg38hL9We4PqCQiAC1mhKkG2.jpg"
+    },
+    {
+      "character": "Football Player",
+      "id": 5387161,
+      "name": "Hasani Vibez Comer",
+      "profilePath": "/zZSOP3WrKF6Fv3b7Ylr9TsXSnEY.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1423,
+      "logoPath": "/gzvsPHV9WqcQMrvI8pq5hbuvEZ5.png",
+      "name": "Escape Artists"
+    },
+    {
+      "id": 79423,
+      "logoPath": "/2MxXCP5O86LZHYCILLLYwe6yWHa.png",
+      "name": "SMAC Entertainment"
+    },
+    {
+      "id": 173807,
+      "logoPath": "/vXKfbGDlT9bNCio5BXmiWpOp6Vi.png",
+      "name": "Skydance Sports"
+    },
+    {
+      "id": 210099,
+      "logoPath": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios"
+    },
+    {
+      "id": 6831,
+      "logoPath": "/fWSI4EjIDEEzCNJC8OTPX9Pdbxv.png",
+      "name": "Big Indie Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-18",
+  "externalIds": {
+    "imdbId": "tt24818230",
+    "wikidataId": "Q129913280"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 7,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "id": 1131943,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Madden",
+  "overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis—from a Super Bowl-winning partnership with the Raiders, to becoming football’s most recognizable voice, to building the worldwide Madden NFL video game.",
+  "posterPath": "/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-18",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-18",
+      "gapDays": 7,
+      "theatricalDate": "2026-11-11"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-11-18"
+    },
+    "US": {
+      "digital": "2026-11-18",
+      "theatricalLimited": "2026-11-11"
+    }
+  },
+  "runtime": 110,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "",
+  "theatricalDate": "2026-11-11",
+  "title": "Madden",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "xzh7HzLXXpk",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "tvknzDuq078",
+      "name": "Date Announce",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "KjOL6n0F0T8",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,193 @@
+{
+  "backdropPath": "/fYTiORPWRHvs5zSB0Bl3YLk7m2A.jpg",
+  "cast": [
+    {
+      "character": "Tee Zeng (voice)",
+      "id": 5324987,
+      "name": "Zhou Zhou",
+      "profilePath": null
+    },
+    {
+      "character": "Kung Fu Wa (voice)",
+      "id": 4561980,
+      "name": "Tom Fu",
+      "profilePath": "/itG87Ow6fqWah90ccO1LJIpypTG.jpg"
+    },
+    {
+      "character": "Hao / Princess (voice)",
+      "id": 3411870,
+      "name": "Li Jiasi",
+      "profilePath": null
+    },
+    {
+      "character": "Manipulens (voice)",
+      "id": 2895813,
+      "name": "ZhanKun Zhang",
+      "profilePath": null
+    },
+    {
+      "character": "Min (voice)",
+      "id": 4561982,
+      "name": "Mu Qiu",
+      "profilePath": null
+    },
+    {
+      "character": "Gossip Boy (voice)",
+      "id": 5325010,
+      "name": "Kun Chen",
+      "profilePath": null
+    },
+    {
+      "character": "Tee Zeng's mom (voice)",
+      "id": 4561975,
+      "name": "Chenjie Xiong",
+      "profilePath": null
+    },
+    {
+      "character": "Tee Zeng's dad (voice)",
+      "id": 3817657,
+      "name": "Bo Fan",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 74457,
+      "logoPath": "/mPsCbXC5k20bpKErrbOQd1fG0L7.png",
+      "name": "Tencent Video"
+    },
+    {
+      "id": 166760,
+      "logoPath": null,
+      "name": "UYoung Culture & Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "digitalDate": "2021-08-03",
+  "episodes": {
+    "2": [
+      {
+        "airDate": null,
+        "episodeNumber": 1,
+        "name": "A Shadow from the Past",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 10
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt21791002",
+    "wikidataId": "Q118323971"
+  },
+  "fetchedAt": 1794677631424,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "id": 205953,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2022-03-29",
+    "episodeNumber": 52,
+    "id": 4079431,
+    "name": "The Most Powerful Kung Fu",
+    "overview": "The dark energy of Kwei devours Kicko's mind and generates a terrifying tornado around him. Kicko is about to explode! Everyone runs away in fear - except Tee Zeng. Although all the adults urge her to run, she refuses to give up on her dear friend Kung Fu Sock.",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "天真与功夫袜",
+  "overview": "The series follows the adventures of a curious 8-year-old girl named Tee Zeng who always dreamed of going on adventures and exploring wonderful places, and then one day she finds an odd-looking sock in her mother’s laundry that…. Talks. He was originally a Kung Fu Master from another world charged with guarding an ancient scroll. When Master Kicko came through a vortex into Tee Zeng’s time, his powers were weakened, and he was transformed into a sock. However, when the little girl puts the sock on her foot she transforms into a super heroine – a kick-ass Kung Fu Girl, and together they must complete Kung Fu Sock’s mission and follow the ancient scroll to defeat evil and protect their world.",
+  "posterPath": "/o3Md8ps3X1F6aK0ElL0ke7pJiEV.jpg",
+  "rating": 10,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2021-08-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2021-08-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2021-08-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2021-08-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2021-08-03"
+    },
+    "CN": {
+      "tv": "2021-08-03"
+    },
+    "GB": {
+      "tv": "2021-08-03"
+    },
+    "US": {
+      "tv": "2021-08-03"
+    }
+  },
+  "runtime": 11,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2021-08-03",
+      "episodeCount": 52,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/o3Md8ps3X1F6aK0ElL0ke7pJiEV.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": null,
+      "episodeCount": 1,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Kung Fu Sock",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "hu37AePprSY",
+      "name": "Kung Fu Sock - POP Intro (Network Premiere)",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 1,
+  "watchProviders": {}
+}

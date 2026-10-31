@@ -1,0 +1,146 @@
+{
+  "backdropPath": "/bFzgPvBeARjperha0bYgyPrwXev.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 277613,
+      "logoPath": null,
+      "name": "Portocabo Atlántico"
+    }
+  ],
+  "countries": [
+    {
+      "code": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "digitalDate": "2025-10-17",
+  "externalIds": {
+    "imdbId": "tt38356685"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1557977,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "Maré Branca: A Surreal História de Rabo de Peixe",
+  "overview": "In June 2001, hundreds of kilos of cocaine washed up in a Portuguese village. This gripping documentary reveals the long-lasting impact on the community.",
+  "posterPath": "/6sek3ZIcX9Q7CVXOv1QIYVd93qM.jpg",
+  "rating": 7.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2025-10-17"
+    },
+    "GB": {
+      "digital": "2025-10-17"
+    },
+    "US": {
+      "digital": "2025-10-17"
+    }
+  },
+  "runtime": 89,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Turn of the Tide: The Surreal Story of Rabo de Peixe",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 17,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1557977-mare-branca-a-surreal-historia-de-rabo-de-peixe/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1557977-mare-branca-a-surreal-historia-de-rabo-de-peixe/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1557977-mare-branca-a-surreal-historia-de-rabo-de-peixe/watch?locale=US",
+      "rent": []
+    }
+  }
+}

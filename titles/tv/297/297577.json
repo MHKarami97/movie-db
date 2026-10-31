@@ -1,0 +1,179 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Rob",
+      "id": 5451873,
+      "name": "Baylor Way",
+      "profilePath": null
+    },
+    {
+      "character": "Dan",
+      "id": 5608934,
+      "name": "Grick Frasher",
+      "profilePath": null
+    },
+    {
+      "character": "Jerry",
+      "id": 5451846,
+      "name": "Donald \"Eli\" Rando",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2026-09-30",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-09-30",
+        "episodeNumber": 1,
+        "name": "Promoted to Customer",
+        "overview": "Rob is fired, falls into depression and desperately tries to get back on his feet",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-07",
+        "episodeNumber": 2,
+        "name": "On The Way to the Top",
+        "overview": "With the seed planted Rob and Jerry take there plan to the next phase",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-14",
+        "episodeNumber": 3,
+        "name": "A Damn Good Story",
+        "overview": "Rob and Jerry must chase a lead on a new story",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-10-21",
+        "episodeNumber": 4,
+        "name": "Don't Forget Who's in Charge",
+        "overview": "As Rob and Jerry chase there lead their secret starts to crack",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-28",
+        "episodeNumber": 5,
+        "name": "Top of the World",
+        "overview": "Rob and Jerry's friendship sours threatening the release of Rizzler News",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-11-04",
+        "episodeNumber": 6,
+        "name": "On in 5...",
+        "overview": "Rob must present Rizzler News. Alone",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 297577,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-28",
+    "episodeNumber": 5,
+    "id": 6429988,
+    "name": "Top of the World",
+    "overview": "Rob and Jerry's friendship sours threatening the release of Rizzler News",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-10-21",
+    "episodeNumber": 4,
+    "id": 6429987,
+    "name": "Don't Forget Who's in Charge",
+    "overview": "As Rob and Jerry chase there lead their secret starts to crack",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Rizzler News",
+  "overview": "A show about the rise of Rob the newsman as he builds Rizzler News from the ground and single handedly destroys the competition",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-09-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-09-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-09-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-30",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-09-30"
+    },
+    "CN": {
+      "tv": "2026-09-30"
+    },
+    "GB": {
+      "tv": "2026-09-30"
+    },
+    "US": {
+      "tv": "2026-09-30"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-09-30",
+      "episodeCount": 6,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Rise to the top",
+  "theatricalDate": null,
+  "title": "Rizzler News",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

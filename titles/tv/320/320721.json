@@ -1,0 +1,189 @@
+{
+  "backdropPath": "/10ddTQu1h7PjR9nzENTjjdeHwcb.jpg",
+  "cast": [
+    {
+      "character": "Thomas",
+      "id": 1229304,
+      "name": "John Hasler",
+      "profilePath": null
+    },
+    {
+      "character": "Edward, Henry, Gordon",
+      "id": 477282,
+      "name": "Keith Wickham",
+      "profilePath": "/t1bB7BaVV6UBM1QfTiZzuEtDcC7.jpg"
+    },
+    {
+      "character": "James",
+      "id": 6167042,
+      "name": "Rob Rackstraw",
+      "profilePath": null
+    },
+    {
+      "character": "Emma, Ella, Self",
+      "id": 6167037,
+      "name": "asktrio516",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "PL",
+      "name": "Poland"
+    }
+  ],
+  "digitalDate": "2028-04-15",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2028-04-15",
+        "episodeNumber": 1,
+        "name": "Introduction",
+        "overview": "In this episode, we go into an alternate universe where Thomas and his Friends can turn into humanoid robots anytime they want and get to know Emma.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ],
+    "2": [],
+    "3": []
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "id": 320721,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "de",
+      "name": "German"
+    },
+    {
+      "code": "pl",
+      "name": "Polish"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2028-04-15",
+    "episodeNumber": 1,
+    "id": 7188985,
+    "name": "Introduction",
+    "overview": "In this episode, we go into an alternate universe where Thomas and his Friends can turn into humanoid robots anytime they want and get to know Emma.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Sodor516",
+  "overview": "In an alternate universe, Thomas and his recognisable friends can turn into humanoid robots with magic gold dust. Controlled by Emma Hatt, a very sweet but powerful woman and artist. Together, Thomas and his Friends explore the Island and end up in dangerous situations.",
+  "posterPath": "/ur62XRPA3fdR9BEvJSDmo7g4ASp.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2028-04-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2028-04-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2028-04-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2028-04-15",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2028-04-15"
+    },
+    "CN": {
+      "tv": "2028-04-15"
+    },
+    "GB": {
+      "tv": "2028-04-15"
+    },
+    "US": {
+      "tv": "2028-04-15"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2028-04-15",
+      "episodeCount": 1,
+      "name": "The First Season",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "The Second Season",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "The Last Season",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    }
+  ],
+  "status": "In Production",
+  "tagline": "Your childhood show has been rewritten… and humanised!",
+  "theatricalDate": null,
+  "title": "Sodor516",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "_R38GclFVOY",
+      "name": "Thomas and Friends Classic Series Funnies (Humanised Animatic)",
+      "official": false,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

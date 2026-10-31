@@ -1,0 +1,189 @@
+{
+  "backdropPath": "/vrLDuQ5L45f7vFWpMT17WopdWx0.jpg",
+  "cast": [
+    {
+      "character": "Self - MC",
+      "id": 1350138,
+      "name": "Shin Dong-yup",
+      "profilePath": "/iMzzz78MnoBpzrVyjMnG6DqkfmZ.jpg"
+    },
+    {
+      "character": "Self - MC",
+      "id": 1662829,
+      "name": "Seo Jang-hoon",
+      "profilePath": "/w0sGoIEqQE1cKAgL7vlBxwbNDSd.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 222168,
+      "logoPath": "/8j2J28sI16PnSXTIpR6kQcBON8u.png",
+      "name": "Prism Studios"
+    },
+    {
+      "id": 38369,
+      "logoPath": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+      "name": "Seoul Broadcasting System"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": "2016-08-26",
+  "externalIds": {
+    "imdbId": "tt33336849",
+    "wikidataId": "Q27953451"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 72896,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-25",
+    "episodeNumber": 516,
+    "id": 7936386,
+    "name": "Episode 516",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-01",
+    "episodeNumber": 517,
+    "id": 7936387,
+    "name": "Episode 517",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "미운 우리 새끼",
+  "overview": "How much do you know about your grown up son? In Mom’s Diary, the daily lives of the grown up celebrity sons are closely observed by their mothers. Do you know why your son drinks so much these days? How much do you know about your son’s philosophy in his life style? Heart-warming moments of observational communication between a mother and a son can be seen on Mom’s Diary.",
+  "posterPath": "/fgeWRIiigNHLxy3qEzM0HqNcFHT.jpg",
+  "rating": 7.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2016-08-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2016-08-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2016-08-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2016-08-26",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2016-08-26"
+    },
+    "CN": {
+      "tv": "2016-08-26"
+    },
+    "GB": {
+      "tv": "2016-08-26"
+    },
+    "US": {
+      "tv": "2016-08-26"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2016-07-20",
+      "episodeCount": 1,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/xATtH86NKcU8qx7VoARrwIFgebK.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2016-08-26",
+      "episodeCount": 520,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/fgeWRIiigNHLxy3qEzM0HqNcFHT.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "My Little Old Boy",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 11,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 464,
+          "logoPath": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+          "name": "Kocowa"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/72896/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 344,
+          "logoPath": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+          "name": "Rakuten Viki"
+        },
+        {
+          "id": 575,
+          "logoPath": "/t4tushezwJkXCposaC73oZTwF5a.png",
+          "name": "OnDemandKorea"
+        },
+        {
+          "id": 2413,
+          "logoPath": "/aH7G4UQLcj4DQwK5mVhXfVTUzR2.png",
+          "name": "Kocowa Amazon Channel"
+        },
+        {
+          "id": 464,
+          "logoPath": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+          "name": "Kocowa"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/72896/watch?locale=US",
+      "rent": []
+    }
+  }
+}

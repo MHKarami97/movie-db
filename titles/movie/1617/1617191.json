@@ -1,0 +1,190 @@
+{
+  "backdropPath": "/7iMZWD9ecKLAKpi71zR3impjHxr.jpg",
+  "cast": [
+    {
+      "character": "Summer",
+      "id": 2131391,
+      "name": "Violet McGraw",
+      "profilePath": "/dvErrHU0FVNP5GFkxJxZbNayC1x.jpg"
+    },
+    {
+      "character": "Glenn",
+      "id": 3035,
+      "name": "Jerry O'Connell",
+      "profilePath": "/siMZhO5SIUc6K5sTKyVJRXmkoiG.jpg"
+    },
+    {
+      "character": "Milly",
+      "id": 54830,
+      "name": "Sophia Bush",
+      "profilePath": "/dm4s2L4bChDZFIpjV01ELeNl05W.jpg"
+    },
+    {
+      "character": "Grayson",
+      "id": 5642527,
+      "name": "Dawian van der Westhuizen",
+      "profilePath": "/5lVqCZndearYODo9vFgOUTqu9Uk.jpg"
+    },
+    {
+      "character": "Sadie",
+      "id": 3369805,
+      "name": "Clara Alexandrova",
+      "profilePath": "/l9DG97NQU3egpG981zvmjSbG5ZH.jpg"
+    },
+    {
+      "character": "Captain Otto",
+      "id": 73610,
+      "name": "Tim Rozon",
+      "profilePath": "/c7r0ahbhIimXSgJkqUTUjVuKM2m.jpg"
+    },
+    {
+      "character": "Crosby",
+      "id": 5571603,
+      "name": "Max Botha",
+      "profilePath": null
+    },
+    {
+      "character": "Terry McDavid",
+      "id": 2092570,
+      "name": "Richard Wright-Firth",
+      "profilePath": "/1VoTHiqhp1j3H5RwZcxNEcPHSBi.jpg"
+    },
+    {
+      "character": "Celine McDavid",
+      "id": 3628358,
+      "name": "Candice van Litsenborgh",
+      "profilePath": "/8dY57hz5O6D0ya7C9EFaUKwZWFZ.jpg"
+    },
+    {
+      "character": "Dieter",
+      "id": 93915,
+      "name": "Chris van Rensburg",
+      "profilePath": "/fuBTtBwbyE881kdHYEpBz1gwgmc.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 82659,
+      "logoPath": "/3mZkZUZUaqXDcIoYnECLb98PSWC.png",
+      "name": "Blue Ice Pictures"
+    },
+    {
+      "id": 156309,
+      "logoPath": null,
+      "name": "Blue Ice Africa"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "digitalDate": "2026-07-03",
+  "externalIds": {
+    "imdbId": "tt39371050",
+    "wikidataId": "Q140251641"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1617191,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Summer's Last Resort",
+  "overview": "Determined to save her mom from another bad relationship, a teen accidentally turns a luxury vacation into total chaos.",
+  "posterPath": "/t70Jano5laAybW9EDJAYWT4tnxL.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-07-03"
+    }
+  },
+  "runtime": 96,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Summer holiday chaos incoming.",
+  "theatricalDate": null,
+  "title": "Summer's Last Resort",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "emN2GUALYbE",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 10,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1617191-summer-s-last-resort/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1617191-summer-s-last-resort/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "backdropPath": "/9jiqrAgC9DoWKte8qc5gis0fWem.jpg",
+  "cast": [
+    {
+      "character": "Lakshman Bheri",
+      "id": 146935,
+      "name": "Ravi Teja",
+      "profilePath": "/5a9g645O30Qzhe3VFjvkhjnNfm2.jpg"
+    },
+    {
+      "character": "Tulasi",
+      "id": 2476557,
+      "name": "Sreeleela",
+      "profilePath": "/fHrQFHy9GPII2rGsImbpBg83N3p.jpg"
+    },
+    {
+      "character": "Hanuman Bheri",
+      "id": 545595,
+      "name": "Rajendra Prasad",
+      "profilePath": "/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg"
+    },
+    {
+      "character": "Sivudu",
+      "id": 1135117,
+      "name": "Naveen Chandra",
+      "profilePath": "/6iEhNOOqRTOQ0JFSiv6agtqvwx9.jpg"
+    },
+    {
+      "character": "Dharmaraju",
+      "id": 736815,
+      "name": "Naresh",
+      "profilePath": "/yT9Sgp7y8h3xhlmgzafUwlIXy1H.jpg"
+    },
+    {
+      "character": "Sannasi Naidu",
+      "id": 1289211,
+      "name": "Ajay Ghosh",
+      "profilePath": "/bvexSjSRhZM8ke753Sq1oZf5pxY.jpg"
+    },
+    {
+      "character": "Subramanyam \"Subbu\"",
+      "id": 1638475,
+      "name": "Praveen",
+      "profilePath": "/aBegVOvddJViXAPBL5k8MXnZCYA.jpg"
+    },
+    {
+      "character": "Paidiraju",
+      "id": 1911155,
+      "name": "Hyper Adhi",
+      "profilePath": "/qKFNVomWgVPNTi69kqwTk8z3Y9Q.jpg"
+    },
+    {
+      "character": "",
+      "id": 1350824,
+      "name": "Himaja",
+      "profilePath": "/9aowz0YD4c2tWs0FC1VxF4RqbES.jpg"
+    },
+    {
+      "character": "",
+      "id": 565865,
+      "name": "VTV Ganesh",
+      "profilePath": "/5JomvpPx6PrExYcZAbHM1MoHjoZ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 107352,
+      "logoPath": "/qNLrEbrNigDNR6QgaRtwXtRIwgx.png",
+      "name": "Sithara Entertainments"
+    },
+    {
+      "id": 172461,
+      "logoPath": null,
+      "name": "Srikara Studios"
+    },
+    {
+      "id": 166697,
+      "logoPath": null,
+      "name": "Fortune Four Cinemas"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt32135720",
+    "wikidataId": "Q134520413"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1381405,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "te",
+      "name": "Telugu"
+    }
+  ],
+  "originalTitle": "మాస్ జాతర",
+  "overview": "A transport officer battles a violent drug lord and his criminal clan.",
+  "posterPath": "/qvSyQdI2Mlpa5X7dRDBmIi30oHT.jpg",
+  "rating": 4.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-10-31"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2025-10-31"
+    }
+  },
+  "runtime": 144,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "మనదే ఇదంతా",
+  "theatricalDate": "2025-10-31",
+  "title": "Mass Jathara",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 8,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1381405/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1381405/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1381405/watch?locale=US",
+      "rent": []
+    }
+  }
+}

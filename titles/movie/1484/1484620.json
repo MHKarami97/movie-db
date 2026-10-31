@@ -1,0 +1,164 @@
+{
+  "backdropPath": "/KqddCWdQzvYUnhasjFJa8J72JB.jpg",
+  "cast": [
+    {
+      "character": "Van Guy",
+      "id": 7056,
+      "name": "Emma Thompson",
+      "profilePath": "/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg"
+    },
+    {
+      "character": "Nurse",
+      "id": 71083,
+      "name": "Kate Dickie",
+      "profilePath": "/mlFYUmZycpRa7TGgDTfP0xanE1Q.jpg"
+    },
+    {
+      "character": "",
+      "id": 4311221,
+      "name": "Keira Lucchesi",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 123168,
+      "logoPath": "/6SHZV97AzWqcHwpVixJsQclYz8B.png",
+      "name": "Barry Crerar"
+    },
+    {
+      "id": 110197,
+      "logoPath": "/hAF2iSJDnOXG39VQQoMeF413SQf.png",
+      "name": "Screen Scotland"
+    },
+    {
+      "id": 52228,
+      "logoPath": "/bQcDSkWOCFOWBDPyx2vC7ROt6j5.png",
+      "name": "Al Jazeera English"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36966956",
+    "wikidataId": "Q137396843"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1484620,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "pa",
+      "name": "Punjabi"
+    },
+    {
+      "code": "ur",
+      "name": "Urdu"
+    }
+  ],
+  "originalTitle": "Everybody to Kenmure Street",
+  "overview": "In May 2021, a UK Home Office dawn raid triggers one of the most spontaneous and successful acts of civil resistance in recent memory. In Pollokshields, Scotland’s most diverse neighbourhood, hundreds of residents rush to the streets to stop the deportation of their neighbours.",
+  "posterPath": "/m3ZR0dcDwpO7JdAs6sc12ks3Th9.jpg",
+  "rating": 8.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-03-13"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-22"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatricalLimited": "2026-03-13"
+    },
+    "US": {
+      "premiere": "2026-01-22",
+      "theatrical": "2026-05-22"
+    }
+  },
+  "runtime": 98,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-05-22",
+  "title": "Everybody to Kenmure Street",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "zKFSAA_oLbk",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1484620-everybody-to-kenmure-street/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 224,
+          "logoPath": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+          "name": "BFI Player"
+        }
+      ]
+    }
+  }
+}

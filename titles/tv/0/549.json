@@ -1,0 +1,622 @@
+{
+  "backdropPath": "/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
+  "cast": [
+    {
+      "character": "Jessica Brady",
+      "id": 16307,
+      "name": "Maura Tierney",
+      "profilePath": "/4BCrwdHdC4iRSDimvkoYaXg2qki.jpg"
+    },
+    {
+      "character": "Theo Walker",
+      "id": 971049,
+      "name": "David Ajala",
+      "profilePath": "/aug1B4J5UjL1Z7iHQRF7WXdIZLk.jpg"
+    },
+    {
+      "character": "Rob Calvino",
+      "id": 18473,
+      "name": "James Badge Dale",
+      "profilePath": "/lnm8Jm11btONDU7dzPk9liuMibk.jpg"
+    },
+    {
+      "character": "Nicholas Baxter",
+      "id": 3417,
+      "name": "Tony Goldwyn",
+      "profilePath": "/A3hXimbzDtFxQ1PXNo8gG7RZeN4.jpg"
+    },
+    {
+      "character": "Nolan Price",
+      "id": 12791,
+      "name": "Hugh Dancy",
+      "profilePath": "/6UIiS3nxdNTbIo0G2kFNXpcDKhE.jpg"
+    },
+    {
+      "character": "Samantha Maroun",
+      "id": 1639904,
+      "name": "Odelya Halevi",
+      "profilePath": "/26jv3dcS5Us8Ut13Tu9PmvT7uPh.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 25545,
+      "logoPath": "/8Lqf0okunSPAwBBL08Ua1IRe1xi.png",
+      "name": "Wolf Entertainment"
+    },
+    {
+      "id": 26727,
+      "logoPath": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television"
+    },
+    {
+      "id": 8301,
+      "logoPath": "/zrcVDabl14MNfPwxL8DC2IyR12t.png",
+      "name": "Universal Media Studios"
+    },
+    {
+      "id": 56401,
+      "logoPath": null,
+      "name": "Studios USA"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "1990-09-13",
+  "episodes": {
+    "26": [
+      {
+        "airDate": "2026-10-08",
+        "episodeNumber": 1,
+        "name": "Ghost in the Machine",
+        "overview": "A software engineer’s murder sends Riley and Walker into the rapidly-evolving world of AI. As Baxter pursues justice in a groundbreaking case, he’s confronted with a technology advancing faster than the laws designed to govern it.",
+        "stillPath": "/gCy37ZiiCu6ncxTx1WmaL4Pcch9.jpg",
+        "voteAverage": 8.5
+      },
+      {
+        "airDate": "2026-10-15",
+        "episodeNumber": 2,
+        "name": "Into the Mystic",
+        "overview": "Price and Walker are forced off a high-stakes case when their connection to a murder suspect creates a conflict of interest. Baxter faces mounting pressure when a key witness for the prosecution suddenly changes their story.",
+        "stillPath": "/cuGeq2SZ3xfrKdh9b68gHGmiVVh.jpg",
+        "voteAverage": 9
+      },
+      {
+        "airDate": "2026-10-22",
+        "episodeNumber": 3,
+        "name": "Bad News",
+        "overview": "When a prominent newspaper editor is murdered, Calvino and Walker uncover a web of newsroom secrets that obstructs their investigation. Price must weigh the public's right to know against a journalist's duty to protect a source.",
+        "stillPath": "/syPFvOhlP80q21LT2bP3iBRJo7e.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-10-29",
+        "episodeNumber": 4,
+        "name": "Property",
+        "overview": "When an antiquities dealer is found murdered, Walker and Calvino uncover a contentious motive. As the case evolves into a high-stakes legal and moral dilemma, Maroun must confront her own beliefs as she works with Price toward a conviction.",
+        "stillPath": "/dForgd23H4apJks7nLOvucsHulD.jpg",
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-11-05",
+        "episodeNumber": 5,
+        "name": "Rage Bait",
+        "overview": "When a college basketball star is shot dead after winning the championship game, Walker and Calvino uncover a trail of online vitriol that leads far beyond the internet. Price and Maroun face an uphill battle when the defendant claims self-defense.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "nbclawandorder",
+    "imdbId": "tt0098844",
+    "instagramId": "nbclawandorder",
+    "twitterId": "lawandordertv",
+    "wikidataId": "Q321423"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 549,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-29",
+    "episodeNumber": 4,
+    "id": 7845728,
+    "name": "Property",
+    "overview": "When an antiquities dealer is found murdered, Walker and Calvino uncover a contentious motive. As the case evolves into a high-stakes legal and moral dilemma, Maroun must confront her own beliefs as she works with Price toward a conviction.",
+    "seasonNumber": 26
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-05",
+    "episodeNumber": 5,
+    "id": 7936471,
+    "name": "Rage Bait",
+    "overview": "When a college basketball star is shot dead after winning the championship game, Walker and Calvino uncover a trail of online vitriol that leads far beyond the internet. Price and Maroun face an uphill battle when the defendant claims self-defense.",
+    "seasonNumber": 26
+  },
+  "originalTitle": "Law & Order",
+  "overview": "در پرونده‌هایی الهام گرفته از عناوین خبری، پلیس به تحقیق درباره جرایم جدی و اغلب مرگبار می‌پردازد، شواهد را بررسی کرده و مظنونان را تا زمانی که کسی بازداشت شود، مورد بازجویی قرار می‌دهد. سپس دفتر دادستانی ایالت یک پرونده برای محکومیت مجرم با اثبات بی چون و چرای گناه فرد تشکیل می‌دهد. با همکاری این تیم‌های متخصص، همه جوانب سامانه پیچیده دادرسی کیفری برای تبدیل نیویورک به مکانی امن‌تر پشت سر گذارده می‌شوند.",
+  "posterPath": "/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
+  "rating": 7.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1990-09-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1990-09-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1990-09-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1990-09-13",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1990-09-13"
+    },
+    "CN": {
+      "tv": "1990-09-13"
+    },
+    "GB": {
+      "tv": "1990-09-13"
+    },
+    "US": {
+      "tv": "1990-09-13"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": null,
+      "episodeCount": 7,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/IVxYYHGjbuI4R3oOul0B5iI8dZ.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1990-09-13",
+      "episodeCount": 22,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/hGrkBU5p60zZj9bMByo9cegZfhl.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1991-09-17",
+      "episodeCount": 22,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/nykyEGoMsVPnyrnoUL0g93YJPQZ.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1992-09-23",
+      "episodeCount": 22,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/emKji2D1tLAJsFad84ENA4PufI5.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1993-09-15",
+      "episodeCount": 22,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/fiSP98l9G7zjC0sBWwQ02Nmhpub.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1994-09-21",
+      "episodeCount": 23,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/v8yqfobOp6jSDomgcOnotfsGM2i.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1995-09-20",
+      "episodeCount": 23,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/5GaJYO3BXCUaHKXr9e7wC1IARwo.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1996-09-18",
+      "episodeCount": 23,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/mEGBAiPkZcp4GgPv7CQmFhOEWrK.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1997-09-24",
+      "episodeCount": 24,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/caieRmySO32CyyoPydhxGh7iN33.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1998-09-23",
+      "episodeCount": 24,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/OuntFFHJqftivArTHjnFu1jSPM.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1999-09-22",
+      "episodeCount": 24,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/fnYm6dcs1bmYvl3afnGxofsVgyw.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2000-10-18",
+      "episodeCount": 24,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": "/u5MyTy53EWtnsMQewECGfNDywme.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2001-09-26",
+      "episodeCount": 24,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": "/xAazzYBfFquWWqes5dozpQ0x4jW.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2002-10-02",
+      "episodeCount": 24,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": "/2DzgIJzKVY9OfYxRMJjJLIZRhfi.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2003-09-24",
+      "episodeCount": 24,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": "/26ByCQKroHuBs7ZgbkwHTsHvU77.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2004-09-22",
+      "episodeCount": 24,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": "/z07aBZ5euhdhl0hyzWhwU1mGsrN.jpg",
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2005-09-21",
+      "episodeCount": 22,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": "/vo1hHZ1Bpt7XOYDqab7rqw5VTZL.jpg",
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2006-09-22",
+      "episodeCount": 22,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": "/zjSZrjqz9f3n6XoPYpaIgzwDQT3.jpg",
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2008-01-02",
+      "episodeCount": 18,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": "/q0nVi8xzk7DHpeFnQ678f8asYxC.jpg",
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2008-11-05",
+      "episodeCount": 22,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": "/fIIoj3EzsHcgF9Yd0ISWKinmLX8.jpg",
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2009-09-25",
+      "episodeCount": 23,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": "/yoISWagCsb16Hnoi16Ot1nur2FV.jpg",
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2022-02-24",
+      "episodeCount": 10,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": "/l7qr5Q5iJXeja9iDmdXagoUZ0Vm.jpg",
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2022-09-22",
+      "episodeCount": 22,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": "/77OPlbsvX3pzoFbyfpcE3GXMCod.jpg",
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2024-01-18",
+      "episodeCount": 13,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": "/m9zTQr4TYS98UFSiA1k0mMfECPe.jpg",
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2024-10-03",
+      "episodeCount": 22,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": "/6ZWUKqoaBGAnSXRIfZLLnPWMrAY.jpg",
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2025-09-25",
+      "episodeCount": 21,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": "/ysWJy6pUdHffnATFX5IRfoXX5FT.jpg",
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "2026-10-08",
+      "episodeCount": 5,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": "/2n29ntApX4BzaXYmkHooalPzt6W.jpg",
+      "seasonNumber": 26
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Truth matters.",
+  "theatricalDate": null,
+  "title": "Law & Order",
+  "translations": {
+    "faOverview": "در پرونده‌هایی الهام گرفته از عناوین خبری، پلیس به تحقیق درباره جرایم جدی و اغلب مرگبار می‌پردازد، شواهد را بررسی کرده و مظنونان را تا زمانی که کسی بازداشت شود، مورد بازجویی قرار می‌دهد. سپس دفتر دادستانی ایالت یک پرونده برای محکومیت مجرم با اثبات بی چون و چرای گناه فرد تشکیل می‌دهد. با همکاری این تیم‌های متخصص، همه جوانب سامانه پیچیده دادرسی کیفری برای تبدیل نیویورک به مکانی امن‌تر پشت سر گذارده می‌شوند.",
+    "faTitle": "قانون و نظم"
+  },
+  "type": "tv",
+  "videos": [
+    {
+      "key": "nmbhMI41z6Q",
+      "name": "Botched Burglary Leaves Cop Dead | Law & Order",
+      "official": false,
+      "type": "Clip"
+    },
+    {
+      "key": "1d1PVw9b1U0",
+      "name": "Getting Her Mother Killed Through Social Media | Law & Order",
+      "official": false,
+      "type": "Clip"
+    },
+    {
+      "key": "-Z8Tdm2eLrs",
+      "name": "Teenage Boys Take Advantage Of A Disabled Girl | Law & Order",
+      "official": false,
+      "type": "Clip"
+    },
+    {
+      "key": "87q84CdVVP8",
+      "name": "Law & Order Season 21 Title Card, Intro & Court date (Theme Song)",
+      "official": false,
+      "type": "Opening Credits"
+    },
+    {
+      "key": "y2_9vDDigeY",
+      "name": "Four Cops Brutally Killed | Law & Order",
+      "official": false,
+      "type": "Clip"
+    },
+    {
+      "key": "r5HNozWfZb4",
+      "name": "Piano Teacher, Child Molester | Law & Order",
+      "official": false,
+      "type": "Clip"
+    },
+    {
+      "key": "-J9OuSSTgB8",
+      "name": "She Hasn't Been 16 in Quite Some Time - Law & Order",
+      "official": false,
+      "type": "Clip"
+    },
+    {
+      "key": "04XZCYUopYI",
+      "name": "Law & Order – \"Blame It On Conspiracy\"",
+      "official": false,
+      "type": "Clip"
+    },
+    {
+      "key": "RzN8cPlcMTU",
+      "name": "Law and Order Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "mHWRo_MVeI0",
+      "name": "Law & Order (2010) Intro",
+      "official": false,
+      "type": "Opening Credits"
+    },
+    {
+      "key": "Yk9BQQqPLA4",
+      "name": "Law & Order (2009-2010) Intro",
+      "official": false,
+      "type": "Opening Credits"
+    },
+    {
+      "key": "TzJm9vTCff8",
+      "name": "Law & Order (1990-1991) Intro",
+      "official": false,
+      "type": "Opening Credits"
+    }
+  ],
+  "voteCount": 737,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 119,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 629,
+          "logoPath": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+          "name": "OSN+"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 79,
+          "logoPath": "/geRNAmvuPF6hOLExMHLKpt7bGBD.png",
+          "name": "NBC"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        },
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 386,
+          "logoPath": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+          "name": "Peacock Premium"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 2528,
+          "logoPath": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+          "name": "YouTube TV"
+        },
+        {
+          "id": 79,
+          "logoPath": "/geRNAmvuPF6hOLExMHLKpt7bGBD.png",
+          "name": "NBC"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        },
+        {
+          "id": 387,
+          "logoPath": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+          "name": "Peacock Premium Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=US",
+      "rent": []
+    }
+  }
+}

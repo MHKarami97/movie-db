@@ -1,0 +1,138 @@
+{
+  "backdropPath": "/kBgalj3fhUVcxtUcH3hhk7D5GVg.jpg",
+  "cast": [
+    {
+      "character": "Paul",
+      "id": 1751311,
+      "name": "Jonathan Stoddard",
+      "profilePath": "/ct64PRjZpTFphgdlezQ7c2lMIrC.jpg"
+    },
+    {
+      "character": "Clara",
+      "id": 3729076,
+      "name": "Brianna Cohen",
+      "profilePath": "/w3lhUQGeeamDG0ncS0r1BzIFPtR.jpg"
+    },
+    {
+      "character": "Oliver",
+      "id": 2834200,
+      "name": "Joey Heyworth",
+      "profilePath": "/wzGEbNaQ6cVovdJuqqhkszcfZDa.jpg"
+    },
+    {
+      "character": "Meg",
+      "id": 1930891,
+      "name": "Julia Reilly",
+      "profilePath": "/w93nJskkwVQsfsrd85aGe3HRTdN.jpg"
+    },
+    {
+      "character": "Deborah Walker",
+      "id": 126487,
+      "name": "Shelley Waggener",
+      "profilePath": "/9GiYzgh1YwwjLbycwuvHYf8FaRB.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 170857,
+      "logoPath": "/583tGqXU1c7HewprC5f30o7LASt.png",
+      "name": "Nicely Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-08",
+  "externalIds": {
+    "imdbId": "tt39295565"
+  },
+  "fetchedAt": 1794158926475,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1776532,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "An Ozark Mountain Christmas",
+  "overview": "When a dedicated young designer at a crossroads reluctantly follows her sister home to the nostalgic heart of the Ozarks for Christmas, she finds herself rediscovering not only her family’s legacy for commitment to craft, but also the quiet faith and purpose she has lost in the rush of modern life. With the help of Paul, Clara will reconnect with work rooted in care and community.",
+  "posterPath": "/epsYl1pEpDUMdc7D99SPaMQIgY0.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-08",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-08"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "An Ozark Mountain Christmas",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 278,
+          "logoPath": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+          "name": "Pure Flix"
+        },
+        {
+          "id": 2433,
+          "logoPath": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+          "name": "Great American Pure Flix Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1776532-an-ozark-mountain-christmas/watch?locale=US",
+      "rent": []
+    }
+  }
+}

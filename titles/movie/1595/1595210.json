@@ -1,0 +1,146 @@
+{
+  "backdropPath": "/hqDiQteXWMoyezEmbPy0nRYdUST.jpg",
+  "cast": [
+    {
+      "character": "Self - Narrator (voice)",
+      "id": 6549371,
+      "name": "Mike Tunalaaq Gibbons",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6456664,
+      "name": "Saad Kassis-Mohamed",
+      "profilePath": "/zx8L7LvL5nQz6rQ00IIzv5C5Qhv.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 161148,
+      "logoPath": null,
+      "name": "Documist"
+    },
+    {
+      "id": 13043,
+      "logoPath": null,
+      "name": "Rise Films"
+    },
+    {
+      "id": 41077,
+      "logoPath": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24"
+    },
+    {
+      "id": 314341,
+      "logoPath": null,
+      "name": "Ninmah Foundation"
+    },
+    {
+      "id": 207331,
+      "logoPath": "/qCDZ0liWYYqV5DQqsiSp5SRAXAl.png",
+      "name": "The deNovo Initiative"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39150922",
+    "wikidataId": "Q137384588"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1595210,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "iu",
+      "name": "Inuktitut"
+    }
+  ],
+  "originalTitle": "Nuisance Bear",
+  "overview": "A polar bear is forced to navigate a human world of tourists, wildlife officers, and hunters as its ancient migration collides with modern life. When a sacred predator is branded a nuisance, it becomes unclear who truly belongs in this shared landscape.",
+  "posterPath": "/An1QdmHWNxX2V03kq3akOCid69r.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-13"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-06"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-09-21"
+    },
+    "GB": {
+      "premiere": "2026-11-01",
+      "theatrical": "2026-11-13"
+    },
+    "US": {
+      "premiere": "2026-01-24",
+      "theatricalLimited": "2026-11-06"
+    }
+  },
+  "runtime": 89,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The bear is back.",
+  "theatricalDate": "2026-11-06",
+  "title": "Nuisance Bear",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "dL4lFKY8Cy4",
+      "name": "NUISANCE BEAR | Official Trailer | Coming Soon",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "xy0kJ3CliMA",
+      "name": "Nuisance Bear | Trailer | BELDOCS 2026",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

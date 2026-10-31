@@ -1,0 +1,220 @@
+{
+  "backdropPath": "/z1Z1vW3bu27UUXD70vyqAcCeXU1.jpg",
+  "cast": [
+    {
+      "character": "Dustin 'The Hammer' Boyd",
+      "id": 543505,
+      "name": "Jake Johnson",
+      "profilePath": "/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
+    },
+    {
+      "character": "Candace",
+      "id": 2453,
+      "name": "Mary Steenburgen",
+      "profilePath": "/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg"
+    },
+    {
+      "character": "Marisa",
+      "id": 2000658,
+      "name": "Chloe Fineman",
+      "profilePath": "/pzGIb2jkjeXGhOJryPf2n2w13lI.jpg"
+    },
+    {
+      "character": "PJ",
+      "id": 929121,
+      "name": "Aaron Chen",
+      "profilePath": "/AbXN2wpfiH97Mj7f7smzXPeZNOG.jpg"
+    },
+    {
+      "character": "Skip 'Piggy' Pigliani",
+      "id": 10872,
+      "name": "Patton Oswalt",
+      "profilePath": "/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
+    },
+    {
+      "character": "Andy Roddick",
+      "id": 1224927,
+      "name": "Andy Roddick",
+      "profilePath": "/hsFCpMMnczzI6BvukUQydMxrHZ2.jpg"
+    },
+    {
+      "character": "John McEnroe",
+      "id": 215157,
+      "name": "John McEnroe",
+      "profilePath": "/g3ZBeufFN7sAuNlMr2SeifRwyjN.jpg"
+    },
+    {
+      "character": "Dr. Stone",
+      "id": 7399,
+      "name": "Ben Stiller",
+      "profilePath": "/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+      "character": "Chuck Boyd",
+      "id": 228,
+      "name": "Ed Harris",
+      "profilePath": "/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+    },
+    {
+      "character": "Gail",
+      "id": 7574,
+      "name": "Cleo King",
+      "profilePath": "/teEPJgvrvPrNEh83FdOroNSLJzO.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 2932,
+      "logoPath": "/4uLKLjGivVg2YnAIhAn8k7ZuVFj.png",
+      "name": "Red Hour"
+    },
+    {
+      "id": 156327,
+      "logoPath": null,
+      "name": "Rivulet Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-07-23",
+  "externalIds": {
+    "imdbId": "tt33499146",
+    "wikidataId": "Q131313219"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1361774,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Dink",
+  "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
+  "posterPath": "/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-07-24",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-07-24",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-23",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-07-24"
+    },
+    "GB": {
+      "digital": "2026-07-24"
+    },
+    "US": {
+      "digital": "2026-07-23"
+    }
+  },
+  "runtime": 103,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Dink",
+  "translations": {
+    "faTitle": "دینک"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Hth_LryAEgI",
+      "name": "The Cast of The Dink Read Mean Pickleball Comments",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "YyVNFzx5Pl8",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 160,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 350,
+          "logoPath": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1361774-the-dink/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 350,
+          "logoPath": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        },
+        {
+          "id": 2243,
+          "logoPath": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "name": "Apple TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1361774-the-dink/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 350,
+          "logoPath": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        },
+        {
+          "id": 2243,
+          "logoPath": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "name": "Apple TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1361774-the-dink/watch?locale=US",
+      "rent": []
+    }
+  }
+}

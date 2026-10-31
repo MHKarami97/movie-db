@@ -1,0 +1,114 @@
+{
+  "backdropPath": "/e7fLPGAYO5SagGDsxTxeBBcqSsK.jpg",
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2019-03-04",
+  "externalIds": {
+    "imdbId": "tt9877848",
+    "wikidataId": "Q85765715"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 216287,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "hi",
+      "name": "Hindi"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-30",
+    "episodeNumber": 1664,
+    "id": 7460046,
+    "name": "Rajesh Learns about Happu's Power",
+    "overview": "Rajesh learns about Happu’s powers. At the station, Happu retrieves the remaining diamonds, raising the smuggler’s suspicions. Beni brings Sonu to Happu for help.",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-10-31",
+    "episodeNumber": 173,
+    "id": 7416866,
+    "name": "Rajesh’s behaviour worries Happu - Happu Ki Ultan Paltan",
+    "overview": "In this full episode of Happu Ki Ultan Paltan, Rajesh gets embarrassed before Amma and the kids due to Happu. Rajesh’s disinterest in him bothers Happu and he confides in Amma. Meanwhile, Kamlesh overhears Malaika and Kat’s conversation and decides to use the knowledge to impress the latter.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Happu Ki Ultan Paltan",
+  "overview": "Happu lives happily with his family and works day and night as a policeman. However, his life is filled with humorous events and misadventures at home and at work.",
+  "posterPath": "/mQDRiFjJ9rTwv5dmYAqnwovShTn.jpg",
+  "rating": 2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2019-03-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2019-03-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2019-03-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2019-03-04",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2019-03-04"
+    },
+    "CN": {
+      "tv": "2019-03-04"
+    },
+    "GB": {
+      "tv": "2019-03-04"
+    },
+    "US": {
+      "tv": "2019-03-04"
+    }
+  },
+  "runtime": 30,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2019-03-04",
+      "episodeCount": 1739,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/mQDRiFjJ9rTwv5dmYAqnwovShTn.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Soap tv",
+  "theatricalDate": null,
+  "title": "Happu Ki Ultan Paltan",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 1,
+  "watchProviders": {
+    "AE": {
+      "ads": [
+        {
+          "id": 232,
+          "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+          "name": "Zee5"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/216287-happu-ki-ultan-paltan/watch?locale=AE",
+      "rent": []
+    }
+  }
+}

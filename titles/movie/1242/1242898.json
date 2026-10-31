@@ -1,0 +1,612 @@
+{
+  "backdropPath": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+  "cast": [
+    {
+      "character": "Thia / Tessa",
+      "id": 18050,
+      "name": "Elle Fanning",
+      "profilePath": "/hGL46Q5bkVkQbKAT0SrXcV6ZvRg.jpg"
+    },
+    {
+      "character": "Dek / Father",
+      "id": 3223391,
+      "name": "Dimitrius Schuster-Koloamatangi",
+      "profilePath": "/rmIZTT1AZK3C9fYhEOtGKtSrF8E.jpg"
+    },
+    {
+      "character": "Bud",
+      "id": 1891826,
+      "name": "Ravi Narayan",
+      "profilePath": "/iM9dr3AjXTt7IGpRzZlQVG7hINa.jpg"
+    },
+    {
+      "character": "Kwei (Suit)",
+      "id": 2253146,
+      "name": "Michael Homick",
+      "profilePath": "/a7IFYVtmNvBMJ7c20BVMc0LX6PT.jpg"
+    },
+    {
+      "character": "Kwei (voice)",
+      "id": 1636658,
+      "name": "Stefan Grube",
+      "profilePath": "/7SJ13Np7xL20YJjPiUbM7PshdYA.jpg"
+    },
+    {
+      "character": "Father (Suit)",
+      "id": 1440649,
+      "name": "Reuben De Jong",
+      "profilePath": "/opjLobu1AKKspKfYzY6AXrjUglt.jpg"
+    },
+    {
+      "character": "Drone Synth",
+      "id": 1856011,
+      "name": "Cameron Brown",
+      "profilePath": "/jLEKQbppMDHeiFX23bxrcmT5dmh.jpg"
+    },
+    {
+      "character": "MU/TH/UR (voice)",
+      "id": 1257565,
+      "name": "Alison Wright",
+      "profilePath": "/yVdCk5eWk5syRrBdxjrnJ1O2Rpg.jpg"
+    },
+    {
+      "character": "Kwei's Ship Computer (voice)",
+      "id": 1179419,
+      "name": "Matt Duffer",
+      "profilePath": "/xaBSTbWWVmKcZN5RoIzPiF5RzZj.jpg"
+    },
+    {
+      "character": "Kwei's Ship Computer (voice)",
+      "id": 1179422,
+      "name": "Ross Duffer",
+      "profilePath": "/AnZhpHzHKy0IWwn9KxkukXXWNte.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 127928,
+      "logoPath": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+      "name": "20th Century Studios"
+    },
+    {
+      "id": 840,
+      "logoPath": null,
+      "name": "Lawrence Gordon Productions"
+    },
+    {
+      "id": 1302,
+      "logoPath": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+      "name": "Davis Entertainment"
+    },
+    {
+      "id": 185309,
+      "logoPath": null,
+      "name": "Toberoff Productions"
+    },
+    {
+      "id": 22213,
+      "logoPath": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-01-06",
+  "externalIds": {
+    "imdbId": "tt31227572",
+    "wikidataId": "Q126396314"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 60,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "id": 1242898,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Predator: Badlands",
+  "overview": "داستان یک غارتگر که از قبیله خود طرد می‌شود و در سفر خود به‌دنبال یک رقیب شایست، همراه و متحدی غیرقابل انتظار پیدا می‌کند.",
+  "posterPath": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-02-07",
+      "gapDays": 92,
+      "theatricalDate": "2025-11-07"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-11-07"
+    },
+    "US": {
+      "digitalDate": "2026-01-06",
+      "gapDays": 60,
+      "theatricalDate": "2025-11-07"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "digital": "2026-02-07",
+      "theatrical": "2025-11-07"
+    },
+    "GB": {
+      "premiere": "2025-10-27",
+      "theatrical": "2025-11-07"
+    },
+    "US": {
+      "digital": "2026-01-06",
+      "physical": "2026-02-17",
+      "premiere": "2025-11-03",
+      "theatrical": "2025-11-07"
+    }
+  },
+  "runtime": 107,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "First hunt. Last chance.",
+  "theatricalDate": "2025-11-07",
+  "title": "Predator: Badlands",
+  "translations": {
+    "faOverview": "داستان یک غارتگر که از قبیله خود طرد می‌شود و در سفر خود به‌دنبال یک رقیب شایست، همراه و متحدی غیرقابل انتظار پیدا می‌کند.",
+    "faTitle": "غارتگر : سرزمین های بد"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "LkBqjfg8TGM",
+      "name": "Hulu Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "TmD4c4vVclo",
+      "name": "On Digital January 6 and Blu-ray February 17",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "SscfOy1i2IU",
+      "name": "Threat",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "0PayKPq0Rsc",
+      "name": "Mother Review",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "lx_Tt9408o8",
+      "name": "A Deadly Haul",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "J02hWG1sKog",
+      "name": "Bud",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "uSeEB5mZq1g",
+      "name": "Pick Your Own Ritual",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "RPfQercbpM8",
+      "name": "Battle In The Badlands",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "PRT5hX_aPgI",
+      "name": "Time Review",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "5JC6NdaVJCw",
+      "name": "Prey To None Review",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "NN2pnkVN7vs",
+      "name": "#1 Movie In The World",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "LHJPwnSnmhY",
+      "name": "Rotate To Enter The Fight",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Khkpveajass",
+      "name": "Throw Yourself In",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "gE5o_z2Ws48",
+      "name": "The ultimate hunt. Predator: Badlands is the #1 movie in the world.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Z6P4Zvd5PgM",
+      "name": "Exclusive Interview",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Vt38z5eLQ90",
+      "name": "NTU Invasion Highlight Video",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "71BJQsiru-w",
+      "name": "Now Playing In Cinemas",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "JLWQtGXlTiA",
+      "name": "Journey",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "O6ul9jFmaWg",
+      "name": "Experience the unexpected.",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "WnzMN6qbsqU",
+      "name": "maybe a little too immersive",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Pf9R9WpgA7M",
+      "name": "Kill Stadium",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "MDBh1JDnnLE",
+      "name": "Experience “one of the best movies of the year”.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "wb5XNpHzxwg",
+      "name": "In Theaters Tonight",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "KzS5hbZ0KYM",
+      "name": "Crafting the Predator",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "8vZ3kJL4-8U",
+      "name": "Exhale Review",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "WysUXPmrGZw",
+      "name": "In Theaters Friday",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "BaUN3dBbjC4",
+      "name": "In Theaters Friday",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6_m3QBSELdg",
+      "name": "Reboot",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "iBhpNZZ-Wwo",
+      "name": "Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "a8_PIDzzpRw",
+      "name": "The Warrior's Journey",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "3nnTVuzubHI",
+      "name": "From the director of Prey comes a new generation of Predator.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "E0qflWpEBEs",
+      "name": "Featurette - Kill or Be Killed",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "P4VL2m49Y7g",
+      "name": "Dan Trachtenberg Reveals That Dek Was Originally Blind In Predator: Badlands | BAFTA",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "1nwwwkL0pUE",
+      "name": "Welcome",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "1A_It1x181Y",
+      "name": "\"Tessa Online\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "i8dKccr9OiU",
+      "name": "\"Be Brave Brother\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "qnskfG-Yd9w",
+      "name": "Weyland-Yutani Returns",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "LkB9lYQr4xg",
+      "name": "Steps Bigger",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "et7f2OuKI0g",
+      "name": "\"Trees Attack\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "JPP46QqGWXQ",
+      "name": "Ultimate",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "xhTWiQlv5Nw",
+      "name": "Cast Greeting",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "9PgcAIgpwPA",
+      "name": "International Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "OQ6QU2ZsO68",
+      "name": "New Chant",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "DS1CVyB8O-U",
+      "name": "Dangerous",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ENr_QTp7S8c",
+      "name": "Tickets on Sale",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Y5UQI61vzlw",
+      "name": "Prey to None",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "QDXiQa35IYo",
+      "name": "Get Tickets Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "cDL3Zjdz514",
+      "name": "Final Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "m3yWqsfstmg",
+      "name": "New Trailer Online Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "43R9l7EkJwE",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "oFkbsEKaoSE",
+      "name": "Teaser Trailer",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 3864,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1242898-predator-badlands/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1242898-predator-badlands/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "backdropPath": "/eskKodKZgrh6gOK58MZiyxA5u9v.jpg",
+  "cast": [
+    {
+      "character": "Jack",
+      "id": 1307013,
+      "name": "Barry Ward",
+      "profilePath": "/z6sidf6Zm8Rgr8zM13vWGP3OEV9.jpg"
+    },
+    {
+      "character": "Daniel",
+      "id": 1034703,
+      "name": "Lorne MacFadyen",
+      "profilePath": "/y1cdclslL2nNkFw5RVj64iAHIIb.jpg"
+    },
+    {
+      "character": "Maggie",
+      "id": 90046,
+      "name": "Liz White",
+      "profilePath": "/1KVn3zFv1X7wy0VMJ4cokJtNiEU.jpg"
+    },
+    {
+      "character": "Tom",
+      "id": 2209728,
+      "name": "Henry Lawfull",
+      "profilePath": "/csiZffsmwifkFrd91APNnJwCCw1.jpg"
+    },
+    {
+      "character": "Dyfan",
+      "id": 206161,
+      "name": "Celyn Jones",
+      "profilePath": "/7aDQ4sZDyWAhUx15jlPhQPm9apH.jpg"
+    },
+    {
+      "character": "Lois",
+      "id": 5647273,
+      "name": "Leisa Gwenllian",
+      "profilePath": "/ev60YsyEBHWyrO38iRU68Vz9U3l.jpg"
+    },
+    {
+      "character": "Bernie",
+      "id": 53917,
+      "name": "Danny Webb",
+      "profilePath": "/e7OhVUIsfGWYIrYxwD1KEWF7afP.jpg"
+    },
+    {
+      "character": "Rhys",
+      "id": 4597446,
+      "name": "Callum Hymers",
+      "profilePath": "/9rzzGMG7IX28eiHsKzVU6aRI7w0.jpg"
+    },
+    {
+      "character": "Billy",
+      "id": 6389354,
+      "name": "Sheldon Jones",
+      "profilePath": null
+    },
+    {
+      "character": "Ioan",
+      "id": 4199682,
+      "name": "Tristan Jones",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 4043,
+      "logoPath": null,
+      "name": "Red Union Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt31936369",
+    "wikidataId": "Q135192600"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1507796,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "On the Sea",
+  "overview": "In a rural town in North Wales, mussel harvester Jack has been married to his wife Maggie for over half of his life. He is troubled by his son Tom, who has little interest in the family trade. When Jack crosses paths with Daniel, an itinerant deckhand, their attraction poses an impossible dilemma.",
+  "posterPath": "/hP4JpQe7F7rcs5lOH97fM7kaSFs.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-07-24"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-08-16",
+      "theatrical": "2026-07-24"
+    }
+  },
+  "runtime": 115,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-07-24",
+  "title": "On the Sea",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "od_S8t86F0M",
+      "name": "On The Sea UK trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 21,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1507796-on-the-sea/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        },
+        {
+          "id": 224,
+          "logoPath": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+          "name": "BFI Player"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1507796-on-the-sea/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ]
+    }
+  }
+}

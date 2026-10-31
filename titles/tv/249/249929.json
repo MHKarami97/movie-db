@@ -1,0 +1,177 @@
+{
+  "backdropPath": "/saZO2rpfslniaiS6vKqS1VDx67H.jpg",
+  "cast": [
+    {
+      "character": "Kawauchi Miyabi",
+      "id": 1348015,
+      "name": "Hana Sugisaki",
+      "profilePath": "/uMdZegIX39id7QdYfnYPkpdFLFo.jpg"
+    },
+    {
+      "character": "Sanpei Tomoharu",
+      "id": 114307,
+      "name": "Ryuya Wakaba",
+      "profilePath": "/cc6Yz6mSZe244fiwRClA5Ru2phK.jpg"
+    },
+    {
+      "character": "Osako Koichi",
+      "id": 82540,
+      "name": "Arata Iura",
+      "profilePath": "/uJbyT6FDqDfVZKXpkDvRDS7NcQj.jpg"
+    },
+    {
+      "character": "Tsubata Reiko",
+      "id": 130659,
+      "name": "Michiko Kichise",
+      "profilePath": "/g4p1tUilDR4ywKq3ntwfZn8HP4k.jpg"
+    },
+    {
+      "character": "Narimasu Takako",
+      "id": 1744395,
+      "name": "Kayo Noro",
+      "profilePath": "/7yVoln6lLAidsVKS02LKjiAoCed.jpg"
+    },
+    {
+      "character": "Ayano Kaede",
+      "id": 1177946,
+      "name": "Amane Okayama",
+      "profilePath": "/9lNQ9QZcgl81ydJ84veiJl4wK31.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 7549,
+      "logoPath": "/bXc1vp0lER6PDHtsVe12pSPwNkv.png",
+      "name": "Kansai Television"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2024-04-15",
+  "episodes": {
+    "2": [
+      {
+        "airDate": "2027-01-04",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt32662383",
+    "twitterId": "unmet_ktv",
+    "wikidataId": "Q130220144"
+  },
+  "fetchedAt": 1794677631424,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 249929,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2024-06-24",
+    "episodeNumber": 11,
+    "id": 5423282,
+    "name": "Episode 11",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-04",
+    "episodeNumber": 1,
+    "id": 8128331,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 2
+  },
+  "originalTitle": "アンメット ある脳外科医の日記",
+  "overview": "Kawauchi Miyabi was once a promising neurosurgeon, but an accident caused damage to Miyabi's brain. She is unable to remember the past 2 years of her life and she will forget everything that happened today when she wakes up the next day. She has all but given up on becoming a doctor and works as an assistant nurse. One day, Neurosurgeon Sanpei Tomoharu appears in front of her. He is known as an eccentric person. Sanpei Tomoharu guides Kawauchi Miyabi at his own pace, regardless of her will. This actually helps Kawauchi Miyabi as a doctor and a patient. The mystery hidden in her missing memories is gradually revealed, which contains a secret.",
+  "posterPath": "/ab9KpmYeuJADpEiymtGIkzMmhEJ.jpg",
+  "rating": 7.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2024-04-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2024-04-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2024-04-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2024-04-15",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2024-04-15"
+    },
+    "CN": {
+      "tv": "2024-04-15"
+    },
+    "GB": {
+      "tv": "2024-04-15"
+    },
+    "US": {
+      "tv": "2024-04-15"
+    }
+  },
+  "runtime": 47,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2024-04-15",
+      "episodeCount": 11,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/ab9KpmYeuJADpEiymtGIkzMmhEJ.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2027-01-04",
+      "episodeCount": 1,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Unmet: Diary of a Neurosurgeon",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 10,
+  "watchProviders": {}
+}

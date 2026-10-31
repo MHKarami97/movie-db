@@ -1,0 +1,423 @@
+{
+  "backdropPath": "/2AVPwdHJsF044jT39akgLxxv2zx.jpg",
+  "cast": [
+    {
+      "character": "Bob Belcher (voice)",
+      "id": 185773,
+      "name": "H. Jon Benjamin",
+      "profilePath": "/yZgBHrH8D9Jjo15fuQKnWV3U2OC.jpg"
+    },
+    {
+      "character": "Linda Belcher (voice)",
+      "id": 1251981,
+      "name": "John Roberts",
+      "profilePath": "/s2cF0TVUTPWUaGKfM2ADZQdkypc.jpg"
+    },
+    {
+      "character": "Louise Belcher (voice)",
+      "id": 109869,
+      "name": "Kristen Schaal",
+      "profilePath": "/s3LSHVTx8gxHP2twYsXEGa8JbLl.jpg"
+    },
+    {
+      "character": "Gene Belcher (voice)",
+      "id": 1217563,
+      "name": "Eugene Mirman",
+      "profilePath": "/rtEboZ6GqxV5hmYrlyhUTwU2v5J.jpg"
+    },
+    {
+      "character": "Tina Belcher (voice)",
+      "id": 224512,
+      "name": "Dan Mintz",
+      "profilePath": "/avD0UskvT79HJNOjaZBRTPu5uoP.jpg"
+    },
+    {
+      "character": "Teddy (voice)",
+      "id": 1230596,
+      "name": "Larry Murphy",
+      "profilePath": "/bcKH9bGuVuoXdfhM7k0iE7kBiPQ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1556,
+      "logoPath": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television"
+    },
+    {
+      "id": 30452,
+      "logoPath": "/zmU1ElCS02iL5N7E5MuY4fV7bCX.png",
+      "name": "Bento Box Entertainment"
+    },
+    {
+      "id": 95753,
+      "logoPath": null,
+      "name": "Wilo Productions"
+    },
+    {
+      "id": 42449,
+      "logoPath": null,
+      "name": "Buck & Millie Productions"
+    },
+    {
+      "id": 154887,
+      "logoPath": "/wLFPu95hIMmyLR5hdtvYaMuK0tG.png",
+      "name": "20th Television Animation"
+    },
+    {
+      "id": 236166,
+      "logoPath": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2011-01-09",
+  "externalIds": {
+    "facebookId": "BobsBurgers",
+    "imdbId": "tt1561755",
+    "instagramId": "bobsburgersfox",
+    "twitterId": "BobsBurgersFOX",
+    "wikidataId": "Q392396"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 32726,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-05-17",
+    "episodeNumber": 15,
+    "id": 7168468,
+    "name": "Smellbound",
+    "overview": "A bad smell threatens a town tradition, so Tina, Gene, and Louise try to eliminate it themselves.",
+    "seasonNumber": 16
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Bob's Burgers",
+  "overview": "همبرگرهای باب یک رستوران‌دار نسل سوم به نام باب را دنبال می‌کند که با کمک همسرش و سه فرزندشان همبرگرهای باب را اداره می‌کند. باب و خانواده عجیب و غریبش نقشه‌های بزرگی در مورد همبرگر دارند، اما در خدمات و ظرافت کار کوتاهی می‌کنند. با وجود میزهای چرب، موقعیت مکانی خیلی بد و تعداد کم مشتری، باب و خانواده‌اش مصمم هستند تا \"بازگشایی چندباره بزرگ\" همبرگرهای باب را به یک موفقیت تبدیل کنند.",
+  "posterPath": "/iIHsQe3Qjs3NH62HdamyQEPeqTR.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2011-01-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2011-01-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2011-01-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2011-01-09",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2011-01-09"
+    },
+    "CN": {
+      "tv": "2011-01-09"
+    },
+    "GB": {
+      "tv": "2011-01-09"
+    },
+    "US": {
+      "tv": "2011-01-09"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2012-04-17",
+      "episodeCount": 4,
+      "name": "Specials",
+      "overview": "Special installments of the series.",
+      "posterPath": "/veZhEZuyIwMYhmN8ngSf9IMIREa.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2011-01-09",
+      "episodeCount": 13,
+      "name": "Season 1",
+      "overview": "The first season introduces the Belcher family—father Bob, mother Linda, daughters Louise and Tina Belcher, and their son Gene.",
+      "posterPath": "/g6VoXS3pO6e5CZrarMlECBiPehn.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2012-03-11",
+      "episodeCount": 9,
+      "name": "Season 2",
+      "overview": "The Belcher family faces new challenges as they navigate business competitors, school events, and neighborhood eccentricities. Key moments include Tina's journey into a secret society, Louise's passion for revenge, and Bob's attempts to elevate his restaurant’s reputation.",
+      "posterPath": "/lopl0VHBXZqsEaFUCZ6ckjB0hWn.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2012-09-30",
+      "episodeCount": 23,
+      "name": "Season 3",
+      "overview": "Bob and his family get caught up in various misadventures, from strange Thanksgiving traditions to Tina’s literary endeavors. The Belchers deal with everything from a health inspection to elaborate holiday celebrations, all while keeping their restaurant afloat.",
+      "posterPath": "/g1BW2O4iuCMXlcutq5EKGL8CYe2.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2013-09-29",
+      "episodeCount": 22,
+      "name": "Season 4",
+      "overview": "The Belchers explore new territories, including a disastrous camping trip and a local theater production. Tina's social life takes some unexpected turns, Louise schemes with even more intensity, and Gene’s musical talents come to the forefront in some quirky ways.",
+      "posterPath": "/uxh34mwqZp8ZQrb1HE3jjVCRoMp.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2014-10-05",
+      "episodeCount": 21,
+      "name": "Season 5",
+      "overview": "This season sees the Belchers dealing with more community events, from a cooking competition to a local talent show. Bob's creative burger-making skills face new tests, while the kids’ wild imaginations and schemes often take them outside of the restaurant's four walls.",
+      "posterPath": "/hSSq0pumcqPXU03GQnc4MxSYNgH.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2015-09-27",
+      "episodeCount": 19,
+      "name": "Season 6",
+      "overview": "The Belchers continue to balance running the restaurant and dealing with personal escapades. Highlights include a cruise adventure, Gene's innovative musical ideas, and the family's encounter with a mysterious holiday visitor.",
+      "posterPath": "/8N63WszFxp67ZVnLMUgTFyz0GhJ.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2016-09-25",
+      "episodeCount": 22,
+      "name": "Season 7",
+      "overview": "The family tackles new escapades, from surviving a road trip to helping Tina with her growing teenage concerns. Episodes focus on the kids' unique hobbies, Bob's determination to keep his business running, and Linda's unwavering support for her family.",
+      "posterPath": "/mXvn5c7D5iva4P5SC93L6cuYIkA.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2017-10-01",
+      "episodeCount": 21,
+      "name": "Season 8",
+      "overview": "The Belcher family’s adventures take a more creative turn, involving everything from a homemade parade float to a musical about their block. This season features more episodes that delve into the kids’ wild imaginations and Bob and Linda’s ever-growing support for their dreams.",
+      "posterPath": "/3l8k1XSh9JofNS9g9EFvjTq6nNv.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2018-09-30",
+      "episodeCount": 22,
+      "name": "Season 9",
+      "overview": "Bob and Linda manage new challenges at the restaurant while the kids explore their own schemes and friendships. Memorable moments include Tina's new school drama, Louise's elaborate plots, and Gene’s never-ending quest to express himself creatively.",
+      "posterPath": "/t7z66Bt6n43ZJatBCp0Ckk97ge7.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2019-09-29",
+      "episodeCount": 22,
+      "name": "Season 10",
+      "overview": "The Belchers face another round of adventures, from high-stakes board games to a focus on new food ventures.",
+      "posterPath": "/xyJXbvdiUtWMr9b7tOI4QbKpTvy.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2020-09-27",
+      "episodeCount": 22,
+      "name": "Season 11",
+      "overview": "Bob and his family tackle fresh challenges in both the restaurant and their personal lives, from uncovering mysteries to taking on new hobbies. Memorable highlights include holiday-themed misadventures and unique takes on neighborhood events.",
+      "posterPath": "/cHod7WdSd7AVJtfDywWzKOrXF6v.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2021-09-26",
+      "episodeCount": 22,
+      "name": "Season 12",
+      "overview": "New escapades bring the Belchers into unfamiliar territory, including unexpected friendships, business opportunities, and more neighborhood shenanigans. The family dynamic remains as strong as ever as they work through personal growth and community involvement.",
+      "posterPath": "/5EnZKgD4Sbpf1fxr4Zr1fD8v49z.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2022-09-25",
+      "episodeCount": 22,
+      "name": "Season 13",
+      "overview": "The Belcher family dives into new adventures and challenges, from school projects and local competitions to unexpected business opportunities. The season emphasizes the kids' creative ambitions, Bob's passion for his restaurant, and Linda's unyielding optimism, all while they navigate the ups and downs of family life and quirky neighborhood antics.",
+      "posterPath": "/1lSRGggWAaa7LA9FUMpCkvvEUq0.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2023-10-01",
+      "episodeCount": 16,
+      "name": "Season 14",
+      "overview": "This season, the Belcher family finds themselves caught in an exhilarating showdown when the kids refuse to do their chores, a magic trick ends up going disastrously wrong, Linda helps throw a bachelorette party, Gene enters songwriting contest, and Tina and Louise work together to catch a cricket.",
+      "posterPath": "/qW2koko0kWBCxLsohKrGo2FoVSK.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2024-09-29",
+      "episodeCount": 22,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": "/nRgsjwnL9kPIbVqg4Usn4MGBCmq.jpg",
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2025-09-28",
+      "episodeCount": 15,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": "/xc4UEyDGmx2iZh3WSqheAk2olVa.jpg",
+      "seasonNumber": 16
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Bob's Burgers",
+  "translations": {
+    "faOverview": "همبرگرهای باب یک رستوران‌دار نسل سوم به نام باب را دنبال می‌کند که با کمک همسرش و سه فرزندشان همبرگرهای باب را اداره می‌کند. باب و خانواده عجیب و غریبش نقشه‌های بزرگی در مورد همبرگر دارند، اما در خدمات و ظرافت کار کوتاهی می‌کنند. با وجود میزهای چرب، موقعیت مکانی خیلی بد و تعداد کم مشتری، باب و خانواده‌اش مصمم هستند تا \"بازگشایی چندباره بزرگ\" همبرگرهای باب را به یک موفقیت تبدیل کنند.",
+    "faTitle": "همبرگرهای باب"
+  },
+  "type": "tv",
+  "videos": [
+    {
+      "key": "cCrZfBME9Gc",
+      "name": "Bob's Burgers Season 7 Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "GDcOfvVVyzE",
+      "name": "Bobs Burgers - TV Trailer - Season 1",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 1160,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 41,
+          "logoPath": "/nIViE3wOPV5Jyv45T7hetHyG6iS.png",
+          "name": "ITVX"
+        }
+      ],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        },
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 2300,
+          "logoPath": "/nIViE3wOPV5Jyv45T7hetHyG6iS.png",
+          "name": "ITVX Premium"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/32726-bob-s-burgers/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        },
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2528,
+          "logoPath": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+          "name": "YouTube TV"
+        },
+        {
+          "id": 123,
+          "logoPath": "/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png",
+          "name": "FXNow"
+        },
+        {
+          "id": 318,
+          "logoPath": "/lEboSJfLzmtWaoLsms0jYBxYqka.png",
+          "name": "Adult Swim"
+        },
+        {
+          "id": 2554,
+          "logoPath": "/b3KR9gzy7QkvLNyNzUROavLpsrq.png",
+          "name": "FOX One Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/32726-bob-s-burgers/watch?locale=US",
+      "rent": []
+    }
+  }
+}

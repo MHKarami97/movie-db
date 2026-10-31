@@ -1,0 +1,799 @@
+{
+  "backdropPath": "/nHKscpZcAPkh97OsJJjyE5yaVE0.jpg",
+  "cast": [
+    {
+      "character": "Cathy",
+      "id": 234352,
+      "name": "Margot Robbie",
+      "profilePath": "/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
+    },
+    {
+      "character": "Heathcliff",
+      "id": 2034418,
+      "name": "Jacob Elordi",
+      "profilePath": "/9FGS8AGjVNtpWuUeoipYWR23sRZ.jpg"
+    },
+    {
+      "character": "Nelly",
+      "id": 1360317,
+      "name": "Hong Chau",
+      "profilePath": "/yGEw6uiSUBo838HkiCARs4BR40y.jpg"
+    },
+    {
+      "character": "Edgar",
+      "id": 1370832,
+      "name": "Shazad Latif",
+      "profilePath": "/n8vJ1AHhv294hGqZxhjM95OvpxT.jpg"
+    },
+    {
+      "character": "Isabella",
+      "id": 2981449,
+      "name": "Alison Oliver",
+      "profilePath": "/2KYZWAdI6wGDyhD0sDEpj1d7wJC.jpg"
+    },
+    {
+      "character": "Mr Earnshaw",
+      "id": 22159,
+      "name": "Martin Clunes",
+      "profilePath": "/xoCgVr1h3uhES9MnKCoyd05bW1v.jpg"
+    },
+    {
+      "character": "Joseph",
+      "id": 1829122,
+      "name": "Ewan Mitchell",
+      "profilePath": "/v1PqysDnx5umfA2DqGyjwuAxc9C.jpg"
+    },
+    {
+      "character": "Zillah",
+      "id": 1639205,
+      "name": "Amy Morgan",
+      "profilePath": "/7KtHxjYwVjLuVE5ysAtDW3Qn1bv.jpg"
+    },
+    {
+      "character": "Mrs Burton",
+      "id": 1128192,
+      "name": "Jessica Knappett",
+      "profilePath": "/mV2zsSc7CLxikkrmNf81JmLClVj.jpg"
+    },
+    {
+      "character": "Young Cathy",
+      "id": 5292854,
+      "name": "Charlotte Mellington",
+      "profilePath": "/mw79hdtCu9WqNH44IQUeBeAtOjn.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 2531,
+      "logoPath": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png",
+      "name": "MRC"
+    },
+    {
+      "id": 82968,
+      "logoPath": "/gRROMOG5bpF6TIDMbfaa5gnFFzl.png",
+      "name": "LuckyChap Entertainment"
+    },
+    {
+      "id": 207685,
+      "logoPath": null,
+      "name": "Lie Still"
+    },
+    {
+      "id": 174,
+      "logoPath": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+      "name": "Warner Bros. Pictures"
+    },
+    {
+      "id": 216687,
+      "logoPath": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+      "name": "Domain Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-03-31",
+  "externalIds": {
+    "facebookId": "wutheringmovie",
+    "imdbId": "tt32897959",
+    "instagramId": "wutheringheightsmovie",
+    "twitterId": "wuthering_hts",
+    "wikidataId": "Q130393881"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 46,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "id": 1316092,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "“Wuthering Heights”",
+  "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
+  "posterPath": "/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+  "rating": 6.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-02-12"
+    },
+    "CN": {
+      "digitalDate": "2026-06-17",
+      "gapDays": 96,
+      "theatricalDate": "2026-03-13"
+    },
+    "GB": {
+      "digitalDate": "2026-03-31",
+      "gapDays": 46,
+      "theatricalDate": "2026-02-13"
+    },
+    "US": {
+      "digitalDate": "2026-03-31",
+      "gapDays": 46,
+      "theatricalDate": "2026-02-13"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-02-12"
+    },
+    "CN": {
+      "digital": "2026-06-17",
+      "theatrical": "2026-03-13"
+    },
+    "GB": {
+      "digital": "2026-03-31",
+      "premiere": "2026-02-05",
+      "theatrical": "2026-02-13"
+    },
+    "US": {
+      "digital": "2026-03-31",
+      "physical": "2026-05-05",
+      "premiere": "2026-01-28",
+      "theatrical": "2026-02-13",
+      "tv": "2026-05-02"
+    }
+  },
+  "runtime": 136,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Come undone.",
+  "theatricalDate": "2026-02-13",
+  "title": "“Wuthering Heights”",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "hQGAuZvGgX4",
+      "name": "Watch \"Wuthering Heights\" again and again!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "IQ80D1R4ORk",
+      "name": "Steamy Corset Grab Scene - Movie Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "HWFdeoeBNV0",
+      "name": "American Sign Language Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "0R1l9tZj-mM",
+      "name": "Young Heathcliff & Cathy Caught in the Rain - Movie Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "H8fZvbZFqj8",
+      "name": "We're never getting over \"WUTHERING HEIGHTS\"",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "-QI7KJ4vimw",
+      "name": "Your dose of steamy drama awaits",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "AMmYQX0ZIJA",
+      "name": "Dramatic Heathcliff Return - Movie Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "xsvRMI7UuqU",
+      "name": "A look behind the scenes of \"WUTHERING HEIGHTS\"",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "ycU1yDUaugI",
+      "name": "Reimagining the Epic Romance - Behind the Scenes",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "9AjkJB_erKw",
+      "name": "This is your sign to watch \"WUTHERING HEIGHTS\" at home now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "U3wyzSktFRI",
+      "name": "Heathcliff & Cathy Fight About Isabella - Movie Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "o6--6Li69GU",
+      "name": "Don't deny temptation. Watch \"WUTHERING HEIGHTS\" at home now!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "4OIhZMhDWYc",
+      "name": "Full Movie Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "g7U2vdG_W5g",
+      "name": "See it again and again!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "2njTQ3w0TCA",
+      "name": "Cathy and Heathcliff chemistry",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "qZOv2YnX0tc",
+      "name": "Choose... \"WUTHERING HEIGHTS\" See the film everyone's talking about - in cinemas now.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ruIU50LCtX8",
+      "name": "When all you can think about is \"WUTHERING HEIGHTS\"",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "YxmR6gydOMg",
+      "name": "Emerald Fennell on Margot Robbie, Jacob Elordi and \"Wuthering Heights\"",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "5W56Mooy3vs",
+      "name": "Margot Robbie and Emerald Fennell discuss \"Wuthering Heights\"",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Ex6A38hFGxk",
+      "name": "Reason no. 6218 to see Wuthering Heights in cinemas this weekend",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "LmRi9j2FtLE",
+      "name": "Only In Cinemas Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "392ijBJ8tWE",
+      "name": "Emerald Fennell talks collaborating with Charli xcx on \"Wuthering Heights\"",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "CyvpZOmg37c",
+      "name": "wouldn't have it any other way",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "thJJIqXT1hI",
+      "name": "Tighter",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "0diXDLxHIFM",
+      "name": "Hearts Are Racing",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "3u15lQJ3mVc",
+      "name": "Entering The Dream",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "49y8mCnjPUQ",
+      "name": "Watch as the stars of Wuthering Heights let loose in London",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "2xwOaw5bgG0",
+      "name": "Emerald Fennell on directing \"Wuthering Heights\" | BFI in Conversation",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "vixQTXq6c2Y",
+      "name": "Only In Cinemas Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "L9NXrGNyD8w",
+      "name": "Only In Cinemas Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "X2QhN7zpXJI",
+      "name": "t-minus two days to hear it in IMAX!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "dmqfu2V95AQ",
+      "name": "Archway Scene",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "ftL11rGrQwA",
+      "name": "Pick up a Wuthering Heights Valentine's treat TOMORROW (Feb 11) in London and Manchester",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "VJAZa7Mmrmg",
+      "name": "Margot Robbie, Jacob Elordi, Alison Oliver and Shazad Latif on What Movies Make Them Cry (and Sweat)",
+      "official": false,
+      "type": "Featurette"
+    },
+    {
+      "key": "74pjsvykdZo",
+      "name": "Interview with Hong Chau, Alison Oliver & Shazad Latif",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "AiJx_8LEUBE",
+      "name": "UK Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "D82rIJhDbIE",
+      "name": "Interview with Emerald Fennell",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "DAgzjdIC7Ag",
+      "name": "Only In Cinemas 12 February",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "R702JZpuefQ",
+      "name": "Celebrate love in all its forms at the Wuthering Heights pop-up in London",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "hikLuQacv6Y",
+      "name": "Only In Cinemas 12 February",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "-Pi9t_6wQDE",
+      "name": "Relive the electricity of the Wuthering Heights UK Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "odrPZi99eAg",
+      "name": "In Cinemas on February 13",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "52LXNHqlgTo",
+      "name": "Quite simple, really.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "qiBq2cwlNQ4",
+      "name": "A calming presence to lean on.",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "wvGrek9FRDU",
+      "name": "One week to go",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "wO1zsW0SkSM",
+      "name": "In Cinemas on February 13​",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "UiucvnztX74",
+      "name": "Too much love for one lifetime. Our Wuthering Heights stars in London.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "CrmyxUjz59E",
+      "name": "Filmmaker Emerald Fennell celebrates with Wuthering Heights fans at the UK Premiere of the film",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "NlJPK4VPBa8",
+      "name": "Signing in the rain... Margot Robbie meets fans at the \"Wuthering Heights\" UK Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Op9ufNtJInw",
+      "name": "Man of the moment... Jacob Elordi takes to the Wuthering Heights black carpet in London.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "UKs6PB5zhJk",
+      "name": "Ready to fall in love again and again, it's Charli xcx!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "v-0W0decXDY",
+      "name": "Margot Robbie & Jacob Elordi caught in the rain at the \"WUTHERING HEIGHTS\" UK Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "1-CrC_lHHvo",
+      "name": "What is your love language?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Ij23ZAiTVIE",
+      "name": "The Yorkshire moors of Wuthering Heights are calling... Delve deeper in cinemas February 13.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "5RJWZzLhRig",
+      "name": "Jacob Elordi boasts about working with Margot Robbie for Wuthering Heights. 🎥: Rotten Tomatoes",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "-oEMKyLuqmE",
+      "name": "Emerald's Vision",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "4eGGjsombho",
+      "name": "Step into the world of Wuthering Heights as Thrushcross Grange lands in London",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "K_yXMVozM1c",
+      "name": "Your burning questions answered.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "VaSo2ur9_7s",
+      "name": "For the yearners...",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "liBS2DU-Q4s",
+      "name": "The jealousy is real in this new Wuthering Heights scene.",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "JVA0VmxAy-s",
+      "name": "Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "kvZ8xCXg3tc",
+      "name": "Come undone in IMAX.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "wSPF-l2h2FU",
+      "name": "Unwavering desire",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "yxjFCxQ1uc8",
+      "name": "Things are heating up",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "M-McmpcL1z4",
+      "name": "The year of yearning is here... Get ready for Wuthering Heights",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9bf_5kPLYRo",
+      "name": "Tickets on Sale Now - Featurette",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "yq8iCn-hkfY",
+      "name": "In ONE MONTH, come undone.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Zq1Q60TCG9g",
+      "name": "Listen closely.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "FHMGI9ONOv8",
+      "name": "Obsessed",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "8Z1G_AOSAx0",
+      "name": "New Year, Same Desire",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "DUHFC8Y_Wb8",
+      "name": "\"Wuthering Heights\" x Quinn",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "3fLCdIYShEQ",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "LHG_YhGpOWA",
+      "name": "In every lifetime, he is hers, and she is his.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "vuadVeeVyUo",
+      "name": "Yearning.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "fzs_DaSrEzY",
+      "name": "They will always find each other.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "JX7m-1SU-7Q",
+      "name": "Every part of her — divine.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "r_vdBsfa-ro",
+      "name": "Whatever souls are made of, his and mine are the same.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "KN_zMvw6l6k",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ID0rqEWrN44",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 1424,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1316092-wuthering-heights/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1316092-wuthering-heights/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

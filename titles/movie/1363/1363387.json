@@ -1,0 +1,330 @@
+{
+  "backdropPath": "/7NUx7bQAD4lo9yMDbprvIblhWo2.jpg",
+  "cast": [
+    {
+      "character": "Hana",
+      "id": 1984116,
+      "name": "Midori Francis",
+      "profilePath": "/we9Z3uiLUi06NxKXYNpcexrYOJx.jpg"
+    },
+    {
+      "character": "Josie",
+      "id": 1203789,
+      "name": "Danielle Macdonald",
+      "profilePath": "/pPaypOzZ4oldd7KJHvDEfPSynSi.jpg"
+    },
+    {
+      "character": "Alanya",
+      "id": 1109111,
+      "name": "Madeleine Madden",
+      "profilePath": "/oOZ1EJeq2DHxNNLAkLEyYYOlqlM.jpg"
+    },
+    {
+      "character": "Travis",
+      "id": 39545,
+      "name": "Robert Taylor",
+      "profilePath": "/wjeEGFarZNyvrqLL4W52eXnAnXe.jpg"
+    },
+    {
+      "character": "Kimie",
+      "id": 5957958,
+      "name": "Showko Showfukutei",
+      "profilePath": "/xB4BRallUxSofsgDZLjTaZ1nXRe.jpg"
+    },
+    {
+      "character": "Grace",
+      "id": 2022182,
+      "name": "Octavia Barron-Martin",
+      "profilePath": "/1lRy9ZY2RYEFlK7PTuWYmd9TG3M.jpg"
+    },
+    {
+      "character": "Ghost Cadaver",
+      "id": 3549271,
+      "name": "Anna Adams",
+      "profilePath": null
+    },
+    {
+      "character": "Melissa",
+      "id": 3406016,
+      "name": "Annie Shapero",
+      "profilePath": "/orBQJJrQVQdbNkT4Vx5Hkw91xPX.jpg"
+    },
+    {
+      "character": "Professor Kasab",
+      "id": 1465557,
+      "name": "Louisa Mignone",
+      "profilePath": "/aTq0QihzbgXuNJmhe8pWixpD4ID.jpg"
+    },
+    {
+      "character": "Ryan",
+      "id": 5159439,
+      "name": "Joseph Baldwin",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 71767,
+      "logoPath": null,
+      "name": "Carver Films"
+    },
+    {
+      "id": 12142,
+      "logoPath": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+      "name": "XYZ Films"
+    },
+    {
+      "id": 74346,
+      "logoPath": "/1akCJMjyZsiS4v3NTJD5Y0LFZ4R.png",
+      "name": "Stan"
+    },
+    {
+      "id": 247616,
+      "logoPath": null,
+      "name": "Thrum Films"
+    },
+    {
+      "id": 7584,
+      "logoPath": "/eGkfvvyf4fJTvBUR1xt1669IPA3.png",
+      "name": "Screen Australia"
+    },
+    {
+      "id": 142269,
+      "logoPath": "/ggrWFqk5mPMks0vE3aCy3l9e0dv.png",
+      "name": "IPR.VC"
+    },
+    {
+      "id": 204763,
+      "logoPath": "/aqWMgtLOf2ClBDnK0f4DvYNTZf6.png",
+      "name": "VicScreen"
+    },
+    {
+      "id": 247617,
+      "logoPath": "/mW6DoAEQuYPtvlbxEylniCstnA5.png",
+      "name": "Maslow Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    },
+    {
+      "code": "FI",
+      "name": "Finland"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-06-12",
+  "externalIds": {
+    "imdbId": "tt35050712",
+    "wikidataId": "Q132531437"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 21,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1363387,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Saccharine",
+  "overview": "After succumbing to an obscure weight-loss craze involving the eating of human ashes, lovelorn medical student Hana finds herself haunted by the ghost of the person she's eating.",
+  "posterPath": "/bCHPB5WZy4T0Rerh1GTuQLzU0rF.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-07-24",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-12",
+      "gapDays": 21,
+      "theatricalDate": "2026-05-22"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-07-24"
+    },
+    "US": {
+      "digital": "2026-06-12",
+      "premiere": "2026-01-22",
+      "theatricalLimited": "2026-05-22"
+    }
+  },
+  "runtime": 113,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "What's eating you?",
+  "theatricalDate": "2026-05-22",
+  "title": "Saccharine",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "uIY13LD3RUY",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "iaWe8fLJTbs",
+      "name": "Meet the Artist 2026: Natalie Erika James on “Saccharine”",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 303,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        },
+        {
+          "id": 204,
+          "logoPath": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+          "name": "Shudder Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1363387-saccharine/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1854,
+          "logoPath": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 635,
+          "logoPath": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+          "name": "AMC+ Roku Premium Channel"
+        },
+        {
+          "id": 526,
+          "logoPath": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+          "name": "AMC+"
+        },
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1363387-saccharine/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

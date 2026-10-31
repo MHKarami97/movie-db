@@ -1,0 +1,114 @@
+{
+  "backdropPath": "/dzPU7I72phzlVOygFiQ6Ek9griW.jpg",
+  "cast": [
+    {
+      "character": "Harry",
+      "id": 1376657,
+      "name": "Agustín Bernasconi",
+      "profilePath": "/tLodJcBWgNzmCPRfpgteXIJZSH3.jpg"
+    },
+    {
+      "character": "Abby",
+      "id": 6302692,
+      "name": "Abril Schapo",
+      "profilePath": "/uMiRO7FCvl4fiV7kkLeUGdnb6fj.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2027-01-01",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 1,
+        "name": "1",
+        "overview": "First episode of Las reglas del boxeador.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 339319,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-01",
+    "episodeNumber": 1,
+    "id": 7984925,
+    "name": "1",
+    "overview": "First episode of Las reglas del boxeador.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Las reglas del boxeador",
+  "overview": "Harry enters the world of underground boxing in search of answers following his brother’s death, and there he meets Abby, with whom he finds instant attraction, wounds from the past, and plenty of adrenaline.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-01"
+    },
+    "CN": {
+      "tv": "2027-01-01"
+    },
+    "GB": {
+      "tv": "2027-01-01"
+    },
+    "US": {
+      "tv": "2027-01-01"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-01",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Las reglas del boxeador",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

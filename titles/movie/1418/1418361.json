@@ -1,0 +1,231 @@
+{
+  "backdropPath": "/azXMzHsLPgFUaZmwRZoIcGgUqdT.jpg",
+  "cast": [
+    {
+      "character": "Lucius",
+      "id": 5293,
+      "name": "Willem Dafoe",
+      "profilePath": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+      "character": "Lilly",
+      "id": 5580561,
+      "name": "Lilly Lindner",
+      "profilePath": null
+    },
+    {
+      "character": "Tasiko",
+      "id": 1163685,
+      "name": "Stéphanie Argerich",
+      "profilePath": "/e3FAZB2mgrdVlkvEGTNaZnzIHxR.jpg"
+    },
+    {
+      "character": "",
+      "id": 1145476,
+      "name": "Gastón Solnicki",
+      "profilePath": "/qzQ301EOWhbEFCZIW7e0W6zJBU5.jpg"
+    },
+    {
+      "character": "",
+      "id": 6426755,
+      "name": "Imona Mirrakhimova",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 5580562,
+      "name": "Claus Philip",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 5659789,
+      "name": "Camille Clair",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 3026308,
+      "name": "Han-Gyeol Lie",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 4543582,
+      "name": "Franz Taferner",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6426756,
+      "name": "Fernando Trocca",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 96799,
+      "logoPath": "/esGUZNjqK3QTEuBTSLIbaWCr31v.png",
+      "name": "Little Magnet Films"
+    },
+    {
+      "id": 71214,
+      "logoPath": null,
+      "name": "Filmy Wiktora"
+    },
+    {
+      "id": 134166,
+      "logoPath": "/tINT6vMiVhG0LuLbDYxXZlGMm6L.png",
+      "name": "Primo Content"
+    },
+    {
+      "id": 157677,
+      "logoPath": "/7sGQC5xG6oqw3SE9wQUYXcAxU7Y.png",
+      "name": "KGP Filmproduktion"
+    },
+    {
+      "id": 39134,
+      "logoPath": "/sijjN3vMtjCnc1LkCM7HSBErcO3.png",
+      "name": "Kino Lorber"
+    },
+    {
+      "id": 288287,
+      "logoPath": null,
+      "name": "Magnify Films"
+    },
+    {
+      "id": 174044,
+      "logoPath": "/y0Oav4j5xPdhoov3amz18gP9Fa7.png",
+      "name": "Film Fonds Wien"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    {
+      "code": "AT",
+      "name": "Austria"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33305621",
+    "wikidataId": "Q135440047"
+  },
+  "fetchedAt": 1793990790150,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1418361,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Souffleur",
+  "overview": "Lucius Glantz, a veteran hotel manager in Vienna, fights to save his beloved establishment from a scheming realtor's plan to demolish it, leading to a clash of wills that even affects the hotel's renowned soufflé recipe.",
+  "posterPath": "/71AUsPBhp0sirQI8sC8pmVcdno0.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 78,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Souffleur",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "jA4h5M1sS7g",
+      "name": "The Souffleur - Official Teaser",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "-NPBcWFNbtI",
+      "name": "2025 Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2135,
+          "logoPath": "/vzHdqyLVfEXK6dNIbsVYH28mn9k.png",
+          "name": "Kino Film Collection"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1418361-the-souffleur/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

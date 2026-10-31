@@ -1,0 +1,546 @@
+{
+  "backdropPath": "/edH0CCAwswUNj8h6CyHJpX5JdIE.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 18742,
+      "logoPath": "/krQ8RCXPmQHmJ50gTEplxg3p588.png",
+      "name": "ABC Entertainment"
+    },
+    {
+      "id": 18743,
+      "logoPath": null,
+      "name": "Vin Di Bona Productions"
+    },
+    {
+      "id": 3668,
+      "logoPath": null,
+      "name": "ABC Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "1989-11-26",
+  "episodes": {
+    "37": [
+      {
+        "airDate": "2026-09-27",
+        "episodeNumber": 1,
+        "name": "Dogs Disrupting Weddings, Parenting Problems, and Summer Bummer",
+        "overview": "Summer sizzles into disaster with pool, boat and BBQ fails, plus kid-fueled chaos.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-04",
+        "episodeNumber": 2,
+        "name": "Kitchen Klutzes, Wedding Blunders, and Animals Being Jerks",
+        "overview": "Kitchen klutzes; jerky animals; distracted mishaps; wedding blunders.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-11",
+        "episodeNumber": 3,
+        "name": "Family Squabbles, Squirrely, and The Red, White, and Bruised",
+        "overview": "Squirrels act nutty; epic pranks; a ding-dong-ditch attempt backfires spectacularly; family squabbles.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-18",
+        "episodeNumber": 4,
+        "name": "Dorky Dads, Birthday Blunders, and Ka-Ching!",
+        "overview": "Costly mishaps; birthday blunders; dorky dads; animal antics.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "AFV",
+    "imdbId": "tt0098740",
+    "twitterId": "AFVOfficial",
+    "wikidataId": "Q1595930"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 4448,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-18",
+    "episodeNumber": 4,
+    "id": 7986077,
+    "name": "Dorky Dads, Birthday Blunders, and Ka-Ching!",
+    "overview": "Costly mishaps; birthday blunders; dorky dads; animal antics.",
+    "seasonNumber": 37
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "America's Funniest Home Videos",
+  "overview": "America's Funniest Home Videos is the longest-running primetime entertainment show in ABC history. Each week AFV shines the spotlight on hilarious videos. Fans tune in to witness failures and fiascos and to submit their own mishaps for their chance at stardom.",
+  "posterPath": "/3CER8AdYtynbFBLIGLXv3wscDzl.jpg",
+  "rating": 6.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1989-11-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1989-11-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1989-11-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1989-11-26",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1989-11-26"
+    },
+    "CN": {
+      "tv": "1989-11-26"
+    },
+    "GB": {
+      "tv": "1989-11-26"
+    },
+    "US": {
+      "tv": "1989-11-26"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": null,
+      "episodeCount": 3,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1990-01-14",
+      "episodeCount": 16,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1990-09-16",
+      "episodeCount": 25,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1991-09-22",
+      "episodeCount": 25,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1992-09-20",
+      "episodeCount": 25,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1993-09-19",
+      "episodeCount": 22,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1994-09-18",
+      "episodeCount": 24,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1995-09-17",
+      "episodeCount": 22,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1996-09-22",
+      "episodeCount": 30,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1998-01-05",
+      "episodeCount": 20,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1998-10-03",
+      "episodeCount": 23,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2001-02-03",
+      "episodeCount": 17,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2002-02-15",
+      "episodeCount": 15,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2002-09-27",
+      "episodeCount": 24,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2003-09-28",
+      "episodeCount": 22,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2004-09-26",
+      "episodeCount": 22,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2005-10-02",
+      "episodeCount": 23,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2006-10-01",
+      "episodeCount": 27,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2007-10-07",
+      "episodeCount": 22,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2008-10-05",
+      "episodeCount": 24,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2009-10-04",
+      "episodeCount": 24,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2010-10-03",
+      "episodeCount": 24,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2011-10-02",
+      "episodeCount": 23,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2012-10-07",
+      "episodeCount": 22,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2013-10-06",
+      "episodeCount": 22,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2014-10-12",
+      "episodeCount": 23,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "2015-10-11",
+      "episodeCount": 22,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "2016-10-02",
+      "episodeCount": 22,
+      "name": "Season 27",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "2017-10-08",
+      "episodeCount": 22,
+      "name": "Season 28",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "2018-09-30",
+      "episodeCount": 22,
+      "name": "Season 29",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "2019-09-29",
+      "episodeCount": 22,
+      "name": "Season 30",
+      "overview": "",
+      "posterPath": "/A9CxqxkWKvTm6YSsWxc5tzDuchv.jpg",
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "2020-10-18",
+      "episodeCount": 22,
+      "name": "Season 31",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "2021-10-03",
+      "episodeCount": 22,
+      "name": "Season 32",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "2022-10-02",
+      "episodeCount": 17,
+      "name": "Season 33",
+      "overview": "",
+      "posterPath": "/poQGZfzMBp3sbYDoDVBr8WJBX0h.jpg",
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "2023-10-01",
+      "episodeCount": 22,
+      "name": "Season 34",
+      "overview": "",
+      "posterPath": "/AshlmhqCdiwJjnSjQWCKBCQVvW2.jpg",
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "2024-09-29",
+      "episodeCount": 20,
+      "name": "Season 35",
+      "overview": "",
+      "posterPath": "/ghNASr73d4RzLyGGAwlx7OoJkPO.jpg",
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "2025-09-28",
+      "episodeCount": 21,
+      "name": "Season 36",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 36
+    },
+    {
+      "airDate": "2026-09-27",
+      "episodeCount": 4,
+      "name": "Season 37",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 37
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "America's Funniest Home Videos",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 56,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 103,
+          "logoPath": "/kMT8p43W3BsXBe9mqCIPDNepser.png",
+          "name": "Channel 4"
+        }
+      ],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/4448-america-s-funniest-home-videos/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        },
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        },
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 2528,
+          "logoPath": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+          "name": "YouTube TV"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/4448-america-s-funniest-home-videos/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "backdropPath": "/vdtp2Rm1ChGEF0x6pIk9gQkgywJ.jpg",
+  "cast": [
+    {
+      "character": "Liam",
+      "id": 2606873,
+      "name": "Joey Bader",
+      "profilePath": "/y7w3R7jcBYZbUWX6Svs2gF4WOuU.jpg"
+    },
+    {
+      "character": "Mel",
+      "id": 2606852,
+      "name": "Kaylee McGregor",
+      "profilePath": "/z5v5qjgvNurNBcxDgYeCEGlDqCp.jpg"
+    },
+    {
+      "character": "Chester",
+      "id": 3674553,
+      "name": "Oliver Woolf",
+      "profilePath": "/sngNwnfM5QoYT2j6OMIy8hKBUDz.jpg"
+    },
+    {
+      "character": "Soldier",
+      "id": 4500384,
+      "name": "Jack Redmayne",
+      "profilePath": "/rv4Hfhu9hknl1rbDpjjUxhHSlo8.jpg"
+    },
+    {
+      "character": "Radio Voice (voice)",
+      "id": 4021876,
+      "name": "Kenichiro Thomson",
+      "profilePath": "/muUlQyJ4MpoYIci8NRgF3MyyDZ6.jpg"
+    },
+    {
+      "character": "Emergency Announcer (voice)",
+      "id": 4502098,
+      "name": "Honor Koe",
+      "profilePath": "/iQxhvDOfGoZA2cgBQI3oPNCbFaI.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 244869,
+      "logoPath": null,
+      "name": "That's The Fish"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35051345"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1335955,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Littermates",
+  "overview": "Amidst the chaos of a mysterious war, two victims of an attack take refuge at a cottage in the English countryside, where an enigmatic caretaker insists they cannot leave.",
+  "posterPath": "/pqa4knSCKaqAAIkMn4vH4pINdRc.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-06"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-03-28"
+    },
+    "US": {
+      "premiere": "2026-06-21",
+      "theatricalLimited": "2026-11-06"
+    }
+  },
+  "runtime": 88,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-11-06",
+  "title": "Littermates",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "vd7oqgnf4ac",
+      "name": "Alamo Exclusives: LITTERMATES trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,283 @@
+{
+  "backdropPath": "/AfdVZEhR5y0oLaC1pDgFNecn8fw.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 3609173,
+      "name": "Brunello Cucinelli",
+      "profilePath": "/lkeTb2jJDZ3JP7LJTlu4bmQ87oh.jpg"
+    },
+    {
+      "character": "Brunello Adulto",
+      "id": 1794470,
+      "name": "Saul Nanni",
+      "profilePath": "/1m9s0e8tz5W7pqyOlvD3X5S1ZXP.jpg"
+    },
+    {
+      "character": "Brunello 7 anni",
+      "id": 6526986,
+      "name": "Francesco Cannevale",
+      "profilePath": null
+    },
+    {
+      "character": "Brunello 15 anni",
+      "id": 6526989,
+      "name": "Francesco Ferroni",
+      "profilePath": null
+    },
+    {
+      "character": "Federica",
+      "id": 6526992,
+      "name": "Emma Fatone",
+      "profilePath": null
+    },
+    {
+      "character": "Mamma Maria",
+      "id": 6526993,
+      "name": "Beatrice Carlani",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 1613910,
+      "name": "Gianluca Vacchi",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 13309,
+      "name": "Oprah Winfrey",
+      "profilePath": "/nNpYieaDLxKZWw2FY9wsDkjwURu.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1648755,
+      "name": "Nick Sullivan",
+      "profilePath": "/22LMrfZSbN95NBE58mJwLRqMbVs.jpg"
+    },
+    {
+      "character": "Self / Zio Orlando",
+      "id": 2186569,
+      "name": "Cristian Stelluti",
+      "profilePath": "/aLV08v3mat3HOnCdqjubmqaKnqj.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 155990,
+      "logoPath": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema"
+    },
+    {
+      "id": 178158,
+      "logoPath": null,
+      "name": "MasiFilm"
+    },
+    {
+      "id": 288870,
+      "logoPath": null,
+      "name": "Brunello Cucinelli S.p.A."
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37107071",
+    "wikidataId": "Q137357121"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1498729,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "originalTitle": "Brunello - Il visionario garbato",
+  "overview": "A farmer's son transforms into a fashion mogul, building a billion-dollar luxury empire while staying true to his humanistic values and commitment to ethical business practices and fine craftsmanship.",
+  "posterPath": "/1PRhmkQoi1DHa38YcM35sB9a9m4.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-07-24"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-14"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-07-24"
+    },
+    "US": {
+      "theatricalLimited": "2026-04-14"
+    }
+  },
+  "runtime": 121,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-04-14",
+  "title": "Brunello: The Gracious Visionary",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "DUSK3uec9SA",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "JLa4t3VVyTU",
+      "name": "BRUNELLO: the Gracious Visionary",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1498729-brunello-il-visionario-garbato/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1498729-brunello-il-visionario-garbato/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

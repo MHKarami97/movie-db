@@ -1,0 +1,186 @@
+{
+  "backdropPath": "/vWMt9uu77fJP5PU6MfYXANSH4Cs.jpg",
+  "cast": [
+    {
+      "character": "آدم",
+      "id": 3373510,
+      "name": "Abdullah Boushahri",
+      "profilePath": "/n0qYVtTMho2mJp0lW3dHAqLBiaR.jpg"
+    },
+    {
+      "character": "سما",
+      "id": 3486003,
+      "name": "Lulwa al-Mullah",
+      "profilePath": "/vTFhpx3Tn3GWOScndmnyXjOM71V.jpg"
+    },
+    {
+      "character": "ياسمين",
+      "id": 2247324,
+      "name": "Layla Abdullah",
+      "profilePath": "/2HDP8ko5OlY0iIMOB5F7EyQRqyp.jpg"
+    },
+    {
+      "character": "طلال",
+      "id": 3088356,
+      "name": "Hamad Ashknani",
+      "profilePath": "/afXSf2OnHTJpGsUo0mgJRSM0aub.jpg"
+    },
+    {
+      "character": "حلا",
+      "id": 2664701,
+      "name": "Sara Abu Kanaan",
+      "profilePath": "/vTDUsabi7gIM5Tf5hifx5VRW27.jpg"
+    },
+    {
+      "character": "",
+      "id": 2511428,
+      "name": "Shihab Hajiyeh",
+      "profilePath": "/ageFBfUlM8Z4TRQeq5BsGAOy58Z.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 151785,
+      "logoPath": "/fE0vFSOccnwH8jBLh7d0uLxciUO.png",
+      "name": "Eagle Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AE",
+      "name": "United Arab Emirates"
+    }
+  ],
+  "digitalDate": "2025-11-07",
+  "externalIds": {
+    "imdbId": "tt35713227"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1446358,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ar",
+      "name": "Arabic"
+    }
+  ],
+  "originalTitle": "عريس وعروستين",
+  "overview": "Adam is allergic to love, but somehow ends up engaged to both his boss's daughter and his first love. Now he must try to keep his double life a secret.",
+  "posterPath": "/5ixetxYF75iikkNZ3gImKEjVJNH.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-11-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-11-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-07",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2025-11-07"
+    },
+    "GB": {
+      "digital": "2025-11-07"
+    },
+    "US": {
+      "digital": "2025-11-07"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Groom & Two Brides",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "xCHkv92IagA",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 22,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1446358/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1446358/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1446358/watch?locale=US",
+      "rent": []
+    }
+  }
+}

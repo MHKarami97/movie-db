@@ -1,0 +1,265 @@
+{
+  "backdropPath": "/tZiRd4IpoNiaoLXr2o2YfhTMjE2.jpg",
+  "cast": [
+    {
+      "character": "Raphael",
+      "id": 655,
+      "name": "John Rhys-Davies",
+      "profilePath": "/qpXl1YnqQsUKYEDm3BB2zK5wbhe.jpg"
+    },
+    {
+      "character": "Bud",
+      "id": 15854,
+      "name": "Ted Levine",
+      "profilePath": "/451KSkowLW6M2Au0wBKZZcidgGm.jpg"
+    },
+    {
+      "character": "Zelda",
+      "id": 126932,
+      "name": "Elisabeth Röhm",
+      "profilePath": "/hIlBBZD2Rou4to1OauI799jV1UH.jpg"
+    },
+    {
+      "character": "Joshua",
+      "id": 935201,
+      "name": "Diego Boneta",
+      "profilePath": "/hgEcC28oljaPBYi7ONMToQYMHMA.jpg"
+    },
+    {
+      "character": "Aisling",
+      "id": 1403115,
+      "name": "Alexandra Dowling",
+      "profilePath": "/r82iduLbDcvN4VvwfWtkFn6Libn.jpg"
+    },
+    {
+      "character": "Teresa",
+      "id": 59206,
+      "name": "Becky Ann Baker",
+      "profilePath": "/84fEZMqVMlcl9EaBeCLbrYhHn0x.jpg"
+    },
+    {
+      "character": "Grace",
+      "id": 4003,
+      "name": "Christine Ebersole",
+      "profilePath": "/bSFrS3JtDwnzbw877Iqwf8tEmF.jpg"
+    },
+    {
+      "character": "Peter",
+      "id": 81683,
+      "name": "Gbenga Akinnagbe",
+      "profilePath": "/vFcVgkew7ign5utNWycKvUiBb75.jpg"
+    },
+    {
+      "character": "Ken",
+      "id": 68180,
+      "name": "Gary Grubbs",
+      "profilePath": "/uXJG4skJTElTQ5BJ9pkJjzfKIDv.jpg"
+    },
+    {
+      "character": "Elegant Woman",
+      "id": 427,
+      "name": "Sandra Ellis Lafferty",
+      "profilePath": "/tlkmEzWjwaw6i8rBPE71yVJzhw9.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 238654,
+      "logoPath": null,
+      "name": "Lucente Filmed Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt1742179",
+    "wikidataId": "Q137766756"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 662707,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Starbright",
+  "overview": "A young woman becomes the guardian of a fallen star, which she must protect from dangerous forces with the help of a brave stranger.",
+  "posterPath": "/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-02-27"
+    }
+  },
+  "runtime": 148,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Starbright",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "hBxMbl2V3ZA",
+      "name": "Now Playing",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 20,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/662707-starbright/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 332,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango at Home Free"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/662707-starbright/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

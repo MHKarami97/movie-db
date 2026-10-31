@@ -1,0 +1,172 @@
+{
+  "backdropPath": "/rAqFDIezocktFUtNCRqZ2wTKjUq.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 3634017,
+      "name": "Emiliano Martínez",
+      "profilePath": "/otA9buZ7tJJAJUw8zZW7sFTn3XN.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1127406,
+      "name": "Lionel Messi",
+      "profilePath": "/nm01BgtgwhOm3zDrnlV4vG8Q4FC.jpg"
+    },
+    {
+      "character": "Ball (voice)",
+      "id": 2276345,
+      "name": "Agustín Aristarán",
+      "profilePath": "/bLYj5IHVW1eWY6KAVzmnF8k13By.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 3634012,
+      "name": "Lionel Scaloni",
+      "profilePath": "/bkcJOGUmepTfQf667LpTy2Bfehv.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6193678,
+      "name": "Miguel Ángel Santoro",
+      "profilePath": "/1C4VUelPKSx8g10aG4pJcWkomEP.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 143874,
+      "logoPath": "/ma7oer37qZprrAm4JBvKKHe1pKx.png",
+      "name": "PEGSA Group"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "digitalDate": "2026-05-28",
+  "externalIds": {
+    "imdbId": "tt41559880"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1686326,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Dibu Martínez: El pibe que ataja el tiempo",
+  "overview": "Mixing animation and interviews, this film follows Emi Martínez's journey to becoming a legendary goalkeeper, from small-town Argentina to world glory.",
+  "posterPath": "/xjBwm6dIt3TMRPK0CFDrMVmt5TG.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-28",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-05-28"
+    }
+  },
+  "runtime": 77,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Emi Martínez: The Kid Who Stops Time",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 11,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1686326-dibu-martinez-el-pibe-que-ataja-el-tiempo/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 175,
+          "logoPath": "/rjPaInWHH1nPgtRFF17BbHN2gu.png",
+          "name": "Netflix Kids"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1686326-dibu-martinez-el-pibe-que-ataja-el-tiempo/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1686326-dibu-martinez-el-pibe-que-ataja-el-tiempo/watch?locale=US",
+      "rent": []
+    }
+  }
+}

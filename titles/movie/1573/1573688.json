@@ -1,0 +1,181 @@
+{
+  "backdropPath": "/yPdJQsvLhnHZ65LSjo3o43Z8ogi.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1659144,
+      "name": "Julio Torres",
+      "profilePath": "/oveoXN7fZFIeL5G1fJ7Dk5SJeNc.jpg"
+    },
+    {
+      "character": "Spilled Wine",
+      "id": 6102239,
+      "name": "Drew Rollins",
+      "profilePath": null
+    },
+    {
+      "character": "Music Box",
+      "id": 6102240,
+      "name": "Nick Meyers",
+      "profilePath": null
+    },
+    {
+      "character": "Bibo (voice)",
+      "id": 2184976,
+      "name": "Joe Rumrill",
+      "profilePath": null
+    },
+    {
+      "character": "Bibo Wrangler",
+      "id": 1515335,
+      "name": "Ian Edlund",
+      "profilePath": "/eAh5QgwxSlM8bOcE7SN68SFLJBW.jpg"
+    },
+    {
+      "character": "Bibo Arms",
+      "id": 6102242,
+      "name": "Max Collura",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 92599,
+      "logoPath": "/iQx7uOTuyHvM71SDB8Y0pBccJP6.png",
+      "name": "Rotten Science"
+    },
+    {
+      "id": 787,
+      "logoPath": "/xx7T872JDo6NOdwq5IeG0cyD9jS.png",
+      "name": "3 Arts Entertainment"
+    },
+    {
+      "id": 182433,
+      "logoPath": null,
+      "name": "Space Prince"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-03-27",
+  "externalIds": {
+    "imdbId": "tt38641367"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1573688,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Color Theories by Julio Torres. A Guide to Seeing the World",
+  "overview": "Julio Torres takes the stage in NYC and invites the audience to see the people, places, and things around us through his kaleidoscopic lens. Blending stand-up, an interactive set, and live drawings, Julio explores the inherent traits, personalities, and emotions of particular colors.",
+  "posterPath": "/cnJeI6TqrIzMKt9r5VXxaj1YJqR.jpg",
+  "rating": 7.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-03-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-03-27"
+    },
+    "US": {
+      "digital": "2026-03-27",
+      "tv": "2026-03-27"
+    }
+  },
+  "runtime": 72,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Color Theories by Julio Torres. A Guide to Seeing the World",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "9OOIiJRPIcU",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1573688-color-theories-by-julio-torres-a-guide-to-seeing-the-world/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1573688-color-theories-by-julio-torres-a-guide-to-seeing-the-world/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "backdropPath": "/zFkvtQvwffn2Cgd0gXDymNnWzZA.jpg",
+  "cast": [
+    {
+      "character": "Ethan",
+      "id": 5090,
+      "name": "Adrian Grenier",
+      "profilePath": "/ghSzUkiw7OjRq0poNOlCjbXbdU6.jpg"
+    },
+    {
+      "character": "Dr Jen Bell",
+      "id": 1196822,
+      "name": "Jessica De Gouw",
+      "profilePath": "/vmKzmMooWodUju9GZzm9rS8mrAQ.jpg"
+    },
+    {
+      "character": "Patrick",
+      "id": 2111842,
+      "name": "Desmond Chiam",
+      "profilePath": "/xoB4mLfJBXatE20Rgm83LzzSXHf.jpg"
+    },
+    {
+      "character": "Matilda",
+      "id": 1661479,
+      "name": "Yasmin Kassim",
+      "profilePath": "/pv9ShbsTlCwmZAseUI4aud6CTkW.jpg"
+    },
+    {
+      "character": "",
+      "id": 208931,
+      "name": "Spencer McLaren",
+      "profilePath": "/yC2oTeoGSourrrTaROi15GZyX3x.jpg"
+    },
+    {
+      "character": "",
+      "id": 5113809,
+      "name": "Adyn Kingi",
+      "profilePath": null
+    },
+    {
+      "character": "Sophia Bell",
+      "id": 6113102,
+      "name": "Aria Burton",
+      "profilePath": null
+    },
+    {
+      "character": "Efoil Rider",
+      "id": 6440808,
+      "name": "Gregory F. Tulau",
+      "profilePath": null
+    },
+    {
+      "character": "Hazel",
+      "id": 6440809,
+      "name": "Jessie Starmer",
+      "profilePath": null
+    },
+    {
+      "character": "Efoil Rider",
+      "id": 6440810,
+      "name": "Roger Longhurst",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 199833,
+      "logoPath": "/jBvzUqNAKQL9KUiAXPHJ01fREGN.png",
+      "name": "Jaggi Entertainment"
+    },
+    {
+      "id": 10950,
+      "logoPath": "/6TdE9m9KgV2az7vNI8n95rQiYr3.png",
+      "name": "Screen Queensland"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    }
+  ],
+  "digitalDate": "2026-05-01",
+  "externalIds": {
+    "imdbId": "tt34984613"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1400923,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "You, Always",
+  "overview": "Ethan is a devoted best friend who soon realises he has long been in love with Dr Jen Bell. However, Jen’s world is turned upside down by the arrival of a charismatic author named Patrick.",
+  "posterPath": "/qpnJSPZxdr307Dn7dvKdEYMjbRG.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-05-01"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "You, Always",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "6Zw1ufAF5Cw",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1400923-you-always/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1400923-you-always/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1400923-you-always/watch?locale=US",
+      "rent": []
+    }
+  }
+}

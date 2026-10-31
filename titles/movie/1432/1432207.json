@@ -1,0 +1,157 @@
+{
+  "backdropPath": "/mnk9eSwyzKSj31z9qkX3GAtsQmJ.jpg",
+  "cast": [
+    {
+      "character": "Luce",
+      "id": 3420617,
+      "name": "Alexia Cozzi",
+      "profilePath": "/3ApsVdubgdA9lj21KabKQygCmfS.jpg"
+    },
+    {
+      "character": "Vicky",
+      "id": 4291863,
+      "name": "Shaen Barletta",
+      "profilePath": "/2MyyKygzLLPfzhztVMpsOOsJIdQ.jpg"
+    },
+    {
+      "character": "Laura",
+      "id": 2237398,
+      "name": "Aurora Moroni",
+      "profilePath": "/arrGoGiZ9wO9OIxdNgATOEctIw9.jpg"
+    },
+    {
+      "character": "Diego",
+      "id": 7694,
+      "name": "Rocco Siffredi",
+      "profilePath": "/4s32Opr7jb3aZMfi2FGUyoEZBdF.jpg"
+    },
+    {
+      "character": "Loris",
+      "id": 2210590,
+      "name": "Pierangelo Menci",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 152885,
+      "logoPath": "/r5FrL52tTZ60Qdt7BNRRNP8Szws.png",
+      "name": "Camaleo Film"
+    },
+    {
+      "id": 228664,
+      "logoPath": "/rKNzL97WA26KnyeUUycdJDggxLq.png",
+      "name": "PiperFilm"
+    },
+    {
+      "id": 119525,
+      "logoPath": null,
+      "name": "Marche Film Commission"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": "2026-03-24",
+  "externalIds": {
+    "imdbId": "tt36987417"
+  },
+  "fetchedAt": 1794511516390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1432207,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "originalTitle": "Blue",
+  "overview": "Luce, a bright young student from a good family, falls for Loris, a reckless boy whose debts put them both in danger. She turns to Vittoria, a once-familiar friend now living in luxury, who convinces her to use erotic sites to pay off the debt. But, like dominos, every part of her life starts collapsing. The two girls won't leave until dawn, once Luce's debt is paid, but at what cost?",
+  "posterPath": "/7twlevJFJzq2icPbIgKCeIrS9TB.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-24",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-03-24"
+    }
+  },
+  "runtime": 83,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "One Room. One Night. A Thousand Pieces.",
+  "theatricalDate": null,
+  "title": "Blue",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1432207-blue/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ]
+    }
+  }
+}

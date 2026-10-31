@@ -1,0 +1,336 @@
+{
+  "backdropPath": "/g2aOpyCO1vEyUZURh3V5uaHu187.jpg",
+  "cast": [
+    {
+      "character": "Kris Hendricks / Voodoo Child",
+      "id": 8329,
+      "name": "Radha Mitchell",
+      "profilePath": "/8EVKyEkwPfIA6GxlIo0PJv0A5mm.jpg"
+    },
+    {
+      "character": "The Dragon",
+      "id": 3129,
+      "name": "Tim Roth",
+      "profilePath": "/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg"
+    },
+    {
+      "character": "Anja",
+      "id": 3077259,
+      "name": "Annabel Wolfe",
+      "profilePath": "/4NONXcOJfAiLb8f3EcGgWETna9f.jpg"
+    },
+    {
+      "character": "Milk",
+      "id": 65524,
+      "name": "Ioan Gruffudd",
+      "profilePath": "/h2pg2XwJPcOWotHgiohXjEZUBLa.jpg"
+    },
+    {
+      "character": "Phillips",
+      "id": 133212,
+      "name": "Ryan Kwanten",
+      "profilePath": "/vvbEabUWIeaHMBA2wrUChiLTjch.jpg"
+    },
+    {
+      "character": "Michael",
+      "id": 3684983,
+      "name": "Lee Tiger Halley",
+      "profilePath": "/dEoFIS64jLAM5anf3A9DIs9vw6e.jpg"
+    },
+    {
+      "character": "Junior",
+      "id": 1231111,
+      "name": "Charles Cottier",
+      "profilePath": "/gTxlPJMQeY1YBIY8BcbiUz2AAai.jpg"
+    },
+    {
+      "character": "Nico",
+      "id": 1576672,
+      "name": "Pacharo Mzembe",
+      "profilePath": "/lXeEgdThQ8eqFiAv6HTwqJn6AU5.jpg"
+    },
+    {
+      "character": "White Dog",
+      "id": 6028766,
+      "name": "Damien Ryan",
+      "profilePath": null
+    },
+    {
+      "character": "Kaldayev",
+      "id": 3043226,
+      "name": "Bianca Wallace",
+      "profilePath": "/4SNehmA66o6PEFTT7MBGqEhAdd8.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 290364,
+      "logoPath": "/6OnXPrkJJfsZUEgWEaQGxE9YA4K.png",
+      "name": "Filmbarr"
+    },
+    {
+      "id": 242869,
+      "logoPath": "/k09JY4DWHq8on7oeb6FYy533HZC.png",
+      "name": "Monster Pictures Studios"
+    },
+    {
+      "id": 5056,
+      "logoPath": "/ok7CQyn0RPEuI0upznPoo93YE6H.png",
+      "name": "Head Gear Films"
+    },
+    {
+      "id": 10950,
+      "logoPath": "/6TdE9m9KgV2az7vNI8n95rQiYr3.png",
+      "name": "Screen Queensland"
+    },
+    {
+      "id": 25954,
+      "logoPath": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
+      "name": "Metrol Technology"
+    },
+    {
+      "id": 50079,
+      "logoPath": "/hqfJCkivo3juHdqKjMq4pZI4hih.png",
+      "name": "Kreo Films"
+    },
+    {
+      "id": 122034,
+      "logoPath": "/kmZNR0LSuhSkEAje0v20Tn6WOt9.png",
+      "name": "Signature Films"
+    },
+    {
+      "id": 220750,
+      "logoPath": null,
+      "name": "Sandy Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-06-05",
+  "externalIds": {
+    "imdbId": "tt36926359"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1288341,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Seven Snipers",
+  "overview": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
+  "posterPath": "/qvcq0thb9oPwv6JG2nsTgr9LlLb.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-08-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-05",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-08-07",
+      "tv": "2026-08-07"
+    },
+    "US": {
+      "digital": "2026-06-05"
+    }
+  },
+  "runtime": 88,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "She escaped her past. It hunted her down.",
+  "theatricalDate": null,
+  "title": "Seven Snipers",
+  "translations": {
+    "faTitle": "هفت تک تیرانداز"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "_CupQgxBKPE",
+      "name": "Two is one. One is none. Together, we survive.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "SWDxjPeAtVA",
+      "name": "Inhale… hold… release. The hunt begins this FRIDAY.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "aS-wCdvGuD0",
+      "name": "\"Shot Down\" Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "t--EvV2e97k",
+      "name": "Trust nobody. Take everything.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "On_UYuiHCqQ",
+      "name": "\"Stay Low\" Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "RX8c8wybhaM",
+      "name": "Target acquired.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "5u8aKycIm9k",
+      "name": "One shot changes everything.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "-r-HtsJPgto",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "DiXcl3PH8fQ",
+      "name": "Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 175,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1288341-seven-snipers/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2445,
+          "logoPath": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+          "name": "MovieSphere+ Amazon Channel"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1288341-seven-snipers/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

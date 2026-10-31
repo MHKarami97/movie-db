@@ -1,0 +1,152 @@
+{
+  "backdropPath": "/ouMmBgmmKOBmUrg710D785ZWCGG.jpg",
+  "cast": [
+    {
+      "character": "Carmen",
+      "id": 1171510,
+      "name": "Camélia Jordana",
+      "profilePath": "/1yk7yArcgxOzN5OdUoPc8ZNvtAl.jpg"
+    },
+    {
+      "character": "Salva",
+      "id": 3302971,
+      "name": "Milo Machado-Graner",
+      "profilePath": "/wdpeIXaFvSSAJq88dv6Ofzgscd7.jpg"
+    },
+    {
+      "character": "Belén",
+      "id": 1366955,
+      "name": "Soumaye Bocoum",
+      "profilePath": "/bDnie8rll1Uwrq7WYuKAK4SUCMR.jpg"
+    },
+    {
+      "character": "José",
+      "id": 1835130,
+      "name": "Carl Malapa",
+      "profilePath": "/sMavnd5U6ZlZYf4h3gW6T7JinZm.jpg"
+    },
+    {
+      "character": "L’otrac",
+      "id": 3065885,
+      "name": "Fehdi Bendjima",
+      "profilePath": "/5G0zND2qXLawXQHqJHvwptZ7RcG.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 89705,
+      "logoPath": "/9lUhHbMr32wzkDgaOMNrzIu66YC.png",
+      "name": "Folivari"
+    },
+    {
+      "id": 188467,
+      "logoPath": null,
+      "name": "Pikkukala"
+    },
+    {
+      "id": 188468,
+      "logoPath": null,
+      "name": "La Garde Montante Films"
+    },
+    {
+      "id": 206629,
+      "logoPath": null,
+      "name": "Pikkukala Barcelona"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FI",
+      "name": "Finland"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt29034109"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "id": 1061821,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Carmen, l'oiseau rebelle",
+  "overview": "1845, Seville, a pulsating town of sailors and small-time crooks. Teenage Salvador, assistant to the gifted knife grinder Antonio, encounters a captivating young gypsy woman, Carmen. Her stunning beauty and independent spirit set the town abuzz, but Antonio's mystical ability to glimpse the future in sharpened blades foretells a tragic fate for Carmen at the hands of a soldier, José. With unwavering resolve, Salvador musters an eclectic band of misfit street kids, led by the spirited Belén, to challenge the unyielding threads of destiny and protect Carmen from inevitable doom.",
+  "posterPath": "/iQi9sswCkXsaY30eG3eMZj93hqC.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-10-18"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Viva Carmen",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "BMBvGNsw6sE",
+      "name": "VIVA CARMEN Trailer | TIFF 2026",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

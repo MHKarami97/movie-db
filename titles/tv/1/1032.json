@@ -1,0 +1,259 @@
+{
+  "backdropPath": "/olWu25uH1KAYYVBYez6uCyXSDgl.jpg",
+  "cast": [
+    {
+      "character": "Luisma García",
+      "id": 224870,
+      "name": "Paco León",
+      "profilePath": "/dZd0Z3mUgXrE0y21KknLp40Ivuk.jpg"
+    },
+    {
+      "character": "Paz Bermejo",
+      "id": 976465,
+      "name": "Melani Olivares",
+      "profilePath": "/xca7sTorEeiXCdEarH7f0eXrMai.jpg"
+    },
+    {
+      "character": "Chema García",
+      "id": 25220,
+      "name": "Pepe Viyuela",
+      "profilePath": "/aDDn9kF809MMCIXGQ7Cl0crW7Zj.jpg"
+    },
+    {
+      "character": "Mauricio Colmenero",
+      "id": 374832,
+      "name": "Mariano Peña",
+      "profilePath": "/zVgiW4y1vzm3FU1Of0XvGjmqnFu.jpg"
+    },
+    {
+      "character": "Soraya García",
+      "id": 560247,
+      "name": "Miren Ibarguren",
+      "profilePath": "/ndusbJn7YggtKhz37dIla81c72p.jpg"
+    },
+    {
+      "character": "Eugenia García",
+      "id": 231032,
+      "name": "Marisol Ayuso",
+      "profilePath": "/zHWnongjP3ZJWew6H3fzPtiTNX6.jpg"
+    },
+    {
+      "character": "Simón Bermejo",
+      "id": 1211660,
+      "name": "Dani Martínez",
+      "profilePath": "/ws5E6jGhURhTQzYQloGMZXuP68Q.jpg"
+    },
+    {
+      "character": "Jonathan García",
+      "id": 82350,
+      "name": "David Castillo",
+      "profilePath": "/nRzcUnXj5kkrYxgca3G15roZimE.jpg"
+    },
+    {
+      "character": "Fidel Martínez",
+      "id": 931271,
+      "name": "Eduardo Casanova",
+      "profilePath": "/r341g2BbigyTm2jCZhzk4kXubKp.jpg"
+    },
+    {
+      "character": "Inmaculada \"Macu\" Colmenero",
+      "id": 1444941,
+      "name": "Pepa Rus",
+      "profilePath": "/3WMl0siwsGn5zJp44AQJ9MJVS0q.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 21632,
+      "logoPath": "/gEto1Q487D4JPriz2qVfkkvyqjy.png",
+      "name": "Mediaset España"
+    },
+    {
+      "id": 42819,
+      "logoPath": "/f5h7s7xdwG3mL3F3MWnQfwMdRli.png",
+      "name": "Globomedia"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": "2005-01-16",
+  "externalIds": {
+    "facebookId": "aida.serie",
+    "imdbId": "tt0440981",
+    "wikidataId": "Q2916884"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1032,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2014-06-08",
+    "episodeNumber": 38,
+    "id": 1237665,
+    "name": "Episode 38",
+    "overview": "",
+    "seasonNumber": 10
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Aída",
+  "overview": "Aída is a Spanish comedy sitcom set in Madrid, that spin off from another sitcom called 7 Vidas. The show first aired on January 16, 2005 and is produced by Globomedia for the Spanish network Telecinco. It currently started its ninth season.\n\nThe show stars Carmen Machi as the title character, Aída García, a working, single mother with two teenage children, forced to move in with her mother and brother to make ends meet.\n\nThe show has received favorable criticism from the audience and has been the most viewed show in Spain since 2007. It has also received several awards like the Ondas Award for Best Spanish Sitcom.\n\nThe Polish re-make of the series began airing in March 2012 on TVP2 channel.",
+  "posterPath": "/poEaDSpLbpKeA2OI4n2X6K4udYd.jpg",
+  "rating": 7.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2005-01-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2005-01-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2005-01-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2005-01-16",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2005-01-16"
+    },
+    "CN": {
+      "tv": "2005-01-16"
+    },
+    "GB": {
+      "tv": "2005-01-16"
+    },
+    "US": {
+      "tv": "2005-01-16"
+    }
+  },
+  "runtime": 55,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2012-12-30",
+      "episodeCount": 9,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2005-01-16",
+      "episodeCount": 13,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/7v6e52yMnnaMU8RA8VjXmyEOQP3.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2005-09-11",
+      "episodeCount": 14,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/eGFeS4uKLH9JY6rQ79UQImDBlVL.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2006-05-14",
+      "episodeCount": 14,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/kNj6R4cN0RJpTjSL0W8KAjn6rnh.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2007-01-07",
+      "episodeCount": 16,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/c6NW06yEry9w2gDuTxq4RzB7RC2.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2007-12-02",
+      "episodeCount": 26,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/b2gjGKlIM9rRA1hwvbJXy3NEliC.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2008-12-14",
+      "episodeCount": 27,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/2JpMqoYSrhLEK5EQmDoaTrxwLtX.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2010-04-04",
+      "episodeCount": 15,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/1UG9wffJsvEI4f5qNnKR9ZmvjMZ.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2010-09-05",
+      "episodeCount": 28,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/A6sdupjqHOQmTqxAGPnPWf1PATH.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2011-10-30",
+      "episodeCount": 46,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/xlw3WuLgtkwjGl10g4FLZX9owPi.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2013-09-15",
+      "episodeCount": 38,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/uErNLWwpMd4m17u33VK7ETB8vXc.jpg",
+      "seasonNumber": 10
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Aída",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 276,
+  "watchProviders": {}
+}

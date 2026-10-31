@@ -1,0 +1,146 @@
+{
+  "backdropPath": "/tMaAiX9Jrv5mj2Ozp7tG8xYp3Nk.jpg",
+  "cast": [
+    {
+      "character": "Professeur Jullian",
+      "id": 41029,
+      "name": "Bernard Campan",
+      "profilePath": "/cILI8cr9ZLQVdgHSNCktpi7gGO6.jpg"
+    },
+    {
+      "character": "Alice",
+      "id": 72946,
+      "name": "Judith Chemla",
+      "profilePath": "/duOQg0sLbFgJ7wKdoaivQ0tArDv.jpg"
+    },
+    {
+      "character": "Elizabeth (adolescente)",
+      "id": 4808884,
+      "name": "Tessa Dumont Janod",
+      "profilePath": null
+    },
+    {
+      "character": "Elizabeth (adulte)",
+      "id": 4166,
+      "name": "Isabelle Carré",
+      "profilePath": "/hC7NLIv6RGvtwb8pjy9DJbbHhJG.jpg"
+    },
+    {
+      "character": "Paul",
+      "id": 1146860,
+      "name": "Alex Lutz",
+      "profilePath": "/rrZcNAIOrTOLFLZqmpi1enF57Lp.jpg"
+    },
+    {
+      "character": "Jacques",
+      "id": 1314700,
+      "name": "Pablo Pauly",
+      "profilePath": "/8nCV2QfU8sh8ml4cXR3v54BAXdC.jpg"
+    },
+    {
+      "character": "Professeure de théatre",
+      "id": 24485,
+      "name": "Nicole Garcia",
+      "profilePath": "/kZWBVMLkxGhH97DgJ0uoUlSF5Z5.jpg"
+    },
+    {
+      "character": "Fils du Professeur Jullian",
+      "id": 1789141,
+      "name": "Vincent Dedienne",
+      "profilePath": "/j6tser7BHGoi6cP7bQAXQlCGbMO.jpg"
+    },
+    {
+      "character": "Isker",
+      "id": 4606127,
+      "name": "Mélissa Boros",
+      "profilePath": "/8N5wVrUIXFeFeachqB49Is83svv.jpg"
+    },
+    {
+      "character": "Renaud",
+      "id": 3353513,
+      "name": "Solan Machado-Graner",
+      "profilePath": "/eQMHcOHgqunbujQnFh0RyxKi256.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 216664,
+      "logoPath": null,
+      "name": "Pan Cinéma"
+    },
+    {
+      "id": 83,
+      "logoPath": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35489550",
+    "wikidataId": "Q136697805"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1221724,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Les Rêveurs",
+  "overview": "Elisabeth, an actress, leads writing workshops at Necker Hospital with teenagers experiencing severe psychological distress. Through her interactions with them, she revisits her own story: her institutionalization at age 14. Little by little, the memories resurface. And with them, the discovery of theater, which one day saved her.",
+  "posterPath": "/6W6nKyFSOcHSX1qq4qDsOR8MaSM.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 106,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Les Rêveurs",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 15,
+  "watchProviders": {}
+}

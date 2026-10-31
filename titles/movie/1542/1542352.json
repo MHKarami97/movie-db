@@ -1,0 +1,198 @@
+{
+  "backdropPath": "/eaknBFnMg8fPlwlegBaPtQfhyF8.jpg",
+  "cast": [
+    {
+      "character": "Praveen",
+      "id": 1322567,
+      "name": "Ken Karunaas",
+      "profilePath": "/3f6I1GD1yKg9raFBfKCKPP3w7v4.jpg"
+    },
+    {
+      "character": "Kanagavalli",
+      "id": 3719124,
+      "name": "Anishma Anilkumar",
+      "profilePath": "/4neoaZvYhVFgN4jGmtPGJqmkPxl.jpg"
+    },
+    {
+      "character": "Unnikrishnan",
+      "id": 930731,
+      "name": "Suraj Venjaramoodu",
+      "profilePath": "/2FUs0wmR3eHBd8g4GVbCmhkUzeI.jpg"
+    },
+    {
+      "character": "Saroja",
+      "id": 237689,
+      "name": "Devadarshini",
+      "profilePath": "/gSq4nM6z82LfI4yjL116P1RDkb0.jpg"
+    },
+    {
+      "character": "Preshika",
+      "id": 3302727,
+      "name": "Meenakshi Dinesh",
+      "profilePath": "/o0YtfGpdX0wozp2ASeW4pmveEuO.jpg"
+    },
+    {
+      "character": "Sonal",
+      "id": 4830802,
+      "name": "Priyanshi Yadav",
+      "profilePath": "/ucKE1IqXKLAiFsaVRbhoXcu1H0E.jpg"
+    },
+    {
+      "character": "Guna",
+      "id": 6070761,
+      "name": "Abison Thevarasa",
+      "profilePath": "/xFTQYH9qIduDmNpPj6SwIURPiFr.jpg"
+    },
+    {
+      "character": "Babloo",
+      "id": 6070768,
+      "name": "Sarath",
+      "profilePath": null
+    },
+    {
+      "character": "David",
+      "id": 5756815,
+      "name": "Eshwar Santhanalakshmi",
+      "profilePath": null
+    },
+    {
+      "character": "Grace",
+      "id": 584262,
+      "name": "Nalini",
+      "profilePath": "/lAmQw49ccScJ9jBY8rtNTfXAC1H.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 277443,
+      "logoPath": null,
+      "name": "Paarvathaa entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38693888",
+    "wikidataId": "Q138701898"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1542352,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ta",
+      "name": "Tamil"
+    }
+  ],
+  "originalTitle": "யூத்",
+  "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
+  "posterPath": "/odMKGyeC2rGuvr3Yy7S8txD0sFx.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 141,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Youth",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 28,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1542352/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1542352/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1542352/watch?locale=US",
+      "rent": []
+    }
+  }
+}

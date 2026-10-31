@@ -1,0 +1,178 @@
+{
+  "backdropPath": "/bjdgmMhTKcxqFO7RdXYhTlGzffB.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 6122075,
+      "name": "Suzane Von Richthofen",
+      "profilePath": "/n45c0YDJ9XstQ11Fqf3goHTxgJn.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6640562,
+      "name": "Roberto Tardelli",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6640563,
+      "name": "Cíntia Tucunduva",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6640568,
+      "name": "Solange Azevedo",
+      "profilePath": null
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 6640573,
+      "name": "Daniel Cravinhos",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6640583,
+      "name": "Claudia Bernasconi",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 2337965,
+      "name": "Ilana Casoy",
+      "profilePath": "/1ptTe0nJGrG9mMTREfl84L4RPYZ.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 3774931,
+      "name": "Valmir Salaro",
+      "profilePath": null
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 6640620,
+      "name": "Cristian Cravinhos",
+      "profilePath": null
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 6640643,
+      "name": "Jane Bellucci",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 125712,
+      "logoPath": "/ing3Rq9EP0NCXVJd4j0QKV15gMN.png",
+      "name": "Kromaki"
+    },
+    {
+      "id": 139494,
+      "logoPath": null,
+      "name": "Grama Filmes"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "digitalDate": "2026-11-11",
+  "externalIds": {
+    "imdbId": "tt50817930"
+  },
+  "fetchedAt": 1794511516390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1664682,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "Suzane von Richthofen: O que o Tempo Não Apaga",
+  "overview": "Decades of questions and a crime that shook Brazil. Suzane von Richthofen, convicted for the murder of her parents, tells the whole story in her own words.",
+  "posterPath": "/pO3BpFyC9B2fnfByJulxjs3hM4P.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-11",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-11"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Unthinkable Daughter",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 1,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1664682-suzane-von-richthofen-o-que-o-tempo-nao-apaga/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1664682-suzane-von-richthofen-o-que-o-tempo-nao-apaga/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "backdropPath": "/cVCFsTKdeNX7iA3PW850cqwjPU8.jpg",
+  "cast": [
+    {
+      "character": "Brad",
+      "id": 4211064,
+      "name": "Carter Sirianni",
+      "profilePath": "/w8elsv6H1ADMGIylEwEctzCfrOY.jpg"
+    },
+    {
+      "character": "Mr. Freeman",
+      "id": 5062061,
+      "name": "Christopher A. Fusselman",
+      "profilePath": "/uC2L5m5zE7nKRofZHb5VuOmdDCD.jpg"
+    },
+    {
+      "character": "Michelle",
+      "id": 4830484,
+      "name": "Alexis Schrepple",
+      "profilePath": "/vyfCmWJF83flGJeOlPiOlrLgbDS.jpg"
+    },
+    {
+      "character": "Michael",
+      "id": 6362230,
+      "name": "grant griffin",
+      "profilePath": "/9uHQiKoABhrUlpsGfz9C6yqJ8XO.jpg"
+    },
+    {
+      "character": "Hartmann",
+      "id": 6362232,
+      "name": "Ole J Hartmann",
+      "profilePath": "/cnFUPcULi70DGT7fg95DmVpqFyy.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 305114,
+      "logoPath": null,
+      "name": "Spirit Brothers Productions"
+    },
+    {
+      "id": 201981,
+      "logoPath": null,
+      "name": "Scary Hours Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-09-04",
+  "externalIds": {
+    "imdbId": "tt37547609",
+    "instagramId": "chatmovieofficial"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1735476,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "CHAT",
+  "overview": "A family's fresh start unravels when their son discovers an AI powered tablet, unleashing a wave of terror tied not only to the supernatural but to dark secrets of greed and corruption that surround them.",
+  "posterPath": "/vrRq1li3Yfbz5ntRnH7k7zRkarO.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-04",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-09-04"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Once You Reply, You Die.",
+  "theatricalDate": null,
+  "title": "CHAT",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Et9EzdxGB5Y",
+      "name": "CHAT | Official Movie Trailer (2026)",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1735476-chat/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    }
+  }
+}

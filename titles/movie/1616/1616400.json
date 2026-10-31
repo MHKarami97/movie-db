@@ -1,0 +1,129 @@
+{
+  "backdropPath": "/nBO0TV1N3BbY25BWLRUqLrefxe8.jpg",
+  "cast": [
+    {
+      "character": "Self (archive footage)",
+      "id": 6201966,
+      "name": "Richard Russell",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 179418,
+      "logoPath": "/rvOynvYRFkwrZmnxIheWfFZJokr.png",
+      "name": "ABC News Studios"
+    },
+    {
+      "id": 181874,
+      "logoPath": "/crrgXvLhDO9c57HYrbO4H58Vxmb.png",
+      "name": "Fifth Season"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-04-14",
+  "externalIds": {
+    "imdbId": "tt39368489",
+    "wikidataId": "Q139665876"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1616400,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "#SKYKING",
+  "overview": "Tells the story of 28-year-old Horizon Air ground service agent Richard “Beebo” Russell, who, to the shock of all who knew him, clocked into work wearing a shirt that said “sky’s no limit,” stole a 33-million-dollar plane, and took off into the skies of the Pacific Northwest embarking on a white-knuckle flight that would come to embody the hopes, dreams, and despair of the American working class, and offer a timely look into the U.S. mental health crisis.",
+  "posterPath": "/4uXL16pegV9mccBeUqB9VGos5hv.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-14",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-04-14",
+      "premiere": "2026-03-12"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "#SKYKING",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "UyA-NslVlMo",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 26,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1616400-skyking/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1616400-skyking/watch?locale=US",
+      "rent": []
+    }
+  }
+}

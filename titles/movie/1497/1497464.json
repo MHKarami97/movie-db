@@ -1,0 +1,128 @@
+{
+  "backdropPath": "/etB2OT0nUknOAPZV7EgbEbt6HJh.jpg",
+  "cast": [
+    {
+      "character": "Nero (voice)",
+      "id": 103,
+      "name": "Mark Ruffalo",
+      "profilePath": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+      "character": "Rocco (voice)",
+      "id": 2975,
+      "name": "Laurence Fishburne",
+      "profilePath": "/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+    },
+    {
+      "character": "Saverio (voice)",
+      "id": 930567,
+      "name": "Enrico Casarosa",
+      "profilePath": "/1Y5cbZQN7fEZcCNCHUANPNfdVQK.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 3,
+      "logoPath": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+      "name": "Pixar"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt26443610",
+    "wikidataId": "Q135001892"
+  },
+  "fetchedAt": 1794511516390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1497464,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "originalTitle": "Gatto",
+  "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he’s lived the right lives. Indebted to Rocco, a ruthless local feline mob boss, Nero finds himself in a quandary and is forced to forge a truly unexpected friendship that may finally lead him to his purpose—unless Venice gets the better of him first.",
+  "posterPath": "/bgt6dSrwkJCMqdKWRpN4ZTAd1kL.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-03-05"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2027-03-05"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": "2027-03-05",
+  "title": "Gatto",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "WKIxT_d-6hc",
+      "name": "REAL CATS REACT to Pixar's Trailer for Gatto",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "NIKfR_uF_d0",
+      "name": "Teaser Trailer",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

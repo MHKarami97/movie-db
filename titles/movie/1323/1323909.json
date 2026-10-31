@@ -1,0 +1,289 @@
+{
+  "backdropPath": "/mJ30jW4BUltNDVaR7UEn5HdSJWs.jpg",
+  "cast": [
+    {
+      "character": "Redele",
+      "id": 6116772,
+      "name": "Victoria Tait",
+      "profilePath": "/xgQ9lH2lyyFHEuUYVlmPLFdSDiX.jpg"
+    },
+    {
+      "character": "Penelope",
+      "id": 1679366,
+      "name": "Lynsey Beauchamp",
+      "profilePath": "/aCjOCyT23BOxizJgdITylANByJy.jpg"
+    },
+    {
+      "character": "Thomas",
+      "id": 946696,
+      "name": "Ian Whyte",
+      "profilePath": "/svlJyDgPbTHoGjbQKU4S2J6g5hi.jpg"
+    },
+    {
+      "character": "Malcolm",
+      "id": 237027,
+      "name": "Bill Fellows",
+      "profilePath": "/lCp70Gf5BwLylQKzjTOHVrRxhX2.jpg"
+    },
+    {
+      "character": "Mary",
+      "id": 6072031,
+      "name": "Jenny Quinn",
+      "profilePath": "/6V0KNoV2B4ZZaC6kOx6SOiN9ih5.jpg"
+    },
+    {
+      "character": "Andy",
+      "id": 2385575,
+      "name": "Jack McEvoy",
+      "profilePath": "/pmE0tQiPxQT5yI6DZlnnjd8m8nB.jpg"
+    },
+    {
+      "character": "Charlie",
+      "id": 4041888,
+      "name": "Peter DeSouza-Feighoney",
+      "profilePath": "/reYy9iCjdmOEdKpTkhxD4quNNMP.jpg"
+    },
+    {
+      "character": "Sergeant George Dixon",
+      "id": 20522,
+      "name": "Robert Cavanah",
+      "profilePath": null
+    },
+    {
+      "character": "Martin",
+      "id": 4311361,
+      "name": "Thomas Mugglestone",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 235338,
+      "logoPath": null,
+      "name": "House54"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-03-13",
+  "externalIds": {
+    "imdbId": "tt33029387"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1323909,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Red Riding",
+  "overview": "After her mother's overdose, teen Red Riding moves from London to her estranged grandmother's Scottish estate, where dark family secrets, missing children, and a monstrous wolf blur reality, forcing her to fight for survival.",
+  "posterPath": "/wDsbatgGDW4gw9ViA9Bc654MP9s.jpg",
+  "rating": 5.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-03-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-13",
+      "gapDays": 0,
+      "theatricalDate": "2026-03-13"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-03-16",
+      "premiere": "2026-03-07"
+    },
+    "US": {
+      "digital": "2026-03-13",
+      "theatricalLimited": "2026-03-13"
+    }
+  },
+  "runtime": 86,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "This is no fairy tale.",
+  "theatricalDate": "2026-03-13",
+  "title": "Red Riding",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "tVMK3PEflIc",
+      "name": "Red Riding | Official Trailer | Horror Brains",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1323909-red-riding/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1323909-red-riding/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

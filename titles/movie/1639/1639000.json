@@ -1,0 +1,169 @@
+{
+  "backdropPath": "/oe9Ikj4Ug1ZIXcOaeoCQE8Xwi0y.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 58115,
+      "name": "Eric Dane",
+      "profilePath": "/4PsLKBKN4e0zRT2oS4BjE8Xu1un.jpg"
+    },
+    {
+      "character": "Self - Host",
+      "id": 1224030,
+      "name": "Brad Falchuk",
+      "profilePath": "/kVMTpVi2I9UhlcJdBUWcq744Lgg.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 68682,
+      "logoPath": "/x4htMipi2e3QMQuyeLhrwlpxgKf.png",
+      "name": "Brad Falchuk Teley-vision"
+    },
+    {
+      "id": 121848,
+      "logoPath": "/jYxrjxtryMiqniA7euHX9PFNUa.png",
+      "name": "Banijay Studios North America"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-02-20",
+  "externalIds": {
+    "imdbId": "tt40035852"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1639000,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Famous Last Words: Eric Dane",
+  "overview": "In this emotional interview, the late actor and ALS advocate Eric Dane shared his final message for the world — knowing it would not air until his death.",
+  "posterPath": "/m9HIHyfCjphkHkwIVIztm32g5uv.jpg",
+  "rating": 8.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-02-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-02-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-20",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-02-20"
+    },
+    "GB": {
+      "digital": "2026-02-20"
+    },
+    "US": {
+      "digital": "2026-02-20"
+    }
+  },
+  "runtime": 50,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Famous Last Words: Eric Dane",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "sEMpdwdVpng",
+      "name": "Eric Dane’s Final Message To His Daughters and The World",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "jWrj28_cjsQ",
+      "name": "Eric Dane - Famous Last Words",
+      "official": true,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1639000-famous-last-words-eric-dane/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1639000-famous-last-words-eric-dane/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1639000-famous-last-words-eric-dane/watch?locale=US",
+      "rent": []
+    }
+  }
+}

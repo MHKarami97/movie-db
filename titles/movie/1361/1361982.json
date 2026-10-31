@@ -1,0 +1,208 @@
+{
+  "backdropPath": "/5zGpKdXLGFYFqX0we1blyFiH3J1.jpg",
+  "cast": [
+    {
+      "character": "Mia",
+      "id": 220620,
+      "name": "Alyssa Sutherland",
+      "profilePath": "/tPxURKufpOddRYTgg5FuBwNK4iT.jpg"
+    },
+    {
+      "character": "",
+      "id": 1244,
+      "name": "Jonathan Rhys Meyers",
+      "profilePath": "/3MvT0B15nt5JLp1dUcxmbqmjHUc.jpg"
+    },
+    {
+      "character": "The Doctor",
+      "id": 61784,
+      "name": "Goran D. Kleut",
+      "profilePath": "/vsN8BI3t4c8JHLoLznCZxO9gZ6r.jpg"
+    },
+    {
+      "character": "Jazz",
+      "id": 1707878,
+      "name": "Lauren Grimson",
+      "profilePath": "/lgcVpfvG6azbOG5OanG4uXh6JxB.jpg"
+    },
+    {
+      "character": "Simon Cooper",
+      "id": 3660194,
+      "name": "Gilbert Bradman",
+      "profilePath": "/xTolSEc6fzEseQh8NBuhwIq7sR6.jpg"
+    },
+    {
+      "character": "Detective Frank Peterson",
+      "id": 2996194,
+      "name": "Bobby Gilchrist",
+      "profilePath": "/xnDnQcLGIEG3xRCcfvD24NcNodM.jpg"
+    },
+    {
+      "character": "William Cooper",
+      "id": 2159487,
+      "name": "Tristan McKinnon",
+      "profilePath": "/2sMmWqtTEmUw8f8IgAHzFAu51se.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 104743,
+      "logoPath": "/yOrpaFmcb3666Moo1pkrLfKpdOy.png",
+      "name": "Lunar Pictures"
+    },
+    {
+      "id": 137841,
+      "logoPath": null,
+      "name": "Tetrad Studios"
+    },
+    {
+      "id": 173323,
+      "logoPath": null,
+      "name": "Hooligan Dreamers"
+    },
+    {
+      "id": 10951,
+      "logoPath": "/jxfMNlkvI3GxnS41xCSOLD7goVb.png",
+      "name": "Screen NSW"
+    },
+    {
+      "id": 104145,
+      "logoPath": "/pXEmryDYZUOHAeb218RcKQgdJ4t.png",
+      "name": "Create NSW"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    }
+  ],
+  "digitalDate": "2026-09-01",
+  "externalIds": {
+    "imdbId": "tt7265638"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1361982,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Room Below",
+  "overview": "After losing her son to cancer, a grieving mother living with a mysterious creature in her home befriends another boy to replace her dead son. But when a retired detective begins investigating the child's disappearance, her carefully constructed world starts to unravel.",
+  "posterPath": "/qKDDXjFlWbSJIjSmSH6EzNENSy7.jpg",
+  "rating": 4.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-09-01"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Room Below",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "VrkUcEx-2l8",
+      "name": "THE ROOM BELOW - Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1361982-the-room-below/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ]
+    }
+  }
+}

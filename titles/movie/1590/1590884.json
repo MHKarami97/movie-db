@@ -1,0 +1,180 @@
+{
+  "backdropPath": "/3Ef0soMIvRQFfi99lABKFy3aiLE.jpg",
+  "cast": [
+    {
+      "character": "Vian",
+      "id": 3319869,
+      "name": "Avan Jamal",
+      "profilePath": "/xyQDwcVcANPdggRv25KhtRPTncb.jpg"
+    },
+    {
+      "character": "Anders",
+      "id": 123453,
+      "name": "Thorbjørn Harr",
+      "profilePath": "/hqBkuGoISmRB5O8t6RkKcHv3bZA.jpg"
+    },
+    {
+      "character": "C. Kanar",
+      "id": 5374772,
+      "name": "Kanar Sarchl",
+      "profilePath": null
+    },
+    {
+      "character": "G. Talib",
+      "id": 6375439,
+      "name": "Kader Jalal",
+      "profilePath": null
+    },
+    {
+      "character": "Vian's mother",
+      "id": 6375441,
+      "name": "Leila Noori Hamasur",
+      "profilePath": null
+    },
+    {
+      "character": "Vian's father",
+      "id": 6375442,
+      "name": "Bakhtiar Abda Amin",
+      "profilePath": null
+    },
+    {
+      "character": "Dlvin",
+      "id": 6375447,
+      "name": "Lare Awat Qazaz",
+      "profilePath": null
+    },
+    {
+      "character": "isis commander",
+      "id": 6404372,
+      "name": "ravand mala",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 213236,
+      "logoPath": null,
+      "name": "Hene Films"
+    },
+    {
+      "id": 208243,
+      "logoPath": "/S9AtJzbg2V2VTsX0XQ7uXsyUuq.png",
+      "name": "La Media"
+    },
+    {
+      "id": 3555,
+      "logoPath": "/5vgxuOmB1UX3t6tPv6TChQCbyXf.png",
+      "name": "Chimney Sweden"
+    }
+  ],
+  "countries": [
+    {
+      "code": "NO",
+      "name": "Norway"
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt43705006",
+    "wikidataId": "Q141124872"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1590884,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ku",
+      "name": "Kurdish"
+    },
+    {
+      "code": "no",
+      "name": "Norwegian"
+    },
+    {
+      "code": "ar",
+      "name": "Arabic"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "بەهەشت نابینیت ئەگەر ژن بتکوژێت",
+  "overview": "A female Kurdish-Norwegian sniper returns to the battlefield she once escaped, driven by vengeance and by the desperate hope of rescuing her younger sister, still imprisoned by ISIS in Mosul.",
+  "posterPath": "/7InHgpBa0YEEbLi7zGgGmgnUt70.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-22"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-10-22"
+    }
+  },
+  "runtime": 110,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-22",
+  "title": "No Paradise If You Are Killed by a Woman",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "ppdTObzCwwU",
+      "name": "Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "B-_UJox35aQ",
+      "name": "NO PARADISE IF YOU ARE KILLED BY A WOMAN | Official Teaser Trailer | Venice 2026",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

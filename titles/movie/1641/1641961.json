@@ -1,0 +1,205 @@
+{
+  "backdropPath": "/sLHSspHOdkTdK30nZVigY4zxC8P.jpg",
+  "cast": [
+    {
+      "character": "Self - Former NBA Player",
+      "id": 1177647,
+      "name": "Lamar Odom",
+      "profilePath": "/lUAGfYKK7sRmtxh9G88IWo3jklP.jpg"
+    },
+    {
+      "character": "Self - Lamar's Ex-Wife",
+      "id": 1255872,
+      "name": "Khloé Kardashian",
+      "profilePath": "/9KozpelrLI11rGVnP81ZHqAxGsx.jpg"
+    },
+    {
+      "character": "Self - Lamar's Ex-Fiancée",
+      "id": 5515780,
+      "name": "Liza Morales",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Lamar's Son",
+      "id": 6134318,
+      "name": "LJ Odom",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Lamar's Daughter",
+      "id": 6134333,
+      "name": "Destiny Odom",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Lamar's Aunt",
+      "id": 6134290,
+      "name": "Janeane Mercer",
+      "profilePath": null
+    },
+    {
+      "character": "Self - LA Lakers Coach / 13x NBA Champion",
+      "id": 1177525,
+      "name": "Phil Jackson",
+      "profilePath": "/tpeWFZsOhKLYEOtswSwQHdbtJ6x.jpg"
+    },
+    {
+      "character": "Self - Former LA Lakers Player (fka Metta World Peace)",
+      "id": 1514162,
+      "name": "Metta Sandiford-Artest",
+      "profilePath": "/12rII6imVVqWfEjCxTYtjL24osI.jpg"
+    },
+    {
+      "character": "Self - Lamar's Childhood Friend",
+      "id": 6134341,
+      "name": "Anthony 'Pumpkin' Booker",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Former Manager of The Love Ranch",
+      "id": 6134448,
+      "name": "Richard Hunter",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 87045,
+      "logoPath": "/6WLvW3VlxfXOPukpeEPYnjdFtwH.png",
+      "name": "Propagate Content"
+    },
+    {
+      "id": 159529,
+      "logoPath": null,
+      "name": "Stardust Frames"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt40224397"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1641961,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Untold: The Death & Life of Lamar Odom",
+  "overview": "This documentary traces the life of Lamar Odom, from his rise to NBA fame and marriage to Khloé Kardashian to his near-fatal overdose in a Nevada brothel.",
+  "posterPath": "/9Go8VKSzJIzn65b9c9l02ymHRlv.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2026-03-31"
+    }
+  },
+  "runtime": 81,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Untold: The Death & Life of Lamar Odom",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "IqGuIQI1PD8",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 25,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1641961-untold-the-death-life-of-lamar-odom/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1641961-untold-the-death-life-of-lamar-odom/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1641961-untold-the-death-life-of-lamar-odom/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "backdropPath": "/6nLgdt6zZuR0OY591s03tS1kYT3.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 1293,
+      "logoPath": "/4r2EdENtYK1Ddxmciod3XvmfA9k.png",
+      "name": "ORTF"
+    },
+    {
+      "id": 6849,
+      "logoPath": "/AjdOGHRLAhWbP1aAga85A9EOfD2.png",
+      "name": "SFP"
+    },
+    {
+      "id": 1117,
+      "logoPath": "/2X2uFeObxawiAajNDOf3Mhri5Wg.png",
+      "name": "Antenne 2"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": "1970-05-27",
+  "externalIds": {
+    "imdbId": "tt2371748",
+    "wikidataId": "Q2871738"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 283276,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "1981-10-23",
+    "episodeNumber": 85,
+    "id": 7512646,
+    "name": "Episode 85",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-07",
+    "episodeNumber": 86,
+    "id": 7512651,
+    "name": "Episode 86",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Aujourd'hui Madame",
+  "overview": "",
+  "posterPath": "/pECvRbuaWqa9piz6wPlEbX4ejXd.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1970-05-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1970-05-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1970-05-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1970-05-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1970-05-27"
+    },
+    "CN": {
+      "tv": "1970-05-27"
+    },
+    "GB": {
+      "tv": "1970-05-27"
+    },
+    "US": {
+      "tv": "1970-05-27"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "1970-05-27",
+      "episodeCount": 87,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Aujourd'hui Madame",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

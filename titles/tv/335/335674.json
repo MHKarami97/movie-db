@@ -1,0 +1,140 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 1599720,
+      "name": "Anouk Meunier",
+      "profilePath": "/4QnDeRh5kRaHQE13w1vosrREGk7.jpg"
+    },
+    {
+      "character": "",
+      "id": 2257655,
+      "name": "Jean-Sébastien Houle",
+      "profilePath": "/gOCCRh05CGfKa9CX7oEj8ArKgSK.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 80796,
+      "logoPath": "/k8kLDysuADf5nDn0JIjV1mcSIPR.png",
+      "name": "Productions Déferlantes"
+    },
+    {
+      "id": 46682,
+      "logoPath": "/ybNfe9vMywnjygOODnm7QYw9rvQ.png",
+      "name": "Attraction"
+    },
+    {
+      "id": 242481,
+      "logoPath": null,
+      "name": "Québecor Contenu"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2027-01-10",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-10",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 335674,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-10",
+    "episodeNumber": 1,
+    "id": 7820701,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Hitster Québec",
+  "overview": "",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-10",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-10",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-10",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-10",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-10"
+    },
+    "CN": {
+      "tv": "2027-01-10"
+    },
+    "GB": {
+      "tv": "2027-01-10"
+    },
+    "US": {
+      "tv": "2027-01-10"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-10",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Hitster Québec",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

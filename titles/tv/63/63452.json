@@ -1,0 +1,288 @@
+{
+  "backdropPath": "/d5Kf4bAu1GMQ2PHViKCGtnbYdTx.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 1491837,
+      "name": "Kai Pflaume",
+      "profilePath": "/ppqy8aeOcilz8DMTccroE2eKSyz.jpg"
+    },
+    {
+      "character": "Self - Panelist",
+      "id": 48291,
+      "name": "Bernhard Hoëcker",
+      "profilePath": "/eWnuhDh8kh468Uvxrf52VzHWJg5.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 59707,
+      "logoPath": "/2yREEdDXzdMDRrjC45vhSk11z8r.png",
+      "name": "UFA Show & Factual"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "2015-07-06",
+  "episodes": {
+    "12": [
+      {
+        "airDate": "2026-11-02",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-02",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-03",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-04",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-05",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-06",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-09",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt5209414",
+    "wikidataId": "Q21043544"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 63452,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-05-15",
+    "episodeNumber": 129,
+    "id": 7268524,
+    "name": "Episode 129",
+    "overview": "",
+    "seasonNumber": 11
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-02",
+    "episodeNumber": 1,
+    "id": 7906429,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 12
+  },
+  "originalTitle": "Wer weiß denn sowas?",
+  "overview": "",
+  "posterPath": "/abKjah96esLWObidBcWmvKJv61E.jpg",
+  "rating": 7.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2015-07-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2015-07-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2015-07-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2015-07-06",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2015-07-06"
+    },
+    "CN": {
+      "tv": "2015-07-06"
+    },
+    "GB": {
+      "tv": "2015-07-06"
+    },
+    "US": {
+      "tv": "2015-07-06"
+    }
+  },
+  "runtime": 45,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2015-07-25",
+      "episodeCount": 46,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2015-07-06",
+      "episodeCount": 30,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/hQcRTCErlEFmMN1D27U6OQqzi49.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2016-03-29",
+      "episodeCount": 120,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2017-07-03",
+      "episodeCount": 165,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2018-10-01",
+      "episodeCount": 142,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2019-09-30",
+      "episodeCount": 129,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2020-11-09",
+      "episodeCount": 142,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2021-10-04",
+      "episodeCount": 167,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2022-10-26",
+      "episodeCount": 138,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2023-10-23",
+      "episodeCount": 131,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2024-10-07",
+      "episodeCount": 131,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/hQcRTCErlEFmMN1D27U6OQqzi49.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2025-10-13",
+      "episodeCount": 129,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2026-11-02",
+      "episodeCount": 7,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": "/pzKiyRiXfh9f8A2pGffQzhseaPp.jpg",
+      "seasonNumber": 12
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Wer weiß denn sowas?",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 13,
+  "watchProviders": {}
+}

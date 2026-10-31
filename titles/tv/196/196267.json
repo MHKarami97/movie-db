@@ -1,0 +1,144 @@
+{
+  "backdropPath": "/bnrqbZ3YNphDO748D8P8TKqCLEj.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 2721117,
+      "name": "Ryogo Matsumaru",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 1822117,
+      "name": "Hikaru Takahashi",
+      "profilePath": "/fnNMd3QwU4in55KVk0UXHlae9se.jpg"
+    },
+    {
+      "character": "Self - Driver",
+      "id": 3360171,
+      "name": "Abareru-kun",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 3034,
+      "logoPath": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+      "name": "TV Tokyo"
+    },
+    {
+      "id": 12655,
+      "logoPath": "/dfGqf2NoMVPrDywDL90D5HAhBlW.png",
+      "name": "Shogakukan-Shueisha Productions"
+    },
+    {
+      "id": 12654,
+      "logoPath": "/hBWpNb7x4R77xxltwNtM0ANboW6.png",
+      "name": "The Pokémon Company"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2022-04-03",
+  "externalIds": {
+    "imdbId": "tt31433824",
+    "wikidataId": "Q119343556"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 196267,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-25",
+    "episodeNumber": 235,
+    "id": 7936938,
+    "name": "Episode 235",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-01",
+    "episodeNumber": 236,
+    "id": 7936939,
+    "name": "Episode 236",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "ポケモンとどこいく！？",
+  "overview": "",
+  "posterPath": "/v21T8T1xmoXjfywqwZg4v3UMSWY.jpg",
+  "rating": 9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2022-04-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2022-04-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2022-04-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2022-04-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2022-04-03"
+    },
+    "CN": {
+      "tv": "2022-04-03"
+    },
+    "GB": {
+      "tv": "2022-04-03"
+    },
+    "US": {
+      "tv": "2022-04-03"
+    }
+  },
+  "runtime": 25,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2022-04-03",
+      "episodeCount": 244,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/e8NGf63AoxXOKcbk3Z4ZwCrLne2.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Pokemon to doko iku!?",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 1,
+  "watchProviders": {}
+}

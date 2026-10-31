@@ -1,0 +1,236 @@
+{
+  "backdropPath": "/btcpMbFB6PWiqDz0HlRH9kSGas.jpg",
+  "cast": [
+    {
+      "character": "Cal",
+      "id": 1499833,
+      "name": "Jonno Davies",
+      "profilePath": "/oI68xvcPqZjRIfteTbtT3jAVUV1.jpg"
+    },
+    {
+      "character": "Jake",
+      "id": 207321,
+      "name": "James Buckley",
+      "profilePath": "/dDVwMhnWGEICmfwjNh2eOxqb9f2.jpg"
+    },
+    {
+      "character": "Mick",
+      "id": 22159,
+      "name": "Martin Clunes",
+      "profilePath": "/xoCgVr1h3uhES9MnKCoyd05bW1v.jpg"
+    },
+    {
+      "character": "Paxman",
+      "id": 13633,
+      "name": "Mark Addy",
+      "profilePath": "/4ao6jitEAxmQDlJheEOKT8lhJI8.jpg"
+    },
+    {
+      "character": "Abi",
+      "id": 1014932,
+      "name": "Gabriella Wilde",
+      "profilePath": "/peAqNFZWHjpzKqK2TlrGTnfXptT.jpg"
+    },
+    {
+      "character": "Pritchard",
+      "id": 103351,
+      "name": "Luke Treadaway",
+      "profilePath": "/kAIfKIuyucJsiMHeEAkavxTnMpi.jpg"
+    },
+    {
+      "character": "Edith",
+      "id": 157758,
+      "name": "Josie Lawrence",
+      "profilePath": "/x6UpxwA752POORfj6a2Bv84zPf0.jpg"
+    },
+    {
+      "character": "Romy",
+      "id": 6074101,
+      "name": "Lana Moorcroft",
+      "profilePath": null
+    },
+    {
+      "character": "Jeremy",
+      "id": 221857,
+      "name": "Miles Jupp",
+      "profilePath": "/xVNI6kPi16lpIce0WQfS3DnIspT.jpg"
+    },
+    {
+      "character": "Amy",
+      "id": 1870466,
+      "name": "Emily Lloyd-Saini",
+      "profilePath": "/tW4TD9PmBGutKVhvUNXSWxZjkVn.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 88045,
+      "logoPath": null,
+      "name": "Fred Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-05-26",
+  "externalIds": {
+    "imdbId": "tt32569057",
+    "wikidataId": "Q130484587"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 81,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1418901,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Mother's Pride",
+  "overview": "A comedy about a failing pub, a divided community and a grieving family whose lives are changed by brewing real ale and entering the Great British Beer Awards.",
+  "posterPath": "/fg3o1a8Tl532lbuF9zkY4S8VBL5.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-05-26",
+      "gapDays": 81,
+      "theatricalDate": "2026-03-06"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-05-26",
+      "physical": "2026-06-15",
+      "theatrical": "2026-03-06"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A family with a pint to prove.",
+  "theatricalDate": "2026-03-06",
+  "title": "Mother's Pride",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Fo5d0yHIoPs",
+      "name": "Only in Cinemas March 6th",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "u1V8bdl21Bw",
+      "name": "Only in Cinemas March 6th",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "D-Ui79xGMTI",
+      "name": "Only in Cinemas March 6th",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "nCQHO6bArDM",
+      "name": "Only in Cinemas March 6th",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ZNcQ8GwXMoA",
+      "name": "Only in Cinemas March 6th",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "NyDJXrMhwSI",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 14,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1418901-mother-s-pride/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    }
+  }
+}

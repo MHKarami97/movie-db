@@ -1,0 +1,178 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 1346048,
+      "name": "Eric K. Boulianne",
+      "profilePath": "/rZidIbEwjMGkbng8cG8skbDKYnX.jpg"
+    },
+    {
+      "character": "",
+      "id": 2196378,
+      "name": "Lucien Ratio",
+      "profilePath": "/k4OX2UHr8VY4Snr8TwcCAxk6gkX.jpg"
+    },
+    {
+      "character": "",
+      "id": 1670901,
+      "name": "Benoît Drouin-Germain",
+      "profilePath": "/3rKUWajrTPljR3CXrUaYRppYSmX.jpg"
+    },
+    {
+      "character": "",
+      "id": 1434840,
+      "name": "Catherine Brunet",
+      "profilePath": "/yK2Q6conYIgMgBSprFHDtcpwWJB.jpg"
+    },
+    {
+      "character": "",
+      "id": 3259792,
+      "name": "Métushalème Dary",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 1069637,
+      "name": "Thomas Solivérès",
+      "profilePath": "/vK6cdnjTkklZFB4zPI1XSRHtwv9.jpg"
+    },
+    {
+      "character": "",
+      "id": 3713077,
+      "name": "Élodie Bégin",
+      "profilePath": "/1r6nCDOn0txLUrpGlvKo9foTFEc.jpg"
+    },
+    {
+      "character": "",
+      "id": 2213406,
+      "name": "Myriam Gaboury",
+      "profilePath": "/8WpdTW6Dki7IntGEkBTY5BzGdIV.jpg"
+    },
+    {
+      "character": "",
+      "id": 2173212,
+      "name": "Lauren Hartley",
+      "profilePath": "/rSxKl1NXkMqggIMq0ux2UUh5YdN.jpg"
+    },
+    {
+      "character": "",
+      "id": 2182317,
+      "name": "Leïla Thibeault-Louchem",
+      "profilePath": "/g4UTswocuaRy6p8fgjOe5jWt0I3.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 94471,
+      "logoPath": "/8JvxOCRYpy7vhTDDpeqUYgbLj0R.png",
+      "name": "Parallaxes"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2027-09-02",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-09-02",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 335132,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-09-02",
+    "episodeNumber": 1,
+    "id": 7804644,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Farador",
+  "overview": "",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-09-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-09-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-09-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-09-02",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-09-02"
+    },
+    "CN": {
+      "tv": "2027-09-02"
+    },
+    "GB": {
+      "tv": "2027-09-02"
+    },
+    "US": {
+      "tv": "2027-09-02"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-09-02",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Farador",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

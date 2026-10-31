@@ -1,0 +1,132 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Chandru",
+      "id": 2483439,
+      "name": "Arjun Das",
+      "profilePath": "/20RDzfTjpfRHxLYBfnIYXs7vcri.jpg"
+    },
+    {
+      "character": "A. Rao",
+      "id": 2126568,
+      "name": "Sanchana Natarajan",
+      "profilePath": "/5UR4TsRWfGHOd7QKsPENLwnigeb.jpg"
+    },
+    {
+      "character": "Darshana",
+      "id": 6575756,
+      "name": "Srishti",
+      "profilePath": "/9JuKn5GdFCQhggeJeWMciM4RRwp.jpg"
+    },
+    {
+      "character": "Lucky",
+      "id": 3269293,
+      "name": "Zaara Vineet",
+      "profilePath": "/cLo6aGUCGojL1RJIEVgOJJR4dnT.jpg"
+    },
+    {
+      "character": "",
+      "id": 1026839,
+      "name": "Anupama Kumar",
+      "profilePath": "/u8AACs4g2AdS4jmpIeQbfiLYldl.jpg"
+    },
+    {
+      "character": "",
+      "id": 1222860,
+      "name": "Archana Chandhoke",
+      "profilePath": "/aN00n3PpC011dHLIj7z9DB9JY9W.jpg"
+    },
+    {
+      "character": "",
+      "id": 1326604,
+      "name": "Badava Gopi",
+      "profilePath": "/agOqUEkysUtrurHyRc5kvPlsT.jpg"
+    },
+    {
+      "character": "",
+      "id": 6405025,
+      "name": "Niirav Sudharson",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 57946,
+      "logoPath": "/oBMVxYVfjmirgN7tpz4CaSSTnNj.png",
+      "name": "Arka Media Works"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt49855692"
+  },
+  "fetchedAt": 1794596645770,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1655020,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ta",
+      "name": "Tamil"
+    }
+  ],
+  "originalTitle": "John Doe",
+  "overview": "",
+  "posterPath": "/nt7ErINVZAJ3PIprfSYJJshaFJc.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "John Doe",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

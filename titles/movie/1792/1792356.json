@@ -1,0 +1,105 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Self",
+      "id": 6536773,
+      "name": "Vlastimil Kula",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 1558692,
+      "name": "Blanka Kulová",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 8655,
+      "logoPath": "/iy3xGixP7KGlZ6eNgsDv28DXBOl.png",
+      "name": "Hypermarket Film"
+    },
+    {
+      "id": 136561,
+      "logoPath": "/mReKmOZLemFcWlMocCwiq3XbsbB.png",
+      "name": "HBO Europe"
+    },
+    {
+      "id": 205494,
+      "logoPath": "/at1S11xZYN5KnILSvvukcz7YbX9.png",
+      "name": "Kerekes Film"
+    },
+    {
+      "id": 118483,
+      "logoPath": "/8qZaJ4BqzKcbO7TtiXg5HvkPv35.png",
+      "name": "FREESAM"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1792356,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "cs",
+      "name": "Czech"
+    }
+  ],
+  "originalTitle": "Expozice láskou",
+  "overview": "",
+  "posterPath": "/rfFRirqIcIEx737PJFAumY9ifRT.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 96,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Love Exposed",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

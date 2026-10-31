@@ -1,0 +1,161 @@
+{
+  "backdropPath": "/vG9euB2xh5gLgTE37iO9afwOFh8.jpg",
+  "cast": [
+    {
+      "character": "Lyoha",
+      "id": 1631759,
+      "name": "Alexander Petrov",
+      "profilePath": "/3xFrEwihjNGWPR5tUFM3c1m55Zq.jpg"
+    },
+    {
+      "character": "Knyaz",
+      "id": 125737,
+      "name": "Sergey Makovetskiy",
+      "profilePath": "/iCOyGV8d9sngVbsZAFZcwdDBhLJ.jpg"
+    },
+    {
+      "character": "Marusya",
+      "id": 1853565,
+      "name": "Victoria Agalakova",
+      "profilePath": "/hvpwja9coyNJzsdMEAAO2uubD98.jpg"
+    },
+    {
+      "character": "Paramon Dunduk",
+      "id": 239680,
+      "name": "Aleksey Filimonov",
+      "profilePath": "/6jmeSK7KEc5ssEzfhvZzKg3xbE3.jpg"
+    },
+    {
+      "character": "Bambula",
+      "id": 1257180,
+      "name": "Roman Kurtsyn",
+      "profilePath": "/gvcPUusj3CFikNRyqquE4o5byjH.jpg"
+    },
+    {
+      "character": "Doctor Zhul",
+      "id": 1325774,
+      "name": "Sergey Epishev",
+      "profilePath": "/8ACmL8JTaksC8JSQlK2PJqq2PA8.jpg"
+    },
+    {
+      "character": "Baron Zigfrid",
+      "id": 2034825,
+      "name": "Evgeniy Serzin",
+      "profilePath": "/cO5puIcp0l6jqv9jS50auqEDR12.jpg"
+    },
+    {
+      "character": "Hans",
+      "id": 1151383,
+      "name": "Dmitriy Bykovskiy-Romashov",
+      "profilePath": "/7jBGH4mR0BXAu7UNog6FqbLzdgL.jpg"
+    },
+    {
+      "character": "Peter",
+      "id": 1334387,
+      "name": "Danila Rassomakhin",
+      "profilePath": "/aoECiKs9eZ55iRNDbN2m1T8KDqE.jpg"
+    },
+    {
+      "character": "Magistr Rudolf",
+      "id": 1112012,
+      "name": "Dmitriy Kulichkov",
+      "profilePath": "/fpzttqO2qzzR0uh2n3SpwG9yxbJ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 103068,
+      "logoPath": "/3Cpvx2zbyEvabcubSlhgvLiSW0.png",
+      "name": "Studio Globus"
+    },
+    {
+      "id": 318,
+      "logoPath": "/q0UG4oZERwIywJdDPF4lRlvdYGW.png",
+      "name": "CTB Film Company"
+    },
+    {
+      "id": 69587,
+      "logoPath": "/u0Jy8wJ05m3MZCNiba1EXgf0zoK.png",
+      "name": "Russia 1"
+    },
+    {
+      "id": 135284,
+      "logoPath": null,
+      "name": "CGF Company"
+    },
+    {
+      "id": 76049,
+      "logoPath": "/tam9pIV4QK1ZPwdxBgtVkK1WTYC.png",
+      "name": "Cinema Foundation of Russia"
+    }
+  ],
+  "countries": [
+    {
+      "code": "RU",
+      "name": "Russia"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt32102878",
+    "wikidataId": "Q136606127"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "id": 1259232,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ru",
+      "name": "Russian"
+    }
+  ],
+  "originalTitle": "Горыныч",
+  "overview": "Senior Lieutenant of the Navy Aleksey Alekhin, once descending to the seabed in a bathyscaphe, finds himself in a strange underwater cave that serves as a portal to a fabulous world. In this new unfamiliar place, he meets a little dragon left without a mother. Aleksey unwittingly becomes the dragon's guardian and friend and gives the baby the name Gorynych.",
+  "posterPath": "/zJeJv0pV8vteoH9JqDz99rFRrD7.jpg",
+  "rating": 4.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 97,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "You are forever responsible for those who have tamed... Even if is is a dragon!",
+  "theatricalDate": null,
+  "title": "My Pet Dragon",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 6,
+  "watchProviders": {}
+}

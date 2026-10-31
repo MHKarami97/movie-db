@@ -1,0 +1,178 @@
+{
+  "backdropPath": "/gTnTZwDIPyd1EVPknYd11DPey89.jpg",
+  "cast": [
+    {
+      "character": "Benek",
+      "id": 3984958,
+      "name": "Bartłomiej Deklewa",
+      "profilePath": "/klfgs32JGcuWJkxbfBEgT4Hh7ip.jpg"
+    },
+    {
+      "character": "Nastka",
+      "id": 3253665,
+      "name": "Izabella Dudziak",
+      "profilePath": "/9KOsbXqqMWKT0takPCvGybsiybR.jpg"
+    },
+    {
+      "character": "Franek",
+      "id": 4680736,
+      "name": "Tymoteusz Rożynek",
+      "profilePath": "/kF7qmCwaHq1J4NYRs4wvSfWt1V0.jpg"
+    },
+    {
+      "character": "Jana",
+      "id": 3560411,
+      "name": "Karolina Rzepa",
+      "profilePath": "/suIytsciibuUyU1k3IjEBURNMRA.jpg"
+    },
+    {
+      "character": "Stach",
+      "id": 4428589,
+      "name": "Piotr Napierała",
+      "profilePath": "/nc8yJ2tdKHcDWqbWeBgy1tN3Xbu.jpg"
+    },
+    {
+      "character": "Zuza",
+      "id": 4764924,
+      "name": "Daria Muszyńska",
+      "profilePath": "/1N3wnD78wwshkzB5nxqXYeqM0dC.jpg"
+    },
+    {
+      "character": "Psychiatrist",
+      "id": 1895818,
+      "name": "Andrzej Kłak",
+      "profilePath": "/8YREyAWFOCMu44SCytZftpKkSLB.jpg"
+    },
+    {
+      "character": "Student",
+      "id": 4245330,
+      "name": "Gabriela Arak",
+      "profilePath": "/6rWt1H1Bz8sQ5jOrusSPwm66Hn0.jpg"
+    },
+    {
+      "character": "Policeman",
+      "id": 2252047,
+      "name": "Aleksander Janiszewski",
+      "profilePath": "/4rlx6XpMhG85h9tA7HjKfA4LQzP.jpg"
+    },
+    {
+      "character": "Homeless",
+      "id": 4227034,
+      "name": "Krzysztof Drozdowski",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 45475,
+      "logoPath": "/1V0CgkIcyMTfOWeke2dVM4O5hYI.png",
+      "name": "Studio Munka"
+    },
+    {
+      "id": 75890,
+      "logoPath": "/dptD61UE3FLgm5LwqesMKemLD2N.png",
+      "name": "Dreamsound"
+    },
+    {
+      "id": 253407,
+      "logoPath": null,
+      "name": "Fireplace"
+    },
+    {
+      "id": 78877,
+      "logoPath": null,
+      "name": "Stowarzyszenie Filmowców Polskich"
+    },
+    {
+      "id": 82294,
+      "logoPath": "/z2WExPhsX9E8NGruZrEWosQoC86.png",
+      "name": "FIXAFILM"
+    },
+    {
+      "id": 250,
+      "logoPath": "/evWKasiElVQywuKv2dI72P9twz8.png",
+      "name": "CANAL+ Polska"
+    },
+    {
+      "id": 125737,
+      "logoPath": "/v4YRjUXtET5EqW2XXYB05K3yUpd.png",
+      "name": "Mazowiecki Instytut Kultury"
+    }
+  ],
+  "countries": [
+    {
+      "code": "PL",
+      "name": "Poland"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37592728"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "id": 1433707,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "pl",
+      "name": "Polish"
+    }
+  ],
+  "originalTitle": "Nie ma duchów w mieszkaniu na Dobrej",
+  "overview": "Four siblings on the verge of coming-of-age try to build their independent lives without losing the bonds that connect them.",
+  "posterPath": "/A8roeiHwf6aXQdMk48vBW6VgKeg.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "No Ghosts on Good Street",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 6,
+  "watchProviders": {}
+}

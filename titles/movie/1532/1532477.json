@@ -1,0 +1,132 @@
+{
+  "backdropPath": "/4J4OlqCWFF6b9F4HuMxWmWlneBF.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1137,
+      "name": "Juliette Binoche",
+      "profilePath": "/htdZZIroEyJaeHQAUTqokNfkPgl.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 5635484,
+      "name": "Akram Kahn",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 271588,
+      "logoPath": null,
+      "name": "MIAO Productions"
+    },
+    {
+      "id": 167453,
+      "logoPath": null,
+      "name": "Yggdrasil"
+    },
+    {
+      "id": 248673,
+      "logoPath": null,
+      "name": "Léger Production"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37964027",
+    "wikidataId": "Q136407795"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1532477,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "En nous",
+  "overview": "In 2007, Juliette Binoche and Akram Khan took a break and co-created In-I, an original performance that toured the world. Today, Juliette Binoche revisits that exhilarating journey. Through unfamiliar images, she reflects on creation, its challenges, and the personal transformation it brings as a filmmaker.",
+  "posterPath": "/kFIVqcaHcGfMEBBLMmp4DlbQaGb.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2025-09-23"
+    },
+    "US": {
+      "premiere": "2026-03-22"
+    }
+  },
+  "runtime": 127,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Start with the sensations.",
+  "theatricalDate": null,
+  "title": "In-I In Motion",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "mSkuzxi8hG4",
+      "name": "International Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1532477-en-nous/watch?locale=AE",
+      "rent": [
+        {
+          "id": 2765,
+          "logoPath": "/fy6GVs6ZtKluakv0Z5nuLesmTqx.png",
+          "name": "Pijama Films"
+        }
+      ]
+    }
+  }
+}

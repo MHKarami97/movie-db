@@ -1,0 +1,178 @@
+{
+  "backdropPath": "/dzoqvi7eiPGODZO0CsXRLPfmVAE.jpg",
+  "cast": [
+    {
+      "character": "Richard 'Richie' Jerimovich",
+      "id": 21042,
+      "name": "Ebon Moss-Bachrach",
+      "profilePath": "/xD8GVNayMpiTZxLfahy2DseYcQq.jpg"
+    },
+    {
+      "character": "Michael Berzatto",
+      "id": 19498,
+      "name": "Jon Bernthal",
+      "profilePath": "/bjcglF1IpDcZNs1HwFxakGpzBo6.jpg"
+    },
+    {
+      "character": "Sherri",
+      "id": 164094,
+      "name": "Marin Ireland",
+      "profilePath": "/jAIOQNraHjvIAdqk81QDV5Phupp.jpg"
+    },
+    {
+      "character": "Tiffany Jerimovich",
+      "id": 94098,
+      "name": "Gillian Jacobs",
+      "profilePath": "/tKpXn260glPElCKlFekKAACNWYn.jpg"
+    },
+    {
+      "character": "Cowboy",
+      "id": 5060575,
+      "name": "Nation Sage Henrikson",
+      "profilePath": "/7NMdeqOztpZ6vcDElCL4S2NCRqX.jpg"
+    },
+    {
+      "character": "Bar Patron",
+      "id": 554395,
+      "name": "T.J. Jagodowski",
+      "profilePath": "/kN4BpgUo6ezJTfatIl9kN0xgeP0.jpg"
+    },
+    {
+      "character": "Elisha",
+      "id": 6191478,
+      "name": "Elisha Evans",
+      "profilePath": null
+    },
+    {
+      "character": "Gas Station Teller",
+      "id": 3298461,
+      "name": "Richard Gomez",
+      "profilePath": "/c6RgtFlCq4RRFMM3isTOWrZasJU.jpg"
+    },
+    {
+      "character": "",
+      "id": 4728307,
+      "name": "Lisa Beasley",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 2715999,
+      "name": "Brooke Breit",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 15990,
+      "logoPath": "/5cT4zwHA66uNAr2p3CcBDLddXu2.png",
+      "name": "FX Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-05-05",
+  "externalIds": {
+    "imdbId": "tt42373968",
+    "wikidataId": "Q139676409"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1688652,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Gary",
+  "overview": "Two friends go on a work trip and encounter unexpected challenges and local personalities as they navigate their assignment. Their efforts to adapt to unfamiliar surroundings highlight moments of humor, small-town culture and the unpredictable nature of work travel. Their experience offers new perspectives on their friendship.",
+  "posterPath": "/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg",
+  "rating": 6.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-05-05",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-05",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-05-05"
+    },
+    "US": {
+      "digital": "2026-05-05",
+      "tv": "2026-05-05"
+    }
+  },
+  "runtime": 60,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Gary",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 71,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1688652-gary/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1688652-gary/watch?locale=US",
+      "rent": []
+    }
+  }
+}

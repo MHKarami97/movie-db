@@ -1,0 +1,86 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Morning Post",
+      "id": 6173155,
+      "name": "Kyle Gorman",
+      "profilePath": null
+    },
+    {
+      "character": "Vincze the Cannibal",
+      "id": 6173281,
+      "name": "Brenden Wolf",
+      "profilePath": null
+    },
+    {
+      "character": "Train Ticket Salesman",
+      "id": 5423112,
+      "name": "Colby Schoetz",
+      "profilePath": null
+    },
+    {
+      "character": "Villager Who Steals Artur’s Radio and Jumps Out The Window",
+      "id": 6173129,
+      "name": "Liam Sullivan",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 1683473,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Oh? You Have Money?",
+  "overview": "",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2027-01-05"
+    }
+  },
+  "runtime": 60,
+  "schemaVersion": 2,
+  "status": "Canceled",
+  "tagline": "Alrighty alrighty, who has the capital?",
+  "theatricalDate": null,
+  "title": "Oh? You Have Money?",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

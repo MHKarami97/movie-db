@@ -1,0 +1,175 @@
+{
+  "backdropPath": "/mlF0QicJI69zFag44JDHEqkpN2Y.jpg",
+  "cast": [
+    {
+      "character": "Varun",
+      "id": 931864,
+      "name": "Siddhu Jonnalagadda",
+      "profilePath": "/6B8PzdF7BkyABUoWJZZgn8IuZkn.jpg"
+    },
+    {
+      "character": "Raaga Kumar",
+      "id": 2182257,
+      "name": "Srinidhi Shetty",
+      "profilePath": "/pTsixKDFS3n2xsvR6wDZ9J6jjfQ.jpg"
+    },
+    {
+      "character": "Anjali",
+      "id": 1210037,
+      "name": "Raashii Khanna",
+      "profilePath": "/8nx3hzFdge51Cb5BcocIe4ShumU.jpg"
+    },
+    {
+      "character": "Mahesh",
+      "id": 1638514,
+      "name": "Harsha Chemudu",
+      "profilePath": "/be0atwoQTudy7WaVCNwWbQuxjvG.jpg"
+    },
+    {
+      "character": "",
+      "id": 1338658,
+      "name": "Sanjay Swaroop",
+      "profilePath": "/zVErh5DAZyNbyGoaD5ZLHsKcdal.jpg"
+    },
+    {
+      "character": "",
+      "id": 2249477,
+      "name": "Sivannarayana Naripeddi",
+      "profilePath": "/nqG9wFjXEool9NLPRrUsnZbjm72.jpg"
+    },
+    {
+      "character": "Cameo",
+      "id": 5762943,
+      "name": "Nivaashiyni Krishnan",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 106829,
+      "logoPath": null,
+      "name": "People Media Factory"
+    }
+  ],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt27881494",
+    "wikidataId": "Q128474263"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1229947,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "te",
+      "name": "Telugu"
+    }
+  ],
+  "originalTitle": "తెలుసు కదా",
+  "overview": "A couple's struggle with infertility takes a complicated turn when an ex-partner offers to be their surrogate.",
+  "posterPath": "/up78q9ZcU4UK45rZ6VxAFvoqPWr.jpg",
+  "rating": 4.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-10-31"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2025-10-31"
+    }
+  },
+  "runtime": 132,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Love u 2",
+  "theatricalDate": "2025-10-31",
+  "title": "Telusu Kada",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 13,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1229947/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1229947/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1229947/watch?locale=US",
+      "rent": []
+    }
+  }
+}

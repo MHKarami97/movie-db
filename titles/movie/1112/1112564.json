@@ -1,0 +1,194 @@
+{
+  "backdropPath": "/qPNIwdR3y965KMsiweyuXdjDRXR.jpg",
+  "cast": [
+    {
+      "character": "Rameshwaran \"Ramu\"",
+      "id": 123066,
+      "name": "Karthi",
+      "profilePath": "/ycxl56NbjNkJZkYbUMdwGdnBIg7.jpg"
+    },
+    {
+      "character": "Wu",
+      "id": 544896,
+      "name": "Krithi Shetty",
+      "profilePath": "/23NxkwhU2JA8IIoTwM1OWuUxOUg.jpg"
+    },
+    {
+      "character": "Periyasamy",
+      "id": 581895,
+      "name": "Sathyaraj",
+      "profilePath": "/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+    },
+    {
+      "character": "Jaiganesh",
+      "id": 228287,
+      "name": "Rajkiran",
+      "profilePath": "/pOtBIgS3433WmLM23TKGdz5UGTi.jpg"
+    },
+    {
+      "character": "MGR's Fan",
+      "id": 581072,
+      "name": "Anandaraj",
+      "profilePath": "/gZxzckfurzV0oQOME8b1ATNoMHD.jpg"
+    },
+    {
+      "character": "Malini",
+      "id": 1744061,
+      "name": "Shilpa Manjunath",
+      "profilePath": "/yn5FcHDVqi85o1L20fkKEm60eLi.jpg"
+    },
+    {
+      "character": "Govindharaman",
+      "id": 1187406,
+      "name": "Karunakaran",
+      "profilePath": "/3unnOmeQ0r4GhAY1EDbZaCdt1N.jpg"
+    },
+    {
+      "character": "Mani",
+      "id": 1640803,
+      "name": "G. M. Sundar",
+      "profilePath": "/hMYrf0wmw9XPiICyOWXYmDIucFV.jpg"
+    },
+    {
+      "character": "Muthu",
+      "id": 1187402,
+      "name": "Ramesh Thilak",
+      "profilePath": "/cZ5RxGzGA5swW0rZwPhPU0yVNTb.jpg"
+    },
+    {
+      "character": "Devayani",
+      "id": 581074,
+      "name": "Vadivukarasi",
+      "profilePath": "/cGfFXJ20h1KECAzSPfo7zURtdqI.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 12630,
+      "logoPath": "/htjrCpuNUCEvbMw7g9NnQ9pU2mq.png",
+      "name": "Studio Green"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt26234108",
+    "wikidataId": "Q123495583"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 1112564,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ta",
+      "name": "Tamil"
+    }
+  ],
+  "originalTitle": "வா வாத்தியார்",
+  "overview": "After being raised as the reincarnation of a famous actor, a man finds himself clashing with his grandfather's expectations of him.",
+  "posterPath": "/hb1YWskm1H2YwNj2KF2BGWgLA58.jpg",
+  "rating": 4.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 129,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Vaa Vaathiyaar",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 11,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 119,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1112564/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1112564/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1112564/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "backdropPath": "/pAyImoslSnpMgjRwhaS5ZEdl8UI.jpg",
+  "cast": [
+    {
+      "character": "Ada",
+      "id": 3967,
+      "name": "Kate Beckinsale",
+      "profilePath": "/aoIQJzrWRtq9mOeaPadzpUCAaVd.jpg"
+    },
+    {
+      "character": "Roman",
+      "id": 1610940,
+      "name": "Lewis Tan",
+      "profilePath": "/yMr3mwHHBpfbXwDDkahOzFtTCak.jpg"
+    },
+    {
+      "character": "Mrs. Christina Vine",
+      "id": 2506,
+      "name": "Alice Krige",
+      "profilePath": "/jHOknQMjkIqqrm5RjtMCnJfnGXl.jpg"
+    },
+    {
+      "character": "Frasier Mahoney",
+      "id": 4391,
+      "name": "Charles Dance",
+      "profilePath": "/28ElvRC5ftOSzZBFM0cn4XrwH36.jpg"
+    },
+    {
+      "character": "Edward",
+      "id": 205725,
+      "name": "Rasmus Hardiker",
+      "profilePath": "/gDdrt1YXPCxdv5LG8WvVJswPydZ.jpg"
+    },
+    {
+      "character": "Cia",
+      "id": 1346325,
+      "name": "Mathilde Warnier",
+      "profilePath": "/xDqKNPhXzTPY5Wh9uAGx8rlHznJ.jpg"
+    },
+    {
+      "character": "Curtis",
+      "id": 1667354,
+      "name": "Bailey Patrick",
+      "profilePath": "/zWd5n2gEOmV0aeFHJtjsRtQodHq.jpg"
+    },
+    {
+      "character": "Galloway",
+      "id": 126457,
+      "name": "Tom Bennett",
+      "profilePath": "/4OdiLc6nFrTr7rSVxdKeMvfLF56.jpg"
+    },
+    {
+      "character": "Lennie",
+      "id": 1226220,
+      "name": "Matt Willis",
+      "profilePath": "/oWgpRkWLCWCuhxgYKhNoTZU4Uia.jpg"
+    },
+    {
+      "character": "Jody",
+      "id": 2350471,
+      "name": "Roxy Striar",
+      "profilePath": "/mWZaIKs4K4t1c0ojNTTtBqKAuzj.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 154063,
+      "logoPath": "/r4anaxYa8OL5KaUbU35VkrIe88L.png",
+      "name": "Capstone Pictures"
+    },
+    {
+      "id": 155758,
+      "logoPath": "/iZi0zd9ijrcWR9zlEUUthG8d600.png",
+      "name": "Tea Shop Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2025-11-25",
+  "externalIds": {
+    "imdbId": "tt36153493",
+    "wikidataId": "Q133273687"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1448560,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Wildcat",
+  "overview": "An ex-black ops team reunite to pull off a desperate heist in order to save the life of their leader’s eight-year-old daughter.",
+  "posterPath": "/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-07-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-25",
+      "gapDays": 0,
+      "theatricalDate": "2025-11-25"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-07-06"
+    },
+    "US": {
+      "digital": "2025-11-25",
+      "theatricalLimited": "2025-11-25"
+    }
+  },
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2025-11-25",
+  "title": "Wildcat",
+  "translations": {
+    "faTitle": "گربه وحشی"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "noU-vKiA9ts",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 236,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1448560-wildcat/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 583,
+          "logoPath": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+          "name": "MGM+ Amazon Channel"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 636,
+          "logoPath": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+          "name": "MGM Plus Roku Premium Channel"
+        },
+        {
+          "id": 34,
+          "logoPath": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+          "name": "MGM Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1448560-wildcat/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

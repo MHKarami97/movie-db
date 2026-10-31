@@ -1,0 +1,126 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 1141894,
+      "name": "Cristiano Ronaldo",
+      "profilePath": "/hAsxOYVLzHIteHwqWYGYJrO0WlC.jpg"
+    },
+    {
+      "character": "",
+      "id": 229915,
+      "name": "Thierry Henry",
+      "profilePath": "/24HZGjjI6MFhGjgh0o6o2vxFQ6K.jpg"
+    },
+    {
+      "character": "",
+      "id": 20186,
+      "name": "Damian Lewis",
+      "profilePath": "/puOXtVatFnAxoOmsFO8z7KTfyJW.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 305691,
+      "logoPath": null,
+      "name": "UR•Marv Studios"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2027-07-27",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-07-27",
+        "episodeNumber": 1,
+        "name": "TBA",
+        "overview": "In production",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 329926,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-07-27",
+    "episodeNumber": 1,
+    "id": 7601035,
+    "name": "TBA",
+    "overview": "In production",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Day 1s",
+  "overview": "The show, which has already started filming, will feature stars including Thierry Henry and Damian Lewis, and will be produced by Ronaldo’s UR•Marv Studios. The drama follows the fictional story of a top football agent and is expected to attract major streaming interest.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-07-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-07-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-07-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-07-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-07-27"
+    },
+    "CN": {
+      "tv": "2027-07-27"
+    },
+    "GB": {
+      "tv": "2027-07-27"
+    },
+    "US": {
+      "tv": "2027-07-27"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-07-27",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Planned",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Day 1s",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

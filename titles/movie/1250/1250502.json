@@ -1,0 +1,161 @@
+{
+  "backdropPath": "/o2wSuWembR26tQyAd8lqxHhb2q8.jpg",
+  "cast": [
+    {
+      "character": "Dan John",
+      "id": 1115225,
+      "name": "Dulquer Salmaan",
+      "profilePath": "/cKngC3leAnZRXTzg0N8N2DYn4HY.jpg"
+    },
+    {
+      "character": "Isha",
+      "id": 2578168,
+      "name": "Kayadu Lohar",
+      "profilePath": "/pHaMPnrfnWvTPZA4IOmZk8BHY0U.jpg"
+    },
+    {
+      "character": "Vignesh 'Vicky' Das",
+      "id": 1758913,
+      "name": "Antony Varghese",
+      "profilePath": "/dKRa8ghSXw6J1OTcxMziZh3l1jb.jpg"
+    },
+    {
+      "character": "David Abraham",
+      "id": 560039,
+      "name": "Mysskin",
+      "profilePath": "/2g65eG5FBh9oOMAhxpfk5T6um6A.jpg"
+    },
+    {
+      "character": "Jason Antony",
+      "id": 1044337,
+      "name": "Kathir",
+      "profilePath": "/cQNlW5ztPIANrUNRos81cxZuZe5.jpg"
+    },
+    {
+      "character": "Tharini",
+      "id": 3279864,
+      "name": "Samyuktha Viswanathan",
+      "profilePath": "/poEXJ3oa8w41GDPahOX39gJR92U.jpg"
+    },
+    {
+      "character": "Freddy",
+      "id": 1160633,
+      "name": "Vinay Forrt",
+      "profilePath": "/26P7CfxRs6Hay7xAkHAghDtvGzO.jpg"
+    },
+    {
+      "character": "Shaurya",
+      "id": 4555786,
+      "name": "Parth Tiwari",
+      "profilePath": null
+    },
+    {
+      "character": "Vicky's mother",
+      "id": 2761483,
+      "name": "Neeraja Rajendran",
+      "profilePath": "/qi0gwQHLit3StAkgkoMft5HUjHi.jpg"
+    },
+    {
+      "character": "Dharam",
+      "id": 3412118,
+      "name": "Varun Pande",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 127162,
+      "logoPath": "/77iHxiuXJYTXKU4PDQmtRQe3DJx.png",
+      "name": "Wayfarer Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34284946",
+    "instagramId": "imgamemovie",
+    "twitterId": "ImGameMovie",
+    "wikidataId": "Q140921099"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1250502,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ml",
+      "name": "Malayalam"
+    }
+  ],
+  "originalTitle": "ഐ ആം ഗെയിം",
+  "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
+  "posterPath": "/h1ezPKcMYv5FHbHDuHcZfTbWTY5.jpg",
+  "rating": 6.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-03"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-03"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-09-03"
+    },
+    "US": {
+      "theatricalLimited": "2026-09-03"
+    }
+  },
+  "runtime": 173,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The Game is On!",
+  "theatricalDate": "2026-09-03",
+  "title": "I'm Game",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "2E4ihxaCDL4",
+      "name": "I'M GAME TRAILER (Malayalam) | Dulquer Salmaan  | Nahas Hidhayath | Wayfarer Films",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {}
+}

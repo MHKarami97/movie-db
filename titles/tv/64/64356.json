@@ -1,0 +1,327 @@
+{
+  "backdropPath": "/4P2gbaCGdZyP4i95TmmA6nS9HJh.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 3849379,
+      "name": "Park Joo-ho",
+      "profilePath": "/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+    },
+    {
+      "character": "",
+      "id": 1673497,
+      "name": "Park Ji-young",
+      "profilePath": "/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+    },
+    {
+      "character": "",
+      "id": 2326574,
+      "name": "Park Na-eun",
+      "profilePath": "/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
+    },
+    {
+      "character": "",
+      "id": 1695756,
+      "name": "Park Soo-hong",
+      "profilePath": "/MxZ31aVyZITpa39L7KA8IiZcNv.jpg"
+    },
+    {
+      "character": "",
+      "id": 62333,
+      "name": "Choi Ji-woo",
+      "profilePath": "/ysPp0U285rWrCBlo0AfKFbpwoOH.jpg"
+    },
+    {
+      "character": "",
+      "id": 1621353,
+      "name": "An Young-mi",
+      "profilePath": "/vO40MBk2zqUko0OV25jBvt4Abli.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 117743,
+      "logoPath": "/ir6DMooksD7cAwNk7R49QCkdzmB.png",
+      "name": "Urban Works"
+    },
+    {
+      "id": 90061,
+      "logoPath": null,
+      "name": "Koen Media Corporation"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": "2013-11-03",
+  "episodes": {
+    "14": [
+      {
+        "airDate": "2026-01-07",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-01-14",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt5129382",
+    "wikidataId": "Q16183358"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 64356,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-01-14",
+    "episodeNumber": 2,
+    "id": 6862225,
+    "name": "Episode 2",
+    "overview": "",
+    "seasonNumber": 14
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "슈퍼맨이 돌아왔다",
+  "overview": "An up-close look at celebrity dads who have to take care of their kids for the next 48 hours without any help. Will it be a dad-tastrophe, or can they finish their wives' to-do lists while having fun with their kids?",
+  "posterPath": "/qjBx2RCnyyBPgu9qBV7j3UiXjeo.jpg",
+  "rating": 7.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2013-11-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2013-11-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2013-11-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2013-11-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2013-11-03"
+    },
+    "CN": {
+      "tv": "2013-11-03"
+    },
+    "GB": {
+      "tv": "2013-11-03"
+    },
+    "US": {
+      "tv": "2013-11-03"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2013-09-19",
+      "episodeCount": 4,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2013-11-03",
+      "episodeCount": 9,
+      "name": "Season 2013",
+      "overview": "",
+      "posterPath": "/2YNVL7AWez7sSXiWkrizHJ1HWbv.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2014-01-05",
+      "episodeCount": 49,
+      "name": "Season 2014",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2015-01-04",
+      "episodeCount": 52,
+      "name": "Season 2015",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2016-01-03",
+      "episodeCount": 52,
+      "name": "Season 2016",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2017-01-01",
+      "episodeCount": 45,
+      "name": "Season 2017",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2018-01-07",
+      "episodeCount": 51,
+      "name": "Season 2018",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2019-01-06",
+      "episodeCount": 52,
+      "name": "Season 2019",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2020-01-05",
+      "episodeCount": 52,
+      "name": "Season 2020",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2021-01-03",
+      "episodeCount": 50,
+      "name": "Season 2021",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2022-01-02",
+      "episodeCount": 47,
+      "name": "Season 2022",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2023-01-07",
+      "episodeCount": 48,
+      "name": "Season 2023",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2024-01-03",
+      "episodeCount": 47,
+      "name": "Season 2024",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2025-01-01",
+      "episodeCount": 46,
+      "name": "Season 2025",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2026-01-07",
+      "episodeCount": 2,
+      "name": "Season 2026",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Return of Superman",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 16,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 464,
+          "logoPath": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+          "name": "Kocowa"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/64356/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 344,
+          "logoPath": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+          "name": "Rakuten Viki"
+        }
+      ],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 575,
+          "logoPath": "/t4tushezwJkXCposaC73oZTwF5a.png",
+          "name": "OnDemandKorea"
+        },
+        {
+          "id": 2413,
+          "logoPath": "/aH7G4UQLcj4DQwK5mVhXfVTUzR2.png",
+          "name": "Kocowa Amazon Channel"
+        },
+        {
+          "id": 464,
+          "logoPath": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+          "name": "Kocowa"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/64356/watch?locale=US",
+      "rent": []
+    }
+  }
+}

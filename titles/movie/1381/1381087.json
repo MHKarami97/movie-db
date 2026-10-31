@@ -1,0 +1,167 @@
+{
+  "backdropPath": "/jEnNbhx1b9BbtTURxoKyNNEKzXk.jpg",
+  "cast": [
+    {
+      "character": "Maggie",
+      "id": 1695070,
+      "name": "Brittany O'Grady",
+      "profilePath": "/bNuz4XvSbvYw229j9gkO24qzsQm.jpg"
+    },
+    {
+      "character": "Isaac",
+      "id": 2498631,
+      "name": "Taz Skylar",
+      "profilePath": "/3EXMkfzB8EXn3ZJPJvK6OfPWLfz.jpg"
+    },
+    {
+      "character": "Sariq",
+      "id": 1968476,
+      "name": "Viveik Kalra",
+      "profilePath": "/xKfQ5J0WOl0SBJFsXnmB0xGajzo.jpg"
+    },
+    {
+      "character": "Faye",
+      "id": 2108181,
+      "name": "Ines Asserson",
+      "profilePath": "/c9GKtpdZ2xEvYlQ1oQKLXvuPsig.jpg"
+    },
+    {
+      "character": "Gunner",
+      "id": 1702316,
+      "name": "Gunner Willis",
+      "profilePath": "/7btxsL6QQrInbRfdHJ2JmZX1cNM.jpg"
+    },
+    {
+      "character": "Claudia",
+      "id": 4489132,
+      "name": "Sara Alexander",
+      "profilePath": null
+    },
+    {
+      "character": "Hazel",
+      "id": 1904545,
+      "name": "Camila Bejarano Wahlgren",
+      "profilePath": "/6KF1eGe0pfQusvKNLsyhq0fU5AR.jpg"
+    },
+    {
+      "character": "Carly",
+      "id": 4951780,
+      "name": "Laura Ubach",
+      "profilePath": "/lABQjrj4vOtY5yLUBbeNDkXivuD.jpg"
+    },
+    {
+      "character": "Chris",
+      "id": 2839160,
+      "name": "Luke Cinque-White",
+      "profilePath": null
+    },
+    {
+      "character": "Debra Cadabra",
+      "id": 5345488,
+      "name": "Jane Murphy",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 12292,
+      "logoPath": "/5J93SHsuvIV32AE9oSbMi02pqw9.png",
+      "name": "Temple Hill Entertainment"
+    },
+    {
+      "id": 11068,
+      "logoPath": "/jOdUllzDZRFy0tPIFDEwpP4Mpv4.png",
+      "name": "Nostromo Pictures"
+    },
+    {
+      "id": 20277,
+      "logoPath": "/aomeUwZLIBjGXHfuZq7HTVk7UNb.png",
+      "name": "Protagonist Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34383418",
+    "wikidataId": "Q139382195"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1381087,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Monitor",
+  "overview": "A social media moderator unleashes a deadly terror when she refuses to publish a cryptic video.",
+  "posterPath": "/4mNVblPF1tTRok3PINiQnZW7RMl.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-04-30"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-04-16"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2027-04-30"
+    },
+    "US": {
+      "premiere": "2026-03-12",
+      "theatrical": "2027-04-16"
+    }
+  },
+  "runtime": 88,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2027-04-16",
+  "title": "Monitor",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

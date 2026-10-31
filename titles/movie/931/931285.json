@@ -1,0 +1,814 @@
+{
+  "backdropPath": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+  "cast": [
+    {
+      "character": "Johnny Cage",
+      "id": 1372,
+      "name": "Karl Urban",
+      "profilePath": "/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg"
+    },
+    {
+      "character": "Kitana",
+      "id": 2168270,
+      "name": "Adeline Rudolph",
+      "profilePath": "/rkcZTtTTqTe8QK4UMIjHHVefdnN.jpg"
+    },
+    {
+      "character": "Liu Kang",
+      "id": 1525689,
+      "name": "Ludi Lin",
+      "profilePath": "/9Ila4K8POeuVWRO9hzyekFjvCDk.jpg"
+    },
+    {
+      "character": "Sonya Blade",
+      "id": 136347,
+      "name": "Jessica McNamee",
+      "profilePath": "/xX1WxRZyJqVAx24Q3ziziGq2T8A.jpg"
+    },
+    {
+      "character": "Shao Kahn",
+      "id": 1510237,
+      "name": "Martyn Ford",
+      "profilePath": "/nt1gfbZPSywrHX1XnuZhQ0gU5BS.jpg"
+    },
+    {
+      "character": "Kano",
+      "id": 189230,
+      "name": "Josh Lawson",
+      "profilePath": "/Am9vM77uZd9bGODugwmWtOfzx6E.jpg"
+    },
+    {
+      "character": "Jade",
+      "id": 1859934,
+      "name": "Tati Gabrielle",
+      "profilePath": "/txZTL1HkPVxliTilbjlwR51VIt6.jpg"
+    },
+    {
+      "character": "Jax Briggs",
+      "id": 51684,
+      "name": "Mehcad Brooks",
+      "profilePath": "/s7Cu6Si9n5qsH64eLBVGXaf55bE.jpg"
+    },
+    {
+      "character": "Lord Raiden",
+      "id": 13275,
+      "name": "Tadanobu Asano",
+      "profilePath": "/3CBpfGRcPq1jEeYr51TiOiNbZzT.jpg"
+    },
+    {
+      "character": "Shang Tsung",
+      "id": 101015,
+      "name": "Chin Han",
+      "profilePath": "/3XJXmYm6r4Hvm3izOArU58fhQrT.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 12,
+      "logoPath": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema"
+    },
+    {
+      "id": 76907,
+      "logoPath": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+      "name": "Atomic Monster"
+    },
+    {
+      "id": 8000,
+      "logoPath": "/f8NwLg72BByt3eav7lX1lcJfe60.png",
+      "name": "Broken Road Productions"
+    },
+    {
+      "id": 252367,
+      "logoPath": null,
+      "name": "Fireside Films"
+    },
+    {
+      "id": 216687,
+      "logoPath": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+      "name": "Domain Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-06-09",
+  "externalIds": {
+    "facebookId": "MortalKombatMovie",
+    "imdbId": "tt17490712",
+    "instagramId": "mortalkombatmovie",
+    "twitterId": "MKMovie",
+    "wikidataId": "Q117830073"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "id": 931285,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Mortal Kombat II",
+  "overview": "قهرمانان محبوب طرفداران - که اکنون خود جانی کیج نیز به آنها پیوسته است - در نبردی خونین، بی‌حد و حصر و خونین، برای شکست دادن حکومت تاریک شائو کان که موجودیت قلمرو زمین و مدافعان آن را تهدید می‌کند، در مقابل یکدیگر قرار می‌گیرند.",
+  "posterPath": "/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+  "rating": 7.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-07"
+    },
+    "CN": {
+      "digitalDate": "2026-09-05",
+      "gapDays": 120,
+      "theatricalDate": "2026-05-08"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-07"
+    },
+    "US": {
+      "digitalDate": "2026-06-09",
+      "gapDays": 32,
+      "theatricalDate": "2026-05-08"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-05-07"
+    },
+    "CN": {
+      "digital": "2026-09-05",
+      "theatrical": "2026-05-08"
+    },
+    "GB": {
+      "theatrical": "2026-05-07"
+    },
+    "US": {
+      "digital": "2026-06-09",
+      "premiere": "2026-04-27",
+      "theatrical": "2026-05-08",
+      "tv": "2026-07-25"
+    }
+  },
+  "runtime": 116,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Their fight. Our future.",
+  "theatricalDate": "2026-05-08",
+  "title": "Mortal Kombat II",
+  "translations": {
+    "faOverview": "قهرمانان محبوب طرفداران - که اکنون خود جانی کیج نیز به آنها پیوسته است - در نبردی خونین، بی‌حد و حصر و خونین، برای شکست دادن حکومت تاریک شائو کان که موجودیت قلمرو زمین و مدافعان آن را تهدید می‌کند، در مقابل یکدیگر قرار می‌گیرند.",
+    "faTitle": "مورتال کامبت 2"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "HVMiYQI-Vbo",
+      "name": "Shao Kahn vs Cole Young & Jax vs Jade Tournament Fights",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "zspj96ju_08",
+      "name": "Ed Boon, Scorpion & Franchise Legacy - Behind the Scenes",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "qGyIEis2T2o",
+      "name": "Official American Sign Language Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "ikIx7XMdRwg",
+      "name": "Liu Kang vs Kung Lao Fight Scene - Movie Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "6OjjgeynyLU",
+      "name": "Realms, Sets, Costumes & Worldbuilding - Behind the Scenes",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "ujzw9eIB7jo",
+      "name": "Choose Your Fighter - Behind the Scenes",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "AwpTJI2Q4Jc",
+      "name": "That guy has robot arms",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "FEHP15B_mIU",
+      "name": "Shao Kahn Delivers the Iconic Line \"Finish Him\"",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "QvBkEFnmGSs",
+      "name": "Johnny Cage Fights Baraka",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "EZBlLWbmMYM",
+      "name": "Johnny Cage Enters the Fight - Behind the Scenes",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "HmclTtHx_pE",
+      "name": "Shao Kahn vs King Jerrod - Full Movie Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "TJ2usBZBeLM",
+      "name": "Kitana always wins...",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6bPjvwoAmv0",
+      "name": "1.90 Scene Breakdown",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Vdl23CwNeIM",
+      "name": "The tournament has begun. What was your favourite MORTAL KOMBAT II fight?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "SosD0znUZuU",
+      "name": "Only the toughest will survive...",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "RXkyTUwIVG4",
+      "name": "Shao Kahn is bringing the blood-spattering action to MORTAL KOMBAT II",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Ht0SHqJ-ga0",
+      "name": "Now Playing In Cinemas",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "8_NRLRSSgHI",
+      "name": "See all your MORTAL KOMBAT II faves in cinema and IMAX now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "j8JS0AiHzQ8",
+      "name": "It's showtime.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "nAu_RnBvKJ4",
+      "name": "Johnny Cage vs Baraka = chaos",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "rS5RTYFEEHQ",
+      "name": "It's showtime!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "FtesmzryvKA",
+      "name": "Mortal Kombat II Cast Play the Accent Challenge",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "oYElmuAdfIc",
+      "name": "Kung Lao FINISHES Canada’s Parking Offenders",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "DnI52YdUYtw",
+      "name": "Mortal Kombat II Cast Play Photo Roulette",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "YmnYk6W0w5U",
+      "name": "Choose your fighter!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "F8KgueCb3j8",
+      "name": "Watch the cast of MORTAL KOMBAT II get their meme on",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "f_010i692o8",
+      "name": "You gotta listen to Johnny and Kano on this one.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "lHCrMAWPTUc",
+      "name": "Scorpion and Bi-Han go head-to-head in this MORTAL KOMBAT II clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "gNiBxnYzj64",
+      "name": "Who's the champion of this ASMR?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "xqIMifxiaB8",
+      "name": "The cast of MORTAL KOMBAT II always bring the energy",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "OSrCcBpW1a4",
+      "name": "This is a royal order.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "nyG0hn1hfRk",
+      "name": "Scorpion is king of iconic lines",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "pQGe31LX6Ws",
+      "name": "Lock in guys, this is serious.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "kAr9RRvwotU",
+      "name": "POV: you join the MORTAL KOMBAT II tournament in London",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Og9B2NwVkAQ",
+      "name": "Every fatality feels bigger in IMAX",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "RFvkFFFzbuA",
+      "name": "Stack your roster. You’ll need ‘em.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "XeUg4ybixWo",
+      "name": "The fans have spoken",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "fZGqtippCSc",
+      "name": "Only In Cinemas 7 May",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "-JU25zo3hZY",
+      "name": "Kombat ready... Martyn Ford and Lewis Tan reunite at the MORTAL KOMBAT II European Fan Event",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "mq7Vn8FmTYE",
+      "name": "The hype for MORTAL KOMBAT II is real as fans meet Mehcad Brooks in London",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "dH_kC7ZRxQg",
+      "name": "Some serious skills from Adeline Rudolph & Tati Gabrielle at the MORTAL KOMBAT II European Fan Event",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "s3hWjdwYeYU",
+      "name": "When the training for MORTAL KOMBAT II pays off. London welcomes Lewis Tan!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "WudaBxdyR04",
+      "name": "Choose your fighter. The cast of MORTAL KOMBAT II took on the European Fan Event in London.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Xi0SEx0EcI0",
+      "name": "Kitana doesn't go anywhere without her fans",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ul90WGVm5aU",
+      "name": "Only In Cinemas 7 May",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "aJWOaLdyQRg",
+      "name": "The time for kombat is NOW!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "dNGKvEa8aUQ",
+      "name": "No messing with Kitana",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "CKPuuxCWY9E",
+      "name": "Get Tickets Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "OYAWMf5CO5I",
+      "name": "Get Tickets Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "HoR-7SK1S38",
+      "name": "Bi-Han and Jax came with a vengeance.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "PwswikJAvE8",
+      "name": "She slays in more ways than one.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "bv9XK4t0eow",
+      "name": "Liu Kang always brings the heat.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "uplC96wR3xI",
+      "name": "Our Kitana knows how to stir up a fan frenzy.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "7lixD_tqxek",
+      "name": "A Johnny Cage and Kano link up",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ul4M0n21hIs",
+      "name": "You know what time it is.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "hpp6D8de6pI",
+      "name": "It's the tournament you've been waiting for",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "sjVE4BgNeXk",
+      "name": "Techno Syndrome (Mortal Kumbia Version) by Amantes del Futuro",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "F9wTeQKOma8",
+      "name": "What will be the top fatality? GET OVER HERE and find out!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "U01HR8yAX1k",
+      "name": "Let's F'ckn Go",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "1vJHTsMneYU",
+      "name": "Get Tickets Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "iBWa8b4gcSs",
+      "name": "This isn't a game. This is pure vengeance.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "XhOuHV3r8Lo",
+      "name": "Feel the fatalities.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "MnZ1iv8KHls",
+      "name": "No mercy. Endless squeaks.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "bwJD1SXBq7M",
+      "name": "All action, no brakes. You down?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "6iviLLXHS3Q",
+      "name": "Shoutout to Johnny Cage for always keeping it real in MORTAL KOMBAT II.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "rjpkfrJ4Cf0",
+      "name": "You heard them",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "U9tnPOLEydk",
+      "name": "Looking for khaos? We got you.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "NFYiO0xS2aM",
+      "name": "Trust us, you’re in for a bloody good time.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "iD9AdGgPaTQ",
+      "name": "Lock in. It’s time.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "lW3BA5TDyQY",
+      "name": "No matter how you slice it, this is going to be krazy.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "wOE9QyjNb0Q",
+      "name": "You’ve been chosen.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "BmwlzjAPtgs",
+      "name": "Don’t miss out on the main event.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "zva2PQ-ud5Y",
+      "name": "Tickets On Sale",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "M_dc2RxWBu4",
+      "name": "Mess with her, get the fan.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "8II8tAJpZjI",
+      "name": "No thoughts. Just Kombat.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "b24oG7qCwp4",
+      "name": "Official Trailer II",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "9Rjlwwa3z9s",
+      "name": "Mortal Kombat II at IGNFanFest",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Sqz6F9VF9LQ",
+      "name": "Featurette",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "3SteHIucVFk",
+      "name": "We don’t just break bones, we break records, too. Thank you to all our fans.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "kklziMsfbYY",
+      "name": "See Johnny Cage in Uncaged Fury",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "2VkaZlgJX24",
+      "name": "Talent Reacts to Official Trailer",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ZdC5mFHPldg",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 2759,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/931285-mortal-kombat-ii/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/931285-mortal-kombat-ii/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

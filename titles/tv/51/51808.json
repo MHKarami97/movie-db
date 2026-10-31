@@ -1,0 +1,247 @@
+{
+  "backdropPath": "/DFRKXpyk1n5RZFDmgnax3ry7fC.jpg",
+  "cast": [
+    {
+      "character": "Robot DeFault / Marf (voice)",
+      "id": 87003,
+      "name": "Curtis Armstrong",
+      "profilePath": "/3ZAX6NoU47Qshk0svFxkEcJ5fhI.jpg"
+    },
+    {
+      "character": "Monster Krumholtz (voice)",
+      "id": 16846,
+      "name": "Harland Williams",
+      "profilePath": "/mnor1Hoy3kvTBygccBIVuyWfvge.jpg"
+    },
+    {
+      "character": "Gart / Perry / Loudmouth (voice)",
+      "id": 34521,
+      "name": "Maurice LaMarche",
+      "profilePath": "/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+    },
+    {
+      "character": "Ogo (voice)",
+      "id": 112049,
+      "name": "Jonathan Slavin",
+      "profilePath": "/lAhQotSyyXMfZQ87KTZr2dtLTzi.jpg"
+    },
+    {
+      "character": "J.D. (voice)",
+      "id": 146748,
+      "name": "Megan Hilty",
+      "profilePath": "/gFChWzGo0Ai2s2YXL6xheRvHIgM.jpg"
+    },
+    {
+      "character": "Spitfire / Globitha (voice)",
+      "id": 34985,
+      "name": "Cree Summer",
+      "profilePath": "/7DRq0zPUUWu55pUbnc2roVnzOJ9.jpg"
+    },
+    {
+      "character": "Nessie (voice)",
+      "id": 24203,
+      "name": "Rhea Perlman",
+      "profilePath": "/4S4PdeHea2pePiWHy8MlDODZRLP.jpg"
+    },
+    {
+      "character": "Punch Morley (voice)",
+      "id": 60279,
+      "name": "Fred Tatasciore",
+      "profilePath": "/8YCIAGSWcxeTmPfOWMtVjLSwGOH.jpg"
+    },
+    {
+      "character": "Mr. Wheelie (voice)",
+      "id": 2115,
+      "name": "Kurtwood Smith",
+      "profilePath": "/7dqsk4NYbNZNnmppv2zPuf1hKBn.jpg"
+    },
+    {
+      "character": "Master Grabmirist (voice)",
+      "id": 1223812,
+      "name": "Ping Wu",
+      "profilePath": "/2AfOOv8yLf3fmk3v08K9ofaqmH3.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 4859,
+      "logoPath": "/wOF6aAYFE5BQryYyaMdQPqUWYwt.png",
+      "name": "Nickelodeon Animation Studio"
+    },
+    {
+      "id": 137376,
+      "logoPath": null,
+      "name": "LowBar Productions"
+    },
+    {
+      "id": 137377,
+      "logoPath": null,
+      "name": "Smasho! Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2012-08-04",
+  "externalIds": {
+    "imdbId": "tt2349440",
+    "wikidataId": "Q3389299"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "id": 51808,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2015-03-04",
+    "episodeNumber": 50,
+    "id": 3375004,
+    "name": "Monster Lie",
+    "overview": "Robot and Monster lie to Perry that his homemade cologne smells good, even though it makes them stink.",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Robot and Monster",
+  "overview": "It's Robot and Monster, an unlikely duo in society where their different species usually don't get along, but everyone does share one common trait - they all love bacon! This buddy comedy shows that opposites really do attract, hilariously!",
+  "posterPath": "/rcckppfyUFVgPIxWtYJjRtjSytI.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2012-08-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2012-08-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2012-08-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2012-08-04",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2012-08-04"
+    },
+    "CN": {
+      "tv": "2012-08-04"
+    },
+    "GB": {
+      "tv": "2012-08-04"
+    },
+    "US": {
+      "tv": "2012-08-04"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-01-10",
+      "episodeCount": 3,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2012-08-04",
+      "episodeCount": 50,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/xSLaUKZ50kIfPnXXW5SQ7M9ePVn.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Robot and Monster",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 18,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/51808-robot-and-monster/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/51808-robot-and-monster/watch?locale=US",
+      "rent": []
+    }
+  }
+}

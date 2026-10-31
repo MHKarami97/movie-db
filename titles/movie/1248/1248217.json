@@ -1,0 +1,162 @@
+{
+  "backdropPath": "/fLe2B91439XfKNqbNchQklDvhju.jpg",
+  "cast": [
+    {
+      "character": "Micha Hartung",
+      "id": 8204,
+      "name": "Charly Hübner",
+      "profilePath": "/lZ3hUptXjwQGGYazbop1FrHvAEg.jpg"
+    },
+    {
+      "character": "Paula",
+      "id": 1859,
+      "name": "Christiane Paul",
+      "profilePath": "/h1Cr9GA5C29FhDzbRZ6qrLTydjB.jpg"
+    },
+    {
+      "character": "Alexander Landmann",
+      "id": 1583252,
+      "name": "Leon Ullrich",
+      "profilePath": "/bA9TLK0Pcsvjd8kvDySP6m47weg.jpg"
+    },
+    {
+      "character": "Alex Allonge",
+      "id": 3872,
+      "name": "Daniel Brühl",
+      "profilePath": "/3YlmTfiy5qZXkrdKGjaM1uMjGKP.jpg"
+    },
+    {
+      "character": "Natalie Hartung",
+      "id": 119065,
+      "name": "Leonie Benesch",
+      "profilePath": "/dXs2srrTNOTOZXNa0UOaO9xx2QL.jpg"
+    },
+    {
+      "character": "Holger Röslein",
+      "id": 52400,
+      "name": "Dirk Martens",
+      "profilePath": "/2gYME7HpFXQQoTkiVb2aBGx9iX3.jpg"
+    },
+    {
+      "character": "Harald Wischnewsky",
+      "id": 4620,
+      "name": "Thorsten Merten",
+      "profilePath": "/4BC0mf9zU8R73O9nDGoaYQqljGX.jpg"
+    },
+    {
+      "character": "Fritz Teubner",
+      "id": 15486,
+      "name": "Peter Kurth",
+      "profilePath": "/1RQBjJtHiKb6l8S1qp2purktKcg.jpg"
+    },
+    {
+      "character": "Beate",
+      "id": 7161,
+      "name": "Eva Löbau",
+      "profilePath": "/iHZVFa0GLXU5MeU4SUN20SgYWVS.jpg"
+    },
+    {
+      "character": "Tobias",
+      "id": 58555,
+      "name": "Steffen Jürgens",
+      "profilePath": "/42C1WgPHm0xX3WXUEkkiLlEhPLh.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 96,
+      "logoPath": "/9ps82gVzUeNdkjmLzoGDQLiLDio.png",
+      "name": "X Filme Creative Pool"
+    },
+    {
+      "id": 9291,
+      "logoPath": "/g6GYZXQrjB86Z5ocVliUZF1i3Tz.png",
+      "name": "HR"
+    },
+    {
+      "id": 109460,
+      "logoPath": null,
+      "name": "Pergamon Film"
+    },
+    {
+      "id": 243634,
+      "logoPath": null,
+      "name": "Kalamata Film"
+    },
+    {
+      "id": 140588,
+      "logoPath": null,
+      "name": "Koryphäen Film"
+    },
+    {
+      "id": 86842,
+      "logoPath": "/uCPNeQLSVrSsOtLejsNRZTvnFab.png",
+      "name": "Sreda"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35010081",
+    "wikidataId": "Q137430625"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1248217,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "Der Held vom Bahnhof Friedrichstraße",
+  "overview": "Micha unwittingly becomes a German hero when a journalist portrays him as the mastermind behind the mass exodus from East Germany.",
+  "posterPath": "/o83t6sTDBqN5hhUZZW4uUJNbWEg.jpg",
+  "rating": 6.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 113,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Berlin Hero",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 21,
+  "watchProviders": {}
+}

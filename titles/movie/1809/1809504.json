@@ -1,0 +1,100 @@
+{
+  "backdropPath": "/iTS5bWpz1FF09Tn5cCbZGdHAdo1.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 3968097,
+      "name": "Sviatoslav Vakarchuk",
+      "profilePath": "/pqeM0czCmK1NdWV1z0ew5sSVb7L.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2447368,
+      "name": "Timothy Snyder",
+      "profilePath": "/w2cgeAeLgWumhhA2J1TTxi4dXTI.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 112997,
+      "logoPath": null,
+      "name": "Frith Street Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt28989492"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1809504,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "uk",
+      "name": "Ukrainian"
+    }
+  ],
+  "originalTitle": "Slava: Shooting with Music",
+  "overview": "Sviatoslav Vakarchuk is the lead singer of Okean Elzy, Ukraine's most successful rock band. He is a former politician and activist who has a PhD in theoretical physics. Slava has been compared to Bruce Springsteen and Paul McCartney and his songs are an important part of Ukrainian identity, part of the country's cultural DNA. He is now channeling his talents to liberate his country.",
+  "posterPath": "/aermJ3sOLwSsZpDR2pPflgZwpcY.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-12-04"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatricalLimited": "2026-12-04"
+    }
+  },
+  "runtime": 105,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "Okean Elzy are playing live for their lives",
+  "theatricalDate": "2026-12-04",
+  "title": "Slava: Shooting with Music",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

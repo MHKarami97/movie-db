@@ -1,0 +1,168 @@
+{
+  "backdropPath": "/hZA81b0mSIZWQPIqYwvPHg11rTT.jpg",
+  "cast": [
+    {
+      "character": "Mui",
+      "id": 1638505,
+      "name": "Fish Liew Chi-yu",
+      "profilePath": "/5DdEQnAqSscHFbn3hlu0mna7Fwu.jpg"
+    },
+    {
+      "character": "Ken",
+      "id": 1172629,
+      "name": "Carlos Chan Ka-Lok",
+      "profilePath": "/uCocD9qqMME6ADzKmfaHU6m2eV8.jpg"
+    },
+    {
+      "character": "Mrs. Mui",
+      "id": 61145,
+      "name": "Alice Lau Nga-Lai ",
+      "profilePath": "/v3zJymGK4gwLgrBtW3hmow1TYHe.jpg"
+    },
+    {
+      "character": "Ken's Older Sister",
+      "id": 115495,
+      "name": "Kate Yeung Kei",
+      "profilePath": "/dFhENeLfmDd3dmAnQmBe5t3lQFo.jpg"
+    },
+    {
+      "character": "Eva",
+      "id": 3826989,
+      "name": "Polly Lau",
+      "profilePath": "/wfc5H8urWaN3OmR1zV0yIFpg85q.jpg"
+    },
+    {
+      "character": "Joe",
+      "id": 4101309,
+      "name": "Lam Tze-Yuen",
+      "profilePath": "/cbwznQIMLyLIrSMDpwe3sJFu7Qi.jpg"
+    },
+    {
+      "character": "Sun",
+      "id": 1637195,
+      "name": "Lam Hon-Wing",
+      "profilePath": null
+    },
+    {
+      "character": "Jason",
+      "id": 3033428,
+      "name": "Heyo",
+      "profilePath": "/q0W8n7nNTsKPUzyUOfliFrSePOk.jpg"
+    },
+    {
+      "character": "Judy",
+      "id": 6168596,
+      "name": "Margaret Lain Enriquez",
+      "profilePath": null
+    },
+    {
+      "character": "Mrs. Chan",
+      "id": 2355365,
+      "name": "Fonnie Ng",
+      "profilePath": "/9WwiyKAE8Qa4DutijYMpvu298zo.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 122289,
+      "logoPath": "/4l16C8j9h4frZO5iPD71lpLqTH3.png",
+      "name": "Emperor Motion Pictures"
+    },
+    {
+      "id": 140463,
+      "logoPath": "/2dHouGBpbA7DgsslWq2kctdBqNt.png",
+      "name": "Film Development Fund of Hong Kong"
+    }
+  ],
+  "countries": [
+    {
+      "code": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36217308",
+    "wikidataId": "Q137454809"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1245532,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "cn",
+      "name": "Cantonese"
+    }
+  ],
+  "originalTitle": "像我這樣的愛情",
+  "overview": "A young woman living with cerebral palsy discovers newfound independence and self-acceptance through her encounters with a specialized organization that helps people with disabilities explore their sexuality.",
+  "posterPath": "/cdnG3skvHLyaRxZIEfOoKXj7vcf.jpg",
+  "rating": 7.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 105,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Someone Like Me",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "G4SwqAEQ7TQ",
+      "name": "Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1245532/watch?locale=US",
+      "rent": []
+    }
+  }
+}

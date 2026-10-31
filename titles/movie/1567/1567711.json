@@ -1,0 +1,162 @@
+{
+  "backdropPath": "/sBUBeOikiWDqeJ5IS2fUOHPfHhQ.jpg",
+  "cast": [
+    {
+      "character": "Merel",
+      "id": 114755,
+      "name": "Isa Hoes",
+      "profilePath": "/7h4wgjTCfyCRNNjbcqg8uslfyGo.jpg"
+    },
+    {
+      "character": "Lars",
+      "id": 4292741,
+      "name": "Fedja Louman",
+      "profilePath": "/zmy6Gdi7B0JdPTiVH15Bl1FzrZ9.jpg"
+    },
+    {
+      "character": "Bella",
+      "id": 2533543,
+      "name": "Ghislaine van IJperen",
+      "profilePath": "/gDc3bigEThF8FqBrdjaH2BKpTVE.jpg"
+    },
+    {
+      "character": "Ozzie",
+      "id": 1272047,
+      "name": "Tarikh Janssen",
+      "profilePath": "/v2i38M9I8CTTBHVvHpI703flM1J.jpg"
+    },
+    {
+      "character": "Louella",
+      "id": 117201,
+      "name": "Jasmine Sendar",
+      "profilePath": "/uBCFuIkucJhkVBmwI1mG73BkRMa.jpg"
+    },
+    {
+      "character": "Herbert",
+      "id": 27962,
+      "name": "Kasper van Kooten",
+      "profilePath": "/54NXsKMmWjfFG9u98M41ImhzTEw.jpg"
+    },
+    {
+      "character": "Malti",
+      "id": 2117684,
+      "name": "Joy Delima",
+      "profilePath": "/zgtrfVPr6nYdz5It9w3fT4pjsDY.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 60652,
+      "logoPath": "/pNlPbnwBkKgZsc2yXrDmkakCOyb.png",
+      "name": "Johan Nijenhuis & Co"
+    }
+  ],
+  "countries": [
+    {
+      "code": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37797014",
+    "wikidataId": "Q136645276"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1567711,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "nl",
+      "name": "Dutch"
+    }
+  ],
+  "originalTitle": "Verliefd op Curaçao",
+  "overview": "When Merel joins her son on a sunny trip to Curaçao ahead of his wedding, she soon discovers the holiday is actually a singles getaway. Amid a group of hopeful romantics, unexpected encounters, and island charm, love begins to surface in ways no one anticipated.",
+  "posterPath": "/cj7AcmJRhPW01LtcfEypygApfyv.jpg",
+  "rating": 5.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 120,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Love in Curaçao",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 9,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1567711-verliefd-op-curacao/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1567711-verliefd-op-curacao/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "backdropPath": "/jtlah7LCCo2ZBOxNCvjUfWXzazg.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 4502497,
+      "name": "Duki",
+      "profilePath": "/zIIZJuaIDMYB7e2H5XolmpXSNZE.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2910677,
+      "name": "Emilia",
+      "profilePath": "/14oXblTphDgCWYLdKnsHVRhXzto.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 3917593,
+      "name": "Nicki Nicole",
+      "profilePath": "/fqaR5kMkPkJuR7GQqJNnW8MvMXj.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 4131620,
+      "name": "Bizarrap",
+      "profilePath": "/aYXAs7jnLXKHGZdHQK2jyRZMCYE.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2580886,
+      "name": "Ysy A",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 4117843,
+      "name": "Neo Pistéa",
+      "profilePath": "/lIPzWNBc40YgfDGCnnXOGlJYQlG.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 143874,
+      "logoPath": "/ma7oer37qZprrAm4JBvKKHe1pKx.png",
+      "name": "PEGSA Group"
+    },
+    {
+      "id": 194975,
+      "logoPath": null,
+      "name": "Dale Play Live"
+    },
+    {
+      "id": 274286,
+      "logoPath": null,
+      "name": "SSJ"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "digitalDate": "2025-10-02",
+  "externalIds": {
+    "imdbId": "tt38203421"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1546933,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Rockstar: DUKI desde el fin del mundo",
+  "overview": "Argentine trap star Duki gives an intimate look at his past and career, from early rap battles to his rise as a verified hitmaker in this documentary.",
+  "posterPath": "/9CSTzX1pUrNLD7lsJ8h9hRFJtLQ.jpg",
+  "rating": 8.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-02",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-10-02"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Rockstar: DUKI from the End of the World",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "S9fgap15R8E",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 35,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1546933-rockstar-duki-desde-el-fin-del-mundo/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1546933-rockstar-duki-desde-el-fin-del-mundo/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1546933-rockstar-duki-desde-el-fin-del-mundo/watch?locale=US",
+      "rent": []
+    }
+  }
+}

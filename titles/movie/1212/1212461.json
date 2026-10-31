@@ -1,0 +1,324 @@
+{
+  "backdropPath": "/77aCeoWOA5toCWk67lTAzrfW92Y.jpg",
+  "cast": [
+    {
+      "character": "Conor / Ixaroth",
+      "id": 1748300,
+      "name": "Albert Birney",
+      "profilePath": "/h8rKH6qE63UzSMFUn7i1BA8qB0B.jpg"
+    },
+    {
+      "character": "Sandy",
+      "id": 6015042,
+      "name": "Dorothy the Dog",
+      "profilePath": "/8bEb3AYMwF9wOB0c6WEagfzGCRe.jpg"
+    },
+    {
+      "character": "Mary",
+      "id": 1486488,
+      "name": "Callie Hernandez",
+      "profilePath": "/doMXlhTAYCy8gH43yYA6m9ymxhd.jpg"
+    },
+    {
+      "character": "Mom",
+      "id": 3028002,
+      "name": "Paisley Isaacs",
+      "profilePath": null
+    },
+    {
+      "character": "Victor",
+      "id": 1162439,
+      "name": "Frank Mosley",
+      "profilePath": "/4V3otUE2lktA6wyooya7QluisxU.jpg"
+    },
+    {
+      "character": "Knight / Nightmare Man / Ixaroth",
+      "id": 2895795,
+      "name": "Tyler Davis",
+      "profilePath": "/1H9Gdlw93nqj2fm0iG7Pt94MJvo.jpg"
+    },
+    {
+      "character": "Cicada Soldier",
+      "id": 4435424,
+      "name": "Paul Oh",
+      "profilePath": null
+    },
+    {
+      "character": "Woman in Field",
+      "id": 5217453,
+      "name": "Gloria Probably",
+      "profilePath": null
+    },
+    {
+      "character": "Man in Field",
+      "id": 4587054,
+      "name": "Nate Krimmel",
+      "profilePath": null
+    },
+    {
+      "character": "Voice of Ixaroth (voice)",
+      "id": 1763334,
+      "name": "Nicholas Gurewitch",
+      "profilePath": "/qlcRu6IHSfeRLfuuA5ayAGfSrfo.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 72768,
+      "logoPath": "/uLRLaFCxwy1OZqvEWYfycpRJAXq.png",
+      "name": "Cartuna"
+    },
+    {
+      "id": 247048,
+      "logoPath": null,
+      "name": "True Friend"
+    },
+    {
+      "id": 114130,
+      "logoPath": "/4qWbeq1VqAH1RSCBFvCNkkY5Qi8.png",
+      "name": "Ley Line Entertainment"
+    },
+    {
+      "id": 87458,
+      "logoPath": null,
+      "name": "Salem Street Entertainment"
+    },
+    {
+      "id": 161546,
+      "logoPath": null,
+      "name": "Spartan Media Acquisitions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-02-06",
+  "externalIds": {
+    "imdbId": "tt29544916",
+    "wikidataId": "Q131471444"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 28,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1212461,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Obex",
+  "overview": "داستان مردی به‌نام کانر که هم‌زمان با شروع یک بازی به‌نام اوبکس، سگ‌اش را گم می‌کند و برای نجات‌اش باید وارد دنیای اوبکس شود.",
+  "posterPath": "/989voQxc9qAJKuBaoBHngqnpLsD.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-03-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-06",
+      "gapDays": 28,
+      "theatricalDate": "2026-01-09"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-03-09",
+      "premiere": "2026-03-02"
+    },
+    "US": {
+      "digital": "2026-02-06",
+      "premiere": "2025-01-25",
+      "theatrical": "2026-01-09"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "It's just a game...",
+  "theatricalDate": "2026-01-09",
+  "title": "Obex",
+  "translations": {
+    "faOverview": "داستان مردی به‌نام کانر که هم‌زمان با شروع یک بازی به‌نام اوبکس، سگ‌اش را گم می‌کند و برای نجات‌اش باید وارد دنیای اوبکس شود.",
+    "faTitle": "اوبکس"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "sTzpC2tpO7I",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "GOwsVeikA64",
+      "name": "Meet the Artist 2025: Albert Birney on “OBEX”",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 24,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1212461-obex/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2785,
+          "logoPath": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+          "name": "JustWatch TV Plus"
+        },
+        {
+          "id": 455,
+          "logoPath": "/acUxuVlP96MVPbUdxdGu0pUHTht.png",
+          "name": "Night Flight Plus"
+        }
+      ],
+      "free": [
+        {
+          "id": 2285,
+          "logoPath": "/dMMp97ZdEkokwbdjqeM12Xk0acu.png",
+          "name": "JustWatch TV Free"
+        },
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        },
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1212461-obex/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

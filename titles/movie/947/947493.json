@@ -1,0 +1,187 @@
+{
+  "backdropPath": "/3e0Lzs4vDSHjRULFw6vPI4jyHd6.jpg",
+  "cast": [
+    {
+      "character": "Christophe (voice)",
+      "id": 5951467,
+      "name": "Gary Clichy",
+      "profilePath": null
+    },
+    {
+      "character": "JB (voice)",
+      "id": 1437681,
+      "name": "Rod Paradot",
+      "profilePath": "/6ks9zfw3IFcz6t2IAhokM90D5E1.jpg"
+    },
+    {
+      "character": "Jean (voice)",
+      "id": 5951466,
+      "name": "Dimitri Colas",
+      "profilePath": null
+    },
+    {
+      "character": "Catherine (voice)",
+      "id": 5951468,
+      "name": "Aurélie Vassort",
+      "profilePath": null
+    },
+    {
+      "character": "Clara (voice)",
+      "id": 3573176,
+      "name": "Brune Moulin",
+      "profilePath": null
+    },
+    {
+      "character": "Michel (voice)",
+      "id": 47826,
+      "name": "Alexandre Astier",
+      "profilePath": "/itQkV39IyDouF7lWy9xmwJdgy3f.jpg"
+    },
+    {
+      "character": "The Priest (voice)",
+      "id": 1496508,
+      "name": "Jean-Pascal Zadi",
+      "profilePath": "/wkI3RmKxNMtxNBOfSpgMgQsR53K.jpg"
+    },
+    {
+      "character": "Alcide (voice)",
+      "id": 6561191,
+      "name": "Antoine Philippe",
+      "profilePath": null
+    },
+    {
+      "character": "Sophie (voice)",
+      "id": 1308631,
+      "name": "Margaux Vallé",
+      "profilePath": null
+    },
+    {
+      "character": "The Bailiff (voice)",
+      "id": 1595982,
+      "name": "Axel Huet",
+      "profilePath": "/tRVnpLzyrGCAWpVILkBFrkCOwot.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 91403,
+      "logoPath": "/a1vPtWR482znfPhGDufoarPv8p1.png",
+      "name": "eddy"
+    },
+    {
+      "id": 193498,
+      "logoPath": "/grDzFY7347YKDLrMYnihbmo8ZOQ.png",
+      "name": "Beside Productions"
+    },
+    {
+      "id": 591,
+      "logoPath": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma"
+    },
+    {
+      "id": 109756,
+      "logoPath": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+      "name": "Auvergne-Rhône-Alpes Cinéma"
+    },
+    {
+      "id": 177176,
+      "logoPath": "/wzGPCbmoNDhwKDhsxtRSgoAjib0.png",
+      "name": "Regular Production"
+    },
+    {
+      "id": 792,
+      "logoPath": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+      "name": "RTBF"
+    },
+    {
+      "id": 216091,
+      "logoPath": null,
+      "name": "Eddy Cinéma"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36639956",
+    "wikidataId": "Q139623089"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 947493,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Le Corset",
+  "overview": "In rural France, 10-year-old Christophe tries to live up to his rigid and distant father on the family farm. But the young boy starts to lean over and collapse without warning — on the tractor, at school, at dinner... A doctor finds the solution: Christophe must wear an iron corset to keep himself upright. Forced to reinvent his life away from the farm, Christophe discovers a new passion for music, meets a new friend, and follows her into his first mischief. But will any of this really fix what is out of balance?",
+  "posterPath": "/aXNm7mgW22mxCSwSV7i7GHjy6Ga.jpg",
+  "rating": 7.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-01-22"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-10-11"
+    },
+    "US": {
+      "premiere": "2026-09-26",
+      "theatricalLimited": "2027-01-22"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2027-01-22",
+  "title": "Iron Boy",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 35,
+  "watchProviders": {}
+}

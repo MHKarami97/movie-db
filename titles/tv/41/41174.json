@@ -1,0 +1,137 @@
+{
+  "backdropPath": "/1jQNr3FzQjPGAkimq3uVqDjl4Xo.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1855610,
+      "name": "Tanja Mairhofer",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 1855611,
+      "name": "André Gatzke",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 46,
+      "logoPath": "/3xFdKHLXPGHEbrAkmsepGE8974Y.png",
+      "name": "WDR"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "2007-09-10",
+  "externalIds": {
+    "imdbId": "tt1198168",
+    "wikidataId": "Q735790"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "id": 41174,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-05",
+    "episodeNumber": 357,
+    "id": 7910658,
+    "name": "Episode 357",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Die Sendung mit dem Elefanten",
+  "overview": "",
+  "posterPath": "/qRuYgCQd3j4hkIlnGBnFwv6YXu2.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2007-09-10",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2007-09-10",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2007-09-10",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2007-09-10",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2007-09-10"
+    },
+    "CN": {
+      "tv": "2007-09-10"
+    },
+    "GB": {
+      "tv": "2007-09-10"
+    },
+    "US": {
+      "tv": "2007-09-10"
+    }
+  },
+  "runtime": 25,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2023-12-29",
+      "episodeCount": 6,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2007-09-10",
+      "episodeCount": 488,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Die Sendung mit dem Elefanten",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

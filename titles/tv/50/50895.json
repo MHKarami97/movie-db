@@ -1,0 +1,159 @@
+{
+  "backdropPath": "/dgRGG6x56500Bd1n9KdkVpVgnkg.jpg",
+  "cast": [
+    {
+      "character": "Bohdan Švarc",
+      "id": 1253582,
+      "name": "Martin Zounar",
+      "profilePath": "/nbSXf6ezgGZliuROcghsck4lTC0.jpg"
+    },
+    {
+      "character": "Běla Páleníková",
+      "id": 575101,
+      "name": "Zlata Adamovská",
+      "profilePath": "/1QA9VJXTEjam2iEUtmfKYVTn9I.jpg"
+    },
+    {
+      "character": "Čestmír Mázl",
+      "id": 1259772,
+      "name": "Petr Rychlý",
+      "profilePath": "/5YwUGOWtpO4j2RJOy4QLGSjlUAS.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 119646,
+      "logoPath": null,
+      "name": "CET 21"
+    },
+    {
+      "id": 31292,
+      "logoPath": "/6EeaMNiKbomWHsB5jq5W5vflOj2.png",
+      "name": "TV Nova"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "digitalDate": "2005-09-06",
+  "externalIds": {
+    "imdbId": "tt0924182",
+    "wikidataId": "Q11740140"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 50895,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "cs",
+      "name": "Czech"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-26",
+    "episodeNumber": 1266,
+    "id": 7730981,
+    "name": "Episode 1266",
+    "overview": "",
+    "seasonNumber": 2
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-02",
+    "episodeNumber": 1267,
+    "id": 7730982,
+    "name": "Episode 1267",
+    "overview": "",
+    "seasonNumber": 2
+  },
+  "originalTitle": "Ordinace v růžové zahradě",
+  "overview": "Ordinace v růžové zahradě je původní český televizní seriál z lékařského prostředí, který vysílá televize Nova. Seriál se začal vysílat 6. září 2005. Nejprve vyprávěl životní osudy lékařů soukromé gynekologické kliniky, jejich příbuzných a přátel, od 15. ledna 2008 se seriál pod názvem Ordinace v růžové zahradě 2 zaměřuje na prostředí chirurgie, plastické chirurgie a pediatrie. Děj se odehrává ve fiktivní obci Kamenice.",
+  "posterPath": "/lI0YdSKZXWG5DHcjpgILH9IqyZE.jpg",
+  "rating": 4.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2005-09-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2005-09-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2005-09-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2005-09-06",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2005-09-06"
+    },
+    "CN": {
+      "tv": "2005-09-06"
+    },
+    "GB": {
+      "tv": "2005-09-06"
+    },
+    "US": {
+      "tv": "2005-09-06"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2006-06-29",
+      "episodeCount": 6,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2005-09-06",
+      "episodeCount": 195,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/8THoSr7aNtfrxen4wwE1WEIw9mf.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2008-01-15",
+      "episodeCount": 1271,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/uipXKqkgjIZkb0WYpVwZIAhZKXC.jpg",
+      "seasonNumber": 2
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Ordinace v růžové zahradě",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 8,
+  "watchProviders": {}
+}

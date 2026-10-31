@@ -1,0 +1,225 @@
+{
+  "backdropPath": "/m2rfjZx3jzkJ1DVDIZ1n6dRRMQc.jpg",
+  "cast": [
+    {
+      "character": "Pumpkin",
+      "id": 1945702,
+      "name": "Milly Shapiro",
+      "profilePath": "/5QVwZttyqVDl0M3AKwe0SDU8S5R.jpg"
+    },
+    {
+      "character": "Thalia",
+      "id": 27855,
+      "name": "Shannyn Sossamon",
+      "profilePath": "/h7oiKMaoq0J5DM3PBZxffF9uJo4.jpg"
+    },
+    {
+      "character": "Wendy",
+      "id": 2027170,
+      "name": "Ajani Russell",
+      "profilePath": "/8AsPogz7iLDmKIQqeRf24UAQsEs.jpg"
+    },
+    {
+      "character": "Royce",
+      "id": 74133,
+      "name": "AJ Bowen",
+      "profilePath": "/fGSSDkxLOkaUNj1VLHEg6ZPi3Jw.jpg"
+    },
+    {
+      "character": "Wax",
+      "id": 3979287,
+      "name": "Taylor Valentine Lupini",
+      "profilePath": "/pyBl3OUxzMrggYyPm0sEUgHwGiq.jpg"
+    },
+    {
+      "character": "Breather",
+      "id": 1826460,
+      "name": "Victor Plajas",
+      "profilePath": "/mWnrtjy3TEmlMzGEILCuXIOjrWs.jpg"
+    },
+    {
+      "character": "Gauze",
+      "id": 4651048,
+      "name": "Bobby McFarlane",
+      "profilePath": "/oz4Yi1FfZ26UY9ZbYedpyneBNW5.jpg"
+    },
+    {
+      "character": "Worm",
+      "id": 5407447,
+      "name": "Logan Beveridge",
+      "profilePath": null
+    },
+    {
+      "character": "Mother",
+      "id": 3195529,
+      "name": "Emmajane Hoffman",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 245799,
+      "logoPath": null,
+      "name": "Strange Aeons"
+    },
+    {
+      "id": 218062,
+      "logoPath": null,
+      "name": "The Spitting Image"
+    },
+    {
+      "id": 227041,
+      "logoPath": null,
+      "name": "The Dazey Phase Production Company"
+    },
+    {
+      "id": 88582,
+      "logoPath": "/zf2Akd6JvRZlnd1OacHYaN5dj0k.png",
+      "name": "Cinetic Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-16",
+  "externalIds": {
+    "imdbId": "tt29703555",
+    "wikidataId": "Q140067879"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1393929,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Hallowarrior",
+  "overview": "Pumpkin, the last girl on earth and sole survivor of a humanity-ending plague, scavenges the wasteland for supplies on the eve of Halloween. Pumpkin’s lonely holiday ritual is interrupted by the arrival of a savage gang of raiders at her doorstep, led by the fearsome Thalia. Outnumbered and armed with candy, wit and weapons, Pumpkin must ferociously fight back to survive the night.",
+  "posterPath": "/kwbCAGU3yV06GLq9FZd6MVltWGo.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-10-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-16",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-10-16"
+    },
+    "US": {
+      "digital": "2026-10-16",
+      "premiere": "2026-06-10"
+    }
+  },
+  "runtime": 80,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The whole world is a haunted house.",
+  "theatricalDate": null,
+  "title": "Hallowarrior",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "peeB2FxGgIY",
+      "name": "Hallowarrior | Official Trailer | Horror Brains",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "ORjn6ox53_U",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 13,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        },
+        {
+          "id": 204,
+          "logoPath": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+          "name": "Shudder Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1393929-hallowarrior/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1854,
+          "logoPath": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 526,
+          "logoPath": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+          "name": "AMC+"
+        },
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1393929-hallowarrior/watch?locale=US",
+      "rent": []
+    }
+  }
+}

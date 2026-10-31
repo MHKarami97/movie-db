@@ -1,0 +1,225 @@
+{
+  "backdropPath": "/zAozwV3l9bvcGzDUsDYvbOryBKY.jpg",
+  "cast": [
+    {
+      "character": "罗小黑 (voice)",
+      "id": 1907244,
+      "name": "Xin Shan",
+      "profilePath": "/3QLlwAkrcI0On0nA7tPBulGglxG.jpg"
+    },
+    {
+      "character": "罗小白 (voice)",
+      "id": 1907244,
+      "name": "Xin Shan",
+      "profilePath": "/3QLlwAkrcI0On0nA7tPBulGglxG.jpg"
+    },
+    {
+      "character": "阿根 (voice)",
+      "id": 1907244,
+      "name": "Xin Shan",
+      "profilePath": "/3QLlwAkrcI0On0nA7tPBulGglxG.jpg"
+    },
+    {
+      "character": "山新(voice)",
+      "id": 1907244,
+      "name": "Xin Shan",
+      "profilePath": "/3QLlwAkrcI0On0nA7tPBulGglxG.jpg"
+    },
+    {
+      "character": "谛听 (voice)",
+      "id": 1907243,
+      "name": "Zhen Wang",
+      "profilePath": "/oX0JkT8skvJTELCYvpZCwRz4EZA.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 152035,
+      "logoPath": "/uh2Q6PLOOy9HZPIM5Hn92IPn2XY.png",
+      "name": "HMCH"
+    },
+    {
+      "id": 130588,
+      "logoPath": "/xg3PzKFsYxTsbqWlYVR70HNZNI9.png",
+      "name": "MTJJ"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "digitalDate": "2011-03-17",
+  "episodes": {
+    "2": [
+      {
+        "airDate": "2026-10-30",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 8
+      },
+      {
+        "airDate": "2026-11-06",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-13",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-20",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-27",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-04",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "lxhcat",
+    "imdbId": "tt10912430",
+    "twitterId": "lxhcat",
+    "wikidataId": "Q15915049"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "id": 88319,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-30",
+    "episodeNumber": 41,
+    "id": 6803610,
+    "name": "Episode 41",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-06",
+    "episodeNumber": 2,
+    "id": 7976425,
+    "name": "Episode 2",
+    "overview": "",
+    "seasonNumber": 2
+  },
+  "originalTitle": "罗小黑战记",
+  "overview": "The story begins on a rainy night, when a homeless little black cat is brought home by a young girl Luo Xiaobai. She names the cat Luo Xiao Hei. However, Luo Xiao Hei is no ordinary cat: he is a supernatural entity that hosts several small creatures called Heixiu. As Luo Xiao Hei new life soon threatened by the mysterious Diting, who commands three winged wolves.",
+  "posterPath": "/1BfuESuEwnahwRwIXQeLLv87lB.jpg",
+  "rating": 9.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2011-03-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2011-03-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2011-03-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2011-03-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2011-03-17"
+    },
+    "CN": {
+      "tv": "2011-03-17"
+    },
+    "GB": {
+      "tv": "2011-03-17"
+    },
+    "US": {
+      "tv": "2011-03-17"
+    }
+  },
+  "runtime": 7,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2011-07-10",
+      "episodeCount": 5,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/bDhBjhFknuPx3mcCInuTa3XaQmw.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2011-03-17",
+      "episodeCount": 45,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/1BfuESuEwnahwRwIXQeLLv87lB.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2026-10-30",
+      "episodeCount": 6,
+      "name": "The Gate of All Living Beings",
+      "overview": "",
+      "posterPath": "/egintNFPx01rVMkXC2Bwo0I6aYS.jpg",
+      "seasonNumber": 2
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Legend of Luo Xiaohei",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 24,
+  "watchProviders": {}
+}

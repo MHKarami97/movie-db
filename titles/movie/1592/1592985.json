@@ -1,0 +1,170 @@
+{
+  "backdropPath": "/Aw7BP3bOYvXUPZ7ku1T6pfcXkLd.jpg",
+  "cast": [
+    {
+      "character": "Rowan",
+      "id": 2371269,
+      "name": "Ryan de Villiers",
+      "profilePath": "/6vFST9fguyVwBYg7m5CZPgyycbG.jpg"
+    },
+    {
+      "character": "Mag",
+      "id": 2756501,
+      "name": "Jane de Wet",
+      "profilePath": "/m7KrFsrfN4wg1ygT8zXGnINDAJc.jpg"
+    },
+    {
+      "character": "Opal",
+      "id": 2330538,
+      "name": "Adore Delano",
+      "profilePath": "/l1qWBiu4V1ET1OXIcLEqMyxTwVZ.jpg"
+    },
+    {
+      "character": "Davey",
+      "id": 146752,
+      "name": "Darron Meyer",
+      "profilePath": "/t5nDBaqALmeQkBlUOZDG2KBTM1v.jpg"
+    },
+    {
+      "character": "Brady",
+      "id": 2371270,
+      "name": "Matthew Vey",
+      "profilePath": "/6RkHpa6ypBZ0DEBjKcfCrQ1dewE.jpg"
+    },
+    {
+      "character": "Jude",
+      "id": 1883295,
+      "name": "Frances Sholto-Douglas",
+      "profilePath": "/VHKIiSjKyfcRFz1VbL35C6hC4r.jpg"
+    },
+    {
+      "character": "KC",
+      "id": 2714382,
+      "name": "Anja Taljaard",
+      "profilePath": "/lL4qXNq93kKg1DQNDZZG68D4T9t.jpg"
+    },
+    {
+      "character": "Junior Exec",
+      "id": 5730118,
+      "name": "Magana Ngaiza",
+      "profilePath": null
+    },
+    {
+      "character": "Nurse",
+      "id": 2123157,
+      "name": "Robyn Scott",
+      "profilePath": "/ghOJ3qcKCR0tyILouZHmQEXctqO.jpg"
+    },
+    {
+      "character": "Property Manager",
+      "id": 3628373,
+      "name": "Alice Viskat",
+      "profilePath": "/4tu5zJb71CsY4j1kP9YKt38LOIf.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 156309,
+      "logoPath": null,
+      "name": "Blue Ice Africa"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "digitalDate": "2025-12-12",
+  "externalIds": {
+    "imdbId": "tt38704743"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1592985,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Hag",
+  "overview": "After a decade apart, Rowan rents his spare room to Mag - a self-proclaimed \"hag\"- whose obsession with him grows into a life-or-death showdown.",
+  "posterPath": "/cYJNq6NBb4J7itRfpshNqeJbqbE.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-12-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-12-12"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Hag",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "JbuWuf94_xo",
+      "name": "Hag | Official Trailer | Tubi Original",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1592985-hag/watch?locale=US",
+      "rent": []
+    }
+  }
+}

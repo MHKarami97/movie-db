@@ -1,0 +1,182 @@
+{
+  "backdropPath": "/ave6mCXAuTx1bC3NrCQSakGe5w0.jpg",
+  "cast": [
+    {
+      "character": "Olivia",
+      "id": 205982,
+      "name": "Heather Hemmens",
+      "profilePath": "/dVwYV1oVQYeyvlEm0a6rFVYBmEO.jpg"
+    },
+    {
+      "character": "Luke",
+      "id": 129298,
+      "name": "Brendan Penny",
+      "profilePath": "/cgjw8TR9J9zicgGWuzdXdcE9aQK.jpg"
+    },
+    {
+      "character": "Young Olivia",
+      "id": 6320525,
+      "name": "Ayla Alger",
+      "profilePath": "/oChZWVU3JypLZKlyduHX76IaH9j.jpg"
+    },
+    {
+      "character": "Young Luke",
+      "id": 6271411,
+      "name": "Sawyer Watters",
+      "profilePath": "/gRqCwKL1Okk6Qi0oA5YsSd7FzCa.jpg"
+    },
+    {
+      "character": "June",
+      "id": 2251466,
+      "name": "Kaylah Zander",
+      "profilePath": "/tmSDXtHbIiaFycwpA7YfpUo3to4.jpg"
+    },
+    {
+      "character": "Aunt Ruby",
+      "id": 62716,
+      "name": "BJ Harrison",
+      "profilePath": "/kw3KgdTMCgonWfVQcYiQe7hXYnM.jpg"
+    },
+    {
+      "character": "Mason",
+      "id": 231081,
+      "name": "Nathan Witte",
+      "profilePath": "/oLRTmhoo4IFf8piUcZn7qjm4ODr.jpg"
+    },
+    {
+      "character": "Bryan Boone",
+      "id": 1722080,
+      "name": "Zach Smadu",
+      "profilePath": "/vMqFtG8Cf85dh0cOYCqzptyCTmi.jpg"
+    },
+    {
+      "character": "Meryl James",
+      "id": 105865,
+      "name": "Loretta Walsh",
+      "profilePath": "/ahmsLpipz8w6D7gXP9Dq054gg0F.jpg"
+    },
+    {
+      "character": "Dr. Bill",
+      "id": 4643568,
+      "name": "Johnny V Wright",
+      "profilePath": "/eiAWe8hnB5Dh4jUpySCOEBKYtYb.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 6345,
+      "logoPath": "/pctomojbRLZNdYB0muFoZiaYdPI.png",
+      "name": "Lighthouse Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt42277796"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1686831,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Texas Two-Step",
+  "overview": "When a woman returns to Texas to help save her aunt's struggling country music bar, she reconnects with her childhood sweetheart turned cowboy and rekindles her lost passion for dancing.",
+  "posterPath": "/7nucaGVe1vCE3ilWgDskFrQrtiK.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2026-06-13"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Texas Two-Step",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "2qCPciPvsGE",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 2528,
+          "logoPath": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+          "name": "YouTube TV"
+        },
+        {
+          "id": 290,
+          "logoPath": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "id": 2058,
+          "logoPath": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "id": 1746,
+          "logoPath": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1686831-texas-two-step/watch?locale=US",
+      "rent": []
+    }
+  }
+}

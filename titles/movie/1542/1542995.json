@@ -1,0 +1,199 @@
+{
+  "backdropPath": "/wUlvM4v5FUjM2omyld9ULVHONZA.jpg",
+  "cast": [
+    {
+      "character": "Rashid Uddin",
+      "id": 938928,
+      "name": "Mosharraf Karim",
+      "profilePath": "/6cGP2k6wblQqwyfGdPWyFDWr0wT.jpg"
+    },
+    {
+      "character": "Abul Khair Khan",
+      "id": 150410,
+      "name": "Chanchal Chowdhury",
+      "profilePath": "/46ebiphxjeUP4T1JCGp6G4DAyQL.jpg"
+    },
+    {
+      "character": "Dr. Ashhab",
+      "id": 2473295,
+      "name": "Sariful Razz",
+      "profilePath": "/nRlFXqXAfG4yGYvSxZ9OqoXahuB.jpg"
+    },
+    {
+      "character": "Chitra",
+      "id": 2119377,
+      "name": "Sabila Nur",
+      "profilePath": "/7xhYs2NQjQcNt1PChhK9FqbCWFr.jpg"
+    },
+    {
+      "character": "Aziz",
+      "id": 2849715,
+      "name": "Shamol Mawla",
+      "profilePath": "/81iEoLRLEcEezeyY2DjYTlOwGHB.jpg"
+    },
+    {
+      "character": "Afia",
+      "id": 2098919,
+      "name": "Zakia Bari Mamo",
+      "profilePath": "/ccYOrBbt6SRlNRHnyErnlngHHWw.jpg"
+    },
+    {
+      "character": "Shurma",
+      "id": 3113623,
+      "name": "Azmeri Haque Badhon",
+      "profilePath": "/chH09tG9J8ZhOm8XM21CgO0uyaq.jpg"
+    },
+    {
+      "character": "Sajeda",
+      "id": 2104225,
+      "name": "Shamima Nazneen",
+      "profilePath": "/fuWqLvU1BPaJCBT7Knn01k7sVl1.jpg"
+    },
+    {
+      "character": "Nitu",
+      "id": 5463784,
+      "name": "Tridha Paul Maan",
+      "profilePath": "/8lnTFSBH7QlZsIIxZ3bGWvIQINR.jpg"
+    },
+    {
+      "character": "Shudhir Chandra Das",
+      "id": 3149558,
+      "name": "A.K. Azad Shetu",
+      "profilePath": "/vwZhPEWjDOtaiwyKy7ZjFzvDTG9.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 277318,
+      "logoPath": "/uEVHFL6u5nYiwzKwxmruwMhRFR4.png",
+      "name": "Buriganga Talkies"
+    },
+    {
+      "id": 200270,
+      "logoPath": null,
+      "name": "Hoichoi Studios"
+    },
+    {
+      "id": 131163,
+      "logoPath": "/9Ro9nFRu94ubRd07lRaN86pzrx.png",
+      "name": "Dope Productions"
+    },
+    {
+      "id": 299838,
+      "logoPath": null,
+      "name": "Hoichoi (BD)"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38792109",
+    "wikidataId": "Q138674314"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1542995,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "bn",
+      "name": "Bengali"
+    }
+  ],
+  "originalTitle": "বনলতা এক্সপ্রেস",
+  "overview": "On a foggy winter journey, the Bonolota Express carries strangers burdened by secrets whose lives begin to collide within the train’s confined corridors. As the night unfolds, personal and political crises erupt, exposing hidden grief, moral decay, and moments of unexpected compassion amid chaos and revolt. By dawn, the train moves on, leaving its passengers irrevocably changed by a single journey where illusions collapse and human truths emerge.",
+  "posterPath": "/h6nITbbSobZ0EwU6Dcw6LGZOZYA.jpg",
+  "rating": 8.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-03"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-03"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-04-03"
+    },
+    "US": {
+      "theatrical": "2026-04-03"
+    }
+  },
+  "runtime": 153,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-04-03",
+  "title": "Bonolota Express",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "ZTZUaHsfR8o",
+      "name": "Bonolota Express | Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "CEAZeaShSGQ",
+      "name": "Bonolota Express | First Look",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 18,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2176,
+          "logoPath": "/k0ysPvZwKtZpeLQJJJVZWnyhmTW.png",
+          "name": "Hoichoi Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1542995/watch?locale=GB",
+      "rent": []
+    }
+  }
+}

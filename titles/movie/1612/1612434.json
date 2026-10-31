@@ -1,0 +1,142 @@
+{
+  "backdropPath": "/kHWpCUd41muRgMtQyswd6sDsFCt.jpg",
+  "cast": [
+    {
+      "character": "Jordyn / Justine",
+      "id": 58962,
+      "name": "Drew Sidora",
+      "profilePath": "/c5MS6LDxovNCLlLLpxy1ClmFRNI.jpg"
+    },
+    {
+      "character": "Adam",
+      "id": 1228879,
+      "name": "Jensen Atwood",
+      "profilePath": "/51p9F7sMfgiak2GZ7kv9PGGEVDR.jpg"
+    },
+    {
+      "character": "Priscilla",
+      "id": 3634613,
+      "name": "Chrissy Stokes",
+      "profilePath": null
+    },
+    {
+      "character": "Mike",
+      "id": 1432721,
+      "name": "Ken Lawson",
+      "profilePath": "/ewtIfsp0MI6mVp4jHHcLdHLF728.jpg"
+    },
+    {
+      "character": "Dr. Morris",
+      "id": 5954631,
+      "name": "Cynthia Moten",
+      "profilePath": null
+    },
+    {
+      "character": "James",
+      "id": 2453996,
+      "name": "Ek Harris",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 89529,
+      "logoPath": "/neOq7I2WkeBOrCR7PiPadbzEVQo.png",
+      "name": "Footage Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-01-23",
+  "externalIds": {
+    "imdbId": "tt39094274"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1612434,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Twin",
+  "overview": "Fresh out of prison for murder, a ruthless woman schemes to replace her twin sister and claim her flawless life by any means necessary.",
+  "posterPath": "/wonJ8nw58Bi0mMAaGKyBdGpxSFY.jpg",
+  "rating": 4.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-01-23",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-01-23"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A child with a dark side",
+  "theatricalDate": null,
+  "title": "Twin",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "lay51bqi2d8",
+      "name": "Twin | Official Trailer | Tubi Original",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1612434-twin/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "backdropPath": "/1pI2Crm9YjSDbH75NZaW8FrYjs9.jpg",
+  "cast": [
+    {
+      "character": "Derek",
+      "id": 2174509,
+      "name": "Mason Gooding",
+      "profilePath": "/bmlry1xqBzNgv8Chm783ss93Cvg.jpg"
+    },
+    {
+      "character": "Kevin",
+      "id": 1377458,
+      "name": "Algee Smith",
+      "profilePath": "/8lSjFECJflwHJJGt5e7CqyItXW2.jpg"
+    },
+    {
+      "character": "Tyon",
+      "id": 1442955,
+      "name": "Keith Powers",
+      "profilePath": "/bfoMj1r97HnPWRchVuyJlqko6aW.jpg"
+    },
+    {
+      "character": "Jacob",
+      "id": 19210,
+      "name": "James Van Der Beek",
+      "profilePath": "/romoF6aNi4v9UcUqRSElfeDvBuJ.jpg"
+    },
+    {
+      "character": "Christopher",
+      "id": 60677,
+      "name": "Brad Leland",
+      "profilePath": "/3jWExZ1SpkMvZtZiKnfiH3HCfSp.jpg"
+    },
+    {
+      "character": "Officer Bobby",
+      "id": 3264041,
+      "name": "Kylr Coffman",
+      "profilePath": "/yJByP7Umju2FjCY16ePt9wRRPTZ.jpg"
+    },
+    {
+      "character": "Elizabeth",
+      "id": 1517627,
+      "name": "Elle Evans",
+      "profilePath": "/cj3SIzn5z73IXq9GSqRgUkwaeN7.jpg"
+    },
+    {
+      "character": "Roxy",
+      "id": 1600083,
+      "name": "Sofia Hublitz",
+      "profilePath": "/A1nSqZXtKJwuQXDGrhmYa0CP0cZ.jpg"
+    },
+    {
+      "character": "Julissa",
+      "id": 4983208,
+      "name": "Aliyah Celeste",
+      "profilePath": null
+    },
+    {
+      "character": "Officer Horton",
+      "id": 1691870,
+      "name": "Rob Gallavan",
+      "profilePath": "/qpt7h8cVL0N6636RzScuptJW2lN.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 41945,
+      "logoPath": "/3Lb6fsbpbXaeOfxtNk1xzn70QB9.png",
+      "name": "Indy Entertainment"
+    },
+    {
+      "id": 214050,
+      "logoPath": "/tH3zOqGk3MzCU9ZB7STpquI2Pd7.png",
+      "name": "Rebellium Films"
+    },
+    {
+      "id": 265836,
+      "logoPath": null,
+      "name": "Core 4 Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33303521",
+    "wikidataId": "Q138566603"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1366906,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Gates",
+  "overview": "Three friends on a road trip witness a murder inside a gated community, only to become trapped and hunted by its residents as suspicion, fear and a sinister patriarch threaten to tear them apart.",
+  "posterPath": "/dWMiHlKz0OsbVXEEZR3hYyWHcdq.jpg",
+  "rating": 7.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-04-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-03-13"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-04-17"
+    },
+    "US": {
+      "theatricalLimited": "2026-03-13"
+    }
+  },
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "One wrong turn. One long night.",
+  "theatricalDate": "2026-03-13",
+  "title": "The Gates",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "2CCDbcoQ2P4",
+      "name": "know what you saw?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "rooCFaczeXQ",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 109,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1366906-the-gates/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1366906-the-gates/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

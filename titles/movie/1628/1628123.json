@@ -1,0 +1,200 @@
+{
+  "backdropPath": "/rI9VPEw13XlVZzhOcLXt3Tiweyx.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1544084,
+      "name": "RM",
+      "profilePath": "/xotRaOk5UqdLIOoaJ2SKe3ffRGe.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1544088,
+      "name": "Jin",
+      "profilePath": "/cothCnRmZXC63olRZ816lZoGMDc.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1544086,
+      "name": "SUGA",
+      "profilePath": "/83xf9EkLK3k7CJSaXe3iVgBC6S3.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1544090,
+      "name": "j-hope",
+      "profilePath": "/2xZu36Z6JFT95AIzazyRHW51dC1.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1544092,
+      "name": "Jimin",
+      "profilePath": "/r1c7BrccHJ6oN6K4JAvJ9REcLBs.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1544093,
+      "name": "V",
+      "profilePath": "/jPCklfz8cAXfvRptmeNeYBa9Myf.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1544095,
+      "name": "Jung Kook",
+      "profilePath": "/2O7wrPFZtdfNJ5w6LGlIri3Xd0.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 4460,
+      "logoPath": "/kWuMbK7Nfk67O1TsjXD3iSperId.png",
+      "name": "Done+Dusted"
+    },
+    {
+      "id": 170163,
+      "logoPath": "/n6MAcCk8qpmze5bxCrAvQv0wXRJ.png",
+      "name": "HYBE"
+    },
+    {
+      "id": 288111,
+      "logoPath": "/fJOljiPejLyT9IS6oprDpbhMhg7.png",
+      "name": "Bighit Music"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": "2026-03-21",
+  "externalIds": {
+    "imdbId": "tt39578533"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1628123,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "originalTitle": "BTS 컴백 라이브: ARIRANG",
+  "overview": "BTS is back. The iconic group returns to the stage for a live reunion concert to perform legendary hits and unveil brand-new tracks.",
+  "posterPath": "/tztql23n2UCoM76KyCSKoZxVUL1.jpg",
+  "rating": 8.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-21",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-03-21"
+    }
+  },
+  "runtime": 66,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "BTS THE COMEBACK LIVE | ARIRANG",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "X6EHtzcmiPw",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 120,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1628123-bts-arirang/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1628123-bts-arirang/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1628123-bts-arirang/watch?locale=US",
+      "rent": []
+    }
+  }
+}

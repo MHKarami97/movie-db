@@ -1,0 +1,219 @@
+{
+  "backdropPath": "/21YKck5bSRcvRIXlVg6ZaV0k0sj.jpg",
+  "cast": [
+    {
+      "character": "Rose",
+      "id": 550402,
+      "name": "Xyriel Manabat",
+      "profilePath": "/pr8IdN13xfPLzoWGa899mxotJTj.jpg"
+    },
+    {
+      "character": "Jordan",
+      "id": 2465288,
+      "name": "Kyle Echarri",
+      "profilePath": "/7gwSnivPgHls5emadYolmmsDQLJ.jpg"
+    },
+    {
+      "character": "Rene",
+      "id": 1040553,
+      "name": "Cris Villanueva",
+      "profilePath": "/8Q2aXFnpk8ph1MmFQ39OrwRHxYE.jpg"
+    },
+    {
+      "character": "Tess",
+      "id": 113256,
+      "name": "Nikki Valdez",
+      "profilePath": "/oVjuGhNqLkxyAMeGIeeeMtDrgIZ.jpg"
+    },
+    {
+      "character": "Berta",
+      "id": 1021417,
+      "name": "Cai Cortez",
+      "profilePath": "/xxxp7ERGyfsVfTJQ5wjdEMQJBdn.jpg"
+    },
+    {
+      "character": "Mercy",
+      "id": 1058265,
+      "name": "Yayo Aguila",
+      "profilePath": "/gSOCogk9uEzpqFgRLVGbtNbOp38.jpg"
+    },
+    {
+      "character": "Ms. Melai",
+      "id": 2099420,
+      "name": "Donna Cariaga",
+      "profilePath": "/mqAziN0aLyVINTyO2eA4p5OxkEi.jpg"
+    },
+    {
+      "character": "Mara",
+      "id": 2251685,
+      "name": "Kira Balinger",
+      "profilePath": "/qA28f5LucP0jg3Yqiu6mZqDQEXr.jpg"
+    },
+    {
+      "character": "Gibo",
+      "id": 1383668,
+      "name": "VJ Mendoza",
+      "profilePath": "/jcq8JdANm5o5iJJUrw2F9hlBEq8.jpg"
+    },
+    {
+      "character": "Samgi",
+      "id": 1109596,
+      "name": "Timothy Castillo",
+      "profilePath": "/bA8TNafOtHFJ3OvWXVcKzkstNPh.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 144346,
+      "logoPath": null,
+      "name": "Clever Minds Inc."
+    }
+  ],
+  "countries": [
+    {
+      "code": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "digitalDate": "2026-04-09",
+  "externalIds": {
+    "imdbId": "tt39751309",
+    "wikidataId": "Q138412186"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1631917,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "tl",
+      "name": "Tagalog"
+    }
+  ],
+  "originalTitle": "18th Rose",
+  "overview": "A spirited teen dreaming of the perfect debut makes a deal with a lonely newcomer, but unexpected feelings and revelations may shatter their plans.",
+  "posterPath": "/6pUwaXT6tdA6sek8o6SdFYudJDj.jpg",
+  "rating": 7.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-09",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-04-09"
+    }
+  },
+  "runtime": 131,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "18th Rose",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "7ocRU1SGX7E",
+      "name": "18th Rose | Official Trailer | Netflix Philippines",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "FO7M5mwEUXY",
+      "name": "18th Rose | Official Clip | Netflix Philippines",
+      "official": true,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 31,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1631917-18th-rose/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1631917-18th-rose/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1631917-18th-rose/watch?locale=US",
+      "rent": []
+    }
+  }
+}

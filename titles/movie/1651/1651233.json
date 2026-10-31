@@ -1,0 +1,197 @@
+{
+  "backdropPath": "/hGgXH6s3klnWW3x2cbQYlrSVg0U.jpg",
+  "cast": [
+    {
+      "character": "José Sánchez",
+      "id": 1413394,
+      "name": "Adrián Vázquez",
+      "profilePath": "/cyhuSSuFA6DYKG3eI9w6VxPaUrs.jpg"
+    },
+    {
+      "character": "El Lobo",
+      "id": 2558356,
+      "name": "Jero Medina",
+      "profilePath": "/A8FWB4dw7qVF4fOrRcbnZM7qgXG.jpg"
+    },
+    {
+      "character": "Diego Partida",
+      "id": 1301519,
+      "name": "David Gaitán",
+      "profilePath": null
+    },
+    {
+      "character": "Lucía Partida",
+      "id": 2448601,
+      "name": "Verónica Bravo",
+      "profilePath": "/vwwlZuekgBFeUT1QXGnoSbq0tFD.jpg"
+    },
+    {
+      "character": "Malvárez",
+      "id": 590312,
+      "name": "Eduardo España",
+      "profilePath": "/qdqwOCZ9WbIG0YcFoe6cBuguO4H.jpg"
+    },
+    {
+      "character": "Maximiliano Arévalo",
+      "id": 1318740,
+      "name": "Rodrigo Virago",
+      "profilePath": "/yNgoecTpJhjZYSeWjVx6Jh6LGyW.jpg"
+    },
+    {
+      "character": "Joaquín Buendía",
+      "id": 966683,
+      "name": "Ianis Guerrero",
+      "profilePath": "/rv0noqkG02l1TpaTRHgNDVjVa5E.jpg"
+    },
+    {
+      "character": "Mago",
+      "id": 1659073,
+      "name": "Mauro Sánchez Navarro",
+      "profilePath": "/hZIgaYKSTl1HnxcyH3L4Ucm648t.jpg"
+    },
+    {
+      "character": "El Padrino",
+      "id": 7376,
+      "name": "Jorge Zárate",
+      "profilePath": "/jLUr9TFdVfDgNqF83jbgA6cXsNe.jpg"
+    },
+    {
+      "character": "José Sánchez",
+      "id": 5844905,
+      "name": "Ian Scott Castillo",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 21546,
+      "logoPath": "/nB186ByqKVBiuy9Nc3US9nlBst1.png",
+      "name": "Fabula"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CL",
+      "name": "Chile"
+    }
+  ],
+  "digitalDate": "2026-05-01",
+  "externalIds": {
+    "imdbId": "tt40660080"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1651233,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "El yerno",
+  "overview": "José Sánchez has big ambitions, terrible instincts, and a mustache to match. After a string of bad deals, he accidentally bluffs his way into becoming El Serpiente, a political boss feared for all the wrong reasons. Now he must pull off one final deal to stay alive — a deal far beyond anything he can fake.",
+  "posterPath": "/fRE3KlLo0tBBRtwxThqClvSgk0J.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-05-01"
+    }
+  },
+  "runtime": 102,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Son-in-Law",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 13,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1651233-el-yerno/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1651233-el-yerno/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1651233-el-yerno/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "backdropPath": "/weFG1yMIwVsjGr5YfdpltxpBh09.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 2717163,
+      "name": "Jamie Vardy",
+      "profilePath": "/kM0CC7s0lLYxNm27sDF5uffiACd.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 3127933,
+      "name": "Rebekah Vardy",
+      "profilePath": "/vTq6iUtZkK8fcuxbwXrni5NYQsc.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6225787,
+      "name": "Marc Albrighton",
+      "profilePath": "/7XsIBQdqMwRdkBmyqZqIcSBzO5v.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6225790,
+      "name": "Wes Morgan",
+      "profilePath": "/xncSwx8x32PRaLHOdRHxAozTTc7.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6127215,
+      "name": "Andy King",
+      "profilePath": "/ekVBwPF6xiBZ9Y9EG0dUwaE0uSQ.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6233159,
+      "name": "Nigel Pearson",
+      "profilePath": "/3wvAeu3w2EuCpQOiXDGGdO0Ydh3.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6233300,
+      "name": "John Morris",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6233301,
+      "name": "Brett Lovell",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6233302,
+      "name": "Dave Rennie",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6233303,
+      "name": "Ron Tanner",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 296308,
+      "logoPath": "/vwcGh1oraUJDoBjDdnJSYLfS6Xk.png",
+      "name": "Orchard Studios"
+    },
+    {
+      "id": 217638,
+      "logoPath": null,
+      "name": "Revue Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-05-12",
+  "externalIds": {
+    "imdbId": "tt41777258"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1684240,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Jamie Vardy",
+  "overview": "From part-time footballer to Premier League legend, this is the story of Jamie Vardy's unprecedented path and his rise to the top against all odds.",
+  "posterPath": "/d0pODTh6FOwn87iOeXGb7nKOdNT.jpg",
+  "rating": 7.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-05-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-05-12"
+    },
+    "US": {
+      "digital": "2026-05-12"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Jamie Vardy",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "q7taU9-vOAo",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 39,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1684240-jamie-vardy/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1684240-jamie-vardy/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1684240-jamie-vardy/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "backdropPath": "/uU6NBiVlJgdOt6EodmbEvs8tlpI.jpg",
+  "cast": [
+    {
+      "character": "Uncle Phol",
+      "id": 5488556,
+      "name": "Tanawat Tantiwaleeawat",
+      "profilePath": null
+    },
+    {
+      "character": "Nong Chompoo",
+      "id": 1266096,
+      "name": "Karin Sirirungnapat",
+      "profilePath": null
+    },
+    {
+      "character": "Aunt Taen",
+      "id": 5154856,
+      "name": "Sirisawat Kaewdam",
+      "profilePath": null
+    },
+    {
+      "character": "Aunt Thon",
+      "id": 5892206,
+      "name": "Laksanayaporn Sriutta",
+      "profilePath": null
+    },
+    {
+      "character": "Anamai",
+      "id": 4866787,
+      "name": "Phetkasem Suriyawongwongsa",
+      "profilePath": null
+    },
+    {
+      "character": "Father Bam",
+      "id": 5054707,
+      "name": "Somchai Mahachaicharoen",
+      "profilePath": null
+    },
+    {
+      "character": "Sawitree",
+      "id": 6297418,
+      "name": "Tanyatorn Kraikitithanawath",
+      "profilePath": null
+    },
+    {
+      "character": "Uncle Mok",
+      "id": 3603266,
+      "name": "Sutree Chanachai",
+      "profilePath": null
+    },
+    {
+      "character": "Nong Sading",
+      "id": 5473887,
+      "name": "Nelda Jeamton",
+      "profilePath": null
+    },
+    {
+      "character": "Monk Boonma",
+      "id": 3800698,
+      "name": "Werawat Jumroensarn",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 71519,
+      "logoPath": "/tp2GdaPoC7f0pY8ekGFqoedD4U4.png",
+      "name": "Beach House Pictures"
+    },
+    {
+      "id": 8972,
+      "logoPath": null,
+      "name": "Thai Films Works"
+    }
+  ],
+  "countries": [
+    {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    {
+      "code": "SG",
+      "name": "Singapore"
+    }
+  ],
+  "digitalDate": "2026-08-20",
+  "externalIds": {
+    "imdbId": "tt39750720"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1741201,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "th",
+      "name": "Thai"
+    }
+  ],
+  "originalTitle": "คดีชมพู่:​ เด็กหายที่ถูกลืม",
+  "overview": "When a young girl vanishes from a remote village, the frantic police hunt become a media frenzy. But who turned a suspected criminal into a celebrity?",
+  "posterPath": "/hrbzPEGyu33JyepFvSe6EkN35yq.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-08-20",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-08-20"
+    }
+  },
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The suspect who became a celebrity?",
+  "theatricalDate": null,
+  "title": "Chompoo: Lost​ &​ Forgotten​",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 14,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1741201/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1741201/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1741201/watch?locale=US",
+      "rent": []
+    }
+  }
+}

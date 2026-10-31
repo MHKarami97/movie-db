@@ -1,0 +1,103 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2027-12-31",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-12-31",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "Episode 1 overview",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt50004157"
+  },
+  "fetchedAt": 1794071861044,
+  "gapDays": null,
+  "genres": [],
+  "id": 341307,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-12-31",
+    "episodeNumber": 1,
+    "id": 8090331,
+    "name": "Episode 1",
+    "overview": "Episode 1 overview",
+    "seasonNumber": 1
+  },
+  "originalTitle": "These Summer Storms",
+  "overview": "Written by Apples Never Fall developer/showrunner Melanie Maich, These Summer Storms follows Alice Storm who hasn’t been welcome at her family’s magnificent private island off the Rhode Island coast in five years — not since she was cast out and built her life beyond the Storm name, influence, and untold billions. But the shocking death of her larger-than-life father changes everything.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-12-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-12-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-12-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-12-31",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-12-31"
+    },
+    "CN": {
+      "tv": "2027-12-31"
+    },
+    "GB": {
+      "tv": "2027-12-31"
+    },
+    "US": {
+      "tv": "2027-12-31"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-12-31",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Planned",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "These Summer Storms",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

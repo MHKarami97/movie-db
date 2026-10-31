@@ -1,0 +1,206 @@
+{
+  "backdropPath": "/8Tw90S4hVrvUoqmQWDoO6U4toZT.jpg",
+  "cast": [
+    {
+      "character": "Tommy Poole",
+      "id": 64856,
+      "name": "Michael Jai White",
+      "profilePath": "/YPoHYuzR37wFpPpwEXZYQlhLln.jpg"
+    },
+    {
+      "character": "Victor",
+      "id": 1183546,
+      "name": "Dan Bakkedahl",
+      "profilePath": "/zHDMTZe3Xjvut57oTZixURBNDHi.jpg"
+    },
+    {
+      "character": "Jason",
+      "id": 1754716,
+      "name": "Jim Carlson",
+      "profilePath": "/ex4wTvmJ1WJD8VtjQudHfXn9N1t.jpg"
+    },
+    {
+      "character": "Kristina",
+      "id": 2493733,
+      "name": "Jennifer Bond",
+      "profilePath": null
+    },
+    {
+      "character": "Jaime",
+      "id": 3359403,
+      "name": "Kate Duffy",
+      "profilePath": "/wvFcRc155rfwFQDXHgE217mhb5e.jpg"
+    },
+    {
+      "character": "Willard",
+      "id": 1057642,
+      "name": "Todd Jenkins",
+      "profilePath": "/jcIey9TN3dh5EIYBZeXhvvcyPdu.jpg"
+    },
+    {
+      "character": "Ray",
+      "id": 1779514,
+      "name": "Cale Schultz",
+      "profilePath": "/fjbYJtD0Ci2k7ImRgcKpNBbiruM.jpg"
+    },
+    {
+      "character": "Joseph",
+      "id": 1444823,
+      "name": "James Logan",
+      "profilePath": "/lDU0RO7bn4v0ebpH0wHvxYJ2RQp.jpg"
+    },
+    {
+      "character": "Recovery Nurse",
+      "id": 4416096,
+      "name": "Leanna Tallmeister",
+      "profilePath": "/sn8FB2Uo9iGygTAys3HMO8HkhPZ.jpg"
+    },
+    {
+      "character": "Officer Chapman",
+      "id": 2026961,
+      "name": "Chandler Ryan",
+      "profilePath": "/9KLEQVE7Dfce0M7T3c1TDUIpAJC.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 121063,
+      "logoPath": "/dvpzPTQKLg2nhh95OlBhvGFb8gD.png",
+      "name": "Red Sea Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-09-11",
+  "externalIds": {
+    "imdbId": "tt33512134"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1378742,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Drive Through Fire",
+  "overview": "The story follows an addict war veteran turned rideshare driver who helps a terrified passenger escape a human trafficking ring serving wealthy clients.",
+  "posterPath": "/lmQKEJ4Te7CQ5mhnXwr3zCLnOvc.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-11",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-09-11"
+    }
+  },
+  "runtime": 87,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Drive Through Fire",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "qRG0OTAHSlI",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1378742-drive-through-fire/watch?locale=US",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

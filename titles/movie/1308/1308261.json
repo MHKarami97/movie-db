@@ -1,0 +1,128 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Karen McDowell",
+      "id": 4791059,
+      "name": "Patricia Elwood",
+      "profilePath": null
+    },
+    {
+      "character": "James McDowell",
+      "id": 4791061,
+      "name": "Barry Sinclair",
+      "profilePath": null
+    },
+    {
+      "character": "Joanne",
+      "id": 4791062,
+      "name": "Jenny McCarley",
+      "profilePath": null
+    },
+    {
+      "character": "Detective Byrne",
+      "id": 4791082,
+      "name": "Adam Smyth",
+      "profilePath": null
+    },
+    {
+      "character": "Detective Williams",
+      "id": 5286885,
+      "name": "Zak Meeke",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 239623,
+      "logoPath": null,
+      "name": "DLC Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "XI",
+      "name": "Northern Ireland"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793554197690,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1308261,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Leave Them Alone",
+  "overview": "A feature-length sequel to Leave Me Alone (2022)",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2027-12-31"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "A new beginning.",
+  "theatricalDate": null,
+  "title": "Leave Them Alone",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

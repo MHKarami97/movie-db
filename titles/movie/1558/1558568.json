@@ -1,0 +1,204 @@
+{
+  "backdropPath": "/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
+  "cast": [
+    {
+      "character": "Olga",
+      "id": 114460,
+      "name": "Alexandra Jiménez",
+      "profilePath": "/2dRN4aqsNgO9Um2f3FUWSx5WMcx.jpg"
+    },
+    {
+      "character": "Pepa",
+      "id": 16971,
+      "name": "Maribel Verdú",
+      "profilePath": "/7hxTsW5CKi2lkz5yGMWShki7DOo.jpg"
+    },
+    {
+      "character": "Domingo",
+      "id": 227071,
+      "name": "Pedro Casablanc",
+      "profilePath": "/7oXGl8Nr2w7SaES4tbzjw4RYtF0.jpg"
+    },
+    {
+      "character": "Marco",
+      "id": 984654,
+      "name": "Raúl Tejón",
+      "profilePath": "/cKc2AQ8t7bn2XXceg7vYP3XlJIe.jpg"
+    },
+    {
+      "character": "Laura",
+      "id": 1390564,
+      "name": "Blanca Martínez",
+      "profilePath": "/wIQhqLe9cvIkWL7V2oBMAeuxqk1.jpg"
+    },
+    {
+      "character": "Sergio",
+      "id": 2168107,
+      "name": "Victor Rebull",
+      "profilePath": "/locdIJLnX1elVJr3ufV4sprk6Yh.jpg"
+    },
+    {
+      "character": "Padilla",
+      "id": 25220,
+      "name": "Pepe Viyuela",
+      "profilePath": "/aDDn9kF809MMCIXGQ7Cl0crW7Zj.jpg"
+    },
+    {
+      "character": "Aldo Mochales",
+      "id": 93831,
+      "name": "Saturnino García",
+      "profilePath": "/yubpcNgsdb5rKZPhKmiNRJfA0qX.jpg"
+    },
+    {
+      "character": "Parrondo",
+      "id": 1465849,
+      "name": "Ismael Fritschi",
+      "profilePath": "/8fRvH1drA5VUD1nodNdcTrf9mQ0.jpg"
+    },
+    {
+      "character": "Natalia",
+      "id": 3310824,
+      "name": "Clara de Ramon",
+      "profilePath": "/yLlKusqKznBCRN4FZBzej6GL3XU.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 9967,
+      "logoPath": "/273isjO76GPpWVBLjBiBgFPUfwu.png",
+      "name": "Zeta Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": "2026-09-11",
+  "externalIds": {
+    "imdbId": "tt38616652",
+    "wikidataId": "Q136475719"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1558568,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Gracias, equipo",
+  "overview": "When their team-building event gets downgraded to a tiny village, a cheese company's staff think it can't get worse — then they learn about the layoffs.",
+  "posterPath": "/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg",
+  "rating": 5.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-09-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-11",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-09-11"
+    },
+    "US": {
+      "digital": "2026-09-11"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The same f**king team building every year.",
+  "theatricalDate": null,
+  "title": "Go Team!",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "VSN8YM6urHo",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 51,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1558568-gracias-equipo/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1558568-gracias-equipo/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1558568-gracias-equipo/watch?locale=US",
+      "rent": []
+    }
+  }
+}

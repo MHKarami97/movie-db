@@ -1,0 +1,202 @@
+{
+  "backdropPath": "/4nIyi27tm4j2GvRcaMyI2ARrzmt.jpg",
+  "cast": [
+    {
+      "character": "Camille",
+      "id": 3841400,
+      "name": "Samuel Kircher",
+      "profilePath": "/nEL3BaKTzwgcIKrjzU22upkFBnJ.jpg"
+    },
+    {
+      "character": "Matteo",
+      "id": 4935319,
+      "name": "Faycal Anaflous",
+      "profilePath": "/mGv8iLzKul4VIm4BYNuPLeoJBVe.jpg"
+    },
+    {
+      "character": "LPF",
+      "id": 5375322,
+      "name": "Jef Jacobs",
+      "profilePath": "/xHgacHXXfKfSdU7QIVzjZtuk22.jpg"
+    },
+    {
+      "character": "Yas",
+      "id": 5393799,
+      "name": "Anna Heckel",
+      "profilePath": "/2a7vz2Tyv6T03XDUEJB72I70mNg.jpg"
+    },
+    {
+      "character": "Nasser",
+      "id": 3667971,
+      "name": "Hassane Alili",
+      "profilePath": "/gghNOKYepBsfrUeRCikYvG5KQrV.jpg"
+    },
+    {
+      "character": "Coreb",
+      "id": 5393800,
+      "name": "Salahdine El Gharchi",
+      "profilePath": "/2Q0KVOhdf5Pdd9ZVAx70jHwFauE.jpg"
+    },
+    {
+      "character": "Bogdan",
+      "id": 2054543,
+      "name": "Jean-Baptiste Durand",
+      "profilePath": "/2jq62gDeZjmia61SXGl3x2i7xk2.jpg"
+    },
+    {
+      "character": "Boulers",
+      "id": 1617035,
+      "name": "Raphaël Thiéry",
+      "profilePath": "/QbpSB6fbgdVosaQsbi2dUqbqLO.jpg"
+    },
+    {
+      "character": "Blanchard",
+      "id": 1333330,
+      "name": "Yoann Blanc",
+      "profilePath": "/mBed4TQcWd3xhugRUk1yaVNJNP5.jpg"
+    },
+    {
+      "character": "Doctor",
+      "id": 1556117,
+      "name": "Guillaume Duhesme",
+      "profilePath": "/jfMqHULJwzrYT4QaGgX7avkMt5j.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 12557,
+      "logoPath": "/fUB3QSaha2RDP2EyYNKMmwpRJAY.png",
+      "name": "Hélicotronc"
+    },
+    {
+      "id": 2426,
+      "logoPath": "/ebQiHrVpqSs93D3A6eEDy9OFO52.png",
+      "name": "Les Films du Poisson"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": "2026-06-29",
+  "externalIds": {
+    "imdbId": "tt33362861",
+    "wikidataId": "Q134624524"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 59,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1020829,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "La Danse des renards",
+  "overview": "At a sports boarding school, talented young boxer Camille narrowly survives a fatal accident, saved by his best friend Matteo. After a swift recovery, an inexplicable pain gradually takes hold of him, threatening his dreams of greatness and his relationship with the team. In the ring and in a man's world, there’s no room for weakness.",
+  "posterPath": "/bIHE1cDsDBrLohkthzIZf04bqXk.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-06-29",
+      "gapDays": 59,
+      "theatricalDate": "2026-05-01"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2025-09-26"
+    },
+    "GB": {
+      "digital": "2026-06-29",
+      "theatrical": "2026-05-01"
+    }
+  },
+  "runtime": 92,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-05-01",
+  "title": "Wild Foxes",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "xdSNIPsLoug",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 11,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1020829-la-danse-des-renards/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 189,
+          "logoPath": "/4YC38wgKDkaL2NQiujnUFRt9VIB.png",
+          "name": "Curzon Home Cinema"
+        },
+        {
+          "id": 224,
+          "logoPath": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+          "name": "BFI Player"
+        }
+      ]
+    }
+  }
+}

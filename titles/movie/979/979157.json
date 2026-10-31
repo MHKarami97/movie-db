@@ -1,0 +1,320 @@
+{
+  "backdropPath": "/9SKidFo89hRhvXfsHeCOF4GhQz3.jpg",
+  "cast": [
+    {
+      "character": "Jake Duffy",
+      "id": 1710334,
+      "name": "Daniel Diemer",
+      "profilePath": "/dWG4JHn8DKm3VFHlcFYPPxovdak.jpg"
+    },
+    {
+      "character": "Pete Duffy",
+      "id": 211991,
+      "name": "Philip Ettinger",
+      "profilePath": "/pxnKHEWFZTNYpAdt4IE1MGlcUpQ.jpg"
+    },
+    {
+      "character": "Warren Duffy",
+      "id": 18999,
+      "name": "J.K. Simmons",
+      "profilePath": "/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    },
+    {
+      "character": "Abbi",
+      "id": 2314445,
+      "name": "Ellen Humphreys",
+      "profilePath": "/omTjhMLWAHrl579JM5ghKbdl1R2.jpg"
+    },
+    {
+      "character": "Alice",
+      "id": 2238237,
+      "name": "Nicole Starrett",
+      "profilePath": "/2GrBULP0UuGKNIX8ASwI7WPzwAC.jpg"
+    },
+    {
+      "character": "Mom",
+      "id": 3455849,
+      "name": "Kacie LaCombe",
+      "profilePath": "/wVD7gnH5ngD4I9OIkaclFIebQhL.jpg"
+    },
+    {
+      "character": "Younger Sister",
+      "id": 4838079,
+      "name": "Autumn Molina",
+      "profilePath": "/bXrZHDLVqAe6fgVpxdSqBzpAU5K.jpg"
+    },
+    {
+      "character": "Nurse Sandra",
+      "id": 1517710,
+      "name": "Adriane McLean",
+      "profilePath": "/wEegpatGIk1Z8fRqdNksS96NCKu.jpg"
+    },
+    {
+      "character": "Hospital Visitor",
+      "id": 1204226,
+      "name": "J. Nathan Simmons",
+      "profilePath": "/obcEumoCx3pXhhZBZcsImV3OtxQ.jpg"
+    },
+    {
+      "character": "Older Brother",
+      "id": 4199264,
+      "name": "Mason Molina",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 175871,
+      "logoPath": "/mW5MYIRz6e4NjTCugfCl8zPKAFQ.png",
+      "name": "Made by Limbo"
+    },
+    {
+      "id": 175872,
+      "logoPath": null,
+      "name": "19 Twelve Films"
+    },
+    {
+      "id": 63690,
+      "logoPath": null,
+      "name": "Circa 1888"
+    },
+    {
+      "id": 264938,
+      "logoPath": "/zvLPwhjHpHQFDSLkHS6hTEiGuMe.png",
+      "name": "Inspirado"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2024-09-17",
+  "externalIds": {
+    "imdbId": "tt15250704",
+    "wikidataId": "Q117842611"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 979157,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Little Brother",
+  "overview": "After his most recent suicide attempt, Pete, a neurodivergent man, reluctantly travels back home with his younger brother Jake. As they drive across the American West, they attempt to reconcile past traumas and forge a new bond.",
+  "posterPath": "/sngFkEHonitQnQPbJ3amItcQnfU.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2024-09-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2024-09-17",
+      "premiere": "2023-04-23"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Little Brother",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "2wUf5utKS8g",
+      "name": "Little Brother | Official Trailer | Gravitas Ventures",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/979157-little-brother/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 332,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango at Home Free"
+        },
+        {
+          "id": 300,
+          "logoPath": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+          "name": "Pluto TV"
+        },
+        {
+          "id": 344,
+          "logoPath": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+          "name": "Rakuten Viki"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        },
+        {
+          "id": 2077,
+          "logoPath": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+          "name": "Plex Channel"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        },
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        },
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/979157-little-brother/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

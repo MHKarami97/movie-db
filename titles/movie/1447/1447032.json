@@ -1,0 +1,184 @@
+{
+  "backdropPath": "/3CjSnRd9D9FxEG1S2dSYkJmpe7L.jpg",
+  "cast": [
+    {
+      "character": "Young-beom",
+      "id": 79577,
+      "name": "Kim Byong-chul",
+      "profilePath": "/ynyE7u1u6SdUBFL1OmmxGVHX6g7.jpg"
+    },
+    {
+      "character": "Seon-hee",
+      "id": 85174,
+      "name": "Song Ji-hyo",
+      "profilePath": "/f3QRDGEqHkeLBQZfWe3GbmHeuuX.jpg"
+    },
+    {
+      "character": "Jong-Hoon",
+      "id": 3099093,
+      "name": "Jin Yu-chan",
+      "profilePath": "/Ab3OV5kvi0qYsXDaxOmkd1MOtbX.jpg"
+    },
+    {
+      "character": "Chun-seo",
+      "id": 3623817,
+      "name": "Kim Hieora",
+      "profilePath": "/xeAi9a2wSRBBDsCEJulg8FiAJrK.jpg"
+    },
+    {
+      "character": "Old Man",
+      "id": 2901663,
+      "name": "Kim Seol-jin",
+      "profilePath": "/c3DPvvXMBTZZ2k9PrgBsk5FhD9K.jpg"
+    },
+    {
+      "character": "Pastor Kim",
+      "id": 2981562,
+      "name": "Jung Jae-eun",
+      "profilePath": "/pKxFu4tA8y12YSOrY1QLxSkD3ZR.jpg"
+    },
+    {
+      "character": "Dong-jin",
+      "id": 2098630,
+      "name": "Ahn Se-ho",
+      "profilePath": "/64bKEsAaJmmihelcHEN6cGdqtNT.jpg"
+    },
+    {
+      "character": "Min-Jae",
+      "id": 3009034,
+      "name": "Oh Han-kyul",
+      "profilePath": "/gighqxdLK8CnpPim2MTgfBsb1hS.jpg"
+    },
+    {
+      "character": "Fellow",
+      "id": 2490270,
+      "name": "Kim Yeon-kyo",
+      "profilePath": "/cEmX3HX3cCN8uhHhKeNf6WptQbP.jpg"
+    },
+    {
+      "character": "Mysterious Man",
+      "id": 552074,
+      "name": "Kim Hak-cheol",
+      "profilePath": "/loinGO1gyr54xI1LatVTA21wh7b.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 245662,
+      "logoPath": null,
+      "name": "MAYDAY STUDIO"
+    },
+    {
+      "id": 20696,
+      "logoPath": null,
+      "name": "iFilm"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36795341"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1447032,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "구원자",
+  "overview": "Young-beom and Seon-hee once lived a picture-perfect life. But after a tragic car accident leaves their teenage son unable to walk, they find themselves desperately wishing for a miracle. One day, when Young-beom encounters a mysterious elderly man in the neighborhood, strange miracles begin unfolding at home. Word spreads quickly, and the village turns to the family, hoping to share in their blessings. While the old man seems like their secret savior, the family soon learns that every blessing casts a shadow: this miracle is no gift or favor—it's a curse that threatens to tear their family apart.",
+  "posterPath": "/kbNpCIMYrjB9z5LNBrHasY081gv.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2025-11-15"
+    }
+  },
+  "runtime": 104,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Every favor has a price",
+  "theatricalDate": null,
+  "title": "The Favor",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "WANF28Pybqo",
+      "name": "The Favor | tvN Movies",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1447032/watch?locale=US",
+      "rent": []
+    }
+  }
+}

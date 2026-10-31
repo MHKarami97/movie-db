@@ -1,0 +1,196 @@
+{
+  "backdropPath": "/4ZeaWA6DzFVOjWTi70b9ZAaQktf.jpg",
+  "cast": [
+    {
+      "character": "Orla Ryan",
+      "id": 3728221,
+      "name": "Grace Collender",
+      "profilePath": "/vRVJutQ6naoFHZumAV2qtrcrlCn.jpg"
+    },
+    {
+      "character": "Austin",
+      "id": 3072484,
+      "name": "Rhys Mannion",
+      "profilePath": "/tgPhudrDpN6AqmbGyOjjqqVrRJx.jpg"
+    },
+    {
+      "character": "Ciara Ryan",
+      "id": 2249889,
+      "name": "Molly McCann",
+      "profilePath": "/zj9W1ztt5sRnpwOwy7zicXjmLrA.jpg"
+    },
+    {
+      "character": "Nora",
+      "id": 188435,
+      "name": "Charlotte Bradley",
+      "profilePath": null
+    },
+    {
+      "character": "Cathal",
+      "id": 4291132,
+      "name": "Flynn Gray",
+      "profilePath": "/nRz8kp8QqfXtyRjFPILNo9wSQAV.jpg"
+    },
+    {
+      "character": "Nessa",
+      "id": 3264243,
+      "name": "Daisy Jelley",
+      "profilePath": "/p9p1yCAIdSgvfIKdbjCLaXdUfSv.jpg"
+    },
+    {
+      "character": "Lorcan",
+      "id": 2485308,
+      "name": "Clinton Liberty",
+      "profilePath": "/aQVNOCTFpnTO2Cl9qlcm6RRcoVw.jpg"
+    },
+    {
+      "character": "Dearg Due",
+      "id": 1828882,
+      "name": "Niamh Hogan",
+      "profilePath": "/x1p0hxdmGNG2XIjUpBB5ws8De3A.jpg"
+    },
+    {
+      "character": "Fiona Ryan",
+      "id": 2720498,
+      "name": "Noella Brennan",
+      "profilePath": "/ivd8kgJYFA3CpNVvL2Httk0Ilb4.jpg"
+    },
+    {
+      "character": "Gareth Ryan",
+      "id": 4857506,
+      "name": "Dominic Wright",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 17821,
+      "logoPath": "/bZp3beVId2zVhxrxrsagnale23c.png",
+      "name": "Ripple World Pictures"
+    },
+    {
+      "id": 212927,
+      "logoPath": "/pnU0Lw2xaaJzKv6CXEoIC1yGkjV.png",
+      "name": "Big Safari"
+    },
+    {
+      "id": 31787,
+      "logoPath": "/dWkJVibgXMBhPathe3rn7raMcta.png",
+      "name": "Creativity Capital"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": "2026-08-14",
+  "externalIds": {
+    "imdbId": "tt30505578"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1128204,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Feed",
+  "overview": "Five social media influencers spend a weekend at a forest retreat but inadvertently awaken and confront the world's first vampire.",
+  "posterPath": "/8AI6GBlESvZ4RWhreSWHfqg03HA.jpg",
+  "rating": 5.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-08-14",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-08-14"
+    }
+  },
+  "runtime": 82,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Feed",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "ORFG_EWDkCY",
+      "name": "Feed | Official Trailer | Horror Brains",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1128204-feed/watch?locale=US",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

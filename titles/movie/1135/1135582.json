@@ -1,0 +1,195 @@
+{
+  "backdropPath": "/1bcX2146IaCIMwfrBUUymaUo1Km.jpg",
+  "cast": [
+    {
+      "character": "Gloria",
+      "id": 5951376,
+      "name": "Katy Correa",
+      "profilePath": null
+    },
+    {
+      "character": "Nour",
+      "id": 5951377,
+      "name": "D’Johé Kouadio",
+      "profilePath": "/kTPvSbEvOhCu429FZTtkJ9aoATR.jpg"
+    },
+    {
+      "character": "Slimane",
+      "id": 62447,
+      "name": "Samir Guesmi",
+      "profilePath": "/7x6FO6FGZgQAVz543d2F8Ra1Kjs.jpg"
+    },
+    {
+      "character": "James",
+      "id": 5951379,
+      "name": "Mike Etienne",
+      "profilePath": "/ziDaMi50u0INZCATMSqHeJ21Yoo.jpg"
+    },
+    {
+      "character": "Pierre",
+      "id": 5951380,
+      "name": "Nicolas Gomis",
+      "profilePath": null
+    },
+    {
+      "character": "Jean",
+      "id": 5989477,
+      "name": "Fara Baco Gomis",
+      "profilePath": null
+    },
+    {
+      "character": "Diminga",
+      "id": 5429671,
+      "name": "Poundo Gomis",
+      "profilePath": "/ej9aarEQnu8ZLq70jzqnmryprfg.jpg"
+    },
+    {
+      "character": "",
+      "id": 147042,
+      "name": "Thomas Ngijol",
+      "profilePath": "/t1mteWGl9nn3qocsknyeGLSzc5P.jpg"
+    },
+    {
+      "character": "",
+      "id": 6464034,
+      "name": "Emile Diabar Gomis",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6464035,
+      "name": "Saldania Gomis",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 7395,
+      "logoPath": "/cGOGYYfbJZ1uJHynRIf8yj4phRn.png",
+      "name": "Les films du Worso"
+    },
+    {
+      "id": 101932,
+      "logoPath": "/4rIkZawmATzcjB5vOLzUap7XdB1.png",
+      "name": "Srab Films"
+    },
+    {
+      "id": 202971,
+      "logoPath": null,
+      "name": "Yennenga Production"
+    },
+    {
+      "id": 144727,
+      "logoPath": null,
+      "name": "Telecine Bissau Produções"
+    },
+    {
+      "id": 252231,
+      "logoPath": null,
+      "name": "Nafi Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "GW",
+      "name": "Guinea-Bissau"
+    },
+    {
+      "code": "SN",
+      "name": "Senegal"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt32358921",
+    "wikidataId": "Q355986"
+  },
+  "fetchedAt": 1793654174010,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1135582,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "wo",
+      "name": "Wolof"
+    }
+  ],
+  "originalTitle": "Dao",
+  "overview": "A family weaves the threads of a heritage that travels between worlds. Joy and pain, memory and transmission. A wedding in France, a commemorative ceremony in Guinea-Bissau. Two celebrations, organically intertwined through bodies and time, leading to a rebirth.",
+  "posterPath": "/ehsdt10j3GBcQWlzUb00egBqHYh.jpg",
+  "rating": 4.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-10-15"
+    },
+    "US": {
+      "premiere": "2026-10-04"
+    }
+  },
+  "runtime": 192,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Dao",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "P_qvKP2G2Ww",
+      "name": "Katy Correa on 'Dao' (dir. Alain Gomis) [Subtitled]",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "tECZauh7fsk",
+      "name": "Alain Gomis on 'Dao' [Subtitled]",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "TQwKj4ZfQek",
+      "name": "Official Trailer [Subtitled]",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {}
+}

@@ -1,0 +1,228 @@
+{
+  "backdropPath": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+  "cast": [
+    {
+      "character": "Tova Sullivan",
+      "id": 35,
+      "name": "Sally Field",
+      "profilePath": "/iMeq1j9Xwvaf6PbTJ0FQz69fpuA.jpg"
+    },
+    {
+      "character": "Cameron Cassmore",
+      "id": 1700685,
+      "name": "Lewis Pullman",
+      "profilePath": "/i2wJQ2eaVuTPaA84jzxNtxs54mO.jpg"
+    },
+    {
+      "character": "Ethan Mack",
+      "id": 17782,
+      "name": "Colm Meaney",
+      "profilePath": "/guL6RJdlRMtOJN3LoaY3G8hG4Rd.jpg"
+    },
+    {
+      "character": "Marcellus (voice)",
+      "id": 658,
+      "name": "Alfred Molina",
+      "profilePath": "/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    },
+    {
+      "character": "Janice Kim",
+      "id": 6720,
+      "name": "Joan Chen",
+      "profilePath": "/7uMTJpY8B2hufXqmlxJpaUPpcJi.jpg"
+    },
+    {
+      "character": "Mary Ann Minetti",
+      "id": 1907,
+      "name": "Kathy Baker",
+      "profilePath": "/34zuI0qWTD5jdqmJRtPwaW70JcQ.jpg"
+    },
+    {
+      "character": "Barb Vanderhoof",
+      "id": 5151,
+      "name": "Beth Grant",
+      "profilePath": "/6THLoPYhIu422TqUmQDgnQRfYxA.jpg"
+    },
+    {
+      "character": "Avery",
+      "id": 515628,
+      "name": "Sofia Black-D'Elia",
+      "profilePath": "/pkuqNG8uWAzWH8bSmRYBO5jdiUg.jpg"
+    },
+    {
+      "character": "Teenage Erik",
+      "id": 3800854,
+      "name": "Brandon McEwan",
+      "profilePath": "/is6xbjlH14ritEVgiogRrcP27WI.jpg"
+    },
+    {
+      "character": "Terry",
+      "id": 1882899,
+      "name": "Donald Sales",
+      "profilePath": "/kVovZo0ApNC8SRGkbghGNMpWbys.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 10039,
+      "logoPath": "/b8w4LldQolMKiLZw4FQJBcXSDGI.png",
+      "name": "Anonymous Content"
+    },
+    {
+      "id": 256258,
+      "logoPath": null,
+      "name": "Night Owl Stories"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-05-08",
+  "externalIds": {
+    "imdbId": "tt33100314",
+    "wikidataId": "Q137203795"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1330021,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Remarkably Bright Creatures",
+  "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+  "posterPath": "/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+  "rating": 8.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-05-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-05-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-08",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-05-08"
+    },
+    "GB": {
+      "digital": "2026-05-08"
+    },
+    "US": {
+      "digital": "2026-05-08"
+    }
+  },
+  "runtime": 114,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Brighter together.",
+  "theatricalDate": null,
+  "title": "Remarkably Bright Creatures",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "b14IFe4an5k",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "4bsjRq8kasA",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "PafnQJksbXs",
+      "name": "that's a wrap on Remarkably Bright Creatures",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 1003,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1330021-remarkably-bright-creatures/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1330021-remarkably-bright-creatures/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1330021-remarkably-bright-creatures/watch?locale=US",
+      "rent": []
+    }
+  }
+}

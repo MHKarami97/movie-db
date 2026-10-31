@@ -1,0 +1,208 @@
+{
+  "backdropPath": "/5K8zQhHIr6GiOIpM18DWsgy2COv.jpg",
+  "cast": [
+    {
+      "character": "Li Hui Zhen",
+      "id": 126776,
+      "name": "Ivy Chen",
+      "profilePath": "/h2C6e67v7ULbYOF9Bj09Q9UxSQY.jpg"
+    },
+    {
+      "character": "Yang Yu Ying",
+      "id": 555631,
+      "name": "Judy Ongg",
+      "profilePath": "/msviA5PDxClR4e0z7nG79JeP8Dz.jpg"
+    },
+    {
+      "character": "Wang Mei Li",
+      "id": 2238411,
+      "name": "Chung Hsin-ling",
+      "profilePath": "/jlKuI4cmfHlMArMnfw3Ffva0g1I.jpg"
+    },
+    {
+      "character": "Huang Pei Ying (A-Pei)",
+      "id": 2959453,
+      "name": "May Suen",
+      "profilePath": "/sLNrCKrwk6IYI1Lkt2401bXbCiF.jpg"
+    },
+    {
+      "character": "Fang Li (Chief Fang)",
+      "id": 1630063,
+      "name": "Miao Ke-li",
+      "profilePath": "/utmlY1E7bhZsKBI5JUvZoaHZFpC.jpg"
+    },
+    {
+      "character": "Chiu Hsiu Lan (A-Lan)",
+      "id": 1200731,
+      "name": "Amber An",
+      "profilePath": "/nbXLb7xcyNGKhOomKhBQVZJzggx.jpg"
+    },
+    {
+      "character": "Chen Yu Wen",
+      "id": 1258375,
+      "name": "Annie Chen",
+      "profilePath": "/v6eUA0wjN3gSfkyNezh22bhy7Qm.jpg"
+    },
+    {
+      "character": "Liu You Xin",
+      "id": 5752798,
+      "name": "Ho Man-xi",
+      "profilePath": "/jyYcIFjvTwZhSqQj8uGdia6HLuW.jpg"
+    },
+    {
+      "character": "You Xin's Mother",
+      "id": 3389550,
+      "name": "Michelle Ho",
+      "profilePath": "/8Y0uSO4XPi53lMuH94WEcPmB03s.jpg"
+    },
+    {
+      "character": "Hu Mei Hua",
+      "id": 989606,
+      "name": "Peggy Tseng",
+      "profilePath": "/6aFwU4xLkGGzwF3h5mhrLjEC3U3.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "facebookId": "sswcmovie",
+    "imdbId": "tt38984207",
+    "instagramId": "sswc_movie",
+    "wikidataId": "Q138190178"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1481955,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "originalTitle": "陽光女子合唱團",
+  "overview": "Inside a women's prison, four inmates form an unlikely bond with a newborn baby girl and create a choir to give her one final beautiful memory after she is diagnosed with an eye disease.",
+  "posterPath": "/brdsfjePxwKwajeonKCgIyqsDoU.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-09-26",
+      "gapDays": 180,
+      "theatricalDate": "2026-03-30"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-17"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-03-13"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "digital": "2026-09-26",
+      "theatricalLimited": "2026-03-30"
+    },
+    "GB": {
+      "theatrical": "2026-04-17"
+    },
+    "US": {
+      "theatrical": "2026-03-13"
+    }
+  },
+  "runtime": 135,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-03-13",
+  "title": "Sunshine Women's Choir",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "veE582n6pwE",
+      "name": "Official UK Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 12,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1481955/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1481955/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1481955/watch?locale=US",
+      "rent": []
+    }
+  }
+}

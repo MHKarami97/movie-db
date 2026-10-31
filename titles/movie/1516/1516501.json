@@ -1,0 +1,179 @@
+{
+  "backdropPath": "/rdLrMIUh40VA1jkRy3lUb3mDhyi.jpg",
+  "cast": [
+    {
+      "character": "John Varghese",
+      "id": 1071561,
+      "name": "Nivin Pauly",
+      "profilePath": "/5A4IZUUCBQsBs4tIrlsuqQP9urT.jpg"
+    },
+    {
+      "character": "Ravi Madhavan",
+      "id": 1473469,
+      "name": "Sharafudheen",
+      "profilePath": "/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+    },
+    {
+      "character": "Rosa Jayadevan",
+      "id": 5391264,
+      "name": "Neethu Krishna",
+      "profilePath": "/pW8WRdtcWVBbcdjDEY5ylo0diiR.jpg"
+    },
+    {
+      "character": "K N Varghese",
+      "id": 1200571,
+      "name": "Balachandra Menon",
+      "profilePath": "/jd11VPZkBB4QYoMfjfoDJeOAiK3.jpg"
+    },
+    {
+      "character": "Purushothaman",
+      "id": 937714,
+      "name": "Harisree Ashokan",
+      "profilePath": "/hWdZVNJA7sYnF9P8RBNDGhlAZ9D.jpg"
+    },
+    {
+      "character": "Ramakrishnan",
+      "id": 1115746,
+      "name": "Maniyanpilla Raju",
+      "profilePath": "/2G6JRbEXPkhCqZ0rZjzRNjip99D.jpg"
+    },
+    {
+      "character": "Nisha Chandrakumar",
+      "id": 989974,
+      "name": "Ann Augustine",
+      "profilePath": "/mTWKC8xFVh3q1o1euLrbKLXAprg.jpg"
+    },
+    {
+      "character": "Aravindhan",
+      "id": 2007264,
+      "name": "Vishnu Agasthya",
+      "profilePath": "/ixiM5uFuc6CGud3j43oIgbvKiZB.jpg"
+    },
+    {
+      "character": "Tobin Varghese",
+      "id": 1199165,
+      "name": "Nishanth Sagar",
+      "profilePath": "/s8uiq88RmHzQ73n0noDCdMCZGyj.jpg"
+    },
+    {
+      "character": "Jayadevan",
+      "id": 584763,
+      "name": "Saikumar",
+      "profilePath": "/shnJkiBgcsnr4sozTZib4MXN1ou.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 77110,
+      "logoPath": "/aveCRL8JTDHiH8gZWUafwO74WuK.png",
+      "name": "Sree Gokulam Movies"
+    },
+    {
+      "id": 114708,
+      "logoPath": null,
+      "name": "RD Illuminations"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39283431",
+    "wikidataId": "Q139665870"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1516501,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ml",
+      "name": "Malayalam"
+    }
+  ],
+  "originalTitle": "പ്രതിഛായ",
+  "overview": "After Kerala’s Chief Minister dies in a scandal engineered by a ruthless media tycoon, his son a brilliant tech entrepreneur enters the blood-soaked arena of politics to expose the conspiracy, vindicate his father, and turn technology against those who weaponized it",
+  "posterPath": "/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
+  "rating": 4.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-03-26"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-03-26"
+    }
+  },
+  "runtime": 157,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-03-26",
+  "title": "Prathichaya",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 630,
+          "logoPath": "/vnpp3n6DAIh2sKXfMbehKZAWJMC.png",
+          "name": "STARZPLAY"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1516501/watch?locale=AE",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1516501/watch?locale=US",
+      "rent": []
+    }
+  }
+}

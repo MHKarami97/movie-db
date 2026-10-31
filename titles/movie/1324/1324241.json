@@ -1,0 +1,173 @@
+{
+  "backdropPath": "/8gif87CrN4bOoJb6Yxc3UwZlfl4.jpg",
+  "cast": [
+    {
+      "character": "Ingmar",
+      "id": 74699,
+      "name": "Robert Gustafsson",
+      "profilePath": "/uiNOp6QjVjaQTDJjbAtpNgZQXQr.jpg"
+    },
+    {
+      "character": "Burman",
+      "id": 47068,
+      "name": "Jonas Karlsson",
+      "profilePath": "/1KHhcBGX5v9LsmWiHbtZpbEBrh5.jpg"
+    },
+    {
+      "character": "Jacques",
+      "id": 92429,
+      "name": "Jens Hultén",
+      "profilePath": "/iw8oSLUaKl0zjjwRHXkpeGmtAfk.jpg"
+    },
+    {
+      "character": "Daniel",
+      "id": 4980135,
+      "name": "Simon Gregor Carlsson",
+      "profilePath": "/eAxQtKGPciKKklyeVSBqg6nhsmi.jpg"
+    },
+    {
+      "character": "Elis",
+      "id": 5127081,
+      "name": "Enzo Blad Nielsen",
+      "profilePath": null
+    },
+    {
+      "character": "Micke Billing",
+      "id": 5127082,
+      "name": "Olle Roberg",
+      "profilePath": null
+    },
+    {
+      "character": "Lillan Billing",
+      "id": 2284340,
+      "name": "Susanne Karlsson",
+      "profilePath": null
+    },
+    {
+      "character": "Pontus",
+      "id": 2464892,
+      "name": "Victor Iván",
+      "profilePath": "/zelTodY9LUMPjUGRvTXTXWWmBhQ.jpg"
+    },
+    {
+      "character": "Roya",
+      "id": 3242315,
+      "name": "Sara Shirpey",
+      "profilePath": "/jNk3VZ2TZy9TzeHtz889u0g1eVo.jpg"
+    },
+    {
+      "character": "",
+      "id": 1684270,
+      "name": "Anna Sise",
+      "profilePath": "/mkx0DMO5MEcv6xumWoExZTQLnBC.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 2999,
+      "logoPath": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+      "name": "SVT"
+    },
+    {
+      "id": 110327,
+      "logoPath": "/tkFyhcvN7HCJTmtA5hZbZnJmzfc.png",
+      "name": "Unlimited Stories"
+    },
+    {
+      "id": 119,
+      "logoPath": "/1di2gITGUZr730AMuMKiCrP90Vl.png",
+      "name": "DR"
+    },
+    {
+      "id": 12477,
+      "logoPath": "/tuREvnCzrM5sNXyrKRFCyB1gHF8.png",
+      "name": "Film i Skåne"
+    },
+    {
+      "id": 2801,
+      "logoPath": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst"
+    },
+    {
+      "id": 2302,
+      "logoPath": "/rPXEdpqwFycAY9ZgrAJXv13qcWW.png",
+      "name": "Svenska Filminstitutet"
+    }
+  ],
+  "countries": [
+    {
+      "code": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34250056",
+    "wikidataId": "Q131619932"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1324241,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "sv",
+      "name": "Swedish"
+    }
+  ],
+  "originalTitle": "Regnmannen",
+  "overview": "A grumpy widower's life changes when he finds himself at the center of an event that could bring rain to his drought-stricken village, altering his relationship with his daughter and the community.",
+  "posterPath": "/4aqx0NEd4HoMngjixLl2y1Z9X4Y.jpg",
+  "rating": 4.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 109,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Let It Rain",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "fH4wEPuy-l0",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {}
+}

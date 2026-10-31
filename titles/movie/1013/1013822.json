@@ -1,0 +1,185 @@
+{
+  "backdropPath": "/pyyLuwfGtpO3Ki0KOBx44nK538n.jpg",
+  "cast": [
+    {
+      "character": "Veska",
+      "id": 6033831,
+      "name": "Yana Radeva",
+      "profilePath": "/Aplu27hnhUWZpiZzlzug7fOKBrX.jpg"
+    },
+    {
+      "character": "Saïd",
+      "id": 1795397,
+      "name": "Syuleyman Alilov Letifo",
+      "profilePath": "/hxN2ywxRtj45ZdO5DpIJbvW9Bhc.jpg"
+    },
+    {
+      "character": "Iliya",
+      "id": 6194896,
+      "name": "Stoicho Kostadinov",
+      "profilePath": null
+    },
+    {
+      "character": "Velko",
+      "id": 6194899,
+      "name": "Nikolay Shekerdjiev",
+      "profilePath": null
+    },
+    {
+      "character": "Maria",
+      "id": 6194900,
+      "name": "Denislava Yordanova",
+      "profilePath": null
+    },
+    {
+      "character": "Tiana",
+      "id": 6194903,
+      "name": "Tiana Georgieva",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 1618,
+      "logoPath": "/dacmPYkpGE9Mbu2dqG2sFTXpsqr.png",
+      "name": "Komplizen Film"
+    },
+    {
+      "id": 49934,
+      "logoPath": "/ns14fiims2htw1kiEI9xCJFFlWO.png",
+      "name": "Kazak Productions"
+    },
+    {
+      "id": 123408,
+      "logoPath": "/s13diWaEtNwE5oXUSmB9VaMoEWF.png",
+      "name": "Panama Film"
+    },
+    {
+      "id": 74742,
+      "logoPath": null,
+      "name": "Miramar Film"
+    },
+    {
+      "id": 167753,
+      "logoPath": "/5RdurkEcl6gIKPOlDhI4avEL5Df.png",
+      "name": "New Matter Films"
+    },
+    {
+      "id": 94,
+      "logoPath": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma"
+    },
+    {
+      "id": 11237,
+      "logoPath": "/nzPEges9ftjCDQWru0qrIfTX8OR.png",
+      "name": "ZDF/Arte"
+    },
+    {
+      "id": 314834,
+      "logoPath": null,
+      "name": "Valeska Grisebach Produktion"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "AT",
+      "name": "Austria"
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt21188986",
+    "wikidataId": "Q138996634"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1013822,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "bg",
+      "name": "Bulgarian"
+    }
+  ],
+  "originalTitle": "Das geträumte Abenteuer",
+  "overview": "Journeying home to the Bulgarian hinterlands on the border of Turkey and Greece, Saïd seeks out a fuel-smuggling deal with a small-time crook, attracting the attention of Iliya, the local kingpin. Sensing danger, Saïd enlists the help of one-time romantic interest Veska, an archaeologist who years earlier had fallen in with the swindlers and operators of the post-Communist era. But when Saïd goes missing, Veska takes over the smuggling operation, deftly moving among the thunderous, posturing men and coming-face-to-face with the underworld that shaped her past.",
+  "posterPath": "/aC2YiLDDs89mmb2n6Na0NbPKi0j.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-30"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-10-10"
+    },
+    "US": {
+      "premiere": "2026-10-05",
+      "theatricalLimited": "2026-10-30"
+    }
+  },
+  "runtime": 167,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-30",
+  "title": "The Dreamed Adventure",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "83aAOpSQi00",
+      "name": "Valeska Grisebach on The Dreamed Adventure",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Js1IBgEcaeE",
+      "name": "Clip [Subtitled]",
+      "official": true,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 12,
+  "watchProviders": {}
+}

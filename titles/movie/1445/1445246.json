@@ -1,0 +1,145 @@
+{
+  "backdropPath": "/8G3ZxlxWjqSLGlVKbg0Aym3bVWZ.jpg",
+  "cast": [
+    {
+      "character": "Chloé White",
+      "id": 5399754,
+      "name": "Tia Larsen",
+      "profilePath": "/w7LEeNkQeGXPMtFV8DfwYpokAC6.jpg"
+    },
+    {
+      "character": "Millie Shepherd",
+      "id": 5629628,
+      "name": "Ariana Parr",
+      "profilePath": "/nKZ7VaWjrWQhsizdyEfgZQV24Fq.jpg"
+    },
+    {
+      "character": "Olivia Patricks",
+      "id": 5291212,
+      "name": "Morgana Smith",
+      "profilePath": "/b8d71IWHITCSyubUri1MxZqO5GZ.jpg"
+    },
+    {
+      "character": "Amy Ronan",
+      "id": 5291213,
+      "name": "Emma Horrocks",
+      "profilePath": "/ylzN3KUbrEM9DSKYclxRR9oP4GD.jpg"
+    },
+    {
+      "character": "Megan Matthews",
+      "id": 5291214,
+      "name": "Dawn Hazelwood",
+      "profilePath": "/AnbBBorU8IN8hPRWNNEFJEDL0re.jpg"
+    },
+    {
+      "character": "Tommy Maxwell",
+      "id": 5291215,
+      "name": "Daniel Proctor",
+      "profilePath": "/zwDvnxpxIcGhBFKa6hjekh4gkVL.jpg"
+    },
+    {
+      "character": "Officer Thompson",
+      "id": 6038504,
+      "name": "Samantha Gerard",
+      "profilePath": "/iLZBKkMQAKyRJVWECEw5V0TbkIe.jpg"
+    },
+    {
+      "character": "Officer Loomis",
+      "id": 5292540,
+      "name": "William Jevons",
+      "profilePath": "/nhrh9KokqMKL5oNVbxRVWN5x9A4.jpg"
+    },
+    {
+      "character": "Conspiracy Influencer",
+      "id": 5292552,
+      "name": "Luke Hodson",
+      "profilePath": null
+    },
+    {
+      "character": "Ste Evans",
+      "id": 5292550,
+      "name": "Paul Ryan",
+      "profilePath": "/w6W7olGXkbtk0qimYCxf325iXUn.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 281117,
+      "logoPath": null,
+      "name": "Against The Grain Indie Film Company"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1445246,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "REEL",
+  "overview": "After a late-night slasher screening, a group of horror-loving friends find themselves trapped in a terrifying game where slasher movie rules become reality. As eerie events unfold, they realize someone is rewriting the genre—forcing them to fight for survival in a film that’s still being written. The only way out? Break the rules before it’s too late.",
+  "posterPath": "/fNexe9k9reQSDij3PilVv93S0f0.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-06-30"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatricalLimited": "2027-06-30"
+    }
+  },
+  "runtime": 60,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "Some tropes just need to be re-born",
+  "theatricalDate": "2027-06-30",
+  "title": "REEL",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "5tOOKXD_hl0",
+      "name": "REEL | TEASER TRAILER",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

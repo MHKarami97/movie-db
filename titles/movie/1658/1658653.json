@@ -1,0 +1,156 @@
+{
+  "backdropPath": "/49CFmJAkesNKgSr8YZHcOiwT0ks.jpg",
+  "cast": [
+    {
+      "character": "Tang Yu",
+      "id": 1279598,
+      "name": "Ryan Zheng Kai",
+      "profilePath": "/wHUCaZAe8KkpXs6sXmPUr9B6C82.jpg"
+    },
+    {
+      "character": "Lin Yutong",
+      "id": 2682877,
+      "name": "Liu Haocun",
+      "profilePath": "/glcRdoV5329rX4mfoEBJDbFTdNw.jpg"
+    },
+    {
+      "character": "Yan Wu",
+      "id": 1240922,
+      "name": "Roy Chiu",
+      "profilePath": "/6T4V9lzPyGgteHmTEBbAr8se5sT.jpg"
+    },
+    {
+      "character": "Lin Wenzhao",
+      "id": 130984,
+      "name": "Jerry Lee",
+      "profilePath": "/29SF639O4mzp3dhIuIFcaux0Te9.jpg"
+    },
+    {
+      "character": "Yu",
+      "id": 1993059,
+      "name": "Jiang Yan",
+      "profilePath": "/o5TZh9UN3h4tlGgCIMQWf4kW23m.jpg"
+    },
+    {
+      "character": "Jun",
+      "id": 2492320,
+      "name": "Bi Wenjun",
+      "profilePath": "/l5660lRS4dzmsFZwX6KXKinSi53.jpg"
+    },
+    {
+      "character": "Xu Zhijie",
+      "id": 3151910,
+      "name": "Feng Bing",
+      "profilePath": "/bJD6iFzBxR5o23umSFxAniXBP7B.jpg"
+    },
+    {
+      "character": "Fang Min",
+      "id": 143826,
+      "name": "Huang Xiaolei",
+      "profilePath": "/4PrbAr5Hj0ZHubA3o9H0W0Z72GN.jpg"
+    },
+    {
+      "character": "Hong",
+      "id": 1174686,
+      "name": "Li Meng",
+      "profilePath": "/uMOoic1tyHlzFFG4NdCsiDXZKE1.jpg"
+    },
+    {
+      "character": "Yan's Father",
+      "id": 2091193,
+      "name": "Zhang Qi",
+      "profilePath": "/551lK9R9EQBQh7bLlP5EPu1biRb.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 199799,
+      "logoPath": null,
+      "name": "QC Media"
+    },
+    {
+      "id": 135036,
+      "logoPath": null,
+      "name": "Tianjin Maoyan Weying Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "digitalDate": "2026-07-31",
+  "externalIds": {
+    "imdbId": "tt34885279",
+    "wikidataId": "Q139595861"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 91,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1658653,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "originalTitle": "消失的人",
+  "overview": "On the morning of the winter solstice, Tang Yu's son disappeared in the stairwell; gambler Yuan Wu hid his father's body; and two unsolved cases involving the assault.",
+  "posterPath": "/v6Wq7P2UvgkEIczgS1fiHBzoJ1m.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-07-31",
+      "gapDays": 91,
+      "theatricalDate": "2026-05-01"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "digital": "2026-07-31",
+      "premiere": "2026-04-29",
+      "theatrical": "2026-05-01"
+    }
+  },
+  "runtime": 140,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-05-01",
+  "title": "Vanishing Point",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 19,
+  "watchProviders": {}
+}

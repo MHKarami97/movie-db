@@ -1,0 +1,171 @@
+{
+  "backdropPath": "/COfOeNQghUqMehoUA9tmWIuaFd.jpg",
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2026-03-03",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-03-03",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": "/bi8W0tUKh5dcNncd8y1HjZFwnAG.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-03-10",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": "/n4SQZZzKBeXsOvndJTCaCLxpEbw.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-03-17",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": "/n6Kzkw8oidaWrF4mzslRW7KUSje.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-03-24",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": "/fOdJG4qCQVsKSlEaJcsu2OajRBq.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-03-31",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": "/auDi6SBiprb85WTtBajZKmYZjy9.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-04-07",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": "/jxUITnoYdsnSBih9kevKuhLM8ON.jpg",
+        "voteAverage": 0
+      }
+    ],
+    "2": [
+      {
+        "airDate": "2027-08-06",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 315593,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "da",
+      "name": "Danish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-04-07",
+    "episodeNumber": 6,
+    "id": 7450853,
+    "name": "Episode 6",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-08-06",
+    "episodeNumber": 1,
+    "id": 7163192,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 2
+  },
+  "originalTitle": "Megafamilierne",
+  "overview": "In this documentary series, we follow four Danish families with between seven and thirteen children. They invite viewers right into their everyday lives, filled with love, chaos, logistics, and compromises — but also laughter, unity, and strong family bonds. We’re there as lunchboxes are prepared in stacks, gym bags are packed, and careers, finances, playdates, birthdays, colds, and relationships all have to fit into a day with the same number of hours as any other family.",
+  "posterPath": "/gvURGHyVj1Y0SASPHm3tI2rx1qC.jpg",
+  "rating": 10,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-03-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-03-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-03-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-03-03"
+    },
+    "CN": {
+      "tv": "2026-03-03"
+    },
+    "GB": {
+      "tv": "2026-03-03"
+    },
+    "US": {
+      "tv": "2026-03-03"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-03-03",
+      "episodeCount": 6,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/tCfiBIoQRguM3HRZDMxDVGL3kpq.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2027-08-06",
+      "episodeCount": 1,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Mega Families",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 1,
+  "watchProviders": {}
+}

@@ -1,0 +1,208 @@
+{
+  "backdropPath": "/uYVxuLVZsxnJfXK03YgZSzqiWiQ.jpg",
+  "cast": [
+    {
+      "character": "Devon",
+      "id": 1202534,
+      "name": "Sadie Sandler",
+      "profilePath": "/kpAxORM360IVpMNOhCUEwGX4bQ7.jpg"
+    },
+    {
+      "character": "Celeste",
+      "id": 1512280,
+      "name": "Chloe East",
+      "profilePath": "/dttzTZRYI84kW98NH16Z101czCe.jpg"
+    },
+    {
+      "character": "Michael",
+      "id": 2682376,
+      "name": "Billy Bryk",
+      "profilePath": "/aMJx13CGtBxfAaHE8G2BqY15sou.jpg"
+    },
+    {
+      "character": "Dr. Schilling",
+      "id": 2198504,
+      "name": "Sarah Sherman",
+      "profilePath": "/5BwGUREK2H6acSH5Inqmy2hFpGY.jpg"
+    },
+    {
+      "character": "George",
+      "id": 2807375,
+      "name": "Martin Herlihy",
+      "profilePath": "/3SxAueQPPc27P7zJoUmj0QMYdOK.jpg"
+    },
+    {
+      "character": "Goose",
+      "id": 426216,
+      "name": "Josh Segarra",
+      "profilePath": "/vXhukEBgpI8jmCUCSGcpJCNzXHV.jpg"
+    },
+    {
+      "character": "Gigi",
+      "id": 10556,
+      "name": "Carol Kane",
+      "profilePath": "/dm3Ci8XuVYZBqqlYtaLgth94VUe.jpg"
+    },
+    {
+      "character": "Hannah",
+      "id": 10871,
+      "name": "Natasha Lyonne",
+      "profilePath": "/2QJoTBEIeYyjGSDot9qxv2ayPH3.jpg"
+    },
+    {
+      "character": "Brian",
+      "id": 208519,
+      "name": "Nick Kroll",
+      "profilePath": "/fNiOuEKeBtELGdhKn4lxXq4O7YP.jpg"
+    },
+    {
+      "character": "Professor Ziemann",
+      "id": 21197,
+      "name": "Janeane Garofalo",
+      "profilePath": "/cdNooT0otUf5QVHDPm9bkGN7gNu.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 878,
+      "logoPath": "/s5j0xnTXvglZoz49CUaQclVv3s9.png",
+      "name": "Happy Madison Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-04-17",
+  "externalIds": {
+    "imdbId": "tt37540875",
+    "wikidataId": "Q138566602"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1511057,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Roommates",
+  "overview": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression.",
+  "posterPath": "/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-04-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-04-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-04-17"
+    },
+    "GB": {
+      "digital": "2026-04-17"
+    },
+    "US": {
+      "digital": "2026-04-17",
+      "premiere": "2026-04-13"
+    }
+  },
+  "runtime": 108,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "One dorm. Zero boundaries.",
+  "theatricalDate": null,
+  "title": "Roommates",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "PF3dDdeSIVc",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 180,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1511057-roommates/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1511057-roommates/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1511057-roommates/watch?locale=US",
+      "rent": []
+    }
+  }
+}

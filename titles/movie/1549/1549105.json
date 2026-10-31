@@ -1,0 +1,185 @@
+{
+  "backdropPath": "/jLkbWXJwpe3cyOa0dJx81TSPU00.jpg",
+  "cast": [
+    {
+      "character": "Self — Narrator",
+      "id": 1531927,
+      "name": "Kenny Dalglish",
+      "profilePath": "/wPwzUmE4XDNzwp7SUYnS6WavFgF.jpg"
+    },
+    {
+      "character": "Self - Kenny's Wife",
+      "id": 1970495,
+      "name": "Marina Dalglish",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 10215,
+      "name": "Paul McCartney",
+      "profilePath": "/sCPsv9ueP5UR6BkMSmRDlwbra6S.jpg"
+    },
+    {
+      "character": "Self - Former defender of Liverpool",
+      "id": 1226657,
+      "name": "Alan Hansen",
+      "profilePath": "/sKM3inOMkdEPn10Xbb7JHePdMuO.jpg"
+    },
+    {
+      "character": "Self (Voice) - Football Writer",
+      "id": 1958555,
+      "name": "Simon Hughes",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Former Midfielder of Liverpool",
+      "id": 2333410,
+      "name": "Graeme Souness",
+      "profilePath": "/dhGZhetP2Y8RF2NyOEq8PoukZyo.jpg"
+    },
+    {
+      "character": "Self (archive footage) - Former British PM",
+      "id": 1023520,
+      "name": "Margaret Thatcher",
+      "profilePath": "/zQQF7mP4biVj1mw0XihZCCtR5Re.jpg"
+    },
+    {
+      "character": "Self (voice) - Captain of Celtic",
+      "id": 2469292,
+      "name": "Billy McNeill",
+      "profilePath": null
+    },
+    {
+      "character": "Self (archive footage) - Former manager of Celtic",
+      "id": 2698078,
+      "name": "Jock Stein",
+      "profilePath": "/vivSle6hJH3jVJk5x1liOMGJHm5.jpg"
+    },
+    {
+      "character": "Self (archive footage) - Former attacker of Liverpool",
+      "id": 1770374,
+      "name": "Kevin Keegan",
+      "profilePath": "/lahfK8ZFvJ4paMA4zLpCUk7aSd2.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 229009,
+      "logoPath": null,
+      "name": "Lafcadia Productions"
+    },
+    {
+      "id": 49092,
+      "logoPath": null,
+      "name": "Redrum Films"
+    },
+    {
+      "id": 265204,
+      "logoPath": "/ceHdNhyoCCzfWR9QRPPr7UzEcKw.png",
+      "name": "Calculus Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2025-11-04",
+  "externalIds": {
+    "imdbId": "tt38264211",
+    "wikidataId": "Q139743085"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 6,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1549105,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Kenny Dalglish",
+  "overview": "An in-depth look at the iconic Scottish soccer player who led Liverpool Football Club to a slew of victories as both player and manager.",
+  "posterPath": "/ukDcdP5KS2CppyR6Upco6xRsPwK.jpg",
+  "rating": 5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-11-04",
+      "gapDays": 6,
+      "theatricalDate": "2025-10-29"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2025-11-04",
+      "theatricalLimited": "2025-10-29"
+    }
+  },
+  "runtime": 103,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Player. Leader. Legend.",
+  "theatricalDate": "2025-10-29",
+  "title": "Kenny Dalglish",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "5Kkv71doyJA",
+      "name": "Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "jfgxddntmpk",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1549105-kenny-dalglish/watch?locale=GB",
+      "rent": []
+    }
+  }
+}

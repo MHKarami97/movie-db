@@ -1,0 +1,97 @@
+{
+  "backdropPath": "/bk6klqWHsQmiSb0BlnSjPdMtXel.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 119365,
+      "logoPath": "/el0nrZZ9DCeM21lg9PIKzo5ksbI.png",
+      "name": "Trimafilm"
+    },
+    {
+      "id": 4606,
+      "logoPath": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF"
+    },
+    {
+      "id": 242631,
+      "logoPath": "/9l53h4TYA8ptXcM4JPDabycZO4v.png",
+      "name": "Das kleine Fernsehspiel"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39368109"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1616181,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "de",
+      "name": "German"
+    },
+    {
+      "code": "gn",
+      "name": "Guarani"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Im Umkreis des Paradieses",
+  "overview": "In Caazapá, the “city of magic and legends”, two Paraguayan students are searching for happiness, gold and a magic bird. Their European dropout neighbours are hoping for freedom, healing and salvation from Armageddon. Everything has its price.",
+  "posterPath": "/lTvLqNEb5wXsIt5zeaX9MkutTk4.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 120,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Around Paradise",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

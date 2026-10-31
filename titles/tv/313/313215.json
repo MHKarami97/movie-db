@@ -1,0 +1,179 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Iruma (voice)",
+      "id": 1325230,
+      "name": "Ayumu Murase",
+      "profilePath": "/3aGM6KpcCIEKOXP9510tzaKc8uw.jpg"
+    },
+    {
+      "character": "Opera (voice)",
+      "id": 126286,
+      "name": "Mitsuki Saiga",
+      "profilePath": "/qjRHodCBpKY8nEa4p8dZriDoil4.jpg"
+    },
+    {
+      "character": "Naberius Kalego (voice)",
+      "id": 1241498,
+      "name": "Daisuke Ono",
+      "profilePath": "/5rjl28lx84JjRS0hzq3Ajvx2dhp.jpg"
+    },
+    {
+      "character": "Alice Asmodeus (voice)",
+      "id": 114299,
+      "name": "Ryohei Kimura",
+      "profilePath": "/m4GktFKhjrVTewsZtqTusInHZqT.jpg"
+    },
+    {
+      "character": "Clara Valac (voice)",
+      "id": 1522605,
+      "name": "Ayaka Asai",
+      "profilePath": "/tQCblqK0CJfddLPkYKcI94R2Pgh.jpg"
+    },
+    {
+      "character": "Ameri (voice)",
+      "id": 221773,
+      "name": "Saori Hayami",
+      "profilePath": "/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 4640,
+      "logoPath": "/9O6sT3CwMuTc43PQ6Km2KFkjgMT.png",
+      "name": "Akita Shoten"
+    },
+    {
+      "id": 15505,
+      "logoPath": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+      "name": "NHK"
+    },
+    {
+      "id": 13583,
+      "logoPath": "/3AcqA6uF49Auq43niCf9NQPGxsU.png",
+      "name": "Tatsunoko Production"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2027-01-04",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-04",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "twitterId": "nep_irumafia",
+    "wikidataId": "Q138006524"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 313215,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-04",
+    "episodeNumber": 1,
+    "id": 6914160,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "魔入りました！入間くん if Episode of 魔フィア",
+  "overview": "Iruma-kun, the mob boss?!\n\nIn this brand-new spinoff of the runaway hit series, Iruma is a dirt-poor but kind young boy who grows up in a ruthless city slum. One day, Iruma gives a severely injured old man his last loaf of bread and nurses the stranger back to health—only to find out that the elder gent is none other than Don Sullivan, leader of the Babel Mafia! Soon after, Don Sullivan comes back, whisks Iruma away, and begs the boy to become his grandson. And just like that, the curtains rise on Iruma’s chaotic new life as the next in line to a gigantic gang of—dare we say—demonic mafiosos!",
+  "posterPath": "/8J2w0AY2lwJ4hud5R3RItWcqdmJ.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-04"
+    },
+    "CN": {
+      "tv": "2027-01-04"
+    },
+    "GB": {
+      "tv": "2027-01-04"
+    },
+    "US": {
+      "tv": "2027-01-04"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-04",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/aMuGiGoATrAzW7w3fjruSPtXKpQ.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Planned",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Welcome to Demon School! Iruma-kun: IruMafia Edition",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

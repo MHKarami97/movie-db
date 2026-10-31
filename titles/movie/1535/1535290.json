@@ -1,0 +1,206 @@
+{
+  "backdropPath": "/2LzXxNrirJmUymYA9JRkbDomPcI.jpg",
+  "cast": [
+    {
+      "character": "Ingkwan",
+      "id": 3831524,
+      "name": "Thitiya Jirapornsilp",
+      "profilePath": "/oyfkz9HkhnrEN1kUqHCK8Wf5YZQ.jpg"
+    },
+    {
+      "character": "Aim",
+      "id": 2771757,
+      "name": "Veerinsara Tangkitsuvanich",
+      "profilePath": "/fWMCviCsg3P4lZcGgji94gLezpG.jpg"
+    },
+    {
+      "character": "Pin",
+      "id": 2758431,
+      "name": "Pisitpol Ekpongpisit",
+      "profilePath": "/ocNUilElWcjSwUdTCw83d0hwn87.jpg"
+    },
+    {
+      "character": "Mother Pritsana",
+      "id": 3551674,
+      "name": "Narinthorn Na Bangchang",
+      "profilePath": "/kfxyzrCuXExblo43zLQocFQBB8B.jpg"
+    },
+    {
+      "character": "Maprang",
+      "id": 2931470,
+      "name": "Weeraya Zhang",
+      "profilePath": "/fz7RO3QVcIKXQjSuo6Qll0d0pYT.jpg"
+    },
+    {
+      "character": "Nuch",
+      "id": 4593141,
+      "name": "Nutkitta Poonsukwattana",
+      "profilePath": "/cn1dB2CNOIywhL4y32PSxhTaWo8.jpg"
+    },
+    {
+      "character": "Ploy",
+      "id": 5669730,
+      "name": "Sanutcha Janchoom",
+      "profilePath": null
+    },
+    {
+      "character": "Godmother Ghost",
+      "id": 1180488,
+      "name": "Panjai Sirisuwan",
+      "profilePath": null
+    },
+    {
+      "character": "New Born Ingkwan",
+      "id": 5669731,
+      "name": "Punnalil Meteetranmaporn",
+      "profilePath": null
+    },
+    {
+      "character": "5 Year-Old Ingkwan",
+      "id": 5753622,
+      "name": "Pimnara Seethongprasert",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 75111,
+      "logoPath": null,
+      "name": "Transformation Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38624355"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1535290,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "th",
+      "name": "Thai"
+    }
+  ],
+  "originalTitle": "แม่ซื้อ",
+  "overview": "Ing is sent to Pinijkhun Reform School, an all-girls facility on a remote island. The only rule here is that everyone must obey orders.",
+  "posterPath": "/3AalQRe1NQkHmvHXrDePnB8JBtt.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2025-10-09"
+    }
+  },
+  "runtime": 125,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A mother's love is fatal.",
+  "theatricalDate": null,
+  "title": "Host",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "RsoU7UVNEcU",
+      "name": "แม่ซื้อ (Host) - ตัวอย่างอย่างเป็นทางการ | Prime Thailand",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "-LwMcE0lxGY",
+      "name": "แม่ซื้อ (Host) - ตัวอย่างอย่างเป็นทางการ | Prime Thailand",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 38,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 119,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1535290/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1535290/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1535290/watch?locale=US",
+      "rent": []
+    }
+  }
+}

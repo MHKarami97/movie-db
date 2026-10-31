@@ -1,0 +1,329 @@
+{
+  "backdropPath": "/7aiQebqYUHbs2wZPhsTznuMWyeH.jpg",
+  "cast": [
+    {
+      "character": "Deathstalker",
+      "id": 9452,
+      "name": "Daniel Bernhardt",
+      "profilePath": "/3BLz32inDr1jznU6pKQmh20zfhK.jpg"
+    },
+    {
+      "character": "Brisbayne",
+      "id": 2439869,
+      "name": "Christina Orjalo",
+      "profilePath": "/lPY1beljfolNWmAKmFJlJSojlVk.jpg"
+    },
+    {
+      "character": "Jotak",
+      "id": 106951,
+      "name": "Paul Lazenby",
+      "profilePath": "/nLql838eW98JYcNyZ8FlBHACxGo.jpg"
+    },
+    {
+      "character": "Doodad (voice)",
+      "id": 10872,
+      "name": "Patton Oswalt",
+      "profilePath": "/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
+    },
+    {
+      "character": "Nekromemnon",
+      "id": 1331999,
+      "name": "Nicholas Rice",
+      "profilePath": "/dGUbzewwZ7R0tJlAoUW3YwRRIlZ.jpg"
+    },
+    {
+      "character": "Prince Halgan",
+      "id": 190919,
+      "name": "Adam Brooks",
+      "profilePath": "/tlLasboHGnCp1hKm3UWj6vMe8PY.jpg"
+    },
+    {
+      "character": "Barkeep",
+      "id": 2253160,
+      "name": "John Clifford Talbot",
+      "profilePath": "/9HWpEjj1re3mSqPvhpbSjKkujZd.jpg"
+    },
+    {
+      "character": "Young Farmer",
+      "id": 1038000,
+      "name": "Matthew Kennedy",
+      "profilePath": "/kVOgHnroIuZGeaFnN8junkZUvuM.jpg"
+    },
+    {
+      "character": "Old Farmer",
+      "id": 2275007,
+      "name": "Ron Tough",
+      "profilePath": "/dh2ARylESMoSeaGMoZ2MSpzAZ2a.jpg"
+    },
+    {
+      "character": "Despairon / Tall Swamp Man / Rexar / Thundrax",
+      "id": 1433191,
+      "name": "Matthew Ninaber",
+      "profilePath": "/pdF252TBThy1L4elrkYsGP2YJdz.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 166352,
+      "logoPath": "/iGT88rHQbaTOqlGka0FcDA7Yudw.png",
+      "name": "Hangar 18 Media"
+    },
+    {
+      "id": 272552,
+      "logoPath": "/qEdWbPT5fq85RjpcAJ2RY1dpGlY.png",
+      "name": "BerserkerGang"
+    },
+    {
+      "id": 118155,
+      "logoPath": "/1lBVhKMuTT2HXSCOgax07aWSik5.png",
+      "name": "Shout! Studios"
+    },
+    {
+      "id": 25884,
+      "logoPath": "/zL8l7rZGwALoDJQwvw4ZnCQfpgA.png",
+      "name": "Raven Banner Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33996087",
+    "wikidataId": "Q126008203"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "id": 1253000,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Deathstalker",
+  "overview": "A powerful swordsman known as Deathstalker recovers a cursed amulet from a corpse-strewn battlefield. Marked by dark magic and hunted by monstrous assassins, he must face the rising evil and break the curse.",
+  "posterPath": "/nEI3DnzQC1afAjJOAizx6UX27pL.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-04-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-10-10"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-04-03"
+    },
+    "US": {
+      "physical": "2026-02-17",
+      "premiere": "2025-09-20",
+      "theatrical": "2025-10-10"
+    }
+  },
+  "runtime": 103,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Evil has many names. Adventure has only one...",
+  "theatricalDate": "2025-10-10",
+  "title": "Deathstalker",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "lCybXEZiZ4Q",
+      "name": "Nina Bergman - Walking Alone | Deathstalker Soundtrack | Official Music Video",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "fAdo8drjc_M",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 89,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        },
+        {
+          "id": 204,
+          "logoPath": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+          "name": "Shudder Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1253000-deathstalker/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1854,
+          "logoPath": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 635,
+          "logoPath": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+          "name": "AMC+ Roku Premium Channel"
+        },
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        },
+        {
+          "id": 204,
+          "logoPath": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+          "name": "Shudder Amazon Channel"
+        },
+        {
+          "id": 2049,
+          "logoPath": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+          "name": "Shudder Apple TV channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1253000-deathstalker/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

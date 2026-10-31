@@ -1,0 +1,210 @@
+{
+  "backdropPath": "/3c5xoObM8emnEXLcLE0kVwy6Lla.jpg",
+  "cast": [
+    {
+      "character": "Doc",
+      "id": 208691,
+      "name": "Jason Benson",
+      "profilePath": null
+    },
+    {
+      "character": "Sarge",
+      "id": 5689703,
+      "name": "Gavin Marck",
+      "profilePath": null
+    },
+    {
+      "character": "German Medic",
+      "id": 6237659,
+      "name": "Johannes Whaley",
+      "profilePath": null
+    },
+    {
+      "character": "German Captain",
+      "id": 6237662,
+      "name": "Ryan James",
+      "profilePath": null
+    },
+    {
+      "character": "Deiter",
+      "id": 1235813,
+      "name": "Grant Gladish",
+      "profilePath": null
+    },
+    {
+      "character": "Rookie",
+      "id": 6237675,
+      "name": "Duncan Murch",
+      "profilePath": null
+    },
+    {
+      "character": "Gabriel",
+      "id": 6237676,
+      "name": "Alexander Forezli",
+      "profilePath": null
+    },
+    {
+      "character": "German Soldier #1",
+      "id": 5923269,
+      "name": "Brian Gorecki",
+      "profilePath": "/9OM3kXmX7babvoeGzhhzqk4ehuZ.jpg"
+    },
+    {
+      "character": "German Soldier #2",
+      "id": 5923271,
+      "name": "AJ Munro",
+      "profilePath": "/4EHkBrTwojHAE5QDpHRcxMUYv3v.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 143512,
+      "logoPath": null,
+      "name": "Millspictures Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2026-05-19",
+  "externalIds": {
+    "imdbId": "tt39496686"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 1701686,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "World War Bigfoot",
+  "overview": "When his platoon is ambushed during WWII, an American medic escapes into the nearby forest, relentlessly pursued by the enemy. While evading capture, he encounters an unbelievable creature, not knowing if it's friend or foe. It will take everything he has to survive as new alliances will be formed and loyalties will be tested.",
+  "posterPath": "/k94AIYLUXkhT6j4nfxdK5s36bXh.jpg",
+  "rating": 5.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-05-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-05-19"
+    },
+    "US": {
+      "digital": "2026-05-19"
+    }
+  },
+  "runtime": 74,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "He doesn't take prisoners.",
+  "theatricalDate": null,
+  "title": "World War Bigfoot",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "XJu6ARunuG4",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "Rs88wpRgP_k",
+      "name": "Teaser Trailer",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1701686-world-war-bigfoot/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1701686-world-war-bigfoot/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "backdropPath": "/xX0QLmlluhugIRzombX5owE7nh4.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 132193,
+      "logoPath": "/itptDVJyYyxmumSuMO65BJMjlgN.png",
+      "name": "Evolve Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt47647390"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1756268,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Paging Hezbollah",
+  "overview": "Paging Hezbollah is the extraordinary true story behind an intelligence operation that seemed impossible—how it was conceived, engineered and carried out, as well as the profound geopolitical consequences that followed.",
+  "posterPath": "/CCFiWX5MFh7UukM5oMoBe2VpNg.jpg",
+  "rating": 10,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-30"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatricalLimited": "2026-10-30"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Outsmarted, Infiltrated, Humiliated.",
+  "theatricalDate": "2026-10-30",
+  "title": "Paging Hezbollah",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "oTNnqivCH2Y",
+      "name": "Paging Hezbollah | Official Teaser HD",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 1,
+  "watchProviders": {}
+}

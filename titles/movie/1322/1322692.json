@@ -1,0 +1,329 @@
+{
+  "backdropPath": "/66goUG18qJdtbnJ7R4HIsibUMKI.jpg",
+  "cast": [
+    {
+      "character": "Roy Keane",
+      "id": 2294600,
+      "name": "Éanna Hardwicke",
+      "profilePath": "/mNp6otIVAoQpDepppvyTVXb2bsE.jpg"
+    },
+    {
+      "character": "Mick McCarthy",
+      "id": 4581,
+      "name": "Steve Coogan",
+      "profilePath": "/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg"
+    },
+    {
+      "character": "Fiona McCarthy",
+      "id": 182327,
+      "name": "Alice Lowe",
+      "profilePath": "/v4sRxLpRpHEd9vbk43wm9VL0v0K.jpg"
+    },
+    {
+      "character": "Mick Byrne",
+      "id": 73283,
+      "name": "Peter McDonald",
+      "profilePath": "/ahacAWWP4zzuVumOUB8hZoJcHTA.jpg"
+    },
+    {
+      "character": "Theresa Keane",
+      "id": 1198657,
+      "name": "Harriet Cains",
+      "profilePath": "/tnYWhvS9ZUrO5Z2ErbAIqm3o0wU.jpg"
+    },
+    {
+      "character": "Dickie Moloney",
+      "id": 203575,
+      "name": "Jamie Beamish",
+      "profilePath": "/g6F7s8J1oP2AvkHUN4TWkcgAKY1.jpg"
+    },
+    {
+      "character": "Eddy Power",
+      "id": 1656683,
+      "name": "Alex Murphy",
+      "profilePath": "/z4E05D4YMYfDJ8ckb1y8fr6XW2I.jpg"
+    },
+    {
+      "character": "Jason McAteer",
+      "id": 1133904,
+      "name": "Oliver Coopersmith",
+      "profilePath": "/no2k4eXLW8Bb6TDaPs8p0u69plF.jpg"
+    },
+    {
+      "character": "Niall Quinn",
+      "id": 1674731,
+      "name": "Jack Hickey",
+      "profilePath": "/wtPysxTTnCQonGTPRzfOcdCXZ0U.jpg"
+    },
+    {
+      "character": "Karen",
+      "id": 2014269,
+      "name": "Aoife Hinds",
+      "profilePath": "/5Gckrcs7WXkMClFWszNOtuJqRou.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 11667,
+      "logoPath": "/dhBJdstAolGmqRfbQfElhsU1cTo.png",
+      "name": "Northern Ireland Screen"
+    },
+    {
+      "id": 1898,
+      "logoPath": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
+      "name": "Fís Éireann/Screen Ireland"
+    },
+    {
+      "id": 129815,
+      "logoPath": "/qbCmnVTQEuFqrVkbxn3i9P7Jrcw.png",
+      "name": "Wild Atlantic Pictures"
+    },
+    {
+      "id": 80995,
+      "logoPath": "/awknjEFU2v2qRKAOe1MZkaMDYN2.png",
+      "name": "Fine Point Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "XI",
+      "name": "Northern Ireland"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33093531",
+    "wikidataId": "Q128787400"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "id": 1322692,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Saipan",
+  "overview": "On the eve of the 2002 FIFA World Cup, Irish captain Roy Keane forfeits his place in the squad at the team's preparation base in Saipan, following a heated disagreement with manager Mick McCarthy.",
+  "posterPath": "/5Af6vLWQk8gj5099GhgpgY0jCiu.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-01-23"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-03-13"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-10-12",
+      "theatrical": "2026-01-23"
+    },
+    "US": {
+      "theatricalLimited": "2026-03-13"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Anger. Management.",
+  "theatricalDate": "2026-03-13",
+  "title": "Saipan",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "urNawKTsnUc",
+      "name": "Official US Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "s4TzwHPsq_s",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "u2DrUDmZwUs",
+      "name": "Official Teaser Trailer",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 24,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1322692-saipan/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        },
+        {
+          "id": 224,
+          "logoPath": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+          "name": "BFI Player"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 11,
+          "logoPath": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+          "name": "MUBI"
+        },
+        {
+          "id": 201,
+          "logoPath": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+          "name": "MUBI Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1322692-saipan/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

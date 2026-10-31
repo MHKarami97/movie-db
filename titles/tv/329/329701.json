@@ -1,0 +1,169 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Twilight Sparkle (voice)",
+      "id": 2110996,
+      "name": "Jenna Weir",
+      "profilePath": "/5FZlUKP6QDW0ncA2yG111feNos0.jpg"
+    },
+    {
+      "character": "Rainbow Dash (voice)",
+      "id": 1723918,
+      "name": "Ava Preston",
+      "profilePath": "/npwnZYMM4qfPXkNcOcLJ86cES79.jpg"
+    },
+    {
+      "character": "Fluttershy (voice)",
+      "id": 6508767,
+      "name": "Kayla Samson",
+      "profilePath": "/zQQgv9zbme64lebwry3M0X4YANi.jpg"
+    },
+    {
+      "character": "Pinkie Pie (voice)",
+      "id": 3269210,
+      "name": "Kaya Kanashiro",
+      "profilePath": "/499mBEqVFK8d4ZxBmsasC40xNDG.jpg"
+    },
+    {
+      "character": "Sunny Starscout (voice)",
+      "id": 1802602,
+      "name": "Jenna Warren",
+      "profilePath": "/17k1EBaM8j8Inrrj2NQhtmmSHIy.jpg"
+    },
+    {
+      "character": "Izzy Moonbow (voice)",
+      "id": 2057224,
+      "name": "Ana Sani",
+      "profilePath": "/nK40ZW8Qb9L3Hv74VPDD3ursCE5.jpg"
+    },
+    {
+      "character": "Potion Nova (voice)",
+      "id": 1255071,
+      "name": "Chanelle Peloso",
+      "profilePath": "/nTPTk8TdI5DHozNn9Uw698WQsxs.jpg"
+    },
+    {
+      "character": "Minty (voice)",
+      "id": 1658963,
+      "name": "Lili Beaudoin",
+      "profilePath": "/sIOIpTywfYqZwrMKHDhyBvrjm6H.jpg"
+    },
+    {
+      "character": "(voice)",
+      "id": 3447173,
+      "name": "Aj Bridel",
+      "profilePath": "/pwSvOh8rrdRt0eKyMg7Yse0ZouD.jpg"
+    },
+    {
+      "character": "Daze (voice)",
+      "id": 6325125,
+      "name": "Justin Eddy",
+      "profilePath": "/iRWm60R4BKSYTIrzgzLmyYYLrTZ.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2027-01-01",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "The first episode",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 329701,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-01",
+    "episodeNumber": 1,
+    "id": 7587764,
+    "name": "Episode 1",
+    "overview": "The first episode",
+    "seasonNumber": 1
+  },
+  "originalTitle": "My Little Pony: Forever Friendship",
+  "overview": "The series is said to follow “Twilight Sparkle, Pinkie Pie, Rainbow Dash, and Fluttershy as they embark on a new journey of friendship, magic and self-discovery.”",
+  "posterPath": "/domyigCvw8u66mCENl4v2HESgz2.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-01"
+    },
+    "CN": {
+      "tv": "2027-01-01"
+    },
+    "GB": {
+      "tv": "2027-01-01"
+    },
+    "US": {
+      "tv": "2027-01-01"
+    }
+  },
+  "runtime": 9,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-01",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "My Little Pony: Forever Friendship",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "doPLyVWi1jk",
+      "name": "My Little Pony: Forever Friendship - Meet the Cast!",
+      "official": true,
+      "type": "Behind the Scenes"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

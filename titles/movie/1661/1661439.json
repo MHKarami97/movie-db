@@ -1,0 +1,151 @@
+{
+  "backdropPath": "/x6pJGUc9hXOEjvhtDZ0W8cPOzQy.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 6109707,
+      "name": "Martín Murano",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 1644108,
+      "name": "Virginia Messi",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 5799096,
+      "name": "Gabriela Boccalandro",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 5623,
+      "logoPath": "/mrpX1NQRR3HoIJLCz9EYaxHnGQz.png",
+      "name": "Haddock Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "digitalDate": "2026-04-23",
+  "externalIds": {
+    "imdbId": "tt41559856"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1661439,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Yiya Murano: Muerte a la hora del té",
+  "overview": "Yiya Murano poisoned her friends to cover up scams in 1970s Argentina and became a dark figure in popular culture. Freed in the 1990s, she reappeared as a pop icon. Today, her son Martín seeks to reveal her true face.",
+  "posterPath": "/5uRgn0Qt7Qxs6rAfdOh2t75Oboh.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-23",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-04-23"
+    }
+  },
+  "runtime": 103,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Yiya Murano: Death at Tea Time",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 7,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1661439-yiya-murano-muerte-a-la-hora-del-te/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1661439-yiya-murano-muerte-a-la-hora-del-te/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1661439-yiya-murano-muerte-a-la-hora-del-te/watch?locale=US",
+      "rent": []
+    }
+  }
+}

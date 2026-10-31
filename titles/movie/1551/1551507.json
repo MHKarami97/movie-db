@@ -1,0 +1,166 @@
+{
+  "backdropPath": "/pD4g0Ks7HwCOReVRkPkL3XxbOml.jpg",
+  "cast": [
+    {
+      "character": "Vuk Dimitrijević",
+      "id": 110968,
+      "name": "Dragan Bjelogrlić",
+      "profilePath": "/jkJMQKQ4XK6tmws0EXWSDue5dXT.jpg"
+    },
+    {
+      "character": "Miljenko Lončarić",
+      "id": 54621,
+      "name": "Rene Bitorajac",
+      "profilePath": "/zM73IREObsmzrnXE01DMAYquIdb.jpg"
+    },
+    {
+      "character": "Jelisaveta 'Beba' Dimitrijević",
+      "id": 85690,
+      "name": "Vesna Trivalić",
+      "profilePath": "/mXBY0Qya3pL7jZnQ70cu7OZvEQQ.jpg"
+    },
+    {
+      "character": "Marija Lončarić",
+      "id": 1311821,
+      "name": "Linda Begonja",
+      "profilePath": "/4mbVX5vwJKuB1FJSnRvjun7aMSb.jpg"
+    },
+    {
+      "character": "Nebojša Dimitrijević",
+      "id": 1496312,
+      "name": "Marko Grabež",
+      "profilePath": "/k56gXO5PkT9oSiqLLg2BmnXJV60.jpg"
+    },
+    {
+      "character": "Ana Lončarić",
+      "id": 4136139,
+      "name": "Nika Grbelja",
+      "profilePath": "/puMwele38tj6aQgBuhQZF3r6cmO.jpg"
+    },
+    {
+      "character": "Dragana 'Gaga'",
+      "id": 2587220,
+      "name": "Anđelka Stević Žugić",
+      "profilePath": null
+    },
+    {
+      "character": "Budimir",
+      "id": 1875975,
+      "name": "Roko Sikavica",
+      "profilePath": "/jhrPcbTF1XzlKnSCm9slVRC9JrX.jpg"
+    },
+    {
+      "character": "Baba Milica",
+      "id": 111126,
+      "name": "Jelisaveta 'Seka' Sablić",
+      "profilePath": "/lbqTRfhUsNbQqxzPcm4ynItMpTW.jpg"
+    },
+    {
+      "character": "Baba Ivanka",
+      "id": 1314561,
+      "name": "Snježana Sinovčić Šiškov",
+      "profilePath": "/tW1UXEN0gPnIPXLle66im826lXU.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 126510,
+      "logoPath": "/ri4Wyl77q1WHO9xn9jQUeM9kfp8.png",
+      "name": "Eclectica"
+    },
+    {
+      "id": 44455,
+      "logoPath": "/8kf5dTbkdspGcJuQgdpH0CS5p9L.png",
+      "name": "Viktorija Film"
+    }
+  ],
+  "countries": [
+    {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    {
+      "code": "RS",
+      "name": "Serbia"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37376089",
+    "instagramId": "svadba_film",
+    "wikidataId": "Q137311963"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1551507,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "hr",
+      "name": "Croatian"
+    },
+    {
+      "code": "sr",
+      "name": "Serbian"
+    }
+  ],
+  "originalTitle": "Svadba",
+  "overview": "Miljenko, a successful Croatian businessman, receives the news that his company has just filed for bankruptcy. Things seem to be looking up, however, when his daughter announces not only her engagement, but also her pregnancy and upcoming nuptials. The only caveat? The love of her life is none other than the son of the Serbian prime minister.",
+  "posterPath": "/2NaiiFPxzBc3JunKJcqkVI6LKA1.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-02-20"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-02-20"
+    }
+  },
+  "runtime": 97,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-02-20",
+  "title": "The Wedding",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "J6nPy3ytMe8",
+      "name": "Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 17,
+  "watchProviders": {}
+}

@@ -1,0 +1,140 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Michael",
+      "id": 3471708,
+      "name": "Will Peters",
+      "profilePath": null
+    },
+    {
+      "character": "Ray",
+      "id": 4164932,
+      "name": "Oba Olaniyi",
+      "profilePath": null
+    },
+    {
+      "character": "Joan",
+      "id": 2751883,
+      "name": "Claire Jolliffe",
+      "profilePath": null
+    },
+    {
+      "character": "Pete",
+      "id": 4075909,
+      "name": "Oliver Richards",
+      "profilePath": null
+    },
+    {
+      "character": "Marnie",
+      "id": 6604390,
+      "name": "Taylor Brooks",
+      "profilePath": null
+    },
+    {
+      "character": "Charlie",
+      "id": 3135455,
+      "name": "Konner Kienzle",
+      "profilePath": null
+    },
+    {
+      "character": "Paxton",
+      "id": 2784382,
+      "name": "Maddie Ogden",
+      "profilePath": null
+    },
+    {
+      "character": "Elise",
+      "id": 6604402,
+      "name": "Fiona Faulkner",
+      "profilePath": null
+    },
+    {
+      "character": "Josh",
+      "id": 5763629,
+      "name": "Noah Marger",
+      "profilePath": null
+    },
+    {
+      "character": "Roger",
+      "id": 6604437,
+      "name": "Robert Franco",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 317110,
+      "logoPath": null,
+      "name": "Fribes n Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-19",
+  "externalIds": {
+    "imdbId": "tt49412678",
+    "instagramId": "greatlakebumsmovie"
+  },
+  "fetchedAt": 1794677631424,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1810033,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "The Great Lake Bums",
+  "overview": "Over the holidays, Michael returns to the Midwest to stay with his best friends, all still living in their same old house from college in Milwaukee. During his several weeks stay, nights out are had, attempts are made to rekindle old flames, and it becomes more and more clear that his friends haven't grown up at all, while maybe Michael's grown up a little too much.",
+  "posterPath": "/rUQDXUQhjh9lcw6UXz5Hp2uY4kS.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-19"
+    }
+  },
+  "runtime": 103,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "Building a Coalition",
+  "theatricalDate": null,
+  "title": "The Great Lake Bums",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,201 @@
+{
+  "backdropPath": "/hzSomJSHrRKat7ZTKaw2OAxHeYU.jpg",
+  "cast": [
+    {
+      "character": "Adrian",
+      "id": 19185,
+      "name": "Mario López",
+      "profilePath": "/b9bGymfTx7Zgv26fp44mHnlPnZT.jpg"
+    },
+    {
+      "character": "Sarah",
+      "id": 496731,
+      "name": "Ali Cobrin",
+      "profilePath": "/d7fXaZpKtvOWUaTpWwAVzp9fZ4g.jpg"
+    },
+    {
+      "character": "Diego Ramirez",
+      "id": 3359204,
+      "name": "Erik Rivera",
+      "profilePath": "/kKHJnkhkCiIke8MDAI5CFAp8WXI.jpg"
+    },
+    {
+      "character": "Charlie Foster",
+      "id": 3828926,
+      "name": "Charlie Besso",
+      "profilePath": "/nRj5FUA88ePAAxsqsz4cHuRJa35.jpg"
+    },
+    {
+      "character": "Captain Harrison",
+      "id": 1517535,
+      "name": "Guy Nardulli",
+      "profilePath": "/8GuJm9fw8v1cuFUZQBbR07FPeuu.jpg"
+    },
+    {
+      "character": "David Reece",
+      "id": 2650759,
+      "name": "Mehdi Francois Ackerman",
+      "profilePath": null
+    },
+    {
+      "character": "Mrs. Stevens",
+      "id": 5858913,
+      "name": "Pamela Rose Mangus",
+      "profilePath": null
+    },
+    {
+      "character": "Firefighter Davie Dave",
+      "id": 5858922,
+      "name": "Davie Dave",
+      "profilePath": null
+    },
+    {
+      "character": "Edgar",
+      "id": 159382,
+      "name": "Richard Livingston",
+      "profilePath": "/cUkZSIExKChYX1oL34YCnW4dGMH.jpg"
+    },
+    {
+      "character": "Thomas",
+      "id": 1523296,
+      "name": "George Kosturos",
+      "profilePath": "/zDo8JhvltZsy16EzDiUTv0lZjSD.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 180934,
+      "logoPath": "/dTBkfIQZvImcftJvp5ckAYog6w6.png",
+      "name": "Great American Media"
+    },
+    {
+      "id": 279275,
+      "logoPath": null,
+      "name": "Great Point Studios"
+    },
+    {
+      "id": 122077,
+      "logoPath": "/lZf5ifXR3Pst0w8VF3nQHdZjx6A.png",
+      "name": "Roberts Media"
+    },
+    {
+      "id": 23761,
+      "logoPath": "/4jwuS7AnT0Itq4ExleF90Cmo3mt.png",
+      "name": "Synthetic Cinema International"
+    },
+    {
+      "id": 170857,
+      "logoPath": "/583tGqXU1c7HewprC5f30o7LASt.png",
+      "name": "Nicely Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36618789"
+  },
+  "fetchedAt": 1793504874718,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1477535,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Christmas Spark",
+  "overview": "At Christmastime, a passed-over corporate lawyer joins his small town's fire department, where he competes with a fallen hero's son - and finds unexpected sparks with his widowed mom.",
+  "posterPath": "/e0U601dhfUodjI9YbSzIjJD6PZw.jpg",
+  "rating": 7.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2025-11-29"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Christmas Spark",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "FrnAARdtt4U",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "sUwjCCzVBsk",
+      "name": "The Christmas Spark | Starring Mario Lopez and Ali Cobrin | Premieres November 28 at 8/7c",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 278,
+          "logoPath": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+          "name": "Pure Flix"
+        },
+        {
+          "id": 2433,
+          "logoPath": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+          "name": "Great American Pure Flix Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1477535-the-christmas-spark/watch?locale=US",
+      "rent": []
+    }
+  }
+}

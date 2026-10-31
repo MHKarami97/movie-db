@@ -1,0 +1,230 @@
+{
+  "backdropPath": "/s2wTQJo1WEQm5us4eArKVpib2h2.jpg",
+  "cast": [
+    {
+      "character": "Шурик",
+      "id": 5430082,
+      "name": "Фёдор Павлов",
+      "profilePath": "/97I0StrAiYMO2SlwRYT8J0oit8q.jpg"
+    },
+    {
+      "character": "Шарик",
+      "id": 2233970,
+      "name": "Dmitry Syenduk",
+      "profilePath": "/jK9dd9nt3SV7nMkywGyb41bT2r8.jpg"
+    },
+    {
+      "character": "Жора",
+      "id": 5430085,
+      "name": "Андрей Афанасьев",
+      "profilePath": "/eAMMRcNZ6caFJyR9Gt1f6i70sdO.jpg"
+    },
+    {
+      "character": "Платон",
+      "id": 5430084,
+      "name": "Никита Диченко",
+      "profilePath": "/2oER4x4eqAMreBwsnmEq3xKkt9h.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 175169,
+      "logoPath": "/qyqiYpqa9IWKfy48MSXTnquWYau.png",
+      "name": "Okko"
+    },
+    {
+      "id": 294314,
+      "logoPath": null,
+      "name": "Phoenix Animation Studio"
+    }
+  ],
+  "countries": [
+    {
+      "code": "RU",
+      "name": "Russia"
+    }
+  ],
+  "digitalDate": "2023-11-02",
+  "episodes": {
+    "3": [
+      {
+        "airDate": "2026-09-01",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-01",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-01",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-01",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-01",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-03-01",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-04-01",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 291219,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ru",
+      "name": "Russian"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-01",
+    "episodeNumber": 2,
+    "id": 7901850,
+    "name": "Episode 2",
+    "overview": "",
+    "seasonNumber": 3
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-01",
+    "episodeNumber": 3,
+    "id": 7901851,
+    "name": "Episode 3",
+    "overview": "",
+    "seasonNumber": 3
+  },
+  "originalTitle": "Шурик и Шарик",
+  "overview": "Three friends live in a rented apartment in the city of Moscow: a modest brother-in-law, dreaming of wealth Zhora and full of calm Plato. They are accompanied by an English Bull Terrier dog named Sharik, whose energetic nature keeps others from getting bored. Every day of the apartment's inhabitants is filled with ordinary human (and canine) problems that need to be solved.",
+  "posterPath": "/tRVHyR23tO2UnR2wunLrnIDO5tF.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2023-11-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2023-11-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2023-11-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2023-11-02",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2023-11-02"
+    },
+    "CN": {
+      "tv": "2023-11-02"
+    },
+    "GB": {
+      "tv": "2023-11-02"
+    },
+    "US": {
+      "tv": "2023-11-02"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2023-11-02",
+      "episodeCount": 5,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/9yWGMeCNHpNJoVjq5k47NQpgIPg.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2025-01-01",
+      "episodeCount": 5,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/dmhRiazDz9a7rCC1qNlUtKyOKza.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2026-09-01",
+      "episodeCount": 8,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Shurik and Sharik",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

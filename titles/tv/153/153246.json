@@ -1,0 +1,297 @@
+{
+  "backdropPath": "/9hg7CnKOwNTpCWPDqQFlnuzHr8c.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 80748,
+      "logoPath": "/hFeRxvOms7shorn3qbmXVaUaGCn.png",
+      "name": "Constantin Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "digitalDate": "2021-11-17",
+  "episodes": {
+    "6": [
+      {
+        "airDate": "2026-11-24",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-01",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-08",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-15",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-22",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-29",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-05",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-12",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-19",
+        "episodeNumber": 9,
+        "name": "Episode 9",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-26",
+        "episodeNumber": 10,
+        "name": "Episode 10",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-02",
+        "episodeNumber": 11,
+        "name": "Episode 11",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-09",
+        "episodeNumber": 12,
+        "name": "Episode 12",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt24851318",
+    "wikidataId": "Q111950358"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 153246,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-01-13",
+    "episodeNumber": 12,
+    "id": 6768036,
+    "name": "Episode 12",
+    "overview": "",
+    "seasonNumber": 5
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-24",
+    "episodeNumber": 1,
+    "id": 7990486,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 6
+  },
+  "originalTitle": "Germany Shore",
+  "overview": "Reality Shore is the first Swiss and German spin-off of the MTV series Jersey Shore.",
+  "posterPath": "/3xjZGloJXfo6I5v0V3BMGg8zRf3.jpg",
+  "rating": 3.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2021-11-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2021-11-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2021-11-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2021-11-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2021-11-17"
+    },
+    "CN": {
+      "tv": "2021-11-17"
+    },
+    "GB": {
+      "tv": "2021-11-17"
+    },
+    "US": {
+      "tv": "2021-11-17"
+    }
+  },
+  "runtime": 48,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2021-11-17",
+      "episodeCount": 12,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/9HngiulyXJhNvDLvsh2uPQqtqIT.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2022-12-15",
+      "episodeCount": 13,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/o8GfZV8Jr46creyGii5KauFvcy0.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2023-11-14",
+      "episodeCount": 13,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/AkSb4f7w0HNXkIAYkYOhS93xS5N.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2024-11-19",
+      "episodeCount": 12,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/tl5CSgkFsut6Rjj1irJkujv7hAz.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2025-10-28",
+      "episodeCount": 12,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/3xjZGloJXfo6I5v0V3BMGg8zRf3.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2026-11-24",
+      "episodeCount": 12,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Sex, drama, and emotions – all at the party of your life!",
+  "theatricalDate": null,
+  "title": "Germany Shore",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "C5EWTKQ--pI",
+      "name": "Reality Shore Trailer vom 31.1.2022 auf MTV",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 531,
+          "logoPath": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+          "name": "Paramount Plus"
+        },
+        {
+          "id": 582,
+          "logoPath": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        },
+        {
+          "id": 1853,
+          "logoPath": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+          "name": "Paramount Plus Apple TV channel"
+        },
+        {
+          "id": 2303,
+          "logoPath": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "id": 2304,
+          "logoPath": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+          "name": "Paramount Plus Basic with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/153246-germany-shore/watch?locale=GB",
+      "rent": []
+    }
+  }
+}

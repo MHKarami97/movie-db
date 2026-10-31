@@ -1,0 +1,168 @@
+{
+  "backdropPath": "/omOIzarzHL4srQeLd5oPlzEReuf.jpg",
+  "cast": [
+    {
+      "character": "Matthieu Vasseur",
+      "id": 145121,
+      "name": "Pierre Niney",
+      "profilePath": "/jxOOaWYodZT5kO15Uih1pLjaX3e.jpg"
+    },
+    {
+      "character": "Adèle",
+      "id": 2879089,
+      "name": "Marion Barbeau",
+      "profilePath": "/9KJZhRxzMMDlwR8A9GpSPXLZ25W.jpg"
+    },
+    {
+      "character": "Julien",
+      "id": 1660839,
+      "name": "Anthony Bajon",
+      "profilePath": "/eHpGmQtj4oRHQ3jn9tngWdb6Z9T.jpg"
+    },
+    {
+      "character": "Christophe Vasseur",
+      "id": 1622993,
+      "name": "Christophe Montenez",
+      "profilePath": "/zmeyQ1BBgzOOJNPaEnmtmQh9a98.jpg"
+    },
+    {
+      "character": "Rudy",
+      "id": 2239987,
+      "name": "Jonathan Turnbull",
+      "profilePath": "/lNLyHj57hkUESv50pqJpvkK9F7t.jpg"
+    },
+    {
+      "character": "Sam",
+      "id": 5932098,
+      "name": "Raphaëlle Simon",
+      "profilePath": "/lFlIJXUcbzwk6U13r7y50TdR1LR.jpg"
+    },
+    {
+      "character": "Hélène",
+      "id": 2822971,
+      "name": "Tracy Gotoas",
+      "profilePath": "/sj3SKfnvMTklXRXvClHUwfs4orh.jpg"
+    },
+    {
+      "character": "Peter Conrad",
+      "id": 7497,
+      "name": "Holt McCallany",
+      "profilePath": "/b1FEXFQ8ZnvXhVrMqCv5mTJ8aW3.jpg"
+    },
+    {
+      "character": "Karla Demaison",
+      "id": 144258,
+      "name": "Léonie Simaga",
+      "profilePath": "/7p06MHCfHaqwu0Dtq9zYc3OhHXs.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1143786,
+      "name": "Cyril Hanouna",
+      "profilePath": "/36xWhwtrGgQu85FZ4q3fMV5TvuJ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 197018,
+      "logoPath": null,
+      "name": "Ninety Films"
+    },
+    {
+      "id": 3304,
+      "logoPath": "/bCSghIiBAsM2KPOeMTb61hu39Yo.png",
+      "name": "WY Productions"
+    },
+    {
+      "id": 694,
+      "logoPath": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal"
+    },
+    {
+      "id": 12407,
+      "logoPath": "/g11ZDtSicimXi5MmwUznAsEomXZ.png",
+      "name": "Panache Productions"
+    },
+    {
+      "id": 1115,
+      "logoPath": "/ntH7T5gsN6wtyrfHGHJDTuneQ7o.png",
+      "name": "M6 Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt31777964",
+    "wikidataId": "Q134457252"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1259983,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Gourou",
+  "overview": "Matt, a charismatic coach, captivates crowds until he spirals into a disturbing downward spiral.",
+  "posterPath": "/oy9SBxmzL6pG5Lckh9o2Wa1IWBr.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 126,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Beware of your idols.",
+  "theatricalDate": null,
+  "title": "Guru",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "18dcAAAQoZ4",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 337,
+  "watchProviders": {}
+}

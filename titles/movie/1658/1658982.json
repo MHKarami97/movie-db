@@ -1,0 +1,223 @@
+{
+  "backdropPath": "/bDwOkqwRFDoGxUzyIe6KUSmye5e.jpg",
+  "cast": [
+    {
+      "character": "Self - Roastee",
+      "id": 55638,
+      "name": "Kevin Hart",
+      "profilePath": "/byiNydUlM6oP8diA7WMvYbNM7a1.jpg"
+    },
+    {
+      "character": "Self - Host",
+      "id": 3231008,
+      "name": "Shane Gillis",
+      "profilePath": "/ijRXBDjfazwne2jxjWEaaWqPw2.jpg"
+    },
+    {
+      "character": "Self - Roaster",
+      "id": 18918,
+      "name": "Dwayne Johnson",
+      "profilePath": "/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+    },
+    {
+      "character": "Self - Roaster",
+      "id": 1448119,
+      "name": "Tony Hinchcliffe",
+      "profilePath": "/nJbIalwNCvqaDZQ9PW6Uyujb8tw.jpg"
+    },
+    {
+      "character": "Self - Roaster",
+      "id": 87281,
+      "name": "Jeff Ross",
+      "profilePath": "/zLKMftA4hIRZYwgYKLO4TLhYFsA.jpg"
+    },
+    {
+      "character": "Self - Roaster",
+      "id": 1223657,
+      "name": "Tom Brady",
+      "profilePath": "/2kL8pFhFBCP5EXbHXnS0Eg5wXLy.jpg"
+    },
+    {
+      "character": "Self - Roaster",
+      "id": 57108,
+      "name": "Usher",
+      "profilePath": "/5LGTj79RPTJdBD19E30HtItbx5y.jpg"
+    },
+    {
+      "character": "Self - Roaster",
+      "id": 151254,
+      "name": "Chelsea Handler",
+      "profilePath": "/b9Yljl32sPMJQQd3mQ1eKNsTfu6.jpg"
+    },
+    {
+      "character": "Self - Roaster",
+      "id": 964679,
+      "name": "Teyana Taylor",
+      "profilePath": "/5b2dAuTsBejBsdm9SkWX4F7jG9w.jpg"
+    },
+    {
+      "character": "Self - Roaster",
+      "id": 1965011,
+      "name": "Draymond Green",
+      "profilePath": "/rOo6gtoWlWE8mZW9UyncYjMhtRB.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 111146,
+      "logoPath": null,
+      "name": "Casey Patterson Entertainment"
+    },
+    {
+      "id": 156448,
+      "logoPath": "/kmitk2AnPRDIsUtBMJeYa2z2O8d.png",
+      "name": "199 Productions"
+    },
+    {
+      "id": 40268,
+      "logoPath": "/shdAxUj8uF6exNLrF0kSqYVxCzG.png",
+      "name": "HartBeat Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-05-10",
+  "externalIds": {
+    "imdbId": "tt40898187",
+    "wikidataId": "Q139822108"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1658982,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Roast of Kevin Hart",
+  "overview": "Kevin Hart is in the hot seat and ready for all the smoke as roastmaster Shane Gillis and a dais of A-listers unleash a raw and ruthless night of laughs.",
+  "posterPath": "/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-10",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-05-10"
+    }
+  },
+  "runtime": 172,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Roast of Kevin Hart",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "fh2Z1hYbi2Q",
+      "name": "I came to burn this MF down....",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "1MasbNLZP8I",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "8Z8EOc3InpY",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 32,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1658982-the-roast-of-kevin-hart/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1658982-the-roast-of-kevin-hart/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1658982-the-roast-of-kevin-hart/watch?locale=US",
+      "rent": []
+    }
+  }
+}

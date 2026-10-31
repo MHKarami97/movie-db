@@ -1,0 +1,176 @@
+{
+  "backdropPath": "/sSwxsbLD5jpGadBi0pPMzm7rTNS.jpg",
+  "cast": [
+    {
+      "character": "Susana",
+      "id": 1455856,
+      "name": "Manuela González",
+      "profilePath": "/tPRKwOpvUHugch2yanrc3OXtHos.jpg"
+    },
+    {
+      "character": "Elvira",
+      "id": 2071690,
+      "name": "Mabel Moreno",
+      "profilePath": "/vq6glTsSIDNe7iCfww3TNZMkfKe.jpg"
+    },
+    {
+      "character": "Valentín",
+      "id": 3513369,
+      "name": "Emmanuel Restrepo",
+      "profilePath": "/hcyTajG2qdIabNbfdQP4h4gXcL5.jpg"
+    },
+    {
+      "character": "Gustavo",
+      "id": 1633150,
+      "name": "Claudio Cataño",
+      "profilePath": "/k5L4EDlJVhqvzQojcwvbrohKeJm.jpg"
+    },
+    {
+      "character": "Rodolfo",
+      "id": 995237,
+      "name": "Emmanuel Esparza",
+      "profilePath": "/qMQW5LsxXG2ebN1klRqe7jTfKYg.jpg"
+    },
+    {
+      "character": "Chano",
+      "id": 2640145,
+      "name": "Julián Cerati",
+      "profilePath": "/kEoyoelrx8dmAl0vqfDEuBhjHYT.jpg"
+    },
+    {
+      "character": "Macarena",
+      "id": 5817218,
+      "name": "Mya Durán",
+      "profilePath": null
+    },
+    {
+      "character": "Manuel",
+      "id": 2097367,
+      "name": "Luciano D'Alessandro",
+      "profilePath": "/anpArWxzmHrbd8lAM2JKntOvnrm.jpg"
+    },
+    {
+      "character": "Luis Miguel",
+      "id": 1809533,
+      "name": "Édgar Vittorino",
+      "profilePath": "/2To4LGDx2mNSaunFAH84l6BBjbj.jpg"
+    },
+    {
+      "character": "Mario",
+      "id": 3107375,
+      "name": "Víctor Tarazona",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 280483,
+      "logoPath": "/iG5OmesjBfybLh2Gjd13ySr5M2W.png",
+      "name": "Púlsar Studios"
+    },
+    {
+      "id": 128081,
+      "logoPath": "/c7e41WNx0l9UWKwTEHmFxVwNtCd.png",
+      "name": "Jaguar Bite"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37762750"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1580803,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Susana y Elvira: Sin plan B",
+  "overview": "Susana and Elvira, two former best friends, reunite after two years apart to organize the celebrity wedding of the year.",
+  "posterPath": "/amqNq4a3cugpf48nfpZFJwnFzbb.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Chick flicks ruined their lives. Now they're trapped in one.",
+  "theatricalDate": null,
+  "title": "Susana and Elvira: No Plan B",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "zQd9gmm0khQ",
+      "name": "Susana y Elvira - Sin plan B | Tráiler Oficial",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 14,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1580803-susana-y-elvira-sin-plan-b/watch?locale=US",
+      "rent": []
+    }
+  }
+}

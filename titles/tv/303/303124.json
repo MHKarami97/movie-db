@@ -1,0 +1,209 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Harry Bosch",
+      "id": 37089,
+      "name": "Cameron Monaghan",
+      "profilePath": "/u2nxAlWiFcc8qIjpTppFazl13CR.jpg"
+    },
+    {
+      "character": "Eli Bridges",
+      "id": 41556,
+      "name": "Omari Hardwick",
+      "profilePath": "/acUogRPe6eyhiK33EavBk3SWGlB.jpg"
+    },
+    {
+      "character": "Calhern",
+      "id": 886,
+      "name": "William Fichtner",
+      "profilePath": "/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg"
+    },
+    {
+      "character": "Officer Hastings",
+      "id": 114035,
+      "name": "Seamus Dever",
+      "profilePath": "/izuwVXJowfoI5L51whUuHyjmdf8.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 188734,
+      "logoPath": "/slz9Q8iaa7S2YnSsHdsVdqH16HE.png",
+      "name": "Fabel Entertainment"
+    },
+    {
+      "id": 103593,
+      "logoPath": null,
+      "name": "Hieronymus Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2027-01-10",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-10",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-10",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-17",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-24",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-31",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-07",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-14",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-21",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt38420999"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 303124,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-10",
+    "episodeNumber": 1,
+    "id": 6605785,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Bosch: Start of Watch",
+  "overview": "Follow 26-year-old Harry Bosch during his earliest days as a rookie cop in 1991 Los Angeles, a city on the edge, teeming with racial tension, gang violence, and a fractured LAPD. Amid routine calls and growing unrest, Bosch finds himself drawn into a high-profile heist and a web of criminal corruption that will test his loyalty to the badge and shape his future as the detective who lives by the code, \"Everybody counts or nobody counts.\"",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-10",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-10",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-10",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-10",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-10"
+    },
+    "CN": {
+      "tv": "2027-01-10"
+    },
+    "GB": {
+      "tv": "2027-01-10"
+    },
+    "US": {
+      "tv": "2027-01-10"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-10",
+      "episodeCount": 8,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Planned",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Bosch: Start of Watch",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

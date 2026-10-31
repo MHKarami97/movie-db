@@ -1,0 +1,260 @@
+{
+  "backdropPath": "/gdVOvkG10Axz7mYnucVbzT9uT8O.jpg",
+  "cast": [
+    {
+      "character": "Abigail",
+      "id": 143549,
+      "name": "Rebekah Kennedy",
+      "profilePath": "/d23uj6cZsC5CYSUcePIbTQev13b.jpg"
+    },
+    {
+      "character": "Sheriff Miller",
+      "id": 74133,
+      "name": "AJ Bowen",
+      "profilePath": "/fGSSDkxLOkaUNj1VLHEg6ZPi3Jw.jpg"
+    },
+    {
+      "character": "Alice (Adult)",
+      "id": 1432299,
+      "name": "Emily Goss",
+      "profilePath": "/ay95j6zQbA4IMbTwWU2AEGwMuBY.jpg"
+    },
+    {
+      "character": "Elliot Morrison",
+      "id": 1442841,
+      "name": "William Gabriel Grier",
+      "profilePath": "/kEtK73INnzfRNpSHRUv7gX6W0aD.jpg"
+    },
+    {
+      "character": "Mikey",
+      "id": 3952487,
+      "name": "Ranen Navat",
+      "profilePath": "/nmPqDropgqRsRiyHEiBYgTdG4g3.jpg"
+    },
+    {
+      "character": "John Reed",
+      "id": 33836,
+      "name": "Sean O'Bryan",
+      "profilePath": "/nS6ZEJvn6O7FCNcDSeIFfbwpW03.jpg"
+    },
+    {
+      "character": "Mikey's Mother",
+      "id": 2934075,
+      "name": "Naomi Petit",
+      "profilePath": null
+    },
+    {
+      "character": "Steve",
+      "id": 9996,
+      "name": "Sean Whalen",
+      "profilePath": "/nUPHcRagVWhH21mIS4Qdeoclhr5.jpg"
+    },
+    {
+      "character": "Jaffar",
+      "id": 3625206,
+      "name": "Brahim Rachiki",
+      "profilePath": "/g6MmpMlRQMva35kz4P5vxLouoOC.jpg"
+    },
+    {
+      "character": "Volpaazu",
+      "id": 2934925,
+      "name": "Maxime Rancon",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 174133,
+      "logoPath": "/iy7uVgA7KhNFIYUY4lHVLvJH0cg.png",
+      "name": "The Rancon Company"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-10-07",
+  "externalIds": {
+    "imdbId": "tt32903867",
+    "wikidataId": "Q135488873"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1319482,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Traumatika",
+  "overview": "Mikey's night terrors become reality when his mother begins showing signs of demonic possession. What he's about to experience will haunt him for the rest of his life and claim countless lives across generations.",
+  "posterPath": "/jnINnXC7KHAVodspt9xIepEE9f6.jpg",
+  "rating": 5.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-07",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2024-08-24"
+    },
+    "US": {
+      "digital": "2025-10-07"
+    }
+  },
+  "runtime": 88,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Traumatika",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "7coc_S8mEeA",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 19,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 332,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango at Home Free"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        },
+        {
+          "id": 2077,
+          "logoPath": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+          "name": "Plex Channel"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 331,
+          "logoPath": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+          "name": "FlixFling"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1319482-traumatika/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 331,
+          "logoPath": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+          "name": "FlixFling"
+        }
+      ]
+    }
+  }
+}

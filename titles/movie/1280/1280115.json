@@ -1,0 +1,178 @@
+{
+  "backdropPath": "/1JL6mDxYRauwv81bLupSZczC39M.jpg",
+  "cast": [
+    {
+      "character": "Jake",
+      "id": 73457,
+      "name": "Chris Pratt",
+      "profilePath": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+    },
+    {
+      "character": "Marc",
+      "id": 3232669,
+      "name": "Jude Hill",
+      "profilePath": "/yAcW6qaqQVok6UpfPb1D9dPBFbK.jpg"
+    },
+    {
+      "character": "Sarah",
+      "id": 1817,
+      "name": "Linda Cardellini",
+      "profilePath": "/bcycvynDprC1rrhBNrnBjn5uOUd.jpg"
+    },
+    {
+      "character": "",
+      "id": 4923539,
+      "name": "Levi McConaughey",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 2822796,
+      "name": "Ava Torres",
+      "profilePath": "/yc0M1jojP4lIbOZ4uVA7CDyJ848.jpg"
+    },
+    {
+      "character": "",
+      "id": 5014159,
+      "name": "Arlan Ruf",
+      "profilePath": "/bfLIC3qDeV5Jyzm9n2c02BjUiel.jpg"
+    },
+    {
+      "character": "",
+      "id": 4044214,
+      "name": "Ellis Hobbs IV",
+      "profilePath": "/kLJfvOncA6w4TITCAp4TGaSpBNe.jpg"
+    },
+    {
+      "character": "",
+      "id": 187637,
+      "name": "Darien Sills-Evans",
+      "profilePath": "/znJf3vMSu2uVdlv2de4F4NU08KH.jpg"
+    },
+    {
+      "character": "",
+      "id": 1602552,
+      "name": "Carl McDowell",
+      "profilePath": "/vv9cbS4TX1mrjmpDym8EEUlXD2r.jpg"
+    },
+    {
+      "character": "",
+      "id": 1254635,
+      "name": "Parker Young",
+      "profilePath": "/wrBquz08tLT4GpG30JBOvfTVy93.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 82819,
+      "logoPath": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+      "name": "Skydance Media"
+    },
+    {
+      "id": 150894,
+      "logoPath": null,
+      "name": "Indivisible Productions"
+    },
+    {
+      "id": 4022,
+      "logoPath": "/q6Xts6ztGkTHrY1WfHttlhL3Pfc.png",
+      "name": "Wonderland Sound and Vision"
+    },
+    {
+      "id": 194232,
+      "logoPath": "/oE7H93u8sy5vvW5EH3fpCp68vvB.png",
+      "name": "Apple Studios"
+    },
+    {
+      "id": 237442,
+      "logoPath": null,
+      "name": "Everard Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-24",
+  "externalIds": {
+    "imdbId": "tt32213169",
+    "wikidataId": "Q129814796"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1280115,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Way of the Warrior Kid",
+  "overview": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
+  "posterPath": "/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-11-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-24",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-11-25"
+    },
+    "GB": {
+      "digital": "2026-11-25"
+    },
+    "US": {
+      "digital": "2026-11-24"
+    }
+  },
+  "runtime": 106,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "It takes a hero to train one.",
+  "theatricalDate": null,
+  "title": "Way of the Warrior Kid",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "R1ECMLrwDYQ",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

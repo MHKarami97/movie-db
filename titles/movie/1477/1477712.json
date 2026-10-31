@@ -1,0 +1,685 @@
+{
+  "backdropPath": "/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
+  "cast": [
+    {
+      "character": "The Ice Cream Man / Jonathan Smiley",
+      "id": 1359997,
+      "name": "Ari Millen",
+      "profilePath": "/x2hFdgnrJ1er0VpteRcqTr8aWTT.jpg"
+    },
+    {
+      "character": "Jared",
+      "id": 2229334,
+      "name": "Charlie Zeltzer",
+      "profilePath": "/ytbrQ4R1iiRD3I0qdAddVfgooD7.jpg"
+    },
+    {
+      "character": "Tommy",
+      "id": 4058530,
+      "name": "Shiloh O’Reilly",
+      "profilePath": "/ogT1ycS4CoOassN1GeCaS7qVcgO.jpg"
+    },
+    {
+      "character": "Mia",
+      "id": 5813338,
+      "name": "Kiori Mirza Waldman",
+      "profilePath": "/yfEe5f4kT411DH2NNx1VU3gDQZV.jpg"
+    },
+    {
+      "character": "Lizzie",
+      "id": 1516081,
+      "name": "Sarah Abbott",
+      "profilePath": "/riLNrHSQNFL2jgT3IRhIYOiBCXG.jpg"
+    },
+    {
+      "character": "The Priest",
+      "id": 1356013,
+      "name": "Benjamin Byron Davis",
+      "profilePath": "/5WHDh9l9Ylsbf5ZKt3nQ4FRweUi.jpg"
+    },
+    {
+      "character": "Alison",
+      "id": 139419,
+      "name": "Karen Cliche",
+      "profilePath": "/fVXdJyDRVDo7C5tTHauDm9zDvi9.jpg"
+    },
+    {
+      "character": "Chris",
+      "id": 4702557,
+      "name": "Dylan Hawco",
+      "profilePath": "/scuhT7GDRFIXP2Iw7Yz2Mplq7oW.jpg"
+    },
+    {
+      "character": "Marty",
+      "id": 16847,
+      "name": "Eli Roth",
+      "profilePath": "/qQTkpxzh1FlBGL1HD5hzdUMxv49.jpg"
+    },
+    {
+      "character": "Terry",
+      "id": 1450407,
+      "name": "Lorenzo Antonucci",
+      "profilePath": "/rUPpfC8HwWdwB8NNP1m1zLPIhlH.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 258079,
+      "logoPath": "/2cvSE4rsBLKXqK13tWtAJe7afAS.png",
+      "name": "The Horror Section"
+    },
+    {
+      "id": 221429,
+      "logoPath": "/rWqW00ts1tZ0efwyacZlGnVd6PB.png",
+      "name": "Media Capital Technologies"
+    },
+    {
+      "id": 5056,
+      "logoPath": "/ok7CQyn0RPEuI0upznPoo93YE6H.png",
+      "name": "Head Gear Films"
+    },
+    {
+      "id": 62657,
+      "logoPath": "/lrjP8bqSziFpahMsE13qImlWLBQ.png",
+      "name": "Mass Appeal"
+    },
+    {
+      "id": 25954,
+      "logoPath": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
+      "name": "Metrol Technology"
+    },
+    {
+      "id": 1778,
+      "logoPath": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+      "name": "dentsu"
+    },
+    {
+      "id": 252730,
+      "logoPath": "/4mXx4PAP9ivHVZ0WAjvyKTI8hGK.png",
+      "name": "Sixth Dimension"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2026-09-22",
+  "externalIds": {
+    "imdbId": "tt36893729",
+    "wikidataId": "Q136773033"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 46,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1477712,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Ice Cream Man",
+  "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+  "posterPath": "/w2dr5aFRtRB1ojcHbCEPlfTXkbf.jpg",
+  "rating": 5.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-06"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-07"
+    },
+    "US": {
+      "digitalDate": "2026-09-22",
+      "gapDays": 46,
+      "theatricalDate": "2026-08-07"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-08-06"
+    },
+    "GB": {
+      "physical": "2026-10-26",
+      "theatrical": "2026-08-07",
+      "theatricalLimited": "2026-08-04"
+    },
+    "US": {
+      "digital": "2026-09-22",
+      "physical": "2026-10-20",
+      "theatrical": "2026-08-07",
+      "theatricalLimited": "2026-08-03"
+    }
+  },
+  "runtime": 86,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "We all scream.",
+  "theatricalDate": "2026-08-07",
+  "title": "Ice Cream Man",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "tTM-Yg6pGTI",
+      "name": "No breathers. No breaks. Just wall-to-wall carnage.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "G6yQiMIZkKU",
+      "name": "these kids have zero chill",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "6s43E8udi1M",
+      "name": "we dare you to remain cool, calm and collected through this one",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "HiRRoobKTmU",
+      "name": "Which one are you?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "MowIcHLfp-k",
+      "name": "The only movie ticket you should be buying this week....",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "sLreFp3har4",
+      "name": "the only movie anyone needs to see this summer",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "pc6uxGMLOSs",
+      "name": "It's a no Brainer....get your limited edition Ice Cream Man Brain Freeze from @HumphrySlocombe",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "bkf4Qo8LylQ",
+      "name": "The Ice Cream Man has been everywhere this summer.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "N50oY4MMUOY",
+      "name": "traumatized",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "iLESyR2S3tY",
+      "name": "These kids have no chill",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "mkdXNLqPwSE",
+      "name": "Kodak Presents: Ice Cream Man - A Conversation with Eli Roth, moderated by Elvis Mitchell",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "X5OUp1WXScE",
+      "name": "Don't say we didn't warn you.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "JlsxjIgPcNI",
+      "name": "The best sounds of summer",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "6SDqDHR5DVo",
+      "name": "Don't say we didn't warn you.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "OkNpgTi7Q-I",
+      "name": "It's finally here. Ice Cream Man hits theaters this week - you've been warned",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "7pI7zHoIDms",
+      "name": "Pick up your limited edition Ice Cream Man popcorn bundle at http://sirpopsmore.com",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "jXJx6-U4tLY",
+      "name": "It's always a yes to ice cream....",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "gf_arL2ODu4",
+      "name": "Finally, an instructional video for the summer we all need",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "SXuElfQtEZQ",
+      "name": "The Ice Cream Man movie reviews are starting to drop.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "iU8kZV3x5kE",
+      "name": "Zero chill, all chaos",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "StPthzT2NAY",
+      "name": "Merle gives @AdamW  the lowdown on why everyone should go see the Ice Cream Man this week",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "UFoVnFEchSE",
+      "name": "Eat it up....just not the ice cream",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "2vhTgOEjFRM",
+      "name": "We love Ice Cream....Just... maybe skip the truck this year",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "A9M7EwUPsSE",
+      "name": "The real horror? Missing out. Tickets on sale now.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "71O4OLl5AEs",
+      "name": "I scream. You scream. We all scream for Ice Cream Man.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "51PFDTNhFmo",
+      "name": "no more mommy issues though",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "1s39PADE8eo",
+      "name": "Did you guys see that weird ice cream man?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "NMNnbzifmDI",
+      "name": "You don't want to miss this one",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "__k5hQSoXFA",
+      "name": "Ice Cream Man's Comic-Con 2026 Takeover: Ice Cream Social Massacre",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Fi3xzL7VLp0",
+      "name": "You will never trust that jingle again",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "tgNA2Oz3iHg",
+      "name": "Ice Cream Man at Comic Con",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Mr_I2rpWN_Y",
+      "name": "Run, don't walk to buy your tickets for Ice Cream Man",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "0hZJgmrK9ZY",
+      "name": "This isn't a Netflix documentary but tickets are on sale now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "suTA4KxJ7Ls",
+      "name": "Happy National Ice Cream Day from Bayleen Bay",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "C-71OCY5Nvg",
+      "name": "I scream, you scream, we all scream - and this year we mean it.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "cTibISk9Ddc",
+      "name": "Horror baddie incoming",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "j24D-PoXqYU",
+      "name": "If you haven't, this is your sign!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "-dTYZnkwu94",
+      "name": "horror summer's final boss arrives August 7th",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "S_jeO4cCgng",
+      "name": "new favorite horror icon just dropped",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "kC5n41-37LI",
+      "name": "free samples, topped with trauma",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "pIpWr91PDCk",
+      "name": "The body count is unmatched",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "y54RGfg9Qrg",
+      "name": "Ice Cream Truck Night Ride",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "9QvcOG4Bf6c",
+      "name": "More gore in store",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "wobuPcurCPU",
+      "name": "Tag the friend who's getting dragged to the theater",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "q416PtF0N5Q",
+      "name": "he's not giving out sprinkles bestie",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Cgw3zNmFtRo",
+      "name": "Official International Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "fOrYZSTaRNk",
+      "name": "the escalation is wild",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "LDfwsxRZGDY",
+      "name": "Choose wisely",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "OumjAchfTkM",
+      "name": "Suddenly we're not so hungry anymore",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "3ogSdtugusA",
+      "name": "ICE CREAM MAN",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "BjtVXWa3tWI",
+      "name": "Official Green Band Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "SHxqHdBNm-w",
+      "name": "Official Red Band Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "vw6owu-U7wU",
+      "name": "Ice Cream Man [2026] | OFFICIAL RED BAND TRAILER | Directed by Eli Roth | The Horror Section",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "SZHntIWBMQA",
+      "name": "Ice Cream Man @ Monsterpalooza 2026",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "DVUv92no5uU",
+      "name": "20 years in the making! Eli Roth tells KTLA how he finally got to make his Ice Cream Man movie",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "VIFkWvC1jy0",
+      "name": "Ice Cream Man Teaser Reaction… This Is Creepy",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "xAsq2n25gy4",
+      "name": "The Caffeinated Horror Dude giving us his scoop on the Ice Cream Man trailer.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "2KX2vt4IWzg",
+      "name": "Watching you all react to the teaser trailer for Ice Cream Man is giving us all we need this week.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "QM8VxwK6SbE",
+      "name": "Ice Cream Man at CinemaCon",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "5r9Tcfg_bAY",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Tv5cM_9dh0g",
+      "name": "These kids have zero chill",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 255,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1477712-ice-cream-man/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1477712-ice-cream-man/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

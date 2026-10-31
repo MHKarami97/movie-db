@@ -1,0 +1,165 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Ignatius Adams",
+      "id": 6539697,
+      "name": "Volga Can Kaya",
+      "profilePath": null
+    },
+    {
+      "character": "Morgana Vane",
+      "id": 6539704,
+      "name": "Ariana Weldon",
+      "profilePath": null
+    },
+    {
+      "character": "David Blackwood",
+      "id": 6200205,
+      "name": "David Divito",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 313821,
+      "logoPath": null,
+      "name": "House of Hades Productions"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2027-10-31",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-10-31",
+        "episodeNumber": 1,
+        "name": "Shock Factor",
+        "overview": "Meet Dr Ignatius Adams, the slightly maniacal European relative to a famous kooky family.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-10-31",
+        "episodeNumber": 2,
+        "name": "The Equation",
+        "overview": "Meet Morgana Vane, the psycotic Alchemist",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-11-07",
+        "episodeNumber": 3,
+        "name": "Brute Force",
+        "overview": "After walking away from his pack, Korbin Valkov navigates his way through lonliness.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-11-14",
+        "episodeNumber": 4,
+        "name": "The Apex",
+        "overview": "The Legend of Blackwood is born",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt43718193"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "id": 338041,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-10-31",
+    "episodeNumber": 1,
+    "id": 7931009,
+    "name": "Shock Factor",
+    "overview": "Meet Dr Ignatius Adams, the slightly maniacal European relative to a famous kooky family.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Ignatius",
+  "overview": "An ancient threat resurfaces across the wind-scoured moors of Dartmoor as Morgana Vane, a ruthless dark alchemist, begins harvesting outcast youth to build an army of mutated, synthetic thralls. Standing between her dark science and the vulnerable students of Grimpen Academy is an unlikely, centuries-old alliance: Dr Ignatius Adams, a brilliant, eccentric alchemist armed with custom galvanic weaponry and David Blackwood, a sovereign Pureform Lycan Apex Predator. Joined by an unexpected band of allies, the guardians must descend into a subterranean iron cathedral beneath the granite bedrock to break Vane’s hold and save the next generation.",
+  "posterPath": "/pdXrY81KU7hVeZmS1FN2M9nTtKE.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-10-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-10-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-10-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-10-31",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-10-31"
+    },
+    "CN": {
+      "tv": "2027-10-31"
+    },
+    "GB": {
+      "tv": "2027-10-31"
+    },
+    "US": {
+      "tv": "2027-10-31"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-10-31",
+      "episodeCount": 4,
+      "name": "Ignatius - Timelines",
+      "overview": "A prequel introduction to the world of Ignatius.",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Ignatius",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

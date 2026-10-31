@@ -1,0 +1,225 @@
+{
+  "backdropPath": "/5Dkv39CuytJDnJeZjkepFtOWqBr.jpg",
+  "cast": [
+    {
+      "character": "Martín de la Torre",
+      "id": 8688,
+      "name": "Diego Luna",
+      "profilePath": "/qwbjcyDN37OHiln4a6P4LP31o7F.jpg"
+    },
+    {
+      "character": "Susana Gómez Mont",
+      "id": 144275,
+      "name": "Karla Souza",
+      "profilePath": "/k97X2Si4mUKlmL0fSO38x5xaNMb.jpg"
+    },
+    {
+      "character": "Emilio Azcárraga",
+      "id": 1603,
+      "name": "Daniel Giménez Cacho",
+      "profilePath": "/4sM4fbDAyjDcEcxRqVWpUF35IrL.jpg"
+    },
+    {
+      "character": "Guillermo Cañedo",
+      "id": 262,
+      "name": "Álvaro Guerrero",
+      "profilePath": "/gqo0QF9a3MQpRI2o7GVl0c8gZdu.jpg"
+    },
+    {
+      "character": "Hugo Sánchez",
+      "id": 1317100,
+      "name": "Memo Villegas",
+      "profilePath": "/hMpPlrVFarxUDFsnSC3heFggiGI.jpg"
+    },
+    {
+      "character": "Bora Milutinovic",
+      "id": 3911560,
+      "name": "Davor Tomić",
+      "profilePath": "/snmtHj77c9XEFdqRPgRDsWhgZIb.jpg"
+    },
+    {
+      "character": "Joâo Avelange",
+      "id": 1517740,
+      "name": "Cândido Damm",
+      "profilePath": "/sDRHsw7YQLbn0CZPBsGl0tFmvCl.jpg"
+    },
+    {
+      "character": "Hermann Neuberger",
+      "id": 1849710,
+      "name": "Roberto Martinez",
+      "profilePath": "/9okC3iIf4JloTyxT1WmoW5GavLK.jpg"
+    },
+    {
+      "character": "Jackie Ross",
+      "id": 1361805,
+      "name": "Genevieve Fleming",
+      "profilePath": "/bxAHtFCRVllyzp5JybR720evVh0.jpg"
+    },
+    {
+      "character": "Beatriz",
+      "id": 1290821,
+      "name": "Diana Sedano",
+      "profilePath": "/dRvLVo3PogLzjoRFoX2dw4YYMqS.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 114862,
+      "logoPath": null,
+      "name": "Phototaxia Pictures"
+    },
+    {
+      "id": 206133,
+      "logoPath": "/wS56yo8ya8fui8imnDRbkyjWE7H.png",
+      "name": "Gaumont"
+    }
+  ],
+  "countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-06-05",
+  "externalIds": {
+    "imdbId": "tt37961742",
+    "wikidataId": "Q140074895"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1530510,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "México 86",
+  "overview": "When a last-minute chance to host the 1986 World Cup appears, a cunning Mexican bureaucrat, armed with nothing but guts and audacity, cons his way through FIFA to beat the United States, but in a country of power games, every victory has a price.",
+  "posterPath": "/dj4MbmBrZXzNQpxsLBIxKohRp9b.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-06-05",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-05",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-06-05"
+    },
+    "US": {
+      "digital": "2026-06-05"
+    }
+  },
+  "runtime": 95,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Not all goals are scored on the field.",
+  "theatricalDate": null,
+  "title": "Mexico 86",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "BIVgPq4-mOM",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 122,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1530510-mexico-86/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1530510-mexico-86/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1530510-mexico-86/watch?locale=US",
+      "rent": []
+    }
+  }
+}

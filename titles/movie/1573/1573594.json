@@ -1,0 +1,192 @@
+{
+  "backdropPath": "/tFPQlhu6CdwXGlUERSE4ZKrHJ1c.jpg",
+  "cast": [
+    {
+      "character": "Rebecca Morrison",
+      "id": 5343557,
+      "name": "Hannah Brennen",
+      "profilePath": null
+    },
+    {
+      "character": "Allison",
+      "id": 5792046,
+      "name": "Eero McNeilly",
+      "profilePath": null
+    },
+    {
+      "character": "Jacob Peterson",
+      "id": 5792049,
+      "name": "Matt Hall",
+      "profilePath": null
+    },
+    {
+      "character": "Mandy Morrison",
+      "id": 5792053,
+      "name": "Caroline Barr Ritchie",
+      "profilePath": null
+    },
+    {
+      "character": "Justin",
+      "id": 5792055,
+      "name": "Andrew Watson",
+      "profilePath": null
+    },
+    {
+      "character": "Mr. Morrison",
+      "id": 5792058,
+      "name": "Christopher Bower",
+      "profilePath": null
+    },
+    {
+      "character": "Connor",
+      "id": 5792065,
+      "name": "Jackson Bennink",
+      "profilePath": null
+    },
+    {
+      "character": "Amber",
+      "id": 5792077,
+      "name": "Jessica Pliszka",
+      "profilePath": null
+    },
+    {
+      "character": "Dianne",
+      "id": 5792078,
+      "name": "Katie Nickolaou",
+      "profilePath": null
+    },
+    {
+      "character": "Radio Host",
+      "id": 4470556,
+      "name": "Kyle Phillips",
+      "profilePath": "/lDRcb554XMfpmY3h2fOJzGwMSV3.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2025-11-07",
+  "externalIds": {
+    "imdbId": "tt36456038"
+  },
+  "fetchedAt": 1793906464749,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1573594,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Destroy This Tape",
+  "overview": "Camcorder footage recovered from a ruined campsite captures the last days of a group of teens who never returned from the woods of Alpine Oaks.",
+  "posterPath": "/era5v3j5oYOGFUCSMMivn3xD5OH.jpg",
+  "rating": 3.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-07",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-11-07"
+    }
+  },
+  "runtime": 88,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Don't go digging up their pain.",
+  "theatricalDate": null,
+  "title": "Destroy This Tape",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Z4Exe37F3_E",
+      "name": "Destroy This Tape | Official Trailer (2025)",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "AE": {
+      "ads": [
+        {
+          "id": 2478,
+          "logoPath": "/2hAu4MUecOOMTtrlJ3XEqB4dhZr.png",
+          "name": "FOUND TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1573594-destroy-this-tape/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        },
+        {
+          "id": 2478,
+          "logoPath": "/2hAu4MUecOOMTtrlJ3XEqB4dhZr.png",
+          "name": "FOUND TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1573594-destroy-this-tape/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 2478,
+          "logoPath": "/2hAu4MUecOOMTtrlJ3XEqB4dhZr.png",
+          "name": "FOUND TV"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1573594-destroy-this-tape/watch?locale=US",
+      "rent": []
+    }
+  }
+}
