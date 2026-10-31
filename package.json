@@ -1,0 +1,26 @@
+{
+  "name": "movie-db-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Persian Movie and TV series release calendar PWA backed by TMDB, Cloudflare Worker and GitHub Actions",
+  "workspaces": [
+    "app",
+    "worker",
+    "sync"
+  ],
+  "scripts": {
+    "dev:app": "npm run --workspace=app dev",
+    "build:app": "npm run --workspace=app build",
+    "test:app": "npm run --workspace=app test",
+    "dev:worker": "npm run --workspace=worker dev",
+    "build:worker": "npm run --workspace=worker build",
+    "test:worker": "npm run --workspace=worker test",
+    "build:sync": "npm run --workspace=sync build",
+    "test:sync": "npm run --workspace=sync test",
+    "test:all": "npm run test:sync && npm run test:worker && npm run test:app",
+    "typecheck": "npm run --workspace=sync typecheck && npm run --workspace=worker typecheck && npm run --workspace=app typecheck"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  }
+}

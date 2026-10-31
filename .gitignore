@@ -1,10 +1,36 @@
-node_modules
-dist
-dist-ssr
-*.local
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+dist/
+dist-ssr/
+data-out/
+.wrangler/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment and secrets
 .env
-.DS_Store
+.env.local
+.env.*.local
+*.local
+
+# Editor directories
 .vscode/*
 !.vscode/extensions.json
-*.log
-data-out
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
+Thumbs.db
