@@ -9,7 +9,8 @@ export const useFilterStore = defineStore('filter', () => {
   const dataRepo = new DataRepository();
   const storage = new JsonLocalStorage();
   const sorter = new TitleSorter();
-  const SORT_STORAGE_KEY = 'search_sort_v1';
+  // v2: the default changed to "most votes", so older saved values must not override it.
+  const SORT_STORAGE_KEY = 'search_sort_v2';
   const sortKey = ref<SortKey>(TitleSorter.sanitize(storage.read<string | null>(SORT_STORAGE_KEY, null)));
   watch(sortKey, (value) => storage.write(SORT_STORAGE_KEY, value));
 

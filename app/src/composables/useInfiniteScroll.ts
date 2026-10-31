@@ -1,36 +1,51 @@
-import { ref, watch, nextTick, onBeforeUnmount } from 'vue';
+import { ref, watch, nextTick, onMounted, onBeforeUnmount } from 'vue';
 
-export function useInfiniteScroll(totalCount: () => number, pageSize = 40) {
+/**
+ * Window-scroll based "load more". It measures the remaining scroll distance directly,
+ * so it keeps loading until the page is filled and does not depend on element visibility.
+ */
+export function useInfiniteScroll(totalCount: () => number, pageSize = 30, thresholdPx = 900) {
   const visibleCount = ref(pageSize);
+  // Kept for template compatibility; the logic no longer needs a sentinel element.
   const sentinel = ref<HTMLElement | null>(null);
+  let frame = 0;
 
-  function loadMore(): boolean {
-    if (visibleCount.value >= totalCount()) return false;
-    visibleCount.value += pageSize;
-    return true;
+  function remainingPx(): number {
+    const doc = document.documentElement;
+    return doc.scrollHeight - (window.scrollY + window.innerHeight);
+  }
+
+  function fillIfNeeded(): void {
+    cancelAnimationFrame(frame);
+    frame = requestAnimationFrame(() => {
+      if (visibleCount.value >= totalCount()) return;
+      if (remainingPx() > thresholdPx) return;
+
+      visibleCount.value = Math.min(visibleCount.value + pageSize, totalCount());
+      // After the DOM grows, check again: a tall viewport may still need more items.
+      nextTick(fillIfNeeded);
+    });
   }
 
   function reset(): void {
     visibleCount.value = pageSize;
+    nextTick(fillIfNeeded);
   }
 
-  function observe(): void {
-    observer.disconnect();
-    if (sentinel.value) observer.observe(sentinel.value);
-  }
+  onMounted(() => {
+    window.addEventListener('scroll', fillIfNeeded, { passive: true });
+    window.addEventListener('resize', fillIfNeeded, { passive: true });
+    fillIfNeeded();
+  });
 
-  const observer = new IntersectionObserver(
-    (entries) => {
-      if (entries.some((e) => e.isIntersecting) && loadMore()) {
-        // Re-observe so the callback fires again if the sentinel is still visible.
-        nextTick(observe);
-      }
-    },
-    { rootMargin: '600px 0px' }
-  );
+  onBeforeUnmount(() => {
+    cancelAnimationFrame(frame);
+    window.removeEventListener('scroll', fillIfNeeded);
+    window.removeEventListener('resize', fillIfNeeded);
+  });
 
-  watch(sentinel, observe, { flush: 'post' });
-  onBeforeUnmount(() => observer.disconnect());
+  // Data arrives asynchronously (facets file), so re-check whenever the total changes.
+  watch(totalCount, () => nextTick(fillIfNeeded));
 
   return { visibleCount, sentinel, reset };
 }

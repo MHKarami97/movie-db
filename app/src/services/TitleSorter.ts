@@ -3,13 +3,13 @@ import { BayesianRatingScorer } from './RatingScorer.js';
 
 export type SortKey = 'release_desc' | 'release_asc' | 'rating_desc' | 'votes_desc' | 'title_asc';
 
-export const DEFAULT_SORT: SortKey = 'release_desc';
+export const DEFAULT_SORT: SortKey = 'votes_desc';
 
 export const SORT_OPTIONS: ReadonlyArray<{ key: SortKey; label: string }> = [
+  { key: 'votes_desc', label: 'بیشترین رأی' },
   { key: 'release_desc', label: 'جدیدترین اکران' },
   { key: 'release_asc', label: 'قدیمی‌ترین اکران' },
   { key: 'rating_desc', label: 'بالاترین امتیاز (وزنی)' },
-  { key: 'votes_desc', label: 'بیشترین رأی' },
   { key: 'title_asc', label: 'نام (A تا Z)' }
 ];
 
@@ -28,13 +28,13 @@ export class TitleSorter {
         return list.sort((a, b) => this.compareRelease(a, b, 1));
       case 'rating_desc':
         return this.scorer.sortDescending(list, this.scorer.estimatePriorMean(list));
-      case 'votes_desc':
-        return list.sort((a, b) => b.voteCount - a.voteCount);
       case 'title_asc':
         return list.sort((a, b) => (a.title ?? '').localeCompare(b.title ?? ''));
       case 'release_desc':
-      default:
         return list.sort((a, b) => this.compareRelease(a, b, -1));
+      case 'votes_desc':
+      default:
+        return list.sort((a, b) => b.voteCount - a.voteCount || b.rating - a.rating);
     }
   }
 
