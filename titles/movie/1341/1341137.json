@@ -1,0 +1,297 @@
+{
+  "backdropPath": "/iQodpfb5trczzmqxAgnsUYPw2rv.jpg",
+  "cast": [
+    {
+      "character": "Benjamin Franklin",
+      "id": 5763097,
+      "name": "John Paul Sneed",
+      "profilePath": "/15Qt2YhUAfIIDzNWhY3IEuCP7XJ.jpg"
+    },
+    {
+      "character": "George Whitefield",
+      "id": 3756084,
+      "name": "Jonathan Blair",
+      "profilePath": "/wLf8GynTp6muRncya9QlGEfeooP.jpg"
+    },
+    {
+      "character": "Benny Franklin Bache",
+      "id": 6106688,
+      "name": "JT Schaeffer",
+      "profilePath": null
+    },
+    {
+      "character": "Alexander Hamilton",
+      "id": 6028748,
+      "name": "Josh Bates",
+      "profilePath": "/2KZqoOMrDBbCmYGnX6U9zQPV5AW.jpg"
+    },
+    {
+      "character": "Bread vendor",
+      "id": 4414783,
+      "name": "Joe Dignoti",
+      "profilePath": "/iAAHRnlJgxDJlJIzyabPu6kgiAi.jpg"
+    },
+    {
+      "character": "William Blount",
+      "id": 3719985,
+      "name": "Stephen Foster Harris",
+      "profilePath": null
+    },
+    {
+      "character": "Caleb Strong",
+      "id": 6028751,
+      "name": "Zac Johnson",
+      "profilePath": null
+    },
+    {
+      "character": "Robert Yates",
+      "id": 6028752,
+      "name": "Matt Meyer",
+      "profilePath": null
+    },
+    {
+      "character": "Gunning Bedford Jr.",
+      "id": 3756082,
+      "name": "Stephen Atherholt",
+      "profilePath": null
+    },
+    {
+      "character": "William Seward",
+      "id": 6106689,
+      "name": "Ryan Jameson Hippe",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 237696,
+      "logoPath": "/r5MK8jRmgB6dpymDD2AkrqwNbN6.png",
+      "name": "Sight & Sound Films"
+    },
+    {
+      "id": 911,
+      "logoPath": "/bWlWGUKejrUflSFV2aRG4o98p1D.png",
+      "name": "Roadside Attractions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-05-05",
+  "externalIds": {
+    "facebookId": "agreatawakeningmovie",
+    "imdbId": "tt33305882",
+    "instagramId": "agreatawakeningmovie",
+    "wikidataId": "Q137701335"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1341137,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "A Great Awakening",
+  "overview": "One of the most defining moments in American history is the story of an unlikely friendship between the Reverend George Whitefield and Benjamin Franklin.",
+  "posterPath": "/dXeeDRLGpTX1U97lWBAwQeeplsW.jpg",
+  "rating": 7.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-07-28",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-05",
+      "gapDays": 32,
+      "theatricalDate": "2026-04-03"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-07-28"
+    },
+    "US": {
+      "digital": "2026-05-05",
+      "theatrical": "2026-04-03"
+    }
+  },
+  "runtime": 129,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Before the American Revolution, there was a revelation.",
+  "theatricalDate": "2026-04-03",
+  "title": "A Great Awakening",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "H4-rMC88ylQ",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "zDeU0cEEpg0",
+      "name": "Official Teaser Trailer",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "vJYbZfJqc-g",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 29,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1341137-a-great-awakening/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2668,
+          "logoPath": "/q44PU5iFUrxhOLKW19BrPuEN6Go.png",
+          "name": "Wonder Project Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1341137-a-great-awakening/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

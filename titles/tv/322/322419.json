@@ -1,0 +1,211 @@
+{
+  "backdropPath": "/3Th6XtrJikv3fg2PlYJWMkmz2bB.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 6236665,
+      "name": "Nuțu Cămătaru",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6236668,
+      "name": "Sile Cămătaru",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 263925,
+      "logoPath": null,
+      "name": "VOYO Originals"
+    },
+    {
+      "id": 185286,
+      "logoPath": null,
+      "name": "PRO TV"
+    }
+  ],
+  "countries": [
+    {
+      "code": "RO",
+      "name": "Romania"
+    }
+  ],
+  "digitalDate": "2026-05-25",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-05-25",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-06-01",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-06-08",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-06-15",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-06-22",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-06-29",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-07-06",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-11-01",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ],
+    "2": []
+  },
+  "externalIds": {
+    "facebookId": "share",
+    "imdbId": "tt42667822",
+    "instagramId": "camatariiserial"
+  },
+  "fetchedAt": 1794864638140,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 322419,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ro",
+      "name": "Romanian"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-07-06",
+    "episodeNumber": 7,
+    "id": 7455010,
+    "name": "Episode 7",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-11-01",
+    "episodeNumber": 8,
+    "id": 7472250,
+    "name": "Episode 8",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Cămătarii",
+  "overview": "One of the most feared clans in Romania tells its inside story for the first time. This is not just the history of a clan. It is the story of a transition, of a Romania that paid dearly for the price of freedom.",
+  "posterPath": "/m2N08g1l1nniOQX993EEKuv2R9N.jpg",
+  "rating": 5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-05-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-05-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-05-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-25",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-05-25"
+    },
+    "CN": {
+      "tv": "2026-05-25"
+    },
+    "GB": {
+      "tv": "2026-05-25"
+    },
+    "US": {
+      "tv": "2026-05-25"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-05-25",
+      "episodeCount": 8,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/xB81gWia8fHrGMHOlqCrjg9z0VP.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Camatarii",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 1,
+  "watchProviders": {}
+}

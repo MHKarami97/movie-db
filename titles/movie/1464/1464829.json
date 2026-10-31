@@ -1,0 +1,200 @@
+{
+  "backdropPath": "/lIq0JaqCyjsl643hoT8yZWSDXJt.jpg",
+  "cast": [
+    {
+      "character": "Ren Takano",
+      "id": 4492720,
+      "name": "Kodai Kurosaki",
+      "profilePath": "/ekCMaO1aODXdcnTphGQTcrumbbV.jpg"
+    },
+    {
+      "character": "Hajime Takano",
+      "id": 35642,
+      "name": "Kenichi Endo",
+      "profilePath": "/5NyLtChKpQ0KLiYjZ3aSDylBIou.jpg"
+    },
+    {
+      "character": "Emi Takano",
+      "id": 2092978,
+      "name": "Mai Kiryu",
+      "profilePath": "/2NsaouRvBljwKh0XWhbhfJ5T41V.jpg"
+    },
+    {
+      "character": "Yumiko Takano",
+      "id": 148285,
+      "name": "Haruka Igawa",
+      "profilePath": "/vmXd5rOa5YiIbQM01JNHYW3w58W.jpg"
+    },
+    {
+      "character": "Maki",
+      "id": 114916,
+      "name": "Akiko Kikuchi",
+      "profilePath": "/5wSxRtx4NiIgSfBNJHlzMeyUPhm.jpg"
+    },
+    {
+      "character": "Akira Ando",
+      "id": 229360,
+      "name": "Aoi Nakamura",
+      "profilePath": "/melP3Udhsm8jpesyHURSFh3gGEL.jpg"
+    },
+    {
+      "character": "Takuya",
+      "id": 3821804,
+      "name": "Shingo Nakayama",
+      "profilePath": null
+    },
+    {
+      "character": "Hirata",
+      "id": 842578,
+      "name": "Mutsuo Yoshioka",
+      "profilePath": "/8yUiaPP8EwUAQDav6U5oQqiphmD.jpg"
+    },
+    {
+      "character": "Zhāng",
+      "id": 4170035,
+      "name": "Su Yu-chun",
+      "profilePath": "/2mOqEScPANxnX8DgjaV1tkkkMYu.jpg"
+    },
+    {
+      "character": "Natsuki",
+      "id": 2716727,
+      "name": "Misaki Hattori",
+      "profilePath": "/xwzbvrgj0mnOY8gvZb97pIGp40r.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 78953,
+      "logoPath": "/b5I0WTTLUoxNJgmtEVaL4pt7T4H.png",
+      "name": "LesPros Entertainment"
+    },
+    {
+      "id": 75054,
+      "logoPath": "/bTjp9kFYInvPhD2nxjB7hVOZQG8.png",
+      "name": "SIGLO"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36579933",
+    "twitterId": "Miharashi_Movie",
+    "wikidataId": "Q136378388"
+  },
+  "fetchedAt": 1793452486014,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1464829,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "originalTitle": "見はらし世代",
+  "overview": "In bustling Tokyo, Ren delivers delicate orchids across the city, carrying the weight of his mother's absence and years of silence between him and his father, until one delivery changes everything.",
+  "posterPath": "/o66wEQiXC3AqKDB3GzTphWygDPO.jpg",
+  "rating": 4.4,
+  "regionGaps": {
+    "CA": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "DE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "IR": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AU": {
+      "premiere": "2025-08-14"
+    },
+    "ES": {
+      "premiere": "2025-09-21"
+    },
+    "FR": {
+      "premiere": "2025-05-15",
+      "theatrical": "2026-08-05"
+    },
+    "HK": {
+      "premiere": "2025-08-17"
+    },
+    "ID": {
+      "premiere": "2025-10-03"
+    },
+    "JP": {
+      "theatrical": "2025-10-10"
+    },
+    "KR": {
+      "premiere": "2025-11-30"
+    },
+    "NL": {
+      "theatrical": "2026-10-15"
+    },
+    "NZ": {
+      "premiere": "2025-08-05"
+    },
+    "PH": {
+      "premiere": "2025-11-14"
+    },
+    "TH": {
+      "theatrical": "2026-04-15"
+    },
+    "US": {
+      "premiere": "2026-04-15"
+    }
+  },
+  "runtime": 115,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "見はらし世代",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {
+    "ID": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 576,
+          "logoPath": "/81vt7CtOO1rilrFX04YmAMdZYFR.png",
+          "name": "KlikFilm"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1464829/watch?locale=ID",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "backdropPath": "/p2DBE8hyaRYJFc8o07VX1O72H7l.jpg",
+  "cast": [
+    {
+      "character": "Mrs. Christmas",
+      "id": 119172,
+      "name": "Luisa Ranieri",
+      "profilePath": "/4io9vmxUwdfWvgg6EAncYsbgQYr.jpg"
+    },
+    {
+      "character": "Babbo Natale",
+      "id": 57345,
+      "name": "Alessandro Gassmann",
+      "profilePath": "/1RgJdkPXpwfQWumzZ4h3KKxVv4V.jpg"
+    },
+    {
+      "character": "Sabrina, la Befana",
+      "id": 10916,
+      "name": "Caterina Murino",
+      "profilePath": "/2B4D38LJ3noNbwcukETrQ1DUiQt.jpg"
+    },
+    {
+      "character": "Santa Lucia",
+      "id": 1598948,
+      "name": "Valentina Romani",
+      "profilePath": "/ppvIs5wRrhRd4LGjLAMBFcoxIiZ.jpg"
+    },
+    {
+      "character": "Guru",
+      "id": 55912,
+      "name": "Diego Abatantuono",
+      "profilePath": "/i7idHOw21i3RNO8IrVKkGlcAyOd.jpg"
+    },
+    {
+      "character": "Terapeuta",
+      "id": 59640,
+      "name": "Angela Finocchiaro",
+      "profilePath": "/4ZgMeXRcZOBDwDLmucIB9gUkslP.jpg"
+    },
+    {
+      "character": "Elfonso",
+      "id": 2638093,
+      "name": "Francesco Centorame",
+      "profilePath": "/oj1j5jB4lqvHnuPd0dz2BFVXfzI.jpg"
+    },
+    {
+      "character": "Preside",
+      "id": 129304,
+      "name": "Michela Andreozzi",
+      "profilePath": "/lzXcLkxdJzV0ldXDsT3vFfJmS4L.jpg"
+    },
+    {
+      "character": "Stella",
+      "id": 5732005,
+      "name": "Rita Longordo",
+      "profilePath": null
+    },
+    {
+      "character": "Lampo",
+      "id": 5708897,
+      "name": "Paolo Calvano",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 119309,
+      "logoPath": null,
+      "name": "Gaumont Italia"
+    },
+    {
+      "id": 210099,
+      "logoPath": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-11-27",
+  "externalIds": {
+    "imdbId": "tt36061838",
+    "wikidataId": "Q137362772"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1291040,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "originalTitle": "Natale senza Babbo",
+  "overview": "When Santa Claus, in the midst of an existential crisis, suddenly disappears during the holiday season, his wife Margaret must roll up her sleeves and save the most special day of the year.",
+  "posterPath": "/7DFyI1S8xJ34AkUutVBqDSfOtfJ.jpg",
+  "rating": 5.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-11-27"
+    }
+  },
+  "runtime": 116,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Mrs. Christmas",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 30,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 119,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1291040-natale-senza-babbo/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1291040-natale-senza-babbo/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1291040-natale-senza-babbo/watch?locale=US",
+      "rent": []
+    }
+  }
+}

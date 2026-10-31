@@ -1,0 +1,398 @@
+{
+  "backdropPath": "/LoU6Zibhr0OdyopHOsVWiiVxsC.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 220669,
+      "name": "Ina Müller",
+      "profilePath": "/1EBBVq2O2yg3msmU82SkmSGaBc3.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 106636,
+      "logoPath": null,
+      "name": "TV Plus Productions Germany"
+    },
+    {
+      "id": 55324,
+      "logoPath": null,
+      "name": "Beckground TV"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "2007-06-09",
+  "episodes": {
+    "22": [
+      {
+        "airDate": "2026-07-16",
+        "episodeNumber": 1,
+        "name": "Inas Nacht mit Barbara Schöneberger und Campino",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-07-23",
+        "episodeNumber": 2,
+        "name": "Inas Nacht mit Dieter Nuhr und Philipp Hochmair",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-07-30",
+        "episodeNumber": 3,
+        "name": "Inas Nacht mit Fabian Köster und Tahnee",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-08-06",
+        "episodeNumber": 4,
+        "name": "Inas Nacht mit Jan Ullrich und Özcan Coşar",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-08-13",
+        "episodeNumber": 5,
+        "name": "Inas Nacht mit Alexander Gerst und Christine Thürmer",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-08-20",
+        "episodeNumber": 6,
+        "name": "Inas Nacht mit Horst Lichter und Nico Santos",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-08-27",
+        "episodeNumber": 7,
+        "name": "Inas Nacht mit Christian Ehring und Eva Karl Faltermeier",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-09-03",
+        "episodeNumber": 8,
+        "name": "Inas Nacht mit Annette und Caroline Frier und Katrin Hinrichs",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-09-10",
+        "episodeNumber": 9,
+        "name": "Inas Nacht mit Maria Furtwängler und Oliver Masucci",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-09-17",
+        "episodeNumber": 10,
+        "name": "Episode 10",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-09-24",
+        "episodeNumber": 11,
+        "name": "Episode 11",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-01",
+        "episodeNumber": 12,
+        "name": "Episode 12",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "inasnacht",
+    "imdbId": "tt1147079",
+    "instagramId": "inasnacht",
+    "wikidataId": "Q1449117"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 46112,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-01",
+    "episodeNumber": 12,
+    "id": 7871178,
+    "name": "Episode 12",
+    "overview": "",
+    "seasonNumber": 22
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Inas Nacht",
+  "overview": "A late-night show featuring Northern German cabaret artist, singer and presenter Ina Müller - done \"Müller-style\": talk, comedy and lots and lots of music.",
+  "posterPath": "/g6aYyK4Ocd00niImqanumiYXfLw.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2007-06-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2007-06-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2007-06-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2007-06-09",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2007-06-09"
+    },
+    "CN": {
+      "tv": "2007-06-09"
+    },
+    "GB": {
+      "tv": "2007-06-09"
+    },
+    "US": {
+      "tv": "2007-06-09"
+    }
+  },
+  "runtime": 60,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2009-12-26",
+      "episodeCount": 11,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2007-06-09",
+      "episodeCount": 3,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2008-05-16",
+      "episodeCount": 4,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2008-09-26",
+      "episodeCount": 4,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2009-06-05",
+      "episodeCount": 6,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2009-11-16",
+      "episodeCount": 6,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2010-09-09",
+      "episodeCount": 12,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2011-09-17",
+      "episodeCount": 12,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2012-10-20",
+      "episodeCount": 12,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2013-06-15",
+      "episodeCount": 12,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2014-05-17",
+      "episodeCount": 12,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2015-07-11",
+      "episodeCount": 12,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2016-07-09",
+      "episodeCount": 12,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2017-06-17",
+      "episodeCount": 12,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2018-05-26",
+      "episodeCount": 12,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2019-06-22",
+      "episodeCount": 12,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2020-07-30",
+      "episodeCount": 12,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2021-07-29",
+      "episodeCount": 12,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2022-07-28",
+      "episodeCount": 12,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2023-07-20",
+      "episodeCount": 12,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2024-06-27",
+      "episodeCount": 12,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2025-07-24",
+      "episodeCount": 12,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2026-07-16",
+      "episodeCount": 12,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Inas Nacht",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {}
+}

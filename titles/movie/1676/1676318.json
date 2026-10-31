@@ -1,0 +1,197 @@
+{
+  "backdropPath": "/wJaqJIBZB8D5rPTwQDnGyhTX6RB.jpg",
+  "cast": [
+    {
+      "character": "Ben",
+      "id": 4071707,
+      "name": "Jacob Rott",
+      "profilePath": "/yW0cienzeDOh4WzRgzYx5da9HHO.jpg"
+    },
+    {
+      "character": "Chris",
+      "id": 5759597,
+      "name": "Luis Freitag",
+      "profilePath": "/oxRp4WXWeuBbXEvlcWNTE9snOUI.jpg"
+    },
+    {
+      "character": "Oliver",
+      "id": 3859394,
+      "name": "Bene Schulz",
+      "profilePath": "/43wvDDjoE2f46sxklkkf0FtGmle.jpg"
+    },
+    {
+      "character": "Matteo",
+      "id": 6151805,
+      "name": "Julien Brown",
+      "profilePath": null
+    },
+    {
+      "character": "Jonas",
+      "id": 4398212,
+      "name": "Tim Schäcker",
+      "profilePath": "/jyVXNRvEIUXrfpBXeCnQlg4T5TY.jpg"
+    },
+    {
+      "character": "Mary Jane",
+      "id": 4666474,
+      "name": "Anja Pichler",
+      "profilePath": "/bV2kzhfVsgAE4IzgFih3ekAtGYg.jpg"
+    },
+    {
+      "character": "Jamie",
+      "id": 1357394,
+      "name": "Luise Aschenbrenner",
+      "profilePath": "/piipXN00MaTNl6J3UsfsvGjcjh7.jpg"
+    },
+    {
+      "character": "Olivia",
+      "id": 4313041,
+      "name": "Sidney Fahlisch",
+      "profilePath": "/k4NyWz5gEFb1UijBvEnW99GL9Gz.jpg"
+    },
+    {
+      "character": "Young Arno",
+      "id": 4252188,
+      "name": "Liam Noori",
+      "profilePath": "/ezKstXMtdzCy19mjHkDAYwSiBa6.jpg"
+    },
+    {
+      "character": "Charlie Crawford",
+      "id": 6151808,
+      "name": "Luis Moll",
+      "profilePath": "/pjd8I5W3ff4BC4LMPD13hDm9Ynu.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 40788,
+      "logoPath": "/ydsYNksXNi0NzkCDSjnpsPRUCGI.png",
+      "name": "Wiedemann & Berg Television"
+    },
+    {
+      "id": 308274,
+      "logoPath": "/opeSPvP3z0iAujlGQTMOAvMqHbK.png",
+      "name": "DO Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "MT",
+      "name": "Malta"
+    }
+  ],
+  "digitalDate": "2026-08-21",
+  "externalIds": {
+    "imdbId": "tt37540328",
+    "wikidataId": "Q141307780"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1676318,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "Back to the 90s",
+  "overview": "When a mysterious glitch sends a rising boyband back to 1995 - just days before the biggest showcase of their lives - the five friends race to reverse the time slip. But as unexpected connections form and the past pulls them in deeper, getting home means confronting what they're willing to leave behind - and who they truly are to each other.",
+  "posterPath": "/2T0j25ofU6aUei6J6ek2hlTL1wc.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-08-21",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-08-21"
+    }
+  },
+  "runtime": 92,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Back to the 90s",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 30,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1676318-back-to-the-90s/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1676318-back-to-the-90s/watch?locale=US",
+      "rent": []
+    }
+  }
+}

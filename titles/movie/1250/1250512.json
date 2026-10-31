@@ -1,0 +1,291 @@
+{
+  "backdropPath": "/3vnk1VkxzdG9p9HaQNE9QDXLcv4.jpg",
+  "cast": [
+    {
+      "character": "Harriet",
+      "id": 29384,
+      "name": "Sheila McCarthy",
+      "profilePath": "/wIe1srcx1lllkE66Jx5j9mV2BEc.jpg"
+    },
+    {
+      "character": "Annika",
+      "id": 90683,
+      "name": "Georgina Reilly",
+      "profilePath": "/bNLXDfDNV4AOmAuktORHiRqgpYt.jpg"
+    },
+    {
+      "character": "William",
+      "id": 225411,
+      "name": "Mark O'Brien",
+      "profilePath": "/8ckgltvlife4BBJcBpHEQWXfQ9p.jpg"
+    },
+    {
+      "character": "Therese",
+      "id": 1447280,
+      "name": "Carolina Bartczak",
+      "profilePath": "/tQumydKvy6B2egz70Yd73kgokyP.jpg"
+    },
+    {
+      "character": "Martin",
+      "id": 1094772,
+      "name": "Alex Ozerov-Meyer",
+      "profilePath": "/g0DtLoImOAVdEPm8QCtBHBJVZHK.jpg"
+    },
+    {
+      "character": "Johanna",
+      "id": 198475,
+      "name": "Anna Ferguson",
+      "profilePath": "/4tDeGwRor7ZaGcDmZyjzTCsuVxS.jpg"
+    },
+    {
+      "character": "Father Roslovic",
+      "id": 25878,
+      "name": "Shawn Doyle",
+      "profilePath": "/s5Y7kLgxmXeDx0pozhmA7V91yZf.jpg"
+    },
+    {
+      "character": "Dr. Meyer",
+      "id": 164433,
+      "name": "Lanette Ware",
+      "profilePath": "/8nJlQZ1z63fHUrLVxwbLpjPbMlx.jpg"
+    },
+    {
+      "character": "Elaine",
+      "id": 29879,
+      "name": "Mayko Nguyen",
+      "profilePath": "/etSVpTK2HYgp1D1nKSGdv7Pq3zS.jpg"
+    },
+    {
+      "character": "Sister Angelise",
+      "id": 204964,
+      "name": "Paula Boudreau",
+      "profilePath": "/dG8J9RfmenQraa5JZC7d7Dizdpa.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 70603,
+      "logoPath": "/uv80BFKZtQe95CXkRIAeJt8TiLJ.png",
+      "name": "Vortex Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2026-06-19",
+  "externalIds": {
+    "imdbId": "tt31474395",
+    "wikidataId": "Q140171505"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1250512,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Voices of Our Mother",
+  "overview": "When a family matriarch falls seriously ill, relatives gather and discover their shared ancestral ties bind them in unexpected ways.",
+  "posterPath": "/dCz8sklLZHKLVaZqUMAgiGE6OKz.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-06-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-06-19"
+    },
+    "US": {
+      "digital": "2026-06-19",
+      "premiere": "2026-04-11"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Voices of Our Mother",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "yupFYNF5mgw",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "NspxorUrUiQ",
+      "name": "THE VOICES OF OUR MOTHER Official Trailer (2026)",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        },
+        {
+          "id": 204,
+          "logoPath": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+          "name": "Shudder Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1250512-the-voices-of-our-mother/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1854,
+          "logoPath": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 635,
+          "logoPath": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+          "name": "AMC+ Roku Premium Channel"
+        },
+        {
+          "id": 526,
+          "logoPath": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+          "name": "AMC+"
+        },
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1250512-the-voices-of-our-mother/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

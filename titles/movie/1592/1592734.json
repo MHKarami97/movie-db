@@ -1,0 +1,223 @@
+{
+  "backdropPath": "/k3TMJGWn4nNkTbp4VEx6IEjvFPe.jpg",
+  "cast": [
+    {
+      "character": "Claire",
+      "id": 2294469,
+      "name": "Jaicy Elliot",
+      "profilePath": "/kLcdK0U8yjoNocBIWQKRmYlBQHb.jpg"
+    },
+    {
+      "character": "Danny",
+      "id": 1434482,
+      "name": "Rafael de la Fuente",
+      "profilePath": "/9U4Z2IrW6nfGWxDEDa9pkQZ1H4v.jpg"
+    },
+    {
+      "character": "Milly",
+      "id": 3553380,
+      "name": "Raissa Xavier",
+      "profilePath": "/zYdt93u1gmnBdzzUKrKj3kBxKAL.jpg"
+    },
+    {
+      "character": "Bruno",
+      "id": 1731481,
+      "name": "Omar Pelaez",
+      "profilePath": "/luXO4t1yThQRoRgrWfkowlhcw2b.jpg"
+    },
+    {
+      "character": "Amelia",
+      "id": 5890361,
+      "name": "Persephone Barda-Redman",
+      "profilePath": "/bNqw7nOZpIkn8mekQqK4TBHBKg6.jpg"
+    },
+    {
+      "character": "Paulo",
+      "id": 6330699,
+      "name": "Franco Silva",
+      "profilePath": "/pUyJwsTQYhCEc1kHj3RcaV458Tb.jpg"
+    },
+    {
+      "character": "Mateus",
+      "id": 6330700,
+      "name": "Daniel Jeanpool Curico Ricopa",
+      "profilePath": "/vW7OJOpKHGUvUmPaOGtrvxMRcpD.jpg"
+    },
+    {
+      "character": "Mr. Hall",
+      "id": 933267,
+      "name": "Ramsay Ross",
+      "profilePath": "/8z4unH6h3NftvRqHfzeBZIgRaj0.jpg"
+    },
+    {
+      "character": "Tourist",
+      "id": 1090397,
+      "name": "Juliana Wimbles",
+      "profilePath": "/bO3V0d7H9hwtIbO9iBe1D7UVpAR.jpg"
+    },
+    {
+      "character": "Teacher",
+      "id": 6330756,
+      "name": "Connie Joana Villacorta Aguilar",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 266872,
+      "logoPath": "/xiBTudkHBBRWOsAoP0y5A6klyQE.png",
+      "name": "Studio TF1 America"
+    },
+    {
+      "id": 5225,
+      "logoPath": "/3oajd9v7Zxw7QvnnyhK5TFjDcFB.png",
+      "name": "Johnson Production Group"
+    },
+    {
+      "id": 263913,
+      "logoPath": null,
+      "name": "Hollyware Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "PE",
+      "name": "Peru"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39101156"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1592734,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Love on the Amazon",
+  "overview": "Claire travels to Brazil and hires Danny, a riverboat captain, to help her deliver an important message for her sister Amelia, a marine biologist studying pink dolphins on the Amazon River.",
+  "posterPath": "/htrU3ly6waXgL74qbP2890BT8YL.jpg",
+  "rating": 6.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2026-01-17"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Love on the Amazon",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "zQNPIQqWfXQ",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 15,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1592734-love-on-the-amazon/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 290,
+          "logoPath": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "id": 2058,
+          "logoPath": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "id": 1746,
+          "logoPath": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1592734-love-on-the-amazon/watch?locale=US",
+      "rent": []
+    }
+  }
+}

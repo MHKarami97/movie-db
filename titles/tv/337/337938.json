@@ -1,0 +1,190 @@
+{
+  "backdropPath": "/9u0J1glaIMSlfGQjocl99hZHWGs.jpg",
+  "cast": [
+    {
+      "character": "Guinevere (voice)",
+      "id": 217524,
+      "name": "Eden Riegel",
+      "profilePath": "/lY2IJ2hy19pgmP2LDAzRispWi37.jpg"
+    },
+    {
+      "character": "Andi (voice)",
+      "id": 5001758,
+      "name": "Zelda Khan Black",
+      "profilePath": "/bV978F7veatfN9BUyrjds8XJzWd.jpg"
+    },
+    {
+      "character": "Frankie (voice)",
+      "id": 6539276,
+      "name": "Michaela Laws",
+      "profilePath": null
+    },
+    {
+      "character": "Sparky (voice)",
+      "id": 4258320,
+      "name": "Kayleigh McKee",
+      "profilePath": "/31k7gaGnu7NS93lQU0UfLnhIhQf.jpg"
+    },
+    {
+      "character": "Olivia Park (voice)",
+      "id": 6377706,
+      "name": "Erin Nicole Lundquist",
+      "profilePath": null
+    },
+    {
+      "character": "Young Olivia Park (voice)",
+      "id": 4224005,
+      "name": "Lauren Kong",
+      "profilePath": null
+    },
+    {
+      "character": "Orville Park (voice)",
+      "id": 1942233,
+      "name": "SungWon Cho",
+      "profilePath": "/jh5Au9smnPwfLoPNrcJ2VsJnbhU.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 239704,
+      "logoPath": "/tqqq3IpYg26z7d7BG6pdwHoG6JI.png",
+      "name": "Glitch Productions"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2025-09-19",
+  "externalIds": {
+    "imdbId": "tt35459966",
+    "wikidataId": "Q136237187"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 337938,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-09",
+    "episodeNumber": 2,
+    "id": 7928057,
+    "name": "Wolves Around the Corner",
+    "overview": "Princess, It's time to wake up.",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-22",
+    "episodeNumber": 3,
+    "id": 7934415,
+    "name": "Episode 3",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Knights of Guinevere",
+  "overview": "In a global sky-park, two dreamers pin their hopes on a damaged Princess Android - their possible salvation or doom. A psychological thriller between the clouds and lurking shadows below.",
+  "posterPath": "/uxR8om9UtL1Zikk3keyrlyntIH5.jpg",
+  "rating": 9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-09-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2025-09-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-09-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-09-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2025-09-19"
+    },
+    "CN": {
+      "tv": "2025-09-19"
+    },
+    "GB": {
+      "tv": "2025-09-19"
+    },
+    "US": {
+      "tv": "2025-09-19"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2025-09-19",
+      "episodeCount": 4,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/uxR8om9UtL1Zikk3keyrlyntIH5.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Princess, it’s time to wake up.",
+  "theatricalDate": null,
+  "title": "Knights of Guinevere",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "4-sO_dp1fkE",
+      "name": "KNIGHTS OF GUINEVERE - EPISODE 2 (TRAILER)",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "G4Df2vAnKZo",
+      "name": "KNIGHTS OF GUINEVERE [TRAILER]",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "ZgwHNno1WvM",
+      "name": "Knights Of Guinevere [TEASER]",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/337938-knights-of-guinevere/watch?locale=US",
+      "rent": []
+    }
+  }
+}

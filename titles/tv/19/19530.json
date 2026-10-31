@@ -1,0 +1,808 @@
+{
+  "backdropPath": "/luUTaPpTBM8BjP4wgCLxNIPkx6k.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 140133,
+      "logoPath": null,
+      "name": "霹雳国际多媒体"
+    }
+  ],
+  "countries": [
+    {
+      "code": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "digitalDate": "1988-06-01",
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 19530,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": {
+    "airDate": "2026-08-14",
+    "episodeNumber": 32,
+    "id": 7683001,
+    "name": "Episode 32",
+    "overview": "",
+    "seasonNumber": 88
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "霹靂布袋戲",
+  "overview": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it still continues today. It is one of the most popular TV shows in Taiwan. Pili puppet show is performed by many kinds of puppets, some of them are cool, some are intelligent, and some are funny. Unlike traditional puppet shows, Pili puppet show uses state-of-the-art animation to help present its fighting art. The delicate design of the appearance and characteristics of each puppet has made Pili puppet show a well-known entertainment in Taiwan.",
+  "posterPath": "/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1988-06-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1988-06-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1988-06-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1988-06-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1988-06-01"
+    },
+    "CN": {
+      "tv": "1988-06-01"
+    },
+    "GB": {
+      "tv": "1988-06-01"
+    },
+    "US": {
+      "tv": "1988-06-01"
+    }
+  },
+  "runtime": 60,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": null,
+      "episodeCount": 40,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/uMN9gxGyIvbwyMA34eRxBsYM949.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1988-06-01",
+      "episodeCount": 16,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/n6APNvs6nPCP29D9AQ8yV0m1hn9.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1989-06-03",
+      "episodeCount": 20,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/2rSzjrcODt15N9lSI0lBrdcyrHe.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1989-08-12",
+      "episodeCount": 15,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/7IFoiivf3j4oQ87ETZ5xc9JBnhQ.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1989-11-04",
+      "episodeCount": 10,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/oUSanhvdbvmyJJgKBDxQYFGwaBC.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1990-02-03",
+      "episodeCount": 20,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/grcgWAlkGbxk996PkegNRQR9g9w.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1990-10-20",
+      "episodeCount": 40,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/dAgC2doJGKLJt1jJQAt6ZVpWO6q.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1990-03-01",
+      "episodeCount": 30,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/mKBQN2n9ppFzWFhVcXWBqHzooZX.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1990-06-01",
+      "episodeCount": 30,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/7r3Z6T0UYaIfnrF8zyY1ZCCIrFE.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1992-05-01",
+      "episodeCount": 20,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/ed7elREqm9IX7ke0Vaa2G9cIhUs.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1993-04-01",
+      "episodeCount": 20,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/fvv6hcX8cXZ5DLrgr1pEmzFhjnU.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "1993-11-01",
+      "episodeCount": 14,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": "/gWfWoIua9IZEsI9s4Uvc8AzsL5E.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "1993-12-17",
+      "episodeCount": 60,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": "/aQdKJjIWdgK5bW0YS5wM74qcj0I.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "1995-03-17",
+      "episodeCount": 30,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": "/bSsPR55xOgf1RB2AqiVqBvA4J1d.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "1995-09-15",
+      "episodeCount": 25,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": "/nsDmAilLEw4O2JOuJc5hposdT1d.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "1996-02-09",
+      "episodeCount": 6,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": "/pG0UafpMQ9C47hbxviusPaozy1E.jpg",
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "1996-03-15",
+      "episodeCount": 20,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": "/mHi642vFntDNKFyXabUDuzxlYuL.jpg",
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "1996-07-12",
+      "episodeCount": 50,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": "/yEC8EhJZCtPisdMTbkmpTjngnTh.jpg",
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "1997-03-14",
+      "episodeCount": 30,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": "/2ibywTvrP0ClSXd4pxpsb2uO6TI.jpg",
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "1997-07-18",
+      "episodeCount": 40,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": "/iumj5S89T7rB0RQHMAtptbarg8S.jpg",
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "1998-04-17",
+      "episodeCount": 50,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": "/uNq9G5T7w6lhpzmBbujr5OeNhNZ.jpg",
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "1999-02-12",
+      "episodeCount": 30,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": "/vpyNQ2LejnsSIh78gpoWsACem9g.jpg",
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "1999-07-23",
+      "episodeCount": 40,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": "/nDiEGeFSk0s46sw1lcRIKMkutFp.jpg",
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2000-03-17",
+      "episodeCount": 20,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": "/4grPlbjzAfuChwsnxIZxbXVVXBN.jpg",
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2000-07-21",
+      "episodeCount": 30,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": "/2XZMx1gNMH551psAjMzG7hFNE8A.jpg",
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2001-01-19",
+      "episodeCount": 30,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": "/yyzOYdEUusvHarGLyhuQCrFcwrL.jpg",
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "2001-05-25",
+      "episodeCount": 20,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": "/8neVaJmkteO6hl2Jhj0sbctEWFu.jpg",
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "2001-08-31",
+      "episodeCount": 40,
+      "name": "Season 27",
+      "overview": "",
+      "posterPath": "/uUZcMXHQMxxMZeKalaEyV7K780v.jpg",
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "2002-04-26",
+      "episodeCount": 20,
+      "name": "Season 28",
+      "overview": "",
+      "posterPath": "/1IaFUyUGZJVnNLvvqxox4UFOpb2.jpg",
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "2002-07-26",
+      "episodeCount": 48,
+      "name": "Season 29",
+      "overview": "",
+      "posterPath": "/k40tDojHSVjrIXfcuYqhyjhYAeQ.jpg",
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "2003-01-10",
+      "episodeCount": 30,
+      "name": "Season 30",
+      "overview": "",
+      "posterPath": "/7gYFzaFqPp70bci8jhRkc4JQHZd.jpg",
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "2003-06-27",
+      "episodeCount": 32,
+      "name": "Season 31",
+      "overview": "",
+      "posterPath": "/zzLTwZmAAROdZQbFDdBTbQlxrIn.jpg",
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "2003-10-17",
+      "episodeCount": 50,
+      "name": "Season 32",
+      "overview": "",
+      "posterPath": "/fIVAunwgFCtrZAEx97J1o0Zxk4P.jpg",
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "2004-04-09",
+      "episodeCount": 26,
+      "name": "Season 33",
+      "overview": "",
+      "posterPath": "/s6tlxnKWMZLIqRWUy5lergQ1ATp.jpg",
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "2004-07-09",
+      "episodeCount": 24,
+      "name": "Season 34",
+      "overview": "",
+      "posterPath": "/aiDnePzw54PSottKycrZ1b4L0Gn.jpg",
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "2004-10-01",
+      "episodeCount": 40,
+      "name": "Season 35",
+      "overview": "",
+      "posterPath": "/fVYvVuaBPe7mh3BgoxKKYOuIiuF.jpg",
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "2005-02-18",
+      "episodeCount": 30,
+      "name": "Season 36",
+      "overview": "",
+      "posterPath": "/c0DBic7xuS4jAFOBjSmwG9gvMZ4.jpg",
+      "seasonNumber": 36
+    },
+    {
+      "airDate": "2005-06-03",
+      "episodeCount": 30,
+      "name": "Season 37",
+      "overview": "",
+      "posterPath": "/y6LYPBwi0aR74oAklrksEzvb0Za.jpg",
+      "seasonNumber": 37
+    },
+    {
+      "airDate": "2005-09-16",
+      "episodeCount": 40,
+      "name": "Season 38",
+      "overview": "",
+      "posterPath": "/cqrYO2OcexLXeM4djtdfvPezPjj.jpg",
+      "seasonNumber": 38
+    },
+    {
+      "airDate": "2006-02-03",
+      "episodeCount": 40,
+      "name": "Season 39",
+      "overview": "",
+      "posterPath": "/i9dn0nAKxMZ01AB9QDBrGRVNCO4.jpg",
+      "seasonNumber": 39
+    },
+    {
+      "airDate": "2006-06-23",
+      "episodeCount": 40,
+      "name": "Season 40",
+      "overview": "",
+      "posterPath": "/7oiH16lFUSgDh1EtMcFfnvBeTYJ.jpg",
+      "seasonNumber": 40
+    },
+    {
+      "airDate": "2006-11-10",
+      "episodeCount": 50,
+      "name": "Season 41",
+      "overview": "",
+      "posterPath": "/x9omSOrIG2ZheF9b7qxxvxgOltM.jpg",
+      "seasonNumber": 41
+    },
+    {
+      "airDate": "2007-05-04",
+      "episodeCount": 30,
+      "name": "Season 42",
+      "overview": "",
+      "posterPath": "/61gzwxt49FK9ht5Eiu3lIaWIcym.jpg",
+      "seasonNumber": 42
+    },
+    {
+      "airDate": "2007-08-17",
+      "episodeCount": 40,
+      "name": "Season 43",
+      "overview": "",
+      "posterPath": "/siCbxlWKAbQ4yT82XC2Sz4PoEJU.jpg",
+      "seasonNumber": 43
+    },
+    {
+      "airDate": "2008-01-04",
+      "episodeCount": 30,
+      "name": "Season 44",
+      "overview": "",
+      "posterPath": "/p3nNqvnBZoKL8M5LO7wwdF0nxUP.jpg",
+      "seasonNumber": 44
+    },
+    {
+      "airDate": "2008-04-18",
+      "episodeCount": 46,
+      "name": "Season 45",
+      "overview": "",
+      "posterPath": "/ghsVjJB5NrvwGxW4id1Q4G6pHs6.jpg",
+      "seasonNumber": 45
+    },
+    {
+      "airDate": "2008-09-26",
+      "episodeCount": 48,
+      "name": "Season 46",
+      "overview": "",
+      "posterPath": "/aqrwfSiR5z0Z6PoachlsUkp13fP.jpg",
+      "seasonNumber": 46
+    },
+    {
+      "airDate": "2009-03-13",
+      "episodeCount": 48,
+      "name": "Season 47",
+      "overview": "",
+      "posterPath": "/olyk5ddAPFQj9hyI6hbM45EJo3K.jpg",
+      "seasonNumber": 47
+    },
+    {
+      "airDate": "2009-09-12",
+      "episodeCount": 40,
+      "name": "PILI Prestige: Legend of the Dragon Blade",
+      "overview": "",
+      "posterPath": "/mJfMs08MfLzqxyIAWx4jUxNYskA.jpg",
+      "seasonNumber": 48
+    },
+    {
+      "airDate": "2010-01-29",
+      "episodeCount": 40,
+      "name": "PILI PRESTIGE：LEGEND OF THE DRAGON WARRIOR",
+      "overview": "",
+      "posterPath": "/1vgrB5jfUBEMZrk2zYlPeFxx8eP.jpg",
+      "seasonNumber": 49
+    },
+    {
+      "airDate": "2010-06-18",
+      "episodeCount": 40,
+      "name": "PILI PRESTIGE：DRAGON CLASH & THE CODE OF WAR",
+      "overview": "",
+      "posterPath": "/gd37jThZkdhN92LKQX2vgYu9ylS.jpg",
+      "seasonNumber": 50
+    },
+    {
+      "airDate": "2010-11-12",
+      "episodeCount": 40,
+      "name": "PILI JING WU JI：The Warriors Controversy",
+      "overview": "",
+      "posterPath": "/siAKAUKMHbmsukwuVqY7NUMzKVs.jpg",
+      "seasonNumber": 51
+    },
+    {
+      "airDate": "2011-04-01",
+      "episodeCount": 40,
+      "name": "Pili Bing Xian:Seal of the Final Crusade",
+      "overview": "",
+      "posterPath": "/uBXhmF1MT2NJGa5la74tNv0Knay.jpg",
+      "seasonNumber": 52
+    },
+    {
+      "airDate": "2011-08-19",
+      "episodeCount": 40,
+      "name": "Pili Bing Xian:Conquest of the Middle Land",
+      "overview": "",
+      "posterPath": "/f6hWxKNI6fEjdXicHYqPD9jkfxm.jpg",
+      "seasonNumber": 53
+    },
+    {
+      "airDate": "2012-01-06",
+      "episodeCount": 40,
+      "name": "PILI Warfare Chronicles:Contest of the Endless Battle",
+      "overview": "",
+      "posterPath": "/w86MHwkGOGs1wETJpWN9i9fyRQ5.jpg",
+      "seasonNumber": 54
+    },
+    {
+      "airDate": "2012-05-25",
+      "episodeCount": 40,
+      "name": "PILI Warfare Chronicles: The Hidden Diversion",
+      "overview": "",
+      "posterPath": "/atq5I540pqydbCqcTfBgvx0mGWj.jpg",
+      "seasonNumber": 55
+    },
+    {
+      "airDate": "2012-10-12",
+      "episodeCount": 20,
+      "name": "PILI JING HONG:SAGA OF BLADE & SABER",
+      "overview": "",
+      "posterPath": "/6Q824xT0gCWv3FdN57Cv00Sb5dn.jpg",
+      "seasonNumber": 56
+    },
+    {
+      "airDate": "2013-01-11",
+      "episodeCount": 31,
+      "name": "PILI XIA YING：THE WULIN WARRIORS",
+      "overview": "",
+      "posterPath": "/i8zuVUPzX0VcPYAE57ZjqftihSh.jpg",
+      "seasonNumber": 57
+    },
+    {
+      "airDate": "2013-06-07",
+      "episodeCount": 32,
+      "name": "PILI XIA YING：The Decisive Thunderbolt",
+      "overview": "",
+      "posterPath": "/4y0vgIGPTbGx6rcX7bvC9whHdbj.jpg",
+      "seasonNumber": 58
+    },
+    {
+      "airDate": "2013-11-01",
+      "episodeCount": 32,
+      "name": "PILI XIA YING：Unite Against the Darkness",
+      "overview": "",
+      "posterPath": "/ssIFHotHqaXHkZDGhujV4zgkrDa.jpg",
+      "seasonNumber": 59
+    },
+    {
+      "airDate": "2014-03-28",
+      "episodeCount": 32,
+      "name": "PILI XIA YING:The Ranking of Swordsmen",
+      "overview": "",
+      "posterPath": "/rwTW62jEGS2DT9kI1KGJUCq2GL1.jpg",
+      "seasonNumber": 60
+    },
+    {
+      "airDate": "2014-08-22",
+      "episodeCount": 32,
+      "name": "PILI KAI TIAN JI: The World Reborn",
+      "overview": "",
+      "posterPath": "/lFsIfAvafb4e4rpFWS5ynJEsIYM.jpg",
+      "seasonNumber": 61
+    },
+    {
+      "airDate": "2015-01-09",
+      "episodeCount": 32,
+      "name": "PILI KAI TIAN JI: The World RebornⅡ",
+      "overview": "",
+      "posterPath": "/pqQvREH5tsjEBXymeb74wpUcyWo.jpg",
+      "seasonNumber": 62
+    },
+    {
+      "airDate": "2015-06-05",
+      "episodeCount": 32,
+      "name": "PILI MI CHENG:Mask & Zodiac",
+      "overview": "",
+      "posterPath": "/eh9HTceO36kMuUoP6vWaMlc5Iso.jpg",
+      "seasonNumber": 63
+    },
+    {
+      "airDate": "2015-10-16",
+      "episodeCount": 16,
+      "name": "PILI LANG YAN : The Nine Kingdoms Engulf the World in War",
+      "overview": "",
+      "posterPath": "/mJdJsbGklNibFMhP0mfxscdmgSh.jpg",
+      "seasonNumber": 64
+    },
+    {
+      "airDate": "2015-12-25",
+      "episodeCount": 32,
+      "name": "PILI LANG YAN : Alarm Signals All Along the Border",
+      "overview": "",
+      "posterPath": "/fP9T1NQP7dzfkC52IebG8ArDGq5.jpg",
+      "seasonNumber": 65
+    },
+    {
+      "airDate": "2016-04-15",
+      "episodeCount": 50,
+      "name": "PILI LANG YAN : Battle for Supremacy Over the Ancient Plain",
+      "overview": "",
+      "posterPath": "/kJqjvKdhncNRFavuPQpEVLrDG0R.jpg",
+      "seasonNumber": 66
+    },
+    {
+      "airDate": "2016-10-07",
+      "episodeCount": 50,
+      "name": "Pili Destiny: The Battle of the Immortals and Demons",
+      "overview": "",
+      "posterPath": "/i5VKbcEhWPFuZ7DLMGWAzESOycd.jpg",
+      "seasonNumber": 67
+    },
+    {
+      "airDate": "2017-03-31",
+      "episodeCount": 60,
+      "name": "Pili Destiny:The Battle of the Immortals and DemonsⅡ:The Demon Destroyers",
+      "overview": "",
+      "posterPath": "/d4E9der8r2vLd9iBGSSrXLOVekw.jpg",
+      "seasonNumber": 68
+    },
+    {
+      "airDate": "2017-10-27",
+      "episodeCount": 20,
+      "name": "Pili Destiny: In the Wake of War",
+      "overview": "",
+      "posterPath": "/giNUMvFqlYI19ooyVICNeOOJeNe.jpg",
+      "seasonNumber": 69
+    },
+    {
+      "airDate": "2018-01-05",
+      "episodeCount": 50,
+      "name": "Pili Destiny: In the Wake of WarⅡ : Legend of the exorcists",
+      "overview": "",
+      "posterPath": "/8cpTdRsZTToPHpxuMukhetkcAwi.jpg",
+      "seasonNumber": 70
+    },
+    {
+      "airDate": "2018-06-29",
+      "episodeCount": 42,
+      "name": "PILI JING TAO : The Raging Storm",
+      "overview": "",
+      "posterPath": "/58bZ4UR2EABzpCm55phi2wUlpyI.jpg",
+      "seasonNumber": 71
+    },
+    {
+      "airDate": "2018-11-23",
+      "episodeCount": 60,
+      "name": "PILI MO FONG：SEALING UP THE DEMON KING",
+      "overview": "",
+      "posterPath": "/ajdHNl04RZ7xYngNtwZM1Nz1zB1.jpg",
+      "seasonNumber": 72
+    },
+    {
+      "airDate": "2019-06-21",
+      "episodeCount": 20,
+      "name": "PILI JING XUAN LU：Pacifying the Fantastic Event",
+      "overview": "",
+      "posterPath": "/6Cn7wrNU3HpnXPEqJtJ8UWI2LPD.jpg",
+      "seasonNumber": 73
+    },
+    {
+      "airDate": "2019-08-30",
+      "episodeCount": 28,
+      "name": "PILI JING XUAN LU：Pacifying the Fantastic Event II",
+      "overview": "",
+      "posterPath": "/owO1KWzKUzpWmQfkoHbT04T6Cdr.jpg",
+      "seasonNumber": 74
+    },
+    {
+      "airDate": "2019-12-06",
+      "episodeCount": 50,
+      "name": "PILI XIA FENG：The Pinnacle of Heroes",
+      "overview": "",
+      "posterPath": "/aBVGgBKuaA1i4Aq55yg239HQrnf.jpg",
+      "seasonNumber": 75
+    },
+    {
+      "airDate": "2020-05-29",
+      "episodeCount": 32,
+      "name": "PILI TIAN YUEH：Requiem Written in Blood",
+      "overview": "",
+      "posterPath": "/gLZck5hww7stlpQdnexgQQrLdfX.jpg",
+      "seasonNumber": 76
+    },
+    {
+      "airDate": "2020-09-18",
+      "episodeCount": 46,
+      "name": "PILI BING FENG JUE：Battle Torches- Match Point",
+      "overview": "",
+      "posterPath": "/bdvA4mRmpewdnhNgQjk1ANSh5JX.jpg",
+      "seasonNumber": 77
+    },
+    {
+      "airDate": "2021-02-26",
+      "episodeCount": 30,
+      "name": "PILI ZHAO LING QUE：Into the Unknown",
+      "overview": "",
+      "posterPath": "/mQrSV05yk7BuDbuXgYNdXWmxpgk.jpg",
+      "seasonNumber": 78
+    },
+    {
+      "airDate": "2021-06-11",
+      "episodeCount": 42,
+      "name": "Season 79",
+      "overview": "",
+      "posterPath": "/zUc4DvLvMhhTAQi0qG2V46SVXW0.jpg",
+      "seasonNumber": 79
+    },
+    {
+      "airDate": "2021-11-05",
+      "episodeCount": 40,
+      "name": "Season 80",
+      "overview": "",
+      "posterPath": "/jLzfyDYX8xenhG7AfF22HurQOVA.jpg",
+      "seasonNumber": 80
+    },
+    {
+      "airDate": "2022-04-01",
+      "episodeCount": 42,
+      "name": "Season 81",
+      "overview": "",
+      "posterPath": "/rM1U8uri4OaRTMAJe8TTIwOdHL5.jpg",
+      "seasonNumber": 81
+    },
+    {
+      "airDate": "2022-08-26",
+      "episodeCount": 40,
+      "name": "Season 82",
+      "overview": "",
+      "posterPath": "/lLjYBTrVXK3adFSSGvHy7dXWoZC.jpg",
+      "seasonNumber": 82
+    },
+    {
+      "airDate": "2023-01-13",
+      "episodeCount": 26,
+      "name": "Season 83",
+      "overview": "",
+      "posterPath": "/wYlnQJdDSYRAm5wIBs7bhDgX66Q.jpg",
+      "seasonNumber": 83
+    },
+    {
+      "airDate": "2023-07-14",
+      "episodeCount": 25,
+      "name": "Season 84",
+      "overview": "",
+      "posterPath": "/yLzrit6v9nc11QLx3JxvjjX6k14.jpg",
+      "seasonNumber": 84
+    },
+    {
+      "airDate": "2024-01-05",
+      "episodeCount": 13,
+      "name": "Season 85",
+      "overview": "",
+      "posterPath": "/pKrVWo02ME8OAoDadHKerXW18tu.jpg",
+      "seasonNumber": 85
+    },
+    {
+      "airDate": "2024-04-05",
+      "episodeCount": 55,
+      "name": "Season 86",
+      "overview": "",
+      "posterPath": "/twQUpWXcTUo06dOxHHhPzMyge3N.jpg",
+      "seasonNumber": 86
+    },
+    {
+      "airDate": "2025-04-18",
+      "episodeCount": 26,
+      "name": "Season 87",
+      "overview": "",
+      "posterPath": "/2dJIJWSJT5ARoSzPiGJnkJz93lr.jpg",
+      "seasonNumber": 87
+    },
+    {
+      "airDate": "2025-10-17",
+      "episodeCount": 32,
+      "name": "Season 88",
+      "overview": "",
+      "posterPath": "/kAEoYEaseheJaWtub2wxpes0bRN.jpg",
+      "seasonNumber": 88
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Pili",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 7,
+  "watchProviders": {}
+}

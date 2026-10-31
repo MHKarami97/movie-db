@@ -1,0 +1,155 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 6194,
+      "name": "Claire Danes",
+      "profilePath": "/vTKKniIwbXWMmnuMmGKHYS41Vif.jpg"
+    },
+    {
+      "character": "",
+      "id": 3061,
+      "name": "Ewan McGregor",
+      "profilePath": "/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg"
+    },
+    {
+      "character": "",
+      "id": 209513,
+      "name": "Macon Blair",
+      "profilePath": "/sNhgAh7TBBYNGR2ExnINXIQ4U5x.jpg"
+    },
+    {
+      "character": "",
+      "id": 1652371,
+      "name": "Daveed Diggs",
+      "profilePath": "/codalhZzB4LvJTSGOnOyrTEsqsF.jpg"
+    },
+    {
+      "character": "",
+      "id": 1445659,
+      "name": "Michael Patrick Thornton",
+      "profilePath": "/t7Z7ubKXOi58K1Li4lcMJk0RkXN.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 41077,
+      "logoPath": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24"
+    },
+    {
+      "id": 236166,
+      "logoPath": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2027-01-13",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-13",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt33270279"
+  },
+  "fetchedAt": 1794544612725,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 262788,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-13",
+    "episodeNumber": 1,
+    "id": 8123117,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "The Spot",
+  "overview": "A successful surgeon and her school teacher husband suspect she might be responsible for a child's hit-and-run death. While looking into the matter, dark secrets are revealed that will test their relationship as they confront the possibility of hidden guilt and betrayal.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-13",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-13"
+    },
+    "CN": {
+      "tv": "2027-01-13"
+    },
+    "GB": {
+      "tv": "2027-01-13"
+    },
+    "US": {
+      "tv": "2027-01-13"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-13",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Spot",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

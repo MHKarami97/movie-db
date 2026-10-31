@@ -1,0 +1,255 @@
+{
+  "backdropPath": "/7ww4Zc6XirdNJnj1nMsWq9ycxuz.jpg",
+  "cast": [
+    {
+      "character": "Judy",
+      "id": 3141,
+      "name": "Marisa Tomei",
+      "profilePath": "/vAQ10fvGfVyuJdMNKVMA4ZkacWL.jpg"
+    },
+    {
+      "character": "Diane",
+      "id": 2088734,
+      "name": "Sherry Cola",
+      "profilePath": "/fO6t05iJo4gqsTkOgPO1jwF4B4t.jpg"
+    },
+    {
+      "character": "Eva",
+      "id": 144216,
+      "name": "Ciara Bravo",
+      "profilePath": "/vCr9ndoyWyo5JjtmVGGzjFBiW9E.jpg"
+    },
+    {
+      "character": "Theo",
+      "id": 1252323,
+      "name": "Marco Pigossi",
+      "profilePath": "/gWtzmoCeBGSc4PnTw7cNk4Fplve.jpg"
+    },
+    {
+      "character": "Daniel",
+      "id": 72128,
+      "name": "José María Yázpik",
+      "profilePath": "/GEV4PnIhxAAPxIHvsyhdLUjnSv.jpg"
+    },
+    {
+      "character": "Sam",
+      "id": 4257294,
+      "name": "Dennis Tong",
+      "profilePath": null
+    },
+    {
+      "character": "Mary",
+      "id": 162621,
+      "name": "Judy Kain",
+      "profilePath": "/jilKv0EF7pzapvIyJGxxr9qDNK4.jpg"
+    },
+    {
+      "character": "Chloe",
+      "id": 2077861,
+      "name": "Lily Donoghue",
+      "profilePath": "/holQToryfBB03aKRCPJVeRO4gOz.jpg"
+    },
+    {
+      "character": "Tyler",
+      "id": 1540118,
+      "name": "Marcus Emanuel Mitchell",
+      "profilePath": null
+    },
+    {
+      "character": "Edward",
+      "id": 31711,
+      "name": "Troy Garity",
+      "profilePath": "/eNK78vBECYQbug1h7jFVo8OeHr0.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 197680,
+      "logoPath": null,
+      "name": "The Wonder Company"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-05-01",
+  "externalIds": {
+    "imdbId": "tt29375937",
+    "instagramId": "youredatinganarcissistmovie",
+    "wikidataId": "Q136656937"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 35,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1217505,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "You're Dating a Narcissist!",
+  "overview": "An outspoken psychologist, burnt by love, takes an emergency trip to Los Angeles with her best friend to talk her smitten daughter out of marrying a man she is convinced is a narcissist.",
+  "posterPath": "/j1O4BvAjGosDf9SdDemR4E1zDY3.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-01",
+      "gapDays": 35,
+      "theatricalDate": "2026-03-27"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-05-01",
+      "premiere": "2025-10-25",
+      "theatricalLimited": "2026-03-27"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-03-27",
+  "title": "You're Dating a Narcissist!",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "xiriBcNoFRU",
+      "name": "Official Clip - \"Is It Working?\"",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "qGtArTcYdsY",
+      "name": "Official Clip - \"Everyone Needs Love\"",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "kEnQ2rgzEtw",
+      "name": "Official TV Spot",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Hw63r4S6kGw",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 23,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2303,
+          "logoPath": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "id": 582,
+          "logoPath": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        },
+        {
+          "id": 633,
+          "logoPath": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+          "name": "Paramount+ Roku Premium Channel"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1217505-you-re-dating-a-narcissist/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

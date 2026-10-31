@@ -1,0 +1,180 @@
+{
+  "backdropPath": "/qpyvvF4X4HIYniXqYaWi743PCCS.jpg",
+  "cast": [
+    {
+      "character": "Farouk",
+      "id": 1614501,
+      "name": "Ahmed Malek",
+      "profilePath": "/rXLI7Q1Lhf01V5CA870H34NRQnA.jpg"
+    },
+    {
+      "character": "Omar",
+      "id": 1585765,
+      "name": "Kamel El Basha",
+      "profilePath": "/k1U16QD78Kn0JsvPsPKJn4dP18S.jpg"
+    },
+    {
+      "character": "Sarah",
+      "id": 2502187,
+      "name": "Mayan ElSayed",
+      "profilePath": "/9C0D8kzaaQUHzHBCFONQXbY0cOR.jpg"
+    },
+    {
+      "character": "Maggie",
+      "id": 1277982,
+      "name": "Donia Maher",
+      "profilePath": "/y4lVAb0EBl5M1sCIeATftZzbi2G.jpg"
+    },
+    {
+      "character": "Ali",
+      "id": 3003455,
+      "name": "Abed Anany",
+      "profilePath": "/tfNEcxykNBJEMqJoXuQUPtPh7Hj.jpg"
+    },
+    {
+      "character": "",
+      "id": 3075017,
+      "name": "Hala Marzouk",
+      "profilePath": "/rLXhQW3ptW5zLTbPEgquphLWca3.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 34320,
+      "logoPath": "/wiYuQiEr15YGdedQP1h9vzsGXVf.png",
+      "name": "Film Clinic"
+    },
+    {
+      "id": 182771,
+      "logoPath": "/3jQnukS3LyTyD8vz06QJvEnrr8u.png",
+      "name": "ArtKhana Corporation"
+    },
+    {
+      "id": 285796,
+      "logoPath": "/ksLr68muf2wHsEGYusvh85DJhct.png",
+      "name": "Siam Films"
+    },
+    {
+      "id": 121107,
+      "logoPath": "/rabWiUD1dEtoLPXP8rgEAMKDcfe.png",
+      "name": "DUOFilm AS"
+    },
+    {
+      "id": 87271,
+      "logoPath": "/tXxU8K5C9HoApztCgBb7OgmxTPd.png",
+      "name": "Arizona Productions"
+    },
+    {
+      "id": 280772,
+      "logoPath": "/94Qjbf4Xn5n7fy0Te8my1hISKg7.png",
+      "name": "B-retta Film"
+    },
+    {
+      "id": 285798,
+      "logoPath": "/b0mPxu7yBdIf6rlT2DaGqTnyVWT.png",
+      "name": "Good Vibes Production"
+    }
+  ],
+  "countries": [
+    {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    {
+      "code": "NO",
+      "name": "Norway"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    {
+      "code": "QA",
+      "name": "Qatar"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38629478",
+    "wikidataId": "Q137944355"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1369661,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ar",
+      "name": "Arabic"
+    }
+  ],
+  "originalTitle": "كولونيا",
+  "overview": "Over the course of one long night, a father and his son each discover many secrets about the other, and together they try to overcome all the differences of the past and move forward.",
+  "posterPath": "/hHBlZn0BCesJ6zN68koxOpncwnC.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 96,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "My Father's Scent",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "K1KAWpEqnVo",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "CCYGFAJPNF8",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {}
+}

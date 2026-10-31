@@ -1,0 +1,203 @@
+{
+  "backdropPath": "/nbV74XlKammNDGJM4SxShSupOgc.jpg",
+  "cast": [
+    {
+      "character": "Rita",
+      "id": 1295762,
+      "name": "Keerthy Suresh",
+      "profilePath": "/fTdgSinsAitdujBBEUEA72GY0pv.jpg"
+    },
+    {
+      "character": "Chellama",
+      "id": 562177,
+      "name": "Radhika Sarathkumar",
+      "profilePath": "/kEKzT8HAJw8lfFUtWWd0SoQ9kC9.jpg"
+    },
+    {
+      "character": "Dracula Pandian",
+      "id": 1341168,
+      "name": "Super Subbarayan",
+      "profilePath": "/vPmu4SofjBtYSwOf5A4Mcnx2y90.jpg"
+    },
+    {
+      "character": "Dracula Bobby",
+      "id": 213428,
+      "name": "Sunil Varma",
+      "profilePath": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg"
+    },
+    {
+      "character": "Reddy",
+      "id": 1289211,
+      "name": "Ajay Ghosh",
+      "profilePath": "/bvexSjSRhZM8ke753Sq1oZf5pxY.jpg"
+    },
+    {
+      "character": "Dracula Cheetta",
+      "id": 2860067,
+      "name": "Redin Kingsley",
+      "profilePath": "/JX9ukTnXCNBlsbQeHGY85qf3du.jpg"
+    },
+    {
+      "character": "Inspector Kamaraj",
+      "id": 509737,
+      "name": "John Vijay",
+      "profilePath": "/1H4uUEI32DmZWfTGmWnXyu0BrU7.jpg"
+    },
+    {
+      "character": "Martin",
+      "id": 581181,
+      "name": "Kalyan Kumar",
+      "profilePath": "/nCUClpez9E3FnqwevCn9r3VZvJK.jpg"
+    },
+    {
+      "character": "Lallu",
+      "id": 2614125,
+      "name": "Suresh Chakravarthy",
+      "profilePath": "/6LvUOVOFMhnd88kqmH8dKuCWoCB.jpg"
+    },
+    {
+      "character": "Rita's Father",
+      "id": 3207658,
+      "name": "Sriram",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 99430,
+      "logoPath": "/1awi9lZqmKwezdQvKwysg3QmlVg.png",
+      "name": "Passion Studios"
+    },
+    {
+      "id": 182074,
+      "logoPath": null,
+      "name": "The Route"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt26319590",
+    "wikidataId": "Q134708179"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1074048,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ta",
+      "name": "Tamil"
+    }
+  ],
+  "originalTitle": "ரிவால்வர் ரீட்டா",
+  "overview": "A woman must use her intelligence and grit to protect her family after they are unexpectedly caught in the crossfire of gang violence.",
+  "posterPath": "/vhllGhZ2TBbyB0f5xjgj181PP5T.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 140,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Revolver Rita",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 8,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1074048/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1074048/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1074048/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "backdropPath": "/1qF3J2YtdmgN7eO8WUg817qVvFE.jpg",
+  "cast": [
+    {
+      "character": "Sally",
+      "id": 59750,
+      "name": "Nikki DeLoach",
+      "profilePath": "/3GX2s3MLKvICPB4gxSnONi8zq0r.jpg"
+    },
+    {
+      "character": "Damon",
+      "id": 58970,
+      "name": "Juan Pablo Di Pace",
+      "profilePath": "/gVPOKmmaXCg0Z052MKsPLZERohE.jpg"
+    },
+    {
+      "character": "Keegan",
+      "id": 4327757,
+      "name": "Brandon Ironside",
+      "profilePath": "/aJqjm681ydIkkZ5dDyLULLvOagR.jpg"
+    },
+    {
+      "character": "Boo",
+      "id": 3272175,
+      "name": "Remy Marthaller",
+      "profilePath": "/oN4Eedj1tZcYJ9F6k9HIi3iERbL.jpg"
+    },
+    {
+      "character": "Jake",
+      "id": 1658287,
+      "name": "Brock Morgan",
+      "profilePath": "/97XoLTN07WAfa02xjFRMGUwFKGc.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt46075500"
+  },
+  "fetchedAt": 1794544612725,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1773357,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Holiday Unplugged",
+  "overview": "After losing treasured videos of her late husband, a widowed mother plans a screen-free Christmas while secretly searching for the originals and finding unexpected romance along the way.",
+  "posterPath": "/vFiym2U35GDreIiNpmHpvhKW17A.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2026-11-07"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Holiday Unplugged",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "sL8yA0zCv60",
+      "name": "New! Holiday Unplugged | Preview | Starring Nikki DeLoach and Juan Pablo Di Pace | Hallmark Channel",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "L9hQWqFMxkU",
+      "name": "Holiday Unplugged | Sneak Peek | Starring Nikki DeLoach and Juan Pablo Di Pace",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 290,
+          "logoPath": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "id": 2058,
+          "logoPath": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "id": 1746,
+          "logoPath": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1773357-holiday-unplugged/watch?locale=US",
+      "rent": []
+    }
+  }
+}

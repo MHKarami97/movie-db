@@ -1,0 +1,181 @@
+{
+  "backdropPath": "/qAeO2UOdLpDfCRGfkeaPKcnrsQQ.jpg",
+  "cast": [
+    {
+      "character": "Mr. Torrence",
+      "id": 14329,
+      "name": "Dean Norris",
+      "profilePath": "/mKRrEbsxAX3ro700HsViFArRM7l.jpg"
+    },
+    {
+      "character": "Val",
+      "id": 159657,
+      "name": "Judy Reyes",
+      "profilePath": "/DQ8kIRHru9Zzy6CftVryHmIOJs.jpg"
+    },
+    {
+      "character": "Lodestar",
+      "id": 82666,
+      "name": "Rhys Darby",
+      "profilePath": "/65Zy72IsUjopCkRt0s55Tk68GIm.jpg"
+    },
+    {
+      "character": "Magistrate",
+      "id": 205213,
+      "name": "Edi Patterson",
+      "profilePath": "/ecVF2n0OrZcbDlPEkNnrAUyWQuH.jpg"
+    },
+    {
+      "character": "Noah",
+      "id": 1887455,
+      "name": "Fin Argus",
+      "profilePath": "/3aDbVpQga0Bhcx7GGh3jKVaeJN6.jpg"
+    },
+    {
+      "character": "Seth",
+      "id": 1340252,
+      "name": "George Kareman",
+      "profilePath": "/kwd8ex0Eycg2YajroUD31J5epyi.jpg"
+    },
+    {
+      "character": "Kevin",
+      "id": 1340254,
+      "name": "Ben Wietmarschen",
+      "profilePath": null
+    },
+    {
+      "character": "Kyle",
+      "id": 1515840,
+      "name": "Patrick O'Brien",
+      "profilePath": null
+    },
+    {
+      "character": "Martin",
+      "id": 77155,
+      "name": "James Saito",
+      "profilePath": "/2XiFPyvmJWUtaWHAJOhrMa6JJhQ.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2026-11-17",
+  "externalIds": {
+    "imdbId": "tt34570050"
+  },
+  "fetchedAt": 1795031469102,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1819503,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Long Haired Businessmen",
+  "overview": "Kevin, Kyle, and Seth are long-haired, buzzword-fluent middle managers with a passion for staying looped in and on the same page. When the ruthless Torrence Group acquires their company and sics Gen-Z efficiency experts on them, the trio must survive team-building gone haywire, a scheme to replace them with AI, and a corporate conspiracy to eliminate middle management entirely - armed with nothing but jargon, synergy, and one sacred truth: the weekend’s never long enough.",
+  "posterPath": "/pAjMZ8AiE4tNsKTwIWv9942z8HC.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-17"
+    }
+  },
+  "runtime": 82,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Long Haired Businessmen",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "SBlZFOiwrik",
+      "name": "Long Haired Businessmen - Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 1,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1819503-long-haired-businessmen/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 331,
+          "logoPath": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+          "name": "FlixFling"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

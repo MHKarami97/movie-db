@@ -1,0 +1,244 @@
+{
+  "backdropPath": "/aLKeC5KEC4YQEwyZcXOivHJHlq4.jpg",
+  "cast": [
+    {
+      "character": "Ava",
+      "id": 3041316,
+      "name": "Marta Svetek",
+      "profilePath": "/8z6m4jODbzAunsDNPLWY73PZ1jn.jpg"
+    },
+    {
+      "character": "Pale Face",
+      "id": 6102354,
+      "name": "Steve Weston",
+      "profilePath": null
+    },
+    {
+      "character": "Ben",
+      "id": 3356551,
+      "name": "Ryan Livingstone",
+      "profilePath": null
+    },
+    {
+      "character": "Sarah",
+      "id": 6102365,
+      "name": "Sara Figueiredo",
+      "profilePath": "/nbWKYMbMIOUSju18g2OvuzstUCw.jpg"
+    },
+    {
+      "character": "Ruth",
+      "id": 2843103,
+      "name": "Hannaj Bang Bendz",
+      "profilePath": "/8gytiT7RNrjVbhazgnPQCmSZUKE.jpg"
+    },
+    {
+      "character": "Pale Face",
+      "id": 201366,
+      "name": "Chris Torres",
+      "profilePath": "/rjmN0dj56yseABG7JY8MClpu2rc.jpg"
+    },
+    {
+      "character": "Ben (voice)",
+      "id": 3053633,
+      "name": "Andrew Wheildon-Dennis",
+      "profilePath": "/eXyBFG7nVFNMXBvmsmw2s4HoDxR.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 83694,
+      "logoPath": null,
+      "name": "Clear Focus Movies"
+    },
+    {
+      "id": 316145,
+      "logoPath": null,
+      "name": "Unstable Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-10-28",
+  "externalIds": {
+    "imdbId": "tt38072958",
+    "instagramId": "savagepreymovie"
+  },
+  "fetchedAt": 1794946854500,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1659441,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Savage Prey",
+  "overview": "In the remote Scottish Highlands, a desperate mother searches for her missing son, finding herself trapped in a twisted struggle for survival.",
+  "posterPath": "/sw51DrxbE1PuJxiqfl3dsZHA3tX.jpg",
+  "rating": 7.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-10-28",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-28",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-10-28"
+    },
+    "US": {
+      "digital": "2026-10-28",
+      "premiere": "2026-08-09"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A PARENT IS CAPABLE OF UNIMAGINABLE THINGS",
+  "theatricalDate": null,
+  "title": "Savage Prey",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "2QlT3AV0iGo",
+      "name": "SAVAGE PREY | Trailer | Starring Marta Svetek (2026)",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ],
+      "free": [
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1659441-savage-prey/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        },
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ],
+      "free": [
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1659441-savage-prey/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        },
+        {
+          "id": 2703,
+          "logoPath": "/8MHJUtlpY7PGBclfvjryTzBEB7A.png",
+          "name": "Chilling"
+        }
+      ],
+      "free": [
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        },
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1659441-savage-prey/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    }
+  }
+}

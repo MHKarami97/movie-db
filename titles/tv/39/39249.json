@@ -1,0 +1,211 @@
+{
+  "backdropPath": "/l9CJh1u4JtWGzNTNJgg6He2yrLL.jpg",
+  "cast": [
+    {
+      "character": "Georg Wilsberg",
+      "id": 1855,
+      "name": "Leonard Lansink",
+      "profilePath": "/coNhXk0GKODmDDj9LI1XihC2M7Q.jpg"
+    },
+    {
+      "character": "Anna Springer",
+      "id": 38735,
+      "name": "Rita Russek",
+      "profilePath": "/mbtkHEWewu6NQ97jj4cFn6G9tAn.jpg"
+    },
+    {
+      "character": "Overbeck",
+      "id": 1317957,
+      "name": "Roland Jankowsky",
+      "profilePath": "/sC5fIUUvPRh4Y2PNo5y2exVJLlP.jpg"
+    },
+    {
+      "character": "Ekkehardt Talkötter",
+      "id": 4920,
+      "name": "Oliver Korittke",
+      "profilePath": "/sS4fpDUV33fYh7gFD98MzyDgNyf.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 4606,
+      "logoPath": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "1995-02-20",
+  "episodes": {
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": []
+  },
+  "externalIds": {
+    "imdbId": "tt0880565",
+    "wikidataId": "Q179666"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 39249,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-09-26",
+    "episodeNumber": 91,
+    "id": 7106852,
+    "name": "Episode 91",
+    "overview": "A soccer buddy of Wilsberg’s friend Ekki Talkötter vanishes without a trace shortly before his wedding. The investigation leads to an alibi agency that professionally executes plans for people to disappear and start a new life.",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Wilsberg",
+  "overview": "Georg Wilsberg is an antiquarian in Münster. He used to be a lawyer but lost his license. Since then he has been working as a private detective. The always clammy Wilsberg urgently needs this income. In addition, he depends on the support of his friends, especially because of the car.",
+  "posterPath": "/jJrTBO049FLoPhDNB0YZTetkX87.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1995-02-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1995-02-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1995-02-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1995-02-20",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1995-02-20"
+    },
+    "CN": {
+      "tv": "1995-02-20"
+    },
+    "GB": {
+      "tv": "1995-02-20"
+    },
+    "US": {
+      "tv": "1995-02-20"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "1995-02-20",
+      "episodeCount": 93,
+      "name": "Season 1",
+      "overview": "Georg Wilsberg is an antiquarian in Münster. He used to be a lawyer but lost his license. Since then he has been working as a private detective. The always clammy Wilsberg urgently needs this income. In addition, he depends on the support of his friends, especially because of the car.",
+      "posterPath": "/3jyHs5nKKJffXZ0f2oj47oCY9cB.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Wilsberg",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 23,
+  "watchProviders": {}
+}

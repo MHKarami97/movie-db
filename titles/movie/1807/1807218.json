@@ -1,0 +1,112 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 1187037,
+      "name": "Adam Bakri",
+      "profilePath": "/gLIQ6bP2N35bmA2bWzqf5dmDmbH.jpg"
+    },
+    {
+      "character": "",
+      "id": 6574381,
+      "name": "Judith Blum Reddy",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 56376,
+      "name": "Annemarie Jacir",
+      "profilePath": "/1kGUirv96ZpOcNzkoK5xHeSrOcA.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 613697,
+      "name": "Dev Benegal",
+      "profilePath": "/ewy1dP4EbsYFtb6xqJcZHyhL13w.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 315663,
+      "logoPath": null,
+      "name": "min(d) studio"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2027-01-01",
+  "externalIds": {
+    "imdbId": "tt34379182",
+    "instagramId": "Everythingisnot.ok"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1807218,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Everything Is Not OK",
+  "overview": "Artist Judith Blum Reddy's work, shaped by the Holocaust and displacement across continents, is explored alongside fellow artists who channeled displacement into art, framed by poetry and themes of memory and resistance.",
+  "posterPath": "/RQir12OiuIg4bwAWNDOaEKClT2.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2027-01-01"
+    }
+  },
+  "runtime": 82,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Everything Is Not OK",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "sc6ufCIP9Gk",
+      "name": "Everything is Not OK | Dev Benegal | Judith Blum Reddy | Watermelon Pictures",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

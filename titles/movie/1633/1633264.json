@@ -1,0 +1,213 @@
+{
+  "backdropPath": "/cmpiLnDIdxQNFZLZZFRj1rSo7fW.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 219396,
+      "name": "Louis Theroux",
+      "profilePath": "/bd1aUigEuidrND9C1vumCN3pC0o.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 4875737,
+      "name": "HSTikkyTokky",
+      "profilePath": "/eYs05dME93EZuoHlIjUQtLRmHOX.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6001732,
+      "name": "Myron Gaines",
+      "profilePath": "/2gqzGIwG9mnbHOj3j33K4Dd1kBM.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2679109,
+      "name": "Sneako",
+      "profilePath": "/kIt6xnJzinY7aSukXwt1jFXVPOg.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 4795751,
+      "name": "Justin Waller",
+      "profilePath": "/rLZK4rIWyrQQgUcNg8yz56FuR3T.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 4483897,
+      "name": "Ed Matthews",
+      "profilePath": "/47Siht4ZEq1o2twqSeZCMGqhAVW.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6068379,
+      "name": "Elaine Sullivan",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6068386,
+      "name": "Kacey May",
+      "profilePath": null
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 3793401,
+      "name": "Andrew Tate",
+      "profilePath": "/ssWtttZktmgfdZl976bV9AHMVm4.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 3873256,
+      "name": "Tristan Tate",
+      "profilePath": "/zLagQ8V88OL15Xpv6fLYMreDuMT.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 152159,
+      "logoPath": "/dU2XfRqh0GfrZF85xJDYHrWmLAr.png",
+      "name": "Mindhouse Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-03-11",
+  "externalIds": {
+    "imdbId": "tt39792948",
+    "wikidataId": "Q138651981"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1633264,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Louis Theroux: Inside the Manosphere",
+  "overview": "With rare access and no holds barred, the acclaimed documentarian investigates a growing ultra-masculine network and its controversial influencers.",
+  "posterPath": "/ouOvRvsgF37yEx3D6ZLWyuxZFjE.jpg",
+  "rating": 6.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-03-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-03-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-11",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-03-11"
+    },
+    "GB": {
+      "digital": "2026-03-11"
+    },
+    "US": {
+      "digital": "2026-03-11"
+    }
+  },
+  "runtime": 92,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Back and beta than ever.",
+  "theatricalDate": null,
+  "title": "Louis Theroux: Inside the Manosphere",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Ms23FeJWvKU",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "wYB9CUBnZSs",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 162,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1633264-louis-theroux-inside-the-manosphere/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1633264-louis-theroux-inside-the-manosphere/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1633264-louis-theroux-inside-the-manosphere/watch?locale=US",
+      "rent": []
+    }
+  }
+}

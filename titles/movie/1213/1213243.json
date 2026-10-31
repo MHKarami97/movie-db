@@ -1,0 +1,189 @@
+{
+  "backdropPath": "/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+  "cast": [
+    {
+      "character": "Raya / Ticket",
+      "id": 1293681,
+      "name": "Yash",
+      "profilePath": "/eN4AXetHfg8sFOI4tCFBCaq1iac.jpg"
+    },
+    {
+      "character": "Nadia",
+      "id": 1340978,
+      "name": "Kiara Advani",
+      "profilePath": "/2xmU03a6kTWUvuTPMdofiFLxdAw.jpg"
+    },
+    {
+      "character": "Ganga",
+      "id": 91548,
+      "name": "Nayanthara",
+      "profilePath": "/sYUzvjsSsqeOgBblSzda6ZwwbEa.jpg"
+    },
+    {
+      "character": "Elizabeth",
+      "id": 1108805,
+      "name": "Huma Qureshi",
+      "profilePath": "/nJWauZQdRjMJxwY3UP4SXrqh9CM.jpg"
+    },
+    {
+      "character": "Rebecca",
+      "id": 2030881,
+      "name": "Tara Sutaria",
+      "profilePath": "/tF2OxFzOaDOMX1Sn4k17qZxhvFL.jpg"
+    },
+    {
+      "character": "Mellisa",
+      "id": 2252714,
+      "name": "Rukmini Vasanth",
+      "profilePath": "/4LERfXpxgdAXwxixYOCPWFeQ800.jpg"
+    },
+    {
+      "character": "Karmadi",
+      "id": 1544619,
+      "name": "Sudev Nair",
+      "profilePath": "/6x111KVuthpPOGJYTvdXLmh3J3p.jpg"
+    },
+    {
+      "character": "Tony",
+      "id": 1342538,
+      "name": "Akshay Oberoi",
+      "profilePath": "/dsFqDJzSzUiKZpicmj05Iv1YbOs.jpg"
+    },
+    {
+      "character": "Bheera",
+      "id": 101865,
+      "name": "Balaji Manohar",
+      "profilePath": "/7lHQhTKtoOM1GeEmRqOqj8jOyMe.jpg"
+    },
+    {
+      "character": "Salvador",
+      "id": 186396,
+      "name": "Darrell D'Silva",
+      "profilePath": "/9T8nhJYRCvEVXsSdbI9MFqBkwQm.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 176175,
+      "logoPath": "/qg9zyTZMzZQIfvnd3WZuvKPwXH.png",
+      "name": "KVN Productions"
+    },
+    {
+      "id": 215476,
+      "logoPath": null,
+      "name": "Monster Mind Creations"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt27530512",
+    "twitterId": "Toxic_themovie",
+    "wikidataId": "Q123740702"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1213243,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "kn",
+      "name": "Kannada"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "ಟಾಕ್ಸಿಕ್",
+  "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
+  "posterPath": "/5RTd3YCLWbEhbe9OXRuNX3pbT5U.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-27"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-26"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-28"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-26"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-08-27"
+    },
+    "CN": {
+      "theatrical": "2026-08-26"
+    },
+    "GB": {
+      "theatrical": "2026-08-28"
+    },
+    "US": {
+      "theatrical": "2026-08-26"
+    }
+  },
+  "runtime": 192,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A fairy tale for grown-ups.",
+  "theatricalDate": "2026-08-26",
+  "title": "Toxic",
+  "translations": {
+    "faTitle": "زهرآگین"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "EfluEyQ5QIA",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "JQ7pytcXahw",
+      "name": "Ladies & Ladies",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "aF08WVSvCok",
+      "name": "Introducing Raya",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 80,
+  "watchProviders": {}
+}

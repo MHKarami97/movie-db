@@ -1,0 +1,161 @@
+{
+  "backdropPath": "/n4BGfw8qiQCUVSLV9Grx0U1VP5e.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 87281,
+      "name": "Jeff Ross",
+      "profilePath": "/zLKMftA4hIRZYwgYKLO4TLhYFsA.jpg"
+    },
+    {
+      "character": "Self - Audience Member",
+      "id": 33654,
+      "name": "Breckin Meyer",
+      "profilePath": "/lKzhwW7qqQF4ZMGtRqakqrKrxzm.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 134205,
+      "logoPath": null,
+      "name": "Enough with the Bread Already Productions"
+    },
+    {
+      "id": 263433,
+      "logoPath": "/sWgnzLRjOuBMxGnqqJmqnauf5jt.png",
+      "name": "Best Kept Secret Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-03-24",
+  "externalIds": {
+    "imdbId": "tt39901552"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1555160,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Jeff Ross: Take a Banana for the Ride",
+  "overview": "Making his Broadway debut, legendary comic Jeff Ross turns the spotlight on himself in a one-man show that is as heartfelt as it is hilarious.",
+  "posterPath": "/LWFJ6K3FF9G04z1Ntq9SigLMjt.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-24",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-03-24"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Jeff Ross: Take a Banana for the Ride",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "xR_Ap5NFqno",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1555160-jeff-ross-take-a-banana-for-the-ride/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1555160-jeff-ross-take-a-banana-for-the-ride/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1555160-jeff-ross-take-a-banana-for-the-ride/watch?locale=US",
+      "rent": []
+    }
+  }
+}

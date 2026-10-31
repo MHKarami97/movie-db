@@ -1,0 +1,123 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Christian",
+      "id": 6536458,
+      "name": "Ben Exequiel",
+      "profilePath": "/yiuK1jaZWQIPmjqkTiB2zc9GqGN.jpg"
+    },
+    {
+      "character": "Ian",
+      "id": 6545560,
+      "name": "Matías Aravena A.",
+      "profilePath": "/iwTTaaPw7LkcHpdjOBlSA0cmbzc.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2028-03-31",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2028-03-31",
+        "episodeNumber": 1,
+        "name": "Piloto",
+        "overview": "After leaving rehabilitation, Ian reunites with his old high school friend Christian, hoping to find a place to start over. When things don't go as planned, the two find themselves facing an unexpected change that could turn their lives upside down.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 338368,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2028-03-31",
+    "episodeNumber": 1,
+    "id": 7945816,
+    "name": "Piloto",
+    "overview": "After leaving rehabilitation, Ian reunites with his old high school friend Christian, hoping to find a place to start over. When things don't go as planned, the two find themselves facing an unexpected change that could turn their lives upside down.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Christian e Ian",
+  "overview": "Christian and Ian are two former high school friends in Chile whose lives take an unexpected turn when they find themselves living under the same roof. As they navigate the challenges of adulthood, their very different personalities lead to unpredictable situations, absurd adventures, and the occasional moment of reflection.\n\nBlending comedy, drama, and slice-of-life storytelling, the series follows two friends trying to figure life out, one chaotic day at a time.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2028-03-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2028-03-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2028-03-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2028-03-31",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2028-03-31"
+    },
+    "CN": {
+      "tv": "2028-03-31"
+    },
+    "GB": {
+      "tv": "2028-03-31"
+    },
+    "US": {
+      "tv": "2028-03-31"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2028-03-31",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Planned",
+  "tagline": "Bro, what the f—?!",
+  "theatricalDate": null,
+  "title": "Christian & Ian",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

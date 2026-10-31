@@ -1,0 +1,511 @@
+{
+  "backdropPath": "/g2ZuwiiaLjHQTJEcFssYiBbjjes.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 1035895,
+      "name": "Pernilla Wahlgren",
+      "profilePath": "/oM42LARbrYf4fipJ8QDQ3NjS1uc.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 2999,
+      "logoPath": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+      "name": "SVT"
+    }
+  ],
+  "countries": [
+    {
+      "code": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "digitalDate": "1979-08-03",
+  "episodes": {
+    "41": [
+      {
+        "airDate": "2026-06-23",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": "/AGBIiGx3TY33XvGDLSTqO8YcFj.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-06-30",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": "/4DdJw9Y6xfdz51YUI37lkuBONOB.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-07-07",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": "/nmEWVupI9VFQ8SOCdeBdBpQgO3T.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-07-14",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": "/qFWewdrwJKUQiX4g5tQXxxishBO.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-07-21",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": "/iCl9zErBTloo751WTUkrZbbpqp7.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-07-28",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": "/j7V8G2tOB51zMsq0KZIuPGY876u.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-08-04",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": "/m6T6DSDxmWJUstV4dYU7jp5Z3oz.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-08-11",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": "/9XRDG0s7gKtkAkRVEthrjEGpYSJ.jpg",
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt0444985",
+    "wikidataId": "Q1757014"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 5177,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "sv",
+      "name": "Swedish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-08-11",
+    "episodeNumber": 8,
+    "id": 7419306,
+    "name": "Episode 8",
+    "overview": "",
+    "seasonNumber": 41
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Allsång på Skansen",
+  "overview": "Allsång på Skansen is a Swedish tv show held at Skansen, Stockholm, every summer on Tuesdays. The audience is supposed to sing-along with musical guests to well-known Swedish songs. The show started in 1935 on a small scale - about fifty people in the audience. Today about 10 000–25 500 people come to each performance.",
+  "posterPath": "/bgMdnWpwPBBT2Maqlnn2tZglsB2.jpg",
+  "rating": 5.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1979-08-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1979-08-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1979-08-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1979-08-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1979-08-03"
+    },
+    "CN": {
+      "tv": "1979-08-03"
+    },
+    "GB": {
+      "tv": "1979-08-03"
+    },
+    "US": {
+      "tv": "1979-08-03"
+    }
+  },
+  "runtime": 60,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2012-07-24",
+      "episodeCount": 14,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1979-08-03",
+      "episodeCount": 5,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1980-07-04",
+      "episodeCount": 8,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1984-08-03",
+      "episodeCount": 4,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1986-07-04",
+      "episodeCount": 4,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1990-07-17",
+      "episodeCount": 5,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1991-07-16",
+      "episodeCount": 5,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1992-06-30",
+      "episodeCount": 10,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1993-06-22",
+      "episodeCount": 9,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1994-07-12",
+      "episodeCount": 7,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1995-07-11",
+      "episodeCount": 7,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "1996-06-18",
+      "episodeCount": 9,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "1997-07-01",
+      "episodeCount": 7,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "1998-06-30",
+      "episodeCount": 7,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "1999-06-29",
+      "episodeCount": 7,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2000-06-27",
+      "episodeCount": 7,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2001-06-26",
+      "episodeCount": 7,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2002-06-25",
+      "episodeCount": 7,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2003-06-24",
+      "episodeCount": 7,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2004-06-29",
+      "episodeCount": 7,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2005-06-28",
+      "episodeCount": 7,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2006-06-27",
+      "episodeCount": 6,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2007-06-26",
+      "episodeCount": 7,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2008-06-24",
+      "episodeCount": 7,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2009-06-23",
+      "episodeCount": 7,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2010-06-29",
+      "episodeCount": 8,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "2011-06-28",
+      "episodeCount": 8,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "2012-06-26",
+      "episodeCount": 8,
+      "name": "Season 27",
+      "overview": "",
+      "posterPath": "/2PmNGoWLeFmnenxJuzGVYh4NZ1E.jpg",
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "2013-06-25",
+      "episodeCount": 8,
+      "name": "Season 28",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "2014-06-24",
+      "episodeCount": 8,
+      "name": "Season 29",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "2015-06-23",
+      "episodeCount": 8,
+      "name": "Season 30",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "2016-06-28",
+      "episodeCount": 8,
+      "name": "Season 31",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "2017-06-27",
+      "episodeCount": 8,
+      "name": "Season 32",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "2018-06-26",
+      "episodeCount": 8,
+      "name": "Season 33",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "2019-06-25",
+      "episodeCount": 8,
+      "name": "Season 34",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "2020-06-23",
+      "episodeCount": 8,
+      "name": "Season 35",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "2021-06-29",
+      "episodeCount": 8,
+      "name": "Season 36",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 36
+    },
+    {
+      "airDate": "2022-06-28",
+      "episodeCount": 8,
+      "name": "Season 37",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 37
+    },
+    {
+      "airDate": "2023-06-27",
+      "episodeCount": 8,
+      "name": "Season 38",
+      "overview": "",
+      "posterPath": "/kH2yVUwYMG4vT42qd6B20m44TDo.jpg",
+      "seasonNumber": 38
+    },
+    {
+      "airDate": "2024-06-25",
+      "episodeCount": 8,
+      "name": "Season 39",
+      "overview": "",
+      "posterPath": "/kOar2cWewK7mM9qGOeyEAsSqW60.jpg",
+      "seasonNumber": 39
+    },
+    {
+      "airDate": "2025-06-24",
+      "episodeCount": 8,
+      "name": "Season 40",
+      "overview": "",
+      "posterPath": "/Uqf0abM5m7be6XJzVG3v3wyOC0.jpg",
+      "seasonNumber": 40
+    },
+    {
+      "airDate": "2026-06-23",
+      "episodeCount": 8,
+      "name": "Season 41",
+      "overview": "",
+      "posterPath": "/ewSBDpX8DGnBhW9MFtmO8jrxIwu.jpg",
+      "seasonNumber": 41
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Allsång på Skansen",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {}
+}

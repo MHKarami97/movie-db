@@ -1,0 +1,131 @@
+{
+  "backdropPath": "/25Z6XXXPe4v63HPOje0yyYWKWfz.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 8212,
+      "logoPath": "/pkWt7XNwx5GssnXmTsXLKNpalaH.png",
+      "name": "Folimage"
+    },
+    {
+      "id": 6973,
+      "logoPath": "/6lqJgLZuP3M6kxFJ6RU2HLBbB7L.png",
+      "name": "Les Armateurs"
+    },
+    {
+      "id": 11794,
+      "logoPath": "/vjyzeaIhRdtMfDIVGAECNirIkGw.png",
+      "name": "Lunanime"
+    },
+    {
+      "id": 109756,
+      "logoPath": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+      "name": "Auvergne-Rhône-Alpes Cinéma"
+    },
+    {
+      "id": 91513,
+      "logoPath": null,
+      "name": "Dragons Films"
+    },
+    {
+      "id": 75242,
+      "logoPath": "/hrZzmOGhzhv473sIInHtSNwQOhT.png",
+      "name": "Pictanovo"
+    },
+    {
+      "id": 152188,
+      "logoPath": "/b43pPHjiNuhwDCKUJCPzFtpu68L.png",
+      "name": "TNZPV Productions"
+    },
+    {
+      "id": 81742,
+      "logoPath": "/yKTWAk8VV0g0V01el5wMLNvDTvm.png",
+      "name": "JPL Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt29497084",
+    "wikidataId": "Q136647519"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "id": 989246,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Le Secret des mésanges",
+  "overview": "When 9-year-old Lucie arrives at Bectoile for the vacations, she has no idea of the adventures ahead. Her mother, Caroline, is leading an archaeological dig in the region with her colleague Pierrot. Bectoile is also the town where Caroline grew up, and the scene of a family secret... which Lucie is about to unveil! With the help of her new friend Yann and a very special pair of songbirds, Lucie is determined to delve into her family story. From the underground of a ruined castle to a camper van parked on the edge of the woods, this adventure will lead them from unusual surprises to fabulous discoveries!",
+  "posterPath": "/eDTX13LPwro1QhK7vk7dAb0YEgr.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-10-12"
+    }
+  },
+  "runtime": 76,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Songbirds' Secret",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {}
+}

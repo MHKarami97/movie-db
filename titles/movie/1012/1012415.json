@@ -1,0 +1,179 @@
+{
+  "backdropPath": "/dgkgg4hjdiWlrl7EvCTJ8gC7ZJE.jpg",
+  "cast": [
+    {
+      "character": "Bandit Fai",
+      "id": 1259384,
+      "name": "Sukollawat Kanarot",
+      "profilePath": "/v0tNea70dRSyOqC6OtIL8MuWEIq.jpg"
+    },
+    {
+      "character": "Bandit Mahesuan",
+      "id": 226564,
+      "name": "Mario Maurer",
+      "profilePath": "/wbBpsHWCgey3VsWw0GAAWrsYxc0.jpg"
+    },
+    {
+      "character": "Bandit Bai",
+      "id": 87875,
+      "name": "Arak Amornsupasiri",
+      "profilePath": "/eORS2OAm1DGEpkcLEaOAVyXsfWG.jpg"
+    },
+    {
+      "character": "Bandit Dum",
+      "id": 1259406,
+      "name": "Phakin Khamwilaisak",
+      "profilePath": "/3LHsq7dpuNHVv1b2JpBEKFsHrSi.jpg"
+    },
+    {
+      "character": "Rosarin",
+      "id": 1868135,
+      "name": "Mashannoad Suvalmas",
+      "profilePath": "/fEE5LHWNMcOduy1JsWdkAVPDU1o.jpg"
+    },
+    {
+      "character": "Luang Prasarn",
+      "id": 3921277,
+      "name": "Todsapol Maisuk",
+      "profilePath": "/pDJYWb8463cUNZ5AHtQRLmdheX3.jpg"
+    },
+    {
+      "character": "Field Marshal Lert",
+      "id": 2602117,
+      "name": "Phollawat Manuprasert",
+      "profilePath": "/dINspxsEyG554WJHfii2YeeHdwy.jpg"
+    },
+    {
+      "character": "Linda",
+      "id": 64364,
+      "name": "Kessarin Ektawatkul",
+      "profilePath": "/1IffgogYt2XbkWB2YloZL9PsLxp.jpg"
+    },
+    {
+      "character": "Seree",
+      "id": 3406040,
+      "name": "Akarat Nimitchai",
+      "profilePath": "/jVAgnLdf4HHMbMEVmjUl7cYNoFT.jpg"
+    },
+    {
+      "character": "Bia",
+      "id": 3610095,
+      "name": "Komsan Kajornpaisarnsuk",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 4207,
+      "logoPath": "/v5BSFwIXQmZEO16bClILNrbv4Kl.png",
+      "name": "Sahamongkolfilm"
+    },
+    {
+      "id": 123880,
+      "logoPath": null,
+      "name": "Kongkiat Production"
+    }
+  ],
+  "countries": [
+    {
+      "code": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38784232",
+    "wikidataId": "Q136460494"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1012415,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "th",
+      "name": "Thai"
+    }
+  ],
+  "originalTitle": "เสือ",
+  "overview": "The heroic tale of the legendary bandits of the central region—Bandit Fai, Bandit Mahesuan, Bandit Bai, and Bandit Dum—before becoming the great adversaries of extraordinary detective Khun Pan.",
+  "posterPath": "/frugmi3eTIFa0BV6niMhlOz6Wyy.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-07-14"
+    }
+  },
+  "runtime": 138,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "War erupts. The day the bandits unite.",
+  "theatricalDate": null,
+  "title": "4 Tigers",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "8w3d3s80cqI",
+      "name": "Tiger: New Trailer (Official Character Trailer)",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "5eZW7w928Zk",
+      "name": "Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "NbYwrVt_bEM",
+      "name": "Tigers: Full Trailer - 4 Tigers Official Trailer [Thai subtitles]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "YvFc9xaOZM0",
+      "name": "4 Tigers - Teaser",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {}
+}

@@ -1,0 +1,354 @@
+{
+  "backdropPath": "/lKSxL53zjKG1xpXcGEhIyczx1k9.jpg",
+  "cast": [
+    {
+      "character": "Hannah",
+      "id": 39187,
+      "name": "Olivia Colman",
+      "profilePath": "/lawJUdbLb1YW0niaYjiVGR9IBG8.jpg"
+    },
+    {
+      "character": "Frances",
+      "id": 1312688,
+      "name": "Aud Mason-Hyde",
+      "profilePath": null
+    },
+    {
+      "character": "Jimpa",
+      "id": 12074,
+      "name": "John Lithgow",
+      "profilePath": "/ajfuBSm1HuVqFJlbTmAlza62Xxr.jpg"
+    },
+    {
+      "character": "Harry",
+      "id": 213202,
+      "name": "Daniel Henshall",
+      "profilePath": "/spfdesJvIoPTmZWMe5ncyMbnOV5.jpg"
+    },
+    {
+      "character": "Emily",
+      "id": 1331024,
+      "name": "Kate Box",
+      "profilePath": "/zv4NckgNBn6Tc2xhCdNFFx9o9EZ.jpg"
+    },
+    {
+      "character": "Richard",
+      "id": 110425,
+      "name": "Eamon Farren",
+      "profilePath": "/f4EX93f9MRCfjJc4kKAKqVqRsUW.jpg"
+    },
+    {
+      "character": "Isa",
+      "id": 2205098,
+      "name": "Zoë Love Smith",
+      "profilePath": "/meNLNZ90oantjuZzMpHziEc1Arx.jpg"
+    },
+    {
+      "character": "Uri",
+      "id": 78803,
+      "name": "Hans Kesting",
+      "profilePath": "/u9EB0MIx1FLIbePNWYvWzpt0HMt.jpg"
+    },
+    {
+      "character": "Dede",
+      "id": 4699094,
+      "name": "Frank Sanders",
+      "profilePath": null
+    },
+    {
+      "character": "Mark",
+      "id": 5050057,
+      "name": "Erle de Lanooi",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 7584,
+      "logoPath": "/eGkfvvyf4fJTvBUR1xt1669IPA3.png",
+      "name": "Screen Australia"
+    },
+    {
+      "id": 48685,
+      "logoPath": "/k9PjFljaVnF7j5RpxWjdohWW8uH.png",
+      "name": "Closer Productions"
+    },
+    {
+      "id": 227655,
+      "logoPath": null,
+      "name": "Mad Ones Films"
+    },
+    {
+      "id": 44438,
+      "logoPath": "/mnoDqJffaYKJmOQ6plRZYksZPXF.png",
+      "name": "Viking Film"
+    },
+    {
+      "id": 144803,
+      "logoPath": "/yXwiJ1poBK106mUDBLNfIWcaeQg.png",
+      "name": "Align"
+    },
+    {
+      "id": 238048,
+      "logoPath": null,
+      "name": "Finnish Impact Film Fund"
+    },
+    {
+      "id": 135903,
+      "logoPath": "/gWqxZsaJ1CGoyLqC670cw3T5KzV.png",
+      "name": "Aurora Studios"
+    },
+    {
+      "id": 19930,
+      "logoPath": "/6fuViPKdQxDuJ6qGwqiniAh1X37.png",
+      "name": "Cinéart"
+    },
+    {
+      "id": 2806,
+      "logoPath": "/vxOhCbpsRBh10m6LZ3HyImTYpPY.png",
+      "name": "South Australian Film Corporation"
+    },
+    {
+      "id": 235723,
+      "logoPath": null,
+      "name": "Mind the Gap Film Finance"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "FI",
+      "name": "Finland"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": "2026-06-04",
+  "externalIds": {
+    "imdbId": "tt23745668",
+    "instagramId": "jimpa_film",
+    "wikidataId": "Q125913481"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 118,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1286491,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Jimpa",
+  "overview": "Hannah and her non-binary teenager Frances visit her gay grandfather Jimpa in Amsterdam. Frances expresses a desire to stay with their grandfather for a year, challenging Hannah's parenting beliefs and forcing her to confront past issues.",
+  "posterPath": "/giSERsYBGUcfj9ctB0h9d5ympo8.jpg",
+  "rating": 6.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-05-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-04",
+      "gapDays": 118,
+      "theatricalDate": "2026-02-06"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-05-11"
+    },
+    "US": {
+      "digital": "2026-06-04",
+      "premiere": "2025-01-23",
+      "theatricalLimited": "2026-02-06"
+    }
+  },
+  "runtime": 113,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Every family finds their own language.",
+  "theatricalDate": "2026-02-06",
+  "title": "Jimpa",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "UVOUZBm5vwg",
+      "name": "UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "xrj5Qj9UL_g",
+      "name": "Official U.S. Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1286491-jimpa/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        },
+        {
+          "id": 224,
+          "logoPath": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+          "name": "BFI Player"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        },
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1286491-jimpa/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

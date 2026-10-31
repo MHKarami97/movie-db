@@ -1,0 +1,208 @@
+{
+  "backdropPath": "/kKoviQTDH6p9a37CfNoKscxMg4Z.jpg",
+  "cast": [
+    {
+      "character": "Jan Borysewicz",
+      "id": 5951694,
+      "name": "Mikołaj Bukrewicz",
+      "profilePath": "/o9mMr3XERX66HJAOL9jnRzGKwXd.jpg"
+    },
+    {
+      "character": "Andrzej Mogielnicki",
+      "id": 2520080,
+      "name": "Patryk Pietrzak",
+      "profilePath": "/nvNRIVzfTyFaVngu3vduDoYCLVx.jpg"
+    },
+    {
+      "character": "Paweł Mścisławski",
+      "id": 2680803,
+      "name": "Hubert Miłkowski",
+      "profilePath": "/ujtCfa8wW9TKcOMVvVbqeaQYNNa.jpg"
+    },
+    {
+      "character": "Edmund Stasiak",
+      "id": 3153978,
+      "name": "Krzysztof Oleksyn",
+      "profilePath": "/oo5zF7UigUiVF3vkBzli1aFwlWD.jpg"
+    },
+    {
+      "character": "Jarosław Szlagowski",
+      "id": 3106936,
+      "name": "Mikołaj Matczak",
+      "profilePath": "/otnAwcgmPbo0SruHHCFDI9uzI3D.jpg"
+    },
+    {
+      "character": "Janusz Panasewicz",
+      "id": 5951696,
+      "name": "Marcel Barra",
+      "profilePath": null
+    },
+    {
+      "character": "Jan's mother",
+      "id": 107517,
+      "name": "Kinga Preis",
+      "profilePath": "/x6iEzBIWIJxSgCVLU6ksZyYP8NF.jpg"
+    },
+    {
+      "character": "Jan's father",
+      "id": 989498,
+      "name": "Ireneusz Czop",
+      "profilePath": "/uY3CFB4TGljADavxeTBVKc0HNb9.jpg"
+    },
+    {
+      "character": "Romuald Lipko",
+      "id": 2025938,
+      "name": "Maciej Musiałowski",
+      "profilePath": "/q6asWQmXyf2V1fUf7L51L26YUEu.jpg"
+    },
+    {
+      "character": "young Jan Borysewicz",
+      "id": 5240289,
+      "name": "Mirosław Tomczuk",
+      "profilePath": "/9LuOMBGDOtl0EXMygz781boIzZL.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 258839,
+      "logoPath": "/zwqvNCOy00N9Gj578MtnyctPEvg.png",
+      "name": "Paprika Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "PL",
+      "name": "Poland"
+    }
+  ],
+  "digitalDate": "2026-10-07",
+  "externalIds": {
+    "imdbId": "tt39384300"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1620080,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pl",
+      "name": "Polish"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Mniej obcy",
+  "overview": "As the leader of Polish rock band Lady Pank, Jan Borysewicz shapes a generation with his music, while a string of family tragedies shapes him.",
+  "posterPath": "/cXCoJk9AzGzfOSNCRDnLhfhyJHD.jpg",
+  "rating": 8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-07",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-07"
+    }
+  },
+  "runtime": 120,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Less of a Stranger",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "jx0RiYbSuuc",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1620080-mniej-obcy/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1620080-mniej-obcy/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1620080-mniej-obcy/watch?locale=US",
+      "rent": []
+    }
+  }
+}

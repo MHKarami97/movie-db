@@ -1,0 +1,283 @@
+{
+  "backdropPath": "/jPHnzX5YzhkxMM46pmUYUrqzzjT.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 3188479,
+      "name": "Anthony Frith",
+      "profilePath": "/9pM1rwpaFuNhrpVcJmB9xj4pIqi.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2234620,
+      "name": "Brendan Petrizzo",
+      "profilePath": "/953AKc2GTxKPvlYqVy0fUqSBbXo.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 30053,
+      "name": "David Michael Latt",
+      "profilePath": "/cBkmGgFkGFFyyE6aWDYovvaHL0g.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 97698,
+      "name": "Michelle Bauer",
+      "profilePath": "/pC5SjThJS6QiMujoQ0CEyQP01y1.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 4479427,
+      "name": "Bix Krieger",
+      "profilePath": "/xrNatpwrSauF3MsmWLviG18rNW0.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 79390,
+      "name": "Paul Bales",
+      "profilePath": "/3Y28BvJ7JwjqEd8Px0mUogDlN2Z.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 236844,
+      "name": "David Rimawi",
+      "profilePath": "/uGrN7upcJHt4qEx6H89qKWS1dmI.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 4300589,
+      "name": "David Margetts",
+      "profilePath": "/uauOF2dA8se54sAIo3fq2HgsxX2.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 5939880,
+      "name": "Sev Philippou",
+      "profilePath": "/8XDtG2lBqJEwJof4EPfGu8ZRFlZ.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1367416,
+      "name": "Aaron Schuppan",
+      "profilePath": "/1GURxP5pbe04gvGNksjoXo87hMm.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1311,
+      "logoPath": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum"
+    },
+    {
+      "id": 157201,
+      "logoPath": null,
+      "name": "Walking Fish Productions"
+    },
+    {
+      "id": 34396,
+      "logoPath": "/k96j6gimBKUKFFp1SGX8VyTk6eZ.png",
+      "name": "Giant Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    }
+  ],
+  "digitalDate": "2026-07-10",
+  "externalIds": {
+    "imdbId": "tt32377397",
+    "wikidataId": "Q136681365"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1497325,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Mockbuster",
+  "overview": "A struggling filmmaker’s opportunity collides with chaos and compromise when Sharknado’s notorious studio, The Asylum, invites him to direct a \"mockbuster.\"",
+  "posterPath": "/inH9HxbtPFZcUYcTI4AkCNOOxpx.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-07-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-10",
+      "gapDays": 0,
+      "theatricalDate": "2026-07-10"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-07-27"
+    },
+    "US": {
+      "digital": "2026-07-10",
+      "premiere": "2026-02-05",
+      "theatricalLimited": "2026-07-10"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "If you can't beat Hollywood... knock it off.",
+  "theatricalDate": "2026-07-10",
+  "title": "Mockbuster",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "UfaKokQbW5A",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "L0aYbpPm3r0",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 613,
+          "logoPath": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png",
+          "name": "Amazon Prime Video Free with Ads"
+        },
+        {
+          "id": 1898,
+          "logoPath": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png",
+          "name": "Amazon MX Player"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1497325-mockbuster/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        },
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1497325-mockbuster/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "backdropPath": "/9LXVLQrTedD5xpaIo4KDlVhEjyz.jpg",
+  "cast": [
+    {
+      "character": "Policia",
+      "id": 548834,
+      "name": "Horacio Camandulle",
+      "profilePath": "/yQTJ0wQp6ICATzHbIDG1PmBtTS7.jpg"
+    },
+    {
+      "character": "Mateo",
+      "id": 587932,
+      "name": "Marc Clotet",
+      "profilePath": "/sbO12BzVBcz6sfyc9eAmT7ZHPgX.jpg"
+    },
+    {
+      "character": "Lara",
+      "id": 5760257,
+      "name": "China Suárez",
+      "profilePath": "/ygB2MjjM1ceGxU1eCh5lwOvX5dH.jpg"
+    },
+    {
+      "character": "Toro",
+      "id": 138757,
+      "name": "Rafael Spregelburd",
+      "profilePath": "/lAFPZatnVqGjB4NRfVFxdk033ZT.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38706617",
+    "wikidataId": "Q136530263"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1565344,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Parking",
+  "overview": "Mateo, a criminal under house arrest, works at a parking garage in downtown Buenos Aires and plans to escape. His routine is disrupted when Lara pays for an overnight stay and minutes later an armed man breaks into the place. Both witness a murder that triggers a deadly chase through ramps and levels of the building, forcing them to fight against time and criminals to escape alive from the labyrinth.",
+  "posterPath": "/oNxANEMPx3sbj6BY9VtZxrXCMDF.jpg",
+  "rating": 4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Parking",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 6,
+  "watchProviders": {}
+}

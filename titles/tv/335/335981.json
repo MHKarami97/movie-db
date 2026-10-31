@@ -1,0 +1,206 @@
+{
+  "backdropPath": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
+  "cast": [
+    {
+      "character": "Philomena Cunk",
+      "id": 1543364,
+      "name": "Diane Morgan",
+      "profilePath": "/46Mdcr9ycOaLCKApoj101Cx1c1S.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 263101,
+      "logoPath": "/zSGJljtySCc6kPkL0MTFDFaOFmt.png",
+      "name": "Pacesetter U.K."
+    },
+    {
+      "id": 3324,
+      "logoPath": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-11-12",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-11-12",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "Philomena Cunk begins her history of cinema, meets the biggest names in Hollywood, and learns the true meaning of The Wizard of Oz.",
+        "stillPath": "/euXEM1hucBygh7X6QOEf1gAPuKS.jpg",
+        "voteAverage": 8.7
+      },
+      {
+        "airDate": "2026-11-19",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "Philomena Cunk uncovers an age of screen icons, from Marilyn Monroe to Wayne John, and incredible movies, from Taxi Driver to Jaws to Citizen Ken.",
+        "stillPath": "/vKjfSCZWV6p3d79d2GqmjHR7Uzg.jpg",
+        "voteAverage": 8.5
+      },
+      {
+        "airDate": "2026-11-26",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "Cunk heads to Los Angeles to investigate modern-day Hollywood and watch some films you've actually heard of. With the rise of AI, she asks: is cinema finished, or just about to be finished?",
+        "stillPath": "/56pvDS9Gy08h6qtcIORt113tvtQ.jpg",
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt47021035",
+    "wikidataId": "Q141499705"
+  },
+  "fetchedAt": 1794895348514,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 335981,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-11-12",
+    "episodeNumber": 1,
+    "id": 7833438,
+    "name": "Episode 1",
+    "overview": "Philomena Cunk begins her history of cinema, meets the biggest names in Hollywood, and learns the true meaning of The Wizard of Oz.",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-19",
+    "episodeNumber": 2,
+    "id": 7833439,
+    "name": "Episode 2",
+    "overview": "Philomena Cunk uncovers an age of screen icons, from Marilyn Monroe to Wayne John, and incredible movies, from Taxi Driver to Jaws to Citizen Ken.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Cunk on Cinema",
+  "overview": "Philomena Cunk asks experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right up to the entrance of CGI and what the future of AI holds. Cunk will attempt to demystify it all while sitting in lumpy seats with stale popcorn, asking herself where did cinema come from? And why? What does it want? And why can't it tell us?",
+  "posterPath": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+  "rating": 7.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-11-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-11-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-11-12"
+    },
+    "CN": {
+      "tv": "2026-11-12"
+    },
+    "GB": {
+      "tv": "2026-11-12"
+    },
+    "US": {
+      "tv": "2026-11-12"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-11-12",
+      "episodeCount": 3,
+      "name": "Miniseries",
+      "overview": "",
+      "posterPath": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Cunk on Cinema",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "_qD_dLCMa3w",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "MAV4nDKZetY",
+      "name": "Official Netflix Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 12,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 38,
+          "logoPath": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
+          "name": "BBC iPlayer"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/335981-cunk-on-cinema/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/335981-cunk-on-cinema/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "backdropPath": "/k8DyY37Sma1jU1kmpUlqHHIrZl6.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 14914,
+      "logoPath": "/1RZBWz53SpHUTLpRcM8BGv2plIP.png",
+      "name": "HBO Documentary Films"
+    },
+    {
+      "id": 72131,
+      "logoPath": "/5TD0EPhPAESDJM5QyQFlPkaVXK7.png",
+      "name": "Trilogy Films"
+    },
+    {
+      "id": 314316,
+      "logoPath": null,
+      "name": "Maceo-Lyn Production"
+    },
+    {
+      "id": 222653,
+      "logoPath": null,
+      "name": "Sony Pictures Television - Nonfiction"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-17",
+  "externalIds": {
+    "imdbId": "tt39163238",
+    "wikidataId": "Q137610457"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 18,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "id": 1596270,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "When a Witness Recants",
+  "overview": "In 1983, author Ta-Nehisi Coates learned that a 14-year-old boy was murdered in his Baltimore middle school. Upon revisiting the case, he uncovers the truth: Three innocent teenagers were wrongfully convicted and spent 36 years in prison — creating a lasting impact on the accused, the witnesses, and their community.",
+  "posterPath": "/jWHwiwbLAjLCg9WZlE1eMKvV5Nr.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-17",
+      "gapDays": 18,
+      "theatricalDate": "2026-10-30"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-17",
+      "premiere": "2026-01-27",
+      "theatricalLimited": "2026-10-30",
+      "tv": "2026-11-17"
+    }
+  },
+  "runtime": 112,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A reckoning 36 years in the making",
+  "theatricalDate": "2026-10-30",
+  "title": "When a Witness Recants",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "HBv_CTe7m6Y",
+      "name": "Meet the Artist 2026: Dawn Porter on “When A Witness Recants”",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

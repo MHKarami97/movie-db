@@ -1,0 +1,157 @@
+{
+  "backdropPath": "/vSTlbow1yx2L85EEUhFiJOMo4LY.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 131133,
+      "name": "Trevor Noah",
+      "profilePath": "/aieKi9QnuEjBV2j46UR4NIIqa0K.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 132703,
+      "logoPath": "/cpPxpyCQCwGEpyvnPa7aQtlGjMV.png",
+      "name": "Day Zero Productions"
+    },
+    {
+      "id": 186858,
+      "logoPath": null,
+      "name": "Bob Bain Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-04-14",
+  "externalIds": {
+    "imdbId": "tt41592024"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1666433,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Trevor Noah: Joy in the Trenches",
+  "overview": "From unexpected social media beef to a therapist's truth bomb, Trevor Noah turns chaos into comedy in this hilariously sharp, playful stand-up set.",
+  "posterPath": "/nGbo6kZLHwcyBJOgr5b36OvBPPe.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-04-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-04-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-14",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-04-14"
+    },
+    "GB": {
+      "digital": "2026-04-14"
+    },
+    "US": {
+      "digital": "2026-04-14"
+    }
+  },
+  "runtime": 68,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Find the funny in the fallout.",
+  "theatricalDate": null,
+  "title": "Trevor Noah: Joy in the Trenches",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "xSnV_igzU4c",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 24,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1666433-trevor-noah-joy-in-the-trenches/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1666433-trevor-noah-joy-in-the-trenches/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1666433-trevor-noah-joy-in-the-trenches/watch?locale=US",
+      "rent": []
+    }
+  }
+}

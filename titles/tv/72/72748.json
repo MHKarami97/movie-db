@@ -1,0 +1,352 @@
+{
+  "backdropPath": "/x9yqsGeZjqmlCh5qVfhmFPp2kcH.jpg",
+  "cast": [
+    {
+      "character": "Cormoran Strike",
+      "id": 52891,
+      "name": "Tom Burke",
+      "profilePath": "/4IHlAZ9bJ82VAd6HUOWFgo81SDq.jpg"
+    },
+    {
+      "character": "Robin Ellacott",
+      "id": 302165,
+      "name": "Holliday Grainger",
+      "profilePath": "/fHveeGXgEfTZ9slB5OvHDG4LAPw.jpg"
+    },
+    {
+      "character": "Sam Barclay",
+      "id": 1409655,
+      "name": "Jack Greenlees",
+      "profilePath": "/k9loRPv9U9sMuEGKHAF7p4dByxs.jpg"
+    },
+    {
+      "character": "Pat Chauncey",
+      "id": 53367,
+      "name": "Ruth Sheen",
+      "profilePath": "/tchnF80OCEiq3JXpGI4z7eMla8W.jpg"
+    },
+    {
+      "character": "Katya Upcott",
+      "id": 16701,
+      "name": "Emma Fielding",
+      "profilePath": "/6sr2Vcic5FBjO9KgKZQxsXF9U9q.jpg"
+    },
+    {
+      "character": "DCI Richard Murphy",
+      "id": 77823,
+      "name": "Stephen Hagan",
+      "profilePath": "/8TTBYKjvwhesANv6jIejeFVpa83.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 44826,
+      "logoPath": null,
+      "name": "Brontë Film & TV"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2017-08-27",
+  "episodes": {
+    "7": [
+      {
+        "airDate": "2026-12-06",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "A retired civil servant seeks the agency's help in extracting his son from the Universal Humanitarian Church, an alleged cult. Despite a disturbing personal connection, Strike takes the case.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-07",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "Robin goes undercover at the Universal Humanitarian Church's Norfolk HQ. Strike investigates the suspicious death of the daughter of the church's charismatic leader.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt4276618",
+    "wikidataId": "Q28443753"
+  },
+  "fetchedAt": 1795203017842,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 72748,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2024-12-24",
+    "episodeNumber": 4,
+    "id": 5791479,
+    "name": "Episode 4",
+    "overview": "The agency is the target of a devastating attack. Strike figures out who killed Edie, and having secured proof, Robin puts herself in danger in order to save lives.",
+    "seasonNumber": 6
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-12-06",
+    "episodeNumber": 1,
+    "id": 8150473,
+    "name": "Episode 1",
+    "overview": "A retired civil servant seeks the agency's help in extracting his son from the Universal Humanitarian Church, an alleged cult. Despite a disturbing personal connection, Strike takes the case.",
+    "seasonNumber": 7
+  },
+  "originalTitle": "Strike",
+  "overview": "A war veteran turned private detective operates out of a tiny office in London’s Denmark Street. Although wounded both physically and psychologically, his unique insight and background as a military police investigator prove crucial in solving complex crimes that have baffled the police. Based on the bestselling novels written by J.K. Rowling under the pseudonym Robert Galbraith.",
+  "posterPath": "/9IF5DMeUcEaPXclFAfyMGP8CRg5.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2017-08-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2017-08-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2017-08-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2017-08-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2017-08-27"
+    },
+    "CN": {
+      "tv": "2017-08-27"
+    },
+    "GB": {
+      "tv": "2017-08-27"
+    },
+    "US": {
+      "tv": "2017-08-27"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2017-08-27",
+      "episodeCount": 3,
+      "name": "The Cuckoo's Calling",
+      "overview": "Cormoran Strike, an injured war veteran turned PI, seeks the truth surrounding the mysterious death of supermodel Lula Landry alongside temp secretary, Robin Ellacott.",
+      "posterPath": "/6Gd968b5HXi4jAERCmsQZFnPC75.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2017-09-10",
+      "episodeCount": 2,
+      "name": "The Silkworm",
+      "overview": "When novelist Owen Quine goes missing, his wife calls in private detective Cormoran Strike thinking her husband has gone off by himself for a few days—as he has done before. But as Strike investigates, it becomes clear that there is more to Quine's disappearance than his wife realizes.",
+      "posterPath": "/9k8L7ZQifDte9m4gfzG5P2x1RjD.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2018-02-25",
+      "episodeCount": 2,
+      "name": "Career of Evil",
+      "overview": "When a mysterious package is delivered to Robin Ellacott, she is horrified to discover that it contains a woman's severed leg. Her boss, private detective Cormoran Strike, is less surprised but no less alarmed. With the police focusing on the one suspect Strike is increasingly sure is not the perpetrator, he and Robin take matters into their own hands, and delve into the dark and twisted worlds of the other three men. But as more horrendous acts occur, time is running out for the two of them...",
+      "posterPath": "/79xVensFDRG2uiZQgaik8fbrlLo.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2020-08-30",
+      "episodeCount": 4,
+      "name": "Lethal White",
+      "overview": "A troubled young man named Billy comes to private eye Cormoran Strike’s office to ask for his help investigating a crime he thinks he witnessed as a child. Strike and Robin set off on a twisting trail that leads them through the backstreets of London, into a secretive inner sanctum within Parliament and to a beautiful but sinister manor house deep in the countryside.",
+      "posterPath": "/9TCDGA7ZpzB7vmItH2st20kfWR.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2022-12-11",
+      "episodeCount": 4,
+      "name": "Troubled Blood",
+      "overview": "Private detective Cormoran Strike is visiting his family in Cornwall when he’s approached by a woman, Anna Phipps asking for help finding her mother, Margot Bamborough, who went missing under mysterious circumstances in 1974. Never tackling a cold case before, he’s intrigued and takes it on, adding to the long list of cases that he and his partner are currently working on. As Strike and Robin investigate Margot’s disappearance, they come up against a fiendishly complex case with a psychopathic serial killer and witnesses who cannot all be trusted.",
+      "posterPath": "/tCQ82khGnWEpWbsc46IhuRS9cmz.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2024-12-16",
+      "episodeCount": 4,
+      "name": "The Ink Black Heart",
+      "overview": "When frantic, desperate Edie Ledwell appears in the office begging to speak to her, private detective Robin Ellacott doesn't know quite what to make of the situation. The co-creator of a popular cartoon, The Ink Black Heart, Edie is being persecuted by a mysterious online figure who goes by the pseudonym of Anomie. Edie is desperate to uncover Anomie's true identity.",
+      "posterPath": "/f7ZQH573uPtGPgfVxXZZRWn10lv.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2026-12-06",
+      "episodeCount": 2,
+      "name": "The Running Grave",
+      "overview": "When Robin goes undercover in a religious cult to rescue a young man, she and Strike uncover a decades-old death and a criminal enterprise hidden behind its humanitarian facade.",
+      "posterPath": null,
+      "seasonNumber": 7
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Strike",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "tM8TECB9GAk",
+      "name": "Official US Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "IVrOvY-APH8",
+      "name": "Strike - The Cuckoo's Calling: Trailer - BBC One",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 284,
+  "watchProviders": {
+    "AE": {
+      "ads": [
+        {
+          "id": 1715,
+          "logoPath": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+          "name": "Shahid VIP"
+        }
+      ],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 629,
+          "logoPath": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+          "name": "OSN+"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/72748-strike/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        },
+        {
+          "id": 38,
+          "logoPath": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
+          "name": "BBC iPlayer"
+        },
+        {
+          "id": 1715,
+          "logoPath": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+          "name": "Shahid VIP"
+        }
+      ],
+      "free": [
+        {
+          "id": 38,
+          "logoPath": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
+          "name": "BBC iPlayer"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/72748-strike/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        },
+        {
+          "id": 1715,
+          "logoPath": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+          "name": "Shahid VIP"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/72748-strike/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt50141720"
+  },
+  "fetchedAt": 1794677631424,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1820305,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "The Mad Pooper",
+  "overview": "Follows the investigation of the mysterious \"Mad Pooper\" case, in which a female jogger repeatedly defecated on lawns in Colorado Springs, exploring archival coverage, resident accounts and law enforcement interviews to uncover the truth.",
+  "posterPath": "/ukYe0XV6wqj4du7la1WEP2aO6Vj.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2026-11-19"
+    }
+  },
+  "runtime": 120,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Mad Pooper",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "1rQoZrIUGAo",
+      "name": "The Mad Pooper Trailer | A TLC Documentary Event",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

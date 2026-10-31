@@ -1,0 +1,237 @@
+{
+  "backdropPath": "/wtzSwtnQ4RsRbV5cc114Nb1q3b0.jpg",
+  "cast": [
+    {
+      "character": "Self - Extreme Mountaineer",
+      "id": 5989204,
+      "name": "John Snorri Sigurjónsson",
+      "profilePath": "/bk886aadBLIZgstlmRRUGFXjM39.jpg"
+    },
+    {
+      "character": "Self - Mountain Guide",
+      "id": 3872342,
+      "name": "Muhammad Ali Sadpara",
+      "profilePath": "/fZmAgFQ6dIXlA82UdRdKqm3p0HO.jpg"
+    },
+    {
+      "character": "Self - Mountain Guide",
+      "id": 5989207,
+      "name": "Sajid Sadpara",
+      "profilePath": "/vzOqadjaTliYwQCkCYCc2eEuwve.jpg"
+    },
+    {
+      "character": "Self - John's Wife",
+      "id": 6520393,
+      "name": "Lina Moey",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Sports Writer, Explorersweb",
+      "id": 6520395,
+      "name": "Angela Benavides",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Filmmaker / Influencer",
+      "id": 5894001,
+      "name": "Elia Saikaly",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Nims' Cameraman",
+      "id": 6205437,
+      "name": "Sandro Gromen Hayes",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Team Leader",
+      "id": 3324540,
+      "name": "Nirmal Purja",
+      "profilePath": "/mERkWAKBp2Mk26oMJF1TKWTHlps.jpg"
+    },
+    {
+      "character": "Self - Extreme Athlete / Motivational Speaker",
+      "id": 2924448,
+      "name": "Colin O'Brady",
+      "profilePath": "/efF7XNWm84oG62s2k4eOl6Q7m9H.jpg"
+    },
+    {
+      "character": "Self - Extreme Mountaineer",
+      "id": 6044848,
+      "name": "Tamara Lunger",
+      "profilePath": "/ahWlT9STrh4e1ilF8RF1SZStBKI.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 138301,
+      "logoPath": "/kjYLNBezs8z364sgZDi2qHDEMb3.png",
+      "name": "Ventureland"
+    },
+    {
+      "id": 87045,
+      "logoPath": "/6WLvW3VlxfXOPukpeEPYnjdFtwH.png",
+      "name": "Propagate Content"
+    },
+    {
+      "id": 281028,
+      "logoPath": null,
+      "name": "West Buttermilk"
+    },
+    {
+      "id": 288412,
+      "logoPath": "/A4uRbJuWLBnTRuzuomYdYkuXS7c.png",
+      "name": "Object Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-10-01",
+  "externalIds": {
+    "imdbId": "tt39150288",
+    "wikidataId": "Q137556371"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": -1,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1596303,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "is",
+      "name": "Icelandic"
+    },
+    {
+      "code": "ur",
+      "name": "Urdu"
+    }
+  ],
+  "originalTitle": "The Last First: Winter K2",
+  "overview": "A historic race to become the first to summit K2 in winter unravels into tragedy, exposing how ambition, ego, and the pursuit of glory can be as dangerous as the mountain itself.",
+  "posterPath": "/97QpXbNNXj2eQ1MdmhFdGlU0jnW.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-10-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-10-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-01",
+      "gapDays": -1,
+      "theatricalDate": "2026-10-02"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-10-02"
+    },
+    "GB": {
+      "digital": "2026-10-02",
+      "premiere": "2026-06-11"
+    },
+    "US": {
+      "digital": "2026-10-01",
+      "premiere": "2026-01-22",
+      "theatricalLimited": "2026-10-02"
+    }
+  },
+  "runtime": 98,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Reach the summit or lose everything.",
+  "theatricalDate": "2026-10-02",
+  "title": "The Last First: Winter K2",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "zgGpyr5MFK8",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 22,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 350,
+          "logoPath": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1596303-the-last-first-winter-k2/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 350,
+          "logoPath": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        },
+        {
+          "id": 2243,
+          "logoPath": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "name": "Apple TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1596303-the-last-first-winter-k2/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 350,
+          "logoPath": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        },
+        {
+          "id": 2243,
+          "logoPath": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "name": "Apple TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1596303-the-last-first-winter-k2/watch?locale=US",
+      "rent": []
+    }
+  }
+}

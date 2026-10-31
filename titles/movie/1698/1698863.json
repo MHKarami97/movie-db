@@ -1,0 +1,192 @@
+{
+  "backdropPath": "/mPy1xSASQ9NYWJdAGx2C2sOsnNw.jpg",
+  "cast": [
+    {
+      "character": "Odysseus",
+      "id": 1718171,
+      "name": "Myrom Kingery",
+      "profilePath": "/85JIqcKjp0w36moa9kSdWo1OgnF.jpg"
+    },
+    {
+      "character": "Penelope",
+      "id": 4499806,
+      "name": "Morgan Flanagan",
+      "profilePath": "/5Qb68qsULMlUz83At9cHixtLkDN.jpg"
+    },
+    {
+      "character": "Telemachus",
+      "id": 3068552,
+      "name": "Patrick Byrnes",
+      "profilePath": "/l1JyqkyHC9Y1oXeK5JTF6p37DNc.jpg"
+    },
+    {
+      "character": "Antinous",
+      "id": 23790,
+      "name": "Dominic Keating",
+      "profilePath": "/eRe4BJz9fTztlRKikDRHhmss6ee.jpg"
+    },
+    {
+      "character": "Athena",
+      "id": 2722294,
+      "name": "Llana Barron",
+      "profilePath": "/tXIYv38X8AZ6YP29yHHekcXckIU.jpg"
+    },
+    {
+      "character": "Polites",
+      "id": 5056548,
+      "name": "Jordan Iverach",
+      "profilePath": "/A9zFtB9YmU4izbD7eNtEqYfbhKZ.jpg"
+    },
+    {
+      "character": "Alkimos",
+      "id": 4318191,
+      "name": "Tony Wood",
+      "profilePath": "/4ySu5sdx5N89PklRG8aXtKssQUj.jpg"
+    },
+    {
+      "character": "Eurylochus",
+      "id": 3135567,
+      "name": "Ashton Rogers",
+      "profilePath": "/nwTE08tCgwxChDRjexUzGFchkg7.jpg"
+    },
+    {
+      "character": "Lycaon",
+      "id": 2953599,
+      "name": "Angelo Kern",
+      "profilePath": "/iaRjTXbY6fkFy3LicjQIvMjMIVH.jpg"
+    },
+    {
+      "character": "Narrator",
+      "id": 2831424,
+      "name": "Martin Richard Chappell",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 1311,
+      "logoPath": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-07-03",
+  "externalIds": {
+    "imdbId": "tt41605854"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 1698863,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Odyssey",
+  "overview": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
+  "posterPath": "/b0z3ViIC5AkbJoqxmTpqyjgmoJs.jpg",
+  "rating": 3.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-07-03"
+    }
+  },
+  "runtime": 86,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The most epic voyage of all time!",
+  "theatricalDate": null,
+  "title": "The Odyssey",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "wD5w48WT3uo",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 753,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1698863-the-odyssey/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ]
+    }
+  }
+}

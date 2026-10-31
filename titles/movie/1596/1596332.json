@@ -1,0 +1,151 @@
+{
+  "backdropPath": "/yzNoanH2Jfn5bj7d6reKeaAbd4S.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 6363090,
+      "name": "Thaer Ahmad",
+      "profilePath": "/h88ia3h09FWrLLozo5DFB629jLM.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6363091,
+      "name": "Mark Perlmutter",
+      "profilePath": "/7WJl7o3x1tV7rWcmG7aKG8QsSln.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6363092,
+      "name": "Feroze Sidhwa",
+      "profilePath": null
+    },
+    {
+      "character": "Self - CNN Anchor (archive footage)",
+      "id": 1596937,
+      "name": "Dana Bash",
+      "profilePath": "/vGCWaLWeKvwv14G9UUd1w7VrvDo.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1778240,
+      "name": "Hasan Piker",
+      "profilePath": "/ywdmBRvzVd3eMhGD8BcKw68SYhE.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 159070,
+      "logoPath": "/8KUfGxrz3YDwqV40slpcx2TYIFb.png",
+      "name": "Elk Film"
+    },
+    {
+      "id": 283155,
+      "logoPath": null,
+      "name": "Tiny Boxer Films"
+    },
+    {
+      "id": 240936,
+      "logoPath": "/wN70OtZbXDumEr7hdU2A11s5AJL.png",
+      "name": "Watermelon Pictures"
+    },
+    {
+      "id": 278160,
+      "logoPath": "/fRfvSeTy9f2EqGX0SNHlWXHbr4Y.png",
+      "name": "ALEF Multimedia"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "PS",
+      "name": "Palestinian Territory"
+    },
+    {
+      "code": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39149951",
+    "instagramId": "americandoctorfilm",
+    "wikidataId": "Q137384589"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1596332,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ar",
+      "name": "Arabic"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "American Doctor",
+  "overview": "United by a shared oath to save lives, three American doctors—Palestinian, Jewish, and Zoroastrian—work in a besieged hospital in Gaza in the middle of a genocide comitted by Israel, and return to the United States to fight for the patients and colleagues they left behind.",
+  "posterPath": "/sOSrlaXvItVdwU1P5Qpttcl12sd.jpg",
+  "rating": 9.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-20"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-14"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-06-11",
+      "theatricalLimited": "2026-11-20"
+    },
+    "US": {
+      "premiere": "2026-01-23",
+      "theatricalLimited": "2026-08-14"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Do no harm.",
+  "theatricalDate": "2026-08-14",
+  "title": "American Doctor",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Be7_u8jzHzU",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {}
+}

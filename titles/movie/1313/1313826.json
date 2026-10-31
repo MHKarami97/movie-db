@@ -1,0 +1,213 @@
+{
+  "backdropPath": "/p5Xy2kaWnSl969JJTdvrm7pNgy.jpg",
+  "cast": [
+    {
+      "character": "Tom Monroe",
+      "id": 71403,
+      "name": "Rob Riggle",
+      "profilePath": "/hQgOp8vWxl6KPZbqzKSSL4k6G1j.jpg"
+    },
+    {
+      "character": "Mitch Diller",
+      "id": 3057748,
+      "name": "Aaron Holliday",
+      "profilePath": "/rKpeVhpm8RDcdD0wnYtN7XHB7lB.jpg"
+    },
+    {
+      "character": "Liz Monroe",
+      "id": 74577,
+      "name": "Elizabeth Tulloch",
+      "profilePath": "/trC9dIUvgXyG2dDbofG75g4aMkK.jpg"
+    },
+    {
+      "character": "Deborah Monroe",
+      "id": 59967,
+      "name": "Rebecca Gayheart",
+      "profilePath": "/w1KWGJ2JYGVbPGjZWcx2a3sFGMT.jpg"
+    },
+    {
+      "character": "Lorraine Diller",
+      "id": 5025,
+      "name": "Vinessa Shaw",
+      "profilePath": "/qqSpAMH1lYMNxnHkDHB1JpNa086.jpg"
+    },
+    {
+      "character": "Harper Monroe",
+      "id": 1972166,
+      "name": "Odessa A'zion",
+      "profilePath": "/5Q0Z5O3nkZH5JvueTyc2q0anw2B.jpg"
+    },
+    {
+      "character": "Bill Diller",
+      "id": 74036,
+      "name": "Tom Arnold",
+      "profilePath": "/z2ajL1ozVCS4Ug04zOGCNH06OPP.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 180604,
+      "logoPath": null,
+      "name": "19th Hole Productions"
+    },
+    {
+      "id": 106786,
+      "logoPath": "/w1frKfyOXbGcK6kKtRnTNJfmtBv.png",
+      "name": "RainMaker Films"
+    },
+    {
+      "id": 305950,
+      "logoPath": null,
+      "name": "Briarcliff Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-02",
+  "externalIds": {
+    "imdbId": "tt32507786"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1313826,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Nickels",
+  "overview": "A successful entrepreneur and family man is involved in a bike accident involving his neighbor's son, triggering memories of his older brother's tragic death 30 years earlier.",
+  "posterPath": "/5Z2e8UCzVVsHjuqDIZvOdQhySht.jpg",
+  "rating": 4.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-02",
+      "gapDays": 0,
+      "theatricalDate": "2026-10-02"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-02",
+      "theatricalLimited": "2026-10-02"
+    }
+  },
+  "runtime": 102,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-02",
+  "title": "Nickels",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "WOK5Gcfh6mw",
+      "name": "Watch At Home Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "kwMScf02iP0",
+      "name": "You Can't Replace Your Dead Brother - Extended Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "HtGkvXA-qPc",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 3,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1313826-nickels/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

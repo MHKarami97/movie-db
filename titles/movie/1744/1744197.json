@@ -1,0 +1,179 @@
+{
+  "backdropPath": "/1U8bm8w1pMlDxvgWvC1Ng2FX9sI.jpg",
+  "cast": [
+    {
+      "character": "Everly Stone",
+      "id": 43928,
+      "name": "Meghan Ory",
+      "profilePath": "/tO94Q2cAwcNCKhV7POeR0nqtE4r.jpg"
+    },
+    {
+      "character": "Beau Madison",
+      "id": 1515481,
+      "name": "Kevin McGarry",
+      "profilePath": "/JDXtYzUBK17wkQOodRf6SuFDiY.jpg"
+    },
+    {
+      "character": "Future Ghost",
+      "id": 3309871,
+      "name": "Lachlan Quarmby",
+      "profilePath": "/xF6LuVo77wPXg4wdTVTawsctw0l.jpg"
+    },
+    {
+      "character": "Tracy",
+      "id": 5137706,
+      "name": "Juliette Schroeder",
+      "profilePath": null
+    },
+    {
+      "character": "Skateboarding Ghost",
+      "id": 2707692,
+      "name": "Christine L. Nguyen",
+      "profilePath": "/lDnVoI41nyieyTSnUCaaSzHcizH.jpg"
+    },
+    {
+      "character": "Past Ghost",
+      "id": 1212317,
+      "name": "Derek McGrath",
+      "profilePath": "/cDHadLegdrktAiwiOPps6VdUQIW.jpg"
+    },
+    {
+      "character": "Ghost Anna",
+      "id": 29384,
+      "name": "Sheila McCarthy",
+      "profilePath": "/wIe1srcx1lllkE66Jx5j9mV2BEc.jpg"
+    },
+    {
+      "character": "Neighbor",
+      "id": 2989739,
+      "name": "Matthew Gorman",
+      "profilePath": "/5HUolu3xcujSeoycqpjbDTkC3sL.jpg"
+    },
+    {
+      "character": "Alex",
+      "id": 5922,
+      "name": "David Huband",
+      "profilePath": "/ArFPUIHyPibOCBjqZXMZvrEX6ZF.jpg"
+    },
+    {
+      "character": "Rex",
+      "id": 6544973,
+      "name": "Adam Kunder",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 53015,
+      "logoPath": "/tWxubAjwO1QtLLWdnUR1bjS1vvf.png",
+      "name": "Hallmark Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt44536662"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1744197,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Spirit of Halloween",
+  "overview": "Brilliant bridal designer Everly Stone has no patience for Halloween, especially the beloved fire-station bash that once left her heartbroken in front of everyone she knew, but when her late mentor appears with a glamorous warning, Everly Stone is swept through one unforgettable night by three mischievous spirits who reveal the joy she lost, the people she’s pushing away, and the future she might miss if she keeps hiding behind work and fear. With a loyal assistant ready for more, a town waiting to welcome her back, and longtime friend Beau Madison still carrying a spark from their past, Everly Stone must decide whether Halloween is the night that broke her heart or the one that can finally help it heal.",
+  "posterPath": "/l2ZtiBj1gzsD0vlnOFcMzKW3Rl2.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2026-10-10"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Spirit of Halloween",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 2,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 290,
+          "logoPath": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "id": 2058,
+          "logoPath": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "id": 1746,
+          "logoPath": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1744197-the-spirit-of-halloween/watch?locale=US",
+      "rent": []
+    }
+  }
+}

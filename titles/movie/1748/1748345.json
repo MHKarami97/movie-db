@@ -1,0 +1,167 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Dani Monroe",
+      "id": 2156419,
+      "name": "Emily Sweet",
+      "profilePath": "/zCddPTClfPaVQBA9IIq85c1RreK.jpg"
+    },
+    {
+      "character": "Officer Daniels",
+      "id": 4761837,
+      "name": "Dante Ayala",
+      "profilePath": "/4fWbLemsK4cLLG3RYkmc84IwoDc.jpg"
+    },
+    {
+      "character": "Jenni",
+      "id": 3642544,
+      "name": "Charlotte Hemmings",
+      "profilePath": "/8GXEF1IWXamTAkbItKmnYAeUtMM.jpg"
+    },
+    {
+      "character": "Jeannene (Agent)",
+      "id": 1092540,
+      "name": "Liz Fenning",
+      "profilePath": "/nEF8RCz5Zt3qEMzIQIV1eQzVKfv.jpg"
+    },
+    {
+      "character": "Photographer",
+      "id": 130801,
+      "name": "K. Danor Gerald",
+      "profilePath": "/unRUiHQjLBqad2T27zszKysTCz7.jpg"
+    },
+    {
+      "character": "Desmond",
+      "id": 1743134,
+      "name": "Chris Reid",
+      "profilePath": "/yvo81AU4zUKbcNtWEQjaSTvLTPS.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 307377,
+      "logoPath": null,
+      "name": "Dynamite Filmz"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-08-15",
+  "externalIds": {
+    "imdbId": "tt36020653"
+  },
+  "fetchedAt": 1794071861044,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1748345,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Adored",
+  "overview": "After a devastating personal tragedy, an A-list actress retreats to a secluded island villa. But she's not alone....",
+  "posterPath": "/ycWlX8TDKm31owAeClxyOoP55uX.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-08-15",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-08-15"
+    }
+  },
+  "runtime": 92,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "STALKED",
+  "theatricalDate": null,
+  "title": "Adored",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 4,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1748345-adored/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

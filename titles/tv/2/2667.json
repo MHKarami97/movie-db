@@ -1,0 +1,777 @@
+{
+  "backdropPath": "/bcOQi7jYd4XZpQ1JMbZ24p5iI6W.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1232267,
+      "name": "Stuart Novins",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 115768,
+      "name": "Howard K. Smith",
+      "profilePath": "/fdC1LvCH2P4yVKbR0bLb7YuIM6Z.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1230775,
+      "name": "George Herman",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 1232269,
+      "name": "Martin Agronsky",
+      "profilePath": "/2LQtH4lY2xz9s2085Iw77Y2MRv4.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1230060,
+      "name": "Bob Schieffer",
+      "profilePath": "/5yqGk2QDaYENVgEqujYLlTlvtno.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 197819,
+      "name": "Lesley Stahl",
+      "profilePath": "/m0vTn5aGk0bw3BNm29wpJHvPpAA.jpg"
+    },
+    {
+      "character": "Self - Host",
+      "id": 3435046,
+      "name": "Margaret Brennan",
+      "profilePath": "/l50qsBCZS2AdXaT7cIcz8lYHStq.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 55052,
+      "logoPath": null,
+      "name": "CBS News Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "1954-11-07",
+  "episodes": {
+    "73": [
+      {
+        "airDate": "2026-01-04",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-01-11",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ],
+    "2027": [
+      {
+        "airDate": "2027-01-03",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "FaceTheNation",
+    "imdbId": "tt0361178",
+    "wikidataId": "Q1655894"
+  },
+  "fetchedAt": 1794677631424,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 2667,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-01-11",
+    "episodeNumber": 2,
+    "id": 7672910,
+    "name": "Episode 2",
+    "overview": "",
+    "seasonNumber": 73
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-03",
+    "episodeNumber": 1,
+    "id": 8127857,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 2027
+  },
+  "originalTitle": "Face the Nation",
+  "overview": "Face The Nation with Margaret Brennan is an American Sunday morning political interview show, which premiered on the CBS television network. It is one of the longest-running news programs in television history, having debuted in 1954.",
+  "posterPath": "/qRvJdXA4VhoI0kGYYomurDlCuRX.jpg",
+  "rating": 8.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1954-11-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1954-11-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1954-11-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1954-11-07",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1954-11-07"
+    },
+    "CN": {
+      "tv": "1954-11-07"
+    },
+    "GB": {
+      "tv": "1954-11-07"
+    },
+    "US": {
+      "tv": "1954-11-07"
+    }
+  },
+  "runtime": 24,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "1954-11-07",
+      "episodeCount": 43,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/mhjbdZ3ZfyvFVcnWUGkcCnZwnvv.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1955-01-02",
+      "episodeCount": 52,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/gC3D0S7dR6BOhkM401BZJBrklQp.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1956-01-01",
+      "episodeCount": 52,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/gC3D0S7dR6BOhkM401BZJBrklQp.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1957-01-06",
+      "episodeCount": 1,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/gC3D0S7dR6BOhkM401BZJBrklQp.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2005-01-02",
+      "episodeCount": 51,
+      "name": "Season 52",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 52
+    },
+    {
+      "airDate": "2006-01-01",
+      "episodeCount": 52,
+      "name": "Season 53",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 53
+    },
+    {
+      "airDate": "2007-01-07",
+      "episodeCount": 14,
+      "name": "Season 54",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 54
+    },
+    {
+      "airDate": "2008-01-06",
+      "episodeCount": 1,
+      "name": "Season 55",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 55
+    },
+    {
+      "airDate": "2009-01-04",
+      "episodeCount": 39,
+      "name": "Season 56",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 56
+    },
+    {
+      "airDate": "2010-01-03",
+      "episodeCount": 1,
+      "name": "Season 57",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 57
+    },
+    {
+      "airDate": "2011-01-02",
+      "episodeCount": 18,
+      "name": "Season 58",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 58
+    },
+    {
+      "airDate": "2012-01-01",
+      "episodeCount": 9,
+      "name": "Season 59",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 59
+    },
+    {
+      "airDate": "2013-01-06",
+      "episodeCount": 21,
+      "name": "Season 60",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 60
+    },
+    {
+      "airDate": "2014-01-05",
+      "episodeCount": 51,
+      "name": "Season 61",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 61
+    },
+    {
+      "airDate": "2015-01-04",
+      "episodeCount": 32,
+      "name": "Season 62",
+      "overview": "",
+      "posterPath": "/e7wbPwT88fy26H0f1Au8f5Ge6Ol.jpg",
+      "seasonNumber": 62
+    },
+    {
+      "airDate": "2016-01-03",
+      "episodeCount": 51,
+      "name": "Season 63",
+      "overview": "",
+      "posterPath": "/e7wbPwT88fy26H0f1Au8f5Ge6Ol.jpg",
+      "seasonNumber": 63
+    },
+    {
+      "airDate": "2017-01-01",
+      "episodeCount": 53,
+      "name": "Season 64",
+      "overview": "",
+      "posterPath": "/e7wbPwT88fy26H0f1Au8f5Ge6Ol.jpg",
+      "seasonNumber": 64
+    },
+    {
+      "airDate": "2018-01-07",
+      "episodeCount": 51,
+      "name": "Season 65",
+      "overview": "",
+      "posterPath": "/e9AOPO3MinOB1okEK4sdpJ4dqM.jpg",
+      "seasonNumber": 65
+    },
+    {
+      "airDate": "2019-01-06",
+      "episodeCount": 51,
+      "name": "Season 66",
+      "overview": "",
+      "posterPath": "/se0jePF1o3XWlrTrKbInNA0xp28.jpg",
+      "seasonNumber": 66
+    },
+    {
+      "airDate": "2020-01-05",
+      "episodeCount": 51,
+      "name": "Season 67",
+      "overview": "",
+      "posterPath": "/sbGu9f468VfXpYDGaUAEtqTFXzL.jpg",
+      "seasonNumber": 67
+    },
+    {
+      "airDate": "2021-01-03",
+      "episodeCount": 51,
+      "name": "Season 68",
+      "overview": "",
+      "posterPath": "/2wbG8myb7l67RTAkdECdnTPkGxd.jpg",
+      "seasonNumber": 68
+    },
+    {
+      "airDate": "2022-01-02",
+      "episodeCount": 52,
+      "name": "Season 69",
+      "overview": "",
+      "posterPath": "/2wbG8myb7l67RTAkdECdnTPkGxd.jpg",
+      "seasonNumber": 69
+    },
+    {
+      "airDate": "2023-01-01",
+      "episodeCount": 52,
+      "name": "Season 70",
+      "overview": "",
+      "posterPath": "/A8dgaBaW5RytLcfFUFV9ZNwkzCd.jpg",
+      "seasonNumber": 70
+    },
+    {
+      "airDate": "2024-01-07",
+      "episodeCount": 52,
+      "name": "Season 71",
+      "overview": "",
+      "posterPath": "/kdNrmRGU5xiPI8LUnnHgZspTGQq.jpg",
+      "seasonNumber": 71
+    },
+    {
+      "airDate": "2025-01-05",
+      "episodeCount": 52,
+      "name": "Season 72",
+      "overview": "",
+      "posterPath": "/kdNrmRGU5xiPI8LUnnHgZspTGQq.jpg",
+      "seasonNumber": 72
+    },
+    {
+      "airDate": "2026-01-04",
+      "episodeCount": 2,
+      "name": "Season 73",
+      "overview": "",
+      "posterPath": "/kdNrmRGU5xiPI8LUnnHgZspTGQq.jpg",
+      "seasonNumber": 73
+    },
+    {
+      "airDate": "1958-01-05",
+      "episodeCount": 1,
+      "name": "Season 1958",
+      "overview": "",
+      "posterPath": "/gC3D0S7dR6BOhkM401BZJBrklQp.jpg",
+      "seasonNumber": 1958
+    },
+    {
+      "airDate": "1959-01-04",
+      "episodeCount": 1,
+      "name": "Season 1959",
+      "overview": "",
+      "posterPath": "/gC3D0S7dR6BOhkM401BZJBrklQp.jpg",
+      "seasonNumber": 1959
+    },
+    {
+      "airDate": "1960-01-03",
+      "episodeCount": 1,
+      "name": "Season 1960",
+      "overview": "",
+      "posterPath": "/830CQkHKEVSIjkvYGQw7rhxVHEq.jpg",
+      "seasonNumber": 1960
+    },
+    {
+      "airDate": "1961-01-01",
+      "episodeCount": 1,
+      "name": "Season 1961",
+      "overview": "",
+      "posterPath": "/uBXVbHF9D8usIx0pTOgc50KBp7L.jpg",
+      "seasonNumber": 1961
+    },
+    {
+      "airDate": "1962-01-07",
+      "episodeCount": 1,
+      "name": "Season 1962",
+      "overview": "",
+      "posterPath": "/uBXVbHF9D8usIx0pTOgc50KBp7L.jpg",
+      "seasonNumber": 1962
+    },
+    {
+      "airDate": "1963-01-06",
+      "episodeCount": 1,
+      "name": "Season 1963",
+      "overview": "",
+      "posterPath": "/uBXVbHF9D8usIx0pTOgc50KBp7L.jpg",
+      "seasonNumber": 1963
+    },
+    {
+      "airDate": "1964-01-05",
+      "episodeCount": 1,
+      "name": "Season 1964",
+      "overview": "",
+      "posterPath": "/uBXVbHF9D8usIx0pTOgc50KBp7L.jpg",
+      "seasonNumber": 1964
+    },
+    {
+      "airDate": "1965-01-03",
+      "episodeCount": 1,
+      "name": "Season 1965",
+      "overview": "",
+      "posterPath": "/uCLkZpPqN90kMVBEXemi1eaqz4N.jpg",
+      "seasonNumber": 1965
+    },
+    {
+      "airDate": "1966-01-02",
+      "episodeCount": 1,
+      "name": "Season 1966",
+      "overview": "",
+      "posterPath": "/uCLkZpPqN90kMVBEXemi1eaqz4N.jpg",
+      "seasonNumber": 1966
+    },
+    {
+      "airDate": "1967-01-01",
+      "episodeCount": 1,
+      "name": "Season 1967",
+      "overview": "",
+      "posterPath": "/uCLkZpPqN90kMVBEXemi1eaqz4N.jpg",
+      "seasonNumber": 1967
+    },
+    {
+      "airDate": "1968-01-07",
+      "episodeCount": 1,
+      "name": "Season 1968",
+      "overview": "",
+      "posterPath": "/qAnco3gVwnOSdH1NcrC0j6OZ4oL.jpg",
+      "seasonNumber": 1968
+    },
+    {
+      "airDate": "1969-01-05",
+      "episodeCount": 1,
+      "name": "Season 1969",
+      "overview": "",
+      "posterPath": "/qAnco3gVwnOSdH1NcrC0j6OZ4oL.jpg",
+      "seasonNumber": 1969
+    },
+    {
+      "airDate": "1970-01-04",
+      "episodeCount": 1,
+      "name": "Season 1970",
+      "overview": "",
+      "posterPath": "/qAnco3gVwnOSdH1NcrC0j6OZ4oL.jpg",
+      "seasonNumber": 1970
+    },
+    {
+      "airDate": "1971-01-03",
+      "episodeCount": 1,
+      "name": "Season 1971",
+      "overview": "",
+      "posterPath": "/qAnco3gVwnOSdH1NcrC0j6OZ4oL.jpg",
+      "seasonNumber": 1971
+    },
+    {
+      "airDate": "1972-01-02",
+      "episodeCount": 1,
+      "name": "Season 1972",
+      "overview": "",
+      "posterPath": "/qAnco3gVwnOSdH1NcrC0j6OZ4oL.jpg",
+      "seasonNumber": 1972
+    },
+    {
+      "airDate": "1973-01-07",
+      "episodeCount": 1,
+      "name": "Season 1973",
+      "overview": "",
+      "posterPath": "/qAnco3gVwnOSdH1NcrC0j6OZ4oL.jpg",
+      "seasonNumber": 1973
+    },
+    {
+      "airDate": "1974-01-06",
+      "episodeCount": 1,
+      "name": "Season 1974",
+      "overview": "",
+      "posterPath": "/qAnco3gVwnOSdH1NcrC0j6OZ4oL.jpg",
+      "seasonNumber": 1974
+    },
+    {
+      "airDate": "1975-01-05",
+      "episodeCount": 1,
+      "name": "Season 1975",
+      "overview": "",
+      "posterPath": "/qAnco3gVwnOSdH1NcrC0j6OZ4oL.jpg",
+      "seasonNumber": 1975
+    },
+    {
+      "airDate": "1976-01-04",
+      "episodeCount": 1,
+      "name": "Season 1976",
+      "overview": "",
+      "posterPath": "/qAnco3gVwnOSdH1NcrC0j6OZ4oL.jpg",
+      "seasonNumber": 1976
+    },
+    {
+      "airDate": "1977-01-02",
+      "episodeCount": 1,
+      "name": "Season 1977",
+      "overview": "",
+      "posterPath": "/qAnco3gVwnOSdH1NcrC0j6OZ4oL.jpg",
+      "seasonNumber": 1977
+    },
+    {
+      "airDate": "1978-01-01",
+      "episodeCount": 1,
+      "name": "Season 1978",
+      "overview": "",
+      "posterPath": "/qAnco3gVwnOSdH1NcrC0j6OZ4oL.jpg",
+      "seasonNumber": 1978
+    },
+    {
+      "airDate": "1979-01-07",
+      "episodeCount": 1,
+      "name": "Season 1979",
+      "overview": "",
+      "posterPath": "/qAnco3gVwnOSdH1NcrC0j6OZ4oL.jpg",
+      "seasonNumber": 1979
+    },
+    {
+      "airDate": "1980-01-06",
+      "episodeCount": 1,
+      "name": "Season 1980",
+      "overview": "",
+      "posterPath": "/qAnco3gVwnOSdH1NcrC0j6OZ4oL.jpg",
+      "seasonNumber": 1980
+    },
+    {
+      "airDate": "1981-01-04",
+      "episodeCount": 1,
+      "name": "Season 1981",
+      "overview": "",
+      "posterPath": "/qAnco3gVwnOSdH1NcrC0j6OZ4oL.jpg",
+      "seasonNumber": 1981
+    },
+    {
+      "airDate": "1982-01-03",
+      "episodeCount": 1,
+      "name": "Season 1982",
+      "overview": "",
+      "posterPath": "/qAnco3gVwnOSdH1NcrC0j6OZ4oL.jpg",
+      "seasonNumber": 1982
+    },
+    {
+      "airDate": "1983-01-02",
+      "episodeCount": 1,
+      "name": "Season 1983",
+      "overview": "",
+      "posterPath": "/1zOOgkiBWjcinyloNWJGatVTyuq.jpg",
+      "seasonNumber": 1983
+    },
+    {
+      "airDate": "1984-01-01",
+      "episodeCount": 1,
+      "name": "Season 1984",
+      "overview": "",
+      "posterPath": "/1zOOgkiBWjcinyloNWJGatVTyuq.jpg",
+      "seasonNumber": 1984
+    },
+    {
+      "airDate": "1985-01-06",
+      "episodeCount": 1,
+      "name": "Season 1985",
+      "overview": "",
+      "posterPath": "/1zOOgkiBWjcinyloNWJGatVTyuq.jpg",
+      "seasonNumber": 1985
+    },
+    {
+      "airDate": "1986-01-05",
+      "episodeCount": 1,
+      "name": "Season 1986",
+      "overview": "",
+      "posterPath": "/1zOOgkiBWjcinyloNWJGatVTyuq.jpg",
+      "seasonNumber": 1986
+    },
+    {
+      "airDate": "1987-01-04",
+      "episodeCount": 1,
+      "name": "Season 1987",
+      "overview": "",
+      "posterPath": "/1zOOgkiBWjcinyloNWJGatVTyuq.jpg",
+      "seasonNumber": 1987
+    },
+    {
+      "airDate": "1988-01-03",
+      "episodeCount": 1,
+      "name": "Season 1988",
+      "overview": "",
+      "posterPath": "/1zOOgkiBWjcinyloNWJGatVTyuq.jpg",
+      "seasonNumber": 1988
+    },
+    {
+      "airDate": "1989-01-01",
+      "episodeCount": 1,
+      "name": "Season 1989",
+      "overview": "",
+      "posterPath": "/1zOOgkiBWjcinyloNWJGatVTyuq.jpg",
+      "seasonNumber": 1989
+    },
+    {
+      "airDate": "1990-01-07",
+      "episodeCount": 1,
+      "name": "Season 1990",
+      "overview": "",
+      "posterPath": "/1zOOgkiBWjcinyloNWJGatVTyuq.jpg",
+      "seasonNumber": 1990
+    },
+    {
+      "airDate": "1991-01-06",
+      "episodeCount": 1,
+      "name": "Season 1991",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 1991
+    },
+    {
+      "airDate": "1992-01-05",
+      "episodeCount": 1,
+      "name": "Season 1992",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 1992
+    },
+    {
+      "airDate": "1993-01-03",
+      "episodeCount": 1,
+      "name": "Season 1993",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 1993
+    },
+    {
+      "airDate": "1994-01-02",
+      "episodeCount": 1,
+      "name": "Season 1994",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 1994
+    },
+    {
+      "airDate": "1995-01-01",
+      "episodeCount": 1,
+      "name": "Season 1995",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 1995
+    },
+    {
+      "airDate": "1996-01-07",
+      "episodeCount": 1,
+      "name": "Season 1996",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 1996
+    },
+    {
+      "airDate": "1997-01-05",
+      "episodeCount": 1,
+      "name": "Season 1997",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 1997
+    },
+    {
+      "airDate": "1998-01-04",
+      "episodeCount": 1,
+      "name": "Season 1998",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 1998
+    },
+    {
+      "airDate": "1999-01-03",
+      "episodeCount": 1,
+      "name": "Season 1999",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 1999
+    },
+    {
+      "airDate": "2000-01-02",
+      "episodeCount": 1,
+      "name": "Season 2000",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 2000
+    },
+    {
+      "airDate": "2001-01-07",
+      "episodeCount": 1,
+      "name": "Season 2001",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 2001
+    },
+    {
+      "airDate": "2002-01-06",
+      "episodeCount": 1,
+      "name": "Season 2002",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 2002
+    },
+    {
+      "airDate": "2003-01-05",
+      "episodeCount": 1,
+      "name": "Season 2003",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 2003
+    },
+    {
+      "airDate": "2004-01-04",
+      "episodeCount": 1,
+      "name": "Season 2004",
+      "overview": "",
+      "posterPath": "/zWuepfryuRxVa8ZuzS5kRPkgkiz.jpg",
+      "seasonNumber": 2004
+    },
+    {
+      "airDate": "2027-01-03",
+      "episodeCount": 1,
+      "name": "Season 2027",
+      "overview": "",
+      "posterPath": "/lzPZEms9js5HWIAh1Cn6V7x1IvA.jpg",
+      "seasonNumber": 2027
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Face the Nation",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 3,
+  "watchProviders": {}
+}

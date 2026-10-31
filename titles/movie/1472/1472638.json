@@ -1,0 +1,218 @@
+{
+  "backdropPath": "/7Whk4F7xQYF5eUwJp50Oa8GvpVd.jpg",
+  "cast": [
+    {
+      "character": "Checco",
+      "id": 114366,
+      "name": "Checco Zalone",
+      "profilePath": "/kSK1TGkKe7iGmcAliSmQYqXFlDv.jpg"
+    },
+    {
+      "character": "Alma",
+      "id": 1169141,
+      "name": "Beatriz Arjona",
+      "profilePath": "/jxIFEzPxyPWKzw9MMD2pf7hHyz1.jpg"
+    },
+    {
+      "character": "Cristal",
+      "id": 3139881,
+      "name": "Letizia Arnò",
+      "profilePath": "/vJsIGRIFxwbRZqSMk7sF8ESH96z.jpg"
+    },
+    {
+      "character": "Linda",
+      "id": 232113,
+      "name": "Martina Colombari",
+      "profilePath": "/l8cIpBwZZWSKxfuMyUhQMo4mlfK.jpg"
+    },
+    {
+      "character": "Tarek",
+      "id": 1038543,
+      "name": "Hossein Taheri",
+      "profilePath": "/oCw19EurCQB7joUCsNQbVKKa6B9.jpg"
+    },
+    {
+      "character": "Nonno Eugenio",
+      "id": 72784,
+      "name": "Alfonso Santagata",
+      "profilePath": "/hHIXOihizxRtUBbMvx5zCVOmSik.jpg"
+    },
+    {
+      "character": "Martina",
+      "id": 962197,
+      "name": "Mariana Rodríguez",
+      "profilePath": "/j8bgDwHN7Y60KANFQAOJt4OFAMa.jpg"
+    },
+    {
+      "character": "Elizabeth",
+      "id": 1651424,
+      "name": "Cecilia Gragnani",
+      "profilePath": "/cBdXHAOcLj5QEXvk5HZ9Nbwy0vC.jpg"
+    },
+    {
+      "character": "Corina",
+      "id": 5898871,
+      "name": "Beatrice Abbro",
+      "profilePath": null
+    },
+    {
+      "character": "Maurice",
+      "id": 2295846,
+      "name": "Maurizio Bousso",
+      "profilePath": "/nfBOYTpNTS4yqrQHsPNjirK7Sif.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 18156,
+      "logoPath": "/3nAuYcaWdpW0ULMvMz6V5HIJmCO.png",
+      "name": "Indiana Production"
+    },
+    {
+      "id": 6246,
+      "logoPath": "/7X6pfxldTiOD7MLo2EQqUQlmOUw.png",
+      "name": "Medusa Film"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38350059",
+    "wikidataId": "Q137211198"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "id": 1472638,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "it",
+      "name": "Italian"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Buen Camino",
+  "overview": "Checco's life is a comfortable and luxurious one, and it couldn't be otherwise, considering he's the only son of Eugenio Zalone, a wealthy sofa manufacturer. Stranded by the pool in his luxurious villas, with an unspecified number of Filipinos serving him, a very young Mexican model as a girlfriend, and vacationing on his yacht with friends who share his passion for not wanting to work; it seems like a truly enviable life, considering he lacks nothing, absolutely nothing. Actually, no. Something is missing. It's his underage daughter, Cristal, named after the famous French sparkling wine, who has suddenly disappeared without a trace. Urgently summoned to Rome by his ex-wife, Linda, he finds himself facing the responsibilities of fatherhood for the first time, trying to find the girl—a very complicated task, considering he knows absolutely nothing about Cristal and her life.",
+  "posterPath": "/gYvlK73gKsJAaGjndyyiaZerEFb.jpg",
+  "rating": 6.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Buen Camino",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "fi10nVislwk",
+      "name": "Trailer [Dubbed]",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 631,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1472638-buen-camino/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1472638-buen-camino/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1472638-buen-camino/watch?locale=US",
+      "rent": []
+    }
+  }
+}

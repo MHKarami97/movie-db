@@ -1,0 +1,230 @@
+{
+  "backdropPath": "/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
+  "cast": [
+    {
+      "character": "Sita",
+      "id": 1108120,
+      "name": "Alia Bhatt",
+      "profilePath": "/lAgBZgHKTo6amIO9CfNxUbm1usH.jpg"
+    },
+    {
+      "character": "Durga",
+      "id": 2518564,
+      "name": "Sharvari",
+      "profilePath": "/zAkx24qd7eH1Ck3ouBnPOysAOaJ.jpg"
+    },
+    {
+      "character": "Fateh Singh Lakhawat / Major Zarrar Khan",
+      "id": 77235,
+      "name": "Bobby Deol",
+      "profilePath": "/2npVa3PduichY8e7qBiE54m9VVP.jpg"
+    },
+    {
+      "character": "Vikrant Kaul",
+      "id": 72118,
+      "name": "Anil Kapoor",
+      "profilePath": "/dwvnpiwg9m2zj0VHzlgzEotFl0G.jpg"
+    },
+    {
+      "character": "Dr. John Verghese",
+      "id": 101823,
+      "name": "Dibyendu Bhattacharya",
+      "profilePath": "/uLlGKCL9y5CFBwcAafTDQhupz5h.jpg"
+    },
+    {
+      "character": "Janaki Kaul",
+      "id": 85669,
+      "name": "Dia Mirza",
+      "profilePath": "/oJSZlMkIGC1Yr8QxdBLliUjPRSd.jpg"
+    },
+    {
+      "character": "Kabir Dhaliwal",
+      "id": 78749,
+      "name": "Hrithik Roshan",
+      "profilePath": "/d7XGTvyYgmrsA05XOn1YtxYcuY1.jpg"
+    },
+    {
+      "character": "Susan Cherian",
+      "id": 110157,
+      "name": "Shubhi Mehta",
+      "profilePath": null
+    },
+    {
+      "character": "Dr. Preeti",
+      "id": 1548875,
+      "name": "Pavleen Gujral",
+      "profilePath": "/r21Gu2FvK0fNQpbsq95y6RUprI.jpg"
+    },
+    {
+      "character": "General Sodhi",
+      "id": 2114284,
+      "name": "Pranay Narayan",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 1569,
+      "logoPath": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+      "name": "Yash Raj Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2026-08-28",
+  "externalIds": {
+    "imdbId": "tt28363783",
+    "wikidataId": "Q131760998"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 56,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1122030,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "hi",
+      "name": "Hindi"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "अल्फा",
+  "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
+  "posterPath": "/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
+  "rating": 5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-07-03"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-07-03"
+    },
+    "US": {
+      "digitalDate": "2026-08-28",
+      "gapDays": 56,
+      "theatricalDate": "2026-07-03"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-07-03"
+    },
+    "GB": {
+      "theatrical": "2026-07-03"
+    },
+    "US": {
+      "digital": "2026-08-28",
+      "theatrical": "2026-07-03"
+    }
+  },
+  "runtime": 141,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-07-03",
+  "title": "Alpha",
+  "translations": {
+    "faTitle": "آلفا"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "YP1uSAggr6Y",
+      "name": "Official Trailer [ENG SUB]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "0-Vgg04M3m0",
+      "name": "Agni Song",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "8zqfxQcz7kM",
+      "name": "Title Announcement",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 34,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1122030/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1122030/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1122030/watch?locale=US",
+      "rent": []
+    }
+  }
+}

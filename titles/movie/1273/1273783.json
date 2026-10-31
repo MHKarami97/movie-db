@@ -1,0 +1,236 @@
+{
+  "backdropPath": "/sLOYPJJqmOXWm4DwUiRoeaA6S3C.jpg",
+  "cast": [
+    {
+      "character": "Chris Montano",
+      "id": 1020699,
+      "name": "Guillermo Iván",
+      "profilePath": "/zH8BOepVqv3l1uQvHfRyPSX65OJ.jpg"
+    },
+    {
+      "character": "",
+      "id": 928812,
+      "name": "Roberto Sanchez",
+      "profilePath": "/9uRNiMcxueGxmPKqvAv6I3JEP20.jpg"
+    },
+    {
+      "character": "Hugo",
+      "id": 1779231,
+      "name": "Óscar López",
+      "profilePath": "/sJUop8BTI4jd6cun5Fksue9ASE1.jpg"
+    },
+    {
+      "character": "Sara",
+      "id": 2514314,
+      "name": "Lara Wolf",
+      "profilePath": "/l2nYt7kKmQgUYCmpxY9jiL4LEXO.jpg"
+    },
+    {
+      "character": "Isla",
+      "id": 1591607,
+      "name": "Zair Montes",
+      "profilePath": "/7RBcRG1IfPryQZVlfA721IJ8x4C.jpg"
+    },
+    {
+      "character": "Salvador",
+      "id": 145219,
+      "name": "Oscar Torre",
+      "profilePath": "/rW8ZpADNhgwqZXDPdgF2SOs4fgb.jpg"
+    },
+    {
+      "character": "Dules",
+      "id": 1262227,
+      "name": "Zach Rose",
+      "profilePath": "/kuNEolXMqW00l6JxcI2ZqyS9RLz.jpg"
+    },
+    {
+      "character": "Roman",
+      "id": 4732497,
+      "name": "Oscar Lopez Camaron",
+      "profilePath": null
+    },
+    {
+      "character": "Amanda",
+      "id": 2829574,
+      "name": "Iliana Guibert",
+      "profilePath": null
+    },
+    {
+      "character": "Sebastian",
+      "id": 971547,
+      "name": "Osvaldo de León",
+      "profilePath": "/x10VqE6N8ikDIX83Cp8Pk9gOX5Z.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 229732,
+      "logoPath": null,
+      "name": "Rog Films (MX)"
+    }
+  ],
+  "countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "digitalDate": "2024-04-19",
+  "externalIds": {
+    "imdbId": "tt22897544",
+    "wikidataId": "Q128083917"
+  },
+  "fetchedAt": 1795237826249,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1273783,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "6 Hours Away",
+  "overview": "It follows ex-Marine Chris Montano after his wife goes missing during a business trip. He then finds himself in a race against time to save her.",
+  "posterPath": "/Aa1RyMKcOhwhfdaW5OVaPxgrkjt.jpg",
+  "rating": 5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2024-04-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2024-04-19"
+    }
+  },
+  "runtime": 92,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "In a race against time to save the ones he loves.",
+  "theatricalDate": null,
+  "title": "6 Hours Away",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Z9rcVX8GZww",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 3,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1273783-6-hours-away/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "backdropPath": "/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
+  "cast": [
+    {
+      "character": "Joan",
+      "id": 550843,
+      "name": "Elizabeth Olsen",
+      "profilePath": "/vXz0E5lQKZS1RnlmcHSGbdR0CzG.jpg"
+    },
+    {
+      "character": "Larry",
+      "id": 996701,
+      "name": "Miles Teller",
+      "profilePath": "/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg"
+    },
+    {
+      "character": "Luke",
+      "id": 1371041,
+      "name": "Callum Turner",
+      "profilePath": "/b9Sz10HU71SQ5wrx7CfWPKQ4vDJ.jpg"
+    },
+    {
+      "character": "Anna",
+      "id": 1180099,
+      "name": "Da'Vine Joy Randolph",
+      "profilePath": "/7RuYeGxTwFRt2q8fkT8nuEz1nIC.jpg"
+    },
+    {
+      "character": "Ryan",
+      "id": 1542758,
+      "name": "John Early",
+      "profilePath": "/gQ0nZXm11wnB7kvk4Oz2zIeisLx.jpg"
+    },
+    {
+      "character": "Older Larry",
+      "id": 73194,
+      "name": "Barry Primus",
+      "profilePath": "/aHGNNA8YkPQfRavLvLhKodoCkdf.jpg"
+    },
+    {
+      "character": "Older Joan",
+      "id": 52462,
+      "name": "Betty Buckley",
+      "profilePath": "/vgEah6IHjirZGXjuGhTA1Wp9aQT.jpg"
+    },
+    {
+      "character": "Man in Car",
+      "id": 139622,
+      "name": "Darryl Scheelar",
+      "profilePath": "/ee7Mr2N7eKIQEZ9XhlFyElZgDs0.jpg"
+    },
+    {
+      "character": "Sam",
+      "id": 1820696,
+      "name": "Danny Mac",
+      "profilePath": "/ga92rNUVGl538zqFVKX54CdkTJ6.jpg"
+    },
+    {
+      "character": "Zach",
+      "id": 42709,
+      "name": "Damon Johnson",
+      "profilePath": "/5b0aHHijeunC0e053M6XyLKgaeZ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 41077,
+      "logoPath": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24"
+    },
+    {
+      "id": 27497,
+      "logoPath": "/F8mSKEBTORPIYJ3XNvSFb5FEUD.png",
+      "name": "Star Thrower Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-12-23",
+  "externalIds": {
+    "imdbId": "tt24950660",
+    "wikidataId": "Q126203157"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 27,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1259102,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Eternity",
+  "overview": "در دنیای پس از مرگی که ارواح تنها یک هفته فرصت دارند تصمیم بگیرند ابدیت خود را کجا سپری کنند، زن جوانی به‌نام جوآن باید بین همسرش که تمام عمر با او بوده و عشق اول‌اش که جوان‌مرگ شد، یکی را انتخاب کند.",
+  "posterPath": "/yiwGcjfDKXD5PqQnyKUU9kspWQQ.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-02-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-03-14",
+      "gapDays": 80,
+      "theatricalDate": "2025-12-24"
+    },
+    "GB": {
+      "digitalDate": "2026-02-13",
+      "gapDays": 70,
+      "theatricalDate": "2025-12-05"
+    },
+    "US": {
+      "digitalDate": "2025-12-23",
+      "gapDays": 27,
+      "theatricalDate": "2025-11-26"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-02-13"
+    },
+    "CN": {
+      "digital": "2026-03-14",
+      "theatrical": "2025-12-24"
+    },
+    "GB": {
+      "digital": "2026-02-13",
+      "theatrical": "2025-12-05"
+    },
+    "US": {
+      "digital": "2025-12-23",
+      "premiere": "2025-10-03",
+      "theatrical": "2025-11-26"
+    }
+  },
+  "runtime": 114,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "You can only choose one.",
+  "theatricalDate": "2025-11-26",
+  "title": "Eternity",
+  "translations": {
+    "faOverview": "در دنیای پس از مرگی که ارواح تنها یک هفته فرصت دارند تصمیم بگیرند ابدیت خود را کجا سپری کنند، زن جوانی به‌نام جوآن باید بین همسرش که تمام عمر با او بوده و عشق اول‌اش که جوان‌مرگ شد، یکی را انتخاب کند.",
+    "faTitle": "ابدیت"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "rDaJjnW-fRQ",
+      "name": "Beach Date - Full Scene",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "ybf9OkMknRk",
+      "name": "Mountain Date - Full Scene",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "9FIy_P2miRE",
+      "name": "Welcome to the Afterlife - Full Scene",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "RaKuAqAdg-A",
+      "name": "I Waited for You",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "FjMuMpq4mSA",
+      "name": "A Possible Solution",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "3w8mV6gs4n0",
+      "name": "Joan Reunites with Larry",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "joNSm0F4pkM",
+      "name": "Joan Meets Luke",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "yxyhhhAh0h0",
+      "name": "Cast and Crew Q&A | TIFF 2025",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "RKkVpK0Va-4",
+      "name": "Afterlife Advice with Da'Vine Joy Randolph and John Early",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "CK4juR4SyQQ",
+      "name": "How the Cast Would Spend Eternity with Elizabeth Olsen, Miles Teller and Callum Turner",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "myVTn41XjtE",
+      "name": "Official First Look",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "S9gtwyVrVFs",
+      "name": "Miles Teller, Elizabeth Olsen and Callum Turner Solve Love Triangles",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "MhwrkLov5Dg",
+      "name": "Junction Tour with Da'Vine Joy Randolph and John Early",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "GzkoY6hUvQQ",
+      "name": "Official Trailer 2",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "8OAKsgEqZBk",
+      "name": "Callum Turner wants to be with Dua Lipa forever & Elizabeth Olsen HATES rollercoasters | TIFF",
+      "official": false,
+      "type": "Featurette"
+    },
+    {
+      "key": "irXTps1REHU",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 907,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 350,
+          "logoPath": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1259102-eternity/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 350,
+          "logoPath": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        },
+        {
+          "id": 2243,
+          "logoPath": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "name": "Apple TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1259102-eternity/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 350,
+          "logoPath": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        },
+        {
+          "id": 2243,
+          "logoPath": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "name": "Apple TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1259102-eternity/watch?locale=US",
+      "rent": [
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "backdropPath": "/v7kqufGRDotShPCw53SM7m8t6oc.jpg",
+  "cast": [
+    {
+      "character": "Devadas",
+      "id": 1592411,
+      "name": "Lokesh Kanagaraj",
+      "profilePath": "/yym15SAcSzIe6xzxOWCgDWiSaZN.jpg"
+    },
+    {
+      "character": "Chandra",
+      "id": 1267400,
+      "name": "Wamiqa Gabbi",
+      "profilePath": "/tA0n2mvKpBFrfKGm8uaLx9lK2tV.jpg"
+    },
+    {
+      "character": "Parvathi",
+      "id": 3791747,
+      "name": "Sanjana Krishnamoorthy",
+      "profilePath": "/sPh2ToZD1U981VZFOmRZO6wZ16v.jpg"
+    },
+    {
+      "character": "Kitty",
+      "id": 1540757,
+      "name": "Avinash Raghudevan",
+      "profilePath": "/AuiRkWkzpmZU2P88s1wwcqVDKJV.jpg"
+    },
+    {
+      "character": "Karuppan",
+      "id": 4900390,
+      "name": "Jawahar Sakthi",
+      "profilePath": "/tujqtpUT92SDeo2AuUJiJGKBfYp.jpg"
+    },
+    {
+      "character": "Chunnilal",
+      "id": 2817008,
+      "name": "Sharath Ravi",
+      "profilePath": "/5hgdkBe06e6xRRTPvQEPcoanC2u.jpg"
+    },
+    {
+      "character": "Sendhooran",
+      "id": 585107,
+      "name": "Kasthoori Raja",
+      "profilePath": "/7i5YtjslyQAQrBoEhlWz8G4yqj5.jpg"
+    },
+    {
+      "character": "Arasu",
+      "id": 520089,
+      "name": "Thalaivasal Vijay",
+      "profilePath": "/2mlbBSwHF2nzlPpVnjXpTKLaoxQ.jpg"
+    },
+    {
+      "character": "Sebastian",
+      "id": 5440882,
+      "name": "Pranav Teophine",
+      "profilePath": "/kTGxpPTC4MawBudi60Sd7eXKm1u.jpg"
+    },
+    {
+      "character": "Ashraf",
+      "id": 2257621,
+      "name": "Balaji Devi Prasad",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 7135,
+      "logoPath": "/8KsxNPnM0y9Dk3fOcHqKUDw2XUs.png",
+      "name": "Sun Pictures"
+    },
+    {
+      "id": 264280,
+      "logoPath": null,
+      "name": "G Squad (IN)"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2026-09-04",
+  "externalIds": {
+    "imdbId": "tt37501035",
+    "wikidataId": "Q140836374"
+  },
+  "fetchedAt": 1793504874718,
+  "gapDays": 29,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1479832,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ta",
+      "name": "Tamil"
+    },
+    {
+      "code": "hi",
+      "name": "Hindi"
+    }
+  ],
+  "originalTitle": "டிசி",
+  "overview": "From avenging his mother’s murder to battling police corruption, Das becomes a fugitive after a deadly heist. Amid a trail of bloodshed and loss, he frees Chandra from a life of exploitation, and she gives him a reason to seek a life beyond violence.",
+  "posterPath": "/grRYMAxmfk9VHXY30gm6vfiwyoN.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-06"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-04",
+      "gapDays": 29,
+      "theatricalDate": "2026-08-06"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-08-06"
+    },
+    "US": {
+      "digital": "2026-09-04",
+      "theatrical": "2026-08-06"
+    }
+  },
+  "runtime": 142,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-08-06",
+  "title": "DC",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 32,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 309,
+          "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+          "name": "Sun Nxt"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1479832/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 309,
+          "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+          "name": "Sun Nxt"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1479832/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 309,
+          "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+          "name": "Sun Nxt"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1479832/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "backdropPath": "/6wGVsj5R33KSSCiZpQy6akylJ0y.jpg",
+  "cast": [
+    {
+      "character": "Miguel",
+      "id": 3810,
+      "name": "Javier Bardem",
+      "profilePath": "/zfRID0jx8DKBluPGU9xtk9sZWUt.jpg"
+    },
+    {
+      "character": "Sofia",
+      "id": 955,
+      "name": "Penélope Cruz",
+      "profilePath": "/n5SFgmvJSENQt8poE4qYacUnKOi.jpg"
+    },
+    {
+      "character": "Toby",
+      "id": 1115,
+      "name": "Stephen Graham",
+      "profilePath": "/yguEO9zFvuccq87kOJpFLsmUgvs.jpg"
+    },
+    {
+      "character": "Andrew",
+      "id": 17142,
+      "name": "Paul Dano",
+      "profilePath": "/gOD5bO0hKnzzJm7sJeGeEJjfBBw.jpg"
+    },
+    {
+      "character": "Jeremy",
+      "id": 1053422,
+      "name": "Patrick Schwarzenegger",
+      "profilePath": "/jKbI0OpFMMz4SPCU1VoMHXIbA3Y.jpg"
+    },
+    {
+      "character": "Lucia",
+      "id": 6474613,
+      "name": "Chloe Conh",
+      "profilePath": null
+    },
+    {
+      "character": "Rosa",
+      "id": 6474612,
+      "name": "Leah Conh",
+      "profilePath": null
+    },
+    {
+      "character": "Simon",
+      "id": 34546,
+      "name": "Mark Gatiss",
+      "profilePath": "/rkZKKDRbnGqqg2fjd5iPYDS4syy.jpg"
+    },
+    {
+      "character": "Eileen",
+      "id": 20300,
+      "name": "Eileen Atkins",
+      "profilePath": "/8gac03PfTFz2vByZi1aun0NiTqM.jpg"
+    },
+    {
+      "character": "Martha",
+      "id": 2027842,
+      "name": "Karen Ascoe",
+      "profilePath": "/hdyXbDHUfxa8A9ilDu6fMIJoIV7.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 191442,
+      "logoPath": null,
+      "name": "Blue Morning Pictures"
+    },
+    {
+      "id": 5444,
+      "logoPath": "/xrpAU7lNpwoZXuNXtafp7p4hi5.png",
+      "name": "Mod Producciones"
+    },
+    {
+      "id": 7981,
+      "logoPath": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+      "name": "Pathé"
+    },
+    {
+      "id": 83,
+      "logoPath": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma"
+    },
+    {
+      "id": 138896,
+      "logoPath": "/hKJgmgLUg4OmN0vgvtVoBHdklMe.png",
+      "name": "Mediawan"
+    },
+    {
+      "id": 113342,
+      "logoPath": null,
+      "name": "Entourage Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36770512",
+    "wikidataId": "Q137295429"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1473784,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Bunker",
+  "overview": "When an architect accepts a morally ambiguous project — building a survivalist bunker for a tech billionaire — his wife of 17 years begins to question their relationship.",
+  "posterPath": "/fF2R0jc9h73cgd59KRWzWQnBN8J.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-02-19"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-12-11"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-10-10",
+      "theatrical": "2027-02-19"
+    },
+    "US": {
+      "premiere": "2026-10-03",
+      "theatricalLimited": "2026-12-11"
+    }
+  },
+  "runtime": 126,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-12-11",
+  "title": "Bunker",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "fdkwGvMB5zQ",
+      "name": "Official US Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "HPEHlP4EwAE",
+      "name": "Penélope Cruz on working with Florian Zeller",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "fCg-tam-FRE",
+      "name": "Mark Gatiss on the personal story of BUNKER",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "f2FrZBGv7Ck",
+      "name": "Florian Zeller on working with Penélope Cruz and Javier Bardem",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "5YQajo74Yz8",
+      "name": "Penélope Cruz spoke about a pivotal scene in BUNKER that really moved her",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "AVRGi7FAA8g",
+      "name": "Florian Zeller on the emotional challenge for the cast of BUNKER",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

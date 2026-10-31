@@ -1,0 +1,64 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt43640539"
+  },
+  "fetchedAt": 1795237826249,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1727974,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "th",
+      "name": "Thai"
+    }
+  ],
+  "originalTitle": "First Cuts are the Deepest",
+  "overview": "Filmed over six years across different parts of Thailand, the documentary follows three children as they grow through friendship, loss, confusion, silence, and change during their childhood.",
+  "posterPath": "/tlosCZUb1F74hj1C0MrBlvsl2nq.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 106,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Three Thai children, six years of becoming.",
+  "theatricalDate": null,
+  "title": "First Cuts are the Deepest",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

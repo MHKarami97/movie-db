@@ -1,0 +1,164 @@
+{
+  "backdropPath": "/pGwst7LaXo0Sp61l7AQ98JNP84H.jpg",
+  "cast": [
+    {
+      "character": "Dr. Veda Vyas \"Not JetLee\"",
+      "id": 1638503,
+      "name": "Satya",
+      "profilePath": "/fWHqfjiqnORU6R2fqwiJnowujdP.jpg"
+    },
+    {
+      "character": "Agent Shivani Roy",
+      "id": 5267895,
+      "name": "Rhea Singha",
+      "profilePath": "/wn0MDmx024ghN2Q0XPQbQa6Zacw.jpg"
+    },
+    {
+      "character": "Satya",
+      "id": 146147,
+      "name": "Vennela Kishore",
+      "profilePath": "/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg"
+    },
+    {
+      "character": "Dharmesh Prajapathi",
+      "id": 586625,
+      "name": "Ajay",
+      "profilePath": "/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg"
+    },
+    {
+      "character": "Pilot Captain Kotappa Konda \"KK\"",
+      "id": 1638514,
+      "name": "Harsha Chemudu",
+      "profilePath": "/be0atwoQTudy7WaVCNwWbQuxjvG.jpg"
+    },
+    {
+      "character": "Jackie",
+      "id": 1543640,
+      "name": "Kabir Duhan Singh",
+      "profilePath": "/lAVAxFARP63oTHMYWpwHrWsXPWa.jpg"
+    },
+    {
+      "character": "Natasha",
+      "id": 5681321,
+      "name": "Shailaja Rao Durvasula",
+      "profilePath": "/8qadnEOVF6pmxeF5elgsYwbFn2V.jpg"
+    },
+    {
+      "character": "Noorjahan",
+      "id": 1430837,
+      "name": "Gundu Sudarshan",
+      "profilePath": "/cuOnqGLUlO3A3bkhilC8B2xTqkC.jpg"
+    },
+    {
+      "character": "Co-Pilot Orry Konda \"O.K\"",
+      "id": 3280346,
+      "name": "Sai Somayajulu",
+      "profilePath": "/2KWqebPdAQvkOrLvvDbwMVGSbRK.jpg"
+    },
+    {
+      "character": "Dilip",
+      "id": 6262694,
+      "name": "Mani Sai K.",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 115740,
+      "logoPath": null,
+      "name": "Clap Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38907386",
+    "wikidataId": "Q139590459"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1576377,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "te",
+      "name": "Telugu"
+    }
+  ],
+  "originalTitle": "జెట్‌లీ",
+  "overview": "An attendant on a flight from Dubai to Kochi gets caught up in a dangerous situation.",
+  "posterPath": "/wNqDTEXvDNNFD1aWYNou4uuDoPq.jpg",
+  "rating": 4.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-01"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-05-01"
+    }
+  },
+  "runtime": 132,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-05-01",
+  "title": "Jetlee",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1576377/watch?locale=US",
+      "rent": []
+    }
+  }
+}

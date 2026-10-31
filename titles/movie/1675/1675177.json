@@ -1,0 +1,147 @@
+{
+  "backdropPath": "/jSzUzhPC7k7OYrOm6L8txrKZpKp.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 46986,
+      "name": "Chris Evert",
+      "profilePath": "/A48QDxeagITZPRp8vwWKemWXrl1.jpg"
+    },
+    {
+      "character": "",
+      "id": 1218615,
+      "name": "Martina Navratilova",
+      "profilePath": "/taDaCWJ7X1w2MNxB6dom33199jy.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-06-26",
+  "externalIds": {
+    "imdbId": "tt42037166"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1675177,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Chris & Martina: The Final Set",
+  "overview": "Tennis legends Chris Evert and Martina Navratilova reflect on their parallel journeys to sports stardom while delving into their rivalry and friendship, especially as the duo continue to support each other through their shared experience of cancer treatment.",
+  "posterPath": "/1v259q0lEWNyB2y78WUcvb55VnW.jpg",
+  "rating": 7.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-26",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-06-26",
+      "premiere": "2026-06-10"
+    }
+  },
+  "runtime": 98,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Chris & Martina: The Final Set",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "qN_AE0LPthA",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1675177-chris-martina-the-final-set/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1675177-chris-martina-the-final-set/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1675177-chris-martina-the-final-set/watch?locale=US",
+      "rent": []
+    }
+  }
+}

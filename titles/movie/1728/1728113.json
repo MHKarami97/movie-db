@@ -1,0 +1,215 @@
+{
+  "backdropPath": "/sPU2cDhdlHFtAOQr5NUbzfkOYAf.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 4880276,
+      "name": "Meret Manon",
+      "profilePath": "/j9ZwVimrccPPobWeaNGakfhPmm8.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 4880275,
+      "name": "Sophia Laforteza",
+      "profilePath": "/8Hk7kx3vD7w9xBMyIRrLF20Aufg.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 4880277,
+      "name": "Daniela Avanzini",
+      "profilePath": "/rQk1qi9hOyUDkhFe1TwJ0iXmSbo.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 4880278,
+      "name": "Lara Raj",
+      "profilePath": "/qwBWL81QKup72pZiLjrUnzUyaYn.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 4880280,
+      "name": "Megan Skiendiel",
+      "profilePath": "/gw7j8vsbcE4sqZoHtOQ5QMRyuou.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 4880281,
+      "name": "Yoonchae Jeong",
+      "profilePath": "/uYx5RvlNyRIP4Pa9Zg52hLUcJTk.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 3263432,
+      "name": "Sohey Sugihara",
+      "profilePath": "/prw64pC4HnRB1NBg0INopa0F0Nu.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 3159960,
+      "name": "Grant Gilmore",
+      "profilePath": "/s0wzdaedt7F1mJFBaZt49pzVGFl.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 3654890,
+      "name": "Omer Fedi",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 1705233,
+      "name": "Humberto Leon",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 118381,
+      "logoPath": "/jXGMxHQREYFoojxN9BaLBbdkglQ.png",
+      "name": "Interscope Films"
+    },
+    {
+      "id": 85984,
+      "logoPath": "/2CaCVxh0IbjIpLmqvLxyAHBVGaU.png",
+      "name": "Boardwalk Pictures"
+    },
+    {
+      "id": 303747,
+      "logoPath": null,
+      "name": "HYBE X GEFFEN"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-16",
+  "externalIds": {
+    "imdbId": "tt43657324",
+    "wikidataId": "Q141051791"
+  },
+  "fetchedAt": 1794766926929,
+  "gapDays": 65,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1728113,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ko",
+      "name": "Korean"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "KATSEYE: Wild Hearts",
+  "overview": "A celebration to the group's new era and the fans who made it possible. Features exclusive behind-the-scenes footage, Eyekons fan videos, and intimate interviews with the members.",
+  "posterPath": "/2iMiErHxi3prW3J2ZjFiChfhptt.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-16",
+      "gapDays": 65,
+      "theatricalDate": "2026-08-12"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-16",
+      "theatricalLimited": "2026-08-12"
+    }
+  },
+  "runtime": 80,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A love letter to the EYEKONS.",
+  "theatricalDate": "2026-08-12",
+  "title": "KATSEYE: Wild Hearts",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "BBopLGSH7ZI",
+      "name": "Iconic :30",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "md5rZb2nEaM",
+      "name": "Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1728113-katseye-wild-hearts/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        },
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1728113-katseye-wild-hearts/watch?locale=US",
+      "rent": []
+    }
+  }
+}

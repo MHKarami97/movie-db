@@ -1,0 +1,361 @@
+{
+  "backdropPath": "/AexziGDe7P6ovqfdOWkME0JrwLI.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 82226,
+      "logoPath": null,
+      "name": "BO Travail"
+    },
+    {
+      "id": 170525,
+      "logoPath": "/9WZMRkq2dkMbHe8khLj4mG7uHLa.png",
+      "name": "Bo Travail !"
+    },
+    {
+      "id": 7131,
+      "logoPath": "/qpFsGoa96SytbWkhtkkpllu5Cch.png",
+      "name": "France Télévisions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": "2006-09-30",
+  "episodes": {
+    "21": [
+      {
+        "airDate": "2026-09-12",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": "/69ERejpJziUxGdq4K2xMduUOMhM.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-09-19",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": "/m391pQdp0JE0ORXxAjucuzbVroh.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-09-26",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": "/henZ1zE0PERJO7dtClRQvZqhRiP.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-03",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": "/aj3zFjROgnHyjZwuyeuz2Yzth6P.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-10",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": "/kz3wSJfLntzl3drmcfADgQ4EAAV.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-17",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": "/6Gtc7NGjWL73bibHQ0lwrFAroRx.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-24",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": "/mxAodZDNwgIwVMc34s6VNjyobtn.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-07",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": "/vEviSafTMCrjWyycprTlgY8OfbF.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-14",
+        "episodeNumber": 9,
+        "name": "Episode 9",
+        "overview": "",
+        "stillPath": "/rwZpQz7XsXscygxwkgBYz2Sexox.jpg",
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt5210088",
+    "wikidataId": "Q3577405"
+  },
+  "fetchedAt": 1795203017842,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 70620,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-11-14",
+    "episodeNumber": 9,
+    "id": 8127808,
+    "name": "Episode 9",
+    "overview": "",
+    "seasonNumber": 21
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Échappées Belles",
+  "overview": "Échappées Belles is a French weekly discovery magazine, broadcast on Saturdays in the first part of the evening on France 5 since September 30, 2006. It is presented in turn by Sophie Jovillard, Jérôme Pitorin, Ismaël Khelifa, Tiga, Sabine Quindou, Théo Curin and Anto Cocagne.",
+  "posterPath": "/ypjmDCbxvBblRHs1IYcvIaiKzyM.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2006-09-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2006-09-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2006-09-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2006-09-30",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2006-09-30"
+    },
+    "CN": {
+      "tv": "2006-09-30"
+    },
+    "GB": {
+      "tv": "2006-09-30"
+    },
+    "US": {
+      "tv": "2006-09-30"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2006-09-30",
+      "episodeCount": 38,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/wIL94HEyRDmyEYfK0WlcFC2FruS.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2007-09-22",
+      "episodeCount": 32,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2008-09-13",
+      "episodeCount": 32,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2009-09-12",
+      "episodeCount": 32,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2010-09-11",
+      "episodeCount": 34,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2011-09-10",
+      "episodeCount": 34,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2012-09-08",
+      "episodeCount": 34,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2013-09-07",
+      "episodeCount": 34,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2014-09-06",
+      "episodeCount": 34,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/7fMsSjU9R8wDylaUoZ5ncEfNKcJ.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2015-09-12",
+      "episodeCount": 34,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2016-09-10",
+      "episodeCount": 40,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2017-09-09",
+      "episodeCount": 37,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2018-09-08",
+      "episodeCount": 38,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2019-09-07",
+      "episodeCount": 31,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2020-09-05",
+      "episodeCount": 41,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2021-09-11",
+      "episodeCount": 38,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": "/kNTpLvQ0wlUn5s5J3pq2MzGZQ7E.jpg",
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2022-09-17",
+      "episodeCount": 36,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": "/w8Zz45taThWFheId48kYdXiZxSc.jpg",
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2023-09-09",
+      "episodeCount": 34,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2024-09-14",
+      "episodeCount": 35,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": "/uot5FWc3t6bEDRZJeLTao0kQnGb.jpg",
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2025-09-13",
+      "episodeCount": 35,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": "/hFzGq4VOwqSaAmzfwzF0htSmTop.jpg",
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2026-09-12",
+      "episodeCount": 9,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": "/275HgkiTd3yVz00eo6AbCki5XYZ.jpg",
+      "seasonNumber": 21
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Échappées Belles",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "xXi7gGa9Jr0",
+      "name": "Echappées Belles - Un Été En Algérie (2016)",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 2,
+  "watchProviders": {}
+}

@@ -1,0 +1,395 @@
+{
+  "backdropPath": "/9ZzJxEg9zyyGIZx3eplHojYsZ5k.jpg",
+  "cast": [
+    {
+      "character": "Sir Chauncey Savage",
+      "id": 20766,
+      "name": "Richard E. Grant",
+      "profilePath": "/92oaBntIXhndCxUXaGywUyILIIE.jpg"
+    },
+    {
+      "character": "Lady Savage",
+      "id": 120932,
+      "name": "Claire Foy",
+      "profilePath": "/pI1lOswQWZRhc8TKu0MESulw9uF.jpg"
+    },
+    {
+      "character": "Reginald Halifax",
+      "id": 1287084,
+      "name": "Jack Farthing",
+      "profilePath": "/ta12nj6wG6vEUBG46oEWTHIQJBN.jpg"
+    },
+    {
+      "character": "Dorothy Neville",
+      "id": 1201716,
+      "name": "Bel Powley",
+      "profilePath": "/6u8u1eWJ0hZSNFIaPp0QfzMKgL1.jpg"
+    },
+    {
+      "character": "Fanny Savage",
+      "id": 3042998,
+      "name": "Kíla Lord Cassidy",
+      "profilePath": "/7vUPASAuPkgfXzS9DQhOo9uTLJc.jpg"
+    },
+    {
+      "character": "Mr. Bennett",
+      "id": 7025,
+      "name": "Richard McCabe",
+      "profilePath": "/qhQbGDqm5W8frysaKJeNwJOkL1M.jpg"
+    },
+    {
+      "character": "Mrs. Bennett",
+      "id": 1248292,
+      "name": "Vicki Pepperdine",
+      "profilePath": "/yjB62bE4jH1KtAKDMjlicd27Em2.jpg"
+    },
+    {
+      "character": "Mr. Black",
+      "id": 36666,
+      "name": "Pip Torrens",
+      "profilePath": "/1n7pzFfT6jDHe8kc6I0AEfRryhz.jpg"
+    },
+    {
+      "character": "The Narrator (voice)",
+      "id": 42663,
+      "name": "Robert Bathurst",
+      "profilePath": "/7Y5uOaVJEyJsDksXYMwjsanzXj8.jpg"
+    },
+    {
+      "character": "James Darby",
+      "id": 147255,
+      "name": "Tony Way",
+      "profilePath": "/u48ePSGsP1ww2VmPgNXgog3IM83.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 174231,
+      "logoPath": "/pzVptQBeICpxnz0j7C3sLQaqwtI.png",
+      "name": "Record Player Films"
+    },
+    {
+      "id": 195643,
+      "logoPath": "/5auare3qFJ9wpQKsttXnK9MFpQ0.png",
+      "name": "Deluge Pictures"
+    },
+    {
+      "id": 275157,
+      "logoPath": "/s4Z1DPnLbdUPRWyS0WyM24p70uB.png",
+      "name": "Moon7"
+    },
+    {
+      "id": 300201,
+      "logoPath": null,
+      "name": "Valmont Productions"
+    },
+    {
+      "id": 265204,
+      "logoPath": "/ceHdNhyoCCzfWR9QRPPr7UzEcKw.png",
+      "name": "Calculus Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-06-26",
+  "externalIds": {
+    "imdbId": "tt31349852",
+    "wikidataId": "Q125908035"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 21,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1245859,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Savage House",
+  "overview": "Against the backdrop of 18th century England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey Savage and Lady Savage blindly pursue a better life. It's not without a tinge of irony that their family name is the Savages, for this is a Savage House indeed, filled with duels, decadence, and bloodshed.",
+  "posterPath": "/uF2qGFP5uL7UWk9h1xDZpWV2P8t.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-06-05"
+    },
+    "US": {
+      "digitalDate": "2026-06-26",
+      "gapDays": 21,
+      "theatricalDate": "2026-06-05"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-06-03",
+      "theatrical": "2026-06-05"
+    },
+    "US": {
+      "digital": "2026-06-26",
+      "theatricalLimited": "2026-06-05"
+    }
+  },
+  "runtime": 114,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Polite society has never been so Savage.",
+  "theatricalDate": "2026-06-05",
+  "title": "Savage House",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "xgahPE-y1_I",
+      "name": "Acquired Taste",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "pRRMLYEy3-Y",
+      "name": "Songs",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "61iejD3qVKQ",
+      "name": "Isn't It Fun",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "y5F1SbnuzqA",
+      "name": "Whats Your Name",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "E1VppYSwREo",
+      "name": "Richard Bum",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "1xsOZF1HlOE",
+      "name": "Duke and Duchess",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "6iVM51myi-o",
+      "name": "What Makes a Savage",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9N_EnCeFb8U",
+      "name": "A bite of bum anyone? Richard E. Grant and Claire Foy guess 1700s slang.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "a2sfPiSQGvc",
+      "name": "Plot Device",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ub-QNhtPMXM",
+      "name": "Coming For Dinner",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "BDdOOpqZ43E",
+      "name": "How To Be A Savage",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "M075LpJF0qk",
+      "name": "What's Your Name",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "WG-CLYZyBUQ",
+      "name": "Acquired Taste",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "dB9HuMcaEGM",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "4VIIZlzqdKE",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 56,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1245859-savage-house/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 2784,
+          "logoPath": "/aaFIYn2NGPCo0rpLiWokbvNqNJd.png",
+          "name": "JustWatch TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1245859-savage-house/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 2784,
+          "logoPath": "/aaFIYn2NGPCo0rpLiWokbvNqNJd.png",
+          "name": "JustWatch TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

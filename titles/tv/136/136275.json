@@ -1,0 +1,372 @@
+{
+  "backdropPath": "/t61baGC7qYl7OYa0YkccaZ7KU7t.jpg",
+  "cast": [
+    {
+      "character": "Jean White",
+      "id": 76900,
+      "name": "Sally Lindsay",
+      "profilePath": "/tDBnkr1zKVydqAjjoA55XKs0hM1.jpg"
+    },
+    {
+      "character": "Dom Hayes",
+      "id": 62973,
+      "name": "Steve Edge",
+      "profilePath": "/hcb1Yh4s9gIXxBhLgbCpNtMnbuS.jpg"
+    },
+    {
+      "character": "Judith Lloyd James",
+      "id": 1212729,
+      "name": "Sue Holderness",
+      "profilePath": "/uTsZJS6ioQA5OTbIDqwOWpGSwFe.jpg"
+    },
+    {
+      "character": "Jeremy Lloyd James",
+      "id": 97171,
+      "name": "Robin Askwith",
+      "profilePath": "/2oAIv6rFEZkkKZJWXtB5AybNHgX.jpg"
+    },
+    {
+      "character": "Caron",
+      "id": 2516698,
+      "name": "Alex Gaumond",
+      "profilePath": "/iX5Y7YRwlUVMdmrXtMS7cEBMe0C.jpg"
+    },
+    {
+      "character": "Gloria",
+      "id": 2048473,
+      "name": "Sue Vincent",
+      "profilePath": "/z8RDgj8ePn1pyGTReFLV8usPrR8.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 162749,
+      "logoPath": null,
+      "name": "Clapperboard Studios"
+    },
+    {
+      "id": 162750,
+      "logoPath": null,
+      "name": "Saffron Cherry Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2021-10-16",
+  "episodes": {
+    "5": [
+      {
+        "airDate": "2026-10-29",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": "/y8LkH4YqCgKF1tSlBrFrYkdM00g.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-05",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-12",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-19",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-26",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-03",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-10",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt15499118",
+    "wikidataId": "Q110264153"
+  },
+  "fetchedAt": 1793591562658,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 136275,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-29",
+    "episodeNumber": 1,
+    "id": 8029135,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 5
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-05",
+    "episodeNumber": 2,
+    "id": 8029146,
+    "name": "Episode 2",
+    "overview": "",
+    "seasonNumber": 5
+  },
+  "originalTitle": "The Madame Blanc Mysteries",
+  "overview": "Jean White is an antiques dealer who runs a successful business with her husband, Rory. But when he suddenly dies and leaves her nearly penniless, Jean relocates to their one remaining asset - a cottage in French antiques hub Saint Victoire - and begins investigating Rory's mysterious death.",
+  "posterPath": "/xq5fDpCoxvKs5kIfuvUZRYj8Ycs.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2021-10-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2021-10-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2021-10-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2021-10-16",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2021-10-16"
+    },
+    "CN": {
+      "tv": "2021-10-16"
+    },
+    "GB": {
+      "tv": "2021-10-16"
+    },
+    "US": {
+      "tv": "2021-10-16"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2021-10-16",
+      "episodeCount": 6,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/llbeZqiPFe9ZqyJQnqZxcNC4CRE.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2022-12-22",
+      "episodeCount": 7,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/orKjlTklXJ6vHRJ8kFdmxQuGVBu.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2023-12-22",
+      "episodeCount": 7,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/bBXaBebIHWPYXR0yLR1CjeFQ0v2.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2024-12-24",
+      "episodeCount": 8,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/xq5fDpCoxvKs5kIfuvUZRYj8Ycs.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2026-10-29",
+      "episodeCount": 7,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Madame Blanc Mysteries",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 29,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 333,
+          "logoPath": "/3qOFvgbW0uVNL8kIIAmWHzs9Oqp.png",
+          "name": "5"
+        }
+      ],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 87,
+          "logoPath": "/3aWmgZsNAqdOt8ClxIFT4pnmHrM.png",
+          "name": "Acorn TV"
+        },
+        {
+          "id": 196,
+          "logoPath": "/7BBOk6Av1TFqWqEhxBYyTJucGuL.png",
+          "name": "AcornTV Amazon Channel"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        },
+        {
+          "id": 2034,
+          "logoPath": "/1MRjoHouZAWsBCdXjjkPWEDtyV0.png",
+          "name": "Acorn TV Apple TV channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/136275-the-madame-blanc-mysteries/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 87,
+          "logoPath": "/3aWmgZsNAqdOt8ClxIFT4pnmHrM.png",
+          "name": "Acorn TV"
+        },
+        {
+          "id": 196,
+          "logoPath": "/7BBOk6Av1TFqWqEhxBYyTJucGuL.png",
+          "name": "AcornTV Amazon Channel"
+        },
+        {
+          "id": 486,
+          "logoPath": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+          "name": "Spectrum On Demand"
+        },
+        {
+          "id": 2034,
+          "logoPath": "/1MRjoHouZAWsBCdXjjkPWEDtyV0.png",
+          "name": "Acorn TV Apple TV channel"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/136275-the-madame-blanc-mysteries/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "backdropPath": "/fgTEyr4hpdEXdsnzZOssqQtipTj.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 5902989,
+      "name": "Mileva Gara Jovanović",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 5902990,
+      "name": "Nada Stanišić",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 129074,
+      "logoPath": "/8OrNTzxy0XvndXGUOAXmmNhTUFR.png",
+      "name": "Filmski centar Crne Gore"
+    },
+    {
+      "id": 120889,
+      "logoPath": "/dPlpryNMVRpcLuQAiqRysrNr11L.png",
+      "name": "Les Films de l’œil sauvage"
+    },
+    {
+      "id": 109449,
+      "logoPath": null,
+      "name": "Cvinger film"
+    }
+  ],
+  "countries": [
+    {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "ME",
+      "name": "Montenegro"
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia"
+    },
+    {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "facebookId": "toholdamountain",
+    "imdbId": "tt39150043",
+    "instagramId": "toholdamountain",
+    "wikidataId": "Q137603653"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1596276,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "sr",
+      "name": "Serbian"
+    }
+  ],
+  "originalTitle": "Planina",
+  "overview": "In the remote highlands of Montenegro, a shepherd mother and daughter proudly defend their ancestral mountain from the threat of becoming a NATO military training ground, stirring memories of the violence that shattered their family.",
+  "posterPath": "/pdfOMNE7uXZ2BRoO0xwDQlwd4U.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-27"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-12-16"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-09-21"
+    },
+    "GB": {
+      "premiere": "2026-10-09",
+      "theatricalLimited": "2026-11-27"
+    },
+    "US": {
+      "premiere": "2026-01-26",
+      "theatricalLimited": "2026-12-16"
+    }
+  },
+  "runtime": 105,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-12-16",
+  "title": "To Hold a Mountain",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "oPQB9MTE0Rs",
+      "name": "Meet the Artist 2026: Biljana Tutorov & Petar Glomazić on “To Hold a Mountain”",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

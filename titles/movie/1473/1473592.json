@@ -1,0 +1,212 @@
+{
+  "backdropPath": "/5kDRI77Lqb5PD8ZApAgQVLHQVNj.jpg",
+  "cast": [
+    {
+      "character": "Vicky",
+      "id": 225446,
+      "name": "Jodi Sta. Maria",
+      "profilePath": "/kpywR0uNgzNeHrsrWMfPTRqRz2W.jpg"
+    },
+    {
+      "character": "Paris",
+      "id": 1891655,
+      "name": "Sanya Lopez",
+      "profilePath": "/fTVkMYqj5fAmSr6KdZkcOSwXNWj.jpg"
+    },
+    {
+      "character": "Saki",
+      "id": 1256277,
+      "name": "Jane Oineza",
+      "profilePath": "/sad3NYQdfYlP4L8WpKDfkbTcbox.jpg"
+    },
+    {
+      "character": "Wanna",
+      "id": 1942257,
+      "name": "Loisa Andalio",
+      "profilePath": "/mchVbtJUUYiFm1vjwMXA6hzeLHe.jpg"
+    },
+    {
+      "character": "Mama Charry",
+      "id": 142964,
+      "name": "Carmi Martin",
+      "profilePath": "/c9AvauzO0dvnRvcOmSYCTbBq0SU.jpg"
+    },
+    {
+      "character": "Virgie",
+      "id": 1092051,
+      "name": "Shamaine Buencamino",
+      "profilePath": "/azNT9bphgxVw5FGd8DeXIgJ875I.jpg"
+    },
+    {
+      "character": "Patrick",
+      "id": 550401,
+      "name": "Zaijian Jaranilla",
+      "profilePath": "/sUqLbIm7c6MXtA5CHet6sNLYBoP.jpg"
+    },
+    {
+      "character": "Shirley",
+      "id": 140422,
+      "name": "Meryll Soriano",
+      "profilePath": "/ymxTLHfJFAEWbx5Xy59xr4C9WHY.jpg"
+    },
+    {
+      "character": "Danny",
+      "id": 2765789,
+      "name": "Miggy Jimenez",
+      "profilePath": "/rK85OW9tilzcnxBveuciXMgeY0Y.jpg"
+    },
+    {
+      "character": "Genji",
+      "id": 3383329,
+      "name": "Genki Ito",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 291658,
+      "logoPath": null,
+      "name": "TJAV Production"
+    }
+  ],
+  "countries": [
+    {
+      "code": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "digitalDate": "2026-10-01",
+  "externalIds": {
+    "imdbId": "tt40553620",
+    "wikidataId": "Q139793793"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1473592,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "tl",
+      "name": "Tagalog"
+    },
+    {
+      "code": "ja",
+      "name": "Japanese"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Midnight Girls",
+  "overview": "Set in Nagoya, Japan, four Filipina entertainers form a sisterhood while facing the emotional cost of their jobs. Together, they must decide what they are truly willing to sacrifice for their dreams in a foreign land.",
+  "posterPath": "/fWVve8IToTcD2mL3KHXFfMqfpm3.jpg",
+  "rating": 8.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-10-01"
+    },
+    "US": {
+      "digital": "2026-10-01"
+    }
+  },
+  "runtime": 104,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Midnight Girls",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "p2ZN2mSaGVE",
+      "name": "Midnight Girls (2026) Official Teaser - Sanya Lopez, Loisa Andalio, Jane Oineza & Jodi Sta. Maria",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1473592-midnight-girls/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1473592-midnight-girls/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1473592-midnight-girls/watch?locale=US",
+      "rent": []
+    }
+  }
+}

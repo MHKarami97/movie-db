@@ -1,0 +1,229 @@
+{
+  "backdropPath": "/gh09wWdh6dIA1clZYFrMjXAB0lY.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 105662,
+      "logoPath": null,
+      "name": "mobyDOK"
+    },
+    {
+      "id": 587,
+      "logoPath": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE"
+    },
+    {
+      "id": 162,
+      "logoPath": "/pIK5tsFVxjoXTJGcd0nYhiL1kn1.png",
+      "name": "BR"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": "2021-09-04",
+  "externalIds": {
+    "imdbId": "tt15415042",
+    "wikidataId": "Q108102588"
+  },
+  "fetchedAt": 1794337910228,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 127616,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-11-07",
+    "episodeNumber": 223,
+    "id": 7953078,
+    "name": "Episode 223",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "42 - Die Antwort auf fast alles",
+  "overview": "What would we be without mucus? Can we live on water? How much does life weigh? Finding out the answers is the aim of ARTE's new science show. In a nod to Douglas Adams's \"Hitchhiker's Guide to the Galaxy\", where the figure 42 is the ultimate answer to all questions, 42 tries to provide the answers.",
+  "posterPath": "/tU6TbNztkTXyH69qT6QKxKRUCEX.jpg",
+  "rating": 9.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2021-09-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2021-09-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2021-09-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2021-09-04",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2021-09-04"
+    },
+    "CN": {
+      "tv": "2021-09-04"
+    },
+    "GB": {
+      "tv": "2021-09-04"
+    },
+    "US": {
+      "tv": "2021-09-04"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2021-09-04",
+      "episodeCount": 223,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/Em5WwXqFzzzFbyBAvRwNF2a01b.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "42: The Answer to Almost Everything",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 190,
+          "logoPath": "/oPrhlrmvdq8QDWVXgHLAZz8B2Of.png",
+          "name": "Curiosity Stream"
+        },
+        {
+          "id": 603,
+          "logoPath": "/lD5GM2RVquDG85ybCswioL1MXHU.png",
+          "name": "CuriosityStream Amazon Channel"
+        },
+        {
+          "id": 2060,
+          "logoPath": "/sDEg0lTuj2Z2X14yIquwAdv7KuL.png",
+          "name": "CuriosityStream Apple TV channel"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/127616-42-die-antwort-auf-fast-alles/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 190,
+          "logoPath": "/oPrhlrmvdq8QDWVXgHLAZz8B2Of.png",
+          "name": "Curiosity Stream"
+        },
+        {
+          "id": 2060,
+          "logoPath": "/sDEg0lTuj2Z2X14yIquwAdv7KuL.png",
+          "name": "CuriosityStream Apple TV channel"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        },
+        {
+          "id": 603,
+          "logoPath": "/lD5GM2RVquDG85ybCswioL1MXHU.png",
+          "name": "CuriosityStream Amazon Channel"
+        }
+      ],
+      "free": [
+        {
+          "id": 1972,
+          "logoPath": "/dJsyipsIt597fzdXUlr5sDifNRa.png",
+          "name": "myfilmfriend"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/127616-42-die-antwort-auf-fast-alles/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "backdropPath": "/bSZniMQ6vWVLnCGEEHr99rQOTAj.jpg",
+  "cast": [
+    {
+      "character": "Robert 'Rob' Cole",
+      "id": 30319,
+      "name": "Tom Payne",
+      "profilePath": "/dvQk9ewR7EuUEVuYANg3AmYsGo2.jpg"
+    },
+    {
+      "character": "Mercia",
+      "id": 144344,
+      "name": "Emily Cox",
+      "profilePath": "/vuCvqZKsfoAJSBwThbfGGbPROgv.jpg"
+    },
+    {
+      "character": "Ilene",
+      "id": 2478742,
+      "name": "Áine Rose Daly",
+      "profilePath": "/iSoBKcXH1H18eBvT2tsr2kuyzJs.jpg"
+    },
+    {
+      "character": "Godwin",
+      "id": 58654,
+      "name": "Owen Teale",
+      "profilePath": "/fEr21q41i2e92wqKdoxeFdbDZva.jpg"
+    },
+    {
+      "character": "Rebecca",
+      "id": 1078568,
+      "name": "Emma Rigby",
+      "profilePath": "/yAdP1Cpm9czZekUSoyjj7kIfoeZ.jpg"
+    },
+    {
+      "character": "Canute",
+      "id": 15498,
+      "name": "Liam Cunningham",
+      "profilePath": "/y27shwpEYGq4vhdEajcmqucuq9x.jpg"
+    },
+    {
+      "character": "Hunne",
+      "id": 49735,
+      "name": "Aidan Gillen",
+      "profilePath": "/fWWRgyJEGjOPcx43CaFiUCWMBLo.jpg"
+    },
+    {
+      "character": "Abu",
+      "id": 3160120,
+      "name": "Malick Bauer",
+      "profilePath": "/qKykkkOviKwEq0jgMImWTXH5PjK.jpg"
+    },
+    {
+      "character": "Izak",
+      "id": 4791733,
+      "name": "Jaouhar Ben Ayed",
+      "profilePath": "/1lCJXXPXRxKvH9PTZf8T1yIfTF7.jpg"
+    },
+    {
+      "character": "Duff",
+      "id": 3671174,
+      "name": "Harry Redding",
+      "profilePath": "/eeiA2SSxicCyclq2zWpbhzrcFQe.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 35389,
+      "logoPath": "/nX4hlwsvFV7IhhpKKj0yf3PgkG7.png",
+      "name": "Zeitsprung Pictures"
+    },
+    {
+      "id": 24307,
+      "logoPath": "/xJo66MG6C99FeO81ddXVswjEmSB.png",
+      "name": "UFA Fiction"
+    },
+    {
+      "id": 1080,
+      "logoPath": "/6bZ0BiLDzCZSqVCjiSqweWwp9Ew.png",
+      "name": "Beta Film"
+    },
+    {
+      "id": 47,
+      "logoPath": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+      "name": "Constantin Film"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt32793488",
+    "wikidataId": "Q126963769"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1219548,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Der Medicus II",
+  "overview": "1050 AD: Robert Cole returns to England to bring the medical light of the Orient to his countrymen. But he fails because of the intrigues of the established London doctors, who feel threatened by the new knowledge. And it is not only the human body that is full of seemingly impenetrable secrets, the soul also holds its own mysteries.",
+  "posterPath": "/yU6ybmt1CSdkVBTJJsRYz5xnB4q.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 142,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Physician II",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "UooqeU0Bns8",
+      "name": "Trailer [English]",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "nOtRYEqYE1k",
+      "name": "Der Medicus 2 | Offizieller Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 55,
+  "watchProviders": {}
+}

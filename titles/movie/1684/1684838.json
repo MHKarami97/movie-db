@@ -1,0 +1,108 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 117001,
+      "logoPath": "/tLhSGNNKX4VwCNbvPMissO3ea5j.png",
+      "name": "Babylon'13"
+    },
+    {
+      "id": 119365,
+      "logoPath": "/el0nrZZ9DCeM21lg9PIKzo5ksbI.png",
+      "name": "Trimafilm"
+    },
+    {
+      "id": 154771,
+      "logoPath": "/q51QupN45uHpJ3JR1hKt89BDe8B.png",
+      "name": "Suspilne Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "UA",
+      "name": "Ukraine"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt42204128"
+  },
+  "fetchedAt": 1793554197690,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1684838,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ru",
+      "name": "Russian"
+    },
+    {
+      "code": "uk",
+      "name": "Ukrainian"
+    }
+  ],
+  "originalTitle": "Машина часу Майдан",
+  "overview": "In this haunting and visually inventive documentary, a spectral voice drifts through time and memory to trace the Maidan revolution and the roots of resistance in Ukraine.",
+  "posterPath": "/hrOpAW4on2jyc003BtZijx4IEEx.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-06-11"
+    }
+  },
+  "runtime": 86,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Time Machine Maidan",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "zVi4gTP8Pw8",
+      "name": "Time Machine Maidan | 2026 | International Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

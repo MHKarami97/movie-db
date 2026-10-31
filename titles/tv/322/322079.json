@@ -1,0 +1,178 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Alex Holland",
+      "id": 151680,
+      "name": "Jay Ellis",
+      "profilePath": "/78JH7CfMrWrI3Vx2XLbx0GW4c2X.jpg"
+    },
+    {
+      "character": "Sgt. Nix",
+      "id": 1293892,
+      "name": "Chris Sullivan",
+      "profilePath": "/gKZ9xSFrDzUPv27iAkMpH6Qf0Sk.jpg"
+    },
+    {
+      "character": "Odell Chance",
+      "id": 1798797,
+      "name": "Froy Gutierrez",
+      "profilePath": "/8sCm6Jl8jDUwRBin6k7CIFIm0yg.jpg"
+    },
+    {
+      "character": "Charlotte Dru",
+      "id": 90755,
+      "name": "Janet Montgomery",
+      "profilePath": "/jn9tU6mAAkdtjgw2JPlS2vFG1jM.jpg"
+    },
+    {
+      "character": "Leah Mizuno",
+      "id": 1461608,
+      "name": "Karen Fukuhara",
+      "profilePath": "/sG6CWLdENCtzukNFkFYyPxqyRmS.jpg"
+    },
+    {
+      "character": "Elora Howe",
+      "id": 2416450,
+      "name": "Mya Lowe",
+      "profilePath": "/ajWvs8AxyXzv0giYf1XQiXNYsrU.jpg"
+    },
+    {
+      "character": "Mark Lewis",
+      "id": 5166492,
+      "name": "Malik Watson",
+      "profilePath": "/gV120vz6bcJPU7ndvsQPXcaLIfz.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 28523,
+      "logoPath": "/zzULw9w7d50BHR8fE30PZT3zJ1D.png",
+      "name": "Lionsgate Television"
+    },
+    {
+      "id": 236166,
+      "logoPath": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television"
+    },
+    {
+      "id": 195749,
+      "logoPath": null,
+      "name": "Perfectman Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2027-01-06",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-06",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt39027207",
+    "instagramId": "rookienorthabc",
+    "twitterId": "therookienorth"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 322079,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-06",
+    "episodeNumber": 1,
+    "id": 7253931,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "The Rookie: North",
+  "overview": "After a violent home invasion ignites a dormant purpose, Alex Holland battles a lifetime of failed commitments by joining the Pierce County Police Department as a rookie. Policing from the urban coast to the rural forest where backup isn't just five minutes away, Alex must prove to his skeptical training officer, his fellow rookies and himself that he's finally found something worthy of the fight.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-06",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-06"
+    },
+    "CN": {
+      "tv": "2027-01-06"
+    },
+    "GB": {
+      "tv": "2027-01-06"
+    },
+    "US": {
+      "tv": "2027-01-06"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-06",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Rookie: North",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

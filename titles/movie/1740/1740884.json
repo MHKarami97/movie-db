@@ -1,0 +1,163 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Andrés",
+      "id": 17007,
+      "name": "Roger Casamajor",
+      "profilePath": "/1UQozr5Y4C9HlFAWvsjsLPvThLF.jpg"
+    },
+    {
+      "character": "Lucía",
+      "id": 1423493,
+      "name": "Belén Cuesta",
+      "profilePath": "/caDd0J8smaQMvVjgJsDYabe4dzk.jpg"
+    },
+    {
+      "character": "",
+      "id": 1405756,
+      "name": "Font García",
+      "profilePath": "/jwbEgtWzfk2HZh5engqB9iOkucQ.jpg"
+    },
+    {
+      "character": "",
+      "id": 79288,
+      "name": "Ruth Díaz",
+      "profilePath": "/pl0BNxkhS6VeybrXFU4o0FeHCN8.jpg"
+    },
+    {
+      "character": "",
+      "id": 1110426,
+      "name": "Juanfra Juárez",
+      "profilePath": "/zh2KKedxqkzSHt2V7EvR9B6xY7S.jpg"
+    },
+    {
+      "character": "",
+      "id": 4578129,
+      "name": "Abraham Montufo",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 2411224,
+      "name": "Gerardo de Pablos",
+      "profilePath": "/zL9izyd2JItL90cugV9BxSgPJG7.jpg"
+    },
+    {
+      "character": "",
+      "id": 1456142,
+      "name": "Nidia Bermejo",
+      "profilePath": "/qWei7A7Xn1qievC4ii2ul5CSdUy.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 37261,
+      "logoPath": "/xEw7IBnEPrgSILLNtnZPU3Y5oJy.png",
+      "name": "Lanube Películas"
+    },
+    {
+      "id": 246607,
+      "logoPath": "/oYKOJecKAu9LU0iXCByWmQeY1qu.png",
+      "name": "Ayuntamiento de Madrid"
+    },
+    {
+      "id": 6878,
+      "logoPath": "/fIfZV1HuiG27Ijk6apChuyoUMTf.png",
+      "name": "Canal Sur"
+    },
+    {
+      "id": 107262,
+      "logoPath": "/1zigukoYBEqJfsEl6fVhmamXXX9.png",
+      "name": "Crea SGR"
+    },
+    {
+      "id": 10814,
+      "logoPath": "/eedxWwEEHmcLJfyFJPuigu170DU.png",
+      "name": "Icónica"
+    },
+    {
+      "id": 201633,
+      "logoPath": "/6Ox2aOmqNP6vEmlh02fqygwOkeE.png",
+      "name": "Instituto de la Cinematografía y de las Artes Audiovisuales"
+    },
+    {
+      "id": 134632,
+      "logoPath": null,
+      "name": "Junta de Andalucía"
+    },
+    {
+      "id": 69195,
+      "logoPath": "/rj6lobWkUT2i5WbpKhUqz9uQ0ak.png",
+      "name": "Vértigo Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    },
+    {
+      "code": "PE",
+      "name": "Peru"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt16115226"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1740884,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Un hombre en un puente",
+  "overview": "Andrés, a middle-aged man, is going through a life crisis accentuated by his professional failure. After being homeless and being forced to sleep in his car, he returns to his hometown after many years. Between reunions with past loves, friendships from adolescence and unresolved family conflicts, Andrés hides his reality while looking for a refuge from which to remake his life.",
+  "posterPath": "/wkSaw5nAURqcBHmJ538BiMtpvye.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 116,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "A Man on a Bridge",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

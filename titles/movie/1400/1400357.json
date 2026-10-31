@@ -1,0 +1,340 @@
+{
+  "backdropPath": "/saEkWul1fGNixEug2w6RtOmTws2.jpg",
+  "cast": [
+    {
+      "character": "Lori Butler",
+      "id": 1368012,
+      "name": "Michaela Coel",
+      "profilePath": "/rbN1F0R8DMUh6IYwl0owyD8LukN.jpg"
+    },
+    {
+      "character": "Julian Sklar",
+      "id": 1327,
+      "name": "Ian McKellen",
+      "profilePath": "/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+    },
+    {
+      "character": "Sally Sklar",
+      "id": 1196101,
+      "name": "Jessica Gunning",
+      "profilePath": "/c4nC6usiZdRlw4VkOcHFLXtrPa0.jpg"
+    },
+    {
+      "character": "Barnaby Sklar",
+      "id": 55466,
+      "name": "James Corden",
+      "profilePath": "/xGB0gfZ48M27gQjjL7inJIh1Pqj.jpg"
+    },
+    {
+      "character": "Owen Appleton",
+      "id": 1828839,
+      "name": "Ferdy Roberts",
+      "profilePath": "/3ZpPLbAXHBjUx77nsUGdi2qAmxr.jpg"
+    },
+    {
+      "character": "Esme",
+      "id": 4320071,
+      "name": "Tilly Botsford",
+      "profilePath": "/68j7R9sjaFnxYKqIcjkBqTCDASQ.jpg"
+    },
+    {
+      "character": "Lori's Flatmate #1",
+      "id": 2441422,
+      "name": "Lucy McCormick",
+      "profilePath": "/2jGJiq75Vn9uTPypUDgKJdv9hO5.jpg"
+    },
+    {
+      "character": "Lori's Flatmate #2",
+      "id": 3781746,
+      "name": "Le Fil",
+      "profilePath": "/6QDVG8bw6tovVu5c2qbT1dSuPIW.jpg"
+    },
+    {
+      "character": "Locksmith",
+      "id": 1525322,
+      "name": "Daniel Fearn",
+      "profilePath": "/u7qWojSsrVrVEDNEJziRj1FiFOu.jpg"
+    },
+    {
+      "character": "Food Truck Patron",
+      "id": 6135254,
+      "name": "Dmitri Prokopiev",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 240139,
+      "logoPath": null,
+      "name": "Department M"
+    },
+    {
+      "id": 273562,
+      "logoPath": null,
+      "name": "Butler & Sklar Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-05-12",
+  "externalIds": {
+    "imdbId": "tt34966562",
+    "wikidataId": "Q132646719"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1400357,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "The Christophers",
+  "overview": "The estranged children of a once-famous artist hire a forger to complete his unfinished works so they can be \"discovered\" and sold after his death.",
+  "posterPath": "/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-15"
+    },
+    "US": {
+      "digitalDate": "2026-05-12",
+      "gapDays": 32,
+      "theatricalDate": "2026-04-10"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-05-15"
+    },
+    "US": {
+      "digital": "2026-05-12",
+      "premiere": "2026-03-22",
+      "theatricalLimited": "2026-04-10"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Art can be copied. Artists cannot.",
+  "theatricalDate": "2026-04-10",
+  "title": "The Christophers",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "OVGlhiAlMqw",
+      "name": "THE CHRISTOPHERS | Membership Moments with Kia",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "d7bhC9PICEs",
+      "name": "Ian McKellen Interview",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "lO-Q7ay3bAk",
+      "name": "Ian McKellen on THE CHRISTOPHERS and the meaning of art",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "42GkXhRVLUQ",
+      "name": "Official UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "EIcRitwI8ps",
+      "name": "UK Premiere |  Red Carpet Interviews",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "iOWnbXDJ6YM",
+      "name": "Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "YlS-YyDLc2Q",
+      "name": "Ian McKellen and Ed Solomon on The Christophers",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "m2d1x7VuDmo",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 86,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1400357-the-christophers/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        },
+        {
+          "id": 224,
+          "logoPath": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+          "name": "BFI Player"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1400357-the-christophers/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

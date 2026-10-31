@@ -1,0 +1,139 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 25648,
+      "name": "Yuya Yagira",
+      "profilePath": "/7gk7OBP0r51M897sRZseU7n3OMm.jpg"
+    },
+    {
+      "character": "",
+      "id": 2109360,
+      "name": "Nana Mori",
+      "profilePath": "/92cSvqzUVbancmqFmtfgdIVBh6s.jpg"
+    },
+    {
+      "character": "",
+      "id": 552575,
+      "name": "Kotaro Yoshida",
+      "profilePath": "/uu27aDu5iCBHiJ3GFtOGWm9FBTP.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1393,
+      "logoPath": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+      "name": "TBS"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2027-01-03",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-03",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "instagramId": "mrmystery_tbs",
+    "twitterId": "mrmystery_tbs"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 339776,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-03",
+    "episodeNumber": 1,
+    "id": 8000320,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Mr.MYSTERY?",
+  "overview": "A victim-support officer solves mysteries by empathizing with people rather than suspecting them, even though each episode reveals the culprit from the start.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-03"
+    },
+    "CN": {
+      "tv": "2027-01-03"
+    },
+    "GB": {
+      "tv": "2027-01-03"
+    },
+    "US": {
+      "tv": "2027-01-03"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-03",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Mr.MYSTERY?",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

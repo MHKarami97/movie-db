@@ -1,0 +1,348 @@
+{
+  "backdropPath": "/2GlkdaHtxORqWfPccv2YLDoLxMb.jpg",
+  "cast": [
+    {
+      "character": "Calvin Butler",
+      "id": 5726,
+      "name": "Cedric the Entertainer",
+      "profilePath": "/s6UrY5uofyxXsU5PydWBoLFReK0.jpg"
+    },
+    {
+      "character": "Dave Johnson",
+      "id": 1213603,
+      "name": "Max Greenfield",
+      "profilePath": "/79w2mSZT8JwYv5ZwjJMDYQbzptE.jpg"
+    },
+    {
+      "character": "Tina Butler",
+      "id": 83600,
+      "name": "Tichina Arnold",
+      "profilePath": "/fJ8fFwwL0Z7BNFaaWQA1FZOZyzc.jpg"
+    },
+    {
+      "character": "Gemma Johnson",
+      "id": 482044,
+      "name": "Beth Behrs",
+      "profilePath": "/ruiarln4ZdBXgtE5ACgiByrYv7N.jpg"
+    },
+    {
+      "character": "Malcolm Butler",
+      "id": 108693,
+      "name": "Sheaun McKinney",
+      "profilePath": "/6OhYEN5O1RSeYfGVc73yZTXUqE6.jpg"
+    },
+    {
+      "character": "Marty Butler",
+      "id": 1817200,
+      "name": "Marcel Spears",
+      "profilePath": "/2Yc6QzCvEKAmfzHSK06WFAd4Rfl.jpg"
+    },
+    {
+      "character": "Courtney",
+      "id": 1602502,
+      "name": "Skye Townsend",
+      "profilePath": "/tAY1GwHSiXv9O7bY6CqlAPm3JjW.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 33432,
+      "logoPath": "/spGFdO7ucwRq75zM2eXPJPzW1qW.png",
+      "name": "Kapital Entertainment"
+    },
+    {
+      "id": 107401,
+      "logoPath": null,
+      "name": "Trill Television"
+    },
+    {
+      "id": 4342,
+      "logoPath": null,
+      "name": "A Bird and a Bear Entertainment"
+    },
+    {
+      "id": 1081,
+      "logoPath": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2018-10-01",
+  "externalIds": {
+    "facebookId": "TheNeighborhoodCBS",
+    "imdbId": "tt7942794",
+    "instagramId": "theneighborhood",
+    "twitterId": "TheNeighborhood",
+    "wikidataId": "Q7753382"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 81144,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-05-11",
+    "episodeNumber": 20,
+    "id": 7095287,
+    "name": "Welcome to Goodbye",
+    "overview": "Two joyful wedding celebrations bring loved ones together while old tensions and heartfelt confessions surface one last time. Meanwhile, tough goodbyes loom and the family looks ahead to a new chapter shaped by love, growth and change.",
+    "seasonNumber": 8
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "The Neighborhood",
+  "overview": "The nicest guy in the Midwest moves his family into a tough neighborhood in Los Angeles where not everyone appreciates his extreme neighborliness. That includes their new next-door neighbor Calvin.",
+  "posterPath": "/uItUViUsFAY7wzufTS2zWNbuuAm.jpg",
+  "rating": 7.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2018-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2018-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2018-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2018-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2018-10-01"
+    },
+    "CN": {
+      "tv": "2018-10-01"
+    },
+    "GB": {
+      "tv": "2018-10-01"
+    },
+    "US": {
+      "tv": "2018-10-01"
+    }
+  },
+  "runtime": 22,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2018-09-30",
+      "episodeCount": 21,
+      "name": "Season 1",
+      "overview": "The first season follows Dave Johnson, an optimistic, \"nicest guy in the Midwest,\" who relocates his family from Michigan to a predominantly Black neighborhood in Pasadena, California. His immediate neighbors are the Butlers, whose opinionated patriarch Calvin initially rejects Dave's overwhelming neighborliness, fearing it will disrupt the block's culture.",
+      "posterPath": "/tTkBTNObklICocsg0pDm6fMqz5O.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2019-09-22",
+      "episodeCount": 22,
+      "name": "Season 2",
+      "overview": "In the second season of the hit CBS sitcom The Neighborhood, optimistic Midwesterner Dave Johnson pushes to strengthen his unlikely friendship with his opinionated neighbor, Calvin Butler. While the two families continue to bond, Dave realizes they still have unwritten boundaries to navigate. The season focuses on career moves, relationship dynamics, and community growth.",
+      "posterPath": "/jmZiHosuU6kExlCQ53DR1nSew0J.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2020-11-15",
+      "episodeCount": 18,
+      "name": "Season 3",
+      "overview": "The Butler and Johnson families navigate major life changes, including both comedic antics and serious real-world issues. The season opens by addressing systemic racism and the Black Lives Matter movement, while also following Malcolm and Marty moving into their own place, marriage pressures, and Calvin's health milestones.",
+      "posterPath": "/hEBaGarC4OZkkGNj5Je7TfgRK3Q.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2021-09-19",
+      "episodeCount": 22,
+      "name": "Season 4",
+      "overview": "The season kicks off with Dave discovering through a genealogy test that he and Calvin share a common ancestor. Throughout the season, Gemma tackles her pregnancy, Tina launches a new baking business, and Calvin's sons pursue new romantic and professional milestones.",
+      "posterPath": "/lO4tP5y1iwCSWeeetcJhiRzn9C8.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2022-09-19",
+      "episodeCount": 22,
+      "name": "Season 5",
+      "overview": "The Johnson and Butler families as they navigate major life transitions, career shifts, and personal growth. The heartwarming sitcom continues to explore themes of community, family, and unexpected friendship.",
+      "posterPath": "/uItUViUsFAY7wzufTS2zWNbuuAm.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2024-02-12",
+      "episodeCount": 10,
+      "name": "Season 6",
+      "overview": "Key storylines include Marty and Calvin opening a joint electric vehicle repair shop, Marty becoming a new father, and Malcolm tackling new ambitions, all while maintaining the show's signature comedic cultural clashes.",
+      "posterPath": "/gePQR92xGSKZh7ojAIiHyNP34nb.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2024-10-21",
+      "episodeCount": 20,
+      "name": "Season 7",
+      "overview": "The Johnsons and Butlers navigate major family milestones. Marty and Courtney adjust to life as new parents to baby Daphne, leading to relatable comedic moments. Meanwhile, Malcolm pursues new life decisions, and Grover prepares to make the leap into high school.",
+      "posterPath": "/4TbHP1IxGWsjhkNwd1OAERR2hXD.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2025-10-13",
+      "episodeCount": 20,
+      "name": "Season 8",
+      "overview": "The eighth and final season centers on the Butler and Johnson families navigating major life changes. After being fired for teaching AI to do his own V.A. conflict-resolution job, Dave explores unexpected hobbies like pickling and training machines before embarking on a new career path. Marty advances his relationship with Courtney and begins searching for a nanny, while Malcolm’s writing career takes off and leads to a romantic entanglement with a reality TV star. Tina discovers a new passion while Calvin manages his expanding local business, Westside Fuse Box, facing permit delays. Dave and Gemma make the major decision to pack up and move back to Michigan, forcing Calvin to finally accept that the Johnsons are truly family.",
+      "posterPath": "/fjMoQeMGmXZvWI817IsPsYp4oZN.jpg",
+      "seasonNumber": 8
+    }
+  ],
+  "status": "Ended",
+  "tagline": "It pays to be nice.",
+  "theatricalDate": null,
+  "title": "The Neighborhood",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "M1COucIcYhU",
+      "name": "First Look At The Neighborhood on CBS",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 187,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1750,
+          "logoPath": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+          "name": "TOD"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/81144-the-neighborhood/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/81144-the-neighborhood/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2303,
+          "logoPath": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "id": 2616,
+          "logoPath": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+          "name": "Paramount Plus Essential"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1853,
+          "logoPath": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+          "name": "Paramount Plus Apple TV channel"
+        },
+        {
+          "id": 582,
+          "logoPath": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        },
+        {
+          "id": 2528,
+          "logoPath": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+          "name": "YouTube TV"
+        },
+        {
+          "id": 633,
+          "logoPath": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+          "name": "Paramount+ Roku Premium Channel"
+        }
+      ],
+      "free": [
+        {
+          "id": 2616,
+          "logoPath": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+          "name": "Paramount Plus Essential"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/81144-the-neighborhood/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "backdropPath": "/QNE9Ihuas4duMHJYGQgAcuRtXz.jpg",
+  "cast": [
+    {
+      "character": "Clark",
+      "id": 5294,
+      "name": "Chiwetel Ejiofor",
+      "profilePath": "/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+    },
+    {
+      "character": "Mary",
+      "id": 1576786,
+      "name": "Renate Reinsve",
+      "profilePath": "/q0ljTd4fyFSJKxPgmcrKtdg3HKo.jpg"
+    },
+    {
+      "character": "Bobby",
+      "id": 1512452,
+      "name": "Finn Bennett",
+      "profilePath": "/p4ya77nmLlhS2cyPKUZi9zVD4Mu.jpg"
+    },
+    {
+      "character": "Kat",
+      "id": 1709431,
+      "name": "Lukita Maxwell",
+      "profilePath": "/g5g6XxUAtSdPfsJrSoFkl7vH51d.jpg"
+    },
+    {
+      "character": "Phil",
+      "id": 45407,
+      "name": "Mark Duplass",
+      "profilePath": "/lRDf99rAfcdqt8Cqk4LsIT7XSD2.jpg"
+    },
+    {
+      "character": "Naren Warne",
+      "id": 212934,
+      "name": "Avan Jogia",
+      "profilePath": "/7BX0Lg39bHlgtvWZpszTr1YjTAW.jpg"
+    },
+    {
+      "character": "Pirate Clark",
+      "id": 4848549,
+      "name": "Robert Bobroczkyi",
+      "profilePath": "/3SK7NuuBKR5PSJwsQ7HO4qHIM9C.jpg"
+    },
+    {
+      "character": "Young Mary",
+      "id": 5725467,
+      "name": "Ember Ambrose",
+      "profilePath": "/w7h6l4ltuWaMYanGgzwyhAHGL2y.jpg"
+    },
+    {
+      "character": "Nora",
+      "id": 72482,
+      "name": "Krista Kosonen",
+      "profilePath": "/7iW2mxbxBgV5sX2y0fSY78lewW4.jpg"
+    },
+    {
+      "character": "Meterman",
+      "id": 64670,
+      "name": "Philip Granger",
+      "profilePath": "/bkrnrtSiUnumWVpAOy5QDcOePiA.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 76907,
+      "logoPath": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+      "name": "Atomic Monster"
+    },
+    {
+      "id": 2575,
+      "logoPath": "/9YJrHYlcfHtwtulkFMAies3aFEl.png",
+      "name": "21 Laps Entertainment"
+    },
+    {
+      "id": 41077,
+      "logoPath": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24"
+    },
+    {
+      "id": 262307,
+      "logoPath": "/Yt9QqQjZzvdZCRLN5vGoi3dc8n.png",
+      "name": "Phobos"
+    },
+    {
+      "id": 251729,
+      "logoPath": "/lKT1JrDNMwC9M3HvQQCofbiYtRr.png",
+      "name": "The North Road Company"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2026-07-14",
+  "externalIds": {
+    "facebookId": "backroomsmovie",
+    "imdbId": "tt26657236",
+    "instagramId": "backroomsmovie",
+    "twitterId": "BackroomsMov",
+    "wikidataId": "Q125131076"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 46,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "id": 1083381,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ja",
+      "name": "Japanese"
+    },
+    {
+      "code": "pl",
+      "name": "Polish"
+    }
+  ],
+  "originalTitle": "Backrooms",
+  "overview": "A strange doorway appears in the basement of a furniture showroom.",
+  "posterPath": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-28"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-06-26"
+    },
+    "GB": {
+      "digitalDate": "2026-07-14",
+      "gapDays": 46,
+      "theatricalDate": "2026-05-29"
+    },
+    "US": {
+      "digitalDate": "2026-07-14",
+      "gapDays": 46,
+      "theatricalDate": "2026-05-29"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-05-28"
+    },
+    "CN": {
+      "theatrical": "2026-06-26"
+    },
+    "GB": {
+      "digital": "2026-07-14",
+      "theatrical": "2026-05-29"
+    },
+    "US": {
+      "digital": "2026-07-14",
+      "premiere": "2026-05-07",
+      "theatrical": "2026-05-29",
+      "tv": "2026-09-26"
+    }
+  },
+  "runtime": 111,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "See how far it goes.",
+  "theatricalDate": "2026-05-29",
+  "title": "Backrooms",
+  "translations": {
+    "faTitle": "اتاق‌های پشتی"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "QABNqODtTvk",
+      "name": "Chiwetel Ejiofor and director Kane Parsons on the evolution of Backrooms | BFI Q&A",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Sod7N3bTjpM",
+      "name": "Behind the Scenes",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "raY5KwoU21o",
+      "name": "Behind the Scenes",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "LqlGjBjCsws",
+      "name": "1 Hour of Backrooms Ambience",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "5C-zBIuvGnU",
+      "name": "Official Promo",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "AQmFkjN_eIU",
+      "name": "Curzon Soho visitors had a *lot* to say about BACKROOMS on opening night",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Pb8KqfkLe24",
+      "name": "Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "OXOQ-bV1u-A",
+      "name": "Bringing Backrooms To Reality With Director Kane Parsons",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "AUuvFIP6QF0",
+      "name": "Are You Staying Still or Exploring the Backrooms?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "VNjMLkzLxTo",
+      "name": "The Cast Maps the Backrooms Set",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "2z6a6NUFlsU",
+      "name": "Official Promo",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "jGnhVhBuu74",
+      "name": "Instupendo - Live From The Backrooms",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "A4eGlqRk_HA",
+      "name": "Kane Parsons & James Wan - Origins of the Backrooms - The A24 Podcast",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Bm__0kg1g_U",
+      "name": "Kane Parsons & James Wan - What's Scary About the Backrooms - The A24 Podcast",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "0HjdiohVOik",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "tKGhxMi50y8",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 3946,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 629,
+          "logoPath": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+          "name": "OSN+"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1083381-backrooms/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1083381-backrooms/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1083381-backrooms/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

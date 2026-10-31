@@ -1,0 +1,159 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Lee Joon Pyeong",
+      "id": 1250842,
+      "name": "Lee Seung-gi",
+      "profilePath": "/urz7CEh9rpC9GFqh5ht8R65dY9w.jpg"
+    },
+    {
+      "character": "Jo In Chang",
+      "id": 1253391,
+      "name": "Ji Chang-wook",
+      "profilePath": "/sBmHrO5Tn27Ot5hy0yAKniROmNb.jpg"
+    },
+    {
+      "character": "Kang Bong Rae",
+      "id": 138336,
+      "name": "Cho Jin-woong",
+      "profilePath": "/r3o7eKsqVCQu0ppIY88d16VLCsj.jpg"
+    },
+    {
+      "character": "Jeon Yoo Kyung",
+      "id": 1252339,
+      "name": "Ham Eun-jung",
+      "profilePath": "/5sra4rsKJknm3ov7NG94PCd1ciC.jpg"
+    },
+    {
+      "character": "Choi Ji Young",
+      "id": 1623728,
+      "name": "Uhm Hyun-kyung",
+      "profilePath": "/ekBPnpmP8nN2XMpujoC3A4SU6IJ.jpg"
+    },
+    {
+      "character": "Sergeant Min",
+      "id": 2028477,
+      "name": "Jung Min-ah",
+      "profilePath": "/kdf5YE1KDvfv2bvtdXzNYsxtd1W.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 26511,
+      "logoPath": "/muK9W0KLV8KfEnR7MYu0YpfpdnO.png",
+      "name": "MBC"
+    },
+    {
+      "id": 116591,
+      "logoPath": "/lodJfIuPvHnLsuMAemIk1KPaDwH.png",
+      "name": "iMBC"
+    },
+    {
+      "id": 128404,
+      "logoPath": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
+      "name": "CJ ENM"
+    },
+    {
+      "id": 103323,
+      "logoPath": "/6erRU1smLcM353NKVldsYyAFh56.png",
+      "name": "Dexter Studios"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2027-01-15",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-15",
+        "episodeNumber": 1,
+        "name": "Episode",
+        "overview": "Episode 1-6",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793732202619,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "id": 340775,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-15",
+    "episodeNumber": 1,
+    "id": 8050784,
+    "name": "Episode",
+    "overview": "Episode 1-6",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Ashfall Baekdu Mountain",
+  "overview": "Coming Soon",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-15",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-15"
+    },
+    "CN": {
+      "tv": "2027-01-15"
+    },
+    "GB": {
+      "tv": "2027-01-15"
+    },
+    "US": {
+      "tv": "2027-01-15"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-15",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Ashfall Baekdu Mountain",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

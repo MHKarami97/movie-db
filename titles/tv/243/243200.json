@@ -1,0 +1,267 @@
+{
+  "backdropPath": "/jeua3sqZS9JQkOIBToLm6rvNUn9.jpg",
+  "cast": [
+    {
+      "character": "Antón",
+      "id": 28511,
+      "name": "Luis Zahera",
+      "profilePath": "/ozfRIrvu8i93RJAaeWbaCLKAlPq.jpg"
+    },
+    {
+      "character": "Uxía",
+      "id": 1298407,
+      "name": "Lucía Caraballo",
+      "profilePath": "/hhQ2eeMqIYK267V4QeAe0wlAybu.jpg"
+    },
+    {
+      "character": "Sabela",
+      "id": 1143886,
+      "name": "Carmen Ruiz",
+      "profilePath": "/htEzZBGjknkv9sK4SQBpLF9lYhr.jpg"
+    },
+    {
+      "character": "Vicente",
+      "id": 15599,
+      "name": "Antonio Durán 'Morris'",
+      "profilePath": "/3D3wl7paKTwDqzq1dbvf6Y7MKU.jpg"
+    },
+    {
+      "character": "Miguel",
+      "id": 3349508,
+      "name": "Nuno Gallego",
+      "profilePath": "/9yIFgpbIJPL0qvrgZi02H7Fuvz4.jpg"
+    },
+    {
+      "character": "Nuno",
+      "id": 4442003,
+      "name": "Darío Loureiro",
+      "profilePath": "/6ylOfRtSIz1GwJBQVk82FkIwktb.jpg"
+    },
+    {
+      "character": "Bernardo",
+      "id": 1331098,
+      "name": "Adrián Viador",
+      "profilePath": "/19hzRHlblcbY2bthYh8lZ8iq1kv.jpg"
+    },
+    {
+      "character": "Toñín",
+      "id": 4508811,
+      "name": "Sergio Abelaira",
+      "profilePath": "/1v1h7wNmimzfrQ5yJwpLYgfcAWe.jpg"
+    },
+    {
+      "character": "",
+      "id": 4970048,
+      "name": "Fer Fraga",
+      "profilePath": "/k88nGh91fLjdnS0etnU8BrkGwlh.jpg"
+    },
+    {
+      "character": "",
+      "id": 4680370,
+      "name": "Raquel Nogueira",
+      "profilePath": "/7FPtCRYvDyL0LTVjWW8NMuEdPMB.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 109212,
+      "logoPath": "/c9qLeBiPirw1xwiEt9vUWjEOnE9.png",
+      "name": "Alea Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": "2025-10-03",
+  "episodes": {
+    "2": [
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ],
+    "3": []
+  },
+  "externalIds": {
+    "imdbId": "tt30817086",
+    "wikidataId": "Q134588601"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 243200,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-10-03",
+    "episodeNumber": 9,
+    "id": 6570144,
+    "name": "A Crappy Day",
+    "overview": "Antón finds himself in front of a judge. Uxía learns head office has plans to replace her. An outbreak of doggy stomach flu takes over Kawanda.",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-01",
+    "episodeNumber": 1,
+    "id": 8023977,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 2
+  },
+  "originalTitle": "Animal",
+  "overview": "Cash-strapped vet Antón takes a job at a fancy pet store, going from treating rural farm animals to peddling premium treats for pampered pooches.",
+  "posterPath": "/UgYg7GY6LYQnGhCmt1PQ7OhwEU.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-10-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2025-10-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-10-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2025-10-03"
+    },
+    "CN": {
+      "tv": "2025-10-03"
+    },
+    "GB": {
+      "tv": "2025-10-03"
+    },
+    "US": {
+      "tv": "2025-10-03"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2025-10-03",
+      "episodeCount": 9,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/UgYg7GY6LYQnGhCmt1PQ7OhwEU.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2027-01-01",
+      "episodeCount": 1,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Old Dog, New Tricks",
+  "translations": {
+    "faTitle": "سگ پیر، حقه های تازه"
+  },
+  "type": "tv",
+  "videos": [
+    {
+      "key": "UQI8Ac7OJEA",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 63,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/243200-animal/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/243200-animal/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/243200-animal/watch?locale=US",
+      "rent": []
+    }
+  }
+}

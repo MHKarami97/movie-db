@@ -1,0 +1,489 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "1988-09-17",
+  "episodes": {
+    "39": [
+      {
+        "airDate": "2026-01-31",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-03-14",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-04-25",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-05-29",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-09-19",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-17",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-13",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-18",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt0473587",
+    "wikidataId": "Q1672819"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 64130,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-17",
+    "episodeNumber": 6,
+    "id": 7189486,
+    "name": "Episode 6",
+    "overview": "",
+    "seasonNumber": 39
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-13",
+    "episodeNumber": 7,
+    "id": 7354653,
+    "name": "Episode 7",
+    "overview": "",
+    "seasonNumber": 39
+  },
+  "originalTitle": "Mitternachtsspitzen",
+  "overview": "",
+  "posterPath": null,
+  "rating": 5.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1988-09-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1988-09-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1988-09-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1988-09-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1988-09-17"
+    },
+    "CN": {
+      "tv": "1988-09-17"
+    },
+    "GB": {
+      "tv": "1988-09-17"
+    },
+    "US": {
+      "tv": "1988-09-17"
+    }
+  },
+  "runtime": 60,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": null,
+      "episodeCount": 6,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1988-09-17",
+      "episodeCount": 4,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1989-01-18",
+      "episodeCount": 10,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1990-01-11",
+      "episodeCount": 6,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1991-03-07",
+      "episodeCount": 6,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1992-02-13",
+      "episodeCount": 6,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1993-02-11",
+      "episodeCount": 6,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1994-01-22",
+      "episodeCount": 8,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1995-01-28",
+      "episodeCount": 8,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1996-01-13",
+      "episodeCount": 12,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1997-01-11",
+      "episodeCount": 11,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "1998-01-22",
+      "episodeCount": 10,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "1999-01-07",
+      "episodeCount": 11,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2000-01-13",
+      "episodeCount": 11,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2001-01-11",
+      "episodeCount": 13,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2002-01-17",
+      "episodeCount": 10,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2003-01-09",
+      "episodeCount": 9,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2004-01-10",
+      "episodeCount": 9,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2005-01-01",
+      "episodeCount": 9,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2006-01-07",
+      "episodeCount": 10,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2007-01-27",
+      "episodeCount": 9,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2008-02-09",
+      "episodeCount": 8,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2009-01-31",
+      "episodeCount": 8,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2010-01-02",
+      "episodeCount": 9,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2011-02-19",
+      "episodeCount": 8,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2012-02-11",
+      "episodeCount": 8,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "2013-02-23",
+      "episodeCount": 9,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "2014-02-22",
+      "episodeCount": 8,
+      "name": "Season 27",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "2015-01-17",
+      "episodeCount": 9,
+      "name": "Season 28",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "2016-02-27",
+      "episodeCount": 8,
+      "name": "Season 29",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "2017-02-11",
+      "episodeCount": 9,
+      "name": "Season 30",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "2018-02-17",
+      "episodeCount": 8,
+      "name": "Season 31",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "2019-01-19",
+      "episodeCount": 9,
+      "name": "Season 32",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "2020-02-01",
+      "episodeCount": 9,
+      "name": "Season 33",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "2021-02-06",
+      "episodeCount": 8,
+      "name": "Season 34",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "2022-02-05",
+      "episodeCount": 8,
+      "name": "Season 35",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "2023-01-21",
+      "episodeCount": 12,
+      "name": "Season 36",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 36
+    },
+    {
+      "airDate": "2024-02-24",
+      "episodeCount": 8,
+      "name": "Season 37",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 37
+    },
+    {
+      "airDate": "2025-01-18",
+      "episodeCount": 9,
+      "name": "Season 38",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 38
+    },
+    {
+      "airDate": "2026-01-31",
+      "episodeCount": 8,
+      "name": "Season 39",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 39
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Mitternachtsspitzen",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 3,
+  "watchProviders": {}
+}

@@ -1,0 +1,175 @@
+{
+  "backdropPath": "/n6P7q23qH4w0XIdDfvG7Hk7GhSZ.jpg",
+  "cast": [
+    {
+      "character": "Mia Munster (voice)",
+      "id": 1964829,
+      "name": "Lilian Jane Gartner",
+      "profilePath": "/psxPVJRRyHaE2QvVVw3S1Dv791X.jpg"
+    },
+    {
+      "character": "Tabitha (voice)",
+      "id": 2478423,
+      "name": "Dunja Bernatzky",
+      "profilePath": "/5bF2tSt6xAamdrxbNvYBygLtpWI.jpg"
+    },
+    {
+      "character": "Oskar (voice)",
+      "id": 1497342,
+      "name": "Verena Altenberger",
+      "profilePath": "/A2y0GYbpw85jcc3LL4V8OdQJQ6w.jpg"
+    },
+    {
+      "character": "Penelope (voice)",
+      "id": 1391228,
+      "name": "Silvia Schneider",
+      "profilePath": "/kdqfeT9kPq6UN6IgFunvPyGKcJQ.jpg"
+    },
+    {
+      "character": "Knopflpress (voice)",
+      "id": 36102,
+      "name": "Susi Stach",
+      "profilePath": "/z6KU17bSjQlXMz5qVUhIsOB65C6.jpg"
+    },
+    {
+      "character": "Van Vlad (voice)",
+      "id": 85785,
+      "name": "Michael Ostrowski",
+      "profilePath": "/vFKDJSCcGexRC0SI9WDcrbnzDCq.jpg"
+    },
+    {
+      "character": "Paprika (voice)",
+      "id": 1817801,
+      "name": "Philipp Hansa",
+      "profilePath": "/zVvzByTW3JDg9wtiDuLOutH5hxY.jpg"
+    },
+    {
+      "character": "Zimzala",
+      "id": 1274600,
+      "name": "Nina Hartmann",
+      "profilePath": "/20uO2rW0GPpoFT2LasDbEFiVqdy.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 149226,
+      "logoPath": "/hUuz3fY3r87kvJ9rW7GhJMC5O72.png",
+      "name": "ARX Anima"
+    },
+    {
+      "id": 279012,
+      "logoPath": null,
+      "name": "Arxlight Pictures"
+    },
+    {
+      "id": 230300,
+      "logoPath": "/w7UCU6X4PyNeUWRhELIl9LpIbuw.png",
+      "name": "P!B!T! Films"
+    },
+    {
+      "id": 68113,
+      "logoPath": null,
+      "name": "M.A.R.K. 13"
+    },
+    {
+      "id": 2875,
+      "logoPath": "/3fNapBvM3EHlyL9TxdP5qEOUNeN.png",
+      "name": "Ikiru Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AT",
+      "name": "Austria"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38807889",
+    "wikidataId": "Q140602704"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1572116,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Monster Mia",
+  "overview": "12-year-old Mia and her scruffy pet rat Quentin are sent to the mysterious Rotwood Academy after one too many problems at school. The new school gives her the creeps, and Mia needs to figure a way out before the students realize she isn't a monster like them! But the vice principal Van Vlad hosts a particular dislike for humans, and Mia is scared he has seen through her act...",
+  "posterPath": "/49lw5eVECEY30UIPwsYB78oj7Mh.jpg",
+  "rating": 7.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-23"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-09"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-10-23"
+    },
+    "US": {
+      "theatrical": "2026-10-09"
+    }
+  },
+  "runtime": 82,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Welcome to Rotwood Academy – where fitting in means standing out!",
+  "theatricalDate": "2026-10-09",
+  "title": "Monster Mia",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "CbqDABPksnw",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {}
+}

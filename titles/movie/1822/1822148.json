@@ -1,0 +1,147 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Self",
+      "id": 33,
+      "name": "Gary Sinise",
+      "profilePath": "/olRjiV8ZhBixQiTvrGwXhpVXxsV.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 12898,
+      "name": "Tim Allen",
+      "profilePath": "/k8XPNHBO459FaqkqqM4tfX5GMKk.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1226845,
+      "name": "Chip Foose",
+      "profilePath": "/szmFQowFbIGbToxkOYp7EICLGW9.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 14991,
+      "name": "Jay Leno",
+      "profilePath": "/cplpY6q2VFtR7c1gMHM50wPzdU3.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 3266,
+      "name": "Joe Mantegna",
+      "profilePath": "/4jzvAE6B1eoiZDUnDUuMazirCPP.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 34,
+      "name": "Mykelti Williamson",
+      "profilePath": "/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2026-11-11",
+  "externalIds": {
+    "imdbId": "tt43753986"
+  },
+  "fetchedAt": 1794677631424,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1822148,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "The Ballad of Lieutenant Dan",
+  "overview": "Inspired by the character he played and told by those who know him best, Gary Sinise’s story follows his mission to serve injured veterans and Gold Star families while enduring the devastating loss of his son, Mac.",
+  "posterPath": "/mvYbWDyOicP6WMYvEPlOJVra3bA.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-11",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-11"
+    }
+  },
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Ballad of Lieutenant Dan",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1822148-the-ballad-of-lieutenant-dan/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

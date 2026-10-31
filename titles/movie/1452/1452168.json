@@ -1,0 +1,302 @@
+{
+  "backdropPath": "/gI3s8kkXsG0VHkpWjtZBKOz6sOk.jpg",
+  "cast": [
+    {
+      "character": "Alex Serian",
+      "id": 1253360,
+      "name": "Pedro Pascal",
+      "profilePath": "/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    },
+    {
+      "character": "Carol Spedding",
+      "id": 59315,
+      "name": "Olivia Wilde",
+      "profilePath": "/eODi1QKamyVa41eSK2SjU20VAZS.jpg"
+    },
+    {
+      "character": "Nadia Hynes",
+      "id": 2425998,
+      "name": "Eva Victor",
+      "profilePath": "/nlEirkGOQPVUVgNzIqEJysnt70q.jpg"
+    },
+    {
+      "character": "Andy Serian",
+      "id": 21200,
+      "name": "Will Arnett",
+      "profilePath": "/cXupYqk2ERP13XBkw816skYdVDO.jpg"
+    },
+    {
+      "character": "Peter Serian",
+      "id": 5587,
+      "name": "Hank Azaria",
+      "profilePath": "/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+    },
+    {
+      "character": "Viviana Glenn",
+      "id": 2380384,
+      "name": "Alexa Swinton",
+      "profilePath": "/1PPKZqXddkxu8q6XEHGAddOkdck.jpg"
+    },
+    {
+      "character": "Bronte",
+      "id": 4617365,
+      "name": "Kaya Ralls",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 1254002,
+      "name": "Erik Griffin",
+      "profilePath": "/s1LM7AOPkWAaZTm7F02xNSF6eoG.jpg"
+    },
+    {
+      "character": "Ginnie Serian",
+      "id": 10080,
+      "name": "JoBeth Williams",
+      "profilePath": "/nL9ZdnI50y1yRVvmz0P61TxjZsF.jpg"
+    },
+    {
+      "character": "",
+      "id": 59237,
+      "name": "Margarita Levieva",
+      "profilePath": "/7rSf7C5oKuvjgEBfe2GVv064Le.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 127929,
+      "logoPath": "/7DLKyL15ETI9645XSr9JcbMV79c.png",
+      "name": "Searchlight Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36415529",
+    "instagramId": "behemothmovie",
+    "wikidataId": "Q136706560"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1452168,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Behemoth!",
+  "overview": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
+  "posterPath": "/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-12-04"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-12-04"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-10-13",
+      "theatrical": "2026-12-04"
+    },
+    "US": {
+      "premiere": "2026-10-02",
+      "theatrical": "2026-12-04"
+    }
+  },
+  "runtime": 127,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A life. In pieces.",
+  "theatricalDate": "2026-12-04",
+  "title": "Behemoth!",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "I6tMFYT9s7E",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "hdS_NSKM-Rc",
+      "name": "Pedro's Favorite Scores",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "iGhN9WzlaTc",
+      "name": "Filming In LA",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "J4uoQ1k6uhs",
+      "name": "Pedro's Favorite Scene",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "4LTsEz-rZWw",
+      "name": "AFI Film Fest",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "nonMUiiJzQg",
+      "name": "Pedro Pascal at SmartLess Live",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "4Ow5Xvl-V7o",
+      "name": "Surprise Guest Pedro Pascal at SmartLess Live",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "4QR3mAi9A-M",
+      "name": "Pedro Pascal on finding his inner cellist for Behemoth!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "9tvAPvbElwU",
+      "name": "Will Arnett",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "vlygzmdy8O8",
+      "name": "Eva Victor - Red Carpet Interview",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "PS4BJHu6SZY",
+      "name": "Tony Gilroy at the NYFF World Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "yTgI3HzIEqg",
+      "name": "Pedro Pascal at the NYFF World Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Fe14N0kPgr4",
+      "name": "World Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "yLlwpWYBzF8",
+      "name": "The Behemoth! Collective",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "APNYRTuutLY",
+      "name": "Spotlight",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "roDH2pJN_OY",
+      "name": "Cast",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "-R8Mp9aDKfc",
+      "name": "Alexa Swinton",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6NeM8AEvCd8",
+      "name": "Will Arnett",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "m5GzMDRj0EQ",
+      "name": "Eva Victor",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "QHmWu3Bf4qs",
+      "name": "Tony Gilroy, Pedro Pascal, Will Arnett, and Eva Victor on Behemoth!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "yhHp1vbSpvo",
+      "name": "Tony Gilroy",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "uCcCdWknx5o",
+      "name": "Pedro Pascal",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "xOiIgN2n2v8",
+      "name": "London Film Festival",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "nlHocRZln8c",
+      "name": "NYFF Announcement",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "TrMGdrCJ5Ck",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

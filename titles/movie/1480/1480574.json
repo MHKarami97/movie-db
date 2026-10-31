@@ -1,0 +1,314 @@
+{
+  "backdropPath": "/tieojVpH6eW44JQOQEWnf8t4khG.jpg",
+  "cast": [
+    {
+      "character": "Jack Wolfe",
+      "id": 2231,
+      "name": "Samuel L. Jackson",
+      "profilePath": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+    },
+    {
+      "character": "Nora Wolfe",
+      "id": 10912,
+      "name": "Eva Green",
+      "profilePath": "/vwjOWfUeDk5fQr8jraKlR1Yfxxq.jpg"
+    },
+    {
+      "character": "Bianca",
+      "id": 1757167,
+      "name": "María Pedraza",
+      "profilePath": "/biQf2iBQ4eXNSRh3tfHDm2qZSXs.jpg"
+    },
+    {
+      "character": "Dani",
+      "id": 111801,
+      "name": "Eoin Macken",
+      "profilePath": "/9QcWKlulGbdDI8XNCJW88BfPyPv.jpg"
+    },
+    {
+      "character": "Chad",
+      "id": 2773674,
+      "name": "Jason Fernández",
+      "profilePath": "/2H0dju0IeGOkLXa9W4YyM416brY.jpg"
+    },
+    {
+      "character": "Dr.Castro",
+      "id": 1361889,
+      "name": "Paulo Rivera",
+      "profilePath": "/7WmESknbWlzkxvZMVRNbY3XPABS.jpg"
+    },
+    {
+      "character": "Sister Rachel",
+      "id": 204755,
+      "name": "Nicole Ansari-Cox",
+      "profilePath": "/Qa4zWGLkDEjedoHbNlMG0e9giq.jpg"
+    },
+    {
+      "character": "Miguel",
+      "id": 138161,
+      "name": "Lee Boardman",
+      "profilePath": "/ghJ28dk1Zrl5C3KiC62nskgsqUi.jpg"
+    },
+    {
+      "character": "Mr. Brody",
+      "id": 575927,
+      "name": "Dar Dash",
+      "profilePath": "/gOxM06iucCp2jctYOIVWRxx3Llw.jpg"
+    },
+    {
+      "character": "Martinez",
+      "id": 3337577,
+      "name": "Eduardo Aladro",
+      "profilePath": "/xIp49DJjGiQilC6NK94hGdKnOw0.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 5056,
+      "logoPath": "/ok7CQyn0RPEuI0upznPoo93YE6H.png",
+      "name": "Head Gear Films"
+    },
+    {
+      "id": 76991,
+      "logoPath": "/pQjdvbv4y9yuIDSHDEHc9ijJKaS.png",
+      "name": "Highland Film Group"
+    },
+    {
+      "id": 25954,
+      "logoPath": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
+      "name": "Metrol Technology"
+    },
+    {
+      "id": 311756,
+      "logoPath": null,
+      "name": "I Read"
+    },
+    {
+      "id": 50079,
+      "logoPath": "/hqfJCkivo3juHdqKjMq4pZI4hih.png",
+      "name": "Kreo Films"
+    },
+    {
+      "id": 274685,
+      "logoPath": "/dOi8cmvTdZbVFLidw11eR04XSUN.png",
+      "name": "Vacancy Films"
+    },
+    {
+      "id": 311757,
+      "logoPath": null,
+      "name": "Mendips Corporation Canarias"
+    },
+    {
+      "id": 311758,
+      "logoPath": null,
+      "name": "Atelier 11"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-09-01",
+  "externalIds": {
+    "imdbId": "tt36948232",
+    "wikidataId": "Q137534351"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 4,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1480574,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Just Play Dead",
+  "overview": "یک مغز متفکر جنایتکار نقشه می‌کشد تا برای به‌دست آوردن پول بیمه، مرگ خودش را جعل کند و در این میان معشوق همسرش را مقصر جلوه دهد. اما همسرش نقشه‌ای می‌کشد تا او را واقعاً به قتل برساند و تمام پول را تصاحب کند. حالا هر دوی آن‌ها در یک نبرد مرگبارِ هوش و زیرکی، تلاش می‌کنند یک قدم از دیگری جلوتر باشند.",
+  "posterPath": "/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-17"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-10-05",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-01",
+      "gapDays": 4,
+      "theatricalDate": "2026-08-28"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-09-17"
+    },
+    "GB": {
+      "digital": "2026-10-05"
+    },
+    "US": {
+      "digital": "2026-09-01",
+      "theatricalLimited": "2026-08-28"
+    }
+  },
+  "runtime": 97,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Til death do they part.",
+  "theatricalDate": "2026-08-28",
+  "title": "Just Play Dead",
+  "translations": {
+    "faOverview": "یک مغز متفکر جنایتکار نقشه می‌کشد تا برای به‌دست آوردن پول بیمه، مرگ خودش را جعل کند و در این میان معشوق همسرش را مقصر جلوه دهد. اما همسرش نقشه‌ای می‌کشد تا او را واقعاً به قتل برساند و تمام پول را تصاحب کند. حالا هر دوی آن‌ها در یک نبرد مرگبارِ هوش و زیرکی، تلاش می‌کنند یک قدم از دیگری جلوتر باشند.",
+    "faTitle": "فقط خودتو به مردن بزن"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "LfpPh2pW0Oo",
+      "name": "Official UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "LlAajeOoFBo",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 57,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1480574-just-play-dead/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1480574-just-play-dead/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

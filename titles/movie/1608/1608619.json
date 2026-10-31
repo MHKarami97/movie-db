@@ -1,0 +1,185 @@
+{
+  "backdropPath": "/8oAsm6Yc6bbDdjLtKXlC19Vb0JF.jpg",
+  "cast": [
+    {
+      "character": "Kim",
+      "id": 198927,
+      "name": "Sarah Drew",
+      "profilePath": "/65hUM3Egh5roemP3Cgn0bA38rDj.jpg"
+    },
+    {
+      "character": "Malcolm",
+      "id": 16839,
+      "name": "Matt Long",
+      "profilePath": "/e4mNgPelP9H0Ty1yCg51C0VHZhb.jpg"
+    },
+    {
+      "character": "Claire",
+      "id": 1761093,
+      "name": "Donna Benedicto",
+      "profilePath": "/muXNSartYyLpgZHQuoJ9NTzqoya.jpg"
+    },
+    {
+      "character": "Travis",
+      "id": 2556401,
+      "name": "Noah Paul",
+      "profilePath": "/ieuw0aZzkYm61ID2FcQA2f8dtUo.jpg"
+    },
+    {
+      "character": "Reed",
+      "id": 1782220,
+      "name": "Grayson Maxwell Gurnsey",
+      "profilePath": "/guPsPm16YhgbNa79bWSixv1lYYb.jpg"
+    },
+    {
+      "character": "Meredith",
+      "id": 2860055,
+      "name": "Junnicia Lagoutin",
+      "profilePath": "/g7EUJ4E8DTW4Wz8VUiAn2RZsJuo.jpg"
+    },
+    {
+      "character": "Steve",
+      "id": 51940,
+      "name": "Benjamin Wilkinson",
+      "profilePath": "/pH1Qm2477XTybMUzRMzyl5mdrH1.jpg"
+    },
+    {
+      "character": "Dr. Longford",
+      "id": 185330,
+      "name": "Greg Rogers",
+      "profilePath": "/kH2SBMPLE5zQnxSWy8Vi9WEFZnT.jpg"
+    },
+    {
+      "character": "Samantha",
+      "id": 1965346,
+      "name": "Katherine Evans",
+      "profilePath": "/ufKj40hSod0Qhrb7x0teFcIVo8W.jpg"
+    },
+    {
+      "character": "Pete Whitaker",
+      "id": 205560,
+      "name": "Kevin O'Grady",
+      "profilePath": "/yTH5u9Sdh06i9BE8W4zU54DQqwU.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39300784"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1608619,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Stars Between Us",
+  "overview": "Seven years ago, Kim made a connection with a stranger during an eclipse event. Now a fledgling news reporter, Kim returns to Illinois for this year's eclipse, unaware that their paths may cross again.",
+  "posterPath": "/yltItS6duf9MfSVn45oUupFu1oO.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2026-02-21"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Stars Between Us",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "3IodJQGEjvk",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1608619-the-stars-between-us/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 290,
+          "logoPath": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "id": 2058,
+          "logoPath": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "id": 1746,
+          "logoPath": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1608619-the-stars-between-us/watch?locale=US",
+      "rent": []
+    }
+  }
+}

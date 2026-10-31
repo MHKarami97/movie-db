@@ -1,0 +1,113 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "David",
+      "id": 2391,
+      "name": "Michael Dorn",
+      "profilePath": "/6mVjb0YsidC0gW9P8mXMkQirfcK.jpg"
+    },
+    {
+      "character": "Dr Marks",
+      "id": 2393,
+      "name": "Marina Sirtis",
+      "profilePath": "/pSUhuPgmIqitiUazxyWAbS6mix6.jpg"
+    },
+    {
+      "character": "Felice",
+      "id": 91461,
+      "name": "Michelle Hurd",
+      "profilePath": "/cdFf791CMSWvCNH1wksf32oPT2e.jpg"
+    },
+    {
+      "character": "Christopher",
+      "id": 23790,
+      "name": "Dominic Keating",
+      "profilePath": "/eRe4BJz9fTztlRKikDRHhmss6ee.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 316129,
+      "logoPath": null,
+      "name": "Sabrejet"
+    },
+    {
+      "id": 68755,
+      "logoPath": null,
+      "name": "Cork Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37673260"
+  },
+  "fetchedAt": 1793990790150,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1810754,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Life 2.0",
+  "overview": "An operative navigates deep-space isolation, with only an AI hologram for company, until an enigmatic new companion arrives. An accident uncovers the truth about their origins, forcing a fight for survival against motives engineered back on Earth.",
+  "posterPath": "/s4R39lskutnRA79rd0Kq1WcbZWJ.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-11-10"
+    }
+  },
+  "runtime": 88,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Life 2.0",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

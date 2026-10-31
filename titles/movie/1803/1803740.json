@@ -1,0 +1,76 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 258374,
+      "logoPath": null,
+      "name": "7 productions"
+    }
+  ],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1803740,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ur",
+      "name": "Urdu"
+    }
+  ],
+  "originalTitle": "Mere Nana",
+  "overview": "A 12-year-old grandson recounts the legend of his Nana, a mysterious man whose magical comb made him special until that magic slowly disappears.",
+  "posterPath": "/jaucfgqsrGIm68rFueJLUMCVfL0.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 45,
+  "schemaVersion": 2,
+  "status": "Planned",
+  "tagline": "A little magic. A lot of trouble.",
+  "theatricalDate": null,
+  "title": "Mere Nana",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

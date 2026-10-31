@@ -1,0 +1,124 @@
+{
+  "backdropPath": "/ppIofDJcoXywpapSIdV7UJjCRZf.jpg",
+  "cast": [
+    {
+      "character": "Kodama Kawashiri",
+      "id": 1062343,
+      "name": "Kanna Hashimoto",
+      "profilePath": "/6nxdUvL4Z9tWOAgzuOQqoRtgxyd.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 144464,
+      "logoPath": "/6qj3qIkse4B6epGAYNdmSODtS7m.png",
+      "name": "CREDEUS"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2027-01-11",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-11",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1794158926475,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 341218,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-11",
+    "episodeNumber": 1,
+    "id": 8083046,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "あたしゃ川尻こだまだよ",
+  "overview": "",
+  "posterPath": "/gXrFjpwaf9kdQqePe1QJlupkKdE.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-11",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-11"
+    },
+    "CN": {
+      "tv": "2027-01-11"
+    },
+    "GB": {
+      "tv": "2027-01-11"
+    },
+    "US": {
+      "tv": "2027-01-11"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-11",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/gXrFjpwaf9kdQqePe1QJlupkKdE.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "I'm Kodama Kawashiri",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,161 @@
+{
+  "backdropPath": "/1Ag7HUfeaN7Ag0KItulX8OW70wz.jpg",
+  "cast": [
+    {
+      "character": "Marion / Louise",
+      "id": 1363549,
+      "name": "Diane Rouxel",
+      "profilePath": "/aGUPuN5g9PmgYIbIWjjl7y34RPY.jpg"
+    },
+    {
+      "character": "Jeanne",
+      "id": 1480403,
+      "name": "Salomé Dewaels",
+      "profilePath": "/5kSCOwXCjs9QpJB0IfrWFXYBjin.jpg"
+    },
+    {
+      "character": "Catherine",
+      "id": 17522,
+      "name": "Cécile de France",
+      "profilePath": "/8nzL3XON3VfUevvP2KvYbnbF5sT.jpg"
+    },
+    {
+      "character": "Malika",
+      "id": 1689510,
+      "name": "Myriem Akheddiou",
+      "profilePath": "/9Xw3XoQSAuUcArgyDjV9erC8W3C.jpg"
+    },
+    {
+      "character": "",
+      "id": 1600890,
+      "name": "Michaël Erpelding",
+      "profilePath": "/6SuvVxLlm19WVWuSitYWRROwFiW.jpg"
+    },
+    {
+      "character": "",
+      "id": 4342905,
+      "name": "Kynan Carmeci",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 54192,
+      "name": "Mathilde Goffart",
+      "profilePath": "/pGTnoFkNf9zbCeRLV7pbwApCBiQ.jpg"
+    },
+    {
+      "character": "Marion enfant",
+      "id": 4342916,
+      "name": "Noémie Lemaitre",
+      "profilePath": "/jOYN7d8Ox04Rivc84MCr510qOwH.jpg"
+    },
+    {
+      "character": "Salima",
+      "id": 1686837,
+      "name": "Lina El Arabi",
+      "profilePath": "/sSzeygZyJ9z5walSnY0jAjcOhYO.jpg"
+    },
+    {
+      "character": "Jeanne enfant",
+      "id": 4342914,
+      "name": "Emma Danze",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 11199,
+      "logoPath": "/tWXanyy8XwpcOPannNJ33QUcXp5.png",
+      "name": "SCOPE Pictures"
+    },
+    {
+      "id": 212156,
+      "logoPath": null,
+      "name": "Gabman"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt27664510",
+    "wikidataId": "Q137178345"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1197125,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Louise",
+  "overview": "Follows the struggles of Marion in her attempt to reconnect with her family and piece together her fragmented identity after fleeing a troubled childhood.",
+  "posterPath": "/62GcSVw9fE8paRDTCHDycZvQ26p.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 108,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Louise",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 16,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1197125-louise/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "backdropPath": "/9HZ216SwRwYq8sndNxAp9Wuc4Ic.jpg",
+  "cast": [
+    {
+      "character": "Ma Xiao",
+      "id": 543877,
+      "name": "Xiao Yang",
+      "profilePath": "/7TyBCgsWBFZWlxn102psBvQ377g.jpg"
+    },
+    {
+      "character": "Pan Wenjia",
+      "id": 1161018,
+      "name": "Qi Xi",
+      "profilePath": "/aHsRvLngZL6uiagJ8DlctiHEcdo.jpg"
+    },
+    {
+      "character": "Zhou Weijie",
+      "id": 20519,
+      "name": "Simon Yam",
+      "profilePath": "/eilxjMhfobctnzZ0kBcFmnqtFyd.jpg"
+    },
+    {
+      "character": "Miao Feng",
+      "id": 1279598,
+      "name": "Ryan Zheng Kai",
+      "profilePath": "/wHUCaZAe8KkpXs6sXmPUr9B6C82.jpg"
+    },
+    {
+      "character": "Tian",
+      "id": 2086256,
+      "name": "Pan Binlong",
+      "profilePath": "/6UnbeOT5ORFmobVd146y3r8U0ng.jpg"
+    },
+    {
+      "character": "Latif",
+      "id": 5760713,
+      "name": "Fathi Anouar Ghammam",
+      "profilePath": "/pgoxMwgIqvm1E29dbYqYHJgUdBI.jpg"
+    },
+    {
+      "character": "Wang Ke",
+      "id": 3163338,
+      "name": "Zhou Le",
+      "profilePath": "/8KlCiwvhAOt3DtwwVTYLsEDO9Sh.jpg"
+    },
+    {
+      "character": "Kim Jong-hoon",
+      "id": 5785981,
+      "name": "David Yan",
+      "profilePath": "/t8Rp30IOVgxrgU6m4wPmwEFaxff.jpg"
+    },
+    {
+      "character": "Ambassador Chen",
+      "id": 1174692,
+      "name": "Xu Xiangdong",
+      "profilePath": "/yH1kDMVJqoP4RWYJBZ5APFlct1n.jpg"
+    },
+    {
+      "character": "Zhongxun Leader",
+      "id": 2341280,
+      "name": "Lin Si-yu",
+      "profilePath": "/p2wp78gk9PoIg32DL24KxGyue2V.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 204269,
+      "logoPath": null,
+      "name": "Shanghai Yuye Culture 裕野文化"
+    },
+    {
+      "id": 2270,
+      "logoPath": "/7osqu50JpFIh0klZU0s1CrnNqcc.png",
+      "name": "China Film Group Corporation"
+    },
+    {
+      "id": 148025,
+      "logoPath": null,
+      "name": "Bad Monkey (Shanghai) 上海坏猴子"
+    },
+    {
+      "id": 264233,
+      "logoPath": null,
+      "name": "Shanghai Chinese Pictures 上海华人影业"
+    },
+    {
+      "id": 78952,
+      "logoPath": "/zRBHUxapVA1FLR3dSa0xcLvzn1D.png",
+      "name": "Wanda Pictures"
+    },
+    {
+      "id": 204268,
+      "logoPath": null,
+      "name": "Beijing Shangshi Culture (Super Lion) 上狮文化"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "digitalDate": "2026-03-06",
+  "externalIds": {
+    "imdbId": "tt33078916",
+    "wikidataId": "Q137589538"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 65,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 1325866,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "originalTitle": "用武之地",
+  "overview": "The couple of Ma Xiao, a foreign correspondent, and Pan Wenjia, a volunteer doctor, accompanied engineer Miao Feng on a trip to the suburbs to repair a base station. During the trip, the local situation suddenly changed and the three were kidnapped by an extremist organisation. While in prison, they met Zhou Weijie, an overseas Chinese businessman. In order to find a chance of survival, they embarked on a journey of escape in the midst of barbaric warfare and chaos.",
+  "posterPath": "/4hlydT6jWkKjSpqStjkunMRCEg2.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-03-06",
+      "gapDays": 65,
+      "theatricalDate": "2025-12-31"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-12-31"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "digital": "2026-03-06",
+      "theatrical": "2025-12-31",
+      "theatricalLimited": "2025-12-24"
+    },
+    "GB": {
+      "theatrical": "2025-12-31"
+    }
+  },
+  "runtime": 131,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2025-12-31",
+  "title": "Escape from the Outland",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 16,
+  "watchProviders": {}
+}

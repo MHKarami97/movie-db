@@ -1,0 +1,241 @@
+{
+  "backdropPath": "/7gVrRVOjnwLO70FeA4ycjW99cyL.jpg",
+  "cast": [
+    {
+      "character": "Ian",
+      "id": 554395,
+      "name": "T.J. Jagodowski",
+      "profilePath": "/kN4BpgUo6ezJTfatIl9kN0xgeP0.jpg"
+    },
+    {
+      "character": "Austin Turner",
+      "id": 2115726,
+      "name": "Matt Trudeau",
+      "profilePath": "/iCIR5bciTg3foaxmZdUZ8TTpHZM.jpg"
+    },
+    {
+      "character": "Hank Fuller",
+      "id": 5667895,
+      "name": "Meir Steinberg",
+      "profilePath": null
+    },
+    {
+      "character": "Alistair Whitman",
+      "id": 335,
+      "name": "Michael Shannon",
+      "profilePath": "/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+    },
+    {
+      "character": "Angelina",
+      "id": 2635276,
+      "name": "Kelsey Bunner",
+      "profilePath": "/9k2nHucKeO9EWQw3etrjGaLgC0w.jpg"
+    },
+    {
+      "character": "Lester",
+      "id": 3545826,
+      "name": "Dale Dobson",
+      "profilePath": "/g1CnnGBVF88NN0ZTjV2hdsq1zoZ.jpg"
+    },
+    {
+      "character": "Virgil",
+      "id": 1483237,
+      "name": "Richard Cotovsky",
+      "profilePath": null
+    },
+    {
+      "character": "Smith",
+      "id": 538091,
+      "name": "Daniel Meyer",
+      "profilePath": null
+    },
+    {
+      "character": "Nicki Gallyan",
+      "id": 5437600,
+      "name": "Seth Bules",
+      "profilePath": null
+    },
+    {
+      "character": "Kate",
+      "id": 5450560,
+      "name": "Anastasia Pellar",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 99078,
+      "logoPath": null,
+      "name": "Plot 4 Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-01-09",
+  "externalIds": {
+    "facebookId": "BULLSthemovie",
+    "imdbId": "tt22335734"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1480860,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Bulls",
+  "overview": "Two down-on-their-luck half-brothers run a failing dive bar in Indiana and get a shot at taking on England’s elite darts champions.",
+  "posterPath": "/6X5bcc4vTGzwDpbpZBMRDPwdLwj.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-01-09",
+      "gapDays": 0,
+      "theatricalDate": "2026-01-09"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-01-09",
+      "theatricalLimited": "2026-01-09"
+    }
+  },
+  "runtime": 89,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Throw big or go home.",
+  "theatricalDate": "2026-01-09",
+  "title": "Bulls",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "aqyQ-AYkkyU",
+      "name": "Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1480860-bulls/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1480860-bulls/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

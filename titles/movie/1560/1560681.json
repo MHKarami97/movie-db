@@ -1,0 +1,202 @@
+{
+  "backdropPath": "/2D3W3Jp0VYsLhXTEfnvhbMvQEzk.jpg",
+  "cast": [
+    {
+      "character": "Leopold Bilski",
+      "id": 489961,
+      "name": "Jakub Gierszał",
+      "profilePath": "/z54kt8s5OsRooCWBMT2Df4q61BZ.jpg"
+    },
+    {
+      "character": "Julia Sarman",
+      "id": 1575918,
+      "name": "Marianna Zydek",
+      "profilePath": "/m55PI2g9l3Z948e7tclrfHfK4DR.jpg"
+    },
+    {
+      "character": "Andrzej Pakosz",
+      "id": 82313,
+      "name": "Andrzej Chyra",
+      "profilePath": "/md1w26RncjcM3KHTTDnYtgC1rme.jpg"
+    },
+    {
+      "character": "Fabiola Burchardt",
+      "id": 1888550,
+      "name": "Beata Ścibakówna",
+      "profilePath": "/nvNc2HUfPzhTlhetFb9Go8luyaI.jpg"
+    },
+    {
+      "character": "Patryk Deczer",
+      "id": 1624850,
+      "name": "Adam Bobik",
+      "profilePath": "/4jAe6jvU5NGiVYTc2queRYoRVN4.jpg"
+    },
+    {
+      "character": "Commander Adamczyk",
+      "id": 146432,
+      "name": "Robert Gonera",
+      "profilePath": "/bIQdWu4noaIXrDzh2oz7sUcRXoD.jpg"
+    },
+    {
+      "character": "Arek Filipiak",
+      "id": 1515486,
+      "name": "Piotr Żurawski",
+      "profilePath": "/xGIgeJ49iNgVXBA0aZiHsGzVr03.jpg"
+    },
+    {
+      "character": "Prosecutor",
+      "id": 4155591,
+      "name": "Jan Sałasiński",
+      "profilePath": "/96lVgkEpd2CKwTf4WntNvBTQjCI.jpg"
+    },
+    {
+      "character": "Michał Pakosz",
+      "id": 1720143,
+      "name": "Julian Świeżewski",
+      "profilePath": "/taFR99cVpDj2TC0YjoP45cni9JI.jpg"
+    },
+    {
+      "character": "Old Chojnacki",
+      "id": 4442458,
+      "name": "Jacek Bąk",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 54732,
+      "logoPath": "/9Wq8UhFmqgwTaps9RIFSaxZJZie.png",
+      "name": "Aurum Film"
+    }
+  ],
+  "countries": [
+    {
+      "code": "PL",
+      "name": "Poland"
+    }
+  ],
+  "digitalDate": "2026-06-10",
+  "externalIds": {
+    "imdbId": "tt38681832",
+    "wikidataId": "Q139980544"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1560681,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pl",
+      "name": "Polish"
+    }
+  ],
+  "originalTitle": "Kolory zła: Czerń",
+  "overview": "Investigating the disappearance of children in a remote Polish town, prosecutor Leopold Bilski must unravel a sinister local legend before it's too late.",
+  "posterPath": "/reeKdj7BSznr7wSGzAtIMrPFgKo.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-10",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-06-10"
+    }
+  },
+  "runtime": 110,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Colors of Evil: Black",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 171,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1560681-kolory-zla-czern/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1560681-kolory-zla-czern/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1560681-kolory-zla-czern/watch?locale=US",
+      "rent": []
+    }
+  }
+}

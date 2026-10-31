@@ -1,0 +1,164 @@
+{
+  "backdropPath": "/kjKxmpuPIvXjDP4reWCkMaeK2Es.jpg",
+  "cast": [
+    {
+      "character": "Stéphanie Bertrand",
+      "id": 19360,
+      "name": "Léa Drucker",
+      "profilePath": "/tnDoNGkWGNJ7gk08zNBTMhAU1T4.jpg"
+    },
+    {
+      "character": "Benoit Guérini",
+      "id": 2239987,
+      "name": "Jonathan Turnbull",
+      "profilePath": "/lNLyHj57hkUESv50pqJpvkK9F7t.jpg"
+    },
+    {
+      "character": "Sonia Girard",
+      "id": 2345944,
+      "name": "Mathilde Riu",
+      "profilePath": "/gA3OE56jk8y7NA2qrnmB1CtYWHv.jpg"
+    },
+    {
+      "character": "Alicia Mady",
+      "id": 1360307,
+      "name": "Guslagie Malanda",
+      "profilePath": "/fjGrRcK4SoGLptulNbqMKxm39Am.jpg"
+    },
+    {
+      "character": "Jérémy",
+      "id": 37919,
+      "name": "Stanislas Merhar",
+      "profilePath": "/mydjB3KiYv5ytseH5Y5laew6bvl.jpg"
+    },
+    {
+      "character": "Joëlle Girard",
+      "id": 3127584,
+      "name": "Sandra Colombo",
+      "profilePath": "/yC4ONPpFuei0fI7p7tDzr9QnznL.jpg"
+    },
+    {
+      "character": "Rémi Cordier",
+      "id": 4237002,
+      "name": "Valentin Campagne",
+      "profilePath": "/dbypKw1166Wj3u73bUanA3J8Esk.jpg"
+    },
+    {
+      "character": "Carole Delarue",
+      "id": 1973700,
+      "name": "Mathilde Roehrich",
+      "profilePath": "/x6RkmA26uk0EqBwZjfJQOtgu5hP.jpg"
+    },
+    {
+      "character": "Guillaume Girard",
+      "id": 3526487,
+      "name": "Côme Peronnet",
+      "profilePath": "/dJwOmJMGEaHlA50k7VJQJ2Bnet9.jpg"
+    },
+    {
+      "character": "Victor",
+      "id": 3353513,
+      "name": "Solan Machado-Graner",
+      "profilePath": "/eQMHcOHgqunbujQnFh0RyxKi256.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 726,
+      "logoPath": "/hHaQQgxqg2NohqZSxbMTB9E483m.png",
+      "name": "Haut et Court"
+    },
+    {
+      "id": 83,
+      "logoPath": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34794183",
+    "wikidataId": "Q131360679"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1294698,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Dossier 137",
+  "overview": "When Internal Affairs officer Stéphanie investigates a young man severely injured during a chaotic Paris demonstration and finds no police misconduct, the routine case hits close to home upon her discovering the victim is from her native town.",
+  "posterPath": "/4QL4LcsYX8mdNktst0CnyHQDRLg.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-16"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2025-09-25"
+    },
+    "GB": {
+      "premiere": "2025-08-15",
+      "theatrical": "2026-10-16"
+    },
+    "US": {
+      "premiere": "2025-10-18"
+    }
+  },
+  "runtime": 115,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-16",
+  "title": "Case 137",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "DRKJKfGbEjc",
+      "name": "Case 137 / Dossier 137 (2025) - Trailer (English Subs)",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 306,
+  "watchProviders": {}
+}

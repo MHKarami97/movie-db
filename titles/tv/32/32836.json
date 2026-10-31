@@ -1,0 +1,354 @@
+{
+  "backdropPath": "/m8iQSgowqLOp54P9g1PEjr7MaG7.jpg",
+  "cast": [
+    {
+      "character": "Rıza Soylu",
+      "id": 1179547,
+      "name": "Zafer Ergin",
+      "profilePath": "/4xZZ3DmJ8yUnL64C1gHxJsDtRnC.jpg"
+    },
+    {
+      "character": "Mesut Güneri",
+      "id": 106619,
+      "name": "Şevket Çoruh",
+      "profilePath": "/ntFpsS7mt628MWFVBDTxzq3V28n.jpg"
+    },
+    {
+      "character": "Hüsnü Çoban",
+      "id": 1252052,
+      "name": "Özgür Ozan",
+      "profilePath": "/6xLeuaFaKcuxBdZ6nMtlLutqxNF.jpg"
+    },
+    {
+      "character": "Selin Demirci Güneri",
+      "id": 2476882,
+      "name": "Oya Okar",
+      "profilePath": "/2KhTTD1aCgGcaD53lvX77Ot5awr.jpg"
+    },
+    {
+      "character": "Hakan Çınar",
+      "id": 548463,
+      "name": "Ozan Çobanoğlu",
+      "profilePath": "/7enWJpXEYoZIR9Fu1PSQE2vkwP8.jpg"
+    },
+    {
+      "character": "Ali Akdoğan",
+      "id": 2476883,
+      "name": "Alp Korkmaz",
+      "profilePath": "/yKWZcbnPFyB7ZxEsGBRH836kPII.jpg"
+    },
+    {
+      "character": "Candan Ceylanlı",
+      "id": 1446044,
+      "name": "Ebru Cündübeyoğlu",
+      "profilePath": "/lhJ9LpOxevXVPhe0WxsEx0DcovL.jpg"
+    },
+    {
+      "character": "Barış Bozoğlu",
+      "id": 1247475,
+      "name": "Sarp Levendoğlu",
+      "profilePath": "/8BwEWqLcyZxCB0kEpxUzwZl9x7W.jpg"
+    },
+    {
+      "character": "Zeki Çevik",
+      "id": 1258391,
+      "name": "Burak Satıbol",
+      "profilePath": "/vLCySHBIBstc5PbpKC7W9u7THZq.jpg"
+    },
+    {
+      "character": "Nazike Özçaylan",
+      "id": 1490597,
+      "name": "Nazlı Tosunoğlu",
+      "profilePath": "/fMp12NymioJSs4xVT4uCcjyeNrR.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 16499,
+      "logoPath": "/d4Y5soaQuCLFbZaqwjAkbBzj9e3.png",
+      "name": "Erler Film"
+    },
+    {
+      "id": 178163,
+      "logoPath": null,
+      "name": "D Media Production"
+    }
+  ],
+  "countries": [
+    {
+      "code": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "digitalDate": "2006-07-31",
+  "externalIds": {
+    "imdbId": "tt0845088",
+    "wikidataId": "Q3234619"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 32836,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ar",
+      "name": "Arabic"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "tr",
+      "name": "Turkish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-06-12",
+    "episodeNumber": 35,
+    "id": 7275640,
+    "name": "Episode 35",
+    "overview": "",
+    "seasonNumber": 20
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Arka Sokaklar",
+  "overview": "The series tells the story of the family lives of the police officers working in a special team of the Istanbul Police Department's Public Security Department and their adventures on the streets of Istanbul. The team encounters different and diverse human stories during their missions. The Istanbul Police Chief Rıza Soylu (Zafer Ergin), with his years of experience and fatherhood, approaches these stories, which at times make them smile and at other times are heartbreaking, and guides the other young members of the team.",
+  "posterPath": "/jEcUxk30fW7JWLacojjdO3YN51d.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2006-07-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2006-07-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2006-07-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2006-07-31",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2006-07-31"
+    },
+    "CN": {
+      "tv": "2006-07-31"
+    },
+    "GB": {
+      "tv": "2006-07-31"
+    },
+    "US": {
+      "tv": "2006-07-31"
+    }
+  },
+  "runtime": 140,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2006-07-31",
+      "episodeCount": 43,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2007-09-03",
+      "episodeCount": 43,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2008-09-08",
+      "episodeCount": 39,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2009-09-07",
+      "episodeCount": 41,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2010-08-23",
+      "episodeCount": 43,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2011-09-05",
+      "episodeCount": 41,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/awkcJVSOGxYeNNApZJhLp0RY9Ez.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2012-09-03",
+      "episodeCount": 43,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/hu2Uu0LvYkFDi4MvBM0Sk4ZTabh.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2013-09-07",
+      "episodeCount": 43,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/hu2Uu0LvYkFDi4MvBM0Sk4ZTabh.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2014-09-12",
+      "episodeCount": 40,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/hu2Uu0LvYkFDi4MvBM0Sk4ZTabh.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2015-11-20",
+      "episodeCount": 32,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/gw9tsx12wI8iSiCzget2OMMMXWT.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2016-09-23",
+      "episodeCount": 39,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": "/89KlvQycn6GCKEgIgfH1dJnRaJu.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2017-09-15",
+      "episodeCount": 38,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": "/chVURj8u5ji4ngpE4Ii9UEnmrWb.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2018-10-26",
+      "episodeCount": 36,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": "/1T25XXoo9xdIynVuASgx7BOiDmm.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2019-09-13",
+      "episodeCount": 35,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": "/ktuRy7RQ8JuDnxTnEGBkbYOGRex.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2020-09-18",
+      "episodeCount": 38,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2021-09-17",
+      "episodeCount": 38,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2022-10-14",
+      "episodeCount": 6,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2023-09-01",
+      "episodeCount": 42,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2024-09-13",
+      "episodeCount": 37,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2025-09-12",
+      "episodeCount": 35,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Back Streets",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 30,
+  "watchProviders": {}
+}

@@ -1,0 +1,269 @@
+{
+  "backdropPath": "/bAFnjhweXxHUWjmFzMTuX12Ud3b.jpg",
+  "cast": [
+    {
+      "character": "Thomas",
+      "id": 5530,
+      "name": "James McAvoy",
+      "profilePath": "/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
+    },
+    {
+      "character": "Peter",
+      "id": 2417980,
+      "name": "Lucas Bravo",
+      "profilePath": "/uO6vMlJBMASyOQMisvnPehjsfJB.jpg"
+    },
+    {
+      "character": "Dolly",
+      "id": 2044882,
+      "name": "Leila Farzad",
+      "profilePath": "/cjB87g9aZOfmgKBvYhfNCJUM1Kn.jpg"
+    },
+    {
+      "character": "Jemima",
+      "id": 2846747,
+      "name": "Almudena Amor",
+      "profilePath": "/mmwdXj20aW4I0f413j1F0TeSGPC.jpg"
+    },
+    {
+      "character": "Patricia",
+      "id": 1323109,
+      "name": "Aisling Franciosi",
+      "profilePath": "/g6qewxM4EEg02HUTLUw9KGkLdNj.jpg"
+    },
+    {
+      "character": "Mimi",
+      "id": 2105082,
+      "name": "Elektra Jansson-Kilbey",
+      "profilePath": "/yElY3b6zN1zGt0HcNzm9liD3BDV.jpg"
+    },
+    {
+      "character": "Melanie",
+      "id": 4873036,
+      "name": "Maria Therese Bassetti",
+      "profilePath": null
+    },
+    {
+      "character": "Woman in Photograph",
+      "id": 5868420,
+      "name": "Kristin Zakala",
+      "profilePath": null
+    },
+    {
+      "character": "Kader",
+      "id": 1294985,
+      "name": "Shubham Saraf",
+      "profilePath": "/7LsYeGYP4mTfKOvG2l7BVDEB0o6.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 198299,
+      "logoPath": "/7TCOMMdEz4Gu8MWjeEE2eRGBfWR.png",
+      "name": "Good Pals"
+    },
+    {
+      "id": 130899,
+      "logoPath": "/bJNituvsaH1VbBlKdnbfU4CRY8G.png",
+      "name": "SSS Film Capital"
+    },
+    {
+      "id": 65649,
+      "logoPath": "/tXTuZTEcYYB1hIyAAwDyhZE0f7c.png",
+      "name": "SSS Entertainment"
+    },
+    {
+      "id": 202995,
+      "logoPath": "/kD6gd2jSMlgWjhyXHsPoUygFdPA.png",
+      "name": "The Syndicate"
+    },
+    {
+      "id": 274597,
+      "logoPath": "/1lQEAVqHhBzlRQJ1XwFKhX8YYpz.png",
+      "name": "American Picture House Corporation"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2025-12-05",
+  "externalIds": {
+    "imdbId": "tt29713815",
+    "wikidataId": "Q123384631"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1199193,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Pose",
+  "overview": "Isolated in a grand country manor, a reclusive artist spends a passionate and paranoid weekend with his ex-lover, an obsessive fan, and a potential muse. Hoping to spark a new wave of artistic brilliance over the course of a few tumultuous days, filled with chaos and revelation not all of them will make it out alive.",
+  "posterPath": "/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-12-05",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-12-05"
+    }
+  },
+  "runtime": 77,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Pose",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "hIEdSvQ9_wA",
+      "name": "Pose Trailer #1 (2025)",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 43,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1199193-pose/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 613,
+          "logoPath": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png",
+          "name": "Amazon Prime Video Free with Ads"
+        },
+        {
+          "id": 1898,
+          "logoPath": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png",
+          "name": "Amazon MX Player"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1199193-pose/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

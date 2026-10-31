@@ -1,0 +1,161 @@
+{
+  "backdropPath": "/q3U4EThxyLPSN3YV6IBEXNVcKTD.jpg",
+  "cast": [
+    {
+      "character": "Gugu",
+      "id": 5082613,
+      "name": "Yuri Gomes",
+      "profilePath": "/wv6LtqkMak2pXzu13f7QGZZ9ALB.jpg"
+    },
+    {
+      "character": "Batista",
+      "id": 55009,
+      "name": "Lázaro Ramos",
+      "profilePath": "/jf9CJgtmHjsiczNUiQGM6znAYl.jpg"
+    },
+    {
+      "character": "Dilma",
+      "id": 1657185,
+      "name": "Teca Pereira",
+      "profilePath": "/8mYeadVn2AALwAsCP4XXyQl608i.jpg"
+    },
+    {
+      "character": "Valmir",
+      "id": 2346588,
+      "name": "Carlos Francisco",
+      "profilePath": "/ihf4bN4GuScyA2QwlzVCnPqOuOo.jpg"
+    },
+    {
+      "character": "Patricia",
+      "id": 1004720,
+      "name": "Georgina Castro",
+      "profilePath": "/fDj9pEunDiwc5E7B00Tq4eLrlbL.jpg"
+    },
+    {
+      "character": "Professora Karla",
+      "id": 3459468,
+      "name": "Alda Pessoa",
+      "profilePath": "/72DnX8eR6tH96K2RaqdqMsMrVhe.jpg"
+    },
+    {
+      "character": "Gil",
+      "id": 4131582,
+      "name": "David Santos",
+      "profilePath": "/owWCmZsL0siy8oxm9q9QXUqMSPO.jpg"
+    },
+    {
+      "character": "Kelly",
+      "id": 5939980,
+      "name": "Beatriz Carwile",
+      "profilePath": null
+    },
+    {
+      "character": "Enzo",
+      "id": 5939984,
+      "name": "Luan Vasconcelos",
+      "profilePath": null
+    },
+    {
+      "character": "Francisco",
+      "id": 5450402,
+      "name": "Nathyel Martins",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 80161,
+      "logoPath": "/e2BDDFzZA1jlDtwBo079uSYlKns.png",
+      "name": "Deberton Filmes"
+    },
+    {
+      "id": 85607,
+      "logoPath": "/hZxlXNBQr4NInBImTQyTw5FyYQJ.png",
+      "name": "Biônica Filmes"
+    },
+    {
+      "id": 114175,
+      "logoPath": "/mIV6DS2ds7lkT1OqGL8e06ouyRH.png",
+      "name": "Mistika"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt11826250",
+    "wikidataId": "Q137886911"
+  },
+  "fetchedAt": 1793906464749,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1393615,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "Feito Pipa",
+  "overview": "Gugu, a black boy living with his grandmother, experiences memories and revelations when the old city where she lived returns.",
+  "posterPath": "/r57aBaVsIzaMqUYlX6UwvX5duh2.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-06-13"
+    },
+    "US": {
+      "premiere": "2026-10-22"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Gugu's World",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Tq9dwToYGsY",
+      "name": "GUGU'S WORLD International Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {}
+}

@@ -1,0 +1,205 @@
+{
+  "backdropPath": "/dJ4sqrmX2KviF8HBKlLrDedUhnh.jpg",
+  "cast": [
+    {
+      "character": "Muthukaali 'Kaali' / Mandaadi",
+      "id": 544897,
+      "name": "Soori",
+      "profilePath": "/AncGjHZaaNcpEu6JosiV25IwSSg.jpg"
+    },
+    {
+      "character": "Saattapuli",
+      "id": 2187317,
+      "name": "Suhas",
+      "profilePath": "/4TZK8EkWiWPiC7wvDu4yFIXP41D.jpg"
+    },
+    {
+      "character": "Angel Rakkamma",
+      "id": 1154378,
+      "name": "Mahima Nambiar",
+      "profilePath": "/us0TCjr5IHotLbyr6PKjofEqN2x.jpg"
+    },
+    {
+      "character": "Machamuni",
+      "id": 581895,
+      "name": "Sathyaraj",
+      "profilePath": "/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+    },
+    {
+      "character": "Maari",
+      "id": 4646932,
+      "name": "Mithun Jai Sankar",
+      "profilePath": "/r3ynMua2UoFlLnEP8PEEe3x2PnT.jpg"
+    },
+    {
+      "character": "Singaram",
+      "id": 2109334,
+      "name": "Ravindra Vijay",
+      "profilePath": "/2mw4VbANE3QtI9dzQXdrG74RizL.jpg"
+    },
+    {
+      "character": "Qatar Ravi",
+      "id": 1006024,
+      "name": "Balasaravanan",
+      "profilePath": "/1Hyg5Src1SQnVw9E3g0QHMUydVx.jpg"
+    },
+    {
+      "character": "Saattapuli's father",
+      "id": 1688050,
+      "name": "Stun Siva",
+      "profilePath": "/rTBzBagl6uD6YooliwpL5MU2kyB.jpg"
+    },
+    {
+      "character": "",
+      "id": 4827654,
+      "name": "Sachana Namidass",
+      "profilePath": "/vKAZo6Vs04qO9cUacLJa0FiliuY.jpg"
+    },
+    {
+      "character": "Kathir",
+      "id": 1122109,
+      "name": "Aadukalam Murugadoss",
+      "profilePath": "/q3y0dkbyEHZisNrlZNmtZzZzb9R.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 3651,
+      "logoPath": "/9jT85h9M9IrMGRDsMBlSBhCRn3Y.png",
+      "name": "R S Infotainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2026-10-08",
+  "externalIds": {
+    "imdbId": "tt36596965",
+    "wikidataId": "Q134704471"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 28,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1465943,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ta",
+      "name": "Tamil"
+    }
+  ],
+  "originalTitle": "மண்டாடி",
+  "overview": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews.",
+  "posterPath": "/jLVMvJAmnVRo2lzbqtGiecLzPLy.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-10"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-10"
+    },
+    "US": {
+      "digitalDate": "2026-10-08",
+      "gapDays": 28,
+      "theatricalDate": "2026-09-10"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-09-10"
+    },
+    "GB": {
+      "theatrical": "2026-09-10"
+    },
+    "US": {
+      "digital": "2026-10-08",
+      "theatrical": "2026-09-10"
+    }
+  },
+  "runtime": 153,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-09-10",
+  "title": "Mandaadi",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 8,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1465943/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1465943/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1465943/watch?locale=US",
+      "rent": []
+    }
+  }
+}

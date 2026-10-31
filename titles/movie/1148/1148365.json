@@ -1,0 +1,229 @@
+{
+  "backdropPath": "/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+  "cast": [
+    {
+      "character": "Sean",
+      "id": 56446,
+      "name": "John Cena",
+      "profilePath": "/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+    },
+    {
+      "character": "Aimee",
+      "id": 10860,
+      "name": "Jessica Biel",
+      "profilePath": "/u5DzbWKvAzS0M4ZhYqpUR9MZr2M.jpg"
+    },
+    {
+      "character": "Ted",
+      "id": 1457999,
+      "name": "Arturo Castro",
+      "profilePath": "/pbLoDCfjm3fLtGHVqQcnbM2d0cu.jpg"
+    },
+    {
+      "character": "Crosby",
+      "id": 1429453,
+      "name": "Sam Richardson",
+      "profilePath": "/hUN7IIbegvL7aSqQI5KRWoqqJLm.jpg"
+    },
+    {
+      "character": "Charmaine",
+      "id": 970219,
+      "name": "Teyonah Parris",
+      "profilePath": "/iGvBTOi0y2fbBVwgnBRXgY0IXDY.jpg"
+    },
+    {
+      "character": "Helen",
+      "id": 82104,
+      "name": "Danai Gurira",
+      "profilePath": "/z7H7QeQvr24vskGlANQhG43vozQ.jpg"
+    },
+    {
+      "character": "Robbie",
+      "id": 229932,
+      "name": "Golshifteh Farahani",
+      "profilePath": "/lbsd2lAIQq4egOUXDIfjhte12vv.jpg"
+    },
+    {
+      "character": "Mosier",
+      "id": 74541,
+      "name": "Corey Stoll",
+      "profilePath": "/2eMxKecTZBiS60gPUVWcimYgGDp.jpg"
+    },
+    {
+      "character": "Falko",
+      "id": 9452,
+      "name": "Daniel Bernhardt",
+      "profilePath": "/3BLz32inDr1jznU6pKQmh20zfhK.jpg"
+    },
+    {
+      "character": "Mustafa",
+      "id": 6519,
+      "name": "Randeep Hooda",
+      "profilePath": "/6Raio06bsLalCe4XDsknXxfDamV.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 168848,
+      "logoPath": "/omEguKifcJixMvKWq85sUp4lFdT.png",
+      "name": "Mattel Studios"
+    },
+    {
+      "id": 82819,
+      "logoPath": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+      "name": "Skydance Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-08",
+  "externalIds": {
+    "imdbId": "tt28498219",
+    "wikidataId": "Q131872896"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "id": 1148365,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Matchbox the Movie",
+  "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
+  "posterPath": "/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
+  "rating": 7.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-10-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-10-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-08",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-10-09"
+    },
+    "GB": {
+      "digital": "2026-10-09"
+    },
+    "US": {
+      "digital": "2026-10-08",
+      "premiere": "2026-10-05"
+    }
+  },
+  "runtime": 127,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Save the world, bring your friends.",
+  "theatricalDate": null,
+  "title": "Matchbox the Movie",
+  "translations": {
+    "faTitle": "مچ‌باکس"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "BKYq5nHbKiw",
+      "name": "San Diego Comic-Con Panel 2026",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "7xfqITrMDcI",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 554,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 350,
+          "logoPath": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1148365-matchbox-the-movie/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 350,
+          "logoPath": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        },
+        {
+          "id": 2243,
+          "logoPath": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "name": "Apple TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1148365-matchbox-the-movie/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 350,
+          "logoPath": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        },
+        {
+          "id": 2243,
+          "logoPath": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "name": "Apple TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1148365-matchbox-the-movie/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "backdropPath": "/yKOtSqJopdP7FQXzGzb3JwmHaD4.jpg",
+  "cast": [
+    {
+      "character": "Self - Ekspedisjonsleder",
+      "id": 5753583,
+      "name": "Rune Malterud",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 1407559,
+      "name": "Harald Rønneberg",
+      "profilePath": "/ahlKLWKglbj8xXWCn6cAoOApniE.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2952561,
+      "name": "Espen Nakstad",
+      "profilePath": "/siVVzi6tR3TZl4hAanPb62Sxiey.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 3921665,
+      "name": "Tete Lidbom",
+      "profilePath": "/lNvnmEjUkZeUpiOyoFujYAUOOe2.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1911567,
+      "name": "Anne Lindmo",
+      "profilePath": "/lN9wnqZ4rGwSuMg0qTvKgMDOk11.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 5753589,
+      "name": "Inga Strümke",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 3804336,
+      "name": "Hedvig Wessel",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 127425,
+      "logoPath": "/dQ8UIHRccY0mssU09d6nQOd4aFE.png",
+      "name": "Strix Televisjon [NO]"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "NO",
+      "name": "Norway"
+    }
+  ],
+  "digitalDate": "2025-10-24",
+  "episodes": {
+    "2": [
+      {
+        "airDate": "2028-01-03",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt38355904"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 302168,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "no",
+      "name": "Norwegian"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-12-12",
+    "episodeNumber": 8,
+    "id": 6694004,
+    "name": "Episode 8",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2028-01-03",
+    "episodeNumber": 1,
+    "id": 7997341,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 2
+  },
+  "originalTitle": "Ekspedisjonen",
+  "overview": "",
+  "posterPath": "/4eZwvexbSoo3fnphgviLXd4RPFh.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-10-24",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2025-10-24",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-10-24",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-24",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2025-10-24"
+    },
+    "CN": {
+      "tv": "2025-10-24"
+    },
+    "GB": {
+      "tv": "2025-10-24"
+    },
+    "US": {
+      "tv": "2025-10-24"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2025-10-24",
+      "episodeCount": 8,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/4eZwvexbSoo3fnphgviLXd4RPFh.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2028-01-03",
+      "episodeCount": 1,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Ekspedisjonen",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

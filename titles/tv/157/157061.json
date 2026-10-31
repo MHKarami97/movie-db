@@ -1,0 +1,279 @@
+{
+  "backdropPath": "/31XWoLd3AHW6MLy9i2DSbFZOPuH.jpg",
+  "cast": [
+    {
+      "character": "Lucy Chambers",
+      "id": 1151410,
+      "name": "Jessica Raine",
+      "profilePath": "/b0W9mERmlpWH2m635oyMY9sdx7g.jpg"
+    },
+    {
+      "character": "Gideon Shepherd",
+      "id": 12982,
+      "name": "Peter Capaldi",
+      "profilePath": "/r5bEXZBOSA89SZvv4jjqa4iSgst.jpg"
+    },
+    {
+      "character": "DI Ravi Dhillon",
+      "id": 1069504,
+      "name": "Nikesh Patel",
+      "profilePath": "/smlWLclZz1IKQVSygl3scLGPhgI.jpg"
+    },
+    {
+      "character": "Mike Stephens",
+      "id": 1502430,
+      "name": "Phil Dunster",
+      "profilePath": "/mKPBzvglLwMoL2LwShO8eHYGgjo.jpg"
+    },
+    {
+      "character": "Isaac Stephens",
+      "id": 3760977,
+      "name": "Benjamin Chivers",
+      "profilePath": "/p8fmNMdIjHFSdQ7hDvNQSPJEjVm.jpg"
+    },
+    {
+      "character": "Meredith Warren",
+      "id": 3760978,
+      "name": "Talia Walker Bassols",
+      "profilePath": null
+    },
+    {
+      "character": "Debbie Warren",
+      "id": 1324634,
+      "name": "Rhiannon Harper-Rafferty",
+      "profilePath": "/30FnhqvrPS6ydNaFrXqQNO0rWro.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 9166,
+      "logoPath": null,
+      "name": "Hartswood Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2022-10-28",
+  "episodes": {
+    "3": [
+      {
+        "airDate": "2026-12-04",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt14379784",
+    "wikidataId": "Q107316056"
+  },
+  "fetchedAt": 1793766324510,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 157061,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2024-10-18",
+    "episodeNumber": 5,
+    "id": 5559159,
+    "name": "Birth of a Tragedy",
+    "overview": "Lucy confronts the reality of her situation and is forced to make an impossible choice. Boyd is tested to her limits in her pursuit of the truth, and Dhillon comes to a realisation, with catastrophic results.",
+    "seasonNumber": 2
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-12-04",
+    "episodeNumber": 1,
+    "id": 8060792,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 3
+  },
+  "originalTitle": "The Devil's Hour",
+  "overview": "Lucy wakes every night at exactly 3:33am. Nothing in her life has made sense for a long time. But the answers are out there, somewhere, at the end of a trail of brutal murders.",
+  "posterPath": "/mFU6ZPAs6g8Y9Eld28GULJYt3rC.jpg",
+  "rating": 7.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2022-10-28",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2022-10-28",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2022-10-28",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2022-10-28",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2022-10-28"
+    },
+    "CN": {
+      "tv": "2022-10-28"
+    },
+    "GB": {
+      "tv": "2022-10-28"
+    },
+    "US": {
+      "tv": "2022-10-28"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2022-10-28",
+      "episodeCount": 6,
+      "name": "Season 1",
+      "overview": "Lucy wakes every night at exactly 3:33am. Nothing in her life has made sense for a long time. But the answers are out there, somewhere, at the end of a trail of brutal murders.",
+      "posterPath": "/mFU6ZPAs6g8Y9Eld28GULJYt3rC.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2024-10-18",
+      "episodeCount": 5,
+      "name": "Season 2",
+      "overview": "This is a story of two Lucys – a police detective who failed to stop a tragedy, and a mother who may have to sacrifice everything in order to fulfil promises made in a previous life. Their realities collide in a mission to stop the worst thing imaginable. But who can you trust when your memories are no longer your own?",
+      "posterPath": "/idKszwiEpFEW0bBr44HBQXAwzZo.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2026-12-04",
+      "episodeCount": 1,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Time to face your fears.",
+  "theatricalDate": null,
+  "title": "The Devil's Hour",
+  "translations": {
+    "faTitle": "ساعت شیطان"
+  },
+  "type": "tv",
+  "videos": [
+    {
+      "key": "H5CCF39hIVw",
+      "name": "Official Trailer A",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "QS1tojGz93U",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "OGqsvGl05B8",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 339,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 119,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/157061-the-devil-s-hour/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [
+        {
+          "id": 41,
+          "logoPath": "/nIViE3wOPV5Jyv45T7hetHyG6iS.png",
+          "name": "ITVX"
+        }
+      ],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        },
+        {
+          "id": 2300,
+          "logoPath": "/nIViE3wOPV5Jyv45T7hetHyG6iS.png",
+          "name": "ITVX Premium"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/157061-the-devil-s-hour/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/157061-the-devil-s-hour/watch?locale=US",
+      "rent": []
+    }
+  }
+}

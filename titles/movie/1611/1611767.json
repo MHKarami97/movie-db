@@ -1,0 +1,155 @@
+{
+  "backdropPath": "/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+  "cast": [
+    {
+      "character": "Ryan",
+      "id": 3031442,
+      "name": "Christopher Briney",
+      "profilePath": "/1M21pqg3Lf8n6gwI9l9RX1PuPjw.jpg"
+    },
+    {
+      "character": "Hannah",
+      "id": 1902690,
+      "name": "Michelle Randolph",
+      "profilePath": "/5W3DB2THOjE4L4Hhc68CzcQiwuK.jpg"
+    },
+    {
+      "character": "",
+      "id": 1371509,
+      "name": "Lukas Gage",
+      "profilePath": "/xXknCnXtRBmqg38TkMuPFtugt5s.jpg"
+    },
+    {
+      "character": "",
+      "id": 38406,
+      "name": "Paris Hilton",
+      "profilePath": "/8ywcy0guTGiL6JIPvnFtELMlwuu.jpg"
+    },
+    {
+      "character": "Bianca Hart",
+      "id": 2371446,
+      "name": "Julia Fox",
+      "profilePath": "/AwipgBalCBiOfwXKssxM0NQlz33.jpg"
+    },
+    {
+      "character": "",
+      "id": 1211946,
+      "name": "P.J. Byrne",
+      "profilePath": "/1JVBaxRy3OxkHymD3nwBd5kVWWL.jpg"
+    },
+    {
+      "character": "",
+      "id": 1880755,
+      "name": "Andrew Schulz",
+      "profilePath": "/fdeYq1EraYvlYM3VmGXjIaSGoTz.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 210099,
+      "logoPath": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios"
+    },
+    {
+      "id": 376,
+      "logoPath": "/4TYjUVu74lX3r4ht1ppZxEpj1a4.png",
+      "name": "Industry Entertainment Partners"
+    },
+    {
+      "id": 220517,
+      "logoPath": null,
+      "name": "Luber-Roklin Entertainment"
+    },
+    {
+      "id": 4022,
+      "logoPath": "/q6Xts6ztGkTHrY1WfHttlhL3Pfc.png",
+      "name": "Wonderland Sound and Vision"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-23",
+  "externalIds": {
+    "imdbId": "tt39316936",
+    "wikidataId": "Q138571733"
+  },
+  "fetchedAt": 1795031469102,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1611767,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Clashing Through the Snow",
+  "overview": "After weather grounds all flights east for the holidays, two work rivals competing for the same job begrudgingly embark on a cross-country road trip that brings them closer together in ways they never imagined.",
+  "posterPath": "/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-23",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-23"
+    }
+  },
+  "runtime": 107,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "It's beginning to look a lot like chaos.",
+  "theatricalDate": null,
+  "title": "Clashing Through the Snow",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "798vrWRtKBQ",
+      "name": "CLASHING THROUGH THE SNOW Trailer (2026) Christopher Briney, Michelle Randolph",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "nOyT9RkGRn4",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

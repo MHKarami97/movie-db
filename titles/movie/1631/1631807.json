@@ -1,0 +1,214 @@
+{
+  "backdropPath": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
+  "cast": [
+    {
+      "character": "Helene Söderberg",
+      "id": 1437417,
+      "name": "Natalie Madueño",
+      "profilePath": "/jZlygLDDW0joAZRkep7Fe9OGopv.jpg"
+    },
+    {
+      "character": "Edmund",
+      "id": 150802,
+      "name": "Claes Bang",
+      "profilePath": "/allXGdenaUpFq1bJSIeZPkJeHfe.jpg"
+    },
+    {
+      "character": "Joachim",
+      "id": 76556,
+      "name": "Pål Sverre Hagen",
+      "profilePath": "/eJzuZZfFBaMSgcbR3Pe5zBxEC3z.jpg"
+    },
+    {
+      "character": "Caroline",
+      "id": 55887,
+      "name": "Stina Ekblad",
+      "profilePath": "/sFf5N9Noxbj8Xpx7DHB6rOASIrR.jpg"
+    },
+    {
+      "character": "Iben Rask",
+      "id": 87879,
+      "name": "Ingrid Bolsø Berdal",
+      "profilePath": "/iv9RaskT1WronDXaTKh9mI5KNUn.jpg"
+    },
+    {
+      "character": "Maria",
+      "id": 1384976,
+      "name": "Thea Sofie Loch Næss",
+      "profilePath": "/k0aq1OjmVp9psvNx4JAXQovbHqc.jpg"
+    },
+    {
+      "character": "Aksel Söderberg",
+      "id": 115214,
+      "name": "Lars Simonsen",
+      "profilePath": "/s4F4M7ViAkrY5EETrl6neRmNB4l.jpg"
+    },
+    {
+      "character": "Lulu",
+      "id": 4410339,
+      "name": "Ida Appel",
+      "profilePath": "/4aU9cbXjQBQVP9TIz0HjyBC2Ysw.jpg"
+    },
+    {
+      "character": "Librarian",
+      "id": 1433678,
+      "name": "Nina Christrup",
+      "profilePath": "/guFY2gcYKQk1mlz3giFLIFBqY5v.jpg"
+    },
+    {
+      "character": "Alexander",
+      "id": 6432832,
+      "name": "David Elting",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 307045,
+      "logoPath": null,
+      "name": "SF Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "digitalDate": "2026-08-28",
+  "externalIds": {
+    "imdbId": "tt37275992",
+    "wikidataId": "Q140419850"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1631807,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "da",
+      "name": "Danish"
+    }
+  ],
+  "originalTitle": "Den hemmelige kvinde",
+  "overview": "After discovering she has a family and a shipping empire, a woman with amnesia returns to a wealthy and seemingly perfect past to uncover why she left.",
+  "posterPath": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
+  "rating": 6.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-08-28",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-08-28",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-08-28"
+    },
+    "US": {
+      "digital": "2026-08-28"
+    }
+  },
+  "runtime": 119,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Secret Woman",
+  "translations": {
+    "faTitle": "زن مرموز"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "FldeGkt4e4k",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 146,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=US",
+      "rent": []
+    }
+  }
+}

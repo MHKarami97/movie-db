@@ -1,0 +1,111 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Arthur",
+      "id": 2475654,
+      "name": "CJ Beckford",
+      "profilePath": null
+    },
+    {
+      "character": "Clara",
+      "id": 2517398,
+      "name": "Mirren Mack",
+      "profilePath": "/3xOiyeum1KDzlPqnfrPeEQh8kOE.jpg"
+    },
+    {
+      "character": "Journalist",
+      "id": 3257653,
+      "name": "Oriane Pick",
+      "profilePath": "/mJGrvGW2UkCEMSJouNfbcN50K2D.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 185165,
+      "logoPath": "/aUjekulPiHDpNqkQWb1lubGuAJm.png",
+      "name": "Candid Broads Productions"
+    },
+    {
+      "id": 314012,
+      "logoPath": null,
+      "name": "H3 Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt6400028"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1795451,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Arthur & Clara",
+  "overview": "Pretentious filmmaker Arthur and entitled high-profile actress Clara find themselves at the same rural farmhouse, to escape from their individual pressures. As they reluctantly start to connect, their shared vulnerability leads them on an accidental journey of self-discovery, revealing what it truly means to be seen.",
+  "posterPath": "/5dUjPFAUUJbgheF0VOBMWNjl1DM.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-10-31"
+    }
+  },
+  "runtime": 110,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Arthur & Clara",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

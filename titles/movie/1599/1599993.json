@@ -1,0 +1,135 @@
+{
+  "backdropPath": "/3jgATRIFenOrgNKEC9bFv5QqKGf.jpg",
+  "cast": [
+    {
+      "character": "Amelia",
+      "id": 232262,
+      "name": "Nashla Bogaert",
+      "profilePath": "/tGCIlMxyMh3qpt7xNLzzltNHDQq.jpg"
+    },
+    {
+      "character": "Martín",
+      "id": 232245,
+      "name": "Frank Perozo",
+      "profilePath": "/qWqwiMFEdQE0dLuqSPt3qHDQfQQ.jpg"
+    },
+    {
+      "character": "Sofía",
+      "id": 4843988,
+      "name": "Pamela Sued",
+      "profilePath": "/pk9vigh6rVrJMcsGDyuxabaBfcm.jpg"
+    },
+    {
+      "character": "Santiago",
+      "id": 1684891,
+      "name": "David Maler",
+      "profilePath": "/u4KAt1CqQ3LocxyKxWsXKUbuPeQ.jpg"
+    },
+    {
+      "character": "Jessica",
+      "id": 3238925,
+      "name": "Camila Issa",
+      "profilePath": "/xOlZ7bA7OlePdxMRNPsGJ8Yi3nU.jpg"
+    },
+    {
+      "character": "Franco",
+      "id": 5179137,
+      "name": "Pedro Casals",
+      "profilePath": null
+    },
+    {
+      "character": "Deborah",
+      "id": 5179140,
+      "name": "Vitaly Sánchez",
+      "profilePath": null
+    },
+    {
+      "character": "Lucía",
+      "id": 2785131,
+      "name": "María del Mar Bonelly",
+      "profilePath": "/uCePs7Ag3uoLTbcZbJdX1O1Iqtm.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 143363,
+      "logoPath": "/blNnSzGhVlG2ntchLosmCZobN1W.png",
+      "name": "Star Distribution"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DO",
+      "name": "Dominican Republic"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34224947"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1599993,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Animales",
+  "overview": "Four couples sail the thin line between desire and search for authenticity, in a world where truth is as fragile as their relationships.",
+  "posterPath": "/wOnhgV3RZJhpOMA5b3LWBcfMncB.jpg",
+  "rating": 6.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Hay puertas que no se deben abrir.",
+  "theatricalDate": null,
+  "title": "Animales",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "jYn23nmsZhY",
+      "name": "ANIMALES | Teaser Tráiler Oficial",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 56,
+  "watchProviders": {}
+}

@@ -1,0 +1,210 @@
+{
+  "backdropPath": "/cmP55W8EqqIE41Ck9D7uWRpzLwS.jpg",
+  "cast": [
+    {
+      "character": "Zeta",
+      "id": 82700,
+      "name": "Mario Casas",
+      "profilePath": "/y0H8jDiOZqYKZkamv2z4cV9FLsl.jpg"
+    },
+    {
+      "character": "Alfa",
+      "id": 1729881,
+      "name": "Mariela Garriga",
+      "profilePath": "/hQhh8h3q6fmsm5GW1vlAgLhqHgQ.jpg"
+    },
+    {
+      "character": "Salvador Ancares",
+      "id": 28511,
+      "name": "Luis Zahera",
+      "profilePath": "/ozfRIrvu8i93RJAaeWbaCLKAlPq.jpg"
+    },
+    {
+      "character": "Elena",
+      "id": 226431,
+      "name": "Nora Navas",
+      "profilePath": "/kTvfxyKoWUoxgsTSIRHs8dgdD3A.jpg"
+    },
+    {
+      "character": "Marlon",
+      "id": 1255923,
+      "name": "Christian Tappan",
+      "profilePath": "/AsgxuVkpzSE4uC4iQCS4WNMQhEC.jpg"
+    },
+    {
+      "character": "Diana",
+      "id": 985469,
+      "name": "Cristina Umaña",
+      "profilePath": "/mQuo0DZsJJ55ZcStNtDDajf5J3x.jpg"
+    },
+    {
+      "character": "Landa",
+      "id": 544718,
+      "name": "Ricardo de Barreiro",
+      "profilePath": "/esgA5wsnrE889n0mGuKwXRfFP4v.jpg"
+    },
+    {
+      "character": "Vivi",
+      "id": 1725361,
+      "name": "Luisa Vides Galiano",
+      "profilePath": "/cTwOriIXGnmXZKhHSZ96nMrszz.jpg"
+    },
+    {
+      "character": "Flaco",
+      "id": 4137914,
+      "name": "David Villamil",
+      "profilePath": null
+    },
+    {
+      "character": "Maka",
+      "id": 3224245,
+      "name": "Amanda Goldsmith",
+      "profilePath": "/oINTksi2Ytmr18gcuHRDEorIJYc.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 217473,
+      "logoPath": "/8Ju5O8yaRwAT7d27H7DrnxshCKC.png",
+      "name": "Fonte Films"
+    },
+    {
+      "id": 210099,
+      "logoPath": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": "2026-03-20",
+  "externalIds": {
+    "imdbId": "tt32880540",
+    "wikidataId": "Q130367884"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1314786,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Zeta",
+  "overview": "Four Spanish ex-intelligence officers are assassinated simultaneously worldwide. The CNI discovers all participated in the covert \"Operation Ciénaga\" decades ago in Colombia. Zeta, the CNI's best operative, must hunt and protect the sole survivor, facing his deadliest global mission yet. Top Colombian agent Alfa will join Zeta, seemingly knowing more about \"Ciénaga\"'s secrets than him.",
+  "posterPath": "/1cKLG9KMoCjsgFB8Nw1EuglteVi.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-20",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-03-20"
+    }
+  },
+  "runtime": 133,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Agent Zeta",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "d56tjzLzYZM",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 199,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 119,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1314786-zeta/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1314786-zeta/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1314786-zeta/watch?locale=US",
+      "rent": []
+    }
+  }
+}

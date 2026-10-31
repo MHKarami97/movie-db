@@ -1,0 +1,291 @@
+{
+  "backdropPath": "/hwg3vj8MAXM8WISFnvjJsXXLHdw.jpg",
+  "cast": [
+    {
+      "character": "Aria",
+      "id": 11149,
+      "name": "Dominique Swain",
+      "profilePath": "/7zRGmaNRvUCtbD4K3o6Hjmw65IL.jpg"
+    },
+    {
+      "character": "Joan Of Arc",
+      "id": 6089071,
+      "name": "Eve Fournier",
+      "profilePath": "/gr1QgfV6s5fTFI56zmD7xmaswn.jpg"
+    },
+    {
+      "character": "Cleopatra",
+      "id": 1742668,
+      "name": "Roxanne G.C. Brooks",
+      "profilePath": "/6GFXcx2Rh2xn71aMaFLre4lpS6t.jpg"
+    },
+    {
+      "character": "Genghis Khan",
+      "id": 2186515,
+      "name": "Charlit Dae",
+      "profilePath": "/dkZbDrqKDfWaKgX5Ka1AbxBXyj1.jpg"
+    },
+    {
+      "character": "Shaka Zulu",
+      "id": 4509439,
+      "name": "Samuel Selman",
+      "profilePath": "/lmRZfviVVwMXiUZeAbN8Lt625xu.jpg"
+    },
+    {
+      "character": "Oda Nobunaga",
+      "id": 64374,
+      "name": "Josiah D. Lee",
+      "profilePath": "/uHoh8DgzseNJWLpwqdIsGc15OG1.jpg"
+    },
+    {
+      "character": "Attila The Hun",
+      "id": 1575964,
+      "name": "Sasha Di Capri",
+      "profilePath": "/wIRnCqR9rBH5F7XWyz4vpqSJPQI.jpg"
+    },
+    {
+      "character": "Boudica",
+      "id": 6089072,
+      "name": "Mila Orion",
+      "profilePath": "/5mZ3PZFT23L5DJC2tvbaezyqpSC.jpg"
+    },
+    {
+      "character": "Gordon",
+      "id": 3228185,
+      "name": "Peter Laboy",
+      "profilePath": "/gpMeiyCdfUNwK1waMLuff9lsOsl.jpg"
+    },
+    {
+      "character": "Mama Huaco",
+      "id": 2165641,
+      "name": "Jenique Hendrix",
+      "profilePath": "/8zeYivR3tPCWvJ07wQLprnVDZq7.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1311,
+      "logoPath": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-04-24",
+  "externalIds": {
+    "imdbId": "tt39315819"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "id": 1656061,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Immortal Combat",
+  "overview": "History's greatest warriors, including Genghis Khan and Joan of Arc, are summoned by a shadowy organization to fight in a battle to the death. But unknown to their captors, the fighters have been plotting to turn the tables and dismantle the deadly enterprise from within.",
+  "posterPath": "/mhRAgvQ04DTE4zQN3OSyc9Lonj3.jpg",
+  "rating": 4.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-24",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-04-24",
+      "premiere": "2026-04-24"
+    }
+  },
+  "runtime": 88,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The World's Greatest Warriors...Fight To The Death",
+  "theatricalDate": null,
+  "title": "Immortal Combat",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "j5kldy4dRAI",
+      "name": "Immortal Combat Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 25,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 613,
+          "logoPath": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png",
+          "name": "Amazon Prime Video Free with Ads"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        },
+        {
+          "id": 1898,
+          "logoPath": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png",
+          "name": "Amazon MX Player"
+        }
+      ],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1656061-immortal-combat/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 613,
+          "logoPath": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png",
+          "name": "Amazon Prime Video Free with Ads"
+        },
+        {
+          "id": 1898,
+          "logoPath": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png",
+          "name": "Amazon MX Player"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1656061-immortal-combat/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

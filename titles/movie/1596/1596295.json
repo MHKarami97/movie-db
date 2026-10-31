@@ -1,0 +1,124 @@
+{
+  "backdropPath": "/cr3Pk2bWdQQBpfvQD2xV4sL0I7p.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 105995,
+      "logoPath": "/iGH53ndr4yuBhxg86wGjHr3jHRC.png",
+      "name": "FRONTLINE FEATURES"
+    },
+    {
+      "id": 48439,
+      "logoPath": "/xRTA0PpuVnbiISBefJ5BKCzmslc.png",
+      "name": "KEO Films"
+    },
+    {
+      "id": 50510,
+      "logoPath": "/fNWALeT5F0pOcTtBAeV1No8fB9f.png",
+      "name": "BBC Storyville"
+    },
+    {
+      "id": 299502,
+      "logoPath": "/lxBCyR9ec2SEPs4Gdy3f2bMeBSa.png",
+      "name": "Placeholder Films"
+    },
+    {
+      "id": 299503,
+      "logoPath": null,
+      "name": "New Lane Media"
+    },
+    {
+      "id": 14909,
+      "logoPath": "/8fLjVGiX8adkseQMCIBYt3UYFiO.png",
+      "name": "Impact Partners"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38983842",
+    "instagramId": "oneinamillionfilm",
+    "wikidataId": "Q137592941"
+  },
+  "fetchedAt": 1794071861044,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1596295,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ar",
+      "name": "Arabic"
+    },
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "One in a Million",
+  "overview": "Filmed over 10 years, one girl's epic journey from Syria to Germany and back again. She and her family navigate war, exile, and heartbreak in a foreign land, illuminating the complexities of the refugee experience.",
+  "posterPath": "/qWo7cco1odg9IKob0x1aVtuOCLW.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-06-11"
+    },
+    "US": {
+      "premiere": "2026-01-23"
+    }
+  },
+  "runtime": 105,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "One in a Million",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "78ncoL9tNKQ",
+      "name": "Meet the Artist 2026: Itab Azzam & Jack MacInnes on “One In A Million”",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

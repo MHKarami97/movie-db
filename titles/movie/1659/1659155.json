@@ -1,0 +1,209 @@
+{
+  "backdropPath": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
+  "cast": [
+    {
+      "character": "Martín",
+      "id": 110129,
+      "name": "Jose Coronado",
+      "profilePath": "/9xo68HzH8n78Xv6gMzKK7XnjtHd.jpg"
+    },
+    {
+      "character": "Ruth",
+      "id": 2443862,
+      "name": "Stéphanie Magnin",
+      "profilePath": "/fPDyHTbQMS2hn6LVBNIZjeemCOc.jpg"
+    },
+    {
+      "character": "Lucía",
+      "id": 1240274,
+      "name": "Fanny Gautier",
+      "profilePath": "/2QEVaSaNvJIlWLvZOubtS2d710u.jpg"
+    },
+    {
+      "character": "Arón",
+      "id": 3492070,
+      "name": "Alberto Olmo",
+      "profilePath": "/bYzbEYm5QvxywhUTWXhF7d2fEnm.jpg"
+    },
+    {
+      "character": "Doctor Velasco",
+      "id": 1480577,
+      "name": "Israel Ruiz",
+      "profilePath": "/58kPAUPdmbtAshlBaUQ1uLKRlnH.jpg"
+    },
+    {
+      "character": "Berta",
+      "id": 588841,
+      "name": "Mabel del Pozo",
+      "profilePath": "/rcl3y06AXmHd3Xwiebdqh8xcbys.jpg"
+    },
+    {
+      "character": "Rose",
+      "id": 5321214,
+      "name": "Celine Fortenbacher",
+      "profilePath": "/bmfMdcWB4XqtJaCUmN21DzmGVqK.jpg"
+    },
+    {
+      "character": "Recepcionista Cuartel",
+      "id": 4400038,
+      "name": "Olaya Lopez",
+      "profilePath": null
+    },
+    {
+      "character": "Pedro (Tío)",
+      "id": 2997263,
+      "name": "Armando Pita",
+      "profilePath": null
+    },
+    {
+      "character": "Ruth Niña",
+      "id": 6406488,
+      "name": "Ana Casado",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 203540,
+      "logoPath": "/4tVkUDWuElI2vbf63tG5lPcVmp7.png",
+      "name": "El Desorden Crea"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": "2026-07-24",
+  "externalIds": {
+    "imdbId": "tt41111628",
+    "wikidataId": "Q140248600"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1659155,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Los creyentes",
+  "overview": "After her mother's sudden death, Ruth returns to her hometown and reunites with her father, whose odd behavior makes her question what really happened.",
+  "posterPath": "/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-24",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-07-24"
+    }
+  },
+  "runtime": 106,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Truthers",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "IvL0oT13djs",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 107,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=US",
+      "rent": []
+    }
+  }
+}

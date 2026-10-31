@@ -1,0 +1,185 @@
+{
+  "backdropPath": "/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg",
+  "cast": [
+    {
+      "character": "Carl Rikker",
+      "id": 6065,
+      "name": "Dennis Quaid",
+      "profilePath": "/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+    },
+    {
+      "character": "Charlie",
+      "id": 1003,
+      "name": "Jean Reno",
+      "profilePath": "/mw0EZJYz3kiFq9fNxsML773gotF.jpg"
+    },
+    {
+      "character": "Layla",
+      "id": 1827955,
+      "name": "Sky Katz",
+      "profilePath": "/xhvma0NjQh8rD5sLfkWIeYt8dAl.jpg"
+    },
+    {
+      "character": "Deckard",
+      "id": 206624,
+      "name": "Jim Klock",
+      "profilePath": "/uP9BqJHWhtLmJ2UEmwSiRp4jpp6.jpg"
+    },
+    {
+      "character": "Woodrock",
+      "id": 1367184,
+      "name": "Leonidas Gulaptis",
+      "profilePath": "/lj1wkVrWnGRaRjuBaRiHFuKAwQr.jpg"
+    },
+    {
+      "character": "Rebecca",
+      "id": 78333,
+      "name": "Elsa Mollien",
+      "profilePath": "/bocp1Bcf3wZLNJezr086ahKehZF.jpg"
+    },
+    {
+      "character": "Jason",
+      "id": 1757724,
+      "name": "Gabriel 'G-Rod' Rodriguez",
+      "profilePath": "/t7GOyMDDMYWRwnQveCEUFDSapk7.jpg"
+    },
+    {
+      "character": "Lloyd",
+      "id": 1956114,
+      "name": "Dominick LaRuffa Jr.",
+      "profilePath": "/jT7p3USLXvuQexPvEBfGJSTlJ0T.jpg"
+    },
+    {
+      "character": "",
+      "id": 984582,
+      "name": "Anna Schafer",
+      "profilePath": "/AtpZOzp7t6ybvB1bJrSwTJfWTyZ.jpg"
+    },
+    {
+      "character": "Detective Hutton",
+      "id": 2743359,
+      "name": "Dylan Flashner",
+      "profilePath": "/nMDE5OFcc1cSioewYSlJDdbt9X7.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 137373,
+      "logoPath": "/4OzujMDSLnAm7I0BCPL1D6RIoJ4.png",
+      "name": "CaliWood Pictures"
+    },
+    {
+      "id": 121204,
+      "logoPath": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+      "name": "BondIt Media Capital"
+    },
+    {
+      "id": 41735,
+      "logoPath": "/je9Ko1f6iu0AfLL3dINJEaxLvEb.png",
+      "name": "Buffalo 8"
+    },
+    {
+      "id": 43652,
+      "logoPath": null,
+      "name": "Volcanic Films"
+    },
+    {
+      "id": 100121,
+      "logoPath": null,
+      "name": "Film Bridge International"
+    },
+    {
+      "id": 242727,
+      "logoPath": null,
+      "name": "Midwest"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-09",
+  "externalIds": {
+    "imdbId": "tt33214716",
+    "wikidataId": "Q134888419"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1476746,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Florist",
+  "overview": "A quiet horticulturalist harboring a secret life as a lethal assassin finds his true identity jeopardized when he forms an unlikely friendship with a witnesses to police corruption.",
+  "posterPath": "/4tnRvIiWMzVA2Tw9c7INLo4sfo0.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-08"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-09",
+      "gapDays": 0,
+      "theatricalDate": "2026-10-09"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-10-08"
+    },
+    "US": {
+      "digital": "2026-10-09",
+      "theatrical": "2026-10-09"
+    }
+  },
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-09",
+  "title": "The Florist",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "LNmIdALXoKo",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 28,
+  "watchProviders": {}
+}

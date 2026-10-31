@@ -1,0 +1,182 @@
+{
+  "backdropPath": "/aPcHRnEYmr6Fn0ijwgwPT5fY4c0.jpg",
+  "cast": [
+    {
+      "character": "Erin Pinnelli",
+      "id": 91402,
+      "name": "Ali Liebert",
+      "profilePath": "/gBqC2pUU7TtW9pdYqernpRivSel.jpg"
+    },
+    {
+      "character": "Kelly Townsend",
+      "id": 1475939,
+      "name": "Katherine Barrell",
+      "profilePath": "/o59OzBD1nBDYM5r3mUpBOIdJmBe.jpg"
+    },
+    {
+      "character": "Betty Mitchell",
+      "id": 104646,
+      "name": "Barbara Niven",
+      "profilePath": "/qRwCFXzAzna7viOOC4xjOCSu2Hy.jpg"
+    },
+    {
+      "character": "Travis",
+      "id": 2688561,
+      "name": "Andrew J. Hampton",
+      "profilePath": "/5PKIbjOtxGOVPUnhu2iWFhLGGjr.jpg"
+    },
+    {
+      "character": "Mr. Seltzer",
+      "id": 37432,
+      "name": "Robert Wisden",
+      "profilePath": "/lLl40wVqPB9dylabUAu4qvWUu6O.jpg"
+    },
+    {
+      "character": "Angie Pinnelli",
+      "id": 3219862,
+      "name": "Caitriona Murphy",
+      "profilePath": null
+    },
+    {
+      "character": "Joyce Townsend",
+      "id": 88168,
+      "name": "Rebecca Staab",
+      "profilePath": "/AavKqTvgAjqoJHFc4xOipmZJXiV.jpg"
+    },
+    {
+      "character": "Andrew",
+      "id": 5561021,
+      "name": "Lukas Pfob",
+      "profilePath": null
+    },
+    {
+      "character": "Jennifer",
+      "id": 2860486,
+      "name": "Katrina Reynolds",
+      "profilePath": "/ipw2NwtMc4nGw0KcsNdP1NoSNj5.jpg"
+    },
+    {
+      "character": "Sheryl",
+      "id": 3445074,
+      "name": "Jody Quine",
+      "profilePath": "/zmqDLq6lqjtuBMB2fZ08CImU59I.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 266872,
+      "logoPath": "/xiBTudkHBBRWOsAoP0y5A6klyQE.png",
+      "name": "Studio TF1 America"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36963465"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1547929,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Christmas Baby",
+  "overview": "When a baby boy shows up on their doorstep days before Christmas with a note written specially for them, Erin and Kelly must learn how to navigate their new relationship and career dynamics while unexpectedly caring for a newborn.",
+  "posterPath": "/6PSxu99G31ipYwlK6cYS0CNQGv3.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2025-12-21"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Christmas Baby",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "FdsoAqGY-Ys",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 290,
+          "logoPath": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "id": 2058,
+          "logoPath": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "id": 1746,
+          "logoPath": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1547929-the-christmas-baby/watch?locale=US",
+      "rent": []
+    }
+  }
+}

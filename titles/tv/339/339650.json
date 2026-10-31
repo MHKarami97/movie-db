@@ -1,0 +1,206 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "DI Sylvia 'Vox' Voxley",
+      "id": 6613,
+      "name": "Minnie Driver",
+      "profilePath": "/2uwaHwpoutbXMuYY5v2dhWU0hml.jpg"
+    },
+    {
+      "character": "Luke",
+      "id": 220232,
+      "name": "Luke Pasqualino",
+      "profilePath": "/egwyqohJ3KLag4GUyTzXGngwTc1.jpg"
+    },
+    {
+      "character": "Walter Greaves",
+      "id": 77505,
+      "name": "David Ganly",
+      "profilePath": "/e9NUAspQ306cmyhkl3gG5LU1LHi.jpg"
+    },
+    {
+      "character": "Tommy",
+      "id": 3659018,
+      "name": "Ryan Hayes",
+      "profilePath": "/yOz08Us3koL24wfCUBHWEbzDukM.jpg"
+    },
+    {
+      "character": "Sgt Jake 'Arnie' Arnold",
+      "id": 2998707,
+      "name": "Laurie Duncan",
+      "profilePath": "/w60z9qUyTkASC47lCutIXu1wPh5.jpg"
+    },
+    {
+      "character": "DCI Evan 'Chef' Cook",
+      "id": 2258,
+      "name": "Stuart McQuarrie",
+      "profilePath": "/uK7JmNrNrHUvueKyIvNrN1SlHKO.jpg"
+    },
+    {
+      "character": "Freya Hartley",
+      "id": 1723014,
+      "name": "Louisa Harland",
+      "profilePath": "/8uH0t3Y7saXoPTYiSGy8ZQn6s8B.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2026-12-31",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-12-31",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-31",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-31",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-31",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-07",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-07",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-07",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-07",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt43630561"
+  },
+  "fetchedAt": 1795031469102,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 339650,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2026-12-31",
+    "episodeNumber": 1,
+    "id": 7995741,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "The Day",
+  "overview": "Police stumble upon a bank robbery mid-heist, and the criminals barricade themselves inside. A hostage negotiator battles time and mounting pressure to save the hostages during a tense siege.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-12-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-12-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-12-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-12-31",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-12-31"
+    },
+    "CN": {
+      "tv": "2026-12-31"
+    },
+    "GB": {
+      "tv": "2026-12-31"
+    },
+    "US": {
+      "tv": "2026-12-31"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-12-31",
+      "episodeCount": 8,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Day",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

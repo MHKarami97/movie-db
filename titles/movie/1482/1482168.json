@@ -1,0 +1,216 @@
+{
+  "backdropPath": "/eUDjpW2wQg2fvSFDohhkIZkjnFw.jpg",
+  "cast": [
+    {
+      "character": "Self - Guitar (archive footage)",
+      "id": 1625220,
+      "name": "Hillel Slovak",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 15310,
+      "name": "Anthony Kiedis",
+      "profilePath": "/5tsTeYpixbIDtBljiFgPgWt9KQP.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1237,
+      "name": "Flea",
+      "profilePath": "/nGQE7xf4YJeqO0a4lpFebhwI7R9.jpg"
+    },
+    {
+      "character": "Self - Guitar & Vocals",
+      "id": 143473,
+      "name": "Alain Johannes",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Drums",
+      "id": 4121008,
+      "name": "Jack Irons",
+      "profilePath": "/e57vASpj5yh8aj4yuof5bPPpjRm.jpg"
+    },
+    {
+      "character": "Self - Hillel's Brother",
+      "id": 5442440,
+      "name": "James Slovak",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Performance Artist",
+      "id": 6114653,
+      "name": "Gary Allen",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Artist",
+      "id": 6114655,
+      "name": "Addie Brik",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Record Producer",
+      "id": 130151,
+      "name": "George Clinton",
+      "profilePath": "/wLRc7AUiuHS9e0nAXpXbWZO2h8O.jpg"
+    },
+    {
+      "character": "Self - Record Producer",
+      "id": 2044481,
+      "name": "Michael Beinhorn",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 127499,
+      "logoPath": "/zTchoLvjEs5MvY8fEd8rSiAIhYh.png",
+      "name": "Polygram Entertainment"
+    },
+    {
+      "id": 8185,
+      "logoPath": "/f60WWzs5FX7zKOls2T0rLoyDK9Y.png",
+      "name": "Submarine Entertainment"
+    },
+    {
+      "id": 287752,
+      "logoPath": null,
+      "name": "Asta Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-03-20",
+  "externalIds": {
+    "imdbId": "tt36971084",
+    "wikidataId": "Q141250239"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1482168,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel",
+  "overview": "Explore the formative years of the Red Hot Chili Peppers and the profound influence of original bandmate Hillel Slovak.",
+  "posterPath": "/y9hHoO3eB7l3ZjYUZoJUJpZW22V.jpg",
+  "rating": 7.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-20",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-03-20",
+      "premiere": "2026-03-13"
+    }
+  },
+  "runtime": 95,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Exs7-tOaQQY",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 50,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1482168-the-rise-of-the-red-hot-chili-peppers-our-brother-hillel/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1482168-the-rise-of-the-red-hot-chili-peppers-our-brother-hillel/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1482168-the-rise-of-the-red-hot-chili-peppers-our-brother-hillel/watch?locale=US",
+      "rent": []
+    }
+  }
+}

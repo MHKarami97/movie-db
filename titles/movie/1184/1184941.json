@@ -1,0 +1,284 @@
+{
+  "backdropPath": "/t62n8FPCo4kJZYnsxkcLojgThJF.jpg",
+  "cast": [
+    {
+      "character": "Sasha",
+      "id": 5551858,
+      "name": "Eylul Guven",
+      "profilePath": "/3v1pjPSSqrrDnbiDYMY7K0J3I7I.jpg"
+    },
+    {
+      "character": "Mother",
+      "id": 2917976,
+      "name": "Iringó Réti",
+      "profilePath": "/ajc9HukRgGYLSVghUC01w1EhN2U.jpg"
+    },
+    {
+      "character": "Father",
+      "id": 2100642,
+      "name": "Ádám Tompa",
+      "profilePath": "/qI5LYGm74se7hAkbFlyh3zYffx4.jpg"
+    },
+    {
+      "character": "Jeremy",
+      "id": 5551860,
+      "name": "Edik Beddoes",
+      "profilePath": "/4MuPYQpWOMRLAjuMGqfcxDuAfwB.jpg"
+    },
+    {
+      "character": "Adult Sasha",
+      "id": 1998732,
+      "name": "Amy Zimmer",
+      "profilePath": "/shJLNOFfFcTUzLo87KEstzNkXVF.jpg"
+    },
+    {
+      "character": "Henry",
+      "id": 4616678,
+      "name": "Liam Serg",
+      "profilePath": "/qnj0hByUUyme8MqBoyMN2FazzO9.jpg"
+    },
+    {
+      "character": "Felix",
+      "id": 2639340,
+      "name": "Preston Drabble",
+      "profilePath": "/svzuVRnLOz3XNF1kfYnkel4c57i.jpg"
+    },
+    {
+      "character": "Emma",
+      "id": 5551866,
+      "name": "Lucy Turnbull",
+      "profilePath": "/2wV9cxThRKEaGin1mhQGnqP6PHO.jpg"
+    },
+    {
+      "character": "Becky",
+      "id": 5551868,
+      "name": "Jecca Beauchamp",
+      "profilePath": "/8kKG9WmSdUuLjgyvFev5UjKdqII.jpg"
+    },
+    {
+      "character": "Ashley",
+      "id": 6168224,
+      "name": "Georgia Blake",
+      "profilePath": "/h83snoLbYt2fqiggViE4EYrgQ4g.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 116888,
+      "logoPath": null,
+      "name": "Nine Behind Productions"
+    },
+    {
+      "id": 62358,
+      "logoPath": "/namTJTqWjO2R92SKl8VLcXmhTAp.png",
+      "name": "Boddah"
+    },
+    {
+      "id": 34777,
+      "logoPath": "/slfGgHfiKJsHjoeAhfLykCflt6h.png",
+      "name": "MEMORY"
+    },
+    {
+      "id": 217122,
+      "logoPath": "/yvL2vLmhuiW8cq5BxCRGTBTuJAN.png",
+      "name": "Tinygiant"
+    },
+    {
+      "id": 274195,
+      "logoPath": "/5v5PQoDWHIKUiv0ZGCJj9x6fUyn.png",
+      "name": "Ursa Major"
+    },
+    {
+      "id": 262205,
+      "logoPath": "/xD0hmiPwYcgHmCXAGKqSx3N3uxu.png",
+      "name": "Simbelle Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-07-21",
+  "externalIds": {
+    "imdbId": "tt32252801",
+    "wikidataId": "Q135321336"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 95,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1184941,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "hu",
+      "name": "Hungarian"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Blue Heron",
+  "overview": "A family of six's fresh start on 1990s Vancouver Island unravels as their youngest child, Sasha, witnesses the increasingly dangerous behavior of her older brother, Jeremy.",
+  "posterPath": "/4hfMbVbYc2gsMnSE1K8Oc9LQH4j.jpg",
+  "rating": 6.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-06-26"
+    },
+    "US": {
+      "digitalDate": "2026-07-21",
+      "gapDays": 95,
+      "theatricalDate": "2026-04-17"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2025-12-05"
+    },
+    "GB": {
+      "premiere": "2025-10-14",
+      "theatrical": "2026-06-26"
+    },
+    "US": {
+      "digital": "2026-07-21",
+      "physical": "2026-11-10",
+      "premiere": "2025-10-18",
+      "theatricalLimited": "2026-04-17"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-04-17",
+  "title": "Blue Heron",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "GK_jIw2Mj9c",
+      "name": "Official Criterion Trailer",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "JeWg8wUlQVo",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 52,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 11,
+          "logoPath": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+          "name": "MUBI"
+        },
+        {
+          "id": 201,
+          "logoPath": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+          "name": "MUBI Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1184941-blue-heron/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 224,
+          "logoPath": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+          "name": "BFI Player"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 258,
+          "logoPath": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+          "name": "Criterion Channel"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1184941-blue-heron/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ]
+    }
+  }
+}

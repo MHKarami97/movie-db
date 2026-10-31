@@ -1,0 +1,79 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "George",
+      "id": 6647616,
+      "name": "Vasilis Korokokos",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 319010,
+      "logoPath": null,
+      "name": "ASTEIO PRODUCTIONS"
+    }
+  ],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1794946854500,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1828170,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "el",
+      "name": "Greek"
+    }
+  ],
+  "originalTitle": "Τελείωσε το Αστείο",
+  "overview": "Four friends go out only to make up a new joke and a couple of days later they decide that their new joke has ended.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 70,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "ARE YOU READY FOR YOUR NEW JOKE?",
+  "theatricalDate": null,
+  "title": "The Joke Has Ended",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

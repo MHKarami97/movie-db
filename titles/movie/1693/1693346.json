@@ -1,0 +1,157 @@
+{
+  "backdropPath": "/yYXGiAPB2eh6bpyGRPZAPq0mPK5.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 237405,
+      "name": "Lady Gaga",
+      "profilePath": "/9Y4Pz7AEXhB9qNar2tMsx5EVXML.jpg"
+    },
+    {
+      "character": "Self - Bass",
+      "id": 1785768,
+      "name": "Eric Ingram",
+      "profilePath": null
+    },
+    {
+      "character": "Self (voice)",
+      "id": 969218,
+      "name": "Bruno Mars",
+      "profilePath": "/imuRtakxrqON7dEqpZ831uYKi0e.jpg"
+    },
+    {
+      "character": "Self - Keyboards & Synthesizer",
+      "id": 4749924,
+      "name": "Brockett Parsons",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Drums",
+      "id": 5865411,
+      "name": "Tosh Peterson",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Guitar",
+      "id": 3841647,
+      "name": "Tim Stewart",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Guitar",
+      "id": 3565683,
+      "name": "Ricky Tillo",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 298281,
+      "logoPath": null,
+      "name": "Morningview"
+    },
+    {
+      "id": 276239,
+      "logoPath": "/hvgCGo8w2nSF0HYWIdDPDfPB2w7.png",
+      "name": "Apple Music"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-05-14",
+  "externalIds": {
+    "imdbId": "tt42615436",
+    "wikidataId": "Q139786539"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1693346,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Apple Music Live: Lady Gaga MAYHEM Requiem",
+  "overview": "For Apple Music Live, Gaga presents MAYHEM Requiem, a celebration and musical reimagining of MAYHEM.",
+  "posterPath": "/5qJgfeZRcz6EOi6zUb9tpSlmDni.jpg",
+  "rating": 8.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-05-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-14",
+      "gapDays": 0,
+      "theatricalDate": "2026-05-14"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "digital": "2026-05-14"
+    },
+    "US": {
+      "digital": "2026-05-14",
+      "theatricalLimited": "2026-05-14"
+    }
+  },
+  "runtime": 68,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "“Stranger, Remember Me”",
+  "theatricalDate": "2026-05-14",
+  "title": "Apple Music Live: Lady Gaga MAYHEM Requiem",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "96AN75TF-QI",
+      "name": "Lady Gaga: The Making of MAYHEM Requiem | Apple Music",
+      "official": false,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "lAbROEVxhZc",
+      "name": "Lady Gaga: “Die With A Smile“  (Live Performance) | MAYHEM Requiem | Apple Music Live",
+      "official": false,
+      "type": "Clip"
+    },
+    {
+      "key": "R3gpbT-JZMk",
+      "name": "Lady Gaga - Killah (Apple Music Live 2026)",
+      "official": false,
+      "type": "Clip"
+    },
+    {
+      "key": "rFtBOHkks3I",
+      "name": "Lady Gaga: MAYHEM Requiem, May 14th at 8PM PT | Apple Music",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 40,
+  "watchProviders": {}
+}

@@ -1,0 +1,138 @@
+{
+  "backdropPath": "/lFfcRErLoDpzfOgh6Kq71L6uRQw.jpg",
+  "cast": [
+    {
+      "character": "Jane Banbury",
+      "id": 9827,
+      "name": "Rose Byrne",
+      "profilePath": "/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+    },
+    {
+      "character": "Julia Sterroll",
+      "id": 45651,
+      "name": "Kelli O'Hara",
+      "profilePath": "/jfAayOimEN3W7OTcB1vjySISpDc.jpg"
+    },
+    {
+      "character": "Saunders",
+      "id": 1141410,
+      "name": "Tracee Chimo",
+      "profilePath": "/u8IF9DHLAkhtdtfCdUXAlZY4RSQ.jpg"
+    },
+    {
+      "character": "Maurice Duclos",
+      "id": 112143,
+      "name": "Mark Consuelos",
+      "profilePath": "/wz06awHQuxEwRiYgFl6f1iGLbJC.jpg"
+    },
+    {
+      "character": "Willy Banbury",
+      "id": 186311,
+      "name": "Christopher Fitzgerald",
+      "profilePath": "/iEqwgdX7yW3qS70mGubrAeVwg1E.jpg"
+    },
+    {
+      "character": "Fred Sterroll",
+      "id": 20644,
+      "name": "Aasif Mandvi",
+      "profilePath": "/hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 139109,
+      "logoPath": "/lzLSnNzlBzuYLXGEvYl6s0dja3j.png",
+      "name": "Trafalgar Releasing"
+    },
+    {
+      "id": 154643,
+      "logoPath": null,
+      "name": "Roundabout Theatre Company"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt42921285"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1702350,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Fallen Angels by Noël Coward",
+  "overview": "Two upper-class wives, their husbands away for the day, share a few toasts to their pre-marital dalliances—with the same man, who just may be en route from France to visit. Old rivalries and past scandals bubble to the surface in this intoxicating romp from one of theatre’s comedy masters.",
+  "posterPath": "/fVUdqgCL8hgWzEho5mGMTdXPY2o.jpg",
+  "rating": 8.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-22"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-22"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatricalLimited": "2026-10-22"
+    },
+    "US": {
+      "premiere": "2026-06-05",
+      "theatricalLimited": "2026-10-22"
+    }
+  },
+  "runtime": 105,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-22",
+  "title": "Fallen Angels by Noël Coward",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "UPe63HYOypc",
+      "name": "Fallen Angels Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "jX3CNE2tfUY",
+      "name": "Fallen Angels | Theatre Talk",
+      "official": false,
+      "type": "Behind the Scenes"
+    }
+  ],
+  "voteCount": 2,
+  "watchProviders": {}
+}

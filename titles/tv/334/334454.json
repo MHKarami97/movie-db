@@ -1,0 +1,166 @@
+{
+  "backdropPath": "/ga6g5vRfue8pzLQmWIiIIiDy4zn.jpg",
+  "cast": [
+    {
+      "character": "Alkaios (voice)",
+      "id": 2545876,
+      "name": "Richard Antony",
+      "profilePath": null
+    },
+    {
+      "character": "Penelope (voice)",
+      "id": 1291204,
+      "name": "Abigail Rice",
+      "profilePath": "/lFLVEnvKwc4ExAx9rLdFipp9TRI.jpg"
+    },
+    {
+      "character": "Philippos (voice)",
+      "id": 6465019,
+      "name": "Heath Douglass",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "digitalDate": "2028-01-01",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2028-01-01",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2028-01-08",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2028-01-15",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10768,
+      "name": "War & Politics"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "id": 334454,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fa",
+      "name": "Persian"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2028-01-01",
+    "episodeNumber": 1,
+    "id": 7781579,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Hero of Bronze",
+  "overview": "",
+  "posterPath": "/r6TCAB5DmzGgHtyR3b56gjxiNaX.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2028-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2028-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2028-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2028-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2028-01-01"
+    },
+    "CN": {
+      "tv": "2028-01-01"
+    },
+    "GB": {
+      "tv": "2028-01-01"
+    },
+    "US": {
+      "tv": "2028-01-01"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2023-01-29",
+      "episodeCount": 1,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2028-01-01",
+      "episodeCount": 3,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Hero of Bronze",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

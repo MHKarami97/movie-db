@@ -1,0 +1,170 @@
+{
+  "backdropPath": "/9KJ9sd9mxZYCqpsQUvryTaB1zNw.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 998387,
+      "name": "Ed Sheeran",
+      "profilePath": "/mDxoabaCvvIBGrtqsmLftCRFQoY.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1911673,
+      "name": "Camila Cabello",
+      "profilePath": "/oXScbfmhbNk3Qf8cqpHjQjdMAhe.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 261715,
+      "logoPath": "/b4jeQsb11OccK3kZnW8twrN39g7.png",
+      "name": "Fulwell Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-11-21",
+  "externalIds": {
+    "imdbId": "tt38608937"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1559572,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "ONE SHOT with Ed Sheeran",
+  "overview": "One singer. One city. One shot. Ed Sheeran rocks the streets of New York with his greatest hits in this groundbreaking, real-time music experience.",
+  "posterPath": "/iSYHqrzvIuDm2HQ3ozM2vLugpRk.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-11-21",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-11-21",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-21",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2025-11-21"
+    },
+    "GB": {
+      "digital": "2025-11-21"
+    },
+    "US": {
+      "digital": "2025-11-21"
+    }
+  },
+  "runtime": 61,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "One hour in New York. One continuous shot. No redos.",
+  "theatricalDate": null,
+  "title": "ONE SHOT with Ed Sheeran",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "rd6eJdobBMM",
+      "name": "Surprise Proposal with Ed Sheeran",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "J49t-rLedKo",
+      "name": "The Making of ONE SHOT with Ed Sheeran: A Music Experience",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "FjO8XACCpiQ",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 23,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1559572-one-shot-with-ed-sheeran/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1559572-one-shot-with-ed-sheeran/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1559572-one-shot-with-ed-sheeran/watch?locale=US",
+      "rent": []
+    }
+  }
+}

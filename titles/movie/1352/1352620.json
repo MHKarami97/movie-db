@@ -1,0 +1,151 @@
+{
+  "backdropPath": "/hXsEEq9LiHC3zsJDWgSSySVXOWf.jpg",
+  "cast": [
+    {
+      "character": "Ryan",
+      "id": 3734436,
+      "name": "Elliot Grihault",
+      "profilePath": "/vsknXoWzeOMEXqxUhlKMfP8Frax.jpg"
+    },
+    {
+      "character": "Shakespeare",
+      "id": 1534392,
+      "name": "Paul Ready",
+      "profilePath": "/puDAhioW6SPvnosoSaIPVnNPnxK.jpg"
+    },
+    {
+      "character": "Philip",
+      "id": 1010912,
+      "name": "Tim Downie",
+      "profilePath": "/reyrUHA8M5iFLY3rxRfZD9Ap98S.jpg"
+    },
+    {
+      "character": "Jasmine",
+      "id": 4925099,
+      "name": "Flo Thompstone",
+      "profilePath": "/lLVyFmwOdCMRTJ3QlBo2DAnVMXn.jpg"
+    },
+    {
+      "character": "Cassie",
+      "id": 4925100,
+      "name": "Anya Preston",
+      "profilePath": "/JeNWhVuzJD236J3xKxKC93GxWB.jpg"
+    },
+    {
+      "character": "Fred",
+      "id": 1364036,
+      "name": "Rudi Goodman",
+      "profilePath": "/91wdaiihJEKVWPa6jo1kKEmjsbp.jpg"
+    },
+    {
+      "character": "Hugo",
+      "id": 3711966,
+      "name": "James Craven",
+      "profilePath": "/mckKbACqechK1DzKpxutoszvfdh.jpg"
+    },
+    {
+      "character": "Billy",
+      "id": 3052866,
+      "name": "Mark Lavery",
+      "profilePath": "/uIeCTcchpp5FxhqWEwJbneQ0sxJ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 238207,
+      "logoPath": null,
+      "name": "Clover Fox Films"
+    },
+    {
+      "id": 258753,
+      "logoPath": null,
+      "name": "Elevation Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt30320596",
+    "instagramId": "cloverfoxfilms",
+    "wikidataId": "Q140053034"
+  },
+  "fetchedAt": 1794158926475,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1352620,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "All That Glitters",
+  "overview": "After accidentally summoning the ghost of William Shakespeare, an insecure teenager tries to land the role of Romeo in his school play and win over the girl playing Juliet, with the Bard as his guide.",
+  "posterPath": "/vWmUc384CzqI8QcostF3EQRlfHE.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-01-22"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-11-06",
+      "theatrical": "2027-01-22"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "For isn't all the world a stage?",
+  "theatricalDate": "2027-01-22",
+  "title": "All That Glitters",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "tS8mcM4bz4k",
+      "name": "All That Glitters | Official Teaser",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

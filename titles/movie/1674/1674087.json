@@ -1,0 +1,169 @@
+{
+  "backdropPath": "/vt58XXXCRMHjuBRXxQVFceQN69v.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 140202,
+      "name": "Robin Byrd",
+      "profilePath": "/8MpCnuS2gVA5y6BfVKlsvj6vCcY.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 3664,
+      "name": "Sandra Bernhard",
+      "profilePath": "/3S93MgFQtXH4eO3oCxx1BA13nBj.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 60252,
+      "name": "Cheri Oteri",
+      "profilePath": "/A56szuLpt2yttvnHB49KNUZmD4b.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 98384,
+      "name": "Annie Sprinkle",
+      "profilePath": "/9DxV6lxOvpJNAVu5bw5wlqmODyO.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6342290,
+      "name": "Daylon Orr",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 79896,
+      "logoPath": null,
+      "name": "Pretty Matches Productions"
+    },
+    {
+      "id": 180014,
+      "logoPath": null,
+      "name": "Laylow Pictures"
+    },
+    {
+      "id": 14914,
+      "logoPath": "/1RZBWz53SpHUTLpRcM8BGv2plIP.png",
+      "name": "HBO Documentary Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-06-30",
+  "externalIds": {
+    "imdbId": "tt41702551",
+    "wikidataId": "Q140222786"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1674087,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Bang My Box: The Robin Byrd Story",
+  "overview": "Robin Byrd pioneered NYC public access with her cult sex-positive call-in show.  Now the larger-than-life 70-year-old champion of free speech, queer visibility, and safe sex reflects on her unique legacy and her hidden, decades-long marriage behind the scenes.",
+  "posterPath": "/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
+  "rating": 5.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-30",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-06-30",
+      "premiere": "2026-06-09",
+      "tv": "2026-06-30"
+    }
+  },
+  "runtime": 79,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Bang My Box: The Robin Byrd Story",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "QWl_IE5eN4I",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1674087-bang-my-box-the-robin-byrd-story/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1674087-bang-my-box-the-robin-byrd-story/watch?locale=US",
+      "rent": []
+    }
+  }
+}

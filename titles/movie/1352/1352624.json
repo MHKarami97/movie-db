@@ -1,0 +1,390 @@
+{
+  "backdropPath": "/cfnrMVUAGOIMoxH5aXg1nBXR8xk.jpg",
+  "cast": [
+    {
+      "character": "James Blaine Mooney",
+      "id": 1206334,
+      "name": "Josh O'Connor",
+      "profilePath": "/pVv0zCvpNyuWoJcABq8RrM90FsK.jpg"
+    },
+    {
+      "character": "Terri Mooney",
+      "id": 1741367,
+      "name": "Alana Haim",
+      "profilePath": "/uOU4uueRxH5BYhzNjzPxJOxZStJ.jpg"
+    },
+    {
+      "character": "Sarah Mooney",
+      "id": 15250,
+      "name": "Hope Davis",
+      "profilePath": "/t2cuZK3D4x2j2DaDbD5lu0SM2Lv.jpg"
+    },
+    {
+      "character": "Fred",
+      "id": 37154,
+      "name": "John Magaro",
+      "profilePath": "/ah4Jm4Lmrgab9xdHwRId80S4REd.jpg"
+    },
+    {
+      "character": "Maude",
+      "id": 12930,
+      "name": "Gaby Hoffmann",
+      "profilePath": "/bMdxuHqCJkf4dAFKleYRs2GXDN9.jpg"
+    },
+    {
+      "character": "Tommy Mooney",
+      "id": 5028408,
+      "name": "Jasper Thompson",
+      "profilePath": null
+    },
+    {
+      "character": "Carl Mooney",
+      "id": 5426570,
+      "name": "Sterling Thompson",
+      "profilePath": null
+    },
+    {
+      "character": "Guy Hickey",
+      "id": 1570321,
+      "name": "Eli Gelb",
+      "profilePath": "/pPWQWt7TGqQD4CKUAqgsaCby3wl.jpg"
+    },
+    {
+      "character": "Larry Duffy",
+      "id": 1467214,
+      "name": "Cole Doman",
+      "profilePath": "/anVQL5ZgBTR7ZF1e9KAgjbja1JU.jpg"
+    },
+    {
+      "character": "Ronnie Gibson",
+      "id": 3167042,
+      "name": "Javion Allen",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 1976,
+      "logoPath": "/vuNHAl3LpcNtjtRx8Ml4gpUMO2G.png",
+      "name": "filmscience"
+    },
+    {
+      "id": 204957,
+      "logoPath": "/16gclYCHdh6QFQyBRNOo3DuaqDT.png",
+      "name": "MUBI"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-12-12",
+  "externalIds": {
+    "imdbId": "tt33455099",
+    "wikidataId": "Q130569520"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 49,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1352624,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "The Mastermind",
+  "overview": "In a sedate Massachusetts suburb circa 1970, unemployed family man and amateur art thief J.B. Mooney sets out on his first heist. With the museum cased and accomplices recruited, he has an airtight plan. Or so he thinks.",
+  "posterPath": "/oPaEQ3m4zHOzIAstgXCZZtzcHTL.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-12-12",
+      "gapDays": 49,
+      "theatricalDate": "2025-10-24"
+    },
+    "US": {
+      "digitalDate": "2025-12-12",
+      "gapDays": 49,
+      "theatricalDate": "2025-10-24"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2025-09-28"
+    },
+    "GB": {
+      "digital": "2025-12-12",
+      "physical": "2026-06-21",
+      "premiere": "2025-10-13",
+      "theatrical": "2025-10-24"
+    },
+    "US": {
+      "digital": "2025-12-12",
+      "premiere": "2025-08-29",
+      "theatrical": "2025-10-24",
+      "theatricalLimited": "2025-10-17"
+    }
+  },
+  "runtime": 110,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "It’s not stealing if you don’t get caught.",
+  "theatricalDate": "2025-10-24",
+  "title": "The Mastermind",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "59Dq3-rCgwE",
+      "name": "Video essay: “THE MASTERMIND: Unwinding the Heist Film”",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "xDQLGrdb2y4",
+      "name": "Kelly Reichardt: THE MASTERMIND behind some of the best movies of the century | MUBI Podcast",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ASH5vXpi3xA",
+      "name": "Official Trailer #2",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "HQFOZprMRUo",
+      "name": "Kelly Reichardt's THE MASTERMIND, is now streaming.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "B_rLTjH_ly8",
+      "name": "THE MASTERMIND streams this Friday",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "fcOkTsLE3tE",
+      "name": "“It's never like a blank slate with him.\"",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "bfP_oLtp19U",
+      "name": "Josh O'Connor on Stealing Art, Winning Hearts & Dad's Advice for The Mastermind | BAFTA",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "qjeAq6tl8Hc",
+      "name": "Josh O'Connor and Eli Gelb on whether they could pull off a heist",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "v7KmArGjDaU",
+      "name": "Life interrupts larceny in Kelly Reichardt's THE MASTERMIND.",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "NgKd17umAUk",
+      "name": "A film about a man who thinks he has a plan. Josh O'Connor introduces us to THE MASTERMIND",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Ih4Y4t67HN0",
+      "name": "Kelly Reichardt, John Magaro, Hope Davis & Matthew Maher on The Mastermind",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "TT5we9L89Pk",
+      "name": "Kelly Reichardt and Cast on The Mastermind",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "dGhqG39EyNM",
+      "name": "The cast of THE MASTERMIND at the New York Film Festival",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "9dLBAXAXynM",
+      "name": "Josh O' Connor's got things to do in THE MASTERMIND",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "AWokrf6yeEU",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "Z_U6rNug1bU",
+      "name": "Official Vertical Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "PC6ky_Bt86M",
+      "name": "Official Clip",
+      "official": true,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 233,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 11,
+          "logoPath": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+          "name": "MUBI"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1352624-the-mastermind/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 11,
+          "logoPath": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+          "name": "MUBI"
+        },
+        {
+          "id": 201,
+          "logoPath": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+          "name": "MUBI Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1352624-the-mastermind/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 11,
+          "logoPath": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+          "name": "MUBI"
+        },
+        {
+          "id": 201,
+          "logoPath": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+          "name": "MUBI Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1352624-the-mastermind/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

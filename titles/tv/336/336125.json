@@ -1,0 +1,131 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Conrad Henry",
+      "id": 11275,
+      "name": "Stephen Fry",
+      "profilePath": "/dH7GuUZ8QPM9RN99ak9KKOkSkdS.jpg"
+    },
+    {
+      "character": "Lisa Ann Woodrow",
+      "id": 40279,
+      "name": "Jenna Elfman",
+      "profilePath": "/AsXlf2XtVF3tyx0GrUPRq72NLIa.jpg"
+    },
+    {
+      "character": "Astrid",
+      "id": 1221085,
+      "name": "Jessica Sula",
+      "profilePath": "/2lLET7EhRy98ad5Mgc9jMk4Sb0S.jpg"
+    },
+    {
+      "character": "Louis",
+      "id": 87118,
+      "name": "Michael Beach",
+      "profilePath": "/7gCBCpK2OSzuUWk5iTZds9NjqkF.jpg"
+    },
+    {
+      "character": "Voss",
+      "id": 967781,
+      "name": "Luke Kleintank",
+      "profilePath": "/9iDyOwyeUyXNNjpqNwmXKwmwpTh.jpg"
+    },
+    {
+      "character": "Florence",
+      "id": 3320666,
+      "name": "Maria Zhang",
+      "profilePath": "/A8l9dWZH1oSBag58GfbFAT8wfB8.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": null,
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-02-09",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "TBD Episode overview",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": null,
+        "episodeNumber": 2,
+        "name": "TBD Episode 2",
+        "overview": "TBD Episode overview",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": null,
+        "episodeNumber": 3,
+        "name": "TBD Episode 3",
+        "overview": "TBD episode overview",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt39578491"
+  },
+  "fetchedAt": 1794460914024,
+  "gapDays": null,
+  "genres": [],
+  "id": 336125,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": null,
+  "originalTitle": "The Interrogator",
+  "overview": "Follows former MI6 agent Conrad Henry and his elite team. When conventional methods fail, his quirky charm, intellect, and behavioral tactics lockpick the minds of dangerous criminals.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": null,
+      "episodeCount": 3,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Interrogator",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

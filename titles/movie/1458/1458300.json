@@ -1,0 +1,182 @@
+{
+  "backdropPath": "/6BQf817glhR9motzKeCPynPGySi.jpg",
+  "cast": [
+    {
+      "character": "John McLaughry",
+      "id": 1425934,
+      "name": "Nicholas Galitzine",
+      "profilePath": "/hG4rH7eBMs117746bBOd8fUa4PA.jpg"
+    },
+    {
+      "character": "",
+      "id": 137905,
+      "name": "Bill Skarsgård",
+      "profilePath": "/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg"
+    },
+    {
+      "character": "",
+      "id": 60960,
+      "name": "Ray Nicholson",
+      "profilePath": "/f0MRbGIyTEJLJgHedJS8pRFhGn4.jpg"
+    },
+    {
+      "character": "",
+      "id": 2882960,
+      "name": "Tom Francis",
+      "profilePath": "/u2xOsPIwCUwyxuzeH5UMxLRJb0h.jpg"
+    },
+    {
+      "character": "George Murphy",
+      "id": 5552596,
+      "name": "Brent Comer",
+      "profilePath": "/6smfSn7hguUfnoH2iE0tdXT4xNd.jpg"
+    },
+    {
+      "character": "Frances Langford",
+      "id": 4473592,
+      "name": "Claudia Ware",
+      "profilePath": "/cT6jZyUCAdzbBA0oZ1Y3AnbXUWH.jpg"
+    },
+    {
+      "character": "",
+      "id": 3291945,
+      "name": "Stacy Clausen",
+      "profilePath": "/8zwuEGXi26Yg9FQ29MntI5tWRk2.jpg"
+    },
+    {
+      "character": "Jane",
+      "id": 1813177,
+      "name": "Ella Newton",
+      "profilePath": "/qu6BQ51nvSYW5gxY6QX1bdtQlzl.jpg"
+    },
+    {
+      "character": "Butkovich’s sister",
+      "id": 3295317,
+      "name": "Olga Petsa",
+      "profilePath": "/GMQU9mcXz9N9P2lShhOcjU4ynO.jpg"
+    },
+    {
+      "character": "Jack",
+      "id": 1394435,
+      "name": "Brodie Henson",
+      "profilePath": "/cdAeLFS8Nn6mOcxHoAw49UgUJGB.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 23,
+      "logoPath": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+      "name": "Imagine Entertainment"
+    },
+    {
+      "id": 20153,
+      "logoPath": "/ixRHWYw7SRWHGs0TtnSxj2eVSuV.png",
+      "name": "Film 44"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-25",
+  "externalIds": {
+    "facebookId": "themosquitobowlfilm",
+    "imdbId": "tt36413910",
+    "instagramId": "themosquitobowlfilm",
+    "twitterId": "mosquitobowl",
+    "wikidataId": "Q137826900"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 26,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "id": 1458300,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Mosquito Bowl",
+  "overview": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
+  "posterPath": "/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
+  "rating": 6.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-25",
+      "gapDays": 12,
+      "theatricalDate": "2026-11-13"
+    },
+    "US": {
+      "digitalDate": "2026-11-25",
+      "gapDays": 26,
+      "theatricalDate": "2026-10-30"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-11-25",
+      "theatricalLimited": "2026-11-13"
+    },
+    "US": {
+      "digital": "2026-11-25",
+      "premiere": "2026-10-22",
+      "theatricalLimited": "2026-10-30"
+    }
+  },
+  "runtime": 128,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Trained for glory, called to war.",
+  "theatricalDate": "2026-10-30",
+  "title": "The Mosquito Bowl",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "F6YDzPfjH4I",
+      "name": "Red Band Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "CPFkLjHfKoc",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "-rWIE3-SIOg",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 3,
+  "watchProviders": {}
+}

@@ -1,0 +1,114 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 140790,
+      "logoPath": null,
+      "name": "Balkon Film"
+    },
+    {
+      "id": 83808,
+      "logoPath": "/tJCBy051gAkDVQUNhzPPoY1AVeY.png",
+      "name": "ARS Digital Studio"
+    },
+    {
+      "id": 94632,
+      "logoPath": "/hprS6ykU6geOQA13AQ47aFiSIPC.png",
+      "name": "Steficon"
+    },
+    {
+      "id": 274091,
+      "logoPath": null,
+      "name": "Bielle Re Produzioni Cinematografiche"
+    }
+  ],
+  "countries": [
+    {
+      "code": "TR",
+      "name": "Turkey"
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    {
+      "code": "GR",
+      "name": "Greece"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38769949"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1792050,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ar",
+      "name": "Arabic"
+    },
+    {
+      "code": "ku",
+      "name": "Kurdish"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "tr",
+      "name": "Turkish"
+    }
+  ],
+  "originalTitle": "Rahma",
+  "overview": "For nine years, İbrahim and Meryem have longed to become parents. After five unsuccessful IVF attempts, İbrahim turns to traditional remedies, while Meryem considers surrogacy in Georgia. Adoption is unthinkable for her.",
+  "posterPath": "/bFdThPkxaYX9C6IdFbS4bX6c2ZX.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 110,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Rahma",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

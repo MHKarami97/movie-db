@@ -1,0 +1,161 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Quinn",
+      "id": 6381569,
+      "name": "Quinn Vicente",
+      "profilePath": null
+    },
+    {
+      "character": "Aki Mumei",
+      "id": 6381582,
+      "name": "Emily Aki",
+      "profilePath": null
+    },
+    {
+      "character": "Arthur Grandwell",
+      "id": 6381586,
+      "name": "Arthur Gaio",
+      "profilePath": null
+    },
+    {
+      "character": "Yam",
+      "id": 6381589,
+      "name": "Yam Kambara",
+      "profilePath": null
+    },
+    {
+      "character": "Seepin",
+      "id": 6381577,
+      "name": "Layla \"Seepin\"",
+      "profilePath": null
+    },
+    {
+      "character": "Kris",
+      "id": 6381584,
+      "name": "Kris",
+      "profilePath": null
+    },
+    {
+      "character": "Longano",
+      "id": 6381593,
+      "name": "Longano",
+      "profilePath": null
+    },
+    {
+      "character": "Leith Ninov",
+      "id": 6381588,
+      "name": "AQUAERVILHA",
+      "profilePath": null
+    },
+    {
+      "character": "Cynn",
+      "id": 6381596,
+      "name": "Gray Purgatory",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2027-01-08",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-08",
+        "episodeNumber": 1,
+        "name": "Shepherd",
+        "overview": "A new mayor has been elected to the city of Gurgel. A new chapter begins.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 330403,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-08",
+    "episodeNumber": 1,
+    "id": 7620023,
+    "name": "Shepherd",
+    "overview": "A new mayor has been elected to the city of Gurgel. A new chapter begins.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Into the madness",
+  "overview": "After the past mayor's suicide, the city of Amaral Gurgel descends into madness. Quinn, a young shepherd, sees their life and surroundings rot as the once calm and peaceful city of Gurgel starts changing drastically to the absolute worst.",
+  "posterPath": "/xWVviaDdIojY6fFUqTzMaKpNqtT.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-08",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-08"
+    },
+    "CN": {
+      "tv": "2027-01-08"
+    },
+    "GB": {
+      "tv": "2027-01-08"
+    },
+    "US": {
+      "tv": "2027-01-08"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-08",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "Psychological horror",
+  "theatricalDate": null,
+  "title": "Into the madness",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

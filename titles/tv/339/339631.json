@@ -1,0 +1,182 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 4303795,
+      "name": "Farès Chaanebi",
+      "profilePath": "/hcKAGbldNdFDCzvZbTnysOajoge.jpg"
+    },
+    {
+      "character": "",
+      "id": 2367656,
+      "name": "Cassandra Latreille",
+      "profilePath": "/8RlpAkVqckW84tKE6HurK1cbJ8A.jpg"
+    },
+    {
+      "character": "",
+      "id": 1017220,
+      "name": "Clauter Alexandre",
+      "profilePath": "/mjHjvgKtkccbY5Eh8qYDXKFoiFM.jpg"
+    },
+    {
+      "character": "",
+      "id": 2233070,
+      "name": "Philippe Scrive",
+      "profilePath": "/ubeuXqBavzMNFLGI2OYCV2tzmRI.jpg"
+    },
+    {
+      "character": "",
+      "id": 461309,
+      "name": "Evelyne Brochu",
+      "profilePath": "/11rEHdNfqH6WLJDufd1H0MSIrP6.jpg"
+    },
+    {
+      "character": "",
+      "id": 88592,
+      "name": "Maxim Gaudette",
+      "profilePath": "/iGFDGJmGUxLOSIamTENFDecJdkA.jpg"
+    },
+    {
+      "character": "",
+      "id": 54818,
+      "name": "Pascale Bussières",
+      "profilePath": "/rVWAXcCpYQp4MVOdgHMv4flfOHK.jpg"
+    },
+    {
+      "character": "",
+      "id": 2027591,
+      "name": "Vanessa Boudrias",
+      "profilePath": "/5gCOTd3iTI89cgXRS8wEglCAkF1.jpg"
+    },
+    {
+      "character": "",
+      "id": 1296770,
+      "name": "Madeleine Péloquin",
+      "profilePath": "/dxAARQtPvpnFecBU9OatRSyA4IJ.jpg"
+    },
+    {
+      "character": "Ben",
+      "id": 3512646,
+      "name": "Tiago Plourde-Asenjo",
+      "profilePath": "/gekmiPddx6pRZRZVhNH24JtoVmp.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 71952,
+      "logoPath": "/dMrYah61xS6Jui57SaBFj9Lox9c.png",
+      "name": "Trio Orange"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2027-03-31",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-03-31",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 339631,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-03-31",
+    "episodeNumber": 1,
+    "id": 7995209,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "CAP",
+  "overview": "",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-03-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-03-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-03-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-03-31",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-03-31"
+    },
+    "CN": {
+      "tv": "2027-03-31"
+    },
+    "GB": {
+      "tv": "2027-03-31"
+    },
+    "US": {
+      "tv": "2027-03-31"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-03-31",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "CAP",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

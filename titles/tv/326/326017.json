@@ -1,0 +1,117 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2028-10-17",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2028-10-17",
+        "episodeNumber": 1,
+        "name": "The Long Way Home",
+        "overview": "On the first week of summer vacation, four friends discover an abandoned bicycle near Kilometer 7 and become intrigued by the mystery surrounding it.",
+        "stillPath": "/yjpkOfJ6W9Zqd5WABzlFv80Iwu2.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2028-10-24",
+        "episodeNumber": 2,
+        "name": "The Fifth Name",
+        "overview": "As the mystery deepens, the friends uncover a disturbing connection between Kilometer 7 and a series of disappearances stretching back decades.",
+        "stillPath": "/yjpkOfJ6W9Zqd5WABzlFv80Iwu2.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2028-10-31",
+        "episodeNumber": 3,
+        "name": "The One We Lost",
+        "overview": "With summer coming to an end, the friends make one final attempt to uncover the truth behind Kilometer 7. Only to end up with a verdict that would change them forever.",
+        "stillPath": "/yjpkOfJ6W9Zqd5WABzlFv80Iwu2.jpg",
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 326017,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2028-10-17",
+    "episodeNumber": 1,
+    "id": 7407281,
+    "name": "The Long Way Home",
+    "overview": "On the first week of summer vacation, four friends discover an abandoned bicycle near Kilometer 7 and become intrigued by the mystery surrounding it.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Kilometer 7",
+  "overview": "After a teenager vanishes near a road called Kilometer 7, four friends set out to uncover the truth behind a string of unexplained disappearances linked to the area. As old diaries reveal a history stretching back decades, their search for answers leads them toward a mystery that refuses to stay buried.",
+  "posterPath": "/qcD7OCvnkxPgx61sanwX1FnMKb7.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2028-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2028-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2028-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2028-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2028-10-17"
+    },
+    "CN": {
+      "tv": "2028-10-17"
+    },
+    "GB": {
+      "tv": "2028-10-17"
+    },
+    "US": {
+      "tv": "2028-10-17"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2028-10-17",
+      "episodeCount": 3,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/9HVqm34Pd5n39dkHauWkvHWGun2.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Kilometer 7",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

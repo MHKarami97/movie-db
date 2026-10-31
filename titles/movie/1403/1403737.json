@@ -1,0 +1,202 @@
+{
+  "backdropPath": "/3bRh8x8uDcNozIyDtzyKAfIkSdW.jpg",
+  "cast": [
+    {
+      "character": "Komal",
+      "id": 1893251,
+      "name": "Vishwak Sen",
+      "profilePath": "/ffWsFHwde7M3W2IiIfn01htpALX.jpg"
+    },
+    {
+      "character": "Chitra",
+      "id": 2578168,
+      "name": "Kayadu Lohar",
+      "profilePath": "/pHaMPnrfnWvTPZA4IOmZk8BHY0U.jpg"
+    },
+    {
+      "character": "Sudharshan",
+      "id": 736815,
+      "name": "Naresh",
+      "profilePath": "/yT9Sgp7y8h3xhlmgzafUwlIXy1H.jpg"
+    },
+    {
+      "character": "Subhadra",
+      "id": 1275608,
+      "name": "Easwari Rao",
+      "profilePath": "/fjyvQ45YZcovy2Egj2eux8UiuHU.jpg"
+    },
+    {
+      "character": "Family Doctor",
+      "id": 1999839,
+      "name": "Muralidhar Goud",
+      "profilePath": "/3KldPSnn08WhuwoUR9GhZ9OnsI2.jpg"
+    },
+    {
+      "character": "GK's Brother",
+      "id": 3459657,
+      "name": "Ravi Anthony",
+      "profilePath": null
+    },
+    {
+      "character": "Balaji",
+      "id": 3239503,
+      "name": "Pammi Sai",
+      "profilePath": "/7kZ6bLXdztpSObESzgMRnpmcVxm.jpg"
+    },
+    {
+      "character": "",
+      "id": 591153,
+      "name": "Raghu Babu",
+      "profilePath": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg"
+    },
+    {
+      "character": "GK",
+      "id": 85595,
+      "name": "Sampath Raj",
+      "profilePath": "/oQgoihP26Hyg6gMFVpACRAygZli.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 107352,
+      "logoPath": "/qNLrEbrNigDNR6QgaRtwXtRIwgx.png",
+      "name": "Sithara Entertainments"
+    },
+    {
+      "id": 172461,
+      "logoPath": null,
+      "name": "Srikara Studios"
+    },
+    {
+      "id": 166697,
+      "logoPath": null,
+      "name": "Fortune Four Cinemas"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33083471",
+    "wikidataId": "Q138241325"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1403737,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "te",
+      "name": "Telugu"
+    }
+  ],
+  "originalTitle": "ఫంకీ",
+  "overview": "A debut director who falls in love with his producer's daughter",
+  "posterPath": "/iICU2CBNat7q9tm88SzrUFwR1hA.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 125,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Funky",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 7,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1403737/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1403737/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1403737/watch?locale=US",
+      "rent": []
+    }
+  }
+}

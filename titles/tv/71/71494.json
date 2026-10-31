@@ -1,0 +1,789 @@
+{
+  "backdropPath": "/jiSlSDL0PZsd3DeW9832lk7eBsE.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 3734,
+      "logoPath": "/fDdEQKYsS3s9xGl50dzADAnetZ7.png",
+      "name": "Dick Clark Productions"
+    },
+    {
+      "id": 256160,
+      "logoPath": "/55c3Xmw1chMb8FcnkajhSTi0hgi.png",
+      "name": "Penske Media Corporation"
+    },
+    {
+      "id": 256161,
+      "logoPath": "/vBgYUy4waVmfs4RTWXhln1DRI0p.png",
+      "name": "Eldridge Industries"
+    },
+    {
+      "id": 256162,
+      "logoPath": "/g6IYxWBq3JBxes0P4pZ3cJzPmyB.png",
+      "name": "Hollywood Foreign Press Association"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "1944-01-20",
+  "episodes": {
+    "82": [
+      {
+        "airDate": "2026-01-11",
+        "episodeNumber": 1,
+        "name": "The 83rd Annual Golden Globes",
+        "overview": "The 83rd Golden Globe Awards is the largest awards show in the world honoring outstanding achievements in both film and television. Comedic powerhouse Nikki Glaser returns as this year's host.",
+        "stillPath": "/sCRbil214bXyBr7SiOwz14dLnBi.jpg",
+        "voteAverage": 5.8
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "GoldenGlobes",
+    "instagramId": "goldenglobes",
+    "twitterId": "goldenglobes",
+    "wikidataId": "Q1011547"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 71494,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-01-11",
+    "episodeNumber": 1,
+    "id": 6170146,
+    "name": "The 83rd Annual Golden Globes",
+    "overview": "The 83rd Golden Globe Awards is the largest awards show in the world honoring outstanding achievements in both film and television. Comedic powerhouse Nikki Glaser returns as this year's host.",
+    "seasonNumber": 82
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Golden Globe Awards",
+  "overview": "An annual awards ceremony recognizing excellence in film and television, both domestic and foreign, bestowed by the Hollywood Foreign Press Association.",
+  "posterPath": "/kwPQHGHTTgJ8x5KTQDB8F2T4dzC.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1944-01-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1944-01-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1944-01-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1944-01-20",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1944-01-20"
+    },
+    "CN": {
+      "tv": "1944-01-20"
+    },
+    "GB": {
+      "tv": "1944-01-20"
+    },
+    "US": {
+      "tv": "1944-01-20"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "1944-01-20",
+      "episodeCount": 1,
+      "name": "The 1st Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1945-01-01",
+      "episodeCount": 1,
+      "name": "The 2nd Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1946-03-30",
+      "episodeCount": 1,
+      "name": "The 3rd Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1947-02-26",
+      "episodeCount": 1,
+      "name": "The 4th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1948-03-10",
+      "episodeCount": 1,
+      "name": "The 5th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1949-03-16",
+      "episodeCount": 1,
+      "name": "The 6th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1950-02-23",
+      "episodeCount": 1,
+      "name": "The 7th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1951-02-28",
+      "episodeCount": 1,
+      "name": "The 8th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1952-02-21",
+      "episodeCount": 1,
+      "name": "The 9th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1953-02-26",
+      "episodeCount": 1,
+      "name": "The 10th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "1954-02-22",
+      "episodeCount": 1,
+      "name": "The 11th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "1955-02-24",
+      "episodeCount": 1,
+      "name": "The 12th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "1956-02-23",
+      "episodeCount": 1,
+      "name": "The 13th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "1957-02-28",
+      "episodeCount": 1,
+      "name": "The 14th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "1958-02-22",
+      "episodeCount": 1,
+      "name": "The 15th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "1959-03-05",
+      "episodeCount": 1,
+      "name": "The 16th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "1960-03-10",
+      "episodeCount": 1,
+      "name": "The 17th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "1961-03-16",
+      "episodeCount": 1,
+      "name": "The 18th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "1962-03-05",
+      "episodeCount": 1,
+      "name": "The 19th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "1963-03-05",
+      "episodeCount": 1,
+      "name": "The 20th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "1964-03-11",
+      "episodeCount": 1,
+      "name": "The 21st Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "1965-02-08",
+      "episodeCount": 1,
+      "name": "The 22nd Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "1966-02-28",
+      "episodeCount": 1,
+      "name": "The 23rd Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "1967-02-15",
+      "episodeCount": 1,
+      "name": "The 24th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "1968-02-12",
+      "episodeCount": 1,
+      "name": "The 25th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "1969-02-24",
+      "episodeCount": 1,
+      "name": "The 26th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "1970-02-02",
+      "episodeCount": 1,
+      "name": "The 27th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "1971-02-05",
+      "episodeCount": 1,
+      "name": "The 28th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "1972-02-06",
+      "episodeCount": 1,
+      "name": "The 29th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "1973-01-28",
+      "episodeCount": 1,
+      "name": "The 30th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "1974-01-26",
+      "episodeCount": 1,
+      "name": "The 31st Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "1975-01-25",
+      "episodeCount": 1,
+      "name": "The 32nd Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "1976-01-24",
+      "episodeCount": 1,
+      "name": "The 33rd Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "1977-01-29",
+      "episodeCount": 1,
+      "name": "The 34th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "1978-01-28",
+      "episodeCount": 1,
+      "name": "The 35th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "1979-01-27",
+      "episodeCount": 1,
+      "name": "The 36th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 36
+    },
+    {
+      "airDate": "1980-01-26",
+      "episodeCount": 1,
+      "name": "The 37th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 37
+    },
+    {
+      "airDate": "1981-01-31",
+      "episodeCount": 1,
+      "name": "The 38th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 38
+    },
+    {
+      "airDate": "1982-01-30",
+      "episodeCount": 1,
+      "name": "The 39th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 39
+    },
+    {
+      "airDate": "1983-01-29",
+      "episodeCount": 1,
+      "name": "The 40th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 40
+    },
+    {
+      "airDate": "1984-01-28",
+      "episodeCount": 1,
+      "name": "The 41st Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 41
+    },
+    {
+      "airDate": "1985-01-27",
+      "episodeCount": 1,
+      "name": "The 42nd Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 42
+    },
+    {
+      "airDate": "1986-01-24",
+      "episodeCount": 1,
+      "name": "The 43rd Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 43
+    },
+    {
+      "airDate": "1987-01-31",
+      "episodeCount": 1,
+      "name": "The 44th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 44
+    },
+    {
+      "airDate": "1988-01-23",
+      "episodeCount": 1,
+      "name": "The 45th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 45
+    },
+    {
+      "airDate": "1989-01-28",
+      "episodeCount": 1,
+      "name": "The 46th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 46
+    },
+    {
+      "airDate": "1990-01-20",
+      "episodeCount": 1,
+      "name": "The 47th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 47
+    },
+    {
+      "airDate": "1991-01-19",
+      "episodeCount": 1,
+      "name": "The 48th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 48
+    },
+    {
+      "airDate": "1992-01-18",
+      "episodeCount": 1,
+      "name": "The 49th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 49
+    },
+    {
+      "airDate": "1993-01-24",
+      "episodeCount": 1,
+      "name": "The 50th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 50
+    },
+    {
+      "airDate": "1994-01-22",
+      "episodeCount": 1,
+      "name": "The 51st Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 51
+    },
+    {
+      "airDate": "1995-01-21",
+      "episodeCount": 1,
+      "name": "The 52nd Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 52
+    },
+    {
+      "airDate": "1996-01-21",
+      "episodeCount": 1,
+      "name": "The 53rd Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 53
+    },
+    {
+      "airDate": "1997-01-19",
+      "episodeCount": 1,
+      "name": "The 54th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 54
+    },
+    {
+      "airDate": "1998-01-18",
+      "episodeCount": 1,
+      "name": "The 55th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 55
+    },
+    {
+      "airDate": "1999-01-24",
+      "episodeCount": 1,
+      "name": "The 56th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 56
+    },
+    {
+      "airDate": "2000-01-23",
+      "episodeCount": 1,
+      "name": "The 57th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 57
+    },
+    {
+      "airDate": "2001-01-21",
+      "episodeCount": 1,
+      "name": "The 58th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 58
+    },
+    {
+      "airDate": "2002-01-20",
+      "episodeCount": 1,
+      "name": "The 59th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 59
+    },
+    {
+      "airDate": "2003-01-19",
+      "episodeCount": 1,
+      "name": "The 60th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 60
+    },
+    {
+      "airDate": "2004-01-24",
+      "episodeCount": 1,
+      "name": "The 61st Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 61
+    },
+    {
+      "airDate": "2005-01-16",
+      "episodeCount": 1,
+      "name": "The 62nd Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 62
+    },
+    {
+      "airDate": "2006-01-16",
+      "episodeCount": 1,
+      "name": "The 63rd Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 63
+    },
+    {
+      "airDate": "2007-01-15",
+      "episodeCount": 1,
+      "name": "The 64th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 64
+    },
+    {
+      "airDate": "2008-01-13",
+      "episodeCount": 1,
+      "name": "The 65th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 65
+    },
+    {
+      "airDate": "2009-01-11",
+      "episodeCount": 1,
+      "name": "The 66th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 66
+    },
+    {
+      "airDate": "2010-01-17",
+      "episodeCount": 1,
+      "name": "The 67th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 67
+    },
+    {
+      "airDate": "2011-01-16",
+      "episodeCount": 1,
+      "name": "The 68th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 68
+    },
+    {
+      "airDate": "2012-01-15",
+      "episodeCount": 1,
+      "name": "The 69th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 69
+    },
+    {
+      "airDate": "2013-01-13",
+      "episodeCount": 1,
+      "name": "The 70th Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 70
+    },
+    {
+      "airDate": "2014-01-12",
+      "episodeCount": 1,
+      "name": "The 71st Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 71
+    },
+    {
+      "airDate": "2015-01-11",
+      "episodeCount": 1,
+      "name": "The 72nd Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 72
+    },
+    {
+      "airDate": "2016-01-10",
+      "episodeCount": 1,
+      "name": "The 73rd Golden Globe Awards",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 73
+    },
+    {
+      "airDate": "2017-01-08",
+      "episodeCount": 1,
+      "name": "The 74th Golden Globe Awards",
+      "overview": "",
+      "posterPath": "/gQvB8gJ16LGMr2ri68zhloZUZJX.jpg",
+      "seasonNumber": 74
+    },
+    {
+      "airDate": "2018-01-07",
+      "episodeCount": 1,
+      "name": "The 75th Golden Globe Awards",
+      "overview": "The Hollywood Foreign Press Association acknowledges the best in movies and TV for the year 2017.",
+      "posterPath": "/n9EmEqJiSnGJiIh0J0X3hFGUN3o.jpg",
+      "seasonNumber": 75
+    },
+    {
+      "airDate": "2019-01-05",
+      "episodeCount": 1,
+      "name": "The 76th Golden Globe Awards",
+      "overview": "",
+      "posterPath": "/ePfDvInIlZsaryu1AcmUWsXCkG0.jpg",
+      "seasonNumber": 76
+    },
+    {
+      "airDate": "2020-01-05",
+      "episodeCount": 1,
+      "name": "The 77th Golden Globe Awards",
+      "overview": "The 77th Golden Globe Awards is broadcast live from The Beverly Hilton in Beverly Hills, California.",
+      "posterPath": "/kwPQHGHTTgJ8x5KTQDB8F2T4dzC.jpg",
+      "seasonNumber": 77
+    },
+    {
+      "airDate": "2021-03-28",
+      "episodeCount": 1,
+      "name": "The 78th Golden Globe Awards",
+      "overview": "",
+      "posterPath": "/j4FKeDQMhlePCLggkz97Nlm7oyp.jpg",
+      "seasonNumber": 78
+    },
+    {
+      "airDate": "2023-01-10",
+      "episodeCount": 1,
+      "name": "The 80th Golden Globe Awards",
+      "overview": "The Banshees of Inisherin won three Globes – Best Picture – Musical/Comedy; Colin Farrell, Best Actor – Motion Picture – Musical/Comedy, and Martin McDonagh, Best Screenplay – Motion Picture in the 80th Golden Globe Awards at the Beverly Hilton.",
+      "posterPath": "/vg6kc22haazq4cDFQRk8HDsFxCS.jpg",
+      "seasonNumber": 79
+    },
+    {
+      "airDate": "2024-01-07",
+      "episodeCount": 1,
+      "name": "The 81st Golden Globes Awards",
+      "overview": "",
+      "posterPath": "/4SmzCe57cPy4TIm1MC3G2XzjbjK.jpg",
+      "seasonNumber": 80
+    },
+    {
+      "airDate": "2025-01-05",
+      "episodeCount": 1,
+      "name": "The 82nd Golden Globe Awards",
+      "overview": "Presenters for the first major awards show of the season will take the stage alongside acclaimed Emmy®, GRAMMY® and Golden Globe® nominated comedian, actress and host Nikki Glaser, who is making history as the first woman to host the Golden Globes® on her own.",
+      "posterPath": "/q88TUs0LYOS2ZnyBxpDjWtyZddN.jpg",
+      "seasonNumber": 81
+    },
+    {
+      "airDate": "2026-01-11",
+      "episodeCount": 1,
+      "name": "The 83rd Golden Globe Awards",
+      "overview": "",
+      "posterPath": "/eViFoMt3Pw3yC16RpHpkW9qjf6Y.jpg",
+      "seasonNumber": 82
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Golden Globe Awards",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 21,
+  "watchProviders": {}
+}

@@ -1,0 +1,146 @@
+{
+  "backdropPath": "/1v5YyPDfLpAhcyaU7pWsOcM2MGY.jpg",
+  "cast": [
+    {
+      "character": "Cass",
+      "id": 240724,
+      "name": "Naomi Scott",
+      "profilePath": "/knSGMaEaH6CZaYw7GQpvxyJcsz7.jpg"
+    },
+    {
+      "character": "Virgil",
+      "id": 239019,
+      "name": "Kit Harington",
+      "profilePath": "/iGXlJbExWwZmo9sUDsYuzf4Sv4y.jpg"
+    },
+    {
+      "character": "",
+      "id": 1457238,
+      "name": "Sonoya Mizuno",
+      "profilePath": "/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
+    },
+    {
+      "character": "",
+      "id": 2588506,
+      "name": "Jay Lycurgo",
+      "profilePath": "/pbsoexLxfXZZvITACzfOB1dsDip.jpg"
+    },
+    {
+      "character": "Malcolm",
+      "id": 4001,
+      "name": "Simon Callow",
+      "profilePath": "/no6qlnMrWeUzSt1FjD2Vf9x992e.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 79426,
+      "logoPath": "/8aEC7xem9YwHNCDojSFEPQgoFC3.png",
+      "name": "MACRO"
+    },
+    {
+      "id": 72316,
+      "logoPath": "/zTQKQiYxM8z8UXg0FdeDjeemqFx.png",
+      "name": "BK Studios"
+    },
+    {
+      "id": 274261,
+      "logoPath": null,
+      "name": "Gatherer Entertainment"
+    },
+    {
+      "id": 274262,
+      "logoPath": "/epLXfk888m3L1z5PMThjapU1YZj.png",
+      "name": "New Name Entertainment"
+    },
+    {
+      "id": 79,
+      "logoPath": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+      "name": "Village Roadshow Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt27725750",
+    "wikidataId": "Q123822933"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "id": 1125822,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Eternal Return",
+  "overview": "Cass has come to a personal point of emotional invulnerability, until she meets Virgil, a cartographer. Along with his partner Malcolm, they attempt to travel back in time to awaken Cass to love again.",
+  "posterPath": "/aRPeGH99uVY3q5KUBbDbPKv8E0o.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-12-04"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatricalLimited": "2026-12-04"
+    }
+  },
+  "runtime": 115,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Time is fleeting. Love endures.",
+  "theatricalDate": "2026-12-04",
+  "title": "Eternal Return",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "2iIBYPng3uI",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

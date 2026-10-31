@@ -1,0 +1,251 @@
+{
+  "backdropPath": "/AabTg6wBsygQYoyOqpbe6miWovJ.jpg",
+  "cast": [
+    {
+      "character": "Daisy",
+      "id": 5797172,
+      "name": "Jada Langley",
+      "profilePath": "/bpO0J3rDYvOIESx4YS61nUrGUEH.jpg"
+    },
+    {
+      "character": "Leo",
+      "id": 6530523,
+      "name": "Gino Ochello",
+      "profilePath": "/lxSz01nQAL5c7r7hfzULYWdBjFC.jpg"
+    },
+    {
+      "character": "Paisley",
+      "id": 6530529,
+      "name": "Hannah Gracie",
+      "profilePath": "/1fq2sUzQKqGCYLs18vHFFRDYV8q.jpg"
+    },
+    {
+      "character": "Liann",
+      "id": 6530862,
+      "name": "Angelina Li",
+      "profilePath": null
+    },
+    {
+      "character": "Autumn",
+      "id": 3893507,
+      "name": "Gracie McGonigal",
+      "profilePath": "/qr27HsId7KPSHjhLVeSVoSwUvhS.jpg"
+    },
+    {
+      "character": "Nova",
+      "id": 2441421,
+      "name": "Meesha Garbett",
+      "profilePath": "/lpg0N0a7CF1QdD9BrEtCYLy1nVm.jpg"
+    },
+    {
+      "character": "Aliya",
+      "id": 6530532,
+      "name": "Danita Walcott-Nichols",
+      "profilePath": null
+    },
+    {
+      "character": "Candi",
+      "id": 6530527,
+      "name": "Darcy Jacobs",
+      "profilePath": "/vd4D1j8meGwptNOvoBRGqr8lCf6.jpg"
+    },
+    {
+      "character": "Olly",
+      "id": 5941013,
+      "name": "Hamish Skeoch",
+      "profilePath": "/iy2KX7Vz4gZPpMIefeFc3Zkd7x2.jpg"
+    },
+    {
+      "character": "Zac",
+      "id": 6530530,
+      "name": "Manuel Jenoure",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 270884,
+      "logoPath": null,
+      "name": "Final Pixel"
+    },
+    {
+      "id": 299443,
+      "logoPath": "/4B43I3FGlYr83zLGEvhBc0vvJIE.png",
+      "name": "The LEGO Group"
+    },
+    {
+      "id": 20312,
+      "logoPath": "/iYmytRQt5jqlBIEaMQ0Cb6iAHh8.png",
+      "name": "TPC"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-16",
+  "externalIds": {
+    "imdbId": "tt37538335"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1512493,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "LEGO Friends: Heartlake the Musical",
+  "overview": "Young Daisy turns to toy bricks as she finds herself trying to fit into a new school in a new country. When she stumbles across a mysterious key, she is transported to Heartlake City where she makes new friends. But they soon require her help to save a vital local landmark – with plenty of song and dance numbers along the way.",
+  "posterPath": "/6PMMEU8eHSN0TlPG6koC8EEvavx.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-16",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-11-02"
+    },
+    "US": {
+      "digital": "2026-10-16"
+    }
+  },
+  "runtime": 50,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "LEGO Friends: Heartlake the Musical",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "EyVhp2v4FO4",
+      "name": "Why Kenny Ortega Doesn’t Think High School Musical Could Happen Today",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "0rT0C92Z2ks",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1512493-lego-friends-heartlake-the-musical/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 175,
+          "logoPath": "/rjPaInWHH1nPgtRFF17BbHN2gu.png",
+          "name": "Netflix Kids"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1512493-lego-friends-heartlake-the-musical/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 386,
+          "logoPath": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+          "name": "Peacock Premium"
+        },
+        {
+          "id": 175,
+          "logoPath": "/rjPaInWHH1nPgtRFF17BbHN2gu.png",
+          "name": "Netflix Kids"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        },
+        {
+          "id": 387,
+          "logoPath": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+          "name": "Peacock Premium Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1512493-lego-friends-heartlake-the-musical/watch?locale=US",
+      "rent": []
+    }
+  }
+}

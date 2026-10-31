@@ -1,0 +1,366 @@
+{
+  "backdropPath": "/cyGlsIBtDAsaiGBTyrJgGPD2kMz.jpg",
+  "cast": [
+    {
+      "character": "Vanessa Haas",
+      "id": 47239,
+      "name": "Kerstin Landsmann",
+      "profilePath": "/yJm3k6D29En321ysNOS9jVfkthV.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1941,
+      "logoPath": "/6yvtjS2R9yJRItWbGYsCEMVZGON.png",
+      "name": "Network Movie"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "2003-10-22",
+  "episodes": {
+    "25": [
+      {
+        "airDate": "2026-10-20",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-27",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-03",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-10",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-17",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt0339702",
+    "wikidataId": "Q881072"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 40862,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-27",
+    "episodeNumber": 2,
+    "id": 7945194,
+    "name": "Episode 2",
+    "overview": "",
+    "seasonNumber": 25
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-03",
+    "episodeNumber": 3,
+    "id": 7945196,
+    "name": "Episode 3",
+    "overview": "",
+    "seasonNumber": 25
+  },
+  "originalTitle": "SOKO Köln",
+  "overview": "The SOKO Köln investigates the cathedral city with humor and often with hard work. Their cases take them into a variety of environments, from the Cologne clique to the terraced housing estates on the outskirts of the city.",
+  "posterPath": "/jLwoCyFg0vFze0JIQIhItsAE4yR.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2003-10-22",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2003-10-22",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2003-10-22",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2003-10-22",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2003-10-22"
+    },
+    "CN": {
+      "tv": "2003-10-22"
+    },
+    "GB": {
+      "tv": "2003-10-22"
+    },
+    "US": {
+      "tv": "2003-10-22"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2007-01-26",
+      "episodeCount": 2,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2003-10-22",
+      "episodeCount": 21,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2005-02-23",
+      "episodeCount": 13,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2005-12-20",
+      "episodeCount": 17,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2007-01-09",
+      "episodeCount": 18,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2008-09-23",
+      "episodeCount": 30,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2009-09-08",
+      "episodeCount": 30,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2010-11-02",
+      "episodeCount": 20,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2011-10-18",
+      "episodeCount": 20,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2012-10-09",
+      "episodeCount": 20,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2013-10-08",
+      "episodeCount": 24,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2014-10-14",
+      "episodeCount": 25,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2015-10-06",
+      "episodeCount": 25,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2016-10-04",
+      "episodeCount": 24,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2017-09-12",
+      "episodeCount": 23,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2018-09-25",
+      "episodeCount": 24,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2017-09-12",
+      "episodeCount": 25,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2018-09-25",
+      "episodeCount": 25,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2019-12-03",
+      "episodeCount": 14,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2020-09-22",
+      "episodeCount": 14,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2021-09-21",
+      "episodeCount": 27,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2022-09-13",
+      "episodeCount": 24,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2023-10-03",
+      "episodeCount": 25,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2024-10-01",
+      "episodeCount": 23,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2025-09-30",
+      "episodeCount": 24,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2026-10-20",
+      "episodeCount": 5,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 25
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "SOKO Köln",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 8,
+  "watchProviders": {}
+}

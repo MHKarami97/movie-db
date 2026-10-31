@@ -1,0 +1,793 @@
+{
+  "backdropPath": "/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
+  "cast": [
+    {
+      "character": "Digger Rockwell",
+      "id": 500,
+      "name": "Tom Cruise",
+      "profilePath": "/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+    },
+    {
+      "character": "Dr. Nirav Ganesh",
+      "id": 53240,
+      "name": "Riz Ahmed",
+      "profilePath": "/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg"
+    },
+    {
+      "character": "President Compson",
+      "id": 1230,
+      "name": "John Goodman",
+      "profilePath": "/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+    },
+    {
+      "character": "Emma Rockwell",
+      "id": 7152,
+      "name": "Sandra Hüller",
+      "profilePath": "/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
+    },
+    {
+      "character": "Vice President Eddie",
+      "id": 72873,
+      "name": "Michael Stuhlbarg",
+      "profilePath": "/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+    },
+    {
+      "character": "Kenny Rockwell",
+      "id": 88124,
+      "name": "Jesse Plemons",
+      "profilePath": "/og4I51GsuwohdPgoELOHVMMqMre.jpg"
+    },
+    {
+      "character": "General Fitzgerald",
+      "id": 31512,
+      "name": "Robert John Burke",
+      "profilePath": "/uWEaY5gypb6cp1bdUYG4uCKw4sK.jpg"
+    },
+    {
+      "character": "Lina",
+      "id": 2121005,
+      "name": "Emma D'Arcy",
+      "profilePath": "/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
+    },
+    {
+      "character": "Defense Secretary Amos",
+      "id": 39659,
+      "name": "Burn Gorman",
+      "profilePath": "/udgACYWqCSuu6nvtrSjmyU28B0V.jpg"
+    },
+    {
+      "character": "Hannah",
+      "id": 3115932,
+      "name": "Sophie Wilde",
+      "profilePath": "/fMZvMsvTv9MYSC6LTNdIUaMGjIv.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 174,
+      "logoPath": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+      "name": "Warner Bros. Pictures"
+    },
+    {
+      "id": 923,
+      "logoPath": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+      "name": "Legendary Pictures"
+    },
+    {
+      "id": 216687,
+      "logoPath": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+      "name": "Domain Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "facebookId": "DiggerTheMovie",
+    "imdbId": "tt31450459",
+    "instagramId": "diggerthemovie",
+    "twitterId": "diggerthemovie",
+    "wikidataId": "Q129677718"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1248832,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "originalTitle": "Digger",
+  "overview": "یک کشاورز منزوی در شمال یونان، با بازگشت پسرش و فعالیت یک شرکت معدن‌کاری که زمین‌های اطراف را تخریب می‌کند، وارد درگیری می‌شود.",
+  "posterPath": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+  "rating": 7.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-01"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-02"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-02"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-10-01"
+    },
+    "GB": {
+      "premiere": "2026-09-22",
+      "theatrical": "2026-10-02"
+    },
+    "US": {
+      "theatrical": "2026-10-02"
+    }
+  },
+  "runtime": 129,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A man. A plan. A meltdown.",
+  "theatricalDate": "2026-10-02",
+  "title": "Digger",
+  "translations": {
+    "faOverview": "یک کشاورز منزوی در شمال یونان، با بازگشت پسرش و فعالیت یک شرکت معدن‌کاری که زمین‌های اطراف را تخریب می‌کند، وارد درگیری می‌شود.",
+    "faTitle": "حفار"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "eQhf-2jMvWI",
+      "name": "Steps to saving the world: Digger style",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "_NmpZkaTG68",
+      "name": "Audiences react to Tom Cruise in DIGGER",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ipRabazEtig",
+      "name": "Views from the DIGGER world tour.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "AWOFECt_CHY",
+      "name": "Find out for yourself.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "wXXTfAnAH_E",
+      "name": "“Level 4.”",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "DrrXehRcgYw",
+      "name": "Real friends talk about movies.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "RGu_Lh7pPZ8",
+      "name": "You be the judge.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "5C18exxMrZc",
+      "name": "Good. Bad. Love. Hate. You decide.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "8_ufLqErU_Q",
+      "name": "See it for yourself. You decide.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "4boN65zzvd8",
+      "name": "It’s in his hands now.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "XEeOJdVuybI",
+      "name": "Alejandro González Iñárritu’s message to young filmmakers.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "oLm7XBTCsNs",
+      "name": "Tom Cruise & @guywithamoviecamera put their popcorn knowledge to the test.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "OK8tGliHEok",
+      "name": "Lovin’ the energy in Seoul.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "g63xPiXBm6Y",
+      "name": "All ‘bout perception.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "5LqqyL5B-eU",
+      "name": "The surprise of a lifetime.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ceUpSvWpU0A",
+      "name": "Sit back ‘n watch the chaos unfold.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "3vmPLK7Nj_8",
+      "name": "One simple question. Do you digg it?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "BuYlvXMPZrw",
+      "name": "Disappearin’ in the role.",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "tJRKXeimGw0",
+      "name": "’fit for the throne. Tom Cruise and Emma D’Arcy star in DIGGER.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "fikKMZZiLD0",
+      "name": "You Decide",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "8w_FKSN-y6A",
+      "name": "Love it or hate it… decide for yourself.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ALHX6r2djxk",
+      "name": "DIGG. OR. DIE. DIGGER is NOW PLAYING only in theaters and IMAX.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "772tZrkzOaY",
+      "name": "Livin’ large in Los Angeles. Next stop, Seoul.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "uv97lf4WeAA",
+      "name": "Just jokin’.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "yDddzCN-NRU",
+      "name": "Find out for yourself.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "3KjN109cmPU",
+      "name": "You be the judge.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "AbxxqcmU2T4",
+      "name": "“Tom Cruise takes a wild swing worth seeing.”– ⁨USA TODAY",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9wnUQTFTNYw",
+      "name": "Alejandro G. Iñárritu & the Cast of DIGGER Reveal the Unusual Way the Film Was Made",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "GCqubCGTIw0",
+      "name": "\"Same movie. Different truths\"",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "mYO_TD2y_mk",
+      "name": "“Completely unhinged in the best way.”",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "K12_TwuWlbQ",
+      "name": "You decide which.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "HJbBY7DZH0o",
+      "name": "Digger director Alejandro González Iñárritu interviewed by Riz Ahmed | BFI IMAX in Conversation",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "fRltGCRSxqk",
+      "name": "Settin’ the narrative straight.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "wIQ5L3L5HQs",
+      "name": "You never know who might swing on by.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "lqL9n3m7Sj4",
+      "name": "The intersection of cinema and art.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "G3vDMkOQOzY",
+      "name": "Never afraid to tell the truth.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "zwGDoQN3DDM",
+      "name": "FRIDAY. WE DIGG.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ccsCz1FugXQ",
+      "name": "Diggin’ all over the world. Thank you, Mexico City!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "iKbBTXgUn28",
+      "name": "\"Who is Digger\" Discussion",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "TDeSQxyT3Ac",
+      "name": "The time for doublin’ down is near.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "g1cPu1knA9s",
+      "name": "Facin’ the truth.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9JLRmLaNFAY",
+      "name": "Tom Cruise's wildest role yet",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "5xSQiKJkNc8",
+      "name": "Winners get things done.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "2-xRK9fizsM",
+      "name": "Perception meets reality.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "FsfqdbXLxms",
+      "name": "\"ABSOLUTELY MIND-BLOWING\"",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "V79-yCt7Log",
+      "name": "His darlin’ girl, Maggie.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "gz-rfBDmAcY",
+      "name": "Describe DIGGER in three words.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "B3GAYWxzuug",
+      "name": "Globetrottin’ begins in London.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "JTrqTokhAOI",
+      "name": "Nothin’ but cold hard facts.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "2E32d-ASX98",
+      "name": "ONE. WEEK. DIGG. OR. DIE.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "KDEfhzHytws",
+      "name": "Spottin’ the truth ain’t so easy.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "CHobAJa8pQY",
+      "name": "Questionin’ it all.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ZCj56xJStjU",
+      "name": "Searchin’ for the truth.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "fzMmcOpI1hY",
+      "name": "Hearin’ it straight from the source.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "905ySnk4LcQ",
+      "name": "Tom Cruise got turning into Digger down to a fine art",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "pflghwixC6Q",
+      "name": "Everythin’ is fine.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "5xCOHODDhLU",
+      "name": "You think you know the truth? Think again.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "TTYfh2pPdSY",
+      "name": "On top of the world.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "pUhtIM8hTeE",
+      "name": "i want in on this friendship",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "tHRcgzSSsI8",
+      "name": "Strike while the iron’s hot.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Xoc_qF9xCt0",
+      "name": "The man of the hour.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "iCHW7kfCRkE",
+      "name": "Go ‘head. Get yourself some tickets.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Adij_4ky8fA",
+      "name": "Tickets on Sale",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "MU1nk1zxfd8",
+      "name": "Let’s break the ice... Tom Cruise is DIGGER.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "CgJzTVnNxn4",
+      "name": "Repost Tom Cruise | We had so much fun creating DIGGER together with Iñárritu.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "QDITBCGFjOM",
+      "name": "Diggin’ like there’s no tomorrow.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "k56T-k8Fy8c",
+      "name": "It’s a family business, after all. Sandra Hüller is Emma.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "qBUbNw19Hds",
+      "name": "Proof’s in the puddin’.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "pRXTilb33UQ",
+      "name": "Soundin’ the alarms.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "c59V46rIUc0",
+      "name": "Push ‘em to their breaking point.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "6nikIyTWUsM",
+      "name": "You want him to dig. You need him to dig.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "srleaPsE_W0",
+      "name": "Ain’t Maggie sweet?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "j95w7sku75k",
+      "name": "Controllin’ the narrative.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "oD1CNcekH1s",
+      "name": "Let’s. F*ckin. Go!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "-jFOIa8TTLQ",
+      "name": "One man’s profit is everybody’s problem",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "oAXbp1rlThw",
+      "name": "Bang, bang, bang!",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "R7DajME7GfI",
+      "name": "repost TomCruise on IG.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "RisSwkRFqT0",
+      "name": "Stop scrollin’ and get relaxin’.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "EWSUabru9F4",
+      "name": "City that never sleeps. Now that’s hustle.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "h05uz_cCua4",
+      "name": "No doubt about it.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ywfQjj1kuS8",
+      "name": "If truth they’re demandin’, then truth we’re supplyin’.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Q1btA3XpG8U",
+      "name": "\"Higher\"",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "job8V254NAE",
+      "name": "Official Final Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "aXFbS7OhsHA",
+      "name": "The man with the facts. Riz Ahmed is Dr. Ganesh.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "3vEPru8B25g",
+      "name": "ONE MONTH.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "40QiEMZL3zg",
+      "name": "It’s all under control. John Goodman is President Compson.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "udci2OXbvxs",
+      "name": "Tom Cruise: The situation's under control.",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "ZXYUg9UAbCM",
+      "name": "Sweet, sweet, Maggie.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "NW2kkWnF_mA",
+      "name": "Let’s break the ice.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "t6lEtLIVSZA",
+      "name": "Diggin’ in, one stop at a time.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "m_Lq4fFQgos",
+      "name": "World Cup",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "bvynTFi7gGM",
+      "name": "World Cup",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "I1XXgud5ovA",
+      "name": "Give or take.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "1B09aaEq1Tk",
+      "name": "Most important thing we know.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "BADqgl2Oy30",
+      "name": "World Cup",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "vTgNCD3WMTs",
+      "name": "When all else fails...",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "qORTe1wW3Wg",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "Pd4Olzi0HEc",
+      "name": "Tom Cruise Retrospective Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "oCr-Z5RtgZk",
+      "name": "Go dig or go home.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "yeORqJ1t4i8",
+      "name": "Keep digging. 33.739°N, 116.266°W",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "7EWQZPcAVyk",
+      "name": "From the ground up.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Rd21PhsDHww",
+      "name": "Title Announcement",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 489,
+  "watchProviders": {}
+}

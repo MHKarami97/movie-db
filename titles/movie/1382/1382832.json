@@ -1,0 +1,274 @@
+{
+  "backdropPath": "/ikyzq678qnHtRY8ZiQJzK4hiOyW.jpg",
+  "cast": [
+    {
+      "character": "Sistine",
+      "id": 52869,
+      "name": "Madison Davenport",
+      "profilePath": "/8yIHX149UVVeoJfUbi4oOC1nGcI.jpg"
+    },
+    {
+      "character": "Dionne",
+      "id": 1549537,
+      "name": "Tracey Bonner",
+      "profilePath": "/1Y3dKqq9dkYIFYQZqgh7mB7Ts7g.jpg"
+    },
+    {
+      "character": "Walker",
+      "id": 22462,
+      "name": "Joaquim de Almeida",
+      "profilePath": "/muXJn8kTEPxJaetkgCyS8RPEzTC.jpg"
+    },
+    {
+      "character": "Rodrigo",
+      "id": 2242777,
+      "name": "Michel Curiel",
+      "profilePath": "/ml4NqwB24Vr0PpRXiKjelUAWab5.jpg"
+    },
+    {
+      "character": "Sally",
+      "id": 1321622,
+      "name": "Samantha Coughlan",
+      "profilePath": "/oTcw7AFY52UYyIjPLp9ZjySwivy.jpg"
+    },
+    {
+      "character": "Hannah",
+      "id": 1704853,
+      "name": "Olivia Bernstone",
+      "profilePath": "/7rQGrzEHEZ7iBIrlVzbBDIIhnvP.jpg"
+    },
+    {
+      "character": "Tim",
+      "id": 30697,
+      "name": "Jim Meskimen",
+      "profilePath": "/18eXUo8DfTwannhq8FOwgVdFs9Y.jpg"
+    },
+    {
+      "character": "Mikey",
+      "id": 4150510,
+      "name": "River Codack",
+      "profilePath": "/linaIZJqleeWHjonIdDtISzVYrX.jpg"
+    },
+    {
+      "character": "Captain James",
+      "id": 1516315,
+      "name": "Joe Azzopardi",
+      "profilePath": "/pImRPY1hkIXU7oLZO1znJOdoDDg.jpg"
+    },
+    {
+      "character": "Jazz Singer",
+      "id": 4700526,
+      "name": "Matthew Charlery-Smith",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 114874,
+      "logoPath": "/lfk5FKLlTBaWqYHLeJs7J9atmNr.png",
+      "name": "Signature Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-06-23",
+  "externalIds": {
+    "facebookId": "hungrymovie2026",
+    "imdbId": "tt34494076",
+    "instagramId": "hungrymovie2026",
+    "twitterId": "hungrymovie",
+    "wikidataId": "Q139502222"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 20,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1382832,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Hungry",
+  "overview": "A group of holidaymakers must fight for their lives against a rampaging hippo on the loose after becoming lost in the Louisiana swamplands.",
+  "posterPath": "/4uNhvGxBDiO0mU5UhxuXBsJwKF3.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-06-25"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-09-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-23",
+      "gapDays": 20,
+      "theatricalDate": "2026-06-03"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-06-25"
+    },
+    "GB": {
+      "digital": "2026-09-06"
+    },
+    "US": {
+      "digital": "2026-06-23",
+      "theatricalLimited": "2026-06-03"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "This hippo isn't playing games.",
+  "theatricalDate": "2026-06-03",
+  "title": "Hungry",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "5zwBu4XdK3U",
+      "name": "No thoughts, only fear. And hippos.",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "aHZrv6CSTuA",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "QX85JymdGnQ",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 326,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1382832-hungry/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1382832-hungry/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

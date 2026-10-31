@@ -1,0 +1,491 @@
+{
+  "backdropPath": "/nosqAS5dUBwYvZasgDBcAxwZjBm.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 217550,
+      "logoPath": "/udDgsiJ2U4UKdivCHK6i2PvW87s.png",
+      "name": "The John F. Kennedy Center for the Performing Arts"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "1978-12-28",
+  "episodes": {
+    "48": [
+      {
+        "airDate": "2025-12-23",
+        "episodeNumber": 1,
+        "name": "The 48th Annual Kennedy Center Honors",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ],
+    "49": [
+      {
+        "airDate": "2026-12-27",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "wikidataId": "Q1738793"
+  },
+  "fetchedAt": 1795151878286,
+  "gapDays": null,
+  "genres": [],
+  "id": 22690,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-12-23",
+    "episodeNumber": 1,
+    "id": 6449754,
+    "name": "The 48th Annual Kennedy Center Honors",
+    "overview": "",
+    "seasonNumber": 48
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-12-27",
+    "episodeNumber": 1,
+    "id": 8147908,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 49
+  },
+  "originalTitle": "The Kennedy Center Honors",
+  "overview": "The Kennedy Center Honors is an annual honor given to those in the performing arts for their lifetime of contributions to American culture.",
+  "posterPath": "/cNJjS7JSKEYOCrwYwQAmGeRsKxI.jpg",
+  "rating": 7.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1978-12-28",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1978-12-28",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1978-12-28",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1978-12-28",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1978-12-28"
+    },
+    "CN": {
+      "tv": "1978-12-28"
+    },
+    "GB": {
+      "tv": "1978-12-28"
+    },
+    "US": {
+      "tv": "1978-12-28"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "1978-12-28",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1979-12-29",
+      "episodeCount": 1,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1980-12-27",
+      "episodeCount": 1,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1981-12-26",
+      "episodeCount": 1,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1982-12-25",
+      "episodeCount": 1,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1983-12-27",
+      "episodeCount": 1,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1984-12-25",
+      "episodeCount": 1,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1985-12-27",
+      "episodeCount": 1,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1986-12-26",
+      "episodeCount": 1,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1987-12-30",
+      "episodeCount": 1,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "1988-12-30",
+      "episodeCount": 1,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "1989-12-29",
+      "episodeCount": 1,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "1990-12-28",
+      "episodeCount": 1,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "1991-12-26",
+      "episodeCount": 1,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "1992-12-30",
+      "episodeCount": 1,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "1993-12-29",
+      "episodeCount": 1,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "1994-12-28",
+      "episodeCount": 1,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "1995-12-27",
+      "episodeCount": 1,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "1996-12-26",
+      "episodeCount": 1,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "1997-12-26",
+      "episodeCount": 1,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "1998-12-30",
+      "episodeCount": 1,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "1999-12-29",
+      "episodeCount": 1,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2000-12-27",
+      "episodeCount": 1,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2001-12-26",
+      "episodeCount": 1,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2002-12-27",
+      "episodeCount": 1,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "2003-12-26",
+      "episodeCount": 1,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "2004-12-21",
+      "episodeCount": 1,
+      "name": "Season 27",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "2005-12-27",
+      "episodeCount": 1,
+      "name": "Season 28",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "2006-12-26",
+      "episodeCount": 1,
+      "name": "Season 29",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "2007-12-26",
+      "episodeCount": 1,
+      "name": "Season 30",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "2008-12-30",
+      "episodeCount": 1,
+      "name": "Season 31",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "2009-12-29",
+      "episodeCount": 1,
+      "name": "Season 32",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "2010-12-28",
+      "episodeCount": 1,
+      "name": "Season 33",
+      "overview": "",
+      "posterPath": "/olSuRL4brwWJ4QIzDQu6f0y9LbY.jpg",
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "2011-12-27",
+      "episodeCount": 1,
+      "name": "Season 34",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "2014-12-30",
+      "episodeCount": 1,
+      "name": "Season 37",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 37
+    },
+    {
+      "airDate": "2015-12-29",
+      "episodeCount": 1,
+      "name": "Season 38",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 38
+    },
+    {
+      "airDate": "2017-12-27",
+      "episodeCount": 1,
+      "name": "Season 40",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 40
+    },
+    {
+      "airDate": "2018-12-26",
+      "episodeCount": 1,
+      "name": "Season 41",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 41
+    },
+    {
+      "airDate": "2019-12-15",
+      "episodeCount": 1,
+      "name": "Season 42",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 42
+    },
+    {
+      "airDate": "2021-06-06",
+      "episodeCount": 1,
+      "name": "Season 43",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 43
+    },
+    {
+      "airDate": "2021-12-05",
+      "episodeCount": 1,
+      "name": "Season 44",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 44
+    },
+    {
+      "airDate": "2022-12-27",
+      "episodeCount": 1,
+      "name": "Season 45",
+      "overview": "The 45th Annual Kennedy Center Honors celebrates the lifetime of contributions to American culture from the five honorees.",
+      "posterPath": "/2yx2iqHX49k8BfS48ST5M226u6X.jpg",
+      "seasonNumber": 45
+    },
+    {
+      "airDate": "2023-12-26",
+      "episodeCount": 1,
+      "name": "Season 46",
+      "overview": "In a star-studded celebration at the Kennedy Center Opera House, the 2023 Honorees including Billy Crystal, Renée Fleming, Barry Gibb, Queen Latifah, and Dionne Warwick will be saluted by today’s leading performers from New York, Hollywood, and the arts capitals of the world. They will accept the recognition and gratitude of their peers through show-stopping performances and emotional tributes. Additionally, former Kennedy Center Honoree (2017) Gloria Estefan returns as host, marking her third time hosting the special.",
+      "posterPath": "/65dCEy7z4ph5iy3MmF29qpGqqJ0.jpg",
+      "seasonNumber": 46
+    },
+    {
+      "airDate": "2024-12-22",
+      "episodeCount": 1,
+      "name": "Season 47",
+      "overview": "CBS presents The 47th Annual Kennedy Center Honors, an entertainment special celebrating lifetime artistic achievement in a star-studded celebration at the Kennedy Center Opera House stage. Honored recipients include acclaimed director and filmmaker Francis Ford Coppola; the legendary American rock band the Grateful Dead.",
+      "posterPath": null,
+      "seasonNumber": 47
+    },
+    {
+      "airDate": "2025-12-23",
+      "episodeCount": 1,
+      "name": "Season 48",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 48
+    },
+    {
+      "airDate": "2026-12-27",
+      "episodeCount": 1,
+      "name": "Season 49",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 49
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Kennedy Center Honors",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 8,
+  "watchProviders": {}
+}

@@ -1,0 +1,143 @@
+{
+  "backdropPath": "/uyCsmIycTK7smJcWNXEAKOAHzSZ.jpg",
+  "cast": [
+    {
+      "character": "Ivan",
+      "id": 114034,
+      "name": "Christian Oliver",
+      "profilePath": "/7cHaxpXUMHTMpEaCf90W9GmP2NZ.jpg"
+    },
+    {
+      "character": "Julia",
+      "id": 78197,
+      "name": "Elisabeth Harnois",
+      "profilePath": "/yq9H8T5urAGhzvEBxbw4gBjvDN2.jpg"
+    },
+    {
+      "character": "Mei Li",
+      "id": 39126,
+      "name": "Bai Ling",
+      "profilePath": "/kgo3PUZ4kI7mvf4CJOPSjLVBoy5.jpg"
+    },
+    {
+      "character": "Lincoln",
+      "id": 10212,
+      "name": "Ricco Ross",
+      "profilePath": "/uXnxQldNApoiTJMecHA5xbi222S.jpg"
+    },
+    {
+      "character": "Jake",
+      "id": 2169484,
+      "name": "Johnny Ramey",
+      "profilePath": "/8wECX6IUuQOMPSGeFifIiEXnEaR.jpg"
+    },
+    {
+      "character": "Richie",
+      "id": 6734,
+      "name": "Ken Davitian",
+      "profilePath": "/odykKQKSJDDJ5O5Drq1RVNaTbqM.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2026-07-09",
+  "externalIds": {
+    "imdbId": "tt28806833"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 1744393,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Cruel Love",
+  "overview": "",
+  "posterPath": "/7kV1a5KUaeh9QYHwjiMqeymrYLG.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-09",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-07-09"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Cruel Love",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1744393-cruel-love/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ]
+    }
+  }
+}

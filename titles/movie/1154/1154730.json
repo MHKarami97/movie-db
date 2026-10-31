@@ -1,0 +1,193 @@
+{
+  "backdropPath": "/aFO0i3bl4d6o0odPix8xgiVsIYT.jpg",
+  "cast": [
+    {
+      "character": "Toni",
+      "id": 6208929,
+      "name": "Colas Quignard",
+      "profilePath": "/rQxUpwMBzhvnMWELDqyhbYMcbLG.jpg"
+    },
+    {
+      "character": "Madame Mercier",
+      "id": 1956832,
+      "name": "Antonia Buresi",
+      "profilePath": "/uIAzhkr1LogIbnxdfRnujLUiczu.jpg"
+    },
+    {
+      "character": "James",
+      "id": 6208931,
+      "name": "Mitia Capellier-Audat",
+      "profilePath": "/cPof9lYFbNYT1rKcGfxQYkm5TlZ.jpg"
+    },
+    {
+      "character": "Suzanne",
+      "id": 6208930,
+      "name": "Suzanne Gerin",
+      "profilePath": "/pizIn0UyhS4W1Yyv9dgalXyhlhl.jpg"
+    },
+    {
+      "character": "Angela",
+      "id": 6223205,
+      "name": "Hadya Fofana",
+      "profilePath": null
+    },
+    {
+      "character": "Amaury",
+      "id": 6223210,
+      "name": "Rouge Isaac",
+      "profilePath": null
+    },
+    {
+      "character": "Constance",
+      "id": 6223212,
+      "name": "Lou-Ann Le Glorennec",
+      "profilePath": null
+    },
+    {
+      "character": "Chamathka",
+      "id": 6223213,
+      "name": "Chamathka Warahena",
+      "profilePath": null
+    },
+    {
+      "character": "Cherazade",
+      "id": 6223215,
+      "name": "Cherazade Hammedi",
+      "profilePath": null
+    },
+    {
+      "character": "Étienne",
+      "id": 6223216,
+      "name": "Camille Ménard-Harnish",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 2426,
+      "logoPath": "/ebQiHrVpqSs93D3A6eEDy9OFO52.png",
+      "name": "Les Films du Poisson"
+    },
+    {
+      "id": 6275,
+      "logoPath": "/ynsdOyF03HZvEeZreVrDLc3OPEc.png",
+      "name": "BiBi Film"
+    },
+    {
+      "id": 94,
+      "logoPath": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36107185",
+    "wikidataId": "Q139374374"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1154730,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "it",
+      "name": "Italian"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "La Gradiva",
+  "overview": "Amid the ancient ruins of Pompeii, a group of French teenagers on a class trip to Naples grapple with anxiety and exhilaration ahead of their high school graduation.",
+  "posterPath": "/y6AkOgTEPM9nTJUOeyvHqlf6Bgp.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-01-01"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-12-18"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-10-09",
+      "theatrical": "2027-01-01"
+    },
+    "US": {
+      "premiere": "2026-09-27",
+      "theatricalLimited": "2026-12-18"
+    }
+  },
+  "runtime": 145,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-12-18",
+  "title": "La Gradiva",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "VPZkB7nqXms",
+      "name": "Marine Atlan, Julie Sokolowski, and Inès Daïen Dasi on La Gradiva",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "5yY6V9MbEoE",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "I-culP9aRgQ",
+      "name": "Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "e4W8nXKteHM",
+      "name": "Cannes 2026: Marine Atlan on La Gradiva [Subtitled]",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 17,
+  "watchProviders": {}
+}

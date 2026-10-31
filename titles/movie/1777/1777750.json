@@ -1,0 +1,166 @@
+{
+  "backdropPath": "/v0T74v8LPZBSL247oGeTOp06tnm.jpg",
+  "cast": [
+    {
+      "character": "Conan Edogawa (voice)",
+      "id": 68470,
+      "name": "Minami Takayama",
+      "profilePath": "/4Gunxt2UWnAX74ZoXKtqK2rI0e.jpg"
+    },
+    {
+      "character": "Ran Mouri (voice)",
+      "id": 90133,
+      "name": "Akemi Okamura",
+      "profilePath": "/qEwVfsrA23SCzRZMSlghw2sHctQ.jpg"
+    },
+    {
+      "character": "Shinichi Kudo (voice)",
+      "id": 68472,
+      "name": "Kappei Yamaguchi",
+      "profilePath": "/mJyxKRZxLv9D7LH5KcNSkjSKYOB.jpg"
+    },
+    {
+      "character": "Kogoro Mouri (voice)",
+      "id": 237076,
+      "name": "Rikiya Koyama",
+      "profilePath": "/hsZm87BORLpzhaycBaWOD5xpjVC.jpg"
+    },
+    {
+      "character": "Toko Satomi (voice)",
+      "id": 1691461,
+      "name": "Elaiza Ikeda",
+      "profilePath": "/9O5oVUq06ao6MXbYxQ93y8MwTMP.jpg"
+    },
+    {
+      "character": "Hiroshi Agasa (voice)",
+      "id": 142704,
+      "name": "Kenichi Ogata",
+      "profilePath": "/iQLEawIP2593yrGy22GzLSpnfgl.jpg"
+    },
+    {
+      "character": "Ai Haibara  (voice)",
+      "id": 40325,
+      "name": "Megumi Hayashibara",
+      "profilePath": "/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 7164,
+      "logoPath": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+      "name": "TMS Entertainment"
+    },
+    {
+      "id": 882,
+      "logoPath": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt46656123",
+    "twitterId": "conan_anime1000",
+    "wikidataId": "Q141328096"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1777750,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "originalTitle": "名探偵コナン 30号殺人事件",
+  "overview": "As a new 10,000-yen banknote featuring the Touto Tower design is issued and the nation is swept up in excitement, Conan and the Junior Detective League, accompanied by Professor Agasa, Ran, and Sonoko, visit the Nagano factory of the Japan Banknote Printing Bureau. Meanwhile, counterfeit money is discovered at the scene of a murder in Tokyo, prompting the Metropolitan Police Department to establish an investigation headquarters. As the unprecedented circulation of counterfeit new banknotes throws the public into confusion, Conan and Heiji head to Osaka, where the counterfeit money is believed to have been printed.",
+  "posterPath": "/pT9RIHf4K9OyOB3eqYj97E5h0YA.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Detective Conan: The Counterfeit Case of Ultra 30",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 10,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1968,
+          "logoPath": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+          "name": "Crunchyroll Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1777750-30/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1968,
+          "logoPath": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+          "name": "Crunchyroll Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1777750-30/watch?locale=US",
+      "rent": []
+    }
+  }
+}

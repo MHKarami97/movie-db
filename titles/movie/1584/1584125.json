@@ -1,0 +1,208 @@
+{
+  "backdropPath": "/lHSLTzz1rW3XcfJYTyCSdaPmosr.jpg",
+  "cast": [
+    {
+      "character": "Narrator (voice)",
+      "id": 1038,
+      "name": "Jodie Foster",
+      "profilePath": "/5emVgsLFlU6SmeBIFsF2Y7aqwtG.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 13,
+      "name": "Albert Brooks",
+      "profilePath": "/8iDSGu5l93N7benjf6b3AysBore.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 9560,
+      "name": "Ellen Burstyn",
+      "profilePath": "/zGihSIVRzwmCqilnA4PmNM4C2RT.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1229975,
+      "name": "Frank Rich",
+      "profilePath": "/u9BhldRIpE6EmzapxtLCFiczpuX.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1032,
+      "name": "Martin Scorsese",
+      "profilePath": "/g3DjfKsgZQWZiw30I20hZVk1oMX.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 16851,
+      "name": "Josh Brolin",
+      "profilePath": "/7QpneI3HoZCCDVPyWx3p3t7yeo7.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1152,
+      "name": "Oliver Stone",
+      "profilePath": "/zn4XrQMUg32poFHJd2kwlXBPmGg.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1385036,
+      "name": "James Risen",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 2250861,
+      "name": "James Wolcott",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 5347061,
+      "name": "Jefferson Cowie",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 58637,
+      "logoPath": "/ow51X3ZjwBSE2UeYOF9ya8xfiI9.png",
+      "name": "Tremolo Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-12-19",
+  "externalIds": {
+    "imdbId": "tt38985973",
+    "wikidataId": "Q137669676"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1584125,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Breakdown: 1975",
+  "overview": "In 1975, as America faced social and political upheaval, filmmakers turned chaos into art.",
+  "posterPath": "/6LirpQnBmBpAOa5Me1lBCBBy90e.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-12-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-12-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2025-12-19"
+    },
+    "US": {
+      "digital": "2025-12-19"
+    }
+  },
+  "runtime": 92,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Breakdown: 1975",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "M35kWPGmI1M",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 33,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1584125-breakdown-1975/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1584125-breakdown-1975/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1584125-breakdown-1975/watch?locale=US",
+      "rent": []
+    }
+  }
+}

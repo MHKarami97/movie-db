@@ -1,0 +1,178 @@
+{
+  "backdropPath": "/eRv1OdYswL11QUEKahOZIIHcphz.jpg",
+  "cast": [
+    {
+      "character": "Ερινιά",
+      "id": 5593690,
+      "name": "Evelyn Assouad",
+      "profilePath": "/fSogBhQm8evy40hbnPGFGl0z37x.jpg"
+    },
+    {
+      "character": "Σοφία",
+      "id": 2869634,
+      "name": "Erifili Kitzoglou",
+      "profilePath": "/mqFs1ILisVozRDrJVWjlHAImwkT.jpg"
+    },
+    {
+      "character": "",
+      "id": 2904402,
+      "name": "Nikos Lekakis",
+      "profilePath": "/1AIV38M2oU1hWv57FLDv4QZgLnl.jpg"
+    },
+    {
+      "character": "",
+      "id": 1132978,
+      "name": "Yorgos Karamihos",
+      "profilePath": "/yNVB2gQqVUZLWxNIHdVxvpCZZB0.jpg"
+    },
+    {
+      "character": "",
+      "id": 428967,
+      "name": "Ioannis Papazisis",
+      "profilePath": "/1hfOz3I7dk9BIJJdyO5uHPxI0WX.jpg"
+    },
+    {
+      "character": "",
+      "id": 313259,
+      "name": "Eleni Kokkidou",
+      "profilePath": "/pHruiibU8oyxXtjsZuy2RzbJJoY.jpg"
+    },
+    {
+      "character": "",
+      "id": 2588414,
+      "name": "Christina Alexanian",
+      "profilePath": "/io7MQUjMaClvx6NAYLmSCelnGxo.jpg"
+    },
+    {
+      "character": "",
+      "id": 2928182,
+      "name": "Stefanos Kyriakidis",
+      "profilePath": "/mSpZ5WH510UwwIh17AUY11WNTUo.jpg"
+    },
+    {
+      "character": "",
+      "id": 2777453,
+      "name": "Spyros Tsekouras",
+      "profilePath": "/odo889mp91YduQPCApL6D0d1ctE.jpg"
+    },
+    {
+      "character": "",
+      "id": 2015652,
+      "name": "Michalis Ikonomou",
+      "profilePath": "/uNR9jvFJRlAwwHIyqpwRWGthZLr.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 238904,
+      "logoPath": "/yVew5JL2A4xVPBHDfD8BdvE6d2m.png",
+      "name": "ALTER EGO MASS MEDIA S.A. – MEGA"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GR",
+      "name": "Greece"
+    }
+  ],
+  "digitalDate": "2027-01-11",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-11",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 339856,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "el",
+      "name": "Greek"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-11",
+    "episodeNumber": 1,
+    "id": 8005560,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Κανακαρά",
+  "overview": "",
+  "posterPath": "/kmHyBGhExMphKM4ziKO9OEKu5Ry.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-11",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-11"
+    },
+    "CN": {
+      "tv": "2027-01-11"
+    },
+    "GB": {
+      "tv": "2027-01-11"
+    },
+    "US": {
+      "tv": "2027-01-11"
+    }
+  },
+  "runtime": 60,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-11",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Κανακαρά",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

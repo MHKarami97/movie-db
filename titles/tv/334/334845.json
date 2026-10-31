@@ -1,0 +1,155 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Stéphanie",
+      "id": 1433018,
+      "name": "Léa Roy",
+      "profilePath": "/mRcCJh6bhqGpZk0IsgEpILxHrSN.jpg"
+    },
+    {
+      "character": "Josée",
+      "id": 81468,
+      "name": "Fanny Mallette",
+      "profilePath": "/8iRMCNBmt3RQFBGcQHBpeWEn7ju.jpg"
+    },
+    {
+      "character": "Robert",
+      "id": 229424,
+      "name": "Stéphane Gagnon",
+      "profilePath": "/WGhClujX3PqAK36wAh4HmnXmOg.jpg"
+    },
+    {
+      "character": "Marie-Claude",
+      "id": 1197103,
+      "name": "Geneviève Boivin-Roussy",
+      "profilePath": "/lEYsND9tEZI1PGq2LqQSqMWmD6F.jpg"
+    },
+    {
+      "character": "Simon",
+      "id": 965056,
+      "name": "Simon Pigeon",
+      "profilePath": "/QsA9yNhieTTuIYNDdq2yia116F.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 46682,
+      "logoPath": "/ybNfe9vMywnjygOODnm7QYw9rvQ.png",
+      "name": "Attraction"
+    },
+    {
+      "id": 242481,
+      "logoPath": null,
+      "name": "Québecor Contenu"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2027-02-01",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-02-01",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt42803195"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 334845,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-02-01",
+    "episodeNumber": 1,
+    "id": 7793736,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Même pas morte",
+  "overview": "Stéphanie Cardin is brutally attacked and left for dead in her apartment in the middle of the night. Fifteen years earlier, her mother had fallen victim to a disturbing and virtually identical attack; this drags those close to her into an investigation once again, at a time when the authorities have few leads.",
+  "posterPath": "/pMUGlgdwfhfPa6QYiOj1mV9NMP5.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-02-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-02-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-02-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-02-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-02-01"
+    },
+    "CN": {
+      "tv": "2027-02-01"
+    },
+    "GB": {
+      "tv": "2027-02-01"
+    },
+    "US": {
+      "tv": "2027-02-01"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-02-01",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Même pas morte",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

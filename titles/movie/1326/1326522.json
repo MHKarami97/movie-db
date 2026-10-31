@@ -1,0 +1,205 @@
+{
+  "backdropPath": "/bTwRR2MvBlzDuaCrN5gMb4HkhxD.jpg",
+  "cast": [
+    {
+      "character": "Krzysiek",
+      "id": 1345428,
+      "name": "Tomasz Ziętek",
+      "profilePath": "/3LU66910gAOyJhll0vBkKxFSMH6.jpg"
+    },
+    {
+      "character": "Omar",
+      "id": 589351,
+      "name": "Marcin Bosak",
+      "profilePath": "/ruU0UTYzIBz1R5oeEskPtR8nVWy.jpg"
+    },
+    {
+      "character": "Lewandowski",
+      "id": 140652,
+      "name": "Tomasz Kot",
+      "profilePath": "/k4LgSV1p2FI8xhFwNOzBcDcEX7s.jpg"
+    },
+    {
+      "character": "Irena",
+      "id": 1527552,
+      "name": "Agnieszka Żulewska",
+      "profilePath": "/4rvcJMkl1Test5C6DFFpqJY2CrJ.jpg"
+    },
+    {
+      "character": "Ewa",
+      "id": 4874005,
+      "name": "Mary Pawłowska",
+      "profilePath": null
+    },
+    {
+      "character": "Major",
+      "id": 2162217,
+      "name": "Mirosław Kropielnicki",
+      "profilePath": "/xKbU9er56Ie2DlYVmYx7s605781.jpg"
+    },
+    {
+      "character": "Pelt",
+      "id": 935612,
+      "name": "Tomasz Sapryk",
+      "profilePath": "/9YR9wo2Ri5GQlwwF4bnfoa3JU3j.jpg"
+    },
+    {
+      "character": "Kajetan Salomon",
+      "id": 989498,
+      "name": "Ireneusz Czop",
+      "profilePath": "/uY3CFB4TGljADavxeTBVKc0HNb9.jpg"
+    },
+    {
+      "character": "Kapalski",
+      "id": 136650,
+      "name": "Andrzej Konopka",
+      "profilePath": "/3QoIbqsBXj9Si1kuGOl0YCxM52v.jpg"
+    },
+    {
+      "character": "Sagan",
+      "id": 2171278,
+      "name": "Piotr Trojan",
+      "profilePath": "/iHYHWVjVXjy0yIMeifs2ic8dbrd.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 25147,
+      "logoPath": null,
+      "name": "MTL Maxfilm"
+    },
+    {
+      "id": 125737,
+      "logoPath": "/v4YRjUXtET5EqW2XXYB05K3yUpd.png",
+      "name": "Mazowiecki Instytut Kultury"
+    },
+    {
+      "id": 45595,
+      "logoPath": null,
+      "name": "Artrama"
+    }
+  ],
+  "countries": [
+    {
+      "code": "PL",
+      "name": "Poland"
+    }
+  ],
+  "digitalDate": "2026-04-10",
+  "externalIds": {
+    "facebookId": "wielka.warszawska",
+    "imdbId": "tt33295270",
+    "instagramId": "wielkawarszawska_film",
+    "wikidataId": "Q138795162"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1326522,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pl",
+      "name": "Polish"
+    }
+  ],
+  "originalTitle": "Wielka Warszawska",
+  "overview": "A young jockey Krzysiek dreams of competing in a prestigious race - the Great Warsaw Race. He enters the world of horse racing with the naivety of an enthusiastic newcomer. He quickly realizes though that the racetrack is a web of dependencies, powerful interests, and manipulated results. Krzysiek hopes he can change it. But in a world of corruption and dirty deals it's hard to remain unblemished.",
+  "posterPath": "/6EW4VPViR8BtZgJuVN9cTybFtPe.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-02-13"
+    },
+    "US": {
+      "digitalDate": "2026-04-10",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-02-13"
+    },
+    "US": {
+      "digital": "2026-04-10"
+    }
+  },
+  "runtime": 110,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Great Warsaw Race",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 6,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1326522-wielka-warszawska/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1326522-wielka-warszawska/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    }
+  }
+}

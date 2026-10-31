@@ -1,0 +1,193 @@
+{
+  "backdropPath": "/9mRvuRKCmF4af1JlaN8vOvV8wzb.jpg",
+  "cast": [
+    {
+      "character": "Vince",
+      "id": 2782008,
+      "name": "Josh George",
+      "profilePath": "/eLrhvqEnyGYxzdOs8K1KlWXs5uO.jpg"
+    },
+    {
+      "character": "Claire",
+      "id": 2438324,
+      "name": "Callie Schuttera",
+      "profilePath": "/rStZupJY2T9bRr8Y1kg4CEgnHUX.jpg"
+    },
+    {
+      "character": "Andrew",
+      "id": 1601679,
+      "name": "Clayton Farris",
+      "profilePath": "/pLfJfxA2hsSIcKX76EooFixCEBU.jpg"
+    },
+    {
+      "character": "Zoey",
+      "id": 2882119,
+      "name": "Cindy Nguyen",
+      "profilePath": null
+    },
+    {
+      "character": "Rome",
+      "id": 2907337,
+      "name": "Jeremy D. Howard",
+      "profilePath": "/kp4lc6f9oUm8b2C5vVVqMOKq9Ya.jpg"
+    },
+    {
+      "character": "Jordan",
+      "id": 1319802,
+      "name": "Nikki Dixon",
+      "profilePath": "/2AoZ0DqX50pWQRZqObMwP8R2xHe.jpg"
+    },
+    {
+      "character": "Tori",
+      "id": 3998802,
+      "name": "Stakiah Lynn Washington",
+      "profilePath": "/czCDky7hu3UKZgxeokQtsaZeThs.jpg"
+    },
+    {
+      "character": "Agent",
+      "id": 121566,
+      "name": "Sharon Lawrence",
+      "profilePath": "/bLu3mjAJKDq8WE3QfspIvInKGVu.jpg"
+    },
+    {
+      "character": "Noah",
+      "id": 4615961,
+      "name": "Johnny Bazaldua",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 138212,
+      "logoPath": null,
+      "name": "Poison Pictures"
+    },
+    {
+      "id": 138211,
+      "logoPath": "/gd02Le6LwXaT8cEWxxzFtan5VxU.png",
+      "name": "Dow Jazz Films"
+    },
+    {
+      "id": 303575,
+      "logoPath": null,
+      "name": "Iervasi Film Group"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2026-10-23",
+  "externalIds": {
+    "imdbId": "tt38453653",
+    "instagramId": "@theexitstate"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1727317,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Exit State",
+  "overview": "In the not-too-distant future, a group of American citizens attempt to flee the country to escape an authoritarian regime, but their path to freedom quickly becomes a dystopian nightmare.",
+  "posterPath": "/80oQCwA8SJrjBiFarxzkEXZxxDT.jpg",
+  "rating": 3.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-23",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-23",
+      "premiere": "2026-10-13"
+    }
+  },
+  "runtime": 92,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Make yourself at home.",
+  "theatricalDate": null,
+  "title": "The Exit State",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "0eH051yoikY",
+      "name": "The Exit State | Official Trailer | Chroma",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 3,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1727317-the-exit-state/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

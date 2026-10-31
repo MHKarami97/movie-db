@@ -1,0 +1,174 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 1574334,
+      "name": "Dileesh Pothan",
+      "profilePath": "/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg"
+    },
+    {
+      "character": "",
+      "id": 544988,
+      "name": "Vineeth Radhakrishnan",
+      "profilePath": "/dvni43nbWY6J6DPh4W6CyE5oiiW.jpg"
+    },
+    {
+      "character": "Jacob",
+      "id": 3037049,
+      "name": "Sagar Surya",
+      "profilePath": "/eKHPNSAi40LmIqUFRw1pFLSEjxZ.jpg"
+    },
+    {
+      "character": "",
+      "id": 3564142,
+      "name": "Revathy Sharma",
+      "profilePath": "/jsvadAWNanxlJVgA8nU3jan1fO2.jpg"
+    },
+    {
+      "character": "",
+      "id": 1922502,
+      "name": "Aditi Balan",
+      "profilePath": "/1otmSjCB30YL9rFldV3kcnva6DR.jpg"
+    },
+    {
+      "character": "",
+      "id": 591115,
+      "name": "Madhupal",
+      "profilePath": "/nYnnmECsmVPBQCc7BUJKIQqBx2n.jpg"
+    },
+    {
+      "character": "",
+      "id": 1061909,
+      "name": "Lenaa",
+      "profilePath": "/1qugxYSQRahuBfk8Nh6g3Qq2MAS.jpg"
+    },
+    {
+      "character": "Rose",
+      "id": 3428938,
+      "name": "Mokksha",
+      "profilePath": "/kDjSXnWdXJHxjbs0XwjSQE6lJe2.jpg"
+    },
+    {
+      "character": "",
+      "id": 2664003,
+      "name": "Merin Philip",
+      "profilePath": "/ecbdRhiPF8v8obAUE3RE58GQAN6.jpg"
+    },
+    {
+      "character": "",
+      "id": 1158785,
+      "name": "Raghunath Paleri",
+      "profilePath": "/5I51oMsdRaKkdqT9kOhCmHGsK3a.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 304772,
+      "logoPath": null,
+      "name": "Atus Fims"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt44878818"
+  },
+  "fetchedAt": 1794424086332,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1733518,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ml",
+      "name": "Malayalam"
+    }
+  ],
+  "originalTitle": "ഭൗമ",
+  "overview": "",
+  "posterPath": "/l526Yk6NJeEhxSx9dmRMPOwt3tT.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Bouma",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {
+    "AE": {
+      "ads": [
+        {
+          "id": 232,
+          "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+          "name": "Zee5"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1733518/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1733518/watch?locale=GB",
+      "rent": []
+    }
+  }
+}

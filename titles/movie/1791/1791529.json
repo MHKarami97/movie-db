@@ -1,0 +1,101 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 222223,
+      "logoPath": null,
+      "name": "Paradoks Film"
+    },
+    {
+      "id": 296,
+      "logoPath": "/oPCnyumoJtIedjQoQin6zSSHkv8.png",
+      "name": "Filmakademie Baden-Württemberg"
+    },
+    {
+      "id": 124,
+      "logoPath": "/7MjDMOybX0D3fcIEpCyY9es5XZU.png",
+      "name": "SWR"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt48887972"
+  },
+  "fetchedAt": 1793452486014,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1791529,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "bg",
+      "name": "Bulgarian"
+    },
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "Hotel Utopia",
+  "overview": "In an abandoned hotel deep in the Bulgarian mountains, digital nomads search for a new home, investors are hoping for profit, and the last villager revels in days gone by – all driven by the longing for #happyland in a place shaped by a socialist past.",
+  "posterPath": "/Uw7GjlmjRpXAVsF0mAh9mtbOwR.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "CA": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "DE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "IR": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "DE": {
+      "premiere": "2026-10-27"
+    }
+  },
+  "runtime": 86,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Hotel Utopia",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

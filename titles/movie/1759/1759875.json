@@ -1,0 +1,185 @@
+{
+  "backdropPath": "/twI5fNZrX4UnUVu8mAeO1P7VAUk.jpg",
+  "cast": [
+    {
+      "character": "Daniel Pierce",
+      "id": 6452842,
+      "name": "Sam Williamson",
+      "profilePath": "/80Un2uzatoFfK6ONGKGCbe7oFOF.jpg"
+    },
+    {
+      "character": "Lee",
+      "id": 1397916,
+      "name": "Michael Broderick",
+      "profilePath": "/2MaElb6nAwm6OTryXot6Ip2LJTp.jpg"
+    },
+    {
+      "character": "Sheriff Webb",
+      "id": 1172863,
+      "name": "Luke Stratte-McClure",
+      "profilePath": "/iYRht7FbwRlHPdhs6eMYRscIggE.jpg"
+    },
+    {
+      "character": "Nathan",
+      "id": 1128308,
+      "name": "Chris Bylsma",
+      "profilePath": "/ckGu8M5UdMZXrDKpxlkQCYLz5TC.jpg"
+    },
+    {
+      "character": "Elinor",
+      "id": 6203497,
+      "name": "Laurel Feierbach",
+      "profilePath": "/Au7CO7tP1KJq9arp6ggWvj6UAXQ.jpg"
+    },
+    {
+      "character": "Tyler",
+      "id": 6452858,
+      "name": "Solomon Puckett",
+      "profilePath": null
+    },
+    {
+      "character": "Russ",
+      "id": 3465993,
+      "name": "Scott Callenberger",
+      "profilePath": "/hpIrCrhQIGXmJEX8RSLDIfwvrl8.jpg"
+    },
+    {
+      "character": "John",
+      "id": 3312365,
+      "name": "Noah Aronstein",
+      "profilePath": "/zdmQtcHSehMDrLTMPlFDneAXAzs.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2026-09-08",
+  "externalIds": {
+    "imdbId": "tt34992230"
+  },
+  "fetchedAt": 1794511516390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1759875,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Militia",
+  "overview": "Daniel Pierce dreams of joining the local Militia alongside his father once he turns eighteen, but when his Dad becomes the target of the local Sheriff, Daniel and his friends form their own militia in a troubled effort to save him.",
+  "posterPath": "/bBAeq5GAt6QKUL5eS0UalflLysH.jpg",
+  "rating": 7.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-08",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-09-08"
+    }
+  },
+  "runtime": 117,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Militia",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "xH6J4dVgtPw",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1759875-the-militia/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ]
+    }
+  }
+}

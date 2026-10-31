@@ -1,0 +1,605 @@
+{
+  "backdropPath": "/euUEDjof7fVX2t3nYFvLLN9ADK2.jpg",
+  "cast": [
+    {
+      "character": "Rick",
+      "id": 22226,
+      "name": "Paul Rudd",
+      "profilePath": "/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+      "character": "Danny Wilson",
+      "id": 130565,
+      "name": "Nick Jonas",
+      "profilePath": "/y79k7wrDeyRbrGFs2Z3XHU5mq0o.jpg"
+    },
+    {
+      "character": "Sandy",
+      "id": 73283,
+      "name": "Peter McDonald",
+      "profilePath": "/ahacAWWP4zzuVumOUB8hZoJcHTA.jpg"
+    },
+    {
+      "character": "Rachel",
+      "id": 163544,
+      "name": "Marcella Plunkett",
+      "profilePath": "/ieeuGpDxOQMvSzNYehDZT7FMCLR.jpg"
+    },
+    {
+      "character": "Marcia",
+      "id": 2378813,
+      "name": "Havana Rose Liu",
+      "profilePath": "/lqdialbfdj5l4KYMSlL4aausMaV.jpg"
+    },
+    {
+      "character": "Mac",
+      "id": 1007683,
+      "name": "Jack Reynor",
+      "profilePath": "/vbPewOkSGGQl93wgshDlczMqiOk.jpg"
+    },
+    {
+      "character": "Binzer",
+      "id": 1041731,
+      "name": "Rory Keenan",
+      "profilePath": "/coxaroBNEpi4xjQ7kZuZBxSqO29.jpg"
+    },
+    {
+      "character": "Kyle",
+      "id": 58435,
+      "name": "Keith McErlean",
+      "profilePath": "/rkSrF2jGZRIt4iwS1qIB967mTM4.jpg"
+    },
+    {
+      "character": "Bernie",
+      "id": 1373165,
+      "name": "Paul Reid",
+      "profilePath": "/j94PrRDF1bZQ4fDE4y8NaxIPVt.jpg"
+    },
+    {
+      "character": "Aja",
+      "id": 5757675,
+      "name": "Beth Fallon",
+      "profilePath": "/crbLmf1TAP7qvm8mTGJZpyv8VMz.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1785,
+      "logoPath": "/wT6aIkuQTNuq8XFoDGACK8EyR6w.png",
+      "name": "Likely Story"
+    },
+    {
+      "id": 104363,
+      "logoPath": "/tKIimrvYUH02D4km00lCEDUYvIF.png",
+      "name": "30WEST"
+    },
+    {
+      "id": 1898,
+      "logoPath": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
+      "name": "Fís Éireann/Screen Ireland"
+    },
+    {
+      "id": 21872,
+      "logoPath": "/sex8X2qwrKfFTSJLEXMPH4kmDxN.png",
+      "name": "Treasure Entertainment"
+    },
+    {
+      "id": 68417,
+      "logoPath": null,
+      "name": "Distressed Films"
+    },
+    {
+      "id": 221429,
+      "logoPath": "/rWqW00ts1tZ0efwyacZlGnVd6PB.png",
+      "name": "Media Capital Technologies"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-06-23",
+  "externalIds": {
+    "imdbId": "tt32267691",
+    "twitterId": "powerballadfilm",
+    "wikidataId": "Q126285100"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 18,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1284016,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Power Ballad",
+  "overview": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
+  "posterPath": "/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-29"
+    },
+    "US": {
+      "digitalDate": "2026-06-23",
+      "gapDays": 18,
+      "theatricalDate": "2026-06-05"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-05-29"
+    },
+    "US": {
+      "digital": "2026-06-23",
+      "premiere": "2026-03-14",
+      "theatrical": "2026-06-05",
+      "theatricalLimited": "2026-05-29",
+      "tv": "2026-09-26"
+    }
+  },
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "It's time to set the record straight.",
+  "theatricalDate": "2026-06-05",
+  "title": "Power Ballad",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "tD1tITSXaXg",
+      "name": "Official Clip - \"I Wrote That Big Hit\"",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "NQKWmhB_pho",
+      "name": "Already a favorite.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Cy1HEiiDB7Y",
+      "name": "sunny side up eggs & Stevie Wonder = Nick Jonas' perfect morning.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "7yQApo1GDec",
+      "name": "Yea, I like that.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "c8Oi7pgzF_M",
+      "name": "brb, going to The Stags Head incase i bump into Paul Rudd, John Carney, and Bono.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "OcrCs1CUmxg",
+      "name": "A standing ovation.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "7BWzxkFL780",
+      "name": "You heard 'em.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "1zh2ojZMYNI",
+      "name": "You heard the buzz. Now see the movie.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "8-wSIV4zFNQ",
+      "name": "different styles, same song.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "YPSOx51K-Hw",
+      "name": "It's called taste.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "U_bMYV_gQCw",
+      "name": "A perfect formula.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "KfuZXIh5P00",
+      "name": "The Carney touch. Learn how John Carney and Gary Clark created \"How to Write a Song Without You.\"",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "9vvVp-UpLIA",
+      "name": "Never gets old.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "KU9RAFDMzUE",
+      "name": "Mic drop.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "eEKFkmLLiMA",
+      "name": "Three cities. One must-see movie. An encore moviegoers never expected.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "S6A_sbKhXhg",
+      "name": "these reviews speak for themselves.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "52M-jguRqY8",
+      "name": "Paul Rudd & John Carney making steal-worthy songs.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "06yZaCBMWBE",
+      "name": "If Nick Jonas is listening to How To Write a Song (Without You), then you should be too.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "8dnxi4x_wXM",
+      "name": "A New York minute with Paul Rudd, Nick Jonas and John Carney. Creator Cred: Wes Ellis",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Qk29DDcYbgk",
+      "name": "NOT a drill! Paul Rudd can sing! and sing well!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "MF1DomxBNDE",
+      "name": "1 of 1.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "_zvXp4rrFBQ",
+      "name": "This tracks.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "aD_bGJ5AQtU",
+      "name": "in these reviews we TRUST.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ZINz_c6AD_M",
+      "name": "The man behind the music. Paul Rudd and Nick Jonas on working with John Carney.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "hhQNNm68e4s",
+      "name": "You ready?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "B6Fx65xKQTo",
+      "name": "Official Clip - That's My Song",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "Z1nhzRJu_2o",
+      "name": "See you in the theater.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "0kJQ7Jb0R4g",
+      "name": "Paul Rudd is Rick Power",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "l6KfWbbgPsQ",
+      "name": "A new John Carney classic.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "BIVnb2T8oZc",
+      "name": "Made for a crowd.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "P86645IBs-Q",
+      "name": "Hits every beat.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ojdjZg0EKUc",
+      "name": "Inside John Carney's writing process for Power Ballad",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "E1VNiIwAUPs",
+      "name": "Get your tickets NOW to see Power Ballad on May 29 in select cities. In theaters everywhere June 5.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "TD9jpS-tf90",
+      "name": "A definitive crowd-pleaser.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "nt58VH5BZbM",
+      "name": "The word is out.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "BGscqrNbXW8",
+      "name": "Let it play. Paul Rudd and Nick Jonas star in Power Ballad.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "-faiHUsbP_U",
+      "name": "Official International Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "jWddzd1YM34",
+      "name": "In one month, one song changes it all.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "n6Q0-oUHayQ",
+      "name": "That's what a good song does.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "YsD5Jy2zfeQ",
+      "name": "An electric night at the John Carney Double Feature Screening!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "3WcoHyJ4AoU",
+      "name": "Official Clip ‘We Could Finish This’",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "Evvpx6oxRZ8",
+      "name": "Official Trailer 2",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "S4XVYjPieqA",
+      "name": "“Paul Rudd and Nick Jonas rule.”",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "FRROKYjL9OI",
+      "name": "From song to hit.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Um_WWbB8Tm0",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "rKfGQ5s_RNg",
+      "name": "Paul Rudd & Nick Jonas are the ultimate unexpected duet in Power Ballad",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 133,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1284016-power-ballad/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1794,
+          "logoPath": "/adymMNlhhLlJl5xccRCrsh3OehD.png",
+          "name": "Starz Amazon Channel"
+        },
+        {
+          "id": 43,
+          "logoPath": "/h25xjouKmiSmFiiqw0aDXbxGZo7.png",
+          "name": "Starz"
+        },
+        {
+          "id": 1855,
+          "logoPath": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+          "name": "Starz Apple TV channel"
+        },
+        {
+          "id": 634,
+          "logoPath": "/tKembbxL7cYdDvFK70xBecbN0G8.png",
+          "name": "Starz Roku Premium Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1284016-power-ballad/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

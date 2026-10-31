@@ -1,0 +1,178 @@
+{
+  "backdropPath": "/Nri5jNAwzerZl4q5A5XCtnQxkC.jpg",
+  "cast": [
+    {
+      "character": "Carol",
+      "id": 9281,
+      "name": "Elizabeth Banks",
+      "profilePath": "/hQ7IwCQjlpsBPSpnnjjhH3rjwSJ.jpg"
+    },
+    {
+      "character": "Gary",
+      "id": 4764,
+      "name": "John C. Reilly",
+      "profilePath": "/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+    },
+    {
+      "character": "Nurse Chapman",
+      "id": 3196,
+      "name": "Juliette Lewis",
+      "profilePath": "/sSGCW01aUsYlVQhuk3XSY7cl6Ww.jpg"
+    },
+    {
+      "character": "Rebecca",
+      "id": 568657,
+      "name": "Sofia Boutella",
+      "profilePath": "/lGFhhjcjARQCM8AiGidyyyfDowh.jpg"
+    },
+    {
+      "character": "Margo Case",
+      "id": 221192,
+      "name": "Kathryn Newton",
+      "profilePath": "/3mos4oK6bps0uhQzW1L7nj5O0Gd.jpg"
+    },
+    {
+      "character": "",
+      "id": 1181327,
+      "name": "Lamorne Morris",
+      "profilePath": "/9qPDnMsF7JbYSSn1K9yryFBmmXl.jpg"
+    },
+    {
+      "character": "Quentin",
+      "id": 3116820,
+      "name": "Toby Larsen",
+      "profilePath": "/hfCDYmOC6VzuBfi7nslynvaybvb.jpg"
+    },
+    {
+      "character": "Robot Carol",
+      "id": 1290563,
+      "name": "Anna Marie Dobbins",
+      "profilePath": "/8q5DZRYJCnBlPNukzthKXbvqqf9.jpg"
+    },
+    {
+      "character": "Nikodem",
+      "id": 109667,
+      "name": "Ilia Volok",
+      "profilePath": "/vkzEmYELgEsmbSJmh2RALnBYCR7.jpg"
+    },
+    {
+      "character": "Companion 3",
+      "id": 2568103,
+      "name": "Emmie Nagata",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 12365,
+      "logoPath": "/nwjOaV5QmJ7cbXOBRG4wf8AVeUx.png",
+      "name": "Brownstone Productions"
+    },
+    {
+      "id": 2373,
+      "logoPath": "/wcQ30Rj2FP8d8VkAcOYqXCHCmsq.png",
+      "name": "Patriot Pictures"
+    },
+    {
+      "id": 146399,
+      "logoPath": null,
+      "name": "Landay Entertainment"
+    },
+    {
+      "id": 230547,
+      "logoPath": null,
+      "name": "Big Valley Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-12-04",
+  "externalIds": {
+    "imdbId": "tt27733119",
+    "wikidataId": "Q125880828"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1125627,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "DreamQuil",
+  "overview": "In a near future where poor air quality forces people into virtual lives, a dissatisfied mother joins a digital wellness retreat, only to return home and discover that a robotic replacement has taken her place, leading to a sinister mystery.",
+  "posterPath": "/dVuxzF8odLaajzUk5SC4vRub7aL.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-12-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-12-04"
+    },
+    "US": {
+      "premiere": "2026-03-16"
+    }
+  },
+  "runtime": 89,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "DreamQuil",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "YUN6b41_VXc",
+      "name": "DREAMQUIL Official Trailer (2026) Elizabeth Banks",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

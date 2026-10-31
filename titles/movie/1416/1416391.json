@@ -1,0 +1,202 @@
+{
+  "backdropPath": "/3gI8gS7YIpmEzUehg3cZVQ62phl.jpg",
+  "cast": [
+    {
+      "character": "Ramakant",
+      "id": 117727,
+      "name": "Rajkummar Rao",
+      "profilePath": "/bCbQkvfnncgsh9qZ9u02IGtsfma.jpg"
+    },
+    {
+      "character": "Shilpa",
+      "id": 1756851,
+      "name": "Sanya Malhotra",
+      "profilePath": "/sQ0VIqGLecfpwYayO05Z7NC32yN.jpg"
+    },
+    {
+      "character": "Malini Pherwani",
+      "id": 87304,
+      "name": "Archana Puran Singh",
+      "profilePath": "/uc6QJNnT8q0wNnZOZi0QW2hE1wq.jpg"
+    },
+    {
+      "character": "Inspector Balgaode",
+      "id": 142335,
+      "name": "Upendra Limaye",
+      "profilePath": "/vFELR5TiBfc6LkLvI5kC5lpEnHv.jpg"
+    },
+    {
+      "character": "Glen D'Souza",
+      "id": 1708061,
+      "name": "Abhishek Banerjee",
+      "profilePath": "/cfyRkFBFfodBbNKbsTc8eG9YtVj.jpg"
+    },
+    {
+      "character": "Mrs. D'Souza",
+      "id": 1276863,
+      "name": "Seema Pahwa",
+      "profilePath": "/jtm1q6oLBzd7C9KIrXlOOcUyzRf.jpg"
+    },
+    {
+      "character": "Nandini",
+      "id": 8311,
+      "name": "Farah Khan",
+      "profilePath": "/rkAVUE9OfKYuYSCm0zEyjMZE3tC.jpg"
+    },
+    {
+      "character": "Amol Amre",
+      "id": 1148989,
+      "name": "Jitendra Joshi",
+      "profilePath": "/rUtSbkJXDwk3jmLiO0Zt8oNgIMO.jpg"
+    },
+    {
+      "character": "Customer at Shop",
+      "id": 1779934,
+      "name": "Pratik Gandhi",
+      "profilePath": "/dM6X5HrC1WKMfk3MwQJk1YFelk9.jpg"
+    },
+    {
+      "character": "Guest at Wedding",
+      "id": 1602232,
+      "name": "Patralekhaa",
+      "profilePath": "/guQD3gK8pHlv0WQA9GI25YB2siP.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 262082,
+      "logoPath": null,
+      "name": "Kampa Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2026-04-15",
+  "externalIds": {
+    "imdbId": "tt34498610",
+    "wikidataId": "Q132456719"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 1416391,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "hi",
+      "name": "Hindi"
+    }
+  ],
+  "originalTitle": "टोस्टर",
+  "overview": "Murder and chaos erupt when a miser becomes obsessed with a toaster he gave as a wedding gift.",
+  "posterPath": "/8bsa86WKaQ9plaYN7rd9oGwmyVV.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-15",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-04-15"
+    }
+  },
+  "runtime": 126,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Toaster",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 38,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1416391/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1416391/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1416391/watch?locale=US",
+      "rent": []
+    }
+  }
+}

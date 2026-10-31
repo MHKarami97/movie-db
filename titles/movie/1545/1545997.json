@@ -1,0 +1,212 @@
+{
+  "backdropPath": "/ow0fjNLTQeI8trA3oH3d1szqdl.jpg",
+  "cast": [
+    {
+      "character": "Nell Duke",
+      "id": 116882,
+      "name": "Lyndsy Fonseca",
+      "profilePath": "/xPbbiLpUpmaHIVnyR3BAfG1tm5S.jpg"
+    },
+    {
+      "character": "Cooper",
+      "id": 1256300,
+      "name": "Daniel Lissing",
+      "profilePath": "/8BN5A6PuzkjPdiT9zlDYDuMvlC4.jpg"
+    },
+    {
+      "character": "Julia Roades",
+      "id": 1908224,
+      "name": "Teneisha Collins",
+      "profilePath": "/9lP1AggH8rWNXAFzJ5N2skCLhum.jpg"
+    },
+    {
+      "character": "Singer",
+      "id": 3784810,
+      "name": "Lauren Spencer-Smith",
+      "profilePath": null
+    },
+    {
+      "character": "Thomas",
+      "id": 1123270,
+      "name": "Victor Andres Trelles Turgeon",
+      "profilePath": "/da54ECcQiSVdsViJVxJ7Uk3NLE4.jpg"
+    },
+    {
+      "character": "Mike Armer",
+      "id": 143395,
+      "name": "Marcel Jeannin",
+      "profilePath": "/u4cJlSYUA5T2dHQrR5meN23tHda.jpg"
+    },
+    {
+      "character": "Paquetta",
+      "id": 5482888,
+      "name": "Alyssa Angelucci-Wall",
+      "profilePath": null
+    },
+    {
+      "character": "Resa",
+      "id": 1239549,
+      "name": "Aviva Armour-Ostroff",
+      "profilePath": "/qIPBOUW9alf8ZUvWEktb2PSNPfh.jpg"
+    },
+    {
+      "character": "Melanie Blair",
+      "id": 4272532,
+      "name": "Jennifer Baker",
+      "profilePath": "/4KToo1eVVyZW5iTxmXq64FDkUOq.jpg"
+    },
+    {
+      "character": "Cooper's Aunt",
+      "id": 179280,
+      "name": "Victoria Barkoff",
+      "profilePath": "/a9AE5hafjKpr5gdRkUc5PcZaDfx.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 6438,
+      "logoPath": "/hQVRii7CRnfG0rowSEc6ibt2Pke.png",
+      "name": "Muse Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38347292"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1545997,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Single on the 25th",
+  "overview": "After Nell’s family cancels holiday plans at the last minute, she decides to spend the week of Christmas having fun on her own — and crosses paths with her neighbor, who is “happily unattached.”",
+  "posterPath": "/5tYw1fstvTdpH6wInqY23oTIiiI.jpg",
+  "rating": 7.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2025-12-07"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Single on the 25th",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "8jm7ne3WYBU",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 10,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1545997-single-on-the-25th/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 290,
+          "logoPath": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "id": 2058,
+          "logoPath": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "id": 1746,
+          "logoPath": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1545997-single-on-the-25th/watch?locale=US",
+      "rent": []
+    }
+  }
+}

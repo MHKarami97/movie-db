@@ -1,0 +1,218 @@
+{
+  "backdropPath": "/90Vx3KpCXR2D9iVdxJpkjeYBq9P.jpg",
+  "cast": [
+    {
+      "character": "Madre Clara (segment \"1775\")",
+      "id": 591995,
+      "name": "Carla Abellana",
+      "profilePath": "/q5Q1tp7OGn2rLc5sOUuTjMPrH1v.jpg"
+    },
+    {
+      "character": "Rosdan (segment \"2050\")",
+      "id": 88940,
+      "name": "Richard Gutierrez",
+      "profilePath": "/sn71JC7lWQa4Ti2K1XQJiPVckqA.jpg"
+    },
+    {
+      "character": "Edris (segment \"2050\")",
+      "id": 2384291,
+      "name": "Ivana Alawi",
+      "profilePath": "/ak6K81qcGsERBOMpsoVNdJO81kC.jpg"
+    },
+    {
+      "character": "Malena (segment \"2050\" and \"2025\")",
+      "id": 1117200,
+      "name": "Manilyn Reynes",
+      "profilePath": "/iAQ0c3U2mDJ4hjAe0qDyD2vC2yg.jpg"
+    },
+    {
+      "character": "Madre Juana (segment \"1775\")",
+      "id": 1082061,
+      "name": "Janice de Belen",
+      "profilePath": "/cfK5VrfILIOdAbSAZIlrF4g2Uwk.jpg"
+    },
+    {
+      "character": "Faye (segment \"2025\")",
+      "id": 2175562,
+      "name": "Francine Diaz",
+      "profilePath": "/pV0yuW1r6aLiHchRs559i9VQTMR.jpg"
+    },
+    {
+      "character": "Hermana Flor (segment \"1775\")",
+      "id": 1942257,
+      "name": "Loisa Andalio",
+      "profilePath": "/mchVbtJUUYiFm1vjwMXA6hzeLHe.jpg"
+    },
+    {
+      "character": "Sean (segment \"2025\")",
+      "id": 2398496,
+      "name": "Seth Fedelin",
+      "profilePath": "/oH8rerdJrZnBqG9dJK0HxJlpGGV.jpg"
+    },
+    {
+      "character": "DJ Elle (segment \"2025\")",
+      "id": 5258443,
+      "name": "Fyang Smith",
+      "profilePath": "/dQTvoTw9v3Y4PKHcIR64PNnAtI1.jpg"
+    },
+    {
+      "character": "James (segment \"2025\")",
+      "id": 5258444,
+      "name": "JM Ibarra",
+      "profilePath": "/7W330cXLM7QCrjyyHUn7MBvyRQ5.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 8238,
+      "logoPath": "/3f3SS3sep9V3Nf7RAxNd5UUEw1E.png",
+      "name": "Regal Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "digitalDate": "2026-07-30",
+  "externalIds": {
+    "imdbId": "tt37697399",
+    "wikidataId": "Q136006859"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1510795,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "tl",
+      "name": "Tagalog"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Shake, Rattle & Roll: Evil Origins",
+  "overview": "In 1775 during the Spanish colonial period in the Philippines, nuns attempts to survive the night after an unknown evil was set free in their cloister. Meanwhile in 2025, a group of friends attend a Halloween masquerade ball which was attacked by a serial killer. Fast forward to the future in 2050, a post-apocalytic Philippines is ruled by the aswang.",
+  "posterPath": "/2ayOQIh18qhJRoajoAxxGuZXry2.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-07-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-30",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-07-30"
+    },
+    "US": {
+      "digital": "2026-07-30"
+    }
+  },
+  "runtime": 148,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Shake, Rattle & Roll: Evil Origins",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "A5QQvRaHxDw",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "A3gbYYnVW1M",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 26,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1510795-shake-rattle-roll-evil-origins/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1510795-shake-rattle-roll-evil-origins/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1510795-shake-rattle-roll-evil-origins/watch?locale=US",
+      "rent": []
+    }
+  }
+}

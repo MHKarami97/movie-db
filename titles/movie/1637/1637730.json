@@ -1,0 +1,109 @@
+{
+  "backdropPath": "/suSAjZRAEE3HVrPG0Ukir1eSVr.jpg",
+  "cast": [
+    {
+      "character": "Director",
+      "id": 1666913,
+      "name": "Adrian McCarthy",
+      "profilePath": null
+    },
+    {
+      "character": "Producer",
+      "id": 4967218,
+      "name": "Maria Horgan",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 1923,
+      "logoPath": "/ilgktofJY7OsURHfccJrug4GKdQ.png",
+      "name": "RTÉ"
+    },
+    {
+      "id": 201,
+      "logoPath": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE"
+    },
+    {
+      "id": 112959,
+      "logoPath": "/1K2h0MqNiet4ImTvm0vD96Zpxg8.png",
+      "name": ".Mille et Une. Films."
+    }
+  ],
+  "countries": [
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt49237543"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1637730,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Whiddy",
+  "overview": "A small rural community in Ireland welcomes in a major, global oil company with open arms but just 10 years and numerous oil spills later, that dream turns into an unimaginable nightmare. 50 lives lost in a tragedy that silenced and divided the community and still haunts it to this day.",
+  "posterPath": "/spRPrwVmD08aXiZV951G5PQGVLb.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 105,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Whiddy",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "UvEm8WWIZ7M",
+      "name": "Whiddy - Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

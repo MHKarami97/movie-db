@@ -1,0 +1,134 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 147079,
+      "name": "Chiranjeevi",
+      "profilePath": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 194032,
+      "logoPath": null,
+      "name": "Gold Box Entertainment"
+    },
+    {
+      "id": 316265,
+      "logoPath": null,
+      "name": "Atom Media Ventures"
+    },
+    {
+      "id": 109874,
+      "logoPath": "/68xoUqUBOfFhMVRtIoHDe55Y4io.png",
+      "name": "SOL Production"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2027-07-01",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-07-01",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 340391,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "te",
+      "name": "Telugu"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-07-01",
+    "episodeNumber": 1,
+    "id": 8032307,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Chiranjeevi's Megaverse",
+  "overview": "",
+  "posterPath": "/lFflaQ1IRzf4nmHrp6M6voqFXQt.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-07-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-07-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-07-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-07-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-07-01"
+    },
+    "CN": {
+      "tv": "2027-07-01"
+    },
+    "GB": {
+      "tv": "2027-07-01"
+    },
+    "US": {
+      "tv": "2027-07-01"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-07-01",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Chiranjeevi's Megaverse",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

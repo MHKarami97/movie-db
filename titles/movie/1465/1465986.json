@@ -1,0 +1,335 @@
+{
+  "backdropPath": "/kieO4beSjRrjROR21p7iFmoeQsJ.jpg",
+  "cast": [
+    {
+      "character": "Lynn Page",
+      "id": 1595615,
+      "name": "Kelsey Pribilski",
+      "profilePath": "/gM7uNT30FUd0x1JEL1UGWu1LsJr.jpg"
+    },
+    {
+      "character": "Lucas Page",
+      "id": 2547272,
+      "name": "William Magnuson",
+      "profilePath": "/h3pya0jLFzukfoVnC35O8qNAtc7.jpg"
+    },
+    {
+      "character": "Reverend Endicott Carr",
+      "id": 1155596,
+      "name": "John Gholson",
+      "profilePath": "/hPUzWU9X2th62XawZUz7x5V813u.jpg"
+    },
+    {
+      "character": "The Stranger",
+      "id": 1124629,
+      "name": "Brian Villalobos",
+      "profilePath": "/e6JktXEXn1cxaWItcPllqLlAzxL.jpg"
+    },
+    {
+      "character": "Wendy Parker",
+      "id": 1682408,
+      "name": "Nell Kessler",
+      "profilePath": "/s03VGoXziYfyupoRCFYIAqmYcLj.jpg"
+    },
+    {
+      "character": "Winston Boon",
+      "id": 1194700,
+      "name": "Graham Skipper",
+      "profilePath": "/kU61AybO1EWbzE6UDo5dSwm9Ep4.jpg"
+    },
+    {
+      "character": "Abigail and Fernette Webber",
+      "id": 3311623,
+      "name": "Judy McMillan",
+      "profilePath": "/s1h11lGOp0Aa3ZCmPDa0NaSpCp3.jpg"
+    },
+    {
+      "character": "Joelle Cantor",
+      "id": 5480052,
+      "name": "Christine Hall",
+      "profilePath": null
+    },
+    {
+      "character": "Holly Page",
+      "id": 1124624,
+      "name": "Akasha Villalobos",
+      "profilePath": "/qohtRVfndHClqGhzT5OZ1u1Qn6f.jpg"
+    },
+    {
+      "character": "Richard Page",
+      "id": 1335207,
+      "name": "Shane Brady",
+      "profilePath": "/wr3AkVWw1ehbQWNHC6WlJskKZJu.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 105878,
+      "logoPath": "/1hRvAmvhGy7XrDp7xVa9d1eu8lL.png",
+      "name": "Rustic Films"
+    },
+    {
+      "id": 12142,
+      "logoPath": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+      "name": "XYZ Films"
+    },
+    {
+      "id": 12369,
+      "logoPath": "/syA4NuUhzk5ubo1QSuVrED5RaC9.png",
+      "name": "Arcanum Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-12-05",
+  "externalIds": {
+    "imdbId": "tt36591419",
+    "wikidataId": "Q137215326"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1465986,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Man Finds Tape",
+  "overview": "Pulled in by a series of strange and unexplainable video clips, a brother and sister team up to investigate the events captured in the footage, only to discover a shocking secret that’s overtaking their small-town Texas community.",
+  "posterPath": "/1WMaJEwwsw8ALCo1mRGjjTV5e8T.jpg",
+  "rating": 5.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-01-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-12-05",
+      "gapDays": 0,
+      "theatricalDate": "2025-12-05"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-01-19"
+    },
+    "US": {
+      "digital": "2025-12-05",
+      "premiere": "2025-06-08",
+      "theatricalLimited": "2025-12-05"
+    }
+  },
+  "runtime": 86,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Can you see it.",
+  "theatricalDate": "2025-12-05",
+  "title": "Man Finds Tape",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "jN9gk6zpf7U",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 50,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1465986-man-finds-tape/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 332,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango at Home Free"
+        },
+        {
+          "id": 235,
+          "logoPath": "/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png",
+          "name": "YouTube Free"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        },
+        {
+          "id": 2077,
+          "logoPath": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+          "name": "Plex Channel"
+        },
+        {
+          "id": 1963,
+          "logoPath": "/n6E9OeoQicCDd43PnLsMpVIVYFK.png",
+          "name": "Xumo Play"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        },
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1465986-man-finds-tape/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

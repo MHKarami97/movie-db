@@ -1,0 +1,186 @@
+{
+  "backdropPath": "/v8kidsoOnmfZlRhylRhdCz11Czk.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1627727,
+      "name": "Hong Jin-kyung",
+      "profilePath": "/kBrl7i1Mw2mr3A35PZ93wdw19X.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1547165,
+      "name": "Seo In-young",
+      "profilePath": "/taZfvMQIdue6uRzPQsaFyoMDiJr.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1716008,
+      "name": "Lee Sun-bin",
+      "profilePath": "/8YwNd9PhSym4357gCu9RCDdPXqx.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2790264,
+      "name": "Lee Yeon",
+      "profilePath": "/uTZMewSjjx4MxDYAaZrhbl1fAGX.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 186378,
+      "logoPath": "/3eNeUhAUa1EpY24zKmMSdwbOiws.png",
+      "name": "TEO"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": "2026-11-27",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-11-27",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-04",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-11",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-18",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-25",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1794158926475,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 341297,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-27",
+    "episodeNumber": 1,
+    "id": 8089186,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "산독기 프로젝트",
+  "overview": "A group of celebrities embarks on an intense wilderness adventure to detox from urban life. Facing rugged terrain and extreme physical challenges, they push their limits while discovering the healing power of nature and the thrill of competition.",
+  "posterPath": "/xA7HNek9f6PXOk8J1pCBaLX1qJR.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-11-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-11-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-11-27"
+    },
+    "CN": {
+      "tv": "2026-11-27"
+    },
+    "GB": {
+      "tv": "2026-11-27"
+    },
+    "US": {
+      "tv": "2026-11-27"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-11-27",
+      "episodeCount": 6,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/xA7HNek9f6PXOk8J1pCBaLX1qJR.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Think this is just a relaxing detox trip? Think again!",
+  "theatricalDate": null,
+  "title": "The Detox Project",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

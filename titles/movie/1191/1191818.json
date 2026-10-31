@@ -1,0 +1,160 @@
+{
+  "backdropPath": "/3vt3M9IrUvuH4E93ZlZpWvtxX3V.jpg",
+  "cast": [
+    {
+      "character": "Nora",
+      "id": 54338,
+      "name": "Hafsia Herzi",
+      "profilePath": "/byx2NjdptzQtmt5kWZc7hf6Kqj9.jpg"
+    },
+    {
+      "character": "Franck",
+      "id": 5442,
+      "name": "Benoît Magimel",
+      "profilePath": "/pdXiN4doHkWmIF18mDg6pe0RtAv.jpg"
+    },
+    {
+      "character": "Thomas Bergogne",
+      "id": 910944,
+      "name": "Bastien Bouillon",
+      "profilePath": "/8ksm25v40MS2p2y0EyyNrxdt7it.jpg"
+    },
+    {
+      "character": "Cristina",
+      "id": 28782,
+      "name": "Monica Bellucci",
+      "profilePath": "/7g3k3u2gZpE7XU8GRYwHDuN1jlM.jpg"
+    },
+    {
+      "character": "Ida",
+      "id": 5542216,
+      "name": "Tawba El Gharchi",
+      "profilePath": "/bZaJFNnUHO9jkX7FycGtFiuNLBR.jpg"
+    },
+    {
+      "character": "Flo",
+      "id": 1171437,
+      "name": "Paul Hamy",
+      "profilePath": "/xfsvDCVvSFXp5EbOaQzJ26mcXGC.jpg"
+    },
+    {
+      "character": "Bégue",
+      "id": 1395718,
+      "name": "Alane Delhaye",
+      "profilePath": "/1TMWnteQKsYDke3dux7c8k3eMqO.jpg"
+    },
+    {
+      "character": "Estelle",
+      "id": 2822697,
+      "name": "Servane Ducorps",
+      "profilePath": "/gksSlKaVsUpB1XsxO0j95cCBAby.jpg"
+    },
+    {
+      "character": "Kim",
+      "id": 6194935,
+      "name": "Tatia Tsuladze",
+      "profilePath": "/3iUwAOKAnVA0qPyWXUspHjFoeC2.jpg"
+    },
+    {
+      "character": "Chef de service",
+      "id": 1369181,
+      "name": "Jean-Paul Daniel",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 11778,
+      "logoPath": "/rIiLv4yt20WOQAk1HD1EvLOfDgh.png",
+      "name": "F Comme Film"
+    },
+    {
+      "id": 591,
+      "logoPath": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma"
+    },
+    {
+      "id": 102129,
+      "logoPath": "/kbYX7a8BZshOE9tAh9ECxJcZxK0.png",
+      "name": "DIVISION"
+    },
+    {
+      "id": 193498,
+      "logoPath": "/grDzFY7347YKDLrMYnihbmo8ZOQ.png",
+      "name": "Beside Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt30495381",
+    "wikidataId": "Q139078113"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1191818,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Histoires de la nuit",
+  "overview": "Thomas, Nora and their teenage daughter Ida live on remote marshland. Social contact is limited, as they only have one neighbour, Cristina, an Italian painter. As the two households plan a surprise birthday party for Nora, strange disturbances begin to occur and unease rolls over the marsh.",
+  "posterPath": "/7prAuNDsQPUlHKyXiYNkuofyi0G.jpg",
+  "rating": 6.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-09-17"
+    }
+  },
+  "runtime": 114,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Birthday Party",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 22,
+  "watchProviders": {}
+}

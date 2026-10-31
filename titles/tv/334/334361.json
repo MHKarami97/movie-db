@@ -1,0 +1,106 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Detective Elise Sutton",
+      "id": 11703,
+      "name": "Kerry Washington",
+      "profilePath": "/zgyjYlxmHG6Ntbg16JcTp8Vu8M3.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2027-01-01",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 1,
+        "name": "Pilot",
+        "overview": "Plot under wraps",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt42900975",
+    "wikidataId": "Q139891461"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 334361,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-01",
+    "episodeNumber": 1,
+    "id": 7778063,
+    "name": "Pilot",
+    "overview": "Plot under wraps",
+    "seasonNumber": 1
+  },
+  "originalTitle": "What Remains",
+  "overview": "Based on Wendy Walker’s psychological suspense novel, What Remains follows Detective Elise Sutton, a devoted wife, loving mother, and cold case specialist. After taking the life of a disturbed man in the line of duty, Elise reels from intense guilt and self-doubt. Desperate to convince herself that she did the right thing, she makes contact with a mysterious man she saved that day. However, she quickly discovers he is not at all what he seems, drawing her into a dangerous, terrifying game of cat and mouse.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-01"
+    },
+    "CN": {
+      "tv": "2027-01-01"
+    },
+    "GB": {
+      "tv": "2027-01-01"
+    },
+    "US": {
+      "tv": "2027-01-01"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-01",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "What Remains",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

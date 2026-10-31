@@ -1,0 +1,205 @@
+{
+  "backdropPath": "/3eZQoaWm2cDE2QV02GUHUrWsxAC.jpg",
+  "cast": [
+    {
+      "character": "Ulises Verón",
+      "id": 69310,
+      "name": "Ricardo Darín",
+      "profilePath": "/2laJXyYQkL9YdLL1PRdD3hLZ6Uy.jpg"
+    },
+    {
+      "character": "Martín Bouchard",
+      "id": 96429,
+      "name": "Diego Peretti",
+      "profilePath": "/honq5g3GPjaCBoiik4uU7va0OJf.jpg"
+    },
+    {
+      "character": "Florencia",
+      "id": 27058,
+      "name": "Inés Efrón",
+      "profilePath": "/aSXV4etwXL8PGAeoFMcrmNGoSfG.jpg"
+    },
+    {
+      "character": "Eugenio Tirabosco",
+      "id": 109360,
+      "name": "Carlos Santamaría",
+      "profilePath": "/3Vlzyywvhw8jiDufLqbdzh5wC3.jpg"
+    },
+    {
+      "character": "Norma",
+      "id": 1562670,
+      "name": "Miriam Odorico",
+      "profilePath": "/3wdXhgm7DlrYA4mD7NZPwEotMbG.jpg"
+    },
+    {
+      "character": "Paula Verón",
+      "id": 4960246,
+      "name": "Antonia Bengochea",
+      "profilePath": null
+    },
+    {
+      "character": "Conductora de TV",
+      "id": 2026242,
+      "name": "Andrea Politti",
+      "profilePath": null
+    },
+    {
+      "character": "Monica",
+      "id": 2075123,
+      "name": "Patricia Echegoyen",
+      "profilePath": null
+    },
+    {
+      "character": "Claudio Iturbide",
+      "id": 2413751,
+      "name": "Andrés Granier",
+      "profilePath": null
+    },
+    {
+      "character": "Remisero",
+      "id": 961825,
+      "name": "Gonzalo Urtizberea",
+      "profilePath": "/qVxJeohKi3Ig4bhZfYVoSFbeA7W.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 159797,
+      "logoPath": "/mmHtkWczwcuyaLd34HFJhM9uBD7.png",
+      "name": "Kenya Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "digitalDate": "2026-10-16",
+  "externalIds": {
+    "imdbId": "tt37027309",
+    "wikidataId": "Q141507235"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1487317,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Lo dejamos acá",
+  "overview": "A psychoanalyst who's lost faith in traditional therapy crosses every boundary to help a blocked novelist in this cutting Argentine dark comedy.",
+  "posterPath": "/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg",
+  "rating": 7.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-16",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-16"
+    }
+  },
+  "runtime": 97,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Therapy Done Right",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "DgZQwmjdcp8",
+      "name": "Lo dejamos acá | Tráiler oficial | Netflix",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 72,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1487317-lo-dejamos-aca/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1487317-lo-dejamos-aca/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1487317-lo-dejamos-aca/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "backdropPath": "/sAIb0M11sLVNGJc3ywhdRNwQGZm.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 6185760,
+      "name": "Toby Benoit",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6185763,
+      "name": "Anne Stratton Hilts",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 5689540,
+      "name": "Jimbo McCartney",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 5689541,
+      "name": "Shannon McCartney",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6185762,
+      "name": "Richard Perenyi",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 5689548,
+      "name": "Joe Wasilewski",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 5689543,
+      "name": "Madison Oliveira",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 187968,
+      "logoPath": "/xdVAEg1biNrQw5nnMXKswPCRpkq.png",
+      "name": "Artists Equity"
+    },
+    {
+      "id": 215699,
+      "logoPath": "/7Qqs6Jw4Z9e3uwtOh9QF9ydpVy9.png",
+      "name": "To Be Formed"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35514288",
+    "wikidataId": "Q133286529"
+  },
+  "fetchedAt": 1794511516390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1421979,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Python Hunt",
+  "overview": "Every year, the Florida government invites the general public to compete in an invasive python removal contest in the Everglades. For ten nights, an eclectic group of hunters confront the dangerous terrain, nocturnal creatures and their own desires.",
+  "posterPath": "/vDk4hXklfneXGazpyW1RXTnyG4h.jpg",
+  "rating": 5.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-08"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2025-03-08",
+      "theatricalLimited": "2026-05-08"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-05-08",
+  "title": "The Python Hunt",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "iKJI5XGZh9o",
+      "name": "The Python Hunt - Official Trailer - Oscilloscope Laboratories HD",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1421979-the-python-hunt/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

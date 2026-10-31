@@ -1,0 +1,163 @@
+{
+  "backdropPath": "/8gg1n99c3LC0SEq99FLIDDXVSa.jpg",
+  "cast": [
+    {
+      "character": "Benito",
+      "id": 105843,
+      "name": "Silverio Palacios",
+      "profilePath": "/knRcubASXmakYNyY4G8BXEj12Rz.jpg"
+    },
+    {
+      "character": "Juan",
+      "id": 2349377,
+      "name": "Daniel Sosa",
+      "profilePath": "/3aDH9nLhuZJEpV0w8qZLHFLDlax.jpg"
+    },
+    {
+      "character": "Pancho",
+      "id": 2732919,
+      "name": "Fernando Cuautle",
+      "profilePath": "/yxGoMBPVvieHrSkA2A0LACWcr68.jpg"
+    },
+    {
+      "character": "Melinda",
+      "id": 4244397,
+      "name": "Sofía Carrera",
+      "profilePath": "/cv7vxKsFqODWeSc6wqRkBLQ52FT.jpg"
+    },
+    {
+      "character": "Adri",
+      "id": 4840693,
+      "name": "Rocío Guzmán",
+      "profilePath": "/1UMAusQkTD1sc0eLVpLZfrk95Wu.jpg"
+    },
+    {
+      "character": "Pacha Nana",
+      "id": 971363,
+      "name": "Norma Reyna",
+      "profilePath": "/wXrgKUxzi0TAeUwOyaZ8cFyq20k.jpg"
+    },
+    {
+      "character": "Marisela",
+      "id": 2156652,
+      "name": "Flor Benítez",
+      "profilePath": "/buwnu68UpnZf9UCTXJZEF8pLWAs.jpg"
+    },
+    {
+      "character": "Toña",
+      "id": 5157344,
+      "name": "Shaní Lozano",
+      "profilePath": "/7uH0nR4BDJF4xUDNU46KMXz7OWS.jpg"
+    },
+    {
+      "character": "Fabio",
+      "id": 5892943,
+      "name": "Alberto Gorgonio",
+      "profilePath": null
+    },
+    {
+      "character": "Dickens",
+      "id": 4274750,
+      "name": "John Michael DeWall",
+      "profilePath": "/inRCS24a0edbrbUup6JkYYytd3L.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 36153,
+      "logoPath": "/6GG11MRe3j1o9BYbSfYBdYS0ntw.png",
+      "name": "Cinépolis Producciones"
+    }
+  ],
+  "countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt43063916"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1700680,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Loco México Mágico",
+  "overview": "A man finds the best motivation to secure and save his town: making an independent Mexican film.",
+  "posterPath": "/wCUD4k1EYhFwuTpsUwKfY3fvWOT.jpg",
+  "rating": 7.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 105,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Crazy Magical Mexico",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "8d6kzhTAaIg",
+      "name": "Loco Mexico Magico | Official Trailer | Hola Mexico Film Festival",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 77,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        },
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1700680-loco-mexico-magico/watch?locale=US",
+      "rent": []
+    }
+  }
+}

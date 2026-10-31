@@ -1,0 +1,215 @@
+{
+  "backdropPath": "/vaqN5ZtKBrEEcetV75cD9imIpt8.jpg",
+  "cast": [
+    {
+      "character": "Brenda",
+      "id": 3514938,
+      "name": "Natalia Solián",
+      "profilePath": "/miG7BYdOLR8DvvqdfhGpukxGZLh.jpg"
+    },
+    {
+      "character": "Indigente",
+      "id": 1299682,
+      "name": "Hoze Meléndez",
+      "profilePath": "/uEYPg9sZRpPkMTOXfLbmiK5DBLg.jpg"
+    },
+    {
+      "character": "Guardia de Seguridad",
+      "id": 3524227,
+      "name": "Guillermo Nava",
+      "profilePath": "/yKMqnDsv4rfKYOg1t4EHkIDPywQ.jpg"
+    },
+    {
+      "character": "Aurelio",
+      "id": 1413395,
+      "name": "Fernando Banda",
+      "profilePath": null
+    },
+    {
+      "character": "Jaime",
+      "id": 6099742,
+      "name": "René Martínez",
+      "profilePath": null
+    },
+    {
+      "character": "Policía Ministerio Público",
+      "id": 3204931,
+      "name": "Juan Clemente Dávila Cueva",
+      "profilePath": null
+    },
+    {
+      "character": "Madre de Brenda",
+      "id": 6503625,
+      "name": "Dolores Espinoza",
+      "profilePath": null
+    },
+    {
+      "character": "Niña",
+      "id": 3599596,
+      "name": "Isabella Arroyo",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 7570,
+      "logoPath": "/gW8dfVtl1JsGIiLnvglea1OHHVr.png",
+      "name": "Videocine"
+    },
+    {
+      "id": 95249,
+      "logoPath": "/2pM7Vj4HZyDkuB6hwi4thYdZm6I.png",
+      "name": "BH5"
+    }
+  ],
+  "countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "digitalDate": "2026-10-19",
+  "externalIds": {
+    "imdbId": "tt38689148",
+    "instagramId": "tormentopelicula"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1575535,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Tormento",
+  "overview": "An exhausted security guard is transferred to a morgue and, on their first night, discovers that the shadows and silences hide a torment from which there may be no return.",
+  "posterPath": "/laNzzOFL1LymaRwDX4GwZqnK9gI.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-10-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-10-19"
+    }
+  },
+  "runtime": 80,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "You can't escape your sins!",
+  "theatricalDate": null,
+  "title": "Torment",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Zso_a6h75oI",
+      "name": "A new job, a dark secret, and a nightmare that's just beginning …",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "JyKjIhN9WmQ",
+      "name": "UK Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "wdIkY413Pk4",
+      "name": "Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 63,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1575535-tormento/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1866,
+          "logoPath": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+          "name": "ViX Premium Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1575535-tormento/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ]
+    }
+  }
+}

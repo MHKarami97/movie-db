@@ -1,0 +1,183 @@
+{
+  "backdropPath": "/hpeJZsjwcySRYOxveHZlETVBwE3.jpg",
+  "cast": [
+    {
+      "character": "Patrick",
+      "id": 1727213,
+      "name": "Anthony Boyle",
+      "profilePath": "/jF015vIjbrq72nTzWd2mWcybuiC.jpg"
+    },
+    {
+      "character": "Shiv",
+      "id": 1969732,
+      "name": "Lola Petticrew",
+      "profilePath": "/a7zjKKuEn72WVMKeHUZhYrLwLmA.jpg"
+    },
+    {
+      "character": "Rian",
+      "id": 1081875,
+      "name": "Joe Cole",
+      "profilePath": "/tJ4g1Zit0IqAhKiImTwAQrHHKuA.jpg"
+    },
+    {
+      "character": "Conor",
+      "id": 1829245,
+      "name": "Daryl McCormack",
+      "profilePath": "/uxBEREn7HCDzhSNJaFw8MPdvXxo.jpg"
+    },
+    {
+      "character": "Oli",
+      "id": 2588506,
+      "name": "Jay Lycurgo",
+      "profilePath": "/pbsoexLxfXZZvITACzfOB1dsDip.jpg"
+    },
+    {
+      "character": "Emma",
+      "id": 1460120,
+      "name": "Millie Brady",
+      "profilePath": "/rCMJ6hS6qMta17X6QzmNDqLdm38.jpg"
+    },
+    {
+      "character": "Sophie",
+      "id": 2080503,
+      "name": "Lucie Shorthouse",
+      "profilePath": "/wzFf42GcYOlPX181FB6w4Pn3D3p.jpg"
+    },
+    {
+      "character": "Marcus",
+      "id": 1951021,
+      "name": "James Eeles",
+      "profilePath": "/rnuxXcPGuGeYcCVQeqCaeDRJIaY.jpg"
+    },
+    {
+      "character": "Si",
+      "id": 2219081,
+      "name": "Ryan Walker-Edwards",
+      "profilePath": "/1e6f2EoZJ6NYesmdQ0C5DlbdRAo.jpg"
+    },
+    {
+      "character": "Kate",
+      "id": 6203753,
+      "name": "Sam Brasenell",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 34527,
+      "logoPath": "/3rZuHN1SNj7s1ulWMD0cI3i9mRb.png",
+      "name": "Moonspun Films"
+    },
+    {
+      "id": 288,
+      "logoPath": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film"
+    },
+    {
+      "id": 7281,
+      "logoPath": "/iI7qdR1OFPo0U41BlpKBLD3xesh.png",
+      "name": "BFI"
+    },
+    {
+      "id": 20312,
+      "logoPath": "/iYmytRQt5jqlBIEaMQ0Cb6iAHh8.png",
+      "name": "TPC"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38991615",
+    "wikidataId": "Q133825173"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1455247,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "I See Buildings Fall Like Lightning",
+  "overview": "Childhood friends Patrick, Shiv, Rian, Oli, and Conor played together, skipped school together, and dreamt of the lives they would have one day. Now they’re thirty, and the future they imagined is slipping quietly out of reach.",
+  "posterPath": "/8NyU9Nn6QvPtxYPRCRwETcBtTBd.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-12-04"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-10-16",
+      "theatrical": "2026-12-04"
+    },
+    "US": {
+      "premiere": "2026-10-03"
+    }
+  },
+  "runtime": 109,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Five friends. Five lives. Countless hopes.",
+  "theatricalDate": "2026-12-04",
+  "title": "I See Buildings Fall Like Lightning",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "LfV7DwBoJaI",
+      "name": "The Premiere of I See Buildings Fall Like Lightning",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "sk7NF_LWhLs",
+      "name": "Official UK & IRE Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "U46yuOQzvxw",
+      "name": "Official Clip",
+      "official": true,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

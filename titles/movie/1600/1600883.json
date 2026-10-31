@@ -1,0 +1,208 @@
+{
+  "backdropPath": "/81CU1x2f7hUsZF6WeCo6WQxYx7K.jpg",
+  "cast": [
+    {
+      "character": "Sivaji",
+      "id": 935915,
+      "name": "Sivaji Sontineni",
+      "profilePath": "/rYttVZsngTbaS2ElxDiIiQ32RbL.jpg"
+    },
+    {
+      "character": "Vishnu",
+      "id": 1071558,
+      "name": "Nandu Vijay Krishna",
+      "profilePath": "/z4ntPEduBCkqmci7RgrZ8xiNQ8a.jpg"
+    },
+    {
+      "character": "Seetharam",
+      "id": 113808,
+      "name": "Navdeep",
+      "profilePath": "/zwkvWrtFNxflU3eQrX7xwXZEoZk.jpg"
+    },
+    {
+      "character": "Sreelatha",
+      "id": 544987,
+      "name": "Bindu Madhavi",
+      "profilePath": "/uMY6N23pt141RnjlVDtXF24RISd.jpg"
+    },
+    {
+      "character": "Ravi",
+      "id": 2372812,
+      "name": "Ravi Krishna",
+      "profilePath": "/vtqotENMFoZa9ThHfVBGOxK9KdX.jpg"
+    },
+    {
+      "character": "Sujatha",
+      "id": 4471661,
+      "name": "Manika",
+      "profilePath": null
+    },
+    {
+      "character": "Vanitha \"Vinny\"",
+      "id": 3081342,
+      "name": "Mounika Reddy",
+      "profilePath": "/yRCxZxjWpDIjadKG38VDtFqYkp.jpg"
+    },
+    {
+      "character": "Sujatha",
+      "id": 5886853,
+      "name": "Raadhya",
+      "profilePath": null
+    },
+    {
+      "character": "Babai",
+      "id": 1999839,
+      "name": "Muralidhar Goud",
+      "profilePath": "/3KldPSnn08WhuwoUR9GhZ9OnsI2.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 187333,
+      "logoPath": null,
+      "name": "Loukya Entertainments"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2026-01-14",
+  "externalIds": {
+    "imdbId": "tt34984715",
+    "wikidataId": "Q137778283"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1600883,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "te",
+      "name": "Telugu"
+    }
+  ],
+  "originalTitle": "దండోరా",
+  "overview": "In a remote village, over a single day, four characters respond differently to the death of an upper-caste man named Shivaji.",
+  "posterPath": "/hs3wQWyXPQEHxnMjXOXRoHY0dOG.jpg",
+  "rating": 6.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-12-24"
+    },
+    "US": {
+      "digitalDate": "2026-01-14",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2025-12-24"
+    },
+    "US": {
+      "digital": "2026-01-14"
+    }
+  },
+  "runtime": 136,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Dhandoraa",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "tcHOHuu3S90",
+      "name": "Dhandoraa Movie Official Trailer | Shivaji, Bindu Madhavi, Navdeep, Nandu",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "1q6E9RK0Aek",
+      "name": "#DHANDORAA Teaser | Shivaji | Bindu Madhavi | Navdeep | Nandu| Murali Kanth | Loukya Entertainments",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 119,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1600883/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1600883/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1600883/watch?locale=US",
+      "rent": []
+    }
+  }
+}

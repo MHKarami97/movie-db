@@ -1,0 +1,182 @@
+{
+  "backdropPath": "/buB346BA3BlPd8rDlrXBeuNl1Gq.jpg",
+  "cast": [
+    {
+      "character": "Moreton Li",
+      "id": 43661,
+      "name": "Takeshi Kaneshiro",
+      "profilePath": "/1U3vANPbBbJwLaREn28Sede9HK2.jpg"
+    },
+    {
+      "character": "Wong Chi-tat",
+      "id": 940339,
+      "name": "Lau Ching-wan",
+      "profilePath": "/ecxJyPA6EPDG2AXomVJORaN4qLZ.jpg"
+    },
+    {
+      "character": "Tik Man-kit (Bullet)",
+      "id": 56861,
+      "name": "Tony Leung Ka-fai",
+      "profilePath": "/sPDShFDtDx1pMNwHEx14o4WHrEH.jpg"
+    },
+    {
+      "character": "Ching Man-sing",
+      "id": 78875,
+      "name": "Louis Koo",
+      "profilePath": "/yQuDBTzm7xWlJICNvl20OmcJP80.jpg"
+    },
+    {
+      "character": "Siyan Lau",
+      "id": 74022,
+      "name": "Gao Yuanyuan",
+      "profilePath": "/aotqhWAseCbgq2HYDP3So5j5qg5.jpg"
+    },
+    {
+      "character": "Maddox Li",
+      "id": 944055,
+      "name": "Alex To",
+      "profilePath": "/phgKsjLIiatjDLpRPtovm7GA0g7.jpg"
+    },
+    {
+      "character": "Foon",
+      "id": 1035980,
+      "name": "Nina Paw Hei-ching",
+      "profilePath": "/wQFuXG8F4LIMcO2vtH5IxBGE5wx.jpg"
+    },
+    {
+      "character": "Fox",
+      "id": 548616,
+      "name": "Wilson Lam Chun-yin",
+      "profilePath": "/iSZ7ggcTeJJDySVWEu8Or3VqQM4.jpg"
+    },
+    {
+      "character": "Manny",
+      "id": 238973,
+      "name": "Lowell Lo Koon-ting",
+      "profilePath": "/z8T2Qk2O7vR7bEw1PoZsFObmzU1.jpg"
+    },
+    {
+      "character": "Yip",
+      "id": 1897341,
+      "name": "Jiang Peiyao",
+      "profilePath": "/dPXXxRNpU8r1V0vpFpEmdIspkPU.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 5686,
+      "logoPath": "/o4aETXAP9HxOSRbGDWgBfkSzSJw.png",
+      "name": "Sil-Metropole Organisation"
+    },
+    {
+      "id": 90635,
+      "logoPath": null,
+      "name": "J.Q. Pictures"
+    },
+    {
+      "id": 5798,
+      "logoPath": "/tmuI9BGXgpWLmokhlxpnG3IGNQB.png",
+      "name": "Shaw Brothers"
+    },
+    {
+      "id": 273943,
+      "logoPath": null,
+      "name": "Sons Company Limited"
+    }
+  ],
+  "countries": [
+    {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "digitalDate": "2026-01-16",
+  "externalIds": {
+    "imdbId": "tt4968738",
+    "wikidataId": "Q55395307"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 107,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 478798,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "cn",
+      "name": "Cantonese"
+    }
+  ],
+  "originalTitle": "風林火山",
+  "overview": "A massive explosion and shootout in snowy Causeway Bay, Hong Kong, reveals a pharmaceutical heir's plot. His father's death in hospital triggers a drug war, destabilizing both legitimate and criminal worlds.",
+  "posterPath": "/fNaUvdCzyNeMZFQOnfCWvMoxEeG.jpg",
+  "rating": 5.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-01-16",
+      "gapDays": 107,
+      "theatricalDate": "2025-10-01"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-03-06"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "digital": "2026-01-16",
+      "theatrical": "2025-10-01"
+    },
+    "GB": {
+      "theatrical": "2026-03-06"
+    },
+    "US": {
+      "premiere": "2025-10-25"
+    }
+  },
+  "runtime": 125,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Bloodline can be deadly.",
+  "theatricalDate": "2025-10-01",
+  "title": "Sons of the Neon Night",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "a5ZL7JlHKqI",
+      "name": "Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 32,
+  "watchProviders": {}
+}

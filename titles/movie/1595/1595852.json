@@ -1,0 +1,229 @@
+{
+  "backdropPath": "/98uiDns59GUw26SQSCFmuSHTki3.jpg",
+  "cast": [
+    {
+      "character": "Hasley Weigel",
+      "id": 3578019,
+      "name": "Eve Ryan",
+      "profilePath": "/lqNMF1KmRt2R76GBblGH1mxum8P.jpg"
+    },
+    {
+      "character": "Luke Howland",
+      "id": 5867944,
+      "name": "Mikel Niso",
+      "profilePath": "/gGsujYx3O3BioYIsxeg8uUfSCQM.jpg"
+    },
+    {
+      "character": "Beatriz Weigel",
+      "id": 1972707,
+      "name": "Esther Acebo",
+      "profilePath": "/d7N6RWdMQmTI7wL44Ys4uvuSIoQ.jpg"
+    },
+    {
+      "character": "Sr. Howland",
+      "id": 28511,
+      "name": "Luis Zahera",
+      "profilePath": "/ozfRIrvu8i93RJAaeWbaCLKAlPq.jpg"
+    },
+    {
+      "character": "Matt",
+      "id": 4741421,
+      "name": "Biel Antón",
+      "profilePath": "/jFsY69REJq9ajDrCxbivb849ALN.jpg"
+    },
+    {
+      "character": "Neizan",
+      "id": 4295181,
+      "name": "Enzo Oliver",
+      "profilePath": "/lzx9tY6OCCZvLbLCO367BT45ZU.jpg"
+    },
+    {
+      "character": "Olivia",
+      "id": 5867951,
+      "name": "Ainara Helguera",
+      "profilePath": "/8zWSblWxH3dOxQS0OgwoOgxdvyw.jpg"
+    },
+    {
+      "character": "Carla",
+      "id": 4780210,
+      "name": "Najwa Khliwa",
+      "profilePath": "/zkJv3PElYkkHYAtx8PVTB30WgvO.jpg"
+    },
+    {
+      "character": "André",
+      "id": 3102083,
+      "name": "Christian Checa",
+      "profilePath": "/54DlIxxcUz9GbqBCsdhOWms7eah.jpg"
+    },
+    {
+      "character": "Jane Howland",
+      "id": 2640359,
+      "name": "Claudia Roset",
+      "profilePath": "/ldGzyNvduCSyCLgxkVtBi7UXtVs.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 134940,
+      "logoPath": "/87IcRBHCjAmjNUjCQNXVAGNjaaB.png",
+      "name": "Sony Pictures Entertainment Iberia"
+    },
+    {
+      "id": 179834,
+      "logoPath": "/8bGqk01Irw4Lv2pcyU6HrwZhHbD.png",
+      "name": "Espotlight"
+    },
+    {
+      "id": 286761,
+      "logoPath": null,
+      "name": "WEBTOON Productions"
+    },
+    {
+      "id": 303315,
+      "logoPath": null,
+      "name": "Maitemindua Zinema"
+    },
+    {
+      "id": 104632,
+      "logoPath": "/gxKYWKH1s5fYJogAorKdG1DZTvr.png",
+      "name": "Lightbox Animation Studios"
+    },
+    {
+      "id": 303316,
+      "logoPath": null,
+      "name": "Amets Kalea AIE"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38235625",
+    "wikidataId": "Q138767249"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1595852,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Boulevard",
+  "overview": "Hasley, a girl with a list of unfulfilled dreams, and Luke, a complex and vulnerable boy marked by a tragic past, find refuge on the boulevard where they discover if love can conquer all.",
+  "posterPath": "/hAKOp4AHaDiVdDMlobMNCNgJVD7.jpg",
+  "rating": 7.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-01"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatricalLimited": "2026-05-01"
+    }
+  },
+  "runtime": 113,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-05-01",
+  "title": "Boulevard",
+  "translations": {
+    "faTitle": "بلوار"
+  },
+  "type": "movie",
+  "videos": [],
+  "voteCount": 231,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 119,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1595852-boulevard/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1595852-boulevard/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1595852-boulevard/watch?locale=US",
+      "rent": []
+    }
+  }
+}

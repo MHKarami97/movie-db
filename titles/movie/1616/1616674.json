@@ -1,0 +1,209 @@
+{
+  "backdropPath": "/1QiFfqaAhZi4HMlJNMvJVXOovc6.jpg",
+  "cast": [
+    {
+      "character": "Jati",
+      "id": 2423997,
+      "name": "Bima Sena",
+      "profilePath": "/rILULtBu5BjJQOHYR5b5uTB5zWL.jpg"
+    },
+    {
+      "character": "Jaya",
+      "id": 1128893,
+      "name": "Ringgo Agus Rahman",
+      "profilePath": "/ang7P61qO4ZajzXXJVrCefM3dm2.jpg"
+    },
+    {
+      "character": "Asa",
+      "id": 2187126,
+      "name": "Widuri Puteri",
+      "profilePath": "/20Mp8s4gf4b2qVUyRFVU1NoZkjO.jpg"
+    },
+    {
+      "character": "Ambu Asih",
+      "id": 5243672,
+      "name": "Prastiwi Dwiarti",
+      "profilePath": "/i2qxyCfs1ZPH65BJsP6k5HkDMq2.jpg"
+    },
+    {
+      "character": "Mr. Juned / Mr. Zai",
+      "id": 1157418,
+      "name": "Aming",
+      "profilePath": "/jw7OQBuTAhgA2dc6udULxFivEqE.jpg"
+    },
+    {
+      "character": "Uwa Geni",
+      "id": 1521935,
+      "name": "Ronal Surapradja",
+      "profilePath": "/mFYnaS1cFPhBk1O8hCB5q0Ukj10.jpg"
+    },
+    {
+      "character": "Meranti",
+      "id": 6341131,
+      "name": "Ashila Husnia Fitriani",
+      "profilePath": null
+    },
+    {
+      "character": "Uwa Yayan",
+      "id": 1572278,
+      "name": "Candil",
+      "profilePath": "/vJag0LwqbrH9pXzsK6MAjomkD8k.jpg"
+    },
+    {
+      "character": "Echo",
+      "id": 2371450,
+      "name": "Yusuf Ozkan",
+      "profilePath": "/Ami8SIfb8gNGkuPMrZNpGQM3MN4.jpg"
+    },
+    {
+      "character": "Dali",
+      "id": 6341132,
+      "name": "Darin Fauzi",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 120502,
+      "logoPath": "/amEXVH85PjL1rXVwUarvPzzfEGp.png",
+      "name": "Wahana Kreator Nusantara"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ID",
+      "name": "Indonesia"
+    }
+  ],
+  "digitalDate": "2026-07-16",
+  "externalIds": {
+    "imdbId": "tt39370887",
+    "wikidataId": "Q140538610"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1616674,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "id",
+      "name": "Indonesian"
+    },
+    {
+      "code": "ja",
+      "name": "Japanese"
+    },
+    {
+      "code": "su",
+      "name": "Sundanese"
+    }
+  ],
+  "originalTitle": "Aku Sebelum Aku",
+  "overview": "A young student battling pressure, panic and a demanding father uses a class project to discover that truth — not trophies — might finally set him free.",
+  "posterPath": "/oFMbldhgyFsaMK3tiycccFyKksQ.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-16",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-07-16"
+    }
+  },
+  "runtime": 127,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Me Before Me",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "3niHaoJ_MzQ",
+      "name": "Aku Sebelum Aku | Teaser Resmi | Netflix",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 22,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1616674-aku-sebelum-aku/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1616674-aku-sebelum-aku/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1616674-aku-sebelum-aku/watch?locale=US",
+      "rent": []
+    }
+  }
+}

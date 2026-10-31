@@ -1,0 +1,117 @@
+{
+  "backdropPath": "/5E79JoQsMvf9NakSBXYSyd5uPal.jpg",
+  "cast": [
+    {
+      "character": "Bua",
+      "id": 6098851,
+      "name": "Ornpreeya Jory",
+      "profilePath": "/gP5fvHkERIiM77jGsn30e4QmEvu.jpg"
+    },
+    {
+      "character": "",
+      "id": 5415347,
+      "name": "Nakrit Chantasombat",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 1505663,
+      "name": "Chanintorn Jitpreeda",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6484435,
+      "name": "Sawanee Navinthananchai",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 261735,
+      "logoPath": "/6uBYJ57l9hwIBn7qdS2SCDHKond.png",
+      "name": "Shinesaeng Ad.Venture"
+    },
+    {
+      "id": 123880,
+      "logoPath": null,
+      "name": "Kongkiat Production"
+    },
+    {
+      "id": 85011,
+      "logoPath": null,
+      "name": "North Star Production"
+    }
+  ],
+  "countries": [
+    {
+      "code": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt48803572"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1549684,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "th",
+      "name": "Thai"
+    }
+  ],
+  "originalTitle": "บัว",
+  "overview": "In 1973, Bua, a 17-year-old mixed-race girl who grew up amid a small charcoal kiln in Samut Sakhon, dreams of travelling to Bangkok to search for her missing singer mother.",
+  "posterPath": "/dkOZIgdDlrnvPSnBjRF7ajg9h3t.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 129,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Even without the light, the flower still blooms.",
+  "theatricalDate": null,
+  "title": "Bua",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "q2aqYflU5VQ",
+      "name": "BIFF2026 Trailer | 부아 Bua | 비전 - 아시아",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

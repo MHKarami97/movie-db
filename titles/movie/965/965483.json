@@ -1,0 +1,171 @@
+{
+  "backdropPath": "/yMgpIzfqHZXbEN8ar9EAHJvdYJj.jpg",
+  "cast": [
+    {
+      "character": "Chezhiyan",
+      "id": 587982,
+      "name": "Sivakarthikeyan",
+      "profilePath": "/jgy9y3V8QqZmu5r8sMxrGCzXuyp.jpg"
+    },
+    {
+      "character": "Thirunaadan 'Thiru'",
+      "id": 237966,
+      "name": "Ravi Mohan",
+      "profilePath": "/wKZNz2kOYPYbSrVDIdHZHtQqHs1.jpg"
+    },
+    {
+      "character": "Rathnamala",
+      "id": 2476557,
+      "name": "Sreeleela",
+      "profilePath": "/fHrQFHy9GPII2rGsImbpBg83N3p.jpg"
+    },
+    {
+      "character": "Chinnadurai",
+      "id": 1059098,
+      "name": "Atharvaa Murali",
+      "profilePath": "/fRo2OQFMxGNl1gqPJHnwFSi8XT5.jpg"
+    },
+    {
+      "character": "C. N. Annadurai",
+      "id": 1321712,
+      "name": "Chetan",
+      "profilePath": "/jE66LoKC6ctmSLitdtIQUOrpTkI.jpg"
+    },
+    {
+      "character": "Chezhiyan and Chinnadurai's grandmother",
+      "id": 1439328,
+      "name": "Kulappulli Leela",
+      "profilePath": "/gLDNxSJVMZa8TuTqpE85SVYr8Zw.jpg"
+    },
+    {
+      "character": "Chief Minister of Madras State",
+      "id": 1543146,
+      "name": "Prakash Belawadi",
+      "profilePath": "/bECb7W5XUSFVOgN0z9Ob1ludIha.jpg"
+    },
+    {
+      "character": "Ibrahim Kamal IPS",
+      "id": 2876385,
+      "name": "Dev Ramnath",
+      "profilePath": "/wiNiHeqDCheFDX6iSk6bmjoIrA9.jpg"
+    },
+    {
+      "character": "M. Karunanidhi",
+      "id": 1266840,
+      "name": "Guru Somasundaram",
+      "profilePath": "/eqjEcc6LnZI5teGwOrrArAr5vko.jpg"
+    },
+    {
+      "character": "Thambi",
+      "id": 1306567,
+      "name": "Kaali Venkat",
+      "profilePath": "/5TPRkYe5sQ2vx8UG4K2U4vm2UIm.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 239277,
+      "logoPath": "/dAeMSR2v8ydq78smbSI5gdKWoks.png",
+      "name": "Dawn Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35019998",
+    "wikidataId": "Q131445677"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 965483,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ta",
+      "name": "Tamil"
+    }
+  ],
+  "originalTitle": "பராசக்தி",
+  "overview": "In a time of civil disobedience in the erstwhile Madras state, a ruthless intelligent officer turns up with a duty to track down rebels. Chezhian and his brother Chinndurai are of different personalities, one a hardworking fireman, the other a rebel. A deadly game of cat and mouse ensues as Chezhian is forced to abandon his peaceful ways to protect his people and takes on the mighty forces, culminating in a fierce battle for justice.",
+  "posterPath": "/cpKJGYU8Z1iSXzkgDl8vhazk5EQ.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-01-14"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-01-09"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-01-14"
+    },
+    "US": {
+      "theatrical": "2026-01-09"
+    }
+  },
+  "runtime": 163,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-01-09",
+  "title": "Parasakthi",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 15,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 232,
+          "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+          "name": "Zee5"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/965483/watch?locale=AE",
+      "rent": []
+    }
+  }
+}

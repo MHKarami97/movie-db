@@ -1,0 +1,341 @@
+{
+  "backdropPath": "/vbkW4KerpshPZnP84w9qwSfYrhu.jpg",
+  "cast": [
+    {
+      "character": "Ava",
+      "id": 1315036,
+      "name": "Daisy Ridley",
+      "profilePath": "/A8QZBHZjlbWDiUXBvCTk4Zv5oBs.jpg"
+    },
+    {
+      "character": "Clay",
+      "id": 1017347,
+      "name": "Brenton Thwaites",
+      "profilePath": "/4jrtVjdIGJpmgevEPRuIIU9HWcO.jpg"
+    },
+    {
+      "character": "Riley",
+      "id": 1323881,
+      "name": "Mark Coles Smith",
+      "profilePath": "/mFGf5GruME5dnAuKBG1kgzK8PJs.jpg"
+    },
+    {
+      "character": "Mitch",
+      "id": 1046893,
+      "name": "Matt Whelan",
+      "profilePath": "/qTIe7SblKwxR9DF6iNuVX0pEWIZ.jpg"
+    },
+    {
+      "character": "Katie Harris",
+      "id": 1445943,
+      "name": "Chloe Hurst",
+      "profilePath": "/h42VtoxnH6onzfcyKSzRXg1gImB.jpg"
+    },
+    {
+      "character": "Lt. Wilkie",
+      "id": 999445,
+      "name": "Kym Jackson",
+      "profilePath": "/jQQ1H7CBsA0ItW1m9i1iqvXGHlP.jpg"
+    },
+    {
+      "character": "Mrs. Smith",
+      "id": 3228904,
+      "name": "Holly Hargreaves",
+      "profilePath": "/2Xp20wUiKN7NrlXJDX9z6spjTOO.jpg"
+    },
+    {
+      "character": "Bianca",
+      "id": 3853673,
+      "name": "Deanna Cooney",
+      "profilePath": "/b99BCpNIqBWuQyEpESux64WpsU5.jpg"
+    },
+    {
+      "character": "Greg",
+      "id": 4214295,
+      "name": "Elijah Williams",
+      "profilePath": "/AfwhNMgTBWHQtKRtyagQjXPWvRE.jpg"
+    },
+    {
+      "character": "Private Clarkson",
+      "id": 1861547,
+      "name": "Salme Geransar",
+      "profilePath": "/3loeccvdcMcHYXoHtilHq0jtGlT.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 55570,
+      "logoPath": "/mKD4k9RHPkauvQIQsyGb6tzNAWg.png",
+      "name": "Campfire Studios"
+    },
+    {
+      "id": 215935,
+      "logoPath": "/pYh0UKZbx8WGKLDZuBkq7WwvGSH.png",
+      "name": "Gramercy Park Media"
+    },
+    {
+      "id": 29051,
+      "logoPath": "/A1XlmlkNkrMe4AAeFpSHCjW68BJ.png",
+      "name": "Lotterywest"
+    },
+    {
+      "id": 7888,
+      "logoPath": "/6HhOnizpDOvKjprTl47tPqvHLvZ.png",
+      "name": "ScreenWest"
+    },
+    {
+      "id": 7584,
+      "logoPath": "/eGkfvvyf4fJTvBUR1xt1669IPA3.png",
+      "name": "Screen Australia"
+    },
+    {
+      "id": 101131,
+      "logoPath": null,
+      "name": "The Penguin Empire"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-02-03",
+  "externalIds": {
+    "imdbId": "tt29713093",
+    "wikidataId": "Q124615876"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1198984,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "We Bury the Dead",
+  "overview": "آوا، زنی ناامید که پس از یک آزمایش نظامی فاجعه‌بار شوهرش ناپدید شده است، به یک واحد بازیابی اجساد می‌پیوندد. اما هنگامی که اجساد دفن شده توسط او شروع به نشان دادن علائم حیاتی می‌کنند، جستجوی او به شکل ترسناکی تغییر می‌کند...",
+  "posterPath": "/xZqo0yPARmyF8TACVNyaOACkYWG.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-06-11"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-02-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-03",
+      "gapDays": 32,
+      "theatricalDate": "2026-01-02"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-06-11"
+    },
+    "GB": {
+      "digital": "2026-02-02",
+      "physical": "2026-02-16"
+    },
+    "US": {
+      "digital": "2026-02-03",
+      "premiere": "2025-03-09",
+      "theatricalLimited": "2026-01-02"
+    }
+  },
+  "runtime": 95,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Volunteers needed.",
+  "theatricalDate": "2026-01-02",
+  "title": "We Bury the Dead",
+  "translations": {
+    "faOverview": "آوا، زنی ناامید که پس از یک آزمایش نظامی فاجعه‌بار شوهرش ناپدید شده است، به یک واحد بازیابی اجساد می‌پیوندد. اما هنگامی که اجساد دفن شده توسط او شروع به نشان دادن علائم حیاتی می‌کنند، جستجوی او به شکل ترسناکی تغییر می‌کند...",
+    "faTitle": "مرده ها را دفن میکنیم"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "ChuGo5wIgOw",
+      "name": "Opening Scene",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "c-PL4YHOoJc",
+      "name": "Behind the Scenes",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "8BaCaWqVGGw",
+      "name": "Teeth Grind",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "YmPyNvrzF0A",
+      "name": "We Bury the Dead | 2025 | @SignatureUK Trailer | Daisy Ridley Zombie Horror Thriller",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "iE-W-wEJJqw",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "FvuU_iWoTCw",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 428,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        },
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1198984-we-bury-the-dead/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1198984-we-bury-the-dead/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

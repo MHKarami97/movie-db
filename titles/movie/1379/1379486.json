@@ -1,0 +1,187 @@
+{
+  "backdropPath": "/92FSzMpBSkMH59ZCDz9tUjIWKAS.jpg",
+  "cast": [
+    {
+      "character": "Winifred Notty",
+      "id": 1094091,
+      "name": "Maika Monroe",
+      "profilePath": "/x4yiKkMnCdf8g4eOrDoqla9FYEA.jpg"
+    },
+    {
+      "character": "Miss Lamb",
+      "id": 1356758,
+      "name": "Thomasin McKenzie",
+      "profilePath": "/WOpnEFG5Q8LWxP81MtUrskmVox.jpg"
+    },
+    {
+      "character": "Mrs. Pounds",
+      "id": 47720,
+      "name": "Ruth Wilson",
+      "profilePath": "/fdFVatb9pt5dfT9tDK8tikKWafS.jpg"
+    },
+    {
+      "character": "Mr. Pounds",
+      "id": 11355,
+      "name": "Jason Isaacs",
+      "profilePath": "/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+    },
+    {
+      "character": "Drusilla Pounds",
+      "id": 3131371,
+      "name": "Evie Templeton",
+      "profilePath": "/1JV3FEULVnROl4APfkUprqTrFF6.jpg"
+    },
+    {
+      "character": "Andrew Pounds",
+      "id": 3115247,
+      "name": "Jacobi Jupe",
+      "profilePath": "/wVpax8MOwdelnQILiDNoDkTzebU.jpg"
+    },
+    {
+      "character": "Mrs. Fancey",
+      "id": 1188325,
+      "name": "Amy De Bhrún",
+      "profilePath": "/cN5ep9TcNHmJcK6uO0wMUtvgIOx.jpg"
+    },
+    {
+      "character": "Marigold",
+      "id": 3172071,
+      "name": "Katherine Moran",
+      "profilePath": null
+    },
+    {
+      "character": "Mrs. Prim",
+      "id": 232942,
+      "name": "Dagmar Döring",
+      "profilePath": "/rqr5R0q0Gfh5pXoDW2wZFb4Sqpl.jpg"
+    },
+    {
+      "character": "Amelia",
+      "id": 5012430,
+      "name": "Kate Brady",
+      "profilePath": "/kIXzWZKdrzqrD0p1cUjs0OZTQg2.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 138743,
+      "logoPath": "/abFJGmtPFs6Bq5cBavmrnXDcpf8.png",
+      "name": "Anton"
+    },
+    {
+      "id": 232289,
+      "logoPath": "/bV35YIaGQvRtjsD2r8KdlvYDKrp.png",
+      "name": "Traffic."
+    },
+    {
+      "id": 10039,
+      "logoPath": "/b8w4LldQolMKiLZw4FQJBcXSDGI.png",
+      "name": "Anonymous Content"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34374553",
+    "instagramId": "victorianpsychoofficial",
+    "twitterId": "VicPsychoMovie",
+    "wikidataId": "Q130751977"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1379486,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Victorian Psycho",
+  "overview": "When eccentric young governess Winifred Notty arrives at a remote Gothic manor, a string of unsettling events leads the household to suspect she isn't who she claims to be—but the truth may be far more dangerous than they imagine.",
+  "posterPath": "/9LHVZevgdsdbjJdkFr6bk9EwX7q.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-12"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-13"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-11-12"
+    },
+    "GB": {
+      "premiere": "2026-10-11"
+    },
+    "US": {
+      "premiere": "2026-09-18",
+      "theatrical": "2026-11-13"
+    }
+  },
+  "runtime": 102,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "You shan't forget her.",
+  "theatricalDate": "2026-11-13",
+  "title": "Victorian Psycho",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "sDiFol_2j2I",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "eLtzPZvvJRs",
+      "name": "Teaser 4K",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "nIRsEH9OAUk",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

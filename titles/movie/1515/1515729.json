@@ -1,0 +1,208 @@
+{
+  "backdropPath": "/xsoKAonKy1zk5XoQoUG1dUXDCKH.jpg",
+  "cast": [
+    {
+      "character": "Rajaraman",
+      "id": 544977,
+      "name": "Arjun Sarja",
+      "profilePath": "/fQ0yTvyDdykFxfHNYKNfRKzlCyz.jpg"
+    },
+    {
+      "character": "Neelaveni",
+      "id": 584496,
+      "name": "Abhirami",
+      "profilePath": "/fLeOMTryyBPFrz5Wdxv3zBtx3V9.jpg"
+    },
+    {
+      "character": "Nila",
+      "id": 4550863,
+      "name": "Preity Mukhundhan",
+      "profilePath": "/m3qGm6zD2MIye4PB0OaeaS6wc9v.jpg"
+    },
+    {
+      "character": "Ilango",
+      "id": 1834071,
+      "name": "Vivek Prasanna",
+      "profilePath": "/2Gzfur5QCXWmopdWcLlmNuZcFDt.jpg"
+    },
+    {
+      "character": "Varun Dhayalan",
+      "id": 2735982,
+      "name": "John Kokken",
+      "profilePath": "/3dIc5cYnlzLYjaZYTOkrTIAg2D1.jpg"
+    },
+    {
+      "character": "Abraham",
+      "id": 1321729,
+      "name": "Arjun Chidambaram",
+      "profilePath": "/yay74IONzoiC50I2Od5L5a0bcbm.jpg"
+    },
+    {
+      "character": "Kirupakaran",
+      "id": 1065795,
+      "name": "Pawan",
+      "profilePath": "/a0DxXtiewiWFnLw5FbJNXwtbAtj.jpg"
+    },
+    {
+      "character": "Arunagiri",
+      "id": 1127375,
+      "name": "Dhileban",
+      "profilePath": "/fTpaXP17R845EYZqVU41hd9EXea.jpg"
+    },
+    {
+      "character": "Toby",
+      "id": 2131567,
+      "name": "Vinod Sagar",
+      "profilePath": "/1TPybIW2ncqrA9G4q03R3MhUP0B.jpg"
+    },
+    {
+      "character": "Siva",
+      "id": 3078826,
+      "name": "Bala Hasan",
+      "profilePath": "/2XnmAawJ8sf8xuTVpT9urM4KDZ4.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 5907,
+      "logoPath": "/u2MPw19ZZ4mIzacy6SXOLgU1la0.png",
+      "name": "AGS Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37971394",
+    "wikidataId": "Q139962234"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1515729,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ta",
+      "name": "Tamil"
+    }
+  ],
+  "originalTitle": "Blast",
+  "overview": "A seemingly ordinary family must unleash their hidden martial arts skills when they clash with a ruthless criminal gang tied to corruption and violence.",
+  "posterPath": "/mZZBUaAXSeEeO3RovqJssBQyxfK.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-28"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-29"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-05-28"
+    },
+    "GB": {
+      "theatrical": "2026-05-29"
+    }
+  },
+  "runtime": 143,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Blood bound. Battle ready.",
+  "theatricalDate": "2026-05-29",
+  "title": "Blast",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "aM5OLvxFBO4",
+      "name": "Official Trailer [ENG SUB]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 79,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1515729-blast/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1515729-blast/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1515729-blast/watch?locale=US",
+      "rent": []
+    }
+  }
+}

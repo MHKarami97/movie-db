@@ -1,0 +1,149 @@
+{
+  "backdropPath": "/6dDCdPSp7ULB1zYimKDE9D48795.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 970623,
+      "name": "Adrián Uribe",
+      "profilePath": "/iqJaO3CpdxWTK6qv32UcpvFrqd6.jpg"
+    },
+    {
+      "character": "",
+      "id": 2043101,
+      "name": "María León",
+      "profilePath": "/sAs0NLqpE6smhtYmZFgmqhrIoz.jpg"
+    },
+    {
+      "character": "",
+      "id": 967838,
+      "name": "Mauricio Isaac",
+      "profilePath": "/uFNrLnDv5eo20SwBeN8tFdsEKls.jpg"
+    },
+    {
+      "character": "",
+      "id": 3908646,
+      "name": "Yuriria del Valle",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 1608097,
+      "name": "Miguel Burra",
+      "profilePath": "/1GWR5XbarM6T7OqyMSpVV4lbVTu.jpg"
+    },
+    {
+      "character": "",
+      "id": 62282,
+      "name": "Mónica Huarte",
+      "profilePath": "/5LTG3Or1RwSKjVRtTN4MpvqxDix.jpg"
+    },
+    {
+      "character": "Armando",
+      "id": 1521053,
+      "name": "Hernán del Riego",
+      "profilePath": "/xbcqxkKPMceRipcNl2L0GbK1wOM.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 63520,
+      "logoPath": "/ytQNtv7i4wtkuLyguqRLC0FX8GL.png",
+      "name": "Sony Pictures International Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt40188247"
+  },
+  "fetchedAt": 1794802719625,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1743695,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "El Club del Pie Izquierdo",
+  "overview": "A forty-year-old office worker of Mexico City, realizes that he has been trapped in a car and a desk for years. He finds a dance academy, enrolls in reggaeton classes with strict teacher Paulina, and finds renewal. Remake of the Japanese film 'Shall We Dance?'",
+  "posterPath": "/v6b6cclN83KM8AM6NLSphumlstO.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Deja que la vida te lleve al baile",
+  "theatricalDate": null,
+  "title": "El Club del Pie Izquierdo",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "aun-sucm0rw",
+      "name": "El Club del Pie Izquierdo l Tráiler Oficial",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1743695-el-club-del-pie-izquierdo/watch?locale=US",
+      "rent": []
+    }
+  }
+}

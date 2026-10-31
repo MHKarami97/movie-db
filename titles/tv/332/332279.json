@@ -1,0 +1,163 @@
+{
+  "backdropPath": "/l8wGGgqd4Lqh2f4KdM5uO8r0hoq.jpg",
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2026-08-19",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-08-19",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-08-19",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-08-19",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-08-19",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-21",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt43323806"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 332279,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": {
+    "airDate": "2026-08-19",
+    "episodeNumber": 4,
+    "id": 7703334,
+    "name": "Episode 4",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-21",
+    "episodeNumber": 5,
+    "id": 7703337,
+    "name": "Episode 5",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Ninel Conde sin filtro",
+  "overview": "",
+  "posterPath": "/5QGrD3R556wocaRfIiJfXGLXPHo.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-08-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-08-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-08-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-08-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-08-19"
+    },
+    "CN": {
+      "tv": "2026-08-19"
+    },
+    "GB": {
+      "tv": "2026-08-19"
+    },
+    "US": {
+      "tv": "2026-08-19"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-08-19",
+      "episodeCount": 5,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/5QGrD3R556wocaRfIiJfXGLXPHo.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Ninel Conde sin filtro",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 457,
+          "logoPath": "/ieJ55scAVrvboTpeJcZa3JlLIrS.png",
+          "name": "VIX "
+        }
+      ],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 457,
+          "logoPath": "/ieJ55scAVrvboTpeJcZa3JlLIrS.png",
+          "name": "VIX "
+        },
+        {
+          "id": 1866,
+          "logoPath": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+          "name": "ViX Premium Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/332279-ninel-conde-sin-filtro/watch?locale=US",
+      "rent": []
+    }
+  }
+}

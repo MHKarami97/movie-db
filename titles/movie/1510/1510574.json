@@ -1,0 +1,132 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Enzo",
+      "id": 1660839,
+      "name": "Anthony Bajon",
+      "profilePath": "/eHpGmQtj4oRHQ3jn9tngWdb6Z9T.jpg"
+    },
+    {
+      "character": "Pierrot",
+      "id": 2496679,
+      "name": "Édouard Sulpice",
+      "profilePath": "/4hprH6ffD2ehg5TNIKkxUggJQ0w.jpg"
+    },
+    {
+      "character": "Chavatte",
+      "id": 1636467,
+      "name": "David Ayala",
+      "profilePath": "/g1FlhpnXANAvr80osb0rpazI5V6.jpg"
+    },
+    {
+      "character": "Caro",
+      "id": 2541776,
+      "name": "Ana Blagojević",
+      "profilePath": "/cGAAMWxbnZGUWnCCcrWb7UoigoS.jpg"
+    },
+    {
+      "character": "Leslie",
+      "id": 1386244,
+      "name": "Sophie-Marie Larrouy",
+      "profilePath": "/lJBP6T5w0J1pZA0e81bZ8gpX3Un.jpg"
+    },
+    {
+      "character": "Borghese",
+      "id": 54675,
+      "name": "Zabou Breitman",
+      "profilePath": "/5BYrIiIiq6kDl6tt0oHufJXLFcU.jpg"
+    },
+    {
+      "character": "Cynthia",
+      "id": 3159410,
+      "name": "Gaëlle Battut",
+      "profilePath": "/4my3qsQX5ZY9MbmxPOCX24IHKWF.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 92671,
+      "logoPath": "/meeAIZkBXXY41X2MqWPpBJbVu8v.png",
+      "name": "Deuxième Ligne Films"
+    },
+    {
+      "id": 75891,
+      "logoPath": "/7xISxdpoePsyJ0pYk32IkwtOE4L.png",
+      "name": "Petit Film"
+    },
+    {
+      "id": 53509,
+      "logoPath": "/xmJMAss7BDsQPvODjYkDQKiNhUX.png",
+      "name": "Wrong Men"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39366460"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1510574,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Les princes",
+  "overview": "",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 88,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Les princes",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

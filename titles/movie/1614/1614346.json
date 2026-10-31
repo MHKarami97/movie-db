@@ -1,0 +1,79 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 99721,
+      "logoPath": null,
+      "name": "Rousseau Film Production"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt43630342"
+  },
+  "fetchedAt": 1794109896160,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1614346,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "xx",
+      "name": "No Language"
+    }
+  ],
+  "originalTitle": "Dernier Arrêt pour le Billet Circulaire",
+  "overview": "Around Lake Como, a voyage interrupted by a series of brief, successive stops, as fleeting as musical phrases. Someone enters and leaves a telephone booth. Water and the lines that contain it.",
+  "posterPath": "/dqups4Jywf4SrnJXciubYal678v.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-06"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2026-11-06"
+    }
+  },
+  "runtime": 87,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-11-06",
+  "title": "Last Stop for the Circular Ticket",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

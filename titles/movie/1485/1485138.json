@@ -1,0 +1,90 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 212142,
+      "logoPath": null,
+      "name": "Double Threat"
+    },
+    {
+      "id": 187291,
+      "logoPath": null,
+      "name": "Ghost"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2027-01-29",
+  "externalIds": {
+    "facebookId": "insidethathousemovie",
+    "imdbId": "tt37075972",
+    "instagramId": "insidethathousemovie"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1485138,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Inside That House",
+  "overview": "After a number of strange disappearances have been reported in the area, Andrew and Jason, two brothers who received a drone for graduation, decide to film around their town to learn more about them, but then become distracted by a new girl in school who lives nearby. The two boys devise a plan to sneak their drone through an open window of her home, only to discover a terrible, dark secret.",
+  "posterPath": "/wGN0bq0yJoKSex6WJiUzMOKRkeF.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-29",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2027-01-29"
+    }
+  },
+  "runtime": 82,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Inside That House",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

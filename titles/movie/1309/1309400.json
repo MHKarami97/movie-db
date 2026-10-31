@@ -1,0 +1,178 @@
+{
+  "backdropPath": "/jfffiMPu7xzFbsds9PIUARw7LiQ.jpg",
+  "cast": [
+    {
+      "character": "Marcel",
+      "id": 1562548,
+      "name": "Artus",
+      "profilePath": "/78eYMroV3AyRJDqijnp0FSLPCgZ.jpg"
+    },
+    {
+      "character": "Père Proslier",
+      "id": 21171,
+      "name": "Gérard Jugnot",
+      "profilePath": "/8fvIsaf0a5e60IvtNddKCcOZXFO.jpg"
+    },
+    {
+      "character": "Le maire",
+      "id": 1071606,
+      "name": "Pierre Deladonchamps",
+      "profilePath": "/egIMzrrjVXVTMVsp7nrIXIfP7TD.jpg"
+    },
+    {
+      "character": "Germain",
+      "id": 1291810,
+      "name": "Julien Arruti",
+      "profilePath": "/8mW9D3GiTU6KNnNYUM1t7NhKPRY.jpg"
+    },
+    {
+      "character": "Luc",
+      "id": 3275237,
+      "name": "Oscar Boissière",
+      "profilePath": "/fKpfAGw8rIt446VwNWSLt6DPU2d.jpg"
+    },
+    {
+      "character": "Marceline",
+      "id": 1557715,
+      "name": "Leslie Medina",
+      "profilePath": "/ifvTzHDZAh6lVNNKxGTRBOKw2dV.jpg"
+    },
+    {
+      "character": "Marnier",
+      "id": 1603424,
+      "name": "Julien Pestel",
+      "profilePath": "/bi88jlmxqWB3TRg9f89vG1wIPYH.jpg"
+    },
+    {
+      "character": "Julienne",
+      "id": 932117,
+      "name": "Vanessa Guide",
+      "profilePath": "/s6gnkkXgRgGMGWCPOGjoIpO2kXc.jpg"
+    },
+    {
+      "character": "François",
+      "id": 5113277,
+      "name": "Lucas Hector",
+      "profilePath": null
+    },
+    {
+      "character": "Lisa",
+      "id": 5113278,
+      "name": "Nina Filbrandt",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 1713,
+      "logoPath": null,
+      "name": "Adel Productions"
+    },
+    {
+      "id": 694,
+      "logoPath": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal"
+    },
+    {
+      "id": 356,
+      "logoPath": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production"
+    },
+    {
+      "id": 13319,
+      "logoPath": "/eEaB6ztT13s4vhM9iqsMOn7VU7Z.png",
+      "name": "Axel Films"
+    },
+    {
+      "id": 106374,
+      "logoPath": null,
+      "name": "Fontana"
+    },
+    {
+      "id": 11997,
+      "logoPath": "/jh15xr7Y10ZrgY1BwE3LGwcseu7.png",
+      "name": "BNP Paribas Fortis"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36508034",
+    "wikidataId": "Q109043201"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1309400,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Les Enfants de la Résistance",
+  "overview": "During the German occupation of World War II, François, Eusèbe, and Lisa, three courageous children, embark on a secret adventure: resisting the Nazis in the heart of France. Through sabotage, hidden messages, and perilous escapes, they carry out clandestine actions right under the enemy's nose. Daring and friendship are their only weapons in the fight against injustice.",
+  "posterPath": "/imsxGd3NaNzdOSZuRCUxDSOU9zU.jpg",
+  "rating": 6.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Children of the Resistance",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 80,
+  "watchProviders": {}
+}

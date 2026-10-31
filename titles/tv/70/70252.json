@@ -1,0 +1,234 @@
+{
+  "backdropPath": "/wUvNydHNjhNKdcB6bbeWqlx3oqq.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1276772,
+      "name": "Klaas Heufer-Umlauf",
+      "profilePath": "/tFKehZwY3BAlO4MreU0hW5ZBiQE.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1394483,
+      "name": "Joko Winterscheidt",
+      "profilePath": "/1Hrc9kHyT1zDBUptuSDU0vsEkO1.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 16814,
+      "name": "Oliver Kalkofe",
+      "profilePath": "/yBnZQwKbZHATG6nev7qOtv4xncd.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 7227,
+      "logoPath": null,
+      "name": "ProSieben Television"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "2016-02-01",
+  "episodes": {
+    "5": [
+      {
+        "airDate": "2026-09-30",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": "/asvkZ3pflsS3cZeFywZxOymlgM7.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-07",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": "/uaNSZBwQYSJBfEDQmGna87PCCU1.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-14",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": "/xMWuOuWgiUvNDWAbOp2L6hYxIGY.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-18",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-25",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-02",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-09",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-16",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt6221654",
+    "wikidataId": "Q131607558"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 70252,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-14",
+    "episodeNumber": 3,
+    "id": 7896565,
+    "name": "Episode 3",
+    "overview": "",
+    "seasonNumber": 5
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-18",
+    "episodeNumber": 4,
+    "id": 7898995,
+    "name": "Episode 4",
+    "overview": "",
+    "seasonNumber": 5
+  },
+  "originalTitle": "Das Duell um die Geld",
+  "overview": "A  game show where stars compete at Texas Hold 'em to win a cash prize of 6000 Euros. They don't use playing cards, but they guess a question's answer, then bet according to the hints given per round.",
+  "posterPath": "/gCNP3xeq06f88UmnVBm0kPaaHfW.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2016-02-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2016-02-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2016-02-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2016-02-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2016-02-01"
+    },
+    "CN": {
+      "tv": "2016-02-01"
+    },
+    "GB": {
+      "tv": "2016-02-01"
+    },
+    "US": {
+      "tv": "2016-02-01"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2016-02-01",
+      "episodeCount": 6,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/pj7D5vadwFqjRy8wSpL0Y5zdcHO.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2017-03-28",
+      "episodeCount": 3,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/pj7D5vadwFqjRy8wSpL0Y5zdcHO.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2024-11-25",
+      "episodeCount": 8,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/pj7D5vadwFqjRy8wSpL0Y5zdcHO.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2025-10-29",
+      "episodeCount": 8,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/pj7D5vadwFqjRy8wSpL0Y5zdcHO.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2026-09-30",
+      "episodeCount": 8,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Das Duell um die Geld",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 1,
+  "watchProviders": {}
+}

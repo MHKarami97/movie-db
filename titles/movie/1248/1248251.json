@@ -1,0 +1,197 @@
+{
+  "backdropPath": "/wQwbainQ5CtPWbnwXX144rMIS4E.jpg",
+  "cast": [
+    {
+      "character": "Vineeth Madhavan",
+      "id": 3037048,
+      "name": "Naslen",
+      "profilePath": "/8cAVtELGh2ZL5DhyijYBiAQF2Zt.jpg"
+    },
+    {
+      "character": "Sujith Raj (Suji)",
+      "id": 4027672,
+      "name": "Roshan Shanavas",
+      "profilePath": "/lotiqK0sfK4rZKV6tHvHrg9Cty3.jpg"
+    },
+    {
+      "character": "Sunil Ettan",
+      "id": 1855736,
+      "name": "Althaf Salim",
+      "profilePath": "/wYFAsF8f4Ak26c4t5J1IfBBxP0W.jpg"
+    },
+    {
+      "character": "Arjun Haridas",
+      "id": 3389588,
+      "name": "Sangeeth Prathap",
+      "profilePath": "/2f7mTmZ1RttbacuADm6vv7xpTAi.jpg"
+    },
+    {
+      "character": "Sachin Vaikom David",
+      "id": 1473469,
+      "name": "Sharafudheen",
+      "profilePath": "/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+    },
+    {
+      "character": "Madhavan",
+      "id": 1864453,
+      "name": "Prasanth Alexander",
+      "profilePath": "/5QTEvNPnSxAb7WHDsIOr0hxDNDP.jpg"
+    },
+    {
+      "character": "Hana Shajahan",
+      "id": 2968328,
+      "name": "Gopika Ramesh",
+      "profilePath": "/neFrocaEugbnJCI0BPIXWY0R6bX.jpg"
+    },
+    {
+      "character": "Young Sachin Vaikkom David",
+      "id": 5519183,
+      "name": "Sreerang Shine",
+      "profilePath": null
+    },
+    {
+      "character": "Anand Sudhakaran",
+      "id": 3041802,
+      "name": "Rajesh Madhavan",
+      "profilePath": "/nHeWOa2pDeEhoo4Z730iMuTSeCl.jpg"
+    },
+    {
+      "character": "Short Film Coordinator",
+      "id": 5371629,
+      "name": "Anna Prasad",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 93129,
+      "logoPath": "/viOe7LjhByej4jThVYcwp9SVNfM.png",
+      "name": "Ashiq Usman Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt29959401",
+    "wikidataId": "Q139962231"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1248251,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ml",
+      "name": "Malayalam"
+    }
+  ],
+  "originalTitle": "മോളിവുഡ് ടൈംസ്",
+  "overview": "Vineeth Madhavan tries hard to become Malayalam cinema's greatest horror filmmaker, but will the toxic industry affect his dream?",
+  "posterPath": "/3mCNh37wCPv590Wl4NQYdPl7fjb.jpg",
+  "rating": 6.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-06-05"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-06-05"
+    }
+  },
+  "runtime": 167,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-06-05",
+  "title": "Mollywood Times",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "wO_LlRytRTk",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 19,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 630,
+          "logoPath": "/vnpp3n6DAIh2sKXfMbehKZAWJMC.png",
+          "name": "STARZPLAY"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1248251/watch?locale=AE",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1248251/watch?locale=US",
+      "rent": [
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ]
+    }
+  }
+}

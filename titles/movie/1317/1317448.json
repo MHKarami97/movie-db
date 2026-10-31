@@ -1,0 +1,205 @@
+{
+  "backdropPath": "/bWvGtxd3a6wW7ocQPlYza3ycpxk.jpg",
+  "cast": [
+    {
+      "character": "Elisa",
+      "id": 1376137,
+      "name": "Matilde Gioli",
+      "profilePath": "/9a6EoA8h6VPEe3WXcHkASk0k0Y.jpg"
+    },
+    {
+      "character": "Michele",
+      "id": 1634155,
+      "name": "Cristiano Caccamo",
+      "profilePath": "/55BXUJZgHxzuDFkNPLNF2A6kxq.jpg"
+    },
+    {
+      "character": "Giada",
+      "id": 2595107,
+      "name": "Amanda Campana",
+      "profilePath": "/kV6rzf6GiX3vHQPy31LcIBnwRAo.jpg"
+    },
+    {
+      "character": "Carlo",
+      "id": 2762412,
+      "name": "Sebastiano Pigazzi",
+      "profilePath": "/2n78WxpVaCoafUnV6Pfjwdlq8ty.jpg"
+    },
+    {
+      "character": "Mariana",
+      "id": 27322,
+      "name": "Cecilia Dazzi",
+      "profilePath": "/xV1i41zAvvqw186Oxue5l3VOtPC.jpg"
+    },
+    {
+      "character": "Linda",
+      "id": 2894824,
+      "name": "Margherita Rebeggiani",
+      "profilePath": "/e7FxSFhbKclB38YYvHaDJubkCIH.jpg"
+    },
+    {
+      "character": "Ettore",
+      "id": 72050,
+      "name": "Marco Cocci",
+      "profilePath": "/36Bv3N0KDEwnKExJRAfEzMXxJHX.jpg"
+    },
+    {
+      "character": "Dottor Galli",
+      "id": 127016,
+      "name": "Bebo Storti",
+      "profilePath": "/3lEO3BLh7a2sKjXxy8KlRyPUKQ1.jpg"
+    },
+    {
+      "character": "Constantine",
+      "id": 1093379,
+      "name": "Daniel McVicar",
+      "profilePath": "/iKRt7y2NL8yo1mKSUklnPb16v2i.jpg"
+    },
+    {
+      "character": "Duccio",
+      "id": 585362,
+      "name": "Francesco Turbanti",
+      "profilePath": "/xGkFVYmyHvwxwpotIOSRFI9mTn1.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1429,
+      "logoPath": "/n1GvY0KLgk3gcEPO07L7nXncB3i.png",
+      "name": "Italian International Film"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": "2026-05-08",
+  "externalIds": {
+    "imdbId": "tt34906817",
+    "wikidataId": "Q139601549"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1317448,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "originalTitle": "Non è un paese per single",
+  "overview": "A brilliant and intelligent love comedy that celebrates second chances and new horizons, starring a strong and determined woman who settles the score.",
+  "posterPath": "/nsROal9WTDvbB7ITBZZGrVOlz5z.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-08",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-05-08"
+    }
+  },
+  "runtime": 103,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "No Place to Be Single",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "oQwCYDTFvBI",
+      "name": "Trailer [Dubbed]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 122,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 119,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1317448-non-e-un-paese-per-single/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1317448-non-e-un-paese-per-single/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1317448-non-e-un-paese-per-single/watch?locale=US",
+      "rent": []
+    }
+  }
+}

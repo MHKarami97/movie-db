@@ -1,0 +1,211 @@
+{
+  "backdropPath": "/e5IdZ1OEWMYxTeu51tI67gXvfpn.jpg",
+  "cast": [
+    {
+      "character": "Karasaami",
+      "id": 550165,
+      "name": "Dhanush",
+      "profilePath": "/xnGKntkTDURY5mJ0sOVRI3VIDsY.jpg"
+    },
+    {
+      "character": "Kasi Maayan",
+      "id": 120949,
+      "name": "Karunas",
+      "profilePath": "/dnh00MeOyiWFQ21l5az3UVJ5rhp.jpg"
+    },
+    {
+      "character": "Muthu Selvan",
+      "id": 141704,
+      "name": "Jayaram",
+      "profilePath": "/cc1SfVFctuYH353NgxXNBoAFX2d.jpg"
+    },
+    {
+      "character": "Kanthasaami",
+      "id": 93194,
+      "name": "K. S. Ravikumar",
+      "profilePath": "/8dUdM3sFvL4aXnDtLJJCkDMNEbo.jpg"
+    },
+    {
+      "character": "Bharathan",
+      "id": 930731,
+      "name": "Suraj Venjaramoodu",
+      "profilePath": "/2FUs0wmR3eHBd8g4GVbCmhkUzeI.jpg"
+    },
+    {
+      "character": "Selli",
+      "id": 2191938,
+      "name": "Mamitha Baiju",
+      "profilePath": "/9ySiE3j7ep16fhKi3u5iq5rbOk6.jpg"
+    },
+    {
+      "character": "Kangayya",
+      "id": 130114,
+      "name": "M. S. Bhaskar",
+      "profilePath": "/jyamX33xAwz2ZWCgh29qkg9exb8.jpg"
+    },
+    {
+      "character": "Murugesan",
+      "id": 1325660,
+      "name": "Prithvi Pandiarajan",
+      "profilePath": null
+    },
+    {
+      "character": "Dhanam",
+      "id": 1960294,
+      "name": "Sreeja Ravi",
+      "profilePath": "/fzSMF0kJTVh7cfdkDJvUFQK2Tlk.jpg"
+    },
+    {
+      "character": "Chittarkottai Manager",
+      "id": 4160017,
+      "name": "Dhanesh Koliyat",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 104937,
+      "logoPath": "/2Uu3slWWG2T42xglgh6xIo3jvmt.png",
+      "name": "Vels Film International"
+    },
+    {
+      "id": 164726,
+      "logoPath": null,
+      "name": "Think Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2026-05-28",
+  "externalIds": {
+    "imdbId": "tt37458112",
+    "wikidataId": "Q139496302"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 1433117,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ta",
+      "name": "Tamil"
+    }
+  ],
+  "originalTitle": "கர",
+  "overview": "A thief tries to go straight, but when predatory banks trap his father in debt, he returns to crime — with a determined cop closing in on his trail.",
+  "posterPath": "/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-28",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-05-28"
+    }
+  },
+  "runtime": 161,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Sometimes, staying dangerous is the only way to stay alive.",
+  "theatricalDate": null,
+  "title": "Kara",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 38,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1433117/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1433117/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1433117/watch?locale=US",
+      "rent": []
+    }
+  }
+}

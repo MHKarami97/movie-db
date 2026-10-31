@@ -1,0 +1,159 @@
+{
+  "backdropPath": "/3yweDwQgVQ3TZPuAqtVbtDQhMKG.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 3019160,
+      "name": "Steffi Mercie",
+      "profilePath": "/AvIvRiOROLC5fyHXmBPUSaCYTpQ.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 3244853,
+      "name": "Gerben Tuerlinckx",
+      "profilePath": "/6zFZE40YE1vBtBCAHmz79ikSoT2.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2022-12-12",
+  "episodes": {
+    "5": [
+      {
+        "airDate": "2026-10-30",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-06",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1794071861044,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 208865,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "nl",
+      "name": "Dutch"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-11-06",
+    "episodeNumber": 2,
+    "id": 7919531,
+    "name": "Episode 2",
+    "overview": "",
+    "seasonNumber": 5
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Steffi & Gerben #deleven",
+  "overview": "",
+  "posterPath": "/8lZMH8C8R7TJjqZPcjsXtQwIovo.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2022-12-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2022-12-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2022-12-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2022-12-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2022-12-12"
+    },
+    "CN": {
+      "tv": "2022-12-12"
+    },
+    "GB": {
+      "tv": "2022-12-12"
+    },
+    "US": {
+      "tv": "2022-12-12"
+    }
+  },
+  "runtime": 11,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2022-12-12",
+      "episodeCount": 8,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2023-08-28",
+      "episodeCount": 8,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2024-05-06",
+      "episodeCount": 5,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2025-10-29",
+      "episodeCount": 8,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2026-10-30",
+      "episodeCount": 2,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Steffi & Gerben #deleven",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

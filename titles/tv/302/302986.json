@@ -1,0 +1,214 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Seo Hee-seung",
+      "id": 240145,
+      "name": "Han Hyo-joo",
+      "profilePath": "/4E7NuJsR7AnMYAefFSHkj4cftdf.jpg"
+    },
+    {
+      "character": "Kang Hae-hwan",
+      "id": 1333031,
+      "name": "Gong Myoung",
+      "profilePath": "/4c4eiMCgzw6gr4TDzOiODmmTRmG.jpg"
+    },
+    {
+      "character": "Dong Chi-yeong",
+      "id": 3038410,
+      "name": "Kim Shin-rock",
+      "profilePath": "/x4zo2mSbehnQY80PbuldAZ7ruGm.jpg"
+    },
+    {
+      "character": "Yoon Yi-seok",
+      "id": 1254579,
+      "name": "Sung Joon",
+      "profilePath": "/375rx6041ov9kLc6G36CGf4kwx4.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 83914,
+      "logoPath": "/nFcR2kd7vl5O3TITQs6x39BNo6Y.png",
+      "name": "Studio S"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": "2026-12-11",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-12-11",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-12",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-18",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-19",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-25",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-26",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-02",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-08",
+        "episodeNumber": 9,
+        "name": "Episode 9",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-09",
+        "episodeNumber": 10,
+        "name": "Episode 10",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 302986,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2026-12-11",
+    "episodeNumber": 1,
+    "id": 6601032,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "너의 그라운드",
+  "overview": "A once-promising pitcher stuck in rehab finds a chance to return to the game when he meets a sharp, free-spirited agent who used to be a lawyer, and their unlikely partnership slowly sparks both healing and romance.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-12-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-12-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-12-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-12-11",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-12-11"
+    },
+    "CN": {
+      "tv": "2026-12-11"
+    },
+    "GB": {
+      "tv": "2026-12-11"
+    },
+    "US": {
+      "tv": "2026-12-11"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-12-11",
+      "episodeCount": 10,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Your Ground",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,157 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 500,
+      "name": "Tom Cruise",
+      "profilePath": "/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+    },
+    {
+      "character": "",
+      "id": 74086,
+      "name": "Bill Maher",
+      "profilePath": "/n6eOp9jGQpjO0taYMfznMhjpZxR.jpg"
+    },
+    {
+      "character": "",
+      "id": 1004,
+      "name": "Danny Aiello",
+      "profilePath": "/2WiZ8SkiFU355GUT2QuSPlenrfM.jpg"
+    },
+    {
+      "character": "",
+      "id": 1596937,
+      "name": "Dana Bash",
+      "profilePath": "/vGCWaLWeKvwv14G9UUd1w7VrvDo.jpg"
+    },
+    {
+      "character": "",
+      "id": 1184592,
+      "name": "Jon Doscher",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 15046,
+      "logoPath": null,
+      "name": "Starline Films"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2026-11-06",
+  "externalIds": {
+    "imdbId": "tt38234658"
+  },
+  "fetchedAt": 1794158926475,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1737349,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Once Upon a Time in Jersey",
+  "overview": "A journey through the 1960s, 70s, & 80s New Jersey - reflecting on a magical time of the Old Americana we once knew. Featuring Tom Cruise, Bill Maher and Dana Bash from CNN, with a special appearance by Oscar-Nominated actor Danny Aiello.",
+  "posterPath": "/9pqGbaAMUJUQVQvDZU3uNdVTve4.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-06",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-06"
+    }
+  },
+  "runtime": 87,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Once Upon a Time in Jersey",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1737349-once-upon-a-time-in-jersey/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1737349-once-upon-a-time-in-jersey/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

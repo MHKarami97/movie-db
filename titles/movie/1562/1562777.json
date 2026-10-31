@@ -1,0 +1,244 @@
+{
+  "backdropPath": "/mCSWDVb87GpfQKEyvHIlBt6Obht.jpg",
+  "cast": [
+    {
+      "character": "Ken Carter",
+      "id": 449,
+      "name": "Jay Baruchel",
+      "profilePath": "/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg"
+    },
+    {
+      "character": "Dick Keller",
+      "id": 27105,
+      "name": "Ed Helms",
+      "profilePath": "/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+    },
+    {
+      "character": "Evel Knievel",
+      "id": 11107,
+      "name": "Ben Foster",
+      "profilePath": "/p5FlM9OOStD9I0Nm3GGlhaiAC5r.jpg"
+    },
+    {
+      "character": "Gloria",
+      "id": 76877,
+      "name": "Laurence Leboeuf",
+      "profilePath": "/tbsbBn7A6tFag0eAJjH0NbnS1MX.jpg"
+    },
+    {
+      "character": "Bob Fortier",
+      "id": 51389,
+      "name": "Joe Cobden",
+      "profilePath": "/aI26eGubA3kFhJQNoWt4gtQyviM.jpg"
+    },
+    {
+      "character": "Danny Lafortune",
+      "id": 1012484,
+      "name": "Marc Beaupré",
+      "profilePath": "/qGBBmUfj5xlDWK15po0axpTUm3K.jpg"
+    },
+    {
+      "character": "Bill Wilkins",
+      "id": 1183546,
+      "name": "Dan Bakkedahl",
+      "profilePath": "/zHDMTZe3Xjvut57oTZixURBNDHi.jpg"
+    },
+    {
+      "character": "Seamus",
+      "id": 4307959,
+      "name": "Noah Labranche",
+      "profilePath": "/5Sb2tL2Nia31afwn7haYUJoESjD.jpg"
+    },
+    {
+      "character": "Trevor",
+      "id": 2719571,
+      "name": "Derek Johns",
+      "profilePath": "/7agWChH4XehsSKxRkKHel1NdnPz.jpg"
+    },
+    {
+      "character": "Goldie (Hypnotist)",
+      "id": 3579696,
+      "name": "Sophie-Thérèse Stone-Richards",
+      "profilePath": "/inB8Wjr3tAKY7vyCYWaliMXEU9W.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 277287,
+      "logoPath": null,
+      "name": "Film Cardinal"
+    },
+    {
+      "id": 20277,
+      "logoPath": "/aomeUwZLIBjGXHfuZq7HTVk7UNb.png",
+      "name": "Protagonist Pictures"
+    },
+    {
+      "id": 64740,
+      "logoPath": "/N9CoGbHpYbA93wogwbKGN3MhDh.png",
+      "name": "Mongrel Media"
+    },
+    {
+      "id": 157740,
+      "logoPath": "/psBLfwHCfU9A4U9bWmeWF8AlSqr.png",
+      "name": "Crave"
+    },
+    {
+      "id": 34515,
+      "logoPath": "/eHlBG6INdNO7IfsxVX1kDDBKnJi.png",
+      "name": "Canada Media Fund | Fonds des médias du Canada"
+    },
+    {
+      "id": 157741,
+      "logoPath": "/2Ec5G6rTVSpXZB95v6rFlAfKiw4.png",
+      "name": "CBC Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-10-27",
+  "externalIds": {
+    "imdbId": "tt34611096",
+    "wikidataId": "Q136547123"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "id": 1562777,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Stunt Driver",
+  "overview": "Based on a true story, a Canadian stunt driver recruits a top sports manager and rocket car designers to attempt a record-breaking jump across the Saint Lawrence River, hoping to achieve fame and fortune.",
+  "posterPath": "/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg",
+  "rating": 8.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-27",
+      "gapDays": 32,
+      "theatricalDate": "2026-09-25"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-27",
+      "theatricalLimited": "2026-09-25"
+    }
+  },
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-09-25",
+  "title": "The Stunt Driver",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "dcbRqIuFAiE",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "H65PPLCO0os",
+      "name": "Official Teaser Trailer #2",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "7CrvMbeIIY4",
+      "name": "Official Teaser #1",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1562777-the-stunt-driver/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

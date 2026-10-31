@@ -1,0 +1,190 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Peter Hooley",
+      "id": 53117,
+      "name": "Dustin Milligan",
+      "profilePath": "/tHIrZBMjQuv2I6ptw3fYCkpJsNM.jpg"
+    },
+    {
+      "character": "Julie Johnston",
+      "id": 1789429,
+      "name": "Diona Doherty",
+      "profilePath": "/hodwqmXhwJksOlHgNTVEv1rPmAD.jpg"
+    },
+    {
+      "character": "",
+      "id": 43138,
+      "name": "Ian McElhinney",
+      "profilePath": "/gnXsOpML4CKDvPuAg8erDo9S57h.jpg"
+    },
+    {
+      "character": "",
+      "id": 54972,
+      "name": "Dan Gordon",
+      "profilePath": "/bLaH8Kb0qUjapo6ZBvQqLs4967j.jpg"
+    },
+    {
+      "character": "",
+      "id": 3064626,
+      "name": "Muki Zubis",
+      "profilePath": "/55OdUjteWaxP35Q6APXklPjd1eh.jpg"
+    },
+    {
+      "character": "",
+      "id": 1722119,
+      "name": "Seamus O'Hara",
+      "profilePath": "/2ifk5Am8x3mOon4NHTWACkhjUWZ.jpg"
+    },
+    {
+      "character": "",
+      "id": 1500583,
+      "name": "Patrick Buchanan",
+      "profilePath": "/4Fc3FsokMpihcva2wuDELq3SqOd.jpg"
+    },
+    {
+      "character": "",
+      "id": 2163883,
+      "name": "Chris McCurry",
+      "profilePath": "/vgpu3Kuw7WzELTBMmLhyVoUHocz.jpg"
+    },
+    {
+      "character": "",
+      "id": 4622440,
+      "name": "Georgie Murphy",
+      "profilePath": "/gNzMLBShsFJJvyGT9Zk1wBvjERT.jpg"
+    },
+    {
+      "character": "",
+      "id": 51037,
+      "name": "Athena Karkanis",
+      "profilePath": "/bxKJJWXfnTfWVpsD5Y5H8g4vFUq.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 85211,
+      "logoPath": "/cOxn2RCPe7g9LUxBXUJEW7Bl2TI.png",
+      "name": "Cameron Pictures"
+    },
+    {
+      "id": 281576,
+      "logoPath": null,
+      "name": "Fabel Productions"
+    },
+    {
+      "id": 20639,
+      "logoPath": "/qypOd6AlNrfHIXN9nArZmyMv6do.png",
+      "name": "BBC Northern Ireland"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2027-01-05",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-05",
+        "episodeNumber": 1,
+        "name": "Pilot",
+        "overview": "Torontonian Peter falls head over heels for Julie after a whirlwind weekend. Too bad she lives in Northern Ireland.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt42051165"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 327294,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-05",
+    "episodeNumber": 1,
+    "id": 7459980,
+    "name": "Pilot",
+    "overview": "Torontonian Peter falls head over heels for Julie after a whirlwind weekend. Too bad she lives in Northern Ireland.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Committed",
+  "overview": "Peter, a recently divorced accountant, falls head over heels for Northern Irish woman Julie after a whirlwind weekend in Toronto. He crosses the Atlantic to declare his love, only to find himself in an old-fashion and eccentric village in rural Northern Ireland.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-05",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-05",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-05",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-05",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-05"
+    },
+    "CN": {
+      "tv": "2027-01-05"
+    },
+    "GB": {
+      "tv": "2027-01-05"
+    },
+    "US": {
+      "tv": "2027-01-05"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-05",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "Love is a trip",
+  "theatricalDate": null,
+  "title": "Committed",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

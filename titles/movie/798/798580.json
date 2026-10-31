@@ -1,0 +1,222 @@
+{
+  "backdropPath": "/A7I7Hy7CJtK7QlL6Y2I0UnnYo6J.jpg",
+  "cast": [
+    {
+      "character": "Zach",
+      "id": 1890163,
+      "name": "Chris Cavalier",
+      "profilePath": "/e9i4eH2r4gpDPkbnufL3qWGC3fc.jpg"
+    },
+    {
+      "character": "Natalia",
+      "id": 3557640,
+      "name": "Veronica Jarvis",
+      "profilePath": "/9oSEvdQ7yfGzCyxzQNQgAU1Srih.jpg"
+    },
+    {
+      "character": "Christopher Lambert",
+      "id": 38559,
+      "name": "Christopher Lambert",
+      "profilePath": "/nWcAHW2ZN4cP3VPWYH9WJCvhFvt.jpg"
+    },
+    {
+      "character": "Joe",
+      "id": 2732154,
+      "name": "Kheba Touray",
+      "profilePath": "/6iaPdtLBVx511OMzdwD5YBLK3O0.jpg"
+    },
+    {
+      "character": "Jaakko",
+      "id": 3557643,
+      "name": "Matti Paalanen",
+      "profilePath": null
+    },
+    {
+      "character": "Biff",
+      "id": 124869,
+      "name": "Iiro Panula",
+      "profilePath": "/wYK7WZQZCCiTEpNXAd5FyTTt3v0.jpg"
+    },
+    {
+      "character": "Sexy Nun #1",
+      "id": 3557641,
+      "name": "Katariina Juselius",
+      "profilePath": "/46VYzP5sMgCNhboFZGb4syLMBZJ.jpg"
+    },
+    {
+      "character": "Sexy Nun #2",
+      "id": 3557642,
+      "name": "Erika Helin",
+      "profilePath": "/viTQMgw5YkpZR3fROexxgtG738w.jpg"
+    },
+    {
+      "character": "Uncle John",
+      "id": 4600,
+      "name": "Joe Dante",
+      "profilePath": "/2Aev68oWboAC31dj8eJnEUzH41x.jpg"
+    },
+    {
+      "character": "KITT (voice)",
+      "id": 10775,
+      "name": "William Daniels",
+      "profilePath": "/1SCR6im2maiASfTD5h7r0g9dU78.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 61135,
+      "logoPath": "/7XnEAAVKptHws8pmDj1Aq9j3HQ6.png",
+      "name": "Black Lion Pictures"
+    },
+    {
+      "id": 79047,
+      "logoPath": null,
+      "name": "Frozen Flame Pictures"
+    },
+    {
+      "id": 25884,
+      "logoPath": "/zL8l7rZGwALoDJQwvw4ZnCQfpgA.png",
+      "name": "Raven Banner Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FI",
+      "name": "Finland"
+    }
+  ],
+  "digitalDate": "2025-12-01",
+  "externalIds": {
+    "imdbId": "tt14096946",
+    "wikidataId": "Q137375556"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 798580,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fi",
+      "name": "Finnish"
+    }
+  ],
+  "originalTitle": "The Creeps",
+  "overview": "When a mysterious gateway between dimensions unleashes a horde of nasty little creatures into Vuokatti Ski Resort, Zach and his friends’ dream holiday takes a turn for the terrifying. What was supposed to be an epic party—filled with sex, drugs, rock ’n’ roll, and Hollywood legend Christopher Lambert—spirals into pure chaos as the Creeps run wild. Now, Zach must rise to the occasion, battle the pint-sized terrors, and prove that being a hero isn’t so different from the ‘80s movies he worships.",
+  "posterPath": "/9LU1uvxf0BZxfPGX0oInpYxZX0.jpg",
+  "rating": 4.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-12-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2025-12-01",
+      "physical": "2025-12-01"
+    }
+  },
+  "runtime": 96,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The Creeps are coming to destroy your holiday season!",
+  "theatricalDate": null,
+  "title": "The Creeps",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "mUVqIOVwywM",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 21,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/798580-the-creeps/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    }
+  }
+}

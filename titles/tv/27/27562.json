@@ -1,0 +1,417 @@
+{
+  "backdropPath": "/ryqkJKAnI3POWGjDRN2FcAYGa2z.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 99681,
+      "logoPath": null,
+      "name": "Avalon Harbor Entertainment"
+    },
+    {
+      "id": 154630,
+      "logoPath": "/edV49cPtxk0z7sKczI5kHXhCi4m.png",
+      "name": "Silent House Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "1995-02-25",
+  "episodes": {
+    "32": [
+      {
+        "airDate": "2026-03-01",
+        "episodeNumber": 1,
+        "name": "The 32nd Annual Actor Awards Presented by SAG-AFTRA",
+        "overview": "The biggest names in film and television light up the stage for the 32nd annual Actors Awards live from Los Angeles.",
+        "stillPath": "/kNbtPnUULysEprNjcnxYwBAY4n6.jpg",
+        "voteAverage": 6
+      }
+    ],
+    "33": [
+      {
+        "airDate": "2027-02-28",
+        "episodeNumber": 1,
+        "name": "The 33rd Annual Actor Awards Presented by SAG-AFTRA",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ],
+    "34": [
+      {
+        "airDate": "2028-02-20",
+        "episodeNumber": 1,
+        "name": "The 34th Annual Actor Awards Presented by SAG-AFTRA",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "actorawards",
+    "instagramId": "actorawards",
+    "twitterId": "theactorawards"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 27562,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-03-01",
+    "episodeNumber": 1,
+    "id": 6688305,
+    "name": "The 32nd Annual Actor Awards Presented by SAG-AFTRA",
+    "overview": "The biggest names in film and television light up the stage for the 32nd annual Actors Awards live from Los Angeles.",
+    "seasonNumber": 32
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-02-28",
+    "episodeNumber": 1,
+    "id": 7127403,
+    "name": "The 33rd Annual Actor Awards Presented by SAG-AFTRA",
+    "overview": "",
+    "seasonNumber": 33
+  },
+  "originalTitle": "The Actor Awards Presented by SAG-AFTRA",
+  "overview": "One of awards season's premier events, the Actor Awards annually celebrates the outstanding motion picture and television performances of the year, as voted on by SAG-AFTRA's robust and diverse membership of 122,000+ performers.",
+  "posterPath": "/tWcVlqq310tjlt1fMnssZkP9E7r.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1995-02-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1995-02-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1995-02-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1995-02-25",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1995-02-25"
+    },
+    "CN": {
+      "tv": "1995-02-25"
+    },
+    "GB": {
+      "tv": "1995-02-25"
+    },
+    "US": {
+      "tv": "1995-02-25"
+    }
+  },
+  "runtime": 125,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "1995-02-25",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1996-02-24",
+      "episodeCount": 1,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1997-02-22",
+      "episodeCount": 1,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1998-03-08",
+      "episodeCount": 1,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1999-03-07",
+      "episodeCount": 1,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2000-03-12",
+      "episodeCount": 1,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2001-03-11",
+      "episodeCount": 1,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2002-03-10",
+      "episodeCount": 1,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2003-03-09",
+      "episodeCount": 1,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2004-02-22",
+      "episodeCount": 1,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2005-02-05",
+      "episodeCount": 1,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2006-01-29",
+      "episodeCount": 1,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2007-01-28",
+      "episodeCount": 1,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2008-01-27",
+      "episodeCount": 1,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2009-01-25",
+      "episodeCount": 1,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2010-01-23",
+      "episodeCount": 1,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2011-01-30",
+      "episodeCount": 1,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2012-01-29",
+      "episodeCount": 1,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2013-01-27",
+      "episodeCount": 1,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2014-01-18",
+      "episodeCount": 1,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2015-01-25",
+      "episodeCount": 1,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2016-01-30",
+      "episodeCount": 1,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2017-01-29",
+      "episodeCount": 1,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2018-01-21",
+      "episodeCount": 1,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2019-01-27",
+      "episodeCount": 1,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "2020-01-19",
+      "episodeCount": 1,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "2021-04-04",
+      "episodeCount": 1,
+      "name": "Season 27",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "2022-02-27",
+      "episodeCount": 1,
+      "name": "Season 28",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "2023-02-26",
+      "episodeCount": 1,
+      "name": "Season 29",
+      "overview": "",
+      "posterPath": "/roki1iHD61kSoxluEj4vGkP6rur.jpg",
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "2024-02-24",
+      "episodeCount": 1,
+      "name": "Season 30",
+      "overview": "",
+      "posterPath": "/42Iqv7qQRMctMVisFH2RXDCYoL5.jpg",
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "2025-02-23",
+      "episodeCount": 1,
+      "name": "Season 31",
+      "overview": "",
+      "posterPath": "/r5Ns9NSHcbePfMxHRbQWBtxqjuT.jpg",
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "2026-03-01",
+      "episodeCount": 1,
+      "name": "Season 32",
+      "overview": "",
+      "posterPath": "/yB83Tfwl5uF4PeQUocfyBRTRNHW.jpg",
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "2027-02-28",
+      "episodeCount": 1,
+      "name": "Season 33",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "2028-02-20",
+      "episodeCount": 1,
+      "name": "Season 34",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 34
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Actor Awards Presented by SAG-AFTRA",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 8,
+  "watchProviders": {}
+}

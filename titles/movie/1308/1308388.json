@@ -1,0 +1,240 @@
+{
+  "backdropPath": "/kOttC22G94ZxDdEcudcB3Lie94t.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1617701,
+      "name": "Markian Tarasiuk",
+      "profilePath": "/Zh7nUBYCeTyDyXNYeHJFVyWo1J.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1475838,
+      "name": "Ryan Alexander McDonald",
+      "profilePath": "/51QpOEtfigQdLWcAcjE4Uzw7izZ.jpg"
+    },
+    {
+      "character": "Tara Nichols",
+      "id": 1996622,
+      "name": "Miranda MacDougall",
+      "profilePath": "/eaH9pHbiE9L0CtOn7p7RLKVge6s.jpg"
+    },
+    {
+      "character": "Pam Hamilton",
+      "id": 189719,
+      "name": "Christine Willes",
+      "profilePath": "/bOSrIT6eir8mzwO7KfA6NaFbKMh.jpg"
+    },
+    {
+      "character": "Brenda Nichols",
+      "id": 1888308,
+      "name": "Susinn McFarlen",
+      "profilePath": null
+    },
+    {
+      "character": "Jordan Reimer",
+      "id": 5236614,
+      "name": "Izzy Bull Bear",
+      "profilePath": null
+    },
+    {
+      "character": "Matthew Nichols",
+      "id": 5236616,
+      "name": "James Ross",
+      "profilePath": null
+    },
+    {
+      "character": "Mitchell Reimer",
+      "id": 1396999,
+      "name": "Trevor Carroll",
+      "profilePath": "/pnnApOIQbj2cnnpT4yqKfDqtANR.jpg"
+    },
+    {
+      "character": "Ian Laserge",
+      "id": 2640686,
+      "name": "Joe Costa",
+      "profilePath": null
+    },
+    {
+      "character": "Ken Crawford",
+      "id": 27119,
+      "name": "Bernard Cuffling",
+      "profilePath": "/rla86XNirzJYWLY7TLV92jhKrXt.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 237897,
+      "logoPath": null,
+      "name": "Dropshock Pictures"
+    },
+    {
+      "id": 242452,
+      "logoPath": null,
+      "name": "Play Mgmt Media"
+    },
+    {
+      "id": 275157,
+      "logoPath": "/s4Z1DPnLbdUPRWyS0WyM24p70uB.png",
+      "name": "Moon7"
+    },
+    {
+      "id": 147858,
+      "logoPath": null,
+      "name": "AMP International"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-31",
+  "externalIds": {
+    "facebookId": "huntingmatthewnichols",
+    "imdbId": "tt29373684",
+    "instagramId": "@huntingmatthewnichols",
+    "twitterId": "HMNmovie",
+    "wikidataId": "Q131406171"
+  },
+  "fetchedAt": 1794864638140,
+  "gapDays": 204,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1308388,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Hunting Matthew Nichols",
+  "overview": "Twenty-three years after her brother mysteriously disappeared on Vancouver Island, a documentary filmmaker sets out to solve his missing person's case. When a disturbing piece of evidence is revealed, she comes to believe he might still be alive.",
+  "posterPath": "/d6I1mvnGUaU57kSFeXxNWlQB934.jpg",
+  "rating": 5.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-10-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-31",
+      "gapDays": 204,
+      "theatricalDate": "2026-04-10"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-10-31",
+      "premiere": "2025-11-21"
+    },
+    "US": {
+      "digital": "2026-10-31",
+      "premiere": "2024-10-19",
+      "theatrical": "2026-04-10"
+    }
+  },
+  "runtime": 89,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Not all answers want to be found.",
+  "theatricalDate": "2026-04-10",
+  "title": "Hunting Matthew Nichols",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "SxnwSNp0848",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "kHKGs7xf4i0",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        },
+        {
+          "id": 204,
+          "logoPath": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+          "name": "Shudder Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1308388-hunting-matthew-nichols/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1854,
+          "logoPath": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 526,
+          "logoPath": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+          "name": "AMC+"
+        },
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1308388-hunting-matthew-nichols/watch?locale=US",
+      "rent": []
+    }
+  }
+}

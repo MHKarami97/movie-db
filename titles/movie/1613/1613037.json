@@ -1,0 +1,188 @@
+{
+  "backdropPath": "/ul0nXmrjwg73ZfL9l6F7ABsRp1z.jpg",
+  "cast": [
+    {
+      "character": "Nora",
+      "id": 1537084,
+      "name": "Siena Agudong",
+      "profilePath": "/nCVWiVrIVqw0LnpyhYsckOMQJHS.jpg"
+    },
+    {
+      "character": "Kendell",
+      "id": 1469128,
+      "name": "Brec Bassinger",
+      "profilePath": "/6nphhVy6fCrcfdYktAzaiScUAMP.jpg"
+    },
+    {
+      "character": "Lexi",
+      "id": 4921128,
+      "name": "Aliyah's Interlude",
+      "profilePath": "/n7UTDUKHiQvQm5IMPGPuvFuwAqV.jpg"
+    },
+    {
+      "character": "Chloe",
+      "id": 5221945,
+      "name": "Kealeboga Masango",
+      "profilePath": "/yNqjiCxOz6ErKdDn44JGqGO0bXT.jpg"
+    },
+    {
+      "character": "Beth",
+      "id": 6433932,
+      "name": "Angela Daytona Wu",
+      "profilePath": "/foJYPMfyZjhhlGseQsWD7ZK76Fc.jpg"
+    },
+    {
+      "character": "Mika",
+      "id": 4126611,
+      "name": "Jessie Diepeveen",
+      "profilePath": "/qghK7MTkUMMhwbg5XurINoKJ4Kc.jpg"
+    },
+    {
+      "character": "Trina",
+      "id": 5766007,
+      "name": "Atara Leigh",
+      "profilePath": "/ieliZyMBPIkjvMNQtwPkRWeoo6G.jpg"
+    },
+    {
+      "character": "Sarah",
+      "id": 1883295,
+      "name": "Frances Sholto-Douglas",
+      "profilePath": "/VHKIiSjKyfcRFz1VbL35C6hC4r.jpg"
+    },
+    {
+      "character": "Dawn",
+      "id": 6560736,
+      "name": "Alyssa Dionne",
+      "profilePath": "/5CdehlL8KvFpFILPBZf7i4IuuJo.jpg"
+    },
+    {
+      "character": "Holly",
+      "id": 6433930,
+      "name": "Gemma French",
+      "profilePath": "/x96JpHPJkgwIzX5YKTJvJQJfL50.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 82659,
+      "logoPath": "/3mZkZUZUaqXDcIoYnECLb98PSWC.png",
+      "name": "Blue Ice Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2026-09-25",
+  "externalIds": {
+    "imdbId": "tt39319437",
+    "wikidataId": "Q141447397"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1613037,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Buzzkill",
+  "overview": "A group of sorority sisters end up trapped with a murderer. Nora’s tipsy memories hold the clues to figuring out who is killing their friends, but she can only remember them when she’s drunk.",
+  "posterPath": "/uLftvCgy9WFGRnrGbMer7i61Zkn.jpg",
+  "rating": 5.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-09-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-25",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-09-25"
+    },
+    "US": {
+      "digital": "2026-09-25"
+    }
+  },
+  "runtime": 95,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Buzzkill",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "oe6mVqq2Mi8",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 10,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1613037-buzzkill/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1613037-buzzkill/watch?locale=US",
+      "rent": []
+    }
+  }
+}

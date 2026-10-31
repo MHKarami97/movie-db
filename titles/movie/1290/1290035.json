@@ -1,0 +1,183 @@
+{
+  "backdropPath": "/cn5RbvKzrYskQhDkofDaJYjcv1D.jpg",
+  "cast": [
+    {
+      "character": "Avaraachan",
+      "id": 584764,
+      "name": "Biju Menon",
+      "profilePath": "/kSnzfoZphQGrnOBH7MfU3HMTKGJ.jpg"
+    },
+    {
+      "character": "Jaison",
+      "id": 1135717,
+      "name": "Sreenath Bhasi",
+      "profilePath": "/oPsXUtaE0ZslhaGRdtww0ZpMRe7.jpg"
+    },
+    {
+      "character": "Ani",
+      "id": 1160633,
+      "name": "Vinay Forrt",
+      "profilePath": "/26P7CfxRs6Hay7xAkHAghDtvGzO.jpg"
+    },
+    {
+      "character": "Bincy",
+      "id": 1863214,
+      "name": "Grace Antony",
+      "profilePath": "/1U4oORhpX4gQnjooOBVfwsyVW9g.jpg"
+    },
+    {
+      "character": "Jaimon",
+      "id": 1665411,
+      "name": "Ganapathi S. Poduval",
+      "profilePath": "/15g6TQroqoLmcK1E8CniGZjm72l.jpg"
+    },
+    {
+      "character": "Pavithran",
+      "id": 990521,
+      "name": "Johny Antony",
+      "profilePath": "/pexfjL8oTDJvRlUeUTJcrgGjEXX.jpg"
+    },
+    {
+      "character": "Keerthi",
+      "id": 3719125,
+      "name": "Akhila Bhargavan",
+      "profilePath": "/dGaNyhTvnotJpqxmRLXCqIfKGjC.jpg"
+    },
+    {
+      "character": "Elliyama",
+      "id": 1866766,
+      "name": "Pauly Valsan",
+      "profilePath": "/m5OSMmRojxtmpLwa3ef97NpgF2G.jpg"
+    },
+    {
+      "character": "Anita",
+      "id": 3856611,
+      "name": "Parvathy Babu",
+      "profilePath": "/lXBDZMUskKJyjDoxA18L1FFO4lT.jpg"
+    },
+    {
+      "character": "",
+      "id": 4766358,
+      "name": "Sreejith Babu",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 11864,
+      "logoPath": "/ijEKkNlryVxGWEjVPkCAippmURD.png",
+      "name": "Magic Frames"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34792531",
+    "wikidataId": "Q141637021"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1290035,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ml",
+      "name": "Malayalam"
+    }
+  ],
+  "originalTitle": "അവറാച്ചൻ & Sons",
+  "overview": "Follows Avarachan, his children and the various family and social relationships that shape their lives.",
+  "posterPath": "/wRKg0WoPV0D3bCl1B5jJtcRdU1Z.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-02"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-02"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-10-02"
+    },
+    "US": {
+      "theatrical": "2026-10-02"
+    }
+  },
+  "runtime": 150,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-02",
+  "title": "Avaraachan & Sons",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 1,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1290035-sons/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1290035-sons/watch?locale=US",
+      "rent": []
+    }
+  }
+}

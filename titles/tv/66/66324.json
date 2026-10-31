@@ -1,0 +1,359 @@
+{
+  "backdropPath": "/qVMBjIxu2WgPCHTeGhP8F6DilyY.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 1609468,
+      "name": "Alberto Angela",
+      "profilePath": "/ugCDn9a0SMbF8d4RJLZ5e2GFHDv.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1583,
+      "logoPath": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+      "name": "RAI"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": "2001-04-07",
+  "episodes": {
+    "26": [
+      {
+        "airDate": "2026-05-04",
+        "episodeNumber": 1,
+        "name": "On the Notes of New York",
+        "overview": "The new season of Ulysses opens with music. Alberto Angela crosses the Atlantic to tell us about another city deeply connected to sound and its stories: we arrive in the Big Apple with \"Sulle note di New York.\" A sonic journey through the city where each stop is paired with a song or a major American artist.",
+        "stillPath": "/6fLbk4L9MFvAUJu9ZsiUdPDSUAh.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-05-11",
+        "episodeNumber": 2,
+        "name": "Japan - From Samurai to Manga",
+        "overview": "Let's discover Japan. A journey to a country so far away yet one that holds a growing fascination for many Italians. The legendary samurai tradition, the manga and cartoon heroes that generations of young people have grown up with, the exquisite cuisine, the cutting-edge technology, the delicacy of cherry blossoms, the horror of kamikaze and seppuku, and the natural disasters we must guard against. A tale of the many facets of a complex, ancient civilization, where opposites collide and give rise to a culture unlike any other.",
+        "stillPath": "/clK6sW2UoynVGggvuE9yykna20o.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-05-18",
+        "episodeNumber": 3,
+        "name": "Lucrezia Borgia - The Reality of a Myth",
+        "overview": "We tell you about Lucrezia Borgia, one of the most controversial women of the Renaissance. A murderer, a poisoner, an incestuous daughter and sister. Numerous accusations fuel her dark legend. Born to Cardinal Rodrigo, who later became Pope Alexander VI, and sister of Cesare Borgia. What truth is there in the many events that cast her in a negative light? This is the question Alberto Angela will attempt to answer by retracing the tormented story of a woman who was actually strong, enterprising, and in control of her own destiny, despite appearances.",
+        "stillPath": "/eX9hBmwhpaL5uPCuYkWNBux3vSR.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-05-25",
+        "episodeNumber": 4,
+        "name": "Hidden Paris",
+        "overview": "You never stop discovering Paris. In this episode, we explore the city's lesser-known wonders. Just a few kilometers away from the most famous sites are marvels like the Château de Vaux le Vicomte, at the center of a captivating intrigue, or the Château de Chantilly, home to the largest art gallery in France after the Louvre, and the birthplace of the famous cream. Paris, a city where you don't need spring to be happy.",
+        "stillPath": "/ePxTAwhZEEPtRomOrkgZHhQ8J6C.jpg",
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt3108512",
+    "wikidataId": "Q983948"
+  },
+  "fetchedAt": 1794424086332,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 66324,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-05-25",
+    "episodeNumber": 4,
+    "id": 7562596,
+    "name": "Hidden Paris",
+    "overview": "You never stop discovering Paris. In this episode, we explore the city's lesser-known wonders. Just a few kilometers away from the most famous sites are marvels like the Château de Vaux le Vicomte, at the center of a captivating intrigue, or the Château de Chantilly, home to the largest art gallery in France after the Louvre, and the birthplace of the famous cream. Paris, a city where you don't need spring to be happy.",
+    "seasonNumber": 26
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Ulisse - Il piacere della scoperta",
+  "overview": "Alberto Angela leads the dissemination program dedicated to history, art and culture. A historical, archaeological, informative story, with the presence of some protagonists of the Italian cultural or artistic scene.",
+  "posterPath": "/wT1e9TKraoXF5sI4NlMnJUCXoNR.jpg",
+  "rating": 9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2001-04-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2001-04-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2001-04-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2001-04-07",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2001-04-07"
+    },
+    "CN": {
+      "tv": "2001-04-07"
+    },
+    "GB": {
+      "tv": "2001-04-07"
+    },
+    "US": {
+      "tv": "2001-04-07"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2000-11-25",
+      "episodeCount": 18,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2001-04-07",
+      "episodeCount": 8,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2002-04-06",
+      "episodeCount": 11,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2003-04-19",
+      "episodeCount": 7,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2004-04-03",
+      "episodeCount": 8,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2005-04-22",
+      "episodeCount": 8,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2006-04-22",
+      "episodeCount": 8,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2007-04-28",
+      "episodeCount": 8,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2008-04-19",
+      "episodeCount": 8,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2009-03-07",
+      "episodeCount": 22,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2010-02-06",
+      "episodeCount": 14,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2011-03-05",
+      "episodeCount": 12,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2012-03-10",
+      "episodeCount": 18,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2013-04-13",
+      "episodeCount": 17,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2014-04-12",
+      "episodeCount": 8,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2014-10-04",
+      "episodeCount": 23,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2015-10-03",
+      "episodeCount": 21,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2016-09-24",
+      "episodeCount": 20,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2017-10-07",
+      "episodeCount": 19,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2018-09-29",
+      "episodeCount": 4,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2019-09-21",
+      "episodeCount": 5,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2020-09-16",
+      "episodeCount": 4,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2021-04-21",
+      "episodeCount": 5,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2022-04-09",
+      "episodeCount": 5,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2023-09-07",
+      "episodeCount": 3,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2025-04-07",
+      "episodeCount": 4,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "2026-05-04",
+      "episodeCount": 4,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 26
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Ulisse - The Pleasure of Discovery",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 13,
+  "watchProviders": {}
+}

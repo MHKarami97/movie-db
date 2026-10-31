@@ -1,0 +1,162 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Emma Dretzin",
+      "id": 350,
+      "name": "Laura Linney",
+      "profilePath": "/6I31xZxo9Hq6T0OhSwCUjHd8jkB.jpg"
+    },
+    {
+      "character": "Tony Evans",
+      "id": 7026,
+      "name": "Rhys Ifans",
+      "profilePath": "/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg"
+    },
+    {
+      "character": "Professor Ridge",
+      "id": 139549,
+      "name": "Rory Kinnear",
+      "profilePath": "/8aEABMeHXOozwE5DrMxUlCM9mpG.jpg"
+    },
+    {
+      "character": "Liz Evans",
+      "id": 229606,
+      "name": "Monica Dolan",
+      "profilePath": "/lR61knP6P7ESFYUapWNhG22TA3s.jpg"
+    },
+    {
+      "character": "Bahar",
+      "id": 1840837,
+      "name": "Isabella Nefar",
+      "profilePath": "/bEKjW2Yz8oG2m64PJdEhXmej257.jpg"
+    },
+    {
+      "character": "Julie",
+      "id": 3548630,
+      "name": "Leah Byrne",
+      "profilePath": "/lC0Zn7XYFSfFaafUkCmDZDMs7fl.jpg"
+    },
+    {
+      "character": "Carol",
+      "id": 2307543,
+      "name": "Danielle Galligan",
+      "profilePath": "/m3CKmQewQKV2y0dz5I8TcxmAOi5.jpg"
+    },
+    {
+      "character": "Tom",
+      "id": 1228706,
+      "name": "Paul Mayhew-Archer",
+      "profilePath": null
+    },
+    {
+      "character": "Mary",
+      "id": 1221763,
+      "name": "Sorcha Cusack",
+      "profilePath": "/fx1pP6u555MJ5qCOt80OHmHROVY.jpg"
+    },
+    {
+      "character": "",
+      "id": 2525892,
+      "name": "Emma Louise Webb",
+      "profilePath": "/z1xL9Ox8fdHHupLtzuzqMXvWTBR.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 286970,
+      "logoPath": null,
+      "name": "Hilltop Screen"
+    },
+    {
+      "id": 254672,
+      "logoPath": "/njGNo6OOJ1Y35Ww0i30szMKpFPL.png",
+      "name": "John Gore Studios"
+    },
+    {
+      "id": 3324,
+      "logoPath": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt11445200",
+    "wikidataId": "Q140647020"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1567265,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Onwards and Sideways",
+  "overview": "Tony Evans is the deputy head of a local primary school. Emma Dretzin is a pianist, composer and single mother of two daughters. Neither knows the other until a startling encounter changes the course of their lives: on the same morning, they are both confronted with a diagnosis of Parkinson’s.",
+  "posterPath": "/9GrdyiydFaa0OP7bjQrp8exlcPi.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-06"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-11-06"
+    }
+  },
+  "runtime": 105,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-11-06",
+  "title": "Onwards and Sideways",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "MR5Nkdndv18",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

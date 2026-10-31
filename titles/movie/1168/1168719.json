@@ -1,0 +1,297 @@
+{
+  "backdropPath": "/iOIc1rD53iF5D5y5pVGEs8uUTVc.jpg",
+  "cast": [
+    {
+      "character": "Tony",
+      "id": 1337,
+      "name": "Tony Leung Chiu-wai",
+      "profilePath": "/idGzkwbm0BiLdrrKfcXecFNXbDu.jpg"
+    },
+    {
+      "character": "Grete",
+      "id": 1502016,
+      "name": "Luna Wedler",
+      "profilePath": "/2ykQMktlyynFjKWQ764LTBaT1xn.jpg"
+    },
+    {
+      "character": "Hannes",
+      "id": 4062998,
+      "name": "Enzo Brumm",
+      "profilePath": "/4JVcHbpDeeV02lOOC1lDCaKhMmz.jpg"
+    },
+    {
+      "character": "Anton",
+      "id": 41965,
+      "name": "Sylvester Groth",
+      "profilePath": "/fmmWf9lOWmIsJX7IxroTuyiyTtQ.jpg"
+    },
+    {
+      "character": "Herr Fuchs",
+      "id": 49056,
+      "name": "Martin Wuttke",
+      "profilePath": "/sywdmaZIpQOOCzAymFixwypDe1g.jpg"
+    },
+    {
+      "character": "Thomas",
+      "id": 3859738,
+      "name": "Johannes Hegemann",
+      "profilePath": "/qPrRQrRyQvlnvGpB6n08QOQ5xfv.jpg"
+    },
+    {
+      "character": "Prof. Winterhalter",
+      "id": 65054,
+      "name": "Rainer Bock",
+      "profilePath": "/wLn46JXsZDt0pVnheUEWJZ8IvHo.jpg"
+    },
+    {
+      "character": "Alice Sauvage",
+      "id": 121529,
+      "name": "Léa Seydoux",
+      "profilePath": "/orDY1LzTNCM5EQ0TH7PFkPPBdtO.jpg"
+    },
+    {
+      "character": "Gundula",
+      "id": 2213431,
+      "name": "Marlene Burow",
+      "profilePath": "/4pL4bhCokrgarWVm3oISYnb6lMp.jpg"
+    },
+    {
+      "character": "Prof. Wild",
+      "id": 1149702,
+      "name": "Bernd Birkhahn",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 140,
+      "logoPath": "/ooz5b0ov3PLfBoOJyMmdoffVuHs.png",
+      "name": "Pandora Film"
+    },
+    {
+      "id": 793,
+      "logoPath": "/10DhIXAmAixQvBOsjZ1MOeSRyUC.png",
+      "name": "Galatée Films"
+    },
+    {
+      "id": 11008,
+      "logoPath": "/ygmbJsCJjgzIIYrJSj9grhDCYFu.png",
+      "name": "Inforg-M&M Film"
+    },
+    {
+      "id": 127914,
+      "logoPath": "/xaPfwbAnv2ULcCil5x6dPFmFs8z.png",
+      "name": "Rediance"
+    },
+    {
+      "id": 11237,
+      "logoPath": "/nzPEges9ftjCDQWru0qrIfTX8OR.png",
+      "name": "ZDF/Arte"
+    },
+    {
+      "id": 94,
+      "logoPath": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma"
+    },
+    {
+      "id": 274902,
+      "logoPath": null,
+      "name": "Allons Voir"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    {
+      "code": "CN",
+      "name": "China"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt27811632",
+    "wikidataId": "Q122827342"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1168719,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "cn",
+      "name": "Cantonese"
+    },
+    {
+      "code": "de",
+      "name": "German"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Silent Friend",
+  "overview": "In the heart of a botanical garden in a medieval university town in Germany stands a majestic ginkgo tree. This silent witness has observed over a century the quiet rhythms of transformation across three human lives. At three distinct moments across the 20th and 21st centuries, these people — each carrying their own questions and inner struggles — inevitably find themselves drawn into the presence of this tree, full of mystery and meaning.",
+  "posterPath": "/mZjkRpTFfcdsTmtIAzKVM87I94R.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-08-29",
+      "gapDays": 126,
+      "theatricalDate": "2026-04-25"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-01-08"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-08"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "digital": "2026-08-29",
+      "premiere": "2025-11-13",
+      "theatrical": "2026-04-25",
+      "theatricalLimited": "2026-04-24"
+    },
+    "GB": {
+      "premiere": "2025-10-17",
+      "theatrical": "2027-01-08"
+    },
+    "US": {
+      "premiere": "2025-10-22",
+      "theatricalLimited": "2026-05-08"
+    }
+  },
+  "runtime": 147,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-05-08",
+  "title": "Silent Friend",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "G-UfL323_s4",
+      "name": "Tony Leung and Ildikó Enyedi on Silent Friend",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ZU7cNiLNUm0",
+      "name": "Ildikó Enyedi and Tony Leung on Silent Friend",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "TaRZnpAmtJk",
+      "name": "Official US Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "72SfEyxoZrA",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 59,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1168719-silent-friend/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

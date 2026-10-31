@@ -1,0 +1,549 @@
+{
+  "backdropPath": "/hjvg9IdghfavsCzqUyaSNMXcryy.jpg",
+  "cast": [
+    {
+      "character": "Semir Gerkhan",
+      "id": 1222982,
+      "name": "Erdoğan Atalay",
+      "profilePath": "/8EEuiQTTwBy0EPR0zwpPjnRoKmT.jpg"
+    },
+    {
+      "character": "Dana Gerkhan",
+      "id": 1471280,
+      "name": "Gizem Emre",
+      "profilePath": "/pfcQ9wfADOvaRselgeku0bfKlWS.jpg"
+    },
+    {
+      "character": "Max Tauber",
+      "id": 3256246,
+      "name": "Nicolas Wolf",
+      "profilePath": "/tdGBNwEzWZvJiX2CoGVpt92anlT.jpg"
+    },
+    {
+      "character": "Victoriy \"Vicky\" Reisinger",
+      "id": 1722557,
+      "name": "Pia Stutzenstein",
+      "profilePath": "/a5A7n4Wjxp0Sz5CUEEO3zbQtDoc.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 8967,
+      "logoPath": "/zL4cGkBJTuzjgoYJkBjjRK0F4B1.png",
+      "name": "action concept"
+    },
+    {
+      "id": 23451,
+      "logoPath": "/etKVcIPvGwznZ8oLbKQjmVIvLIb.png",
+      "name": "Polyphon"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "1996-03-12",
+  "externalIds": {
+    "imdbId": "tt0115088",
+    "instagramId": "rtl.cobra11",
+    "wikidataId": "Q156155"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "id": 1338,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-04-08",
+    "episodeNumber": 6,
+    "id": 6167760,
+    "name": "Sterbenschön",
+    "overview": "",
+    "seasonNumber": 50
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Alarm für Cobra 11 - Die Autobahnpolizei",
+  "overview": "A long-running German television series about a two-man team of highway police, originally set in Berlin and later in North Rhine-Westphalia.",
+  "posterPath": "/5c7NF098aZ9mdiQU4nGtsEFOMjf.jpg",
+  "rating": 6.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1996-03-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1996-03-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1996-03-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1996-03-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1996-03-12"
+    },
+    "CN": {
+      "tv": "1996-03-12"
+    },
+    "GB": {
+      "tv": "1996-03-12"
+    },
+    "US": {
+      "tv": "1996-03-12"
+    }
+  },
+  "runtime": 45,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2016-03-12",
+      "episodeCount": 1,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/NE7AOjK0jCxipQHUgFW7TTzSSA.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1996-03-12",
+      "episodeCount": 9,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/m8AQJZHM39rPBD0YgBEHcte4sgY.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1997-03-11",
+      "episodeCount": 6,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/qu4HXjVmF6NLyFM7OdAfABCwotu.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1997-10-14",
+      "episodeCount": 6,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/qu4HXjVmF6NLyFM7OdAfABCwotu.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1998-03-31",
+      "episodeCount": 10,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/bu5Dn3wz1DEEYJjbnNxbUZxXumK.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1998-10-01",
+      "episodeCount": 8,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/sWLpuScm9TbZIoKBlQOrBqnNJOk.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1999-03-18",
+      "episodeCount": 8,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/bwMxHUyinlaWHL5ICbHWVf6CHYa.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1999-12-16",
+      "episodeCount": 11,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/91E6uHTr4wEuZopvLvruyZUChKb.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2000-11-09",
+      "episodeCount": 5,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/u7K7Ojeu40YZ6fdS5EAcYocPqRA.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2001-04-05",
+      "episodeCount": 6,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/6v9EIhmgXelMLw8PTJBBIbWfWOi.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2001-11-08",
+      "episodeCount": 6,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/jbVtUrVBHbaiplbHyj4qMQI8DIa.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2002-03-14",
+      "episodeCount": 8,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": "/q0dkNYa87OZmSm5nHCqzsR4A3SX.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2002-09-05",
+      "episodeCount": 9,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": "/5zoAd6fnlQFr86bVp8eU0YDrbS2.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2003-03-13",
+      "episodeCount": 5,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": "/uJRS0P9j347BAbaVESkU6fuYK4n.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2003-09-11",
+      "episodeCount": 9,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": "/kaa9md8HAz5eodcOrkt3m0zHHrB.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2004-03-18",
+      "episodeCount": 9,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": "/f8SS4ME4Ih8tHyI2zZJa416EJXF.jpg",
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2004-09-09",
+      "episodeCount": 10,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": "/4ggygJTmUKBIeLRarhn2yrkpVJk.jpg",
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2005-02-10",
+      "episodeCount": 8,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": "/eGD7g9DRJqwFaTYgSEbw4DSXeIp.jpg",
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2005-09-15",
+      "episodeCount": 5,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": "/wCW9HOcEgVCWaFliwUJfENPcrW9.jpg",
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2006-03-30",
+      "episodeCount": 7,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": "/1H0CVjtmZ5i9hg33UK7HyCGuEay.jpg",
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2006-09-07",
+      "episodeCount": 12,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": "/6wwAFvZaTxWFpdrEfSko4OiA7Qw.jpg",
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2007-03-22",
+      "episodeCount": 8,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": "/6wwAFvZaTxWFpdrEfSko4OiA7Qw.jpg",
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2007-09-20",
+      "episodeCount": 7,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": "/monFugjpQISFZ3ymZWoudWaY52U.jpg",
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2008-03-13",
+      "episodeCount": 7,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": "/p4VlL8LBJIq5Pqi0l23VPliI9T0.jpg",
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2008-09-04",
+      "episodeCount": 9,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": "/dgjCHb9z8rXPBodhQfDjPNmajJc.jpg",
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2009-03-05",
+      "episodeCount": 6,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": "/tGrLV2PUo5I22CJK8OAgd19VIoP.jpg",
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "2009-09-03",
+      "episodeCount": 9,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": "/4dh0JxiHsRYCI6f4AJuegbEQTLS.jpg",
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "2010-03-11",
+      "episodeCount": 6,
+      "name": "Season 27",
+      "overview": "",
+      "posterPath": "/4dh0JxiHsRYCI6f4AJuegbEQTLS.jpg",
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "2010-09-02",
+      "episodeCount": 7,
+      "name": "Season 28",
+      "overview": "",
+      "posterPath": "/c9PYbMD5Uz9BGZ1zMjxqhOGRZlh.jpg",
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "2011-03-10",
+      "episodeCount": 6,
+      "name": "Season 29",
+      "overview": "",
+      "posterPath": "/zOnZOAMD1aVg6hB9OAXX51RNY4C.jpg",
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "2011-09-15",
+      "episodeCount": 9,
+      "name": "Season 30",
+      "overview": "",
+      "posterPath": "/hJ2iz1zVb7RgbkUpc3LhSmnAQep.jpg",
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "2012-03-08",
+      "episodeCount": 7,
+      "name": "Season 31",
+      "overview": "",
+      "posterPath": "/k3glFr8So7MFDQ0NoXm04FBMzwZ.jpg",
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "2012-09-06",
+      "episodeCount": 5,
+      "name": "Season 32",
+      "overview": "",
+      "posterPath": "/vgdcUs2Vyh0DOP8XFiBL2GAhxMV.jpg",
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "2013-02-14",
+      "episodeCount": 10,
+      "name": "Season 33",
+      "overview": "",
+      "posterPath": "/vfIjUdPo6z0bHaXYwqmMndqvqRQ.jpg",
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "2013-10-24",
+      "episodeCount": 7,
+      "name": "Season 34",
+      "overview": "",
+      "posterPath": "/am2tX0wY57bMjFvoaX1zQdhykzb.jpg",
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "2014-03-27",
+      "episodeCount": 7,
+      "name": "Season 35",
+      "overview": "",
+      "posterPath": "/xq7bdXzPfTg0eML1BP3qUoQkQRV.jpg",
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "2014-10-09",
+      "episodeCount": 7,
+      "name": "Season 36",
+      "overview": "",
+      "posterPath": "/bgwJ2vxRmy8T619sRMbgh7Q4vIr.jpg",
+      "seasonNumber": 36
+    },
+    {
+      "airDate": "2015-03-12",
+      "episodeCount": 8,
+      "name": "Season 37",
+      "overview": "",
+      "posterPath": "/50jCX0vvxJRs0k6eNKcm5Je8QX6.jpg",
+      "seasonNumber": 37
+    },
+    {
+      "airDate": "2015-09-10",
+      "episodeCount": 9,
+      "name": "Season 38",
+      "overview": "",
+      "posterPath": "/1oDu2PAjaih7OuckCx6SnKXq47Q.jpg",
+      "seasonNumber": 38
+    },
+    {
+      "airDate": "2016-04-07",
+      "episodeCount": 7,
+      "name": "Season 39",
+      "overview": "",
+      "posterPath": "/kdz7xN7VPRcqtvwLmYYOj7lZawM.jpg",
+      "seasonNumber": 39
+    },
+    {
+      "airDate": "2016-09-01",
+      "episodeCount": 12,
+      "name": "Season 40",
+      "overview": "Cars explode after refuelling at a Pro-oil Service Station. Highway patrolman Andre Fux discovers that a dangerous criminal is blackmailing the oil company by adding a highly explosive substance to the fuel.",
+      "posterPath": "/pgm6AxRMPowDFwghuDewSevUG6z.jpg",
+      "seasonNumber": 40
+    },
+    {
+      "airDate": "2017-04-06",
+      "episodeCount": 7,
+      "name": "Season 41",
+      "overview": "",
+      "posterPath": "/aptGgHoTR1hTooQR7R4Cyg3OIQp.jpg",
+      "seasonNumber": 41
+    },
+    {
+      "airDate": "2017-09-14",
+      "episodeCount": 13,
+      "name": "Season 42",
+      "overview": "",
+      "posterPath": "/s1XrCoKQS1KPpvnNu09fmfxcIcJ.jpg",
+      "seasonNumber": 42
+    },
+    {
+      "airDate": "2018-03-29",
+      "episodeCount": 6,
+      "name": "Season 43",
+      "overview": "",
+      "posterPath": "/85Ii5iaWepMqwOMThG3mVMl23xx.jpg",
+      "seasonNumber": 43
+    },
+    {
+      "airDate": "2018-09-13",
+      "episodeCount": 11,
+      "name": "Season 44",
+      "overview": "",
+      "posterPath": "/66NQ6pVmFlW5mjMsmLeDZx0F72O.jpg",
+      "seasonNumber": 44
+    },
+    {
+      "airDate": "2019-03-21",
+      "episodeCount": 7,
+      "name": "Season 45",
+      "overview": "",
+      "posterPath": "/mxv2cm1zr94KeMBep4lfmMn9imf.jpg",
+      "seasonNumber": 45
+    },
+    {
+      "airDate": "2019-09-12",
+      "episodeCount": 10,
+      "name": "Season 46",
+      "overview": "",
+      "posterPath": "/znrAdLyHQMXl8g4wPOPc87nOU3b.jpg",
+      "seasonNumber": 46
+    },
+    {
+      "airDate": "2020-08-20",
+      "episodeCount": 6,
+      "name": "Season 47",
+      "overview": "",
+      "posterPath": "/ePlMVYtimyrzl7YqKcGVHFvoTDl.jpg",
+      "seasonNumber": 47
+    },
+    {
+      "airDate": "2021-07-29",
+      "episodeCount": 8,
+      "name": "Season 48",
+      "overview": "",
+      "posterPath": "/si1k99gZopEzOsF28eeHRn2hxV3.jpg",
+      "seasonNumber": 48
+    },
+    {
+      "airDate": "2022-10-20",
+      "episodeCount": 3,
+      "name": "Season 49",
+      "overview": "",
+      "posterPath": "/yg9iDi5mPwP0OKPO5EdJ2ctQGwM.jpg",
+      "seasonNumber": 49
+    },
+    {
+      "airDate": "2025-01-08",
+      "episodeCount": 6,
+      "name": "Season 50",
+      "overview": "",
+      "posterPath": "/ooWnXzEi7lOqFNOT8om9OlCs7gD.jpg",
+      "seasonNumber": 50
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Alarm for Cobra 11: The Motorway Police",
+  "translations": {
+    "faTitle": "هشدار برای کبری ۱۱"
+  },
+  "type": "tv",
+  "videos": [],
+  "voteCount": 140,
+  "watchProviders": {}
+}

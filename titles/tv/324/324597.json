@@ -1,0 +1,105 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2028-11-22",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2028-11-22",
+        "episodeNumber": 1,
+        "name": "Here We Go Again…",
+        "overview": "House’s quiet life in rural Canada is disrupted when an unexpected letter arrives from the United States.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793504874718,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 324597,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2028-11-22",
+    "episodeNumber": 1,
+    "id": 7351011,
+    "name": "Here We Go Again…",
+    "overview": "House’s quiet life in rural Canada is disrupted when an unexpected letter arrives from the United States.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "House: New Vicodin",
+  "overview": "Fifteen years after faking his death, Dr. Gregory House lives in isolation under a false identity in rural Canada. Haunted by memories of his past and visions of his late friend James Wilson, House’s carefully constructed life begins to unravel when a mysterious letter arrives from the United States.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2028-11-22",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2028-11-22",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2028-11-22",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2028-11-22",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2028-11-22"
+    },
+    "CN": {
+      "tv": "2028-11-22"
+    },
+    "GB": {
+      "tv": "2028-11-22"
+    },
+    "US": {
+      "tv": "2028-11-22"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2028-11-22",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "House: New Vicodin",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

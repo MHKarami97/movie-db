@@ -1,0 +1,233 @@
+{
+  "backdropPath": "/w57nxiBIODAYHLRs1xmrCY9zEFe.jpg",
+  "cast": [
+    {
+      "character": "Berme / Mayakara",
+      "id": 1752058,
+      "name": "Rishab Shetty",
+      "profilePath": "/eRaOUg2B02XH1l6P4juGzaPDr3u.jpg"
+    },
+    {
+      "character": "Princess Kanakavathi",
+      "id": 2252714,
+      "name": "Rukmini Vasanth",
+      "profilePath": "/4LERfXpxgdAXwxixYOCPWFeQ800.jpg"
+    },
+    {
+      "character": "King Rajashekara",
+      "id": 141704,
+      "name": "Jayaram",
+      "profilePath": "/cc1SfVFctuYH353NgxXNBoAFX2d.jpg"
+    },
+    {
+      "character": "Prince Kulashekara",
+      "id": 1047711,
+      "name": "Gulshan Devaiah",
+      "profilePath": "/6fOS4P9KiPFvIuLyvIUfMyXiF29.jpg"
+    },
+    {
+      "character": "Rajamatha Rajalakshmi",
+      "id": 5787008,
+      "name": "Ramitha Shailendra",
+      "profilePath": null
+    },
+    {
+      "character": "Bhogendra",
+      "id": 1752069,
+      "name": "Pramod Shetty",
+      "profilePath": "/86EdpeMO9V7tQt1tgIk3MpnKSTH.jpg"
+    },
+    {
+      "character": "Booba",
+      "id": 3471891,
+      "name": "Naveen D. Padil",
+      "profilePath": null
+    },
+    {
+      "character": "Peppe",
+      "id": 5577200,
+      "name": "Rakesh Poojari",
+      "profilePath": null
+    },
+    {
+      "character": "Chenna",
+      "id": 2116059,
+      "name": "Prakash Thuminad",
+      "profilePath": "/ujBnBxV2UQGufTkQTlf05qFzx5l.jpg"
+    },
+    {
+      "character": "Sankappa",
+      "id": 3026625,
+      "name": "Deepak Rai Panaje",
+      "profilePath": "/sKDSBchwG85XdhUulFzDVsxopIz.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 111627,
+      "logoPath": "/ldpgYauK9FMNsbOSSxSSl63o3mb.png",
+      "name": "Hombale Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2025-10-31",
+  "externalIds": {
+    "imdbId": "tt26439764",
+    "wikidataId": "Q122021056"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 28,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "id": 1083637,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "kn",
+      "name": "Kannada"
+    }
+  ],
+  "originalTitle": "ಕಾಂತಾರ: ಅಧ್ಯಾಯ - ೧",
+  "overview": "While exploring Kantara's mystical forest, Bangra's King Vijayendra dies during the Kadamba reign. Rajashekara seals their realm. Prince Kulashekara massacres to reopen it. Berme, seeking wealth, crosses the divide.",
+  "posterPath": "/ehQPboTPaIMkMUOoNOh8e7pZ5Rp.jpg",
+  "rating": 7.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-10-02"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-10-03"
+    },
+    "US": {
+      "digitalDate": "2025-10-31",
+      "gapDays": 28,
+      "theatricalDate": "2025-10-03"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2025-10-02"
+    },
+    "GB": {
+      "theatrical": "2025-10-03"
+    },
+    "US": {
+      "digital": "2025-10-31",
+      "theatrical": "2025-10-03"
+    }
+  },
+  "runtime": 165,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2025-10-03",
+  "title": "Kantara - A Legend: Chapter 1",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "TMQUFhWm8C0",
+      "name": "Official Trailer [ENG SUB]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "aopemV_lclI",
+      "name": "It's a Wrap",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "Frp0zC4643U",
+      "name": "First Look Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 106,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 119,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1083637/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1083637/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1083637/watch?locale=US",
+      "rent": []
+    }
+  }
+}

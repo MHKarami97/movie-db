@@ -1,0 +1,166 @@
+{
+  "backdropPath": "/ApGvX0blnHw1cAaL2QRBlJn7hUR.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 2977307,
+      "name": "Oh Eun-yeong",
+      "profilePath": "/eIxcqSAj6RxnTOqeZVyGbLF9HZc.jpg"
+    },
+    {
+      "character": "",
+      "id": 1210278,
+      "name": "Shin Ae-ra",
+      "profilePath": "/48i59oHge4yUvdE7XVMn8ni7ARX.jpg"
+    },
+    {
+      "character": "",
+      "id": 1547167,
+      "name": "Jeong Hyeong-don",
+      "profilePath": "/9L4RG3cujCgTHjtDhFAG88gZiOX.jpg"
+    },
+    {
+      "character": "",
+      "id": 1235050,
+      "name": "Jang Young-ran",
+      "profilePath": "/iyYYL0xnpT1Yg2szse9OY5xq2WR.jpg"
+    },
+    {
+      "character": "",
+      "id": 2428701,
+      "name": "Hong Hyun-hee",
+      "profilePath": "/vFZeztMzl9SkXM4kx2hW7BoEtuA.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 117743,
+      "logoPath": "/ir6DMooksD7cAwNk7R49QCkdzmB.png",
+      "name": "Urban Works"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": "2020-05-29",
+  "externalIds": {
+    "imdbId": "tt30797088",
+    "wikidataId": "Q97224206"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 111798,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-06-26",
+    "episodeNumber": 287,
+    "id": 7930706,
+    "name": "Episode 287",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "요즘 육아 금쪽같은 내새끼",
+  "overview": "Parenting's not an easy job, and every child is different. Experts provide tips and coaching for struggling parents in search of solutions.",
+  "posterPath": "/iq7VSsoyJCZZstCiM7Vw5GdXbEB.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2020-05-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2020-05-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2020-05-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2020-05-29",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2020-05-29"
+    },
+    "CN": {
+      "tv": "2020-05-29"
+    },
+    "GB": {
+      "tv": "2020-05-29"
+    },
+    "US": {
+      "tv": "2020-05-29"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2020-08-28",
+      "episodeCount": 4,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/hXtfmh1fF31q6pKkzHaPbps47ZB.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2020-05-29",
+      "episodeCount": 287,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/1QVMl6jSnSbH7o0SJy9w87HLr8J.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "My Golden Kids",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 6,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 575,
+          "logoPath": "/t4tushezwJkXCposaC73oZTwF5a.png",
+          "name": "OnDemandKorea"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/111798/watch?locale=US",
+      "rent": []
+    }
+  }
+}

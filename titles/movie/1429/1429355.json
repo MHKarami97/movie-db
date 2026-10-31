@@ -1,0 +1,141 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Vincent",
+      "id": 1660839,
+      "name": "Anthony Bajon",
+      "profilePath": "/eHpGmQtj4oRHQ3jn9tngWdb6Z9T.jpg"
+    },
+    {
+      "character": "Gaby",
+      "id": 45152,
+      "name": "Olivier Gourmet",
+      "profilePath": "/dxylGdqFfe6WiXaZGZnFTfvyyZm.jpg"
+    },
+    {
+      "character": "",
+      "id": 5227024,
+      "name": "Ella Benoit",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 79551,
+      "name": "François Créton",
+      "profilePath": "/MZqRzRqflgE6rGW1F9SH2DyYCz.jpg"
+    },
+    {
+      "character": "",
+      "id": 6540379,
+      "name": "Redwane Rajel",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 1497,
+      "logoPath": null,
+      "name": "Marianne Productions"
+    },
+    {
+      "id": 313,
+      "logoPath": "/rx5CT9wUnEz0AcdpcX9epujv7nw.png",
+      "name": "TS Productions"
+    },
+    {
+      "id": 109756,
+      "logoPath": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+      "name": "Auvergne-Rhône-Alpes Cinéma"
+    },
+    {
+      "id": 1926,
+      "logoPath": "/eSnbNBmDyok9rcpWxYRaBjTaq1n.png",
+      "name": "Les Films du Fleuve"
+    },
+    {
+      "id": 24430,
+      "logoPath": "/7ZIwXTA5QVD6feybiITOL6OYJPJ.png",
+      "name": "BeTV"
+    },
+    {
+      "id": 92187,
+      "logoPath": "/yrAyYme1zlZtHuhlWS3DlFAj762.png",
+      "name": "Proximus"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1429355,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Beaux Seigneurs",
+  "overview": "Vincent, a slightly depressed thirty-something, feels that the company owes him some damages for moral prejudice. So he decides to become an armored car robber. His plan is clever, his cause is noble, and love is on his side. But in choosing the disconcerting Gaby Rocket as his accomplice, hasn't Vincent made a mistake?",
+  "posterPath": "/xnnXyFOGz37o261vxtkxHu3sbgA.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Beaux Seigneurs",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

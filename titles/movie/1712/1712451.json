@@ -1,0 +1,198 @@
+{
+  "backdropPath": "/yKx5gYrYgakKZuUWAsuFDStBroy.jpg",
+  "cast": [
+    {
+      "character": "Joe",
+      "id": 1387577,
+      "name": "John Wells",
+      "profilePath": "/udDheh1OOGggBFQm56N5QSdrc6q.jpg"
+    },
+    {
+      "character": "Ashley",
+      "id": 4158959,
+      "name": "Isabel Ramirez",
+      "profilePath": "/wVyHo6XE3o3QbeiftOF0bgIfhcU.jpg"
+    },
+    {
+      "character": "Dawn",
+      "id": 5337173,
+      "name": "Thandiwe McMillan",
+      "profilePath": "/mr5BEL2guLAYOuXJyreNziKtwfV.jpg"
+    },
+    {
+      "character": "Wilt",
+      "id": 1637322,
+      "name": "Hamid-Reza Benjamin Thompson",
+      "profilePath": "/rOBcfuKyRp2mA6cAAOvxz8rfLIi.jpg"
+    },
+    {
+      "character": "Sal",
+      "id": 5699751,
+      "name": "Jarod Brock",
+      "profilePath": "/iBnnLpaOEuKeLGkIfqz8S2xXH7A.jpg"
+    },
+    {
+      "character": "Zack",
+      "id": 3329957,
+      "name": "Sai Piña",
+      "profilePath": "/8ZShtSAxpHuJvThPlyG082k9VAI.jpg"
+    },
+    {
+      "character": "Gino",
+      "id": 6255081,
+      "name": "Chase Breithoff",
+      "profilePath": "/h8ULWW0i09Tr3Bi8ex34RUAXIbY.jpg"
+    },
+    {
+      "character": "Ned",
+      "id": 2483993,
+      "name": "Rob Eubanks",
+      "profilePath": "/igeQXcD0pV38QM2ln8Obeu8DRaL.jpg"
+    },
+    {
+      "character": "Manny",
+      "id": 6457278,
+      "name": "Tevin Paul",
+      "profilePath": "/rYaoblRidaFQw5ibj5mFRiVnuq5.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1311,
+      "logoPath": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-09-04",
+  "externalIds": {
+    "imdbId": "tt43640339"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1712451,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Resident Dead",
+  "overview": "A man keeping his recently zombified daughter secure in hopes of a cure is tasked with delivering an unknown package through hordes of undead. If he succeeds, he will be given a cure for his daughter. If he fails, or opens the package, they will both be killed.",
+  "posterPath": "/qKhMVWwFikSUzOpkhOl35GBLkGH.jpg",
+  "rating": 5.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-04",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-09-04"
+    }
+  },
+  "runtime": 89,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "You're next",
+  "theatricalDate": null,
+  "title": "Resident Dead",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "M1vupS1Tzfg",
+      "name": "RESIDENT DEAD || Official Trailer || The Asylum Movie Channel",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 71,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1712451-resident-dead/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

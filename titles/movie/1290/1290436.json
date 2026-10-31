@@ -1,0 +1,163 @@
+{
+  "backdropPath": "/zhnMS3Adt7w6uliwE5hpAEfhpcT.jpg",
+  "cast": [
+    {
+      "character": "Djeneba",
+      "id": 3087045,
+      "name": "Fanta Kebe",
+      "profilePath": "/3tPen5FuToBOIuWDaHMzgn26Zyu.jpg"
+    },
+    {
+      "character": "Shaï",
+      "id": 1919818,
+      "name": "Shirel Nataf",
+      "profilePath": "/31obQ1SRilneu1ZYPE8T6c6N5JA.jpg"
+    },
+    {
+      "character": "Sabrina",
+      "id": 1184762,
+      "name": "Amel Bent",
+      "profilePath": "/vf4qxq1OnziQhXXJFW7EnEldIt4.jpg"
+    },
+    {
+      "character": "Youssef",
+      "id": 2024090,
+      "name": "Idir Azougli",
+      "profilePath": "/Ai6dsG4qtbUsXDEXx0Yd0Y7llpb.jpg"
+    },
+    {
+      "character": "Naël",
+      "id": 2267389,
+      "name": "Yuming Hey",
+      "profilePath": "/3GQHtJZcd9d1BI7cJNnXuASDWRM.jpg"
+    },
+    {
+      "character": "Bérangère",
+      "id": 2463404,
+      "name": "Suzanne de Baecque",
+      "profilePath": "/uWVYkNntGMjUZOImfY1oM8EzX7q.jpg"
+    },
+    {
+      "character": "Ismaël",
+      "id": 3604974,
+      "name": "Zakaria-Tayeb Lazab",
+      "profilePath": "/iNmeF6so3BiEpEJ2gxpr9tiA12r.jpg"
+    },
+    {
+      "character": "Aladi",
+      "id": 3779098,
+      "name": "Mouctar Diawara",
+      "profilePath": "/8obO7YW6edaT6hOUSEDRtLtgfKj.jpg"
+    },
+    {
+      "character": "Mateo",
+      "id": 1681241,
+      "name": "Nikola Bulatović",
+      "profilePath": "/A7XOyeLpBfWpD96v7NKHlUM1D3t.jpg"
+    },
+    {
+      "character": "Sékou",
+      "id": 5859213,
+      "name": "Mohamed Dramé",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 118379,
+      "logoPath": "/yhAnHBjK8Yu1qwjz6MWUh7IoLjA.png",
+      "name": "Superstructure"
+    },
+    {
+      "id": 109756,
+      "logoPath": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+      "name": "Auvergne-Rhône-Alpes Cinéma"
+    },
+    {
+      "id": 591,
+      "logoPath": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma"
+    },
+    {
+      "id": 694,
+      "logoPath": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36856791",
+    "wikidataId": "Q137661673"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1290436,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Ma frère",
+  "overview": "From the tower blocks of Paris to the countryside of the Drôme region, Shaï and Djeneba lead summer camp activities while grappling with growing up and growing apart.",
+  "posterPath": "/2Sfvl3ZgSoGPxBxOiAGoIaOsG97.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-03-29"
+    }
+  },
+  "runtime": 112,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Summer Beats",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "SG5nmdcUAI0",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 63,
+  "watchProviders": {}
+}

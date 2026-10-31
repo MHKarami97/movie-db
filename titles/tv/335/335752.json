@@ -1,0 +1,117 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "1929-05-23",
+  "episodes": {
+    "2": []
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 335752,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": {
+    "airDate": "2026-03-15",
+    "episodeNumber": 98,
+    "id": 7823891,
+    "name": "Episode 98",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-03-15",
+    "episodeNumber": 99,
+    "id": 7823893,
+    "name": "Episode 99",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Academy Awards (The Oscars)",
+  "overview": "",
+  "posterPath": "/lmM8AgA3qFqWiEUViq5u5tRdNm.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1929-05-23",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1929-05-23",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1929-05-23",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1929-05-23",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1929-05-23"
+    },
+    "CN": {
+      "tv": "1929-05-23"
+    },
+    "GB": {
+      "tv": "1929-05-23"
+    },
+    "US": {
+      "tv": "1929-05-23"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "1929-05-23",
+      "episodeCount": 100,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Academy Awards (The Oscars)",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/335752-academy-awards-the-oscars/watch?locale=US",
+      "rent": []
+    }
+  }
+}

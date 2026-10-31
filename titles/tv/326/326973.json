@@ -1,0 +1,221 @@
+{
+  "backdropPath": "/aWqDSlJJgw3SJNwEWjC5Lo9z7lT.jpg",
+  "cast": [
+    {
+      "character": "Chat",
+      "id": 4468620,
+      "name": "Chatchai Peangapichart",
+      "profilePath": "/odai3NZi5Zp0M2QlvXt6QcVDfUZ.jpg"
+    },
+    {
+      "character": "Choi Seung-woo",
+      "id": 5089504,
+      "name": "Choi Seung-ho",
+      "profilePath": "/w8gpn9YxPFLC2NhS6kg9PUrLRbQ.jpg"
+    },
+    {
+      "character": "Nung",
+      "id": 6331803,
+      "name": "Surathin Ngamcharoen",
+      "profilePath": "/oF5SYxL6vTLz2RtxjPmnD7N31yC.jpg"
+    },
+    {
+      "character": "Jeno",
+      "id": 5679501,
+      "name": "Wachirakiat Jaipa",
+      "profilePath": "/3Sti93Hagzer0wX1GWl5Y8gjqcs.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 303131,
+      "logoPath": null,
+      "name": "One by Chat Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "digitalDate": "2026-11-03",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-11-03",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-10",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-17",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-24",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-01",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-08",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-15",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-22",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-29",
+        "episodeNumber": 9,
+        "name": "Episode 9",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-05",
+        "episodeNumber": 10,
+        "name": "Episode 10",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "instagramId": "thelastlockoflove",
+    "twitterId": "Onebychatent"
+  },
+  "fetchedAt": 1793654174010,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 326973,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "th",
+      "name": "Thai"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-03",
+    "episodeNumber": 1,
+    "id": 7445221,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "ล็อกสุดท้ายคือนายคนเดียว",
+  "overview": "",
+  "posterPath": "/wRYNRMjF0ROjcBM6MFFLsIrHEVN.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-11-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-11-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-11-03"
+    },
+    "CN": {
+      "tv": "2026-11-03"
+    },
+    "GB": {
+      "tv": "2026-11-03"
+    },
+    "US": {
+      "tv": "2026-11-03"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-11-03",
+      "episodeCount": 10,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/wRYNRMjF0ROjcBM6MFFLsIrHEVN.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Last Lock of Love",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

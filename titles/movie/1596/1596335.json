@@ -1,0 +1,293 @@
+{
+  "backdropPath": "/lIvkPPTAHBpKhifdczZH0s8eozB.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1932822,
+      "name": "Daniel Roher",
+      "profilePath": "/A8A1kXh8X2yPDJcgBZpE1tV7zu3.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 4940638,
+      "name": "Sam Altman",
+      "profilePath": "/3wRy0ZZjhx7e5GzVfD2KQMXzz0g.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6101018,
+      "name": "Daniela Amodei",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6101019,
+      "name": "Dario Amodei",
+      "profilePath": "/yPw38l6LwPAt7ofasZX4RLWO3ih.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6101023,
+      "name": "Emily M. Bender",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 1770218,
+      "name": "Yoshua Bengio",
+      "profilePath": "/lySPB4cteuFfAT7JDy6zckvH2RO.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2483271,
+      "name": "Liv Boeree",
+      "profilePath": "/sGkPvJn6KSIL9FAFHCQrNUBuKrd.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6101024,
+      "name": "Ajeya Cotra",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 1048457,
+      "name": "Peter Diamandis",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6101025,
+      "name": "Randima Fernando",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 266397,
+      "logoPath": null,
+      "name": "Playgrounds"
+    },
+    {
+      "id": 168685,
+      "logoPath": "/11AfwHV7feDZ63YWwee6kcuhIgY.png",
+      "name": "Cottage M"
+    },
+    {
+      "id": 121323,
+      "logoPath": "/w939ghT33EEXuyNfJeqxRXWkC0h.png",
+      "name": "Fishbowl Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "digitalDate": "2026-04-14",
+  "externalIds": {
+    "imdbId": "tt39150120",
+    "twitterId": "theaidocfilm",
+    "wikidataId": "Q137374693"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 18,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1596335,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The AI Doc: Or How I Became an Apocaloptimist",
+  "overview": "A father-to-be tries to figure out what is happening with all this AI insanity, and explores the most powerful technology humanity has ever created... and what's at stake if we get it wrong.",
+  "posterPath": "/A610QT1gWjhJ1dJrXP9qMm4JMLr.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-14",
+      "gapDays": 18,
+      "theatricalDate": "2026-03-27"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-04-14",
+      "premiere": "2026-01-27",
+      "theatrical": "2026-03-27"
+    }
+  },
+  "runtime": 105,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The future is not automatic.",
+  "theatricalDate": "2026-03-27",
+  "title": "The AI Doc: Or How I Became an Apocaloptimist",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "ESBvPEoxrX0",
+      "name": "AFI Alum Diane Becker on THE AI DOC: OR HOW I BECAME AN APOCALOPTIMIST",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "WzuNsdRn2NI",
+      "name": "\"CEOs\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "kYaFdblg7Fw",
+      "name": "\"Experiment\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "xkPbV3IRe4Y",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 41,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1596335-the-ai-doc-or-how-i-became-an-apocaloptimist/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1596335-the-ai-doc-or-how-i-became-an-apocaloptimist/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 386,
+          "logoPath": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+          "name": "Peacock Premium"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1596335-the-ai-doc-or-how-i-became-an-apocaloptimist/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

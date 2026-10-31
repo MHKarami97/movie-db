@@ -1,0 +1,228 @@
+{
+  "backdropPath": "/zRHYYq5BQG4XdRjzSOonbZlmWkl.jpg",
+  "cast": [
+    {
+      "character": "Orhan",
+      "id": 1676372,
+      "name": "Adnan Koç",
+      "profilePath": "/pfdCNkfcRAauJRLT3s9N5imeb9j.jpg"
+    },
+    {
+      "character": "",
+      "id": 3775805,
+      "name": "Özenç Eren Yelçi",
+      "profilePath": "/9Wj9LrEXSg2zkrIobI0vDFbLV6h.jpg"
+    },
+    {
+      "character": "",
+      "id": 2237920,
+      "name": "Burcu Almeman",
+      "profilePath": "/t9UxRvtVrWAAUDOsfr3MFOxffYL.jpg"
+    },
+    {
+      "character": "",
+      "id": 3621541,
+      "name": "Nusret Şenay",
+      "profilePath": "/7SCfnqwbTCwg1d7UwodQRAwVuil.jpg"
+    },
+    {
+      "character": "",
+      "id": 2889560,
+      "name": "Ebru Soyuerden",
+      "profilePath": "/bILDaG46b8fLeNPDSkvU2zI06U.jpg"
+    },
+    {
+      "character": "Deniz",
+      "id": 6594509,
+      "name": "Zeynep Özyalçın",
+      "profilePath": "/8M84zDGPo8NDN7R32HZy2mWXW3r.jpg"
+    },
+    {
+      "character": "",
+      "id": 3208348,
+      "name": "Fahrettin Avcı",
+      "profilePath": "/8zHenBgXrILTyiPAg54QvcrRguv.jpg"
+    },
+    {
+      "character": "",
+      "id": 4308560,
+      "name": "Serdar Kulmaç",
+      "profilePath": "/Gfg8pQJWw6ZGuSkXkDV0Q1761i.jpg"
+    },
+    {
+      "character": "",
+      "id": 6594510,
+      "name": "Buse Kayalı",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 3404555,
+      "name": "Oğuz Okul",
+      "profilePath": "/vwO0Anktvdanyg9rk6y2d3jW6tX.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 64155,
+      "logoPath": null,
+      "name": "Muhteşem Film"
+    }
+  ],
+  "countries": [
+    {
+      "code": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt42006709"
+  },
+  "fetchedAt": 1794424086332,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1579138,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "tr",
+      "name": "Turkish"
+    }
+  ],
+  "originalTitle": "Siccîn 9",
+  "overview": "A mother's desperate cry to protect her child awakens an ancient, forbidden spell. As a horrific murder is concealed, the buried secret festers beneath the earth, transforming into a darker force. Years later, a mysterious death resurfaces the long-hidden sin: \"The Seal of Bloodline.\"",
+  "posterPath": "/A1dxZt7rY11CAWIa3iELNq6CdqU.jpg",
+  "rating": 2.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-07-02"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-15"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-07-02"
+    },
+    "GB": {
+      "theatrical": "2026-05-15"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Horror never ends.",
+  "theatricalDate": "2026-05-15",
+  "title": "Siccîn 9",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 119,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1579138-siccin-9/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1579138-siccin-9/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1579138-siccin-9/watch?locale=US",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ]
+    }
+  }
+}

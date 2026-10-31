@@ -1,0 +1,217 @@
+{
+  "backdropPath": "/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+  "cast": [
+    {
+      "character": "Roberto",
+      "id": 2556046,
+      "name": "Carlos Alcaide",
+      "profilePath": "/rl8fxgvKu56zxf5kIMGVTX3ju7Q.jpg"
+    },
+    {
+      "character": "Marina",
+      "id": 5541656,
+      "name": "Julia Martínez",
+      "profilePath": "/jG6sbnktf5PzCLkdVAeGz3kWSH4.jpg"
+    },
+    {
+      "character": "De Luna",
+      "id": 2013170,
+      "name": "Mario Mayo",
+      "profilePath": "/xzEjSgLCkrwQ1HZ7OY6CbSNM9wM.jpg"
+    },
+    {
+      "character": "Castro",
+      "id": 67262,
+      "name": "Mónica López",
+      "profilePath": "/7Gm2h0ApsorCUJhUA8gUtxrWzMd.jpg"
+    },
+    {
+      "character": "Comillas",
+      "id": 2072194,
+      "name": "Tamara Casellas",
+      "profilePath": "/nCXGGmFP7pyNrdUtrsDUIOVjyc.jpg"
+    },
+    {
+      "character": "Core",
+      "id": 3330834,
+      "name": "Santiago Vaca Narvaja",
+      "profilePath": "/sXJgtXMQkwfno6J9BpC3V50awG1.jpg"
+    },
+    {
+      "character": "Pritchenko",
+      "id": 72128,
+      "name": "José María Yázpik",
+      "profilePath": "/GEV4PnIhxAAPxIHvsyhdLUjnSv.jpg"
+    },
+    {
+      "character": "Lucía",
+      "id": 1457340,
+      "name": "Berta Vázquez",
+      "profilePath": "/2QNOI5L03XomONmCR42GPyVYryy.jpg"
+    },
+    {
+      "character": "Guzmán",
+      "id": 1446100,
+      "name": "Pedro Hernández",
+      "profilePath": "/fCqOynLjB8pqLTxGoiGnX0yeJIV.jpg"
+    },
+    {
+      "character": "",
+      "id": 93649,
+      "name": "Javier Godino",
+      "profilePath": "/qwXxX6gKIphuCXJ2wgeROPjIdic.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 11068,
+      "logoPath": "/jOdUllzDZRFy0tPIFDEwpP4Mpv4.png",
+      "name": "Nostromo Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": "2026-10-30",
+  "externalIds": {
+    "imdbId": "tt37522541"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1507696,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Apocalipsis Z: Nuevo mundo",
+  "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+  "posterPath": "/plu8tTviVZDO5jP7nzNXsDHLu8P.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-10-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-30",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-10-30"
+    },
+    "US": {
+      "digital": "2026-10-30"
+    }
+  },
+  "runtime": 96,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Apocalypse Z: New World",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "BIEzwpyawtw",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "_SGPFqySL6c",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 22,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 119,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1507696-apocalipsis-z-nuevo-mundo/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1507696-apocalipsis-z-nuevo-mundo/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1507696-apocalipsis-z-nuevo-mundo/watch?locale=US",
+      "rent": []
+    }
+  }
+}

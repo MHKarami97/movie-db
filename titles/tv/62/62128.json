@@ -1,0 +1,586 @@
+{
+  "backdropPath": "/tTHGEYXcqNqaWqVqYfv3lH0fegU.jpg",
+  "cast": [
+    {
+      "character": "Herself - Co-Hostess",
+      "id": 1247833,
+      "name": "Sunny Anderson",
+      "profilePath": "/9Hp5YLq7NgDZlPBivrmVGdMwNJ.jpg"
+    },
+    {
+      "character": "Herself - Co-Hostess",
+      "id": 1233581,
+      "name": "Katie Lee Biegel",
+      "profilePath": "/uiCwR7GHXgdH74rwGNmg3Rqw1Vu.jpg"
+    },
+    {
+      "character": "Himself - Co-Host",
+      "id": 1435314,
+      "name": "Jeff Mauro",
+      "profilePath": "/o3QCkYWq5mG8IrclJkVLDNkYIst.jpg"
+    },
+    {
+      "character": "Herself - Co-Hostess",
+      "id": 1435315,
+      "name": "Marcela Valladolid",
+      "profilePath": "/aVt27DCGRL3mPayZ8DOTLb8YAsa.jpg"
+    },
+    {
+      "character": "Himself - Co-Host",
+      "id": 1435316,
+      "name": "Geoffrey Zakarian",
+      "profilePath": "/iSvqsD4VhsnG9fJ3GUeyeQJDUCI.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1877231,
+      "name": "Alex Guarnaschelli",
+      "profilePath": "/nqJpf1otkgT4P0tBNOMfNZZ1ZhX.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 47902,
+      "logoPath": null,
+      "name": "BSTV Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2014-01-04",
+  "externalIds": {
+    "imdbId": "tt3475084",
+    "wikidataId": "Q16998461"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 62128,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-12-13",
+    "episodeNumber": 13,
+    "id": 6744427,
+    "name": "Up Your Brunch Game",
+    "overview": "The Kitchen is sharing recipes to take brunch to the next level! Katie Lee Biegel's Frozen Pistachio Latte and Jeff Mauro's Dubai Pistachio Cheesecake Coffee Cake are a match made in brunch heaven. Then, Geoffrey Zakarian's Crabcake Eggs Benedict and Sunny Anderson's Easy Huevos Rancheros Stuffed Peppers are sure to be the stars of any brunch spread. Finally, Alex Guarnaschelli's Fluffy Pancakes Suzette Style with Raspberry and Orange are the perfect sweet ending.",
+    "seasonNumber": 40
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "The Kitchen",
+  "overview": "Spend a fun and food-filled morning in The Kitchen with hosts Sunny Anderson, Katie Lee, Jeff Mauro, Marcela Valladolid, and Geoffrey Zakarian. From simple supper ideas, food trend discussions, and family meal tips to trivia games and viewer questions, they'll cover all things fun in food.",
+  "posterPath": "/G2PN9AnF4DqQVenuFabUqtW4hS.jpg",
+  "rating": 4.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2014-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2014-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2014-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2014-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2014-01-04"
+    },
+    "CN": {
+      "tv": "2014-01-04"
+    },
+    "GB": {
+      "tv": "2014-01-04"
+    },
+    "US": {
+      "tv": "2014-01-04"
+    }
+  },
+  "runtime": 60,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2014-01-04",
+      "episodeCount": 13,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/owSUvPEt1OuV6hgm0khGluluRKT.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2014-04-19",
+      "episodeCount": 13,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/owSUvPEt1OuV6hgm0khGluluRKT.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2014-07-19",
+      "episodeCount": 13,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/owSUvPEt1OuV6hgm0khGluluRKT.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2014-10-25",
+      "episodeCount": 13,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/owSUvPEt1OuV6hgm0khGluluRKT.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2015-02-07",
+      "episodeCount": 13,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/owSUvPEt1OuV6hgm0khGluluRKT.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2015-05-09",
+      "episodeCount": 13,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/owSUvPEt1OuV6hgm0khGluluRKT.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2015-08-29",
+      "episodeCount": 13,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/owSUvPEt1OuV6hgm0khGluluRKT.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2015-11-28",
+      "episodeCount": 13,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2016-03-05",
+      "episodeCount": 13,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2016-06-04",
+      "episodeCount": 13,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2016-09-24",
+      "episodeCount": 13,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2017-01-07",
+      "episodeCount": 13,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2017-04-08",
+      "episodeCount": 13,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2017-07-08",
+      "episodeCount": 13,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2017-10-14",
+      "episodeCount": 13,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2018-01-27",
+      "episodeCount": 13,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2018-04-28",
+      "episodeCount": 13,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2018-07-28",
+      "episodeCount": 13,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2018-10-27",
+      "episodeCount": 13,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2019-02-09",
+      "episodeCount": 17,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2019-05-11",
+      "episodeCount": 13,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2019-08-10",
+      "episodeCount": 13,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2019-11-09",
+      "episodeCount": 13,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2020-02-22",
+      "episodeCount": 13,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2020-06-27",
+      "episodeCount": 13,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "2020-10-10",
+      "episodeCount": 12,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "2021-01-02",
+      "episodeCount": 13,
+      "name": "Season 27",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "2021-04-03",
+      "episodeCount": 13,
+      "name": "Season 28",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "2021-08-28",
+      "episodeCount": 20,
+      "name": "Season 29",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "2022-02-05",
+      "episodeCount": 13,
+      "name": "Season 30",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "2022-06-18",
+      "episodeCount": 13,
+      "name": "Season 31",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "2022-08-06",
+      "episodeCount": 21,
+      "name": "Season 32",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "2023-01-21",
+      "episodeCount": 14,
+      "name": "Season 33",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "2023-05-20",
+      "episodeCount": 16,
+      "name": "Season 34",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "2023-10-28",
+      "episodeCount": 9,
+      "name": "Season 35",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "2024-02-03",
+      "episodeCount": 13,
+      "name": "Season 36",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 36
+    },
+    {
+      "airDate": "2024-06-01",
+      "episodeCount": 15,
+      "name": "Season 37",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 37
+    },
+    {
+      "airDate": "2024-12-14",
+      "episodeCount": 13,
+      "name": "Season 38",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 38
+    },
+    {
+      "airDate": "2025-04-05",
+      "episodeCount": 13,
+      "name": "Season 39",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 39
+    },
+    {
+      "airDate": "2025-08-16",
+      "episodeCount": 13,
+      "name": "Season 40",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 40
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Kitchen",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 16,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/62128-the-kitchen/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        },
+        {
+          "id": 300,
+          "logoPath": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+          "name": "Pluto TV"
+        },
+        {
+          "id": 366,
+          "logoPath": "/f7gabf56gh4RpycLQxbzJTbwA8T.png",
+          "name": "Food Network"
+        },
+        {
+          "id": 1875,
+          "logoPath": "/erEYCN3EGN4yzcRvix2DunZLxHE.png",
+          "name": "Runtime"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 584,
+          "logoPath": "/52htht83nlt2aAobIug88TeiWvO.png",
+          "name": "Discovery+ Amazon Channel"
+        },
+        {
+          "id": 2528,
+          "logoPath": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+          "name": "YouTube TV"
+        },
+        {
+          "id": 366,
+          "logoPath": "/f7gabf56gh4RpycLQxbzJTbwA8T.png",
+          "name": "Food Network"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        },
+        {
+          "id": 520,
+          "logoPath": "/tHseJEgZaUdVlLtBpOGmKPfzbQ8.png",
+          "name": "Discovery +"
+        },
+        {
+          "id": 2393,
+          "logoPath": "/dZFkx0NAwRFuDjkbf1I2i7cM6mp.png",
+          "name": "Cocina ON Amazon Channel"
+        }
+      ],
+      "free": [
+        {
+          "id": 486,
+          "logoPath": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+          "name": "Spectrum On Demand"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/62128-the-kitchen/watch?locale=US",
+      "rent": []
+    }
+  }
+}

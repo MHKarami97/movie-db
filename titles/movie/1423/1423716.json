@@ -1,0 +1,181 @@
+{
+  "backdropPath": "/nYClIpicJksTErfsuQikACP4pVk.jpg",
+  "cast": [
+    {
+      "character": "Marie Sainz",
+      "id": 55814,
+      "name": "Marie Denarnaud",
+      "profilePath": "/98D4sB1blch3nrjeiURjhcPp4wW.jpg"
+    },
+    {
+      "character": "Claire Legende",
+      "id": 23390,
+      "name": "Sara Martins",
+      "profilePath": "/hvW2YMMkonRk3WBsBBx1pDo7dkY.jpg"
+    },
+    {
+      "character": "Tarek Hamzaoui",
+      "id": 1558158,
+      "name": "Foëd Amara",
+      "profilePath": "/vQRiS6bnYnwEsYFPXKBoqHGAbVM.jpg"
+    },
+    {
+      "character": "Magali Marciano",
+      "id": 1332479,
+      "name": "Tiphaine Daviot",
+      "profilePath": "/4O7QVChMHPwsvzUb46sfw3JkPeb.jpg"
+    },
+    {
+      "character": "Mickaël Nicoulot",
+      "id": 1580289,
+      "name": "Cédric Appietto",
+      "profilePath": "/gZmZqY1aM0yVeNiVV5HkYqqlNka.jpg"
+    },
+    {
+      "character": "Max Exposito",
+      "id": 1371906,
+      "name": "Moïse Santamaria",
+      "profilePath": "/w224ls8qq9U7gjmOpMtjGQQANNQ.jpg"
+    },
+    {
+      "character": "Olivier Bonisson",
+      "id": 2240021,
+      "name": "Etienne Diallo",
+      "profilePath": "/98B18QJSPvkg10fbDtciuyOtEVh.jpg"
+    },
+    {
+      "character": "Guillaume Lessieur",
+      "id": 1345436,
+      "name": "Pasquale D'Inca",
+      "profilePath": "/hymbrRpdfAmG22jGVB0EW16PHnU.jpg"
+    },
+    {
+      "character": "Jérôme Vanelli",
+      "id": 990066,
+      "name": "Franck Adrien",
+      "profilePath": "/jtnbSTsBAaDeUnK9WNZ6qEY8q84.jpg"
+    },
+    {
+      "character": "Colonel Lasserre",
+      "id": 3230594,
+      "name": "Jérôme Fonlupt",
+      "profilePath": "/pa5JgDxUhlaZLULacRCHZen3W2O.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 143974,
+      "logoPath": null,
+      "name": "French Cancan Production"
+    },
+    {
+      "id": 7131,
+      "logoPath": "/qpFsGoa96SytbWkhtkkpllu5Cch.png",
+      "name": "France Télévisions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39395400",
+    "wikidataId": "Q131844212"
+  },
+  "fetchedAt": 1793452486014,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1423716,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Comme une ombre",
+  "overview": "In the city of Lyon, despite the police's best efforts, an elusive assassin is targeting ordinary citizens. They all share one thing in common: suspected of serious crimes, they have all managed to escape justice. In the press and among some of the public, a name is circulating: \"The Vigilante.\" A local police commissioner and a somewhat self-important Parisian profiler, Marie Sainz and Claire Legendre, team up to try and unmask and stop this overconfident killer.",
+  "posterPath": "/9DqO6v4v1gYZ7njD6uYjOy1HhwL.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "CA": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "DE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "IR": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "BE": {
+      "digital": "2025-10-06",
+      "tv": "2025-10-06"
+    },
+    "FR": {
+      "tv": "2026-01-28"
+    }
+  },
+  "runtime": null,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Comme une ombre",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 7,
+  "watchProviders": {
+    "FR": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2535,
+          "logoPath": "/dZtmGfUhFagm7YNk1Idol1T2t7e.png",
+          "name": "France TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1423716-comme-une-ombre/watch?locale=FR",
+      "rent": []
+    }
+  }
+}

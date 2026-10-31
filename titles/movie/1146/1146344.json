@@ -1,0 +1,324 @@
+{
+  "backdropPath": "/pgVvGaqM77sQR90OeMMVNvQAxbg.jpg",
+  "cast": [
+    {
+      "character": "Sara Black",
+      "id": 18182,
+      "name": "Olga Kurylenko",
+      "profilePath": "/ei6eYUhQFw2AaV6U5fyPptBaPF0.jpg"
+    },
+    {
+      "character": "David Blume",
+      "id": 81685,
+      "name": "Frank Grillo",
+      "profilePath": "/kuEco4vo1xrsM8DyrNSZUEi593P.jpg"
+    },
+    {
+      "character": "Jason Wright",
+      "id": 1395206,
+      "name": "Oliver Trevena",
+      "profilePath": "/j0ejU7vdE7lRxYKKrhA5aWw1zCT.jpg"
+    },
+    {
+      "character": "Julie Smalles",
+      "id": 3838545,
+      "name": "Landa Morland",
+      "profilePath": "/fSCK0ryflAQxe3HaRCoyAF9l21.jpg"
+    },
+    {
+      "character": "Jack",
+      "id": 4899212,
+      "name": "Vladislav Lapidus",
+      "profilePath": "/sgmqdUX7qYiY9IGtDkthl7gkClK.jpg"
+    },
+    {
+      "character": "Female Security Officer",
+      "id": 3252016,
+      "name": "Lacy McClory",
+      "profilePath": "/bzmtmpnZBQEidOEZo1KtuycUbpf.jpg"
+    },
+    {
+      "character": "Sara's sister",
+      "id": 5342543,
+      "name": "Emilija Matić",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 110831,
+      "logoPath": null,
+      "name": "Storyoscopic Films"
+    },
+    {
+      "id": 2373,
+      "logoPath": "/wcQ30Rj2FP8d8VkAcOYqXCHCmsq.png",
+      "name": "Patriot Pictures"
+    },
+    {
+      "id": 203245,
+      "logoPath": null,
+      "name": "Abbott Street Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-02-10",
+  "externalIds": {
+    "imdbId": "tt6374142",
+    "wikidataId": "Q138193904"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1146344,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "tr",
+      "name": "Turkish"
+    }
+  ],
+  "originalTitle": "Misdirection",
+  "overview": "A desperate couple have pulled off a string of high-end break-ins to pay off a mob debt. When they attempt to rob their latest victim, they find themselves caught in a deadly game of cat and mouse. The tables are turned and the hunters become the hunted.",
+  "posterPath": "/u9ebASTgYomEuSeAIL1siPpJxiy.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-27"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-04-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-10",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-08-27"
+    },
+    "GB": {
+      "digital": "2026-04-27"
+    },
+    "US": {
+      "digital": "2026-02-10"
+    }
+  },
+  "runtime": 88,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Vengeance runs deep.",
+  "theatricalDate": null,
+  "title": "Misdirection",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "UEy2151bdSo",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 108,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1146344-misdirection/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        },
+        {
+          "id": 2367,
+          "logoPath": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+          "name": "Midnight Pulp Amazon Channel"
+        },
+        {
+          "id": 2704,
+          "logoPath": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+          "name": "Cineverse Amazon Channel"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        },
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1146344-misdirection/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

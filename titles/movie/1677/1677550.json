@@ -1,0 +1,193 @@
+{
+  "backdropPath": "/fO1pM3aCB0oAP7Hvlrrtwp54Xe4.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1448119,
+      "name": "Tony Hinchcliffe",
+      "profilePath": "/nJbIalwNCvqaDZQ9PW6Uyujb8tw.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1709774,
+      "name": "Brian Redban",
+      "profilePath": "/xaYxS77D3Zt80Zf42YtyFX4K56C.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 87281,
+      "name": "Jeff Ross",
+      "profilePath": "/zLKMftA4hIRZYwgYKLO4TLhYFsA.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 87919,
+      "name": "Mark Calaway",
+      "profilePath": "/heCzgyoGCXYi0Y8maDAilkDMnRj.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 5923991,
+      "name": "Dedrick Flynn",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 5201134,
+      "name": "William Montgomery",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 5201135,
+      "name": "Casey Rocket",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 96010,
+      "name": "Carrot Top",
+      "profilePath": "/gJHiu33FKGO6foXnnXNOUFKQREu.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 64998,
+      "name": "Pauly Shore",
+      "profilePath": "/uI7ctTqSIlLL7nn6UqDdqqhGNVC.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 238345,
+      "name": "Joshua Fatu",
+      "profilePath": "/dUERzr8TokJxETe2NpVxXkWjY4O.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 272281,
+      "logoPath": "/9JpxyLI7xIRNEnnfDoQphDPqXJz.png",
+      "name": "Notorious Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-04-20",
+  "externalIds": {
+    "imdbId": "tt41973417"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1677550,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "KillTonyMania",
+  "overview": "Kill Tony tag teams with WrestleMania 42, as Tony Hinchcliffe, WWE icons and comedy heavyweights put upstart stand-ups to the test in Las Vegas.",
+  "posterPath": "/kpIrnIzKE3DfSVEGGc71kWFiKx8.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-20",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-04-20"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "KillTonyMania",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 7,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1677550-killtonymania/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1677550-killtonymania/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1677550-killtonymania/watch?locale=US",
+      "rent": []
+    }
+  }
+}

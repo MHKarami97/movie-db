@@ -1,0 +1,117 @@
+{
+  "backdropPath": "/7wwJh55u7y5YoUJaABy5o47d14z.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 5861197,
+      "name": "Cameron Winter",
+      "profilePath": "/6rMbchsOu7E82kEpZqL8mYHPG9G.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 178,
+      "logoPath": null,
+      "name": "Ghoulardi Film Company"
+    },
+    {
+      "id": 275901,
+      "logoPath": "/zwv1qPBMc2xJAwBC9NfZqAKaXs5.png",
+      "name": "Merino Films"
+    },
+    {
+      "id": 138301,
+      "logoPath": "/kjYLNBezs8z364sgZDi2qHDEMb3.png",
+      "name": "Ventureland"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt44879019"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1597242,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Cameron Winter at Carnegie Hall",
+  "overview": "A concert film documenting Cameron Winter's sold-out performance at Carnegie Hall.",
+  "posterPath": "/sQt2KQWkpGb79UKlCJNJ2BKobjo.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-20"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-10-07"
+    },
+    "US": {
+      "premiere": "2026-10-01",
+      "theatricalLimited": "2026-11-20"
+    }
+  },
+  "runtime": 75,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "On tour. On film. This fall.",
+  "theatricalDate": "2026-11-20",
+  "title": "Cameron Winter at Carnegie Hall",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "E8olY56RpkU",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "y98-bauMpk0",
+      "name": "Paul Thomas Anderson and Cameron Winter Introduce Cameron Winter at Carnegie Hall",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

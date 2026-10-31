@@ -1,0 +1,221 @@
+{
+  "backdropPath": "/56VfTGANetZ5IIYQsXuciNePM28.jpg",
+  "cast": [
+    {
+      "character": "Gösta Engzell",
+      "id": 225636,
+      "name": "Henrik Dorsin",
+      "profilePath": "/xCy1BDKAeGNCV6V1ntyYvo3kBB0.jpg"
+    },
+    {
+      "character": "Rut Vogl",
+      "id": 1105504,
+      "name": "Sissela Benn",
+      "profilePath": "/fprO11y9tGCfz6B2gObrPTupHjA.jpg"
+    },
+    {
+      "character": "Staffan Söderström",
+      "id": 47068,
+      "name": "Jonas Karlsson",
+      "profilePath": "/1KHhcBGX5v9LsmWiHbtZpbEBrh5.jpg"
+    },
+    {
+      "character": "Göran Von Otter",
+      "id": 83898,
+      "name": "Johan Glans",
+      "profilePath": "/5yJXXfNq62b4QGqAZUYCiFLIasW.jpg"
+    },
+    {
+      "character": "Christian Günther",
+      "id": 997625,
+      "name": "Olle Jansson",
+      "profilePath": "/wRuoAr6OD7tK8NbjRByyFca8QWK.jpg"
+    },
+    {
+      "character": "Nils Erik Eklund",
+      "id": 1771725,
+      "name": "Oscar Töringe",
+      "profilePath": "/yHW4MIhVjslqxrCa2sz7y6B58Un.jpg"
+    },
+    {
+      "character": "Marcus Ehrenpreis",
+      "id": 138069,
+      "name": "Loa Falkman",
+      "profilePath": "/bslxplRaGaWMSBJ9yrqAQcHnBxg.jpg"
+    },
+    {
+      "character": "Stina Johansson",
+      "id": 1174787,
+      "name": "Marianne Mörck",
+      "profilePath": "/mksDG8FQLo5Fd2HljggAbEOk0Hc.jpg"
+    },
+    {
+      "character": "Maria Bondy",
+      "id": 4528457,
+      "name": "Rakel Benér",
+      "profilePath": "/cgW294Fo7xnPPVzmtq5OaZdOmTe.jpg"
+    },
+    {
+      "character": "Claes Westring",
+      "id": 552022,
+      "name": "Figge Norling",
+      "profilePath": "/hlYONYoB46QI4dN1VCCRqzvNXXq.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 16498,
+      "logoPath": "/4p72Dk6ljlkVDCaHZgCtsIrZWgO.png",
+      "name": "Way Creative Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "digitalDate": "2026-02-19",
+  "externalIds": {
+    "imdbId": "tt28793125",
+    "wikidataId": "Q130443255"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "id": 1261188,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italian"
+    },
+    {
+      "code": "sv",
+      "name": "Swedish"
+    }
+  ],
+  "originalTitle": "Den svenska länken",
+  "overview": "Swedish Foreign Ministry bureaucrat Gösta Engzell, overlooked during WWII, rescued thousands while turning supposedly neutral Sweden into a moral force. His efforts challenged the status quo and left a lasting humanitarian legacy.",
+  "posterPath": "/ytruJRp7Ba82IU6s8yAY0HPw5xr.jpg",
+  "rating": 7.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-02-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-02-19",
+      "gapDays": 6,
+      "theatricalDate": "2026-02-13"
+    },
+    "US": {
+      "digitalDate": "2026-02-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-02-19"
+    },
+    "GB": {
+      "digital": "2026-02-19",
+      "theatricalLimited": "2026-02-13"
+    },
+    "US": {
+      "digital": "2026-02-19"
+    }
+  },
+  "runtime": 102,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Swedish Connection",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 90,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1261188-den-svenska-lanken/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1261188-den-svenska-lanken/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1261188-den-svenska-lanken/watch?locale=US",
+      "rent": []
+    }
+  }
+}

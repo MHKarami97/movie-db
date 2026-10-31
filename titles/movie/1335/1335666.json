@@ -1,0 +1,277 @@
+{
+  "backdropPath": "/dAU3mJzDLWWZyndByhV7hSIfBiK.jpg",
+  "cast": [
+    {
+      "character": "Sandy",
+      "id": 1248,
+      "name": "Brian Cox",
+      "profilePath": "/scSjbFCTRngXlkJRoKptM5kQGw7.jpg"
+    },
+    {
+      "character": "Donal",
+      "id": 10697,
+      "name": "Alan Cumming",
+      "profilePath": "/axil8ufunARfqyU4ceZNh36fkVQ.jpg"
+    },
+    {
+      "character": "Jess",
+      "id": 1834,
+      "name": "Shirley Henderson",
+      "profilePath": "/ufyhBJUrG3h4BrLNN8gMuYGhJd6.jpg"
+    },
+    {
+      "character": "Amy",
+      "id": 1253199,
+      "name": "Alexandra Shipp",
+      "profilePath": "/98AfO5NSqWnlhIxjSg08gGYdxUG.jpg"
+    },
+    {
+      "character": "Sasha",
+      "id": 5010863,
+      "name": "Alexandra Wilkie-Millar",
+      "profilePath": null
+    },
+    {
+      "character": "Nan",
+      "id": 992504,
+      "name": "Siobhan Redmond",
+      "profilePath": "/sxWG5sNKmjKgCCGpiK6ZI3sLKyo.jpg"
+    },
+    {
+      "character": "Gus",
+      "id": 88551,
+      "name": "Aidan Redmond",
+      "profilePath": "/hX9xd2L9bUAb1kOHXQfwzaVeMSP.jpg"
+    },
+    {
+      "character": "James",
+      "id": 70881,
+      "name": "Alan Cox",
+      "profilePath": "/6NmQkuy0gYEndTMNoObLvJsmesP.jpg"
+    },
+    {
+      "character": "Anna McKinley",
+      "id": 204755,
+      "name": "Nicole Ansari-Cox",
+      "profilePath": "/Qa4zWGLkDEjedoHbNlMG0e9giq.jpg"
+    },
+    {
+      "character": "Mae",
+      "id": 2058097,
+      "name": "Joanne Thomson",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 118623,
+      "logoPath": null,
+      "name": "Nevision"
+    },
+    {
+      "id": 221028,
+      "logoPath": null,
+      "name": "Gold Rush Pictures"
+    },
+    {
+      "id": 142214,
+      "logoPath": "/16Z9JyKlyfQTdKxfGihK00oCLpQ.png",
+      "name": "Infinity Hill"
+    },
+    {
+      "id": 91387,
+      "logoPath": "/vPv6frwqFKqydMLFtoHdcYeUo5r.png",
+      "name": "Blazing Griffin"
+    },
+    {
+      "id": 5056,
+      "logoPath": "/ok7CQyn0RPEuI0upznPoo93YE6H.png",
+      "name": "Head Gear Films"
+    },
+    {
+      "id": 25954,
+      "logoPath": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
+      "name": "Metrol Technology"
+    },
+    {
+      "id": 261569,
+      "logoPath": null,
+      "name": "Oval-5"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt16112292",
+    "wikidataId": "Q130549234"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1335666,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Glenrothan",
+  "overview": "After thirty-five years abroad, Donal returns to his native Scotland to make amends with his estranged brother Sandy.",
+  "posterPath": "/7I797gF8aGuTRSVeM3lu84PZouk.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-17"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-04-17"
+    },
+    "US": {
+      "premiere": "2026-01-11"
+    }
+  },
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Two brothers. One legacy. Lots of spirit.",
+  "theatricalDate": "2026-04-17",
+  "title": "Glenrothan",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "tamGytf9Hnk",
+      "name": "where home runs deep.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "LYa7gUqFv7w",
+      "name": "Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "SEfkwgXmVjk",
+      "name": "whisky + water = Scottish excellence.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "BqDFTPfn_Es",
+      "name": "distilled from something deeper…",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "D8HhFFUijG0",
+      "name": "patience isn’t Brian Cox’s strong suit.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "z-5Xv0w1zOk",
+      "name": "there's no spirit like family spirit.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "4dMKFijZBoc",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 16,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1335666-glenrothan/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        },
+        {
+          "id": 189,
+          "logoPath": "/4YC38wgKDkaL2NQiujnUFRt9VIB.png",
+          "name": "Curzon Home Cinema"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "backdropPath": "/qGPJ9AvOUpbpZjM6R7yqBDs4gsk.jpg",
+  "cast": [
+    {
+      "character": "David Ticoule",
+      "id": 1186076,
+      "name": "Philippe Lacheau",
+      "profilePath": "/2ev0Ip2vNnC5UYe10gJNcApahZ4.jpg"
+    },
+    {
+      "character": "Pablito Camaron",
+      "id": 2408,
+      "name": "Jamel Debbouze",
+      "profilePath": "/aiqWSWbRJ6rrjxxVE6y2Xb3KdSp.jpg"
+    },
+    {
+      "character": "Ricky Salsa",
+      "id": 1186075,
+      "name": "Tarek Boudali",
+      "profilePath": "/ubhbt0kZ6TX0t0tBFWe50A4u22y.jpg"
+    },
+    {
+      "character": "Tess",
+      "id": 146630,
+      "name": "Élodie Fontan",
+      "profilePath": "/1uFWqxdrKxBa0utLqf55aq8ASzP.jpg"
+    },
+    {
+      "character": "Stéphane Buisson",
+      "id": 1291810,
+      "name": "Julien Arruti",
+      "profilePath": "/8mW9D3GiTU6KNnNYUM1t7NhKPRY.jpg"
+    },
+    {
+      "character": "Jeffrey Malone",
+      "id": 1003,
+      "name": "Jean Reno",
+      "profilePath": "/mw0EZJYz3kiFq9fNxsML773gotF.jpg"
+    },
+    {
+      "character": "Léo Ticoule",
+      "id": 4849314,
+      "name": "Corentin Guillot",
+      "profilePath": null
+    },
+    {
+      "character": "Le capitaine du paquebot",
+      "id": 21171,
+      "name": "Gérard Jugnot",
+      "profilePath": "/8fvIsaf0a5e60IvtNddKCcOZXFO.jpg"
+    },
+    {
+      "character": "Le père de Pablito",
+      "id": 59031,
+      "name": "Didier Bourdon",
+      "profilePath": "/llffnXLuelL2gCu6LFH7aPiva4f.jpg"
+    },
+    {
+      "character": "Raymond Douanier",
+      "id": 544681,
+      "name": "Alban Ivanov",
+      "profilePath": "/mqOnSEZb3hkq973YyQnFEaBm9mN.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 7981,
+      "logoPath": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+      "name": "Pathé"
+    },
+    {
+      "id": 95416,
+      "logoPath": "/gVFPBmeddZHqOXZCcFHSae8DQ3I.png",
+      "name": "Dupuis"
+    },
+    {
+      "id": 146987,
+      "logoPath": null,
+      "name": "BAF Prod"
+    },
+    {
+      "id": 356,
+      "logoPath": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production"
+    },
+    {
+      "id": 11773,
+      "logoPath": "/8fCjsqh43LbPV6pm3SfR5Jx64GU.png",
+      "name": "Artémis Productions"
+    },
+    {
+      "id": 209127,
+      "logoPath": "/6kby8aYYQX7RqPGs0DPIGMtG2Sg.png",
+      "name": "Logical Content Ventures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33029380",
+    "wikidataId": "Q129344299"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1145899,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Marsupilami",
+  "overview": "David is tasked to deliver a mysterious package from South America, only to find out he is carrying a baby Marsupilami!",
+  "posterPath": "/kMhVs1XqmzXlD0mDQ4rTJh4Kvf1.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Hairy mess incoming!",
+  "theatricalDate": null,
+  "title": "Marsupilami",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "pXGuY9qcSe0",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 202,
+  "watchProviders": {}
+}

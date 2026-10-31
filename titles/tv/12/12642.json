@@ -1,0 +1,773 @@
+{
+  "backdropPath": "/dEMgiBItYlhrKkXpe0G6THaGW1y.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 1590346,
+      "name": "Gina Dirawi",
+      "profilePath": "/jZU3yfMaAOvgy5KcIh2DyIR1cSh.jpg"
+    },
+    {
+      "character": "Self - Host",
+      "id": 3054170,
+      "name": "Hampus Nessvold",
+      "profilePath": "/nkjBtgryDS1woWnJyb15reh75ae.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 2999,
+      "logoPath": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+      "name": "SVT"
+    },
+    {
+      "id": 114247,
+      "logoPath": "/bwcRttyGrH1lxP36JbmXxSe48J3.png",
+      "name": "YouTube"
+    }
+  ],
+  "countries": [
+    {
+      "code": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "digitalDate": "1959-02-26",
+  "episodes": {
+    "65": [
+      {
+        "airDate": "2026-01-31",
+        "episodeNumber": 1,
+        "name": "Heat 1 - Linköping",
+        "overview": "Heat 1. Live broadcast from Linköping.\n\nThe contestants are A*Teens, Greczula, Indra, Junior Lerin, Jacqline and noll2.\n\nHosts are Gina Dirawi and Hampus Nessvold.",
+        "stillPath": "/jJjMXWC7fcgPacmEw0oMy3CR97x.jpg",
+        "voteAverage": 6
+      },
+      {
+        "airDate": "2026-02-07",
+        "episodeNumber": 2,
+        "name": "Heat 2 - Gothenburg",
+        "overview": "Heat 2. Live brodcast from Gothenburg.\n\nThe contestants are Arwin, Brandsta City Släckers, FELICIA, Klara Almström, Laila Adèle and Robin Bengtsson.\n\nHosts are Gina Dirawi and Hampus Nessvold.",
+        "stillPath": "/zrWrAJz0yJqA4gbIKXMIHouhOf1.jpg",
+        "voteAverage": 5
+      },
+      {
+        "airDate": "2026-02-14",
+        "episodeNumber": 3,
+        "name": "Heat 3 - Kristianstad",
+        "overview": "Heat 3. Live broadcast from Kristianstad.\n\nThe contestants are Emilia Pantić, Eva Jumatate, Korslagda, Medina, Patrik Jean and Saga Ludvigsson.\n\nHosts are Gina Dirawi and Hampus Nessvold.",
+        "stillPath": "/A4RNO42LgK3FHSdzp8T7yqZecAM.jpg",
+        "voteAverage": 1
+      },
+      {
+        "airDate": "2026-02-21",
+        "episodeNumber": 4,
+        "name": "Heat 4 - Malmö",
+        "overview": "Heat 4. Live broadcast from Malmö.\n\nThe contestants are Cimberly, Erika Jonsson, Felix Manu, Meira Omar, Smash Into Pieces and Timo Räisänen.\n\nHosts are Gina Dirawi and Hampus Nessvold.",
+        "stillPath": "/j1IN9xdI2k4js5NwWprQu06140V.jpg",
+        "voteAverage": 1
+      },
+      {
+        "airDate": "2026-02-28",
+        "episodeNumber": 5,
+        "name": "Heat 5 - Sundsvall",
+        "overview": "Heat 5, including a qualifying round at the end of the show. Live broadcast from Malmö.\n\nThe contestants are AleXa, JULIETT, Bladë, Lilla Al-Fadji, Vilhelm Buchaus and Sanna Nielsen.\n\nHosts are Gina Dirawi and Hampus Nessvold.",
+        "stillPath": "/hSvgzVTMTB1eXqVbWodxsHucjac.jpg",
+        "voteAverage": 2
+      },
+      {
+        "airDate": "2026-03-07",
+        "episodeNumber": 6,
+        "name": "Final - Stockholm",
+        "overview": "",
+        "stillPath": "/AiIgFQ2FrL6ZSN6NryQCgKEvGcU.jpg",
+        "voteAverage": 0
+      }
+    ],
+    "66": [
+      {
+        "airDate": "2027-02-06",
+        "episodeNumber": 1,
+        "name": "Heat 1 – Karlstad",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-13",
+        "episodeNumber": 2,
+        "name": "Heat 2 – Gothenburg",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-20",
+        "episodeNumber": 3,
+        "name": "Heat 3 – Malmö",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-27",
+        "episodeNumber": 4,
+        "name": "Heat 4 – Halmstad",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-03-06",
+        "episodeNumber": 5,
+        "name": "Heat 5 – Norrköping",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-03-13",
+        "episodeNumber": 6,
+        "name": "Final – Stockholm",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "melodifestivalen",
+    "imdbId": "tt17007288",
+    "instagramId": "melodifestivalen",
+    "wikidataId": "Q58884"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 12642,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "sv",
+      "name": "Swedish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-03-07",
+    "episodeNumber": 6,
+    "id": 6807326,
+    "name": "Final - Stockholm",
+    "overview": "",
+    "seasonNumber": 65
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-02-06",
+    "episodeNumber": 1,
+    "id": 8022466,
+    "name": "Heat 1 – Karlstad",
+    "overview": "",
+    "seasonNumber": 66
+  },
+  "originalTitle": "Melodifestivalen",
+  "overview": "Melodifestivalen (direct translation: The Melody Festival) is an annual music competition organised by Swedish public broadcaster Sveriges Television (SVT). The competition is a six part tour (5 heats + the final) with stops in cities across Sweden to determine the country's representative for the Eurovision Song Contest.\n\nMelodifestivalen is also known informally as \"Mello\", or internationally as \"Melfest\".",
+  "posterPath": "/tQLc2VH1jQnoiiuLC3RUO1AhsXU.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1959-02-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1959-02-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1959-02-26",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1959-02-26",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1959-02-26"
+    },
+    "CN": {
+      "tv": "1959-02-26"
+    },
+    "GB": {
+      "tv": "1959-02-26"
+    },
+    "US": {
+      "tv": "1959-02-26"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2010-05-01",
+      "episodeCount": 3,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1959-02-26",
+      "episodeCount": 1,
+      "name": "1959",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1960-02-02",
+      "episodeCount": 1,
+      "name": "1960",
+      "overview": "",
+      "posterPath": "/mdrHLVUv7hoj3c3gIrX88Ss6KnM.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1961-02-06",
+      "episodeCount": 1,
+      "name": "1961",
+      "overview": "",
+      "posterPath": "/hmsrC4tjGO1RdKzCSlUNzmRxwyo.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1962-02-13",
+      "episodeCount": 1,
+      "name": "1962",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1963-02-16",
+      "episodeCount": 1,
+      "name": "1963",
+      "overview": "",
+      "posterPath": "/xYtqRUXEGlQG1tLuK1i1AeUgio.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1965-02-13",
+      "episodeCount": 1,
+      "name": "1965",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1966-01-29",
+      "episodeCount": 1,
+      "name": "1966",
+      "overview": "",
+      "posterPath": "/qWct0RL0YKcS8OmK9Iw0tpMjccg.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1967-02-24",
+      "episodeCount": 1,
+      "name": "1967",
+      "overview": "",
+      "posterPath": "/uvdFqfLx38gf3wAEulDuxSxRvPZ.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1968-03-09",
+      "episodeCount": 1,
+      "name": "1968",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1969-03-01",
+      "episodeCount": 1,
+      "name": "1969",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "1971-02-27",
+      "episodeCount": 1,
+      "name": "1971",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "1972-02-12",
+      "episodeCount": 1,
+      "name": "1972",
+      "overview": "",
+      "posterPath": "/vEh2i0IwuEL6c1t21McPCy5jRBD.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "1973-02-10",
+      "episodeCount": 1,
+      "name": "1973",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "1974-02-09",
+      "episodeCount": 1,
+      "name": "1974",
+      "overview": "",
+      "posterPath": "/zEzbRRGIqmEV0wuccMnNXsNkc9J.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "1975-02-15",
+      "episodeCount": 2,
+      "name": "1975",
+      "overview": "",
+      "posterPath": "/hfFtNSN7RTjNOVpJYXcn1YS6Bod.jpg",
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "1977-02-26",
+      "episodeCount": 1,
+      "name": "1977",
+      "overview": "",
+      "posterPath": "/z1rkx4fCrG3aB1kqUpuPZqni0iY.jpg",
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "1978-02-11",
+      "episodeCount": 1,
+      "name": "1978",
+      "overview": "",
+      "posterPath": "/UOy6fyBdAURMF8dQOkeJt2HEIr.jpg",
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "1979-02-17",
+      "episodeCount": 1,
+      "name": "1979",
+      "overview": "",
+      "posterPath": "/8AUTJTjK657HWw9gQAZNl2Fjhcj.jpg",
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "1980-03-08",
+      "episodeCount": 1,
+      "name": "1980",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "1981-02-21",
+      "episodeCount": 1,
+      "name": "1981",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "1982-02-27",
+      "episodeCount": 1,
+      "name": "1982",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "1983-02-26",
+      "episodeCount": 1,
+      "name": "1983",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "1984-02-25",
+      "episodeCount": 1,
+      "name": "1984",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "1985-03-02",
+      "episodeCount": 1,
+      "name": "1985",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "1986-03-22",
+      "episodeCount": 1,
+      "name": "1986",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "1987-02-21",
+      "episodeCount": 1,
+      "name": "1987",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "1988-02-27",
+      "episodeCount": 1,
+      "name": "1988",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "1989-03-11",
+      "episodeCount": 1,
+      "name": "1989",
+      "overview": "",
+      "posterPath": "/wtNcenChK65vYSNee3CBIyK6WqR.jpg",
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "1990-03-09",
+      "episodeCount": 1,
+      "name": "1990",
+      "overview": "",
+      "posterPath": "/11Q0nBPSZSBJ706JGwK63rHI6oK.jpg",
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "1991-03-22",
+      "episodeCount": 1,
+      "name": "1991",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "1992-03-14",
+      "episodeCount": 1,
+      "name": "1992",
+      "overview": "",
+      "posterPath": "/gK2DGkICXTXz9cccHrCSQtrtYuh.jpg",
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "1993-03-05",
+      "episodeCount": 1,
+      "name": "1993",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "1994-03-12",
+      "episodeCount": 1,
+      "name": "1994",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "1995-02-24",
+      "episodeCount": 1,
+      "name": "1995",
+      "overview": "",
+      "posterPath": "/hwlkJkWDyILIi06lVKAMfEbej3P.jpg",
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "1996-02-24",
+      "episodeCount": 1,
+      "name": "1996",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "1997-03-08",
+      "episodeCount": 1,
+      "name": "1997",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 36
+    },
+    {
+      "airDate": "1998-03-14",
+      "episodeCount": 1,
+      "name": "1998",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 37
+    },
+    {
+      "airDate": "1999-02-27",
+      "episodeCount": 1,
+      "name": "1999",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 38
+    },
+    {
+      "airDate": "2000-03-10",
+      "episodeCount": 1,
+      "name": "2000",
+      "overview": "",
+      "posterPath": "/aTEOUTyJBzFAy6WEaMu9LHFWaNn.jpg",
+      "seasonNumber": 39
+    },
+    {
+      "airDate": "2001-02-23",
+      "episodeCount": 1,
+      "name": "2001",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 40
+    },
+    {
+      "airDate": "2002-01-19",
+      "episodeCount": 6,
+      "name": "2002",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 41
+    },
+    {
+      "airDate": "2003-02-15",
+      "episodeCount": 6,
+      "name": "2003",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 42
+    },
+    {
+      "airDate": "2004-02-21",
+      "episodeCount": 6,
+      "name": "2004",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 43
+    },
+    {
+      "airDate": "2005-02-12",
+      "episodeCount": 6,
+      "name": "2005",
+      "overview": "",
+      "posterPath": "/xqtSDUSzssmUleaZ2OVfFW05mW1.jpg",
+      "seasonNumber": 44
+    },
+    {
+      "airDate": "2006-02-18",
+      "episodeCount": 6,
+      "name": "2006",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 45
+    },
+    {
+      "airDate": "2007-02-03",
+      "episodeCount": 6,
+      "name": "2007",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 46
+    },
+    {
+      "airDate": "2008-02-09",
+      "episodeCount": 6,
+      "name": "2008",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 47
+    },
+    {
+      "airDate": "2009-02-07",
+      "episodeCount": 6,
+      "name": "2009",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 48
+    },
+    {
+      "airDate": "2010-02-06",
+      "episodeCount": 6,
+      "name": "2010",
+      "overview": "",
+      "posterPath": "/3nwi6oqGWKv3NjG1rXZ6wkOrV2U.jpg",
+      "seasonNumber": 49
+    },
+    {
+      "airDate": "2011-02-05",
+      "episodeCount": 6,
+      "name": "2011",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 50
+    },
+    {
+      "airDate": "2012-02-04",
+      "episodeCount": 6,
+      "name": "2012",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 51
+    },
+    {
+      "airDate": "2013-02-02",
+      "episodeCount": 6,
+      "name": "2013",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 52
+    },
+    {
+      "airDate": "2014-02-01",
+      "episodeCount": 6,
+      "name": "2014",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 53
+    },
+    {
+      "airDate": "2015-02-07",
+      "episodeCount": 6,
+      "name": "2015",
+      "overview": "",
+      "posterPath": "/qoUKVmTBHNJrmI5L5GQGZDLWIZQ.jpg",
+      "seasonNumber": 54
+    },
+    {
+      "airDate": "2016-02-06",
+      "episodeCount": 6,
+      "name": "2016",
+      "overview": "",
+      "posterPath": "/hJ1fQlZoanBvE1sQPeFwViGCD2J.jpg",
+      "seasonNumber": 55
+    },
+    {
+      "airDate": "2017-02-04",
+      "episodeCount": 6,
+      "name": "2017",
+      "overview": "",
+      "posterPath": "/kLt0UsleT2KcpY5JfQj6SIbF3pt.jpg",
+      "seasonNumber": 56
+    },
+    {
+      "airDate": "2018-02-03",
+      "episodeCount": 6,
+      "name": "2018",
+      "overview": "",
+      "posterPath": "/euIpGtYSOsWYlTf4tDqfFRtmTQ.jpg",
+      "seasonNumber": 57
+    },
+    {
+      "airDate": "2019-02-02",
+      "episodeCount": 6,
+      "name": "2019",
+      "overview": "",
+      "posterPath": "/j6tvIanppCP7W74L8UTp50hzqvR.jpg",
+      "seasonNumber": 58
+    },
+    {
+      "airDate": "2020-02-01",
+      "episodeCount": 6,
+      "name": "2020",
+      "overview": "",
+      "posterPath": "/uepAI5JYRkAVUnsK3omxrCHOpLZ.jpg",
+      "seasonNumber": 59
+    },
+    {
+      "airDate": "2021-02-06",
+      "episodeCount": 6,
+      "name": "2021",
+      "overview": "",
+      "posterPath": "/ttiKIXghUdHzYJAZ4VvRRGvJDHp.jpg",
+      "seasonNumber": 60
+    },
+    {
+      "airDate": "2022-02-05",
+      "episodeCount": 6,
+      "name": "2022",
+      "overview": "",
+      "posterPath": "/g3Mbbs6rShhQi3fbKR09fIBm32.jpg",
+      "seasonNumber": 61
+    },
+    {
+      "airDate": "2023-02-04",
+      "episodeCount": 6,
+      "name": "2023",
+      "overview": "",
+      "posterPath": "/eSd83DsJt6n6SenTVT0vOkvttom.jpg",
+      "seasonNumber": 62
+    },
+    {
+      "airDate": "2024-02-03",
+      "episodeCount": 6,
+      "name": "2024",
+      "overview": "",
+      "posterPath": "/y3adeJPOOHYR2ev4UL2o5gD9Nt.jpg",
+      "seasonNumber": 63
+    },
+    {
+      "airDate": "2025-02-01",
+      "episodeCount": 6,
+      "name": "2025",
+      "overview": "",
+      "posterPath": "/tDHiFx0BNAKZJ0TzYHsqzbz6SUt.jpg",
+      "seasonNumber": 64
+    },
+    {
+      "airDate": "2026-01-31",
+      "episodeCount": 6,
+      "name": "2026",
+      "overview": "Melodifestivalen 2026 is the 66ᵗʰ edition of the competition and is hosted by seasoned presenter Gina Dirawi alongside first-time host Hampus Nessvold.\n\nThe tour starts in Linköping and continutes with stops in Gothenburg, Kristianstad, Malmö and Sundsvall, with the final stop in Stockholm at the national arena \"Strawberry Arena\" on March 7.",
+      "posterPath": "/bYgjEI6rCTs2PWJHCfoAqMmAapv.jpg",
+      "seasonNumber": 65
+    },
+    {
+      "airDate": "2027-02-06",
+      "episodeCount": 6,
+      "name": "2027",
+      "overview": "Melodifestivalen 2027 will be the 67ᵗʰ edition of the competition and will be hosted by Oscar Zia and Björn Kjellman.\n\nThe tour starts in Karlstad and continues with stops in Gothenburg, Malmö, Halmstad and Norrköping, with the final stop in Stockholm on March 13.",
+      "posterPath": "/fsMGUDDUVMDkITjyKWBppwNo3PK.jpg",
+      "seasonNumber": 66
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Melodifestivalen",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 8,
+  "watchProviders": {}
+}

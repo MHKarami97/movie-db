@@ -1,0 +1,212 @@
+{
+  "backdropPath": "/lkyqbxyG4ZQpQvaNMxACkbvgAaI.jpg",
+  "cast": [
+    {
+      "character": "Guru",
+      "id": 4016569,
+      "name": "Mohit Agarwal",
+      "profilePath": null
+    },
+    {
+      "character": "Priti",
+      "id": 1296866,
+      "name": "Priyanka Bose",
+      "profilePath": "/2sISoCre8JbMZgx8ZWjLF02X4FN.jpg"
+    },
+    {
+      "character": "Daddy Ji",
+      "id": 112242,
+      "name": "Rahul Roy",
+      "profilePath": "/fojD7pNvKQNyzMtyldG0UM4UHuE.jpg"
+    },
+    {
+      "character": "Mummy Ji",
+      "id": 1240443,
+      "name": "Vibha Chibber",
+      "profilePath": "/3UIRA4TKnlcR4lGtkIH6KCCULSZ.jpg"
+    },
+    {
+      "character": "Chhavi",
+      "id": 3295889,
+      "name": "Aanchal Goswami",
+      "profilePath": null
+    },
+    {
+      "character": "Aunty Ji",
+      "id": 1246534,
+      "name": "Sonal Jha",
+      "profilePath": "/buTWA0SHsB9ZQwBrgSxotNle0Rf.jpg"
+    },
+    {
+      "character": "Sundar",
+      "id": 2565187,
+      "name": "Devas Dixit",
+      "profilePath": "/r9GmHJOSkX53o8661ruGMt7CJzZ.jpg"
+    },
+    {
+      "character": "Mala",
+      "id": 1913620,
+      "name": "Ruhani Sharma",
+      "profilePath": "/epmEZVlfYhHXNsOzTdcA0hJ35Y5.jpg"
+    },
+    {
+      "character": "Doctor",
+      "id": 2156764,
+      "name": "Rajesh Aggarwal",
+      "profilePath": null
+    },
+    {
+      "character": "Joginder",
+      "id": 2260327,
+      "name": "Yashraj Rawal",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 96575,
+      "logoPath": "/9qxGTLZ3DHZltjtU2FO0Gzqsbyb.png",
+      "name": "Yoodlee Films"
+    },
+    {
+      "id": 73540,
+      "logoPath": "/6lKwF4fY6mPjt35FC6daGuQ6VxM.png",
+      "name": "Saregama Productions"
+    },
+    {
+      "id": 15530,
+      "logoPath": "/lmuCG8tJjtTueFouWvcig3OpwT1.png",
+      "name": "Les Films Hatari"
+    },
+    {
+      "id": 124484,
+      "logoPath": "/c8dyX9wes06MtZ73LwFhzh7HFGm.png",
+      "name": "UFO Production"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt11112532",
+    "wikidataId": "Q85740122"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1059007,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "hi",
+      "name": "Hindi"
+    }
+  ],
+  "originalTitle": "Agra",
+  "overview": "The story of a family and an exploration of space in an increasingly crowded world. It follows the quest for a sexual odyssey of an individual.",
+  "posterPath": "/biX8D3kSh4HuZzf1r0ynRgaEJte.jpg",
+  "rating": 5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2024-06-01"
+    }
+  },
+  "runtime": 115,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Agra",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 6,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1059007-agra/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1059007-agra/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    }
+  }
+}

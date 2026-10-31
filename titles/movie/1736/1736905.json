@@ -1,0 +1,146 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Narrator (voice)",
+      "id": 5075300,
+      "name": "John Monsky",
+      "profilePath": "/4llELKol1satH9hlzi4R9IVdYJ8.jpg"
+    },
+    {
+      "character": "",
+      "id": 73128,
+      "name": "Skylar Astin",
+      "profilePath": "/dx6xbrerLNKHbUSOdTI68h7qrE3.jpg"
+    },
+    {
+      "character": "",
+      "id": 5552596,
+      "name": "Brent Comer",
+      "profilePath": "/6smfSn7hguUfnoH2iE0tdXT4xNd.jpg"
+    },
+    {
+      "character": "",
+      "id": 2976059,
+      "name": "Claybourne Elder",
+      "profilePath": "/3gBqOXCzBM3VAki26guiAePhlJn.jpg"
+    },
+    {
+      "character": "",
+      "id": 206399,
+      "name": "Elizabeth Gillies",
+      "profilePath": "/shrmJdcmf4lnoM19cAggrCoO5a6.jpg"
+    },
+    {
+      "character": "",
+      "id": 1395492,
+      "name": "Taylor Louderman",
+      "profilePath": "/pFOUu61F0YBDlLz6ABJxsZkLurq.jpg"
+    },
+    {
+      "character": "",
+      "id": 2914738,
+      "name": "Joy Woods",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 2163722,
+      "name": "Mark Armstrong",
+      "profilePath": "/3vjRU98h6TeGHy14lAi1w8G4kXb.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6366616,
+      "name": "Kali Armstrong",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 89394,
+      "logoPath": "/m1Hku3PhgdsQiPO8uVe7szyrxAb.png",
+      "name": "RadicalMedia"
+    },
+    {
+      "id": 303780,
+      "logoPath": "/hRlBJk4Cvwa13242tLShBwQfl9V.png",
+      "name": "American History Unbound"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-10",
+  "externalIds": {},
+  "fetchedAt": 1793732202619,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1736905,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "We Chose to Go to the Moon",
+  "overview": "The dramatic tale of America's race to space and the decision to land a man on the Moon in one of the most ambitious scientific and exploration achievements in history.",
+  "posterPath": "/rVPPSaNELwDeMfhQzP0A8zeRwBK.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-10",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-10",
+      "tv": "2026-11-10"
+    }
+  },
+  "runtime": 130,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "We Chose to Go to the Moon",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

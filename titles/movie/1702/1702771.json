@@ -1,0 +1,122 @@
+{
+  "backdropPath": "/zr143lb7ZwqRUVSW1qPRoClbAFj.jpg",
+  "cast": [
+    {
+      "character": "Lee",
+      "id": 6242109,
+      "name": "Talya V. Hammerman",
+      "profilePath": null
+    },
+    {
+      "character": "Tom",
+      "id": 6242118,
+      "name": "Bryan Headrick",
+      "profilePath": null
+    },
+    {
+      "character": "Glynis",
+      "id": 6242124,
+      "name": "T. Chanse Solis",
+      "profilePath": null
+    },
+    {
+      "character": "Riley",
+      "id": 6242127,
+      "name": "Madison Powell",
+      "profilePath": null
+    },
+    {
+      "character": "Asher",
+      "id": 6242129,
+      "name": "Caleb Clemons",
+      "profilePath": null
+    },
+    {
+      "character": "Francis",
+      "id": 6242130,
+      "name": "Amelia Hobson",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-12-01",
+  "externalIds": {
+    "imdbId": "tt37244954"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1702771,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Since We’ve No Place To Go",
+  "overview": "After a stranger arrives at their Christmas gathering, a family must grapple with the loss of their matriarch.",
+  "posterPath": "/qkDfikClvmUwPXngJVeqSZKCLii.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-12-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-12-01"
+    }
+  },
+  "runtime": 72,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Since We’ve No Place To Go",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "keG2luM0ryQ",
+      "name": "Since We've No Place To Go | Full Feature Film",
+      "official": false,
+      "type": "Clip"
+    },
+    {
+      "key": "hVyBX0e7280",
+      "name": "Since We've No Place To Go | Teaser Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

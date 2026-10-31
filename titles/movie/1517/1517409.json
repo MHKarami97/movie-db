@@ -1,0 +1,196 @@
+{
+  "backdropPath": "/yfb4k1xwuzENYkRTrokwrwsargx.jpg",
+  "cast": [
+    {
+      "character": "Vega",
+      "id": 56732,
+      "name": "Fernanda Romero",
+      "profilePath": "/qZ75cv15SX2EQBlg5qb7RNqNt0i.jpg"
+    },
+    {
+      "character": "Lupe",
+      "id": 3906591,
+      "name": "Bruna Rubio",
+      "profilePath": null
+    },
+    {
+      "character": "Mami Rosa",
+      "id": 143171,
+      "name": "Bertila Damas",
+      "profilePath": "/pvrwuYZOQqRLIUKGh7662fuCKzN.jpg"
+    },
+    {
+      "character": "Bob Gold",
+      "id": 19148,
+      "name": "Brian Austin Green",
+      "profilePath": "/8KGhmSEmxwn6oJBN5NCpeYDJ2hx.jpg"
+    },
+    {
+      "character": "Guinevere Gold",
+      "id": 2564034,
+      "name": "Helen Minassian",
+      "profilePath": "/nkAzyhcUVT17pY0Eq3GaIOu5qZO.jpg"
+    },
+    {
+      "character": "",
+      "id": 4382583,
+      "name": "Jiaoying Summers",
+      "profilePath": "/8QuTMfxrZxzOLT3TwcE53soKnJo.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 222342,
+      "logoPath": null,
+      "name": "Goldheart Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-06-12",
+  "externalIds": {
+    "imdbId": "tt30877881"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1517409,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Hollywood Hells",
+  "overview": "When a struggling actress attends an exclusive Hollywood party, she discovers a cabal of power brokers who produce real-life snuff films for the elite. As she fights for her life in the shadowy underbelly of fame, she turns their own cameras against them—becoming not just a survivor, but the director of their final cut.",
+  "posterPath": "/ogouh8BbKHOuUDdWpKpuEbLjsWg.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-06-12"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Hollywood Hells",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "r_VkrKFAiuA",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        },
+        {
+          "id": 2077,
+          "logoPath": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+          "name": "Plex Channel"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        },
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1517409-hollywood-hells/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

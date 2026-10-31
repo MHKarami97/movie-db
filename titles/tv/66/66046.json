@@ -1,0 +1,175 @@
+{
+  "backdropPath": "/xDXaptzkHFHGyQ2QGZ3aGnEE1dK.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 1644622,
+      "name": "Kim Sung-joo",
+      "profilePath": "/3C1Hkef7umuLjbboSQvJtFudmpE.jpg"
+    },
+    {
+      "character": "Self - Panelist",
+      "id": 1628212,
+      "name": "Kim Gu-ra",
+      "profilePath": "/eYj0vwQ99Pzfb91TX6CBgnV7Ne.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 26511,
+      "logoPath": "/muK9W0KLV8KfEnR7MYu0YpfpdnO.png",
+      "name": "MBC"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": "2015-04-05",
+  "externalIds": {
+    "imdbId": "tt6289510",
+    "wikidataId": "Q19349423"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 66046,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-01-04",
+    "episodeNumber": 525,
+    "id": 6794420,
+    "name": "The Final King of Mask Singers Part 02",
+    "overview": "The new year starts with the fiery Final Round of The Final King of Masked Singers, where the nine Kings battle it out for the Gold Mask. In a tournament-style match, the winner keeps advancing until they reach the top. However, the current King, Perfect Aim Marksman, gets the advantage in choosing the order! With each round, each past King demolishes the stage and leaves the audience in awe with unprecedented performances. In the end, who will emerge as the Final King?",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "미스터리 음악쇼 복면가왕",
+  "overview": "Competitors are given elaborate masks to wear in order to conceal their identity, thus removing factors such as popularity, career and age that could lead to prejudiced voting. In the first round, a pair of competitors sing the same song, while in the second and third rounds they each sing a solo song. After the First Generation, the winner of the Third Round goes on to challenge the Mask King, and is either eliminated or replaces the previous Mask King through live voting. The identities of the singers are not revealed unless they have been eliminated.",
+  "posterPath": "/vlnAfmirzYx1TSxXuaPhHjkPPmK.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2015-04-05",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2015-04-05",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2015-04-05",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2015-04-05",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2015-04-05"
+    },
+    "CN": {
+      "tv": "2015-04-05"
+    },
+    "GB": {
+      "tv": "2015-04-05"
+    },
+    "US": {
+      "tv": "2015-04-05"
+    }
+  },
+  "runtime": 105,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2015-02-18",
+      "episodeCount": 1,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/8vZN7z4AHA79FiNs66PLEB4GHe0.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2015-04-05",
+      "episodeCount": 525,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/4gqwuEUyjufUbJIZQr16cz5yyKz.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Mystery Music Show: King of Mask Singer",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "hiBPUpCJ7MQ",
+      "name": "[King of masked singer] 복면가왕 - 'unicorn' special performance - Tommorrow 20180513",
+      "official": false,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 11,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 464,
+          "logoPath": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+          "name": "Kocowa"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/66046/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 575,
+          "logoPath": "/t4tushezwJkXCposaC73oZTwF5a.png",
+          "name": "OnDemandKorea"
+        },
+        {
+          "id": 2413,
+          "logoPath": "/aH7G4UQLcj4DQwK5mVhXfVTUzR2.png",
+          "name": "Kocowa Amazon Channel"
+        },
+        {
+          "id": 464,
+          "logoPath": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+          "name": "Kocowa"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/66046/watch?locale=US",
+      "rent": []
+    }
+  }
+}

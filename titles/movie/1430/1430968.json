@@ -1,0 +1,253 @@
+{
+  "backdropPath": "/oiPQOyHuTA84crxarTkVTObbRz4.jpg",
+  "cast": [
+    {
+      "character": "Margarita Levlansky",
+      "id": 1724137,
+      "name": "Anna Baryshnikov",
+      "profilePath": "/a7zp0wIARHtWR8RokyGo7mzOYxj.jpg"
+    },
+    {
+      "character": "Gita Levlansky",
+      "id": 1327231,
+      "name": "Galina Jovovich",
+      "profilePath": "/n1rPVhKdntIwEKtAGshUDqRyiHS.jpg"
+    },
+    {
+      "character": "Samuel Levlansky",
+      "id": 6696,
+      "name": "Mark Ivanir",
+      "profilePath": "/1kxGAsP4YRiR7LgmlM9KgtekMLk.jpg"
+    },
+    {
+      "character": "Nerses Levlansky",
+      "id": 5232695,
+      "name": "Nerses Stamos",
+      "profilePath": "/9CWtOyo7sneVnKUeTnOQCqMtyzj.jpg"
+    },
+    {
+      "character": "Nicol Garcia",
+      "id": 1721740,
+      "name": "Camila Mendes",
+      "profilePath": "/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+    },
+    {
+      "character": "Oliver Knowles",
+      "id": 2023314,
+      "name": "Owen Thiele",
+      "profilePath": "/eRGsOrvr7rcx2C6zUvojaqmanWR.jpg"
+    },
+    {
+      "character": "Emma Wexler",
+      "id": 2371446,
+      "name": "Julia Fox",
+      "profilePath": "/AwipgBalCBiOfwXKssxM0NQlz33.jpg"
+    },
+    {
+      "character": "Candy",
+      "id": 3080192,
+      "name": "Saweetie",
+      "profilePath": "/fEGrnKCeBeLv7Vn1pjkaQsbLOGZ.jpg"
+    },
+    {
+      "character": "Jonathan Smith",
+      "id": 2949606,
+      "name": "Benito Skinner",
+      "profilePath": "/oIVbvO26Uw8drNscwKUzbgKznvc.jpg"
+    },
+    {
+      "character": "Jung-soo",
+      "id": 1474019,
+      "name": "Jake Choi",
+      "profilePath": "/ftutoBlPWjWVjdT86wBZxLB13kU.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 191842,
+      "logoPath": "/aGne4vOerQTqqMLnGLRzaDGYCtx.png",
+      "name": "Spark Features"
+    },
+    {
+      "id": 238137,
+      "logoPath": "/dGBRQo5JA38AnYgBldcBPo6xqqI.png",
+      "name": "Honor Role"
+    },
+    {
+      "id": 169289,
+      "logoPath": "/oi75nXIyr4UPqnFBK7JdSeZEFhN.png",
+      "name": "h.wood Media"
+    },
+    {
+      "id": 253454,
+      "logoPath": null,
+      "name": "Virgo Films"
+    },
+    {
+      "id": 20788,
+      "logoPath": "/7hBlD2RPUo6LHgSDSSnyYuXdigU.png",
+      "name": "GulfStream Pictures"
+    },
+    {
+      "id": 253457,
+      "logoPath": null,
+      "name": "Westridge Foundation"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-03-31",
+  "externalIds": {
+    "imdbId": "tt35677327",
+    "instagramId": "idiotkamovie",
+    "wikidataId": "Q132355945"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1430968,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ru",
+      "name": "Russian"
+    }
+  ],
+  "originalTitle": "Idiotka",
+  "overview": "In West Hollywood’s Russian district, Margarita lives out the American Dream: competing on a reality show. Will she slay, serve, or survive?",
+  "posterPath": "/4qad2d5lrrZsni5n8tzm82CpyOX.jpg",
+  "rating": 4.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-31",
+      "gapDays": 32,
+      "theatricalDate": "2026-02-27"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-03-31",
+      "premiere": "2025-03-12",
+      "theatricalLimited": "2026-02-27"
+    }
+  },
+  "runtime": 82,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Next season's fashion victim.",
+  "theatricalDate": "2026-02-27",
+  "title": "Idiotka",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "0xTAq7_40tk",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "gJmuy9i7q_Y",
+      "name": "Official Teaser Trailer",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1430968-idiotka/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 2765,
+          "logoPath": "/fy6GVs6ZtKluakv0Z5nuLesmTqx.png",
+          "name": "Pijama Films"
+        }
+      ]
+    }
+  }
+}

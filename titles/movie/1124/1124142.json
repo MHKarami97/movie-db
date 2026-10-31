@@ -1,0 +1,284 @@
+{
+  "backdropPath": "/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
+  "cast": [
+    {
+      "character": "Amziah King",
+      "id": 10297,
+      "name": "Matthew McConaughey",
+      "profilePath": "/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+    },
+    {
+      "character": "Dob McCoy",
+      "id": 6856,
+      "name": "Kurt Russell",
+      "profilePath": "/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg"
+    },
+    {
+      "character": "Kateri",
+      "id": 4769412,
+      "name": "Angelina LookingGlass",
+      "profilePath": "/jo1OhLLAsM9Noqy9tD3ioJLi2AC.jpg"
+    },
+    {
+      "character": "Oat",
+      "id": 56730,
+      "name": "Cole Sprouse",
+      "profilePath": "/mQAXL0rUGwX316d1FBBQmloZzHu.jpg"
+    },
+    {
+      "character": "Chimmy",
+      "id": 1475960,
+      "name": "Scott Shepherd",
+      "profilePath": "/leLuJUpF6uySDWPS7FwHpObAMs4.jpg"
+    },
+    {
+      "character": "Rippy",
+      "id": 1281250,
+      "name": "Rob Morgan",
+      "profilePath": "/ps6wR3JZnk6MY9tbtOLORgadqs6.jpg"
+    },
+    {
+      "character": "Colemar",
+      "id": 1291350,
+      "name": "Tony Revolori",
+      "profilePath": "/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
+    },
+    {
+      "character": "Remick",
+      "id": 1481235,
+      "name": "Jake Horowitz",
+      "profilePath": "/ijZZcfnpgkJFW9NFsHSV0csVZ33.jpg"
+    },
+    {
+      "character": "Pirate",
+      "id": 1586047,
+      "name": "Owen Teague",
+      "profilePath": "/tgCkGE0LIggyjMmgSwHhpZAkfJs.jpg"
+    },
+    {
+      "character": "Sunderland",
+      "id": 1622069,
+      "name": "Bruce Davis",
+      "profilePath": "/zS4lu2sT6Tz45K17MnCcq9Pkpk9.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 22146,
+      "logoPath": "/v37N1mFeXNQfvPankg3feBhVvM7.png",
+      "name": "Black Bear Pictures"
+    },
+    {
+      "id": 437,
+      "logoPath": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+      "name": "Heyday Films"
+    },
+    {
+      "id": 303077,
+      "logoPath": "/eUh3cQPZj5P9zTYNPILlrTvvyrT.png",
+      "name": "G.E.D. Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-09-15",
+  "externalIds": {
+    "imdbId": "tt27706593",
+    "wikidataId": "Q122585845"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 25,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1124142,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Rivals of Amziah King",
+  "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
+  "posterPath": "/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-13"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-15",
+      "gapDays": 25,
+      "theatricalDate": "2026-08-21"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-08-13"
+    },
+    "US": {
+      "digital": "2026-09-15",
+      "premiere": "2025-03-10",
+      "theatrical": "2026-08-21",
+      "theatricalLimited": "2026-08-14"
+    }
+  },
+  "runtime": 131,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Ain’t no one all bad or all good.",
+  "theatricalDate": "2026-08-21",
+  "title": "The Rivals of Amziah King",
+  "translations": {
+    "faTitle": "رقیبان امزیا کینگ"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "TYxj-lYOxyY",
+      "name": "Now Playing Only in Theaters",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "yG2l0Qcvi1Q",
+      "name": "Official Clip - Every Queen's a Survivor",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "QXcCAqHjd6w",
+      "name": "Meet Oat",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "IlnUi5q2KlE",
+      "name": "Tour Sizzle",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "3AsSB0GigHg",
+      "name": "Matthew McConaughey and Andrew Patterson | MUBI Picks at Posteritati",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "4laLp51eYLY",
+      "name": "Savor",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "d95oHcmzd0M",
+      "name": "Hive",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ia2xOkOdv8s",
+      "name": "One Week",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "lSK1C--KiaQ",
+      "name": "Stolen",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Mto1BmV1p_s",
+      "name": "Get Tickets",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "GwSvAyaMGMo",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 122,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1124142-the-rivals-of-amziah-king/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

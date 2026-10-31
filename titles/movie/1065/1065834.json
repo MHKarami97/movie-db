@@ -1,0 +1,173 @@
+{
+  "backdropPath": "/5RkZOvu9FC0A8NypE2BL7oKNOTU.jpg",
+  "cast": [
+    {
+      "character": "Antony Varghese",
+      "id": 1758913,
+      "name": "Antony Varghese",
+      "profilePath": "/dKRa8ghSXw6J1OTcxMziZh3l1jb.jpg"
+    },
+    {
+      "character": "Maari",
+      "id": 213428,
+      "name": "Sunil Varma",
+      "profilePath": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg"
+    },
+    {
+      "character": "Lucy",
+      "id": 1974753,
+      "name": "Dushara Vijayan",
+      "profilePath": "/5C5V9qdYil7LVCp8LqctZCEsu1n.jpg"
+    },
+    {
+      "character": "Ali",
+      "id": 111669,
+      "name": "Jagadish",
+      "profilePath": "/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+      "character": "Eddy",
+      "id": 1543640,
+      "name": "Kabir Duhan Singh",
+      "profilePath": "/lAVAxFARP63oTHMYWpwHrWsXPWa.jpg"
+    },
+    {
+      "character": "Roby",
+      "id": 4555786,
+      "name": "Parth Tiwari",
+      "profilePath": null
+    },
+    {
+      "character": "Maari 95",
+      "id": 2520756,
+      "name": "Raj Tirandasu",
+      "profilePath": "/dnuD0t8xpELhXs4tKZDRdsFureg.jpg"
+    },
+    {
+      "character": "George D’Peter",
+      "id": 111668,
+      "name": "Siddique",
+      "profilePath": "/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+      "character": "Stanley",
+      "id": 1657965,
+      "name": "Anson Paul",
+      "profilePath": "/tuuQTQFh4qMY7EOP9rgVlz0Y57y.jpg"
+    },
+    {
+      "character": "Malik",
+      "id": 5549653,
+      "name": "Hanan Shaah",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 210027,
+      "logoPath": null,
+      "name": "Cubes Entertainments"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35668756",
+    "wikidataId": "Q134884231"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1065834,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ml",
+      "name": "Malayalam"
+    }
+  ],
+  "originalTitle": "കാട്ടാളൻ",
+  "overview": "Power-hungry forces clash in the Ivory cartel war-a fierce story of control, vengeance, and survival where compassion vanishes and only the ruthless endure.",
+  "posterPath": "/53FATyQirV8BuBcrsQMGPvGKgCu.jpg",
+  "rating": 5.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-28"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-14"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-28"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-05-28"
+    },
+    "GB": {
+      "theatrical": "2026-05-14"
+    },
+    "US": {
+      "theatrical": "2026-05-28"
+    }
+  },
+  "runtime": 119,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "THE HUNTER",
+  "theatricalDate": "2026-05-28",
+  "title": "Kattalan",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "xlTJlHyhCWM",
+      "name": "Kattalan | Official Trailer | Antony Pepe",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 10,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 630,
+          "logoPath": "/vnpp3n6DAIh2sKXfMbehKZAWJMC.png",
+          "name": "STARZPLAY"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1065834/watch?locale=AE",
+      "rent": []
+    }
+  }
+}

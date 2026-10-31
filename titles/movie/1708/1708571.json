@@ -1,0 +1,141 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 2446598,
+      "name": "Francisca Alarcão",
+      "profilePath": "/2JP41Vj0D9ZcZmDoflAJDUTyzFw.jpg"
+    },
+    {
+      "character": "",
+      "id": 3790622,
+      "name": "Maria Novo",
+      "profilePath": "/QdAsav3HZ2Uh8MAv7PSlDGBip6.jpg"
+    },
+    {
+      "character": "",
+      "id": 590442,
+      "name": "Constance Rousseau",
+      "profilePath": "/l4lc7Fz9ls2ptjTvobYL2n3Zmdm.jpg"
+    },
+    {
+      "character": "",
+      "id": 937208,
+      "name": "Rita Azevedo Gomes",
+      "profilePath": "/8y4GlBNfhQdqyBrqTbJoMmKcUWW.jpg"
+    },
+    {
+      "character": "",
+      "id": 6324783,
+      "name": "Jan Baeta Salvany",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 3718454,
+      "name": "Asier Armental",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6367266,
+      "name": "Matías Tolchinsky",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6367267,
+      "name": "Clara Alvarez-Emparanza",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 178397,
+      "logoPath": "/sLW7tLTxGr0XKP44nvmSI7ri1hw.png",
+      "name": "Terratreme Filmes"
+    },
+    {
+      "id": 301078,
+      "logoPath": null,
+      "name": "Endymion Pro"
+    }
+  ],
+  "countries": [
+    {
+      "code": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt43630246"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1708571,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "El espejismo",
+  "overview": "Mirages have been reported along the Spanish coast. A young French woman travels to San Sebastián to observe these visual aberrations. There, she meets a mysterious Portuguese woman who tells her a story from her youth: of obsession, and a gaze that can turn the world inside out.",
+  "posterPath": "/yTLtbWwGH9jY1SPa6qMh0o3Fnu1.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-12-04"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatricalLimited": "2026-12-04"
+    }
+  },
+  "runtime": 70,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-12-04",
+  "title": "Mirage",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

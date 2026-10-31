@@ -1,0 +1,171 @@
+{
+  "backdropPath": "/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
+  "cast": [
+    {
+      "character": "Khaled Al-Azzazi",
+      "id": 232318,
+      "name": "Ahmad Ezz",
+      "profilePath": "/mgQhox7AbzVsQ8xeTZvkK5Gvkd4.jpg"
+    },
+    {
+      "character": "Ghali Abu Daoud",
+      "id": 140869,
+      "name": "Karim Abdel Aziz",
+      "profilePath": "/2BOyYiFfU1nCPjehs2RCCTmXIxu.jpg"
+    },
+    {
+      "character": "Giulia",
+      "id": 28782,
+      "name": "Monica Bellucci",
+      "profilePath": "/7g3k3u2gZpE7XU8GRYwHDuN1jlM.jpg"
+    },
+    {
+      "character": "General Nasser",
+      "id": 1674946,
+      "name": "Nasser Al Qasabi",
+      "profilePath": "/hNo0lzvLp323QjomlcS3Dw6rSbA.jpg"
+    },
+    {
+      "character": "General Sabri",
+      "id": 1186525,
+      "name": "Sayed Ragab",
+      "profilePath": "/r6zPbQX4Rj4Y1ynk5Ym4kfdYBpq.jpg"
+    },
+    {
+      "character": "",
+      "id": 1622832,
+      "name": "Tara Emad",
+      "profilePath": "/oNS3ui8NT6VWPIDERi2igvN82Tf.jpg"
+    },
+    {
+      "character": "Roman Marks",
+      "id": 4808,
+      "name": "Giancarlo Esposito",
+      "profilePath": "/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+    },
+    {
+      "character": "",
+      "id": 1358974,
+      "name": "Max Huang",
+      "profilePath": "/pHntB82hNVVKZtTAUgUKr2KE1Zt.jpg"
+    },
+    {
+      "character": "Johar",
+      "id": 42802,
+      "name": "Salman Khan",
+      "profilePath": "/gxKwCCcs777HzsXRpdGsBV87pXn.jpg"
+    },
+    {
+      "character": "Ranjeet",
+      "id": 85881,
+      "name": "Sanjay Dutt",
+      "profilePath": "/70viNBvKHpX1kMZcfIwULqWnfdM.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 225637,
+      "logoPath": "/zCy669TdzbCXopP0PUvyieb9Veo.png",
+      "name": "General Entertainment Authority"
+    },
+    {
+      "id": 233234,
+      "logoPath": "/4wM8aUHgnTTsonuozmohTgNP5i7.png",
+      "name": "Riyadh Season"
+    }
+  ],
+  "countries": [
+    {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    {
+      "code": "EG",
+      "name": "Egypt"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35512499",
+    "wikidataId": "Q136006050"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1316427,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ar",
+      "name": "Arabic"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "7 كلاب",
+  "overview": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
+  "posterPath": "/qK0l8mzBwiMV6N2lHTFccRVddLN.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-27"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-06-26"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-06-26"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-05-27"
+    },
+    "GB": {
+      "theatrical": "2026-06-26"
+    },
+    "US": {
+      "theatrical": "2026-06-26"
+    }
+  },
+  "runtime": 123,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Not all dogs stay loyal.",
+  "theatricalDate": "2026-06-26",
+  "title": "7 Dogs",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Kki2D_5l5bM",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 14,
+  "watchProviders": {}
+}

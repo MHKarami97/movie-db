@@ -1,0 +1,407 @@
+{
+  "backdropPath": "/gOcgmSwbCFW7h1rmEqMvYPzvjh7.jpg",
+  "cast": [
+    {
+      "character": "Jane Archer",
+      "id": 1335315,
+      "name": "Georgina Campbell",
+      "profilePath": "/kgXHKjI728Nv7FLVf38S9QzHU2n.jpg"
+    },
+    {
+      "character": "Psycho Killer",
+      "id": 1084758,
+      "name": "James Preston Rogers",
+      "profilePath": "/6eVau2kFnU15T7D35OCt1uk5cIl.jpg"
+    },
+    {
+      "character": "Mr. Pendleton",
+      "id": 56890,
+      "name": "Malcolm McDowell",
+      "profilePath": "/hL8ep4Hqj6izX7IlzE7Bbcfq62w.jpg"
+    },
+    {
+      "character": "Marvin",
+      "id": 116088,
+      "name": "Logan Miller",
+      "profilePath": "/xa62ZRSMFUUk4KS9kkKYZkNDlKi.jpg"
+    },
+    {
+      "character": "Agent Becky Collins",
+      "id": 1554188,
+      "name": "Grace Dove",
+      "profilePath": "/s2Bnkna2WqGFzmI4NHOIOaNKHLa.jpg"
+    },
+    {
+      "character": "Leonard Wilkes",
+      "id": 1717122,
+      "name": "Aaron Merke",
+      "profilePath": "/xQgZ5KvAeoC6vpuP88t43mtAS57.jpg"
+    },
+    {
+      "character": "Motorist",
+      "id": 4655605,
+      "name": "Joshua Banman",
+      "profilePath": "/3JD7uMguXFrPWJeZOHisnpCsTEm.jpg"
+    },
+    {
+      "character": "Motorist's Wife",
+      "id": 1281629,
+      "name": "Cassandra Ebner",
+      "profilePath": "/ykIe7cvJjrdBgPilC5sCsZkwXCz.jpg"
+    },
+    {
+      "character": "Mitch-Three Mile Island Gate Guard",
+      "id": 2146582,
+      "name": "Darren Martens",
+      "profilePath": "/pvowdVhnywld1gapJh6PXX3aWCL.jpg"
+    },
+    {
+      "character": "Female Pharmacist",
+      "id": 2925864,
+      "name": "Sydney Sabiston",
+      "profilePath": "/kkiwYaLWMnNQqYSYgbRfNKIMZ62.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 10104,
+      "logoPath": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+      "name": "New Regency Pictures"
+    },
+    {
+      "id": 829,
+      "logoPath": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
+      "name": "Vertigo Entertainment"
+    },
+    {
+      "id": 47,
+      "logoPath": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+      "name": "Constantin Film"
+    },
+    {
+      "id": 508,
+      "logoPath": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+      "name": "Regency Enterprises"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "2026-04-07",
+  "externalIds": {
+    "imdbId": "tt1764551",
+    "wikidataId": "Q135321332"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 46,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1107166,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Psycho Killer",
+  "overview": "Following the brutal murder of her husband, a Kansas highway patrol officer sets out on a journey to track down the perpetrator. As the hunt progresses, she comes to realize the man responsible is a sadistic serial killer, and the depth of his mental depravity and his sinister agenda is more twisted than anyone could have imagined.",
+  "posterPath": "/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-06-23",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-07",
+      "gapDays": 46,
+      "theatricalDate": "2026-02-20"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-06-23"
+    },
+    "US": {
+      "digital": "2026-04-07",
+      "theatrical": "2026-02-20"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "He’s coming for you.",
+  "theatricalDate": "2026-02-20",
+  "title": "Psycho Killer",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "3xSDSLWAy7Y",
+      "name": "Meet your new nightmare.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "rP3VeASFuLw",
+      "name": "Be the first to watch PSYCHO KILLER at home.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "rjc0k9yU8Ys",
+      "name": "Buy It On Digital April 7",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "XKiLwD4jP3c",
+      "name": "Now playing in theaters.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "EV2JoDu5cAs",
+      "name": "Now Playing In Theaters",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Vq-Q7vcgEyY",
+      "name": "West Coast Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "0zZ_5KBAFtw",
+      "name": "Spotted: PSYCHO KILLER loose at the premiere of his new movie.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "JuBYlf7BMPU",
+      "name": "PSYCHO KILLER star James Preston Rogers on seeing the film in theaters.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "nIJPpjRQOY8",
+      "name": "PSYCHO KILLER star Georgina Campbell on seeing scary films in theaters.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "u81TcLLVP_I",
+      "name": "James Preston Rogers at the PSYCHO KILLER premiere in Los Angeles",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "brkjfAXXArk",
+      "name": "Georgina Campbell at the PSYCHO KILLER premiere in Los Angeles.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "t1q9kB7fLxs",
+      "name": "Only In Theaters Friday",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "zbcFpNPDhis",
+      "name": "Connect the clues and find him.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "4HzZsgFOlRg",
+      "name": "“The Motel Room\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "-pRCwpdjE2o",
+      "name": "Truly terrifying.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "PyJB9oP4GH0",
+      "name": "PSYCHO KILLER star James Preston Rogers returns to the ring where it all started.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "dnynx8bgw80",
+      "name": "POV: the Psycho Killer",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "RVu6jcOxFkM",
+      "name": "Only In Theaters Feb 20",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "EY2eVsTYh8I",
+      "name": "Tickets On Sale",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "iOwBqvGUp1A",
+      "name": "“Satanic Slasher” Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "pwq8gwdVxts",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 266,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1107166-psycho-killer/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1107166-psycho-killer/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

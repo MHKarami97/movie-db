@@ -1,0 +1,211 @@
+{
+  "backdropPath": "/wBV11KLQcp5pyxl8JW1lBaDshqr.jpg",
+  "cast": [
+    {
+      "character": "Pedro",
+      "id": 1724554,
+      "name": "Rafael Vitti",
+      "profilePath": "/a7QUFGOjXhEs0eaUMZQWIoZ82DY.jpg"
+    },
+    {
+      "character": "Caramelo",
+      "id": 6151823,
+      "name": "Amendoim",
+      "profilePath": "/xHEUwcnKUBMApAe2zmr3AsRfweG.jpg"
+    },
+    {
+      "character": "Neide",
+      "id": 1825692,
+      "name": "Kelzy Ecard",
+      "profilePath": "/tIh9GAWhVO1aoDH5E2VVltfE31a.jpg"
+    },
+    {
+      "character": "Camila",
+      "id": 2367095,
+      "name": "Arianne Botelho",
+      "profilePath": "/oT6awna46xqykeDE6IIMK5neHsf.jpg"
+    },
+    {
+      "character": "Leo",
+      "id": 3983279,
+      "name": "Bruno Vinicius",
+      "profilePath": "/rJWCMYEkJ2Ie8b5XgnYO7FLZPh.jpg"
+    },
+    {
+      "character": "Paula",
+      "id": 3894112,
+      "name": "Ademara Barros",
+      "profilePath": "/p5iARYXSvqrpqSZQaaczZZkdywF.jpg"
+    },
+    {
+      "character": "Martha",
+      "id": 228011,
+      "name": "Carolina Ferraz",
+      "profilePath": "/2dup1uh3zpY2S9pjksivkXIQxcN.jpg"
+    },
+    {
+      "character": "Dona Zélia",
+      "id": 562165,
+      "name": "Cristina Pereira",
+      "profilePath": "/FjBsbgaOpYbS1mpXIBnEkN6g1V.jpg"
+    },
+    {
+      "character": "Luciana",
+      "id": 2175333,
+      "name": "Noemia Oliveira",
+      "profilePath": "/95yO42O7K3smHhKwiWbXc2Zxwwe.jpg"
+    },
+    {
+      "character": "Laura",
+      "id": 1684953,
+      "name": "Paola Carosella",
+      "profilePath": "/hJZFLzfNRMMHcNzPPLDmZxFyK2q.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 54386,
+      "logoPath": "/pqbhVbxp2qLqILbJf1XMxt6Cmq9.png",
+      "name": "Migdal Filmes"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "digitalDate": "2025-10-08",
+  "externalIds": {
+    "imdbId": "tt32549601",
+    "wikidataId": "Q136468798"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1277988,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "Caramelo",
+  "overview": "After a life-changing diagnosis, a promising chef finds hope and humor with the help of a fur-midable dog friend.",
+  "posterPath": "/c4ZEAah5a01cu27w7vT2IAoFogk.jpg",
+  "rating": 7.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-10-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-10-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-08",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2025-10-08"
+    },
+    "GB": {
+      "digital": "2025-10-08"
+    },
+    "US": {
+      "digital": "2025-10-08"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Caramelo",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "epiLkoJ4dAk",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 307,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1277988-caramelo/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1277988-caramelo/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1277988-caramelo/watch?locale=US",
+      "rent": []
+    }
+  }
+}

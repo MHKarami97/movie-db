@@ -1,0 +1,215 @@
+{
+  "backdropPath": "/iSrSl6YQZ5Xbqup8vTxHbu88eOb.jpg",
+  "cast": [
+    {
+      "character": "Self - Victim (archive footage)",
+      "id": 5888707,
+      "name": "Edmond Safra",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Edmond's Wife / Widow (archive footage)",
+      "id": 5888702,
+      "name": "Lily Safra",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Edmond's Nurse",
+      "id": 5888684,
+      "name": "Ted Maher",
+      "profilePath": "/eeCyzaW275xLP8xM9Nr62krBNM6.jpg"
+    },
+    {
+      "character": "Self - Investigative Reporter, New York Post",
+      "id": 5888686,
+      "name": "Isabel Vincent",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Aristocrat & Author",
+      "id": 1536931,
+      "name": "Lady Colin Campbell",
+      "profilePath": "/axtt94c1l8TsG4eYbY6bB9AYbcU.jpg"
+    },
+    {
+      "character": "Self - Edmond's Business Partner",
+      "id": 2465588,
+      "name": "Bill Browder",
+      "profilePath": "/vw2p27zIUbsVaq9SYMf1x0CIBzH.jpg"
+    },
+    {
+      "character": "Self - Ted's Defense Lawyer",
+      "id": 4452440,
+      "name": "Michael Griffith",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Ted's Monaco Defense Lawyer",
+      "id": 5888696,
+      "name": "Sandrine Setton",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Head Nurse / Witness",
+      "id": 5888698,
+      "name": "Sonia Herkrath",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Ted's Cellmate",
+      "id": 5888706,
+      "name": "Luigi Ciadelli",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 138301,
+      "logoPath": "/kjYLNBezs8z364sgZDi2qHDEMb3.png",
+      "name": "Ventureland"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-12-17",
+  "externalIds": {
+    "imdbId": "tt38984577"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1584619,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Murder in Monaco",
+  "overview": "Monaco, 1999. One of the world's richest men dies in his penthouse. This documentary unpacks the mysterious murder of billionaire banker, Edmond Safra.",
+  "posterPath": "/hW93OYJnnHwGaGa4S2mNxlEhgsF.jpg",
+  "rating": 6.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-12-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-12-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2025-12-17"
+    },
+    "US": {
+      "digital": "2025-12-17"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Murder in Monaco",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "XbE_jwpTD1E",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 48,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1584619-murder-in-monaco/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1584619-murder-in-monaco/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1584619-murder-in-monaco/watch?locale=US",
+      "rent": []
+    }
+  }
+}

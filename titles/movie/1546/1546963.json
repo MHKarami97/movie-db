@@ -1,0 +1,160 @@
+{
+  "backdropPath": "/438YXcPF7bkEjJUEktMn2GocS6Q.jpg",
+  "cast": [
+    {
+      "character": "Refik",
+      "id": 117640,
+      "name": "Haluk Bilginer",
+      "profilePath": "/krCEBAIGmEUUcA4GpLt3RiTHKLC.jpg"
+    },
+    {
+      "character": "Ferruh",
+      "id": 1676413,
+      "name": "Feyyaz Yiğit",
+      "profilePath": "/3WXnfvHyBN9oH1KorVEKWlGgXFa.jpg"
+    },
+    {
+      "character": "Lale",
+      "id": 87222,
+      "name": "Hatice Aslan",
+      "profilePath": "/3AfcaaXYatSN5njBi3EbMzEG3Lg.jpg"
+    },
+    {
+      "character": "Figen",
+      "id": 1893219,
+      "name": "Bige Önal",
+      "profilePath": "/rRqmxAZvQTDijssA2kOTqIpurJc.jpg"
+    },
+    {
+      "character": "Şeyda",
+      "id": 238632,
+      "name": "Şevval Sam",
+      "profilePath": "/vIvqB62VSsDCOKEPcWX1tPdQzrE.jpg"
+    },
+    {
+      "character": "Berrak",
+      "id": 4535673,
+      "name": "Meyra Ahsen Temel",
+      "profilePath": "/aUAgMvKDrKIBFL18oUn7NDGTsnV.jpg"
+    },
+    {
+      "character": "Hasene",
+      "id": 2685362,
+      "name": "Şirin Öten",
+      "profilePath": "/sgtkfFyuojQJnVPQ9Srv9SY1FM0.jpg"
+    },
+    {
+      "character": "Buğra",
+      "id": 4562446,
+      "name": "Berke Gündem",
+      "profilePath": null
+    },
+    {
+      "character": "Ahmet",
+      "id": 3779921,
+      "name": "Şafak Topal",
+      "profilePath": "/tSLMa6DfrSUzaS5UavjiCrEQ3G5.jpg"
+    },
+    {
+      "character": "Yavuz",
+      "id": 1995462,
+      "name": "Kubilay Penbeklioğlu",
+      "profilePath": "/2GB8flen0cnu3pwRRghqjQdSB9m.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 88593,
+      "logoPath": "/bX3uLMaFzSKJ8I14OAWgKIlcLHY.png",
+      "name": "Nulook Production"
+    }
+  ],
+  "countries": [
+    {
+      "code": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37529347",
+    "wikidataId": "Q136915515"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1546963,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "tr",
+      "name": "Turkish"
+    }
+  ],
+  "originalTitle": "Yan Yana",
+  "overview": "A wealthy man, paralysed after an accident, hires a caregiver from a completely different background. The unlikely relationship between these two opposite characters soon transforms into an extraordinary and powerful friendship that changes both of their lives.",
+  "posterPath": "/hykA5yq9tHCKR7WENSgavrNdFeS.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-11-21"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2025-11-21"
+    }
+  },
+  "runtime": 148,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2025-11-21",
+  "title": "Yan Yana",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 32,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1546963-yan-yana/watch?locale=AE",
+      "rent": []
+    }
+  }
+}

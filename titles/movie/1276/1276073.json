@@ -1,0 +1,224 @@
+{
+  "backdropPath": "/zHP9pMtYuMZBluNZNBP9i5fX2US.jpg",
+  "cast": [
+    {
+      "character": "Kazuya Takaichi",
+      "id": 80753,
+      "name": "Tsuyoshi Kusanagi",
+      "profilePath": "/bDkJE3o9Jzl2UGUgmEGVjxuIWP7.jpg"
+    },
+    {
+      "character": "Yuko Kagami",
+      "id": 20705,
+      "name": "Machiko Ono",
+      "profilePath": "/yGD1ENVq3sRsOyPDtZMFIynXDUc.jpg"
+    },
+    {
+      "character": "Mitsuru Todoroki",
+      "id": 151027,
+      "name": "Jun Kaname",
+      "profilePath": "/jOX0xe8qrl8BaKS0QaijwmI8WSQ.jpg"
+    },
+    {
+      "character": "Chika Matsumoto",
+      "id": 1405924,
+      "name": "Non",
+      "profilePath": "/yBiPy9oeHZSZLuGuTUgGk0PONbd.jpg"
+    },
+    {
+      "character": "Keiji Fujii",
+      "id": 2236358,
+      "name": "Kanata Hosoda",
+      "profilePath": "/jzAY3P40g705sXd3QEfM1BtwVul.jpg"
+    },
+    {
+      "character": "Kodai Hayashi",
+      "id": 1404981,
+      "name": "Daisuke Kuroda",
+      "profilePath": "/bBwirsQ3ZvH1hNeNXXJGrpm3Ocu.jpg"
+    },
+    {
+      "character": "Masayoshi Goto",
+      "id": 1502395,
+      "name": "Satoru Matsuo",
+      "profilePath": "/8PaX65udpDordFfvjSNWcsRJflm.jpg"
+    },
+    {
+      "character": "Ichikawa",
+      "id": 19855,
+      "name": "Suzuka Ohgo",
+      "profilePath": "/9lnTlEwU7qeTUl9gSFADyKFZjbN.jpg"
+    },
+    {
+      "character": "Yuzuki Onodera",
+      "id": 1672811,
+      "name": "Hana Toyoshima",
+      "profilePath": "/f8SwSHhkvo64jxpMssh1Vp8BWBM.jpg"
+    },
+    {
+      "character": "Yuichi Kasagi",
+      "id": 115700,
+      "name": "Takumi Saitoh",
+      "profilePath": "/3O6VgunrTqhKSGbbfl8E2xZYgvt.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 185004,
+      "logoPath": "/tyHnxjQJLH6h4iDQKhN5iqebWmX.png",
+      "name": "Netflix"
+    },
+    {
+      "id": 205952,
+      "logoPath": "/388yk5xwocvxFMvNZoUkNu5Lj6L.png",
+      "name": "EPISCOPE"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2025-04-23",
+  "externalIds": {
+    "imdbId": "tt33452974",
+    "wikidataId": "Q133041180"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1276073,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "originalTitle": "新幹線大爆破",
+  "overview": "When panic erupts on a Tokyo-bound bullet train that will explode if it slows below 100 kph, authorities race against time to save everyone on board.",
+  "posterPath": "/jmzxlDBwgvRbpPJzNQwizyn9UEn.jpg",
+  "rating": 6.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-04-23",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-04-23"
+    }
+  },
+  "runtime": 137,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Bullet Train Explosion",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "bYopWaT8Sr0",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "Uxj6UfRH-Eg",
+      "name": "Official Teaser [Subtitled]",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 83,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1276073/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1276073/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1276073/watch?locale=US",
+      "rent": []
+    }
+  }
+}

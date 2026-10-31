@@ -1,0 +1,703 @@
+{
+  "backdropPath": "/9cd1zsxcOAcBW01WDOWz8EODTS0.jpg",
+  "cast": [
+    {
+      "character": "Ella McCay",
+      "id": 2201315,
+      "name": "Emma Mackey",
+      "profilePath": "/l4JOGnGOAeZr3BQvAerFyvakrU0.jpg"
+    },
+    {
+      "character": "Helen",
+      "id": 8944,
+      "name": "Jamie Lee Curtis",
+      "profilePath": "/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg"
+    },
+    {
+      "character": "Ryan Newell",
+      "id": 1334638,
+      "name": "Jack Lowden",
+      "profilePath": "/mQeiB35UBxjcO1D0pc8ZHKJW5dP.jpg"
+    },
+    {
+      "character": "Trooper Nash",
+      "id": 466505,
+      "name": "Kumail Nanjiani",
+      "profilePath": "/9EyrK1Cv7ey1h1GgmsVAOn45w6G.jpg"
+    },
+    {
+      "character": "Casey",
+      "id": 2304140,
+      "name": "Spike Fearn",
+      "profilePath": "/o1WcXkDdlN5wdL5WIuGXNpNouZ9.jpg"
+    },
+    {
+      "character": "Estelle",
+      "id": 199,
+      "name": "Julie Kavner",
+      "profilePath": "/87kSPYlWcHvqOVEkhdqxysiAf6w.jpg"
+    },
+    {
+      "character": "Claire McCay",
+      "id": 15556,
+      "name": "Rebecca Hall",
+      "profilePath": "/coC58ANiDbqRIyle5zEl9QDektf.jpg"
+    },
+    {
+      "character": "Susan",
+      "id": 2195140,
+      "name": "Ayo Edebiri",
+      "profilePath": "/wrqYWaAmVPM2yueEEQUtMo6kCp2.jpg"
+    },
+    {
+      "character": "Governor Bill",
+      "id": 13,
+      "name": "Albert Brooks",
+      "profilePath": "/8iDSGu5l93N7benjf6b3AysBore.jpg"
+    },
+    {
+      "character": "Eddie McCay",
+      "id": 57755,
+      "name": "Woody Harrelson",
+      "profilePath": "/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 127928,
+      "logoPath": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+      "name": "20th Century Studios"
+    },
+    {
+      "id": 18,
+      "logoPath": "/uqhagSwM7NAkQWVCQhKTyoqF8XH.png",
+      "name": "Gracie Films"
+    },
+    {
+      "id": 22213,
+      "logoPath": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-01-27",
+  "externalIds": {
+    "imdbId": "tt30096221",
+    "wikidataId": "Q124408474"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 46,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1206008,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Ella McCay",
+  "overview": "داستان جوانی به نام الا مک‌کی که با چالش‌های روزمره‌اش در دنیای مدرن دست و پنجه نرم می‌کند. این کمدی پر از لحظات خنده‌دار و احساسی، او را در مسیر پیدا کردن خود و عشق حقیقی‌اش همراهی می‌کند. آیا الا می‌تواند به زندگی‌اش نظم دهد و در عین حال عشق و دوستی واقعی را پیدا کند؟",
+  "posterPath": "/iQCtK477yqp6xnHHrQG2P0lXoow.jpg",
+  "rating": 5.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-12-12"
+    },
+    "US": {
+      "digitalDate": "2026-01-27",
+      "gapDays": 46,
+      "theatricalDate": "2025-12-12"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2025-12-12"
+    },
+    "US": {
+      "digital": "2026-01-27",
+      "physical": "2026-03-03",
+      "premiere": "2025-12-09",
+      "theatrical": "2025-12-12"
+    }
+  },
+  "runtime": 115,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A story about the people you love, and how to survive them.",
+  "theatricalDate": "2025-12-12",
+  "title": "Ella McCay",
+  "translations": {
+    "faOverview": "داستان جوانی به نام الا مک‌کی که با چالش‌های روزمره‌اش در دنیای مدرن دست و پنجه نرم می‌کند. این کمدی پر از لحظات خنده‌دار و احساسی، او را در مسیر پیدا کردن خود و عشق حقیقی‌اش همراهی می‌کند. آیا الا می‌تواند به زندگی‌اش نظم دهد و در عین حال عشق و دوستی واقعی را پیدا کند؟",
+    "faTitle": "الا مک کی"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "pmmHwRxes1w",
+      "name": "Jamie Lee Curtis 🤝 Aunt Helen",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "jpewu-6iJFc",
+      "name": "Ella is...",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "jiCXb4SDy7w",
+      "name": "Ella is just making the best of a b̶a̶d̶ dad situation",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "onDPnwnDdFg",
+      "name": "Now Streaming on Hulu on Disney Plus",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "oC4MVMJpOD8",
+      "name": "Describe your family",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "pK0wPlOyqNk",
+      "name": "PSA",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "RcRN6pm3KKE",
+      "name": "Buy On Digital January 27 and Streaming February 5",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "8tqypIkHwWA",
+      "name": "he's got a point.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "nx0ZtKcF9JM",
+      "name": "mom would be proud",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "_jvB6CrqXmc",
+      "name": "Thank you, Jamie Lee Curtis for the most beautiful photos.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "gDTqH820IJg",
+      "name": "Words of wisdom from Jamie Lee Curtis to get you through this holiday season.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "vYYV42XRBEw",
+      "name": "Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "-1HdXhe7cDQ",
+      "name": "Get ready for Ella McCay",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "V-BIkRfCaRM",
+      "name": "Aunt Helen has a point...",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "VYtBo3ooILg",
+      "name": "big smiles, bigger personalities.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "BsFfPD8jDtw",
+      "name": "a lot going on here",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ZvWK0YKZBJ0",
+      "name": "Ranking fruitcake #1 is a wild choice.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "l9lLfsyHExQ",
+      "name": "\"Casey McCay\"",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "DZ6GgQe5xLo",
+      "name": "\"James L. Brooks Laugh\"",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "JhicvQybVUQ",
+      "name": "Emma Mackey is Ella McCay.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "mqGU-T49N2M",
+      "name": "cheese!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "cqpP5ru14kU",
+      "name": "Ella McCay is NOW PLAYING only in theaters!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "prgRyeOw1l4",
+      "name": "Julie Kavner picks: Ella McCay or The Simpsons?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "_Mj-wVAoeTw",
+      "name": "you heard them!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "k0CeRKm89Js",
+      "name": "Interview with James L. Brooks",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "RgydjhpAqMc",
+      "name": "See the movie, only in theaters, beginning Friday!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ydlj0TCWiHA",
+      "name": "The McCay Family",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "f8q2FN7luh4",
+      "name": "Woody Harrelson is Eddie McCay",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "91wk5pKc-v4",
+      "name": "🤨🤨🤨",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "XuudNJn7CO4",
+      "name": "Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "4rI8AFW-M6Q",
+      "name": "Julie Kavner Talks James L. Brooks",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "5dLEpYnP3uQ",
+      "name": "sibling rivalry cookie edition",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "nQOpSf6z6hI",
+      "name": "\"Governor Bill\"",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "QQFaAGRTtQY",
+      "name": "\"hilarious, smart, and a breath of fresh air.\"",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "NgLaI-WQkCg",
+      "name": "\"Emma and Jamie\"",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "k-_8I29t8Y0",
+      "name": "👆👉👇👈",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "PVL4dECgo2I",
+      "name": "Trooper Nash",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "mJwyf11dIIo",
+      "name": "Lisa's New Favorite Movie",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "mh4U6j4SnsA",
+      "name": "words of wisdom from Ella McCay",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "5XBOIVWQwgw",
+      "name": "\"Meet the McCays\"",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "rdiicA0HfWk",
+      "name": "There's a lot to unpack here...",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "uludt5sT7sQ",
+      "name": "shhhhhhh!!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "vCrYvf6vWSo",
+      "name": "\"Tickets on Sale\"",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "4I7fMjJRVb4",
+      "name": "\" A Star Is Born\"",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "mIP7Am0lzps",
+      "name": "Get to know Ella McCay this holiday season.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "H4vaHbIuLNE",
+      "name": "In Theaters December 12",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "X4ngb6wZvXQ",
+      "name": "Families, huh?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "TVQwbVmPrlE",
+      "name": "\"Your Favorite Aunt\"",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "cOJ7lA1G5os",
+      "name": "That one aunt around the holidays...",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "kKW0fMxI84c",
+      "name": "Special Look with Julie Kavner",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "o9orHJuWs7g",
+      "name": "Disney+ Special Look",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "yomCN0sQjlM",
+      "name": "Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "JHeejTBnAEk",
+      "name": "Fun it is!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "O1dGLXNIdCQ",
+      "name": "Emma Mackey",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "HB33O4oiiKs",
+      "name": "\"His movies are about real life! They make you laugh, they make you cry!\"",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "w5RBw3Cv_Vw",
+      "name": "Would you... be my girlfriend...?",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "9-KJm1ImYeI",
+      "name": "This holiday season, see the movie being called \"hilarious and perfectly timed\"",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "AUpW_QepecI",
+      "name": "Close Friends only",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "iO4CHl7BRWE",
+      "name": "\"First Look\"",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "1qgvkXhwk2Y",
+      "name": "✨crashout core✨",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "DGE_RSEaRMc",
+      "name": "Thank you for possibly meaning well",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "PzrRLMkbKmk",
+      "name": "meet Ella McCay",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "KbZhW71SX6U",
+      "name": "From Academy Award winning writer/director James L. Brooks comes the perfect holiday comedy.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "yur8TH3-6nY",
+      "name": "It's a tale of the ties that bind us, the people we can count on, and the ones we can't.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "vRE6Iobir8k",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "3KQP1QlK4W0",
+      "name": "Full Trailer Online Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "4K5BWzLfY18",
+      "name": "🗣️🗣️🗣️",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "EgEy6tp0iY4",
+      "name": "*face palm*",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "hJYPGhJDjaU",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "0iiZrHQd2QI",
+      "name": "From Academy Award winning writer/director James L. Brooks Comes Ella McCay",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 153,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1206008-ella-mccay/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1206008-ella-mccay/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

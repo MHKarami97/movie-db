@@ -1,0 +1,80 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 124355,
+      "logoPath": "/lvRG3DGmw1pXIeFKLZnVHg2eyOz.png",
+      "name": "JMH & FILO Films"
+    },
+    {
+      "id": 13668,
+      "logoPath": "/azhapBvZ8g1UWyyQQhhcRR9bM9x.png",
+      "name": "RTS"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt43639466"
+  },
+  "fetchedAt": 1793906464749,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1735045,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Derborence Le Temps des Animaux",
+  "overview": "High on the Diablerets massif, the cable car unloads skiers. On the other side of the mountain, in a kind of mirror image, silence prevails, along with the quiet, hidden life of Derborence's wildlife.",
+  "posterPath": "/cHyRXltbo2WL55PCdzne3RxwkUx.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Derborence The Age of Animals",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

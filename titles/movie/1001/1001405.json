@@ -1,0 +1,161 @@
+{
+  "backdropPath": "/sgeRFYaTWyeWv6YH04LPCEHxMsX.jpg",
+  "cast": [
+    {
+      "character": "Fulda",
+      "id": 1710851,
+      "name": "Alexis Manenti",
+      "profilePath": "/n9YW0FkKhxlwMhFQz3U2OokuWFZ.jpg"
+    },
+    {
+      "character": "Stéphane",
+      "id": 1438688,
+      "name": "Ella Rumpf",
+      "profilePath": "/4igT9ZxHs26m6ttyMcZH50NrWgd.jpg"
+    },
+    {
+      "character": "Victor",
+      "id": 1789141,
+      "name": "Vincent Dedienne",
+      "profilePath": "/j6tser7BHGoi6cP7bQAXQlCGbMO.jpg"
+    },
+    {
+      "character": "Brun",
+      "id": 32512,
+      "name": "Jean-Louis Coulloc'h",
+      "profilePath": "/iOpX699s4qVKnnV6Kx9ioS0Owhh.jpg"
+    },
+    {
+      "character": "Alain",
+      "id": 1807099,
+      "name": "Pascal Rénéric",
+      "profilePath": null
+    },
+    {
+      "character": "Marchal",
+      "id": 1999145,
+      "name": "Bertrand Belin",
+      "profilePath": "/1HLghObBp9873LcW5Y2OKLqwOd.jpg"
+    },
+    {
+      "character": "Lara",
+      "id": 6234268,
+      "name": "Jade Fiess",
+      "profilePath": null
+    },
+    {
+      "character": "La Tige",
+      "id": 20668,
+      "name": "Bernard Blancan",
+      "profilePath": "/6VYHegXZT689i8b5nyWwc3e7tNs.jpg"
+    },
+    {
+      "character": "Brochier",
+      "id": 228196,
+      "name": "Thierry Godard",
+      "profilePath": "/iIW7YCzXr1VR9TWOKhUon7ghO8V.jpg"
+    },
+    {
+      "character": "Stanislass",
+      "id": 2240167,
+      "name": "Mathieu Perotto",
+      "profilePath": "/gQJXvDulNKsrJduNcIHD5iRw8g.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 591,
+      "logoPath": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma"
+    },
+    {
+      "id": 91264,
+      "logoPath": "/jywu8rj63U4pTP2qq2JGNjIm337.png",
+      "name": "5à7 Films"
+    },
+    {
+      "id": 6750,
+      "logoPath": "/j3Ccn4vzMKwWZJWA6adGqDrL8OU.png",
+      "name": "Pan-Européenne"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38841455",
+    "wikidataId": "Q139721003"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1001405,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "L'Espèce explosive",
+  "overview": "In the French countryside, wild boars ravaging crops spark an open war between farmers and members of a gentlemen’s hunting club, who feed the game between hunts. Brun, a bankrupt farmer, struggles to keep his farm afloat. When the club’s president pushes him to his limits, Brun shoots him and disappears. A year later, Fulda, a volatile police officer just transferred to the region, leads the investigation. Still struggling after a recent breakup, and as wild boars proliferate across the region, he is pushed to the brink of sanity.",
+  "posterPath": "/hOB3qNerOdWvDrJcn9rfA4SvNNs.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-10-14"
+    },
+    "US": {
+      "premiere": "2026-10-16"
+    }
+  },
+  "runtime": 95,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Too Many Beasts",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "YLYPKrlGKA4",
+      "name": "Clip (English subs)",
+      "official": true,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {}
+}

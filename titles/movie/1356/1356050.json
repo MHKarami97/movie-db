@@ -1,0 +1,218 @@
+{
+  "backdropPath": "/pAWqO3Apq8zZ9UtprLKTvWIWgmo.jpg",
+  "cast": [
+    {
+      "character": "Maria",
+      "id": 3049059,
+      "name": "Mavournee Hazel",
+      "profilePath": "/hLPqQhNB36w9ZmG0wzPSF4vlkzW.jpg"
+    },
+    {
+      "character": "Dai",
+      "id": 2398772,
+      "name": "Diesel La Torraca",
+      "profilePath": "/cpEU7pWPLSHzcuHMoAAlUURz6Z5.jpg"
+    },
+    {
+      "character": "Will",
+      "id": 1510769,
+      "name": "Harry Greenwood",
+      "profilePath": "/bTTjxIacR1a9GPVx2SkieZYHvbF.jpg"
+    },
+    {
+      "character": "Lucille",
+      "id": 10760,
+      "name": "Geneviève Lemon",
+      "profilePath": "/x3manbCDNOrp0dE3iEbWAu5N3dA.jpg"
+    },
+    {
+      "character": "Jason",
+      "id": 1281967,
+      "name": "Josh McConville",
+      "profilePath": "/3Au004X5BsV5KIpOLMB8g9DuevT.jpg"
+    },
+    {
+      "character": "Joel",
+      "id": 4939807,
+      "name": "Max Cattana",
+      "profilePath": null
+    },
+    {
+      "character": "Michael",
+      "id": 3283137,
+      "name": "Jack Sacks",
+      "profilePath": null
+    },
+    {
+      "character": "Firefighter",
+      "id": 2220846,
+      "name": "Jesse Turner",
+      "profilePath": "/7obrRZt5FxhlH0lOvqnDmhy9Mud.jpg"
+    },
+    {
+      "character": "Frances",
+      "id": 5361737,
+      "name": "Iolanthe",
+      "profilePath": "/oB6ZP5m2BAJRS0Q6N9yVZqTUsjN.jpg"
+    },
+    {
+      "character": "",
+      "id": 6374501,
+      "name": "Glenda Kalyk",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 238926,
+      "logoPath": "/jW8YQOuwD1zJCqROFPZ9L7QLPZP.png",
+      "name": "Belmore Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    }
+  ],
+  "digitalDate": "2026-07-24",
+  "externalIds": {
+    "imdbId": "tt31116756"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1356050,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ru",
+      "name": "Russian"
+    }
+  ],
+  "originalTitle": "Cruel Hands",
+  "overview": "A mother and her 12-year-old son flee her abusive husband and seek refuge in an abandoned farmhouse, struggling to build a safe new life as raging wildfires spread and he relentlessly searches for them.",
+  "posterPath": "/v05PSRSJtcGHGmI5Egte76sav7g.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-24",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-07-24",
+      "premiere": "2025-10-26"
+    }
+  },
+  "runtime": 76,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Cruel Hands",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "tlF7Nk2cJi0",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 332,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango at Home Free"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        },
+        {
+          "id": 2077,
+          "logoPath": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+          "name": "Plex Channel"
+        },
+        {
+          "id": 1963,
+          "logoPath": "/n6E9OeoQicCDd43PnLsMpVIVYFK.png",
+          "name": "Xumo Play"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1356050-cruel-hands/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

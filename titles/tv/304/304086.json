@@ -1,0 +1,136 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Gao Yuan",
+      "id": 2365187,
+      "name": "Liu Yuning",
+      "profilePath": "/6JvMALlglmZB5gutlheu4J5KjAI.jpg"
+    },
+    {
+      "character": "Han Yongqiang",
+      "id": 73774,
+      "name": "Sun Honglei",
+      "profilePath": "/sKZR3m6jDz38FOhzXI7MFzFpSjW.jpg"
+    },
+    {
+      "character": "Han Yongyu",
+      "id": 2440968,
+      "name": "Zhang Yifan",
+      "profilePath": "/3zcWMBmP4eGqSgxqKkxe0bTMdm6.jpg"
+    },
+    {
+      "character": "Han Yongjun",
+      "id": 1541647,
+      "name": "Elvis Han",
+      "profilePath": "/r3b5X3gHqHStLnBcs51L7QqraKp.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "digitalDate": "2027-01-01",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793554197690,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 304086,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-01",
+    "episodeNumber": 1,
+    "id": 6634784,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "铁证",
+  "overview": "A chauffeur drawn into corruption rises from pawn to ruthless crime boss by manipulating power, media, and justice—until a relentless anti-crime task force finally brings him down with truth and forensic evidence.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-01"
+    },
+    "CN": {
+      "tv": "2027-01-01"
+    },
+    "GB": {
+      "tv": "2027-01-01"
+    },
+    "US": {
+      "tv": "2027-01-01"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-01",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Evidence",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

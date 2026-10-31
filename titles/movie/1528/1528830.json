@@ -1,0 +1,167 @@
+{
+  "backdropPath": "/ptLT3O7XmXOLplR8T0e9ykGcw8l.jpg",
+  "cast": [
+    {
+      "character": "Flic",
+      "id": 5871794,
+      "name": "Marni Duggan",
+      "profilePath": "/p5rxhcAavspRTtipgXnGCfB2WOQ.jpg"
+    },
+    {
+      "character": "Minna",
+      "id": 5871776,
+      "name": "Galaxie Clear",
+      "profilePath": "/xtASIYr97kXg5pqxBsKvwontScY.jpg"
+    },
+    {
+      "character": "Miss Delavigne",
+      "id": 587823,
+      "name": "Alice Englert",
+      "profilePath": "/lEXLJpH29u2fTTqOIEsxEtSQP8C.jpg"
+    },
+    {
+      "character": "Phoebe",
+      "id": 5938234,
+      "name": "Aoife Riddell",
+      "profilePath": "/wEptzyY4Me2ACGoEVV13RuRhEgR.jpg"
+    },
+    {
+      "character": "Chloe",
+      "id": 5620645,
+      "name": "Iyla Sundarsingh McKaig",
+      "profilePath": "/lIIpRkIyF3jues0rt9Bbk2iDo0U.jpg"
+    },
+    {
+      "character": "Miss Hill",
+      "id": 1754653,
+      "name": "Shvorne Marks",
+      "profilePath": "/avpN7YwcqL7o1Z9Y1jvRrz30iAa.jpg"
+    },
+    {
+      "character": "Callie",
+      "id": 5962087,
+      "name": "Aarti Panesar",
+      "profilePath": null
+    },
+    {
+      "character": "Lysander",
+      "id": 2437869,
+      "name": "Jairaj Varsani",
+      "profilePath": "/pZgRlFBjk95gKNNiZFHZL7OQZeF.jpg"
+    },
+    {
+      "character": "Demetrius",
+      "id": 5962104,
+      "name": "Cody Mitchell",
+      "profilePath": "/vDf74LrHwOBnVfKCRFOKKlHfmgv.jpg"
+    },
+    {
+      "character": "Crying year 7",
+      "id": 4041893,
+      "name": "Laila Barwick",
+      "profilePath": "/qYQ6MTvW797F0MMYHuNtRjiTWzK.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 117747,
+      "logoPath": "/brD72VA95qgjCtGx0hJEAVUeldW.png",
+      "name": "Media Finance Capital"
+    },
+    {
+      "id": 6705,
+      "logoPath": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions"
+    },
+    {
+      "id": 175340,
+      "logoPath": "/jp9ZNXaArfDBDNyM9B431NmD0yS.png",
+      "name": "Brock Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34798706",
+    "wikidataId": "Q137423828"
+  },
+  "fetchedAt": 1793504874718,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1528830,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Extra Geography",
+  "overview": "In an English girls boarding school, two teenage best friends grapple with the challenges of girlhood — friendship, boys, studies, and growing up — and embark on their school project, falling in love.",
+  "posterPath": "/yhHRpLhtaFXGYMsE5LuaRvZYs77.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-02"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-10-02"
+    },
+    "US": {
+      "premiere": "2026-01-23"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-02",
+  "title": "Extra Geography",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "XmMyQD-BDEE",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "rYrlIG6jAcg",
+      "name": "Official First Look Clip",
+      "official": true,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {}
+}

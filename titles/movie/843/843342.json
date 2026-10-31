@@ -1,0 +1,362 @@
+{
+  "backdropPath": "/o94QPGgvZW3gysIfsbhQmysmAYo.jpg",
+  "cast": [
+    {
+      "character": "Hamlet",
+      "id": 53240,
+      "name": "Riz Ahmed",
+      "profilePath": "/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg"
+    },
+    {
+      "character": "Ophelia",
+      "id": 1321628,
+      "name": "Morfydd Clark",
+      "profilePath": "/kG1Xg85F9yAggCMquo4XouAOjdo.jpg"
+    },
+    {
+      "character": "Polonius",
+      "id": 9191,
+      "name": "Timothy Spall",
+      "profilePath": "/pcR6t8kpAgGwIUo4UjlP5gyKkNA.jpg"
+    },
+    {
+      "character": "Claudius",
+      "id": 10672,
+      "name": "Art Malik",
+      "profilePath": "/hZmb9wWsteP21QA29PHEk6NlOh3.jpg"
+    },
+    {
+      "character": "Gertrude",
+      "id": 1246564,
+      "name": "Sheeba Chaddha",
+      "profilePath": "/yWBQeR47GmnGJn33w4c8QzakkSh.jpg"
+    },
+    {
+      "character": "Laertes",
+      "id": 1496392,
+      "name": "Joe Alwyn",
+      "profilePath": "/jAdaAeaDVYWlU8I5X5p5DuUI8Ii.jpg"
+    },
+    {
+      "character": "VIP Guest",
+      "id": 3394230,
+      "name": "Julia Westcott-Hutton",
+      "profilePath": "/1PLujt9BVpX2h5BHTpcWAR1x1MN.jpg"
+    },
+    {
+      "character": "Wedding Guest",
+      "id": 1744072,
+      "name": "Nina Kumar",
+      "profilePath": "/6XCADLIGnrl1I5WyN4pSMrgA20i.jpg"
+    },
+    {
+      "character": "Wedding Guest",
+      "id": 1973190,
+      "name": "Hiten Patel",
+      "profilePath": "/6Izl7RXweJAcjIU6KoGI60JERKE.jpg"
+    },
+    {
+      "character": "Marcellus",
+      "id": 2054069,
+      "name": "Eben Figueiredo",
+      "profilePath": "/8WG3Syfep1AUhFR8eRFTFXyhpur.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 27543,
+      "logoPath": "/viNRcZsB71muhHNSeBHR136nWMe.png",
+      "name": "JW Films"
+    },
+    {
+      "id": 149331,
+      "logoPath": "/bNQ61EvZO1HWvAQKqzVqCqXNqkr.png",
+      "name": "Left Handed Films"
+    },
+    {
+      "id": 22842,
+      "logoPath": "/buyfiDYTfPVTHxvYZ4yHu69zFPs.png",
+      "name": "Waypoint Entertainment"
+    },
+    {
+      "id": 288,
+      "logoPath": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film"
+    },
+    {
+      "id": 82857,
+      "logoPath": "/rp8g1y3wVKWfyQ21uWuzxKJ5bQn.png",
+      "name": "Confluential Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-05-12",
+  "externalIds": {
+    "facebookId": "hamletmovie",
+    "imdbId": "tt7798632",
+    "instagramId": "hamletmovie",
+    "wikidataId": "Q123403594"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 843342,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "Hamlet",
+  "overview": "When Hamlet returns for his father’s funeral, he is stunned to discover his uncle Claudius is marrying his newly widowed mother. Visited by his father’s ghost, Hamlet learns his brutal murder was at the hands of Claudius and spirals into a quest for vengeance that exposes the rot at the heart of the family’s empire and threatens his own sanity.",
+  "posterPath": "/7cBh6fWchOJY961A8F1rT98HDdA.jpg",
+  "rating": 5.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-02-06"
+    },
+    "US": {
+      "digitalDate": "2026-05-12",
+      "gapDays": 32,
+      "theatricalDate": "2026-04-10"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-10-13",
+      "theatrical": "2026-02-06"
+    },
+    "US": {
+      "digital": "2026-05-12",
+      "premiere": "2025-08-30",
+      "theatricalLimited": "2026-04-10"
+    }
+  },
+  "runtime": 113,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-04-10",
+  "title": "Hamlet",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "blLDLvP6LQE",
+      "name": "\"To be, or not to be\" Riz Ahmed discusses the iconic Shakespeare line.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "kRxwUqtoXGY",
+      "name": "Riz Ahmed is HAMLET, as you've never seen him before.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "pRdyspNmuAk",
+      "name": "Riz Ahmed Scene Breakdown",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "4hzWCKAZMTE",
+      "name": "Riz Ahmed's 15 Year Obsession",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "zfRvqao0QvQ",
+      "name": "Wedding Dance Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "Zyq-SQn-sQQ",
+      "name": "In Cinemas in One Week",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "AcqVlBuWcnM",
+      "name": "Starring Riz Ahmed in cinemas February 6",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "UtJCsgQ4fxQ",
+      "name": "Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "COgH1rUmV-g",
+      "name": "Meet the Cast and their Characters",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "TXTA2CUWmsE",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 16,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/843342-hamlet/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/843342-hamlet/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

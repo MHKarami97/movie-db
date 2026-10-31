@@ -1,0 +1,188 @@
+{
+  "backdropPath": "/n2WschLfgBrF2Dj0SkdCL94q2jC.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1907352,
+      "name": "Elizabeth Smart",
+      "profilePath": "/3YcCbtqFrLqHaOGnT7R7BGAb8Rw.jpg"
+    },
+    {
+      "character": "Detective",
+      "id": 3722624,
+      "name": "Steevan Glover",
+      "profilePath": "/rA6tk3KTzOXPjlJUkZKwPbk9gmO.jpg"
+    },
+    {
+      "character": "Brian David Mitchell",
+      "id": 5530346,
+      "name": "John Stableforth",
+      "profilePath": "/pbrRVNHtX90PqyjDhCBDvLmIZut.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 5926420,
+      "name": "Brian David Mitchell",
+      "profilePath": "/xrOXbDaIVhSOVX2ExeMI2d3dvSy.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 5926422,
+      "name": "Wanda Barzee",
+      "profilePath": "/gD0YbItS099q9L5cHrVKs2IrsKv.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 1227867,
+      "name": "Soledad O'Brien",
+      "profilePath": "/o4T1zApuY1DTPw60mOKGQ6I6avG.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 166658,
+      "name": "Katie Couric",
+      "profilePath": "/gQANKzzw0Dz21LkEX5hCDSHXFev.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 35177,
+      "logoPath": "/3QcZMjZRSqmaNkf0vFm49OhK6bA.png",
+      "name": "Minnow Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-01-21",
+  "externalIds": {
+    "imdbId": "tt39140662"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1595481,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Kidnapped: Elizabeth Smart",
+  "overview": "Elizabeth Smart's harrowing abduction at 14 from her family's Utah home unfolds through her own words and never-before-seen material in this documentary.",
+  "posterPath": "/8yuMPfz154d0PqX5PFXmgCCuTGd.jpg",
+  "rating": 7.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-01-21",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-01-21",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-01-21",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-01-21"
+    },
+    "GB": {
+      "digital": "2026-01-21"
+    },
+    "US": {
+      "digital": "2026-01-21"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Kidnapped: Elizabeth Smart",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "suZtQp5Vmo0",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 116,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1595481-kidnapped-elizabeth-smart/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1595481-kidnapped-elizabeth-smart/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1595481-kidnapped-elizabeth-smart/watch?locale=US",
+      "rent": []
+    }
+  }
+}

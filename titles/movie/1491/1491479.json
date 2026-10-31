@@ -1,0 +1,271 @@
+{
+  "backdropPath": "/jwQ1BrNQHGwuryYA1y2ebsStkg3.jpg",
+  "cast": [
+    {
+      "character": "Dinah Little",
+      "id": 1856875,
+      "name": "Golda Rosheuvel",
+      "profilePath": "/nlSIvTWzMEzZGljKYgpZxGcsJtv.jpg"
+    },
+    {
+      "character": "Arlo",
+      "id": 11109,
+      "name": "Nick Frost",
+      "profilePath": "/2CHS4t6miNGLgMQAjhFqb4fFuKS.jpg"
+    },
+    {
+      "character": "Lady Veronica Smythe-Gherkin",
+      "id": 34902,
+      "name": "Jane Horrocks",
+      "profilePath": "/phYKQdBZgRwMT8w6ZEhvGc8zgvB.jpg"
+    },
+    {
+      "character": "Emcee",
+      "id": 87525,
+      "name": "Alan Carr",
+      "profilePath": "/v2bFTjWXEdlt2RbNhXQkPfUQwkY.jpg"
+    },
+    {
+      "character": "Mr. Gregory",
+      "id": 3555,
+      "name": "Jeremy Swift",
+      "profilePath": "/muRh4WbyEE4S2763bv777ywpKP3.jpg"
+    },
+    {
+      "character": "Charlie Little",
+      "id": 3533389,
+      "name": "Priya-Rose Brookwell",
+      "profilePath": "/spkKrud1WHwGbMHH3hMs4FfEPdI.jpg"
+    },
+    {
+      "character": "Lord Sinclair Smythe-Gherkin",
+      "id": 41043,
+      "name": "Tim McInnerny",
+      "profilePath": "/c2LODB0Lf9vXoEq5gHXCorYkkt2.jpg"
+    },
+    {
+      "character": "Boris Mudd",
+      "id": 1526636,
+      "name": "Joe Wilkinson",
+      "profilePath": "/4Ti7DUnXyvjmnejzSzj1EbdiMIm.jpg"
+    },
+    {
+      "character": "Polly Little",
+      "id": 1215741,
+      "name": "Kathryn Drysdale",
+      "profilePath": "/ryhIHc6gKVYKmgMxaFSLYv8Tbbi.jpg"
+    },
+    {
+      "character": "Kevin",
+      "id": 1611987,
+      "name": "Fisayo Akinade",
+      "profilePath": "/oO3cyfiPcKSrBrk1kXanPhxSKPK.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 10138,
+      "logoPath": "/r67HWrAbCShfwWREWo2MlXsSK3B.png",
+      "name": "Double Nickel Entertainment"
+    },
+    {
+      "id": 91387,
+      "logoPath": "/vPv6frwqFKqydMLFtoHdcYeUo5r.png",
+      "name": "Blazing Griffin"
+    },
+    {
+      "id": 160007,
+      "logoPath": "/dsUGgrrbqYZcHLKZQnrf3zEs6db.png",
+      "name": "Orogen Entertainment"
+    },
+    {
+      "id": 117455,
+      "logoPath": null,
+      "name": "Sky Original Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-05-05",
+  "externalIds": {
+    "imdbId": "tt32659874",
+    "wikidataId": "Q125935869"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 200,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1491479,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Grow",
+  "overview": "In the self-proclaimed ‘Pumpkin Capital of the World’, no-nonsense curmudgeonly farmer Dinah Little takes in her estranged niece Charlie, who decides to enter the local pumpkin growing competition where she and the other growers face fierce competition, sabotage, and a genetically engineered rival.",
+  "posterPath": "/z5OjHr4QFOpVq8AicumXl0gm8Mb.jpg",
+  "rating": 4.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-10-10",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-05",
+      "gapDays": 200,
+      "theatricalDate": "2025-10-17"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2025-10-10",
+      "premiere": "2025-08-16",
+      "tv": "2025-10-10"
+    },
+    "US": {
+      "digital": "2026-05-05",
+      "theatrical": "2025-10-17"
+    }
+  },
+  "runtime": 115,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Big dreams. Bigger pumpkins.",
+  "theatricalDate": "2025-10-17",
+  "title": "Grow",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "1V9rgsksy6I",
+      "name": "Can Touching Plants Make Them Grow",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "Jbfl-n50f8U",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 13,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1491479-grow/watch?locale=GB",
+      "rent": [
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 386,
+          "logoPath": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+          "name": "Peacock Premium"
+        },
+        {
+          "id": 1956,
+          "logoPath": "/pusUxS9dP5VK7HkN8SLf2wnP9gm.png",
+          "name": "Angel Studios"
+        },
+        {
+          "id": 387,
+          "logoPath": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+          "name": "Peacock Premium Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1491479-grow/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

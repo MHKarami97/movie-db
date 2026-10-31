@@ -1,0 +1,113 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 5759742,
+      "name": "Frank van Leeuwen",
+      "profilePath": "/tNWB0SLI0V8U5Wy5D5MHbJ5kXYF.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2027-02-15",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-02-15",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 338836,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "nl",
+      "name": "Dutch"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-02-15",
+    "episodeNumber": 1,
+    "id": 7961629,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "De nieuwsquiz",
+  "overview": "Everything revolves around the events of the day: from hard news to notable moments in politics, sports, media, or science. Whatever is on the minds of people in the Netherlands is covered and discussed.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-02-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-02-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-02-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-02-15",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-02-15"
+    },
+    "CN": {
+      "tv": "2027-02-15"
+    },
+    "GB": {
+      "tv": "2027-02-15"
+    },
+    "US": {
+      "tv": "2027-02-15"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-02-15",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "De nieuwsquiz",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

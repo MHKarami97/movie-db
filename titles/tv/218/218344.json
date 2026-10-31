@@ -1,0 +1,358 @@
+{
+  "backdropPath": "/kjFoqKiR155jQn77bBkwBD3zjvO.jpg",
+  "cast": [
+    {
+      "character": "Grace Ellis",
+      "id": 1237956,
+      "name": "Sian Brooke",
+      "profilePath": "/99mPsHpcFoUqhXNHsPVL5qD8nN2.jpg"
+    },
+    {
+      "character": "Annie Conlon",
+      "id": 2937774,
+      "name": "Katherine Devlin",
+      "profilePath": "/OLUDGT0PfC02djnjfqcvAru6NK.jpg"
+    },
+    {
+      "character": "Tommy Foster",
+      "id": 3873501,
+      "name": "Nathan Braniff",
+      "profilePath": "/aSHqDyM0H6Vhd4DNxVIDgou3ysc.jpg"
+    },
+    {
+      "character": "Stevie Neil",
+      "id": 76104,
+      "name": "Martin McCann",
+      "profilePath": "/3sEhagU01G49psEm9M59n8AYpIx.jpg"
+    },
+    {
+      "character": "Sandra Cliff",
+      "id": 1659211,
+      "name": "Andi Osho",
+      "profilePath": "/ft0jj2QXLheuAfFCN1Q0DIZHGoX.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 122187,
+      "logoPath": null,
+      "name": "Gallagher Films"
+    },
+    {
+      "id": 92347,
+      "logoPath": "/vP0TkAR9YYpfxuJjG1FlyET2c6G.png",
+      "name": "Two Cities Television"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2023-03-27",
+  "episodes": {
+    "4": [
+      {
+        "airDate": "2026-09-29",
+        "episodeNumber": 1,
+        "name": "Eyes",
+        "overview": "The section is challenged by escalating tensions at a community event, while the investigation into Dana Morgan’s drug partnership with Tina McIntyre falters.",
+        "stillPath": "/h31AEWxfSH1vzeD1GgaYZME6CRE.jpg",
+        "voteAverage": 8.8
+      },
+      {
+        "airDate": "2026-10-06",
+        "episodeNumber": 2,
+        "name": "Numbers",
+        "overview": "In the wake of the attack on Amira, Grace’s determination puts her in danger, while Mo spirals further with violent consequences.",
+        "stillPath": "/4T6dZizPBl8mY9VO6dhndSKvDpR.jpg",
+        "voteAverage": 7
+      },
+      {
+        "airDate": "2026-10-13",
+        "episodeNumber": 3,
+        "name": "Everybody Knows",
+        "overview": "As Gerry’s murder trial begins, Mo’s unstable mental health ignites a struggle between the state and justice. Shane has a tense stand-off with Lee.",
+        "stillPath": "/kW7UPkzJ9ametCw7OLMJEGVyrte.jpg",
+        "voteAverage": 7.9
+      },
+      {
+        "airDate": "2026-10-20",
+        "episodeNumber": 4,
+        "name": "So Far",
+        "overview": "Sandra reflects on a secret Gerry once shared with her and realises that she is in possession of volatile information.",
+        "stillPath": "/fidwJV1l7vV3RFZM2Fb35mhm3DQ.jpg",
+        "voteAverage": 7.5
+      },
+      {
+        "airDate": "2026-10-27",
+        "episodeNumber": 5,
+        "name": "Ghosts",
+        "overview": "Sandra enlists help to expose Gerry’s secrets, while Tommy and Shane inch closer to exposing the drug pipeline.",
+        "stillPath": "/wJX4X8ZH2AEnNQAihd66u4pOEfC.jpg",
+        "voteAverage": 8.3
+      },
+      {
+        "airDate": "2026-11-03",
+        "episodeNumber": 6,
+        "name": "The Line",
+        "overview": "Life is in the balance after the explosion at Katie’s house, while Gerry’s evidence on state collusion is released. The section race to put an end to Morgan’s empire.",
+        "stillPath": "/k5zkIctTVxkUqwGu7om3NOg2ND0.jpg",
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt14466018",
+    "wikidataId": "Q117536144"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 218344,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-27",
+    "episodeNumber": 5,
+    "id": 7442249,
+    "name": "Ghosts",
+    "overview": "Sandra enlists help to expose Gerry’s secrets, while Tommy and Shane inch closer to exposing the drug pipeline.",
+    "seasonNumber": 4
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-03",
+    "episodeNumber": 6,
+    "id": 7442251,
+    "name": "The Line",
+    "overview": "Life is in the balance after the explosion at Katie’s house, while Gerry’s evidence on state collusion is released. The section race to put an end to Morgan’s empire.",
+    "seasonNumber": 4
+  },
+  "originalTitle": "Blue Lights",
+  "overview": "Follows rookie police officers working in Belfast, a city in which being a frontline response cop comes with unique pressures and dangers.",
+  "posterPath": "/3C3c40DH8M6qdECHLlxk8o5nrC0.jpg",
+  "rating": 7.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2023-03-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2023-03-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2023-03-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2023-03-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2023-03-27"
+    },
+    "CN": {
+      "tv": "2023-03-27"
+    },
+    "GB": {
+      "tv": "2023-03-27"
+    },
+    "US": {
+      "tv": "2023-03-27"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2023-03-27",
+      "episodeCount": 6,
+      "name": "Series 1",
+      "overview": "Follows rookie police officers working in Belfast, a city in which being a frontline response cop comes with unique pressures and dangers.",
+      "posterPath": "/655shuTX5V3AVooyTv3wuNcx09b.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2024-04-15",
+      "episodeCount": 6,
+      "name": "Series 2",
+      "overview": "One year after the fall of the McIntyres, a gangland feud leads to chaos on the streets.",
+      "posterPath": "/m0tIJkSXN0vUTLkYbuLAlskZjZ9.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2025-09-29",
+      "episodeCount": 6,
+      "name": "Series 3",
+      "overview": "",
+      "posterPath": "/7sBx40gwTCSiZ9NI8WWARjQq1hm.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2026-09-29",
+      "episodeCount": 6,
+      "name": "Series 4",
+      "overview": "",
+      "posterPath": "/py35lzjLM8yaTGSJZQiJU3rnZLc.jpg",
+      "seasonNumber": 4
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Blue Lights",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "C2fifCku6IU",
+      "name": "Blue Lights | Trailer - BBC",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 146,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 137,
+          "logoPath": "/fcceE9Ktrv1j1lhFcnIOvuFxb0U.png",
+          "name": "UKTV Play"
+        }
+      ],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        }
+      ],
+      "free": [
+        {
+          "id": 38,
+          "logoPath": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
+          "name": "BBC iPlayer"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/218344-blue-lights/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1852,
+          "logoPath": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+          "name": "Britbox Apple TV channel"
+        },
+        {
+          "id": 151,
+          "logoPath": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+          "name": "BritBox"
+        },
+        {
+          "id": 197,
+          "logoPath": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+          "name": "BritBox Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/218344-blue-lights/watch?locale=US",
+      "rent": []
+    }
+  }
+}

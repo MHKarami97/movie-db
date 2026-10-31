@@ -1,0 +1,122 @@
+{
+  "backdropPath": "/sfozbnbUPvZHLLblRXdzGrRdPKS.jpg",
+  "cast": [
+    {
+      "character": "Lati",
+      "id": 5068639,
+      "name": "Latifa Drame",
+      "profilePath": null
+    },
+    {
+      "character": "Judy",
+      "id": 5068640,
+      "name": "Judith Álvarez",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 2690922,
+      "name": "Asaari Bibang",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 5273310,
+      "name": "Lobo Estepario",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 54844,
+      "logoPath": "/csK90KPmk8f54CQXbVeRUHp7nhM.png",
+      "name": "Sábado Películas"
+    },
+    {
+      "id": 144630,
+      "logoPath": "/9B1SuDGcsx034UxUoMS8i8HcbBM.png",
+      "name": "Playtime"
+    },
+    {
+      "id": 48575,
+      "logoPath": "/OscpCIbffiYUF5uBdCA8eCAwgU.png",
+      "name": "Filmin"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34678593",
+    "wikidataId": "Q136935788"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1390154,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Ruido",
+  "overview": "Lati, a young rapper of African descent, must confront her mother to succeed in the world of freestyle.",
+  "posterPath": "/jwv71A94ATBDzo18g1a2cJ0qYQB.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 87,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Beef",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "S17HKz9cPg8",
+      "name": "Beef trailer | JUST25",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 10,
+  "watchProviders": {}
+}

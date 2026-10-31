@@ -1,0 +1,775 @@
+{
+  "backdropPath": "/dQrzIO0uJlcGKqdUiTJUWu2uibT.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 1622846,
+      "name": "Carlo Conti",
+      "profilePath": "/rDIbIkBKAHGqCPaEUBMWodhrfbZ.jpg"
+    },
+    {
+      "character": "Self - Host",
+      "id": 117092,
+      "name": "Laura Pausini",
+      "profilePath": "/woxpzqA6ZqLNy2XRrh5h0wX5TgI.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1583,
+      "logoPath": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+      "name": "RAI"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": "1951-01-29",
+  "episodes": {
+    "76": [
+      {
+        "airDate": "2026-02-24",
+        "episodeNumber": 1,
+        "name": "First night",
+        "overview": "",
+        "stillPath": "/xa8ZatWjEmVM7rwGVtnJUqqos0N.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-02-25",
+        "episodeNumber": 2,
+        "name": "Second night",
+        "overview": "",
+        "stillPath": "/5KNW0bTp0zpXi66Q9FW0qJ5O7ZE.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-02-26",
+        "episodeNumber": 3,
+        "name": "Third night",
+        "overview": "",
+        "stillPath": "/jY5bsp7lg3o4NLukFq4OQsim6L2.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-02-27",
+        "episodeNumber": 4,
+        "name": "Fourth night",
+        "overview": "",
+        "stillPath": "/rBV55rbii7cZf9RHO3s6RtdYQ5L.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-02-28",
+        "episodeNumber": 5,
+        "name": "Final",
+        "overview": "",
+        "stillPath": "/x8UUvyX8Ei5ceAjLxZAgrdPq45d.jpg",
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "festivaldisanremo",
+    "imdbId": "tt0420400",
+    "instagramId": "sanremorai",
+    "twitterId": "sanremorai",
+    "wikidataId": "Q206959"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 66550,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-02-28",
+    "episodeNumber": 5,
+    "id": 6873410,
+    "name": "Final",
+    "overview": "",
+    "seasonNumber": 76
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Festival di Sanremo",
+  "overview": "جشنواره موسیقی سان‌رمو، محبوب‌ترین مسابقه و مراسم اهدای جوایز موسیقی در ایتالیا است که هر ساله در شهر سان‌رمو برگزار می‌شود و شامل رقابتی میان ترانه‌هایی است که پیش از آن منتشر نشده‌اند. این جشنواره الهام‌بخش برگزاری «مسابقه آواز یوروویژن» بوده است.",
+  "posterPath": "/ohqDyr5Wx9jYx3jhsiPqOYAUo65.jpg",
+  "rating": 7.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1951-01-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1951-01-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1951-01-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1951-01-29",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1951-01-29"
+    },
+    "CN": {
+      "tv": "1951-01-29"
+    },
+    "GB": {
+      "tv": "1951-01-29"
+    },
+    "US": {
+      "tv": "1951-01-29"
+    }
+  },
+  "runtime": 210,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "1951-01-29",
+      "episodeCount": 3,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1952-01-28",
+      "episodeCount": 3,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1953-01-29",
+      "episodeCount": 3,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1954-01-28",
+      "episodeCount": 3,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1955-01-27",
+      "episodeCount": 3,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1956-03-08",
+      "episodeCount": 3,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1957-01-07",
+      "episodeCount": 3,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1958-01-30",
+      "episodeCount": 3,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1959-01-29",
+      "episodeCount": 3,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1960-01-28",
+      "episodeCount": 3,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "1961-01-26",
+      "episodeCount": 4,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "1962-02-08",
+      "episodeCount": 4,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "1963-02-07",
+      "episodeCount": 3,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "1964-01-30",
+      "episodeCount": 3,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": "/bcC1RWXiItklV3ZqhN7CJdp27Ei.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "1965-01-28",
+      "episodeCount": 3,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": "/rLxjoFKYysnVc5kr9MbHbM904iE.jpg",
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "1966-01-27",
+      "episodeCount": 3,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "1967-01-26",
+      "episodeCount": 3,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": "/2p93Lhp0V9N9acP9NXswLDAx5Nw.jpg",
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "1968-02-01",
+      "episodeCount": 3,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": "/8hZau9a5l1PosDjuntTZHV1i8BI.jpg",
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "1969-01-30",
+      "episodeCount": 3,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": "/5sTDQl6JPS2CEmht3XE9Zd5afVh.jpg",
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "1970-02-26",
+      "episodeCount": 3,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": "/tmalwvs4PlwJ0fZeRMbyCyMWNG5.jpg",
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "1971-02-25",
+      "episodeCount": 3,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "1972-02-24",
+      "episodeCount": 3,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": "/9ug2l15F2QxOrZCRHHiEHLFTl9u.jpg",
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "1973-03-08",
+      "episodeCount": 3,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "1974-03-07",
+      "episodeCount": 3,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "1975-02-27",
+      "episodeCount": 3,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "1976-02-19",
+      "episodeCount": 3,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "1977-03-03",
+      "episodeCount": 3,
+      "name": "Season 27",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "1978-01-26",
+      "episodeCount": 3,
+      "name": "Season 28",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "1979-01-11",
+      "episodeCount": 3,
+      "name": "Season 29",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "1980-02-07",
+      "episodeCount": 3,
+      "name": "Season 30",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "1981-02-05",
+      "episodeCount": 3,
+      "name": "Season 31",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "1982-01-28",
+      "episodeCount": 3,
+      "name": "Season 32",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "1983-02-03",
+      "episodeCount": 3,
+      "name": "Season 33",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "1984-02-02",
+      "episodeCount": 3,
+      "name": "Season 34",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "1985-02-07",
+      "episodeCount": 3,
+      "name": "Season 35",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "1986-02-13",
+      "episodeCount": 3,
+      "name": "Season 36",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 36
+    },
+    {
+      "airDate": "1987-02-04",
+      "episodeCount": 4,
+      "name": "Season 37",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 37
+    },
+    {
+      "airDate": "1988-02-24",
+      "episodeCount": 4,
+      "name": "Season 38",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 38
+    },
+    {
+      "airDate": "1989-02-21",
+      "episodeCount": 5,
+      "name": "Season 39",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 39
+    },
+    {
+      "airDate": "1990-02-28",
+      "episodeCount": 4,
+      "name": "Season 40",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 40
+    },
+    {
+      "airDate": "1991-02-27",
+      "episodeCount": 4,
+      "name": "Season 41",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 41
+    },
+    {
+      "airDate": "1992-02-26",
+      "episodeCount": 4,
+      "name": "Season 42",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 42
+    },
+    {
+      "airDate": "1993-02-23",
+      "episodeCount": 4,
+      "name": "Season 43",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 43
+    },
+    {
+      "airDate": "1994-02-23",
+      "episodeCount": 4,
+      "name": "Season 44",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 44
+    },
+    {
+      "airDate": "1995-02-21",
+      "episodeCount": 5,
+      "name": "Season 45",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 45
+    },
+    {
+      "airDate": "1996-02-20",
+      "episodeCount": 5,
+      "name": "Season 46",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 46
+    },
+    {
+      "airDate": "1997-02-18",
+      "episodeCount": 5,
+      "name": "Season 47",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 47
+    },
+    {
+      "airDate": "1998-02-24",
+      "episodeCount": 5,
+      "name": "Season 48",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 48
+    },
+    {
+      "airDate": "1999-02-23",
+      "episodeCount": 5,
+      "name": "Season 49",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 49
+    },
+    {
+      "airDate": "2000-02-21",
+      "episodeCount": 5,
+      "name": "Season 50",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 50
+    },
+    {
+      "airDate": "2001-02-26",
+      "episodeCount": 5,
+      "name": "Season 51",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 51
+    },
+    {
+      "airDate": "2002-03-05",
+      "episodeCount": 5,
+      "name": "Season 52",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 52
+    },
+    {
+      "airDate": "2003-03-04",
+      "episodeCount": 5,
+      "name": "Season 53",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 53
+    },
+    {
+      "airDate": "2004-03-02",
+      "episodeCount": 5,
+      "name": "Season 54",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 54
+    },
+    {
+      "airDate": "2005-03-01",
+      "episodeCount": 5,
+      "name": "Season 55",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 55
+    },
+    {
+      "airDate": "2006-02-27",
+      "episodeCount": 5,
+      "name": "Season 56",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 56
+    },
+    {
+      "airDate": "2007-02-27",
+      "episodeCount": 5,
+      "name": "Season 57",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 57
+    },
+    {
+      "airDate": "2008-02-25",
+      "episodeCount": 5,
+      "name": "Season 58",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 58
+    },
+    {
+      "airDate": "2009-02-17",
+      "episodeCount": 5,
+      "name": "Season 59",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 59
+    },
+    {
+      "airDate": "2010-02-16",
+      "episodeCount": 5,
+      "name": "Season 60",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 60
+    },
+    {
+      "airDate": "2011-02-15",
+      "episodeCount": 5,
+      "name": "Season 61",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 61
+    },
+    {
+      "airDate": "2012-02-14",
+      "episodeCount": 5,
+      "name": "Season 62",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 62
+    },
+    {
+      "airDate": "2013-02-12",
+      "episodeCount": 5,
+      "name": "Season 63",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 63
+    },
+    {
+      "airDate": "2014-02-18",
+      "episodeCount": 5,
+      "name": "Season 64",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 64
+    },
+    {
+      "airDate": "2015-02-10",
+      "episodeCount": 5,
+      "name": "Season 65",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 65
+    },
+    {
+      "airDate": "2016-02-09",
+      "episodeCount": 5,
+      "name": "Season 66",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 66
+    },
+    {
+      "airDate": "2017-02-07",
+      "episodeCount": 5,
+      "name": "Season 67",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 67
+    },
+    {
+      "airDate": "2018-02-06",
+      "episodeCount": 5,
+      "name": "Season 68",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 68
+    },
+    {
+      "airDate": "2019-02-05",
+      "episodeCount": 5,
+      "name": "Season 69",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 69
+    },
+    {
+      "airDate": "2020-02-04",
+      "episodeCount": 5,
+      "name": "Season 70",
+      "overview": "",
+      "posterPath": "/t0uzMSHvDvjrMLJZzYBGY170vUx.jpg",
+      "seasonNumber": 70
+    },
+    {
+      "airDate": "2021-03-02",
+      "episodeCount": 5,
+      "name": "Season 71",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 71
+    },
+    {
+      "airDate": "2022-02-01",
+      "episodeCount": 5,
+      "name": "Season 72",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 72
+    },
+    {
+      "airDate": "2023-02-07",
+      "episodeCount": 5,
+      "name": "Season 73",
+      "overview": "",
+      "posterPath": "/bwfezsMt56KNxj3EuSatcW2p9JY.jpg",
+      "seasonNumber": 73
+    },
+    {
+      "airDate": "2024-02-06",
+      "episodeCount": 5,
+      "name": "Season 74",
+      "overview": "",
+      "posterPath": "/oGzMJqHv0Vc7lYePqxraJMRgxs6.jpg",
+      "seasonNumber": 74
+    },
+    {
+      "airDate": "2025-02-11",
+      "episodeCount": 5,
+      "name": "Season 75",
+      "overview": "",
+      "posterPath": "/4iTalsHyyh6FJCjcWmeFVluK0UA.jpg",
+      "seasonNumber": 75
+    },
+    {
+      "airDate": "2026-02-24",
+      "episodeCount": 5,
+      "name": "Season 76",
+      "overview": "",
+      "posterPath": "/nLAGPIIiAiEE9rPHkrkxXP1Y8ow.jpg",
+      "seasonNumber": 76
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Sanremo Music Festival",
+  "translations": {
+    "faOverview": "جشنواره موسیقی سان‌رمو، محبوب‌ترین مسابقه و مراسم اهدای جوایز موسیقی در ایتالیا است که هر ساله در شهر سان‌رمو برگزار می‌شود و شامل رقابتی میان ترانه‌هایی است که پیش از آن منتشر نشده‌اند. این جشنواره الهام‌بخش برگزاری «مسابقه آواز یوروویژن» بوده است.",
+    "faTitle": "جشنواره موسیقی سانرمو"
+  },
+  "type": "tv",
+  "videos": [],
+  "voteCount": 17,
+  "watchProviders": {}
+}

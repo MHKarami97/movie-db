@@ -1,0 +1,696 @@
+{
+  "backdropPath": "/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+  "cast": [
+    {
+      "character": "Matt Hagen / Clayface",
+      "id": 1327945,
+      "name": "Tom Rhys Harries",
+      "profilePath": "/rSmdo0YnGHUL5sua6jg3YlWWGL4.jpg"
+    },
+    {
+      "character": "Caitlyn Corr",
+      "id": 1537686,
+      "name": "Naomi Ackie",
+      "profilePath": "/dijwuTAEZUzQtoJfK49S4X80fQw.jpg"
+    },
+    {
+      "character": "Frank Fitzpatrick",
+      "id": 1665,
+      "name": "Eddie Marsan",
+      "profilePath": "/9atfOgIxhfOKvv2be8HEp6SzOct.jpg"
+    },
+    {
+      "character": "John Borrelli",
+      "id": 2978,
+      "name": "Max Minghella",
+      "profilePath": "/AhVDxsOOoAnwwVBL7ZY8W0mGsYJ.jpg"
+    },
+    {
+      "character": "Markos Szabo",
+      "id": 93236,
+      "name": "David Dencik",
+      "profilePath": "/q5wLADc6yYd3owxSEG8VKbf7YWV.jpg"
+    },
+    {
+      "character": "Rosie",
+      "id": 3286781,
+      "name": "Francesca Corney",
+      "profilePath": "/p2B2dYAvl0TMUtbrZxzOdNgBbSE.jpg"
+    },
+    {
+      "character": "Theresa",
+      "id": 4577931,
+      "name": "Ruby Sear",
+      "profilePath": "/hNlLm6NaHPjakDJhPEY1suGcxKi.jpg"
+    },
+    {
+      "character": "Bones",
+      "id": 1815694,
+      "name": "Wil Coban",
+      "profilePath": "/73REwJckTBMNJoiGIrrGhcCdTqf.jpg"
+    },
+    {
+      "character": "Corey Bowery",
+      "id": 1344715,
+      "name": "Joshua James",
+      "profilePath": "/jw1n2Pzi2LJvyu6OkXTHMXPV7Q4.jpg"
+    },
+    {
+      "character": "Patches",
+      "id": 3551,
+      "name": "Jake Curran",
+      "profilePath": "/pC6ozticiOmovaPpwqKVOMhn0b9.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 184898,
+      "logoPath": "/uVpjHYq5AbiG2qj82ZRBM4VFL3o.png",
+      "name": "DC Studios"
+    },
+    {
+      "id": 216687,
+      "logoPath": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+      "name": "Domain Entertainment"
+    },
+    {
+      "id": 101405,
+      "logoPath": "/iusVPF9AJD1DiHEWbZEXgn1hpOf.png",
+      "name": "6th & Idaho Motion Picture Company"
+    },
+    {
+      "id": 94218,
+      "logoPath": "/kxuhS8wyKtVprOn5nckdHyNuSg1.png",
+      "name": "Troll Court Entertainment"
+    },
+    {
+      "id": 11565,
+      "logoPath": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
+      "name": "The Safran Company"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "facebookId": "ClayfaceMovie",
+    "imdbId": "tt34890576",
+    "instagramId": "clayfacemovie",
+    "twitterId": "ClayfaceMovieDC",
+    "wikidataId": "Q131460936"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "id": 1400940,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Clayface",
+  "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+  "posterPath": "/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+  "rating": 7.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-22"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-23"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-23"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-10-22"
+    },
+    "GB": {
+      "theatrical": "2026-10-23",
+      "theatricalLimited": "2026-10-19"
+    },
+    "US": {
+      "premiere": "2026-10-13",
+      "theatrical": "2026-10-23"
+    }
+  },
+  "runtime": 109,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Look fear in the face.",
+  "theatricalDate": "2026-10-23",
+  "title": "Clayface",
+  "translations": {
+    "faTitle": "کلی‌فیس"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "2lVckFsX3F8",
+      "name": "Unlock a new fear this Halloween.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "jbpqSP1Nutw",
+      "name": "See the horror in its full form.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "GPF0pQmaMhM",
+      "name": "Only one way to celebrate Halloween.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "RltKy6ApnBU",
+      "name": "The new face of Halloween.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "s3YCcdmFWiE",
+      "name": "Need a hand with Halloween plans?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "kU0FtYUTA8M",
+      "name": "The perfect backdrop for horror.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ZzVmJ1T6_zE",
+      "name": "Halloween is two days away. Take notes.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "2E78ZmMPYQ8",
+      "name": "Nothing gets past this guy",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "RXwPoGHVJgU",
+      "name": "Screen X: Surrounded by three screens really pulls you into Clayface",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "EH1x4R1tIno",
+      "name": "Look at him now.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "lBpQie47g80",
+      "name": "See where their chemistry leads.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "afWRt1K_N14",
+      "name": "He’s making himself known. Clayface is the #1 MOVIE IN THE WORLD.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "68mIfHfPIE8",
+      "name": "One to see with a crowd.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "DtHA2Bj28YI",
+      "name": "Go get yours.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "7dnfwExURpk",
+      "name": "The heart of the story.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "1chYKqEXT4U",
+      "name": "Clayface made its mark and is the #1 MOVIE IN THE WORLD.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Yy0kELFLMb4",
+      "name": "Time to lock in on weekend plans.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "teS6-uhXuBw",
+      "name": "A scene that must be watched through your hands",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "xDszsG98iHg",
+      "name": "Had to be done",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "4kAIkmSGt_A",
+      "name": "You heard them!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "i67BfpvU6xU",
+      "name": "See it with your own eyes.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "IQzjobzE8bo",
+      "name": "Smile, it's Clayface Day!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "NBgMay6XMa8",
+      "name": "Don’t be shy.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Sde8-nqtMuc",
+      "name": "It's time to look fear in the face.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "nRbhTZvZ0i4",
+      "name": "Got the message?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "1VkCrAh5FCA",
+      "name": "You'll never look at these objects the same after Clayface",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "IwYZrYSUyuk",
+      "name": "The Clayface cast play a game of Rapidough",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ixMpZbIkO90",
+      "name": "Intense, exciting, and holding nothing back.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "jySil8syhqI",
+      "name": "See how dark it gets.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "pkVAdlXWjwU",
+      "name": "See why Clayface is the talk of the town.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "pEqLlHXmJjQ",
+      "name": "It's time.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "-88nAic8-B4",
+      "name": "The chaos has begun. Clayface is now Certified Fresh on Rotten Tomatoes.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "nvB8QLAQqjE",
+      "name": "A darker side emerges. Have you gotten your seats yet for Clayface?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Y7KbfnYPg0o",
+      "name": "It’s time to get acquainted.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "J8h3Q2XBBP0",
+      "name": "European Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "r0QKfLbLLKU",
+      "name": "London transformed into Gotham for the Clayface European Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "aKncgewLk9k",
+      "name": "The reactions say it all",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "C9YZgIy-S0k",
+      "name": "Who is he?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9qpM-jT83R8",
+      "name": "Take it all in.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "X8tdIOuK4CQ",
+      "name": "From one face to another.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Qe87EDM-bTw",
+      "name": "What do we want? We want you in the theater.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Jm1pc_TWm8g",
+      "name": "The possibilities are endless.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "LmkosMfxAwE",
+      "name": "Final form loading.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9ZnxKYkf3Fc",
+      "name": "Clayface star Tom Rhys Harries and @matcrackz come up against a familiar face in Fortnite",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "-D12qfIvQtE",
+      "name": "They've looked fear in the face. When will you?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "OZaxUtxyRfs",
+      "name": "Embrace the change.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "f7jlCqdtwdM",
+      "name": "The Plane",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "NfqdqQWIq2E",
+      "name": "Only one more week until clayday!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "UE7tH1KAp7k",
+      "name": "A chilling look at Clayface",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "1TgQ6xz7Tx0",
+      "name": "You have to see it to believe it.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "_72wSKPl754",
+      "name": "Your eyes won't believe it.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "iKgitkxGzZA",
+      "name": "He could be anyone.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "uuCOw-TxATg",
+      "name": "I Feel Great",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "t_AoBO2wGDE",
+      "name": "Fortnite",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "gk_yGpCGrk4",
+      "name": "Are you ready to face your fear?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "x0qQUxmR4XI",
+      "name": "Dive into the darkness of Clayface.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "uXdg16EhmB8",
+      "name": "Dare to watch a sneak peek of THAT scene",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ixDPAATWrIE",
+      "name": "It's all about to change in Clayface.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "L6hnv8H2ndc",
+      "name": "Look at what they’ve done.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "K_twIix80Dw",
+      "name": "Good with his hands",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "LSga_I4hroo",
+      "name": "Spiraling out of place.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "sEkH64NFfbY",
+      "name": "Like his face?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "0Ug-Ci1caPY",
+      "name": "There's no turning back.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "RZr55nIKSkA",
+      "name": "Learn to control it.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "2SbbEuoAXOM",
+      "name": "Nothing is the same.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "v1ZnjTg3N14",
+      "name": "Pain and humiliation, two ingredients to make the perfect villain.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "stmlbnq4Sdk",
+      "name": "Get Tickets Now",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "IEsKFchbL9U",
+      "name": "Beware of the mutations.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "L3FN3UXI8DY",
+      "name": "We're in unknown territory.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "BlPSEExanGg",
+      "name": "Can you see the man underneath?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "43OzJULNlYg",
+      "name": "It's right in front of your eyes.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "sRhGnBt2XNQ",
+      "name": "There's no hiding.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "BA4YqWeNsyM",
+      "name": "What's happening to him?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "nmtewUk_SUk",
+      "name": "The hype is real.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ygC0Sm6IVys",
+      "name": "See for yourself. Search Clayface.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "KCR-rz0YfD4",
+      "name": "Final Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "O4-MiOrxMQc",
+      "name": "In Cinemas on October 23",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ZHK5pVo4OA0",
+      "name": "Second chances aren’t free.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "-ujOAgsdRyo",
+      "name": "A new life begins.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "YyJ9YER6cJg",
+      "name": "Can't keep it contained.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "OGO4Mqvo3jI",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "z4BT5bpVl5s",
+      "name": "Official Trailer Tease",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "6IxPD-jNdwM",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 298,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1400940-clayface/watch?locale=US",
+      "rent": []
+    }
+  }
+}

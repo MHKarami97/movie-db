@@ -1,0 +1,86 @@
+{
+  "backdropPath": "/yqtITlTiCtuBAtqbg28Zx9g1E0I.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 3096,
+      "logoPath": "/fkZTZ4veYYr3lwr2riVrVAOfeqD.png",
+      "name": "Tyler Perry Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-11",
+  "externalIds": {
+    "imdbId": "tt38420997"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1559980,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Tyler Perry's The Gospel of Christmas",
+  "overview": "A pastor faces doubt while trying to save his inherited family church in a troubled NYC area. Through faith and prayer, he fights inner demons and an enemy to protect his church, family, and community before Christmas.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-11",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-11"
+    }
+  },
+  "runtime": 103,
+  "schemaVersion": 2,
+  "status": "Planned",
+  "tagline": "Do you see what I see?",
+  "theatricalDate": null,
+  "title": "Tyler Perry's The Gospel of Christmas",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "lXh2rNl2wdQ",
+      "name": "Tyler Perry’s The Gospel of Christmas | Official Trailer | Netflix",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

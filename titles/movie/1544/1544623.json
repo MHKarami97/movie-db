@@ -1,0 +1,214 @@
+{
+  "backdropPath": "/hrAsYE228j0EB473nx84HTL88ap.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1242125,
+      "name": "Pedro Martínez",
+      "profilePath": "/mMD8ReXZFf8qUUQ0oaCmm8qtly.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 5196142,
+      "name": "Vladimir Guerrero",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 1722278,
+      "name": "Felipe Alou",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 2125281,
+      "name": "Larry Walker",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 5721024,
+      "name": "Dennis Martínez",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 4049036,
+      "name": "Orlando Cabrera",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 5721027,
+      "name": "Claude Brochu",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 3487051,
+      "name": "David Samson",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 3216321,
+      "name": "Tom Verducci",
+      "profilePath": "/wSiobCThJNuOIPZGi6pby0bJ101.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 46682,
+      "logoPath": "/ybNfe9vMywnjygOODnm7QYw9rvQ.png",
+      "name": "Attraction"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2025-10-21",
+  "externalIds": {
+    "imdbId": "tt38348802",
+    "wikidataId": "Q137295437"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1544623,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Qui a tué les Expos de Montréal?",
+  "overview": "An investigation into the downfall of the Montreal Expos, Canada's first Major League Baseball team — and who was ultimately responsible.",
+  "posterPath": "/9WBhvNNUE9HHy2rGwwQ0Iyk8WSs.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-10-21",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-21",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2025-10-21"
+    },
+    "US": {
+      "digital": "2025-10-21"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Who Killed the Montreal Expos?",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "S0J6bptBVks",
+      "name": "Give Away Players Sneak Peek",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "-WtmGJd-PLk",
+      "name": "Unique Talent Sneak Peek",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "gtGYinDUSS8",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 16,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1544623-qui-a-tue-les-expos-de-montreal/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1544623-qui-a-tue-les-expos-de-montreal/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1544623-qui-a-tue-les-expos-de-montreal/watch?locale=US",
+      "rent": []
+    }
+  }
+}

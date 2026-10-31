@@ -1,0 +1,178 @@
+{
+  "backdropPath": "/tlaX8NISwLalsbhlnGHqFWIhQY2.jpg",
+  "cast": [
+    {
+      "character": "Jayne Staplegun (voice)",
+      "id": 1765068,
+      "name": "Cynthia Erivo",
+      "profilePath": "/gIAXqZwZCBqkh2ppfAV4xcnMxki.jpg"
+    },
+    {
+      "character": "Clowder (voice)",
+      "id": 12207,
+      "name": "Kylie Minogue",
+      "profilePath": "/sVe6DQ1iFlk4nad0Bd3WVVVj23P.jpg"
+    },
+    {
+      "character": "Butterwort (voice)",
+      "id": 1475239,
+      "name": "Ncuti Gatwa",
+      "profilePath": "/vLFh9kdB2G06ugwYmRNpxiXhbN0.jpg"
+    },
+    {
+      "character": "Robin Goodfellow (voice)",
+      "id": 221611,
+      "name": "Jonathan Groff",
+      "profilePath": "/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
+    },
+    {
+      "character": "Fairy Gothmother (voice)",
+      "id": 47646,
+      "name": "Catherine Tate",
+      "profilePath": "/xqaqetDBODzlm4Yky99NOOzLstL.jpg"
+    },
+    {
+      "character": "Fei Chang (voice)",
+      "id": 3251452,
+      "name": "Serrana Su-Ling Bliss",
+      "profilePath": "/h3FCGvanMlV6FQjE3p3TQ5llcNU.jpg"
+    },
+    {
+      "character": "Stickers (voice)",
+      "id": 1684762,
+      "name": "James Acaster",
+      "profilePath": "/jNqSgekau7kRFozf63LN0FNlFkM.jpg"
+    },
+    {
+      "character": "Groundbeef (voice)",
+      "id": 23680,
+      "name": "Dee Bradley Baker",
+      "profilePath": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "character": "Rae Fry (voice)",
+      "id": 3607815,
+      "name": "Katelyn Rose Downey",
+      "profilePath": "/50mZMR1gxqFNahFA8nahFnvsWQy.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 121605,
+      "logoPath": "/4rc0vsJWygNm9ojrxSdPVU9jKyj.png",
+      "name": "Locksmith Animation"
+    },
+    {
+      "id": 31922,
+      "logoPath": "/omWPoru2LNayUOBqjMBLP9KrFrP.png",
+      "name": "DNEG"
+    },
+    {
+      "id": 257419,
+      "logoPath": "/1zFocMJY511uHdoHgIIkdA0l5JN.png",
+      "name": "Warner Bros. Pictures Animation"
+    },
+    {
+      "id": 158177,
+      "logoPath": null,
+      "name": "Sketchshark Productions"
+    },
+    {
+      "id": 216687,
+      "logoPath": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+      "name": "Domain Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt28018076",
+    "wikidataId": "Q127984209"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1138528,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Bad Fairies",
+  "overview": "Hidden beneath the streets of modern London exists a secret magical world powered by an ancient code that fairies have followed for centuries. But when a fearless gang of rule-breaking fairies accidentally transforms an ordinary tween into a fairy, they uncover a far bigger problem: the magic system itself is failing. With their world on the brink of collapse, the group's toughest renegade hero must forge an unlikely alliance with the very human they transformed, embarking on a race against time through both London and the hidden magical realm. Together, they'll discover that saving magic may require breaking every rule in the book -proving that sometimes doing a little bad is the only way to do a whole lot of good.",
+  "posterPath": "/qv5bf7IXmVHpGE0TpYKA8tD2NFi.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-05-21"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2027-05-21"
+    }
+  },
+  "runtime": 109,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": "2027-05-21",
+  "title": "Bad Fairies",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "3FgM-5gtMC4",
+      "name": "Cynthia Erivo and Kylie Minogue announce the amazing cast of Bad Fairies at the Hollywood Bowl",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,96 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2027-10-20",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-10-20",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "First episode",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 339910,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-10-20",
+    "episodeNumber": 1,
+    "id": 8007547,
+    "name": "Episode 1",
+    "overview": "First episode",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Untitled Texas Chainsaw Massacre Series",
+  "overview": "A prequel to the horror classic",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-10-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-10-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-10-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-10-20",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-10-20"
+    },
+    "CN": {
+      "tv": "2027-10-20"
+    },
+    "GB": {
+      "tv": "2027-10-20"
+    },
+    "US": {
+      "tv": "2027-10-20"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-10-20",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Untitled Texas Chainsaw Massacre Series",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

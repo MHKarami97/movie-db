@@ -1,0 +1,214 @@
+{
+  "backdropPath": "/cDiEVwx3VWNRny0ctFVVmCuCFSo.jpg",
+  "cast": [
+    {
+      "character": "Avi Haddad",
+      "id": 584178,
+      "name": "Zohar Liba",
+      "profilePath": "/JOuu3OC5chyRXm5DtRwrbBabM0.jpg"
+    },
+    {
+      "character": "Sandy Ross",
+      "id": 1245994,
+      "name": "Dana Frider",
+      "profilePath": "/kjm7j6Wr6lOOuCUZjASsEHblwS8.jpg"
+    },
+    {
+      "character": "Emilio",
+      "id": 1027673,
+      "name": "Angel Bonanni",
+      "profilePath": "/3YJrxH2yeIwSQJb4bwKVZbSBjDs.jpg"
+    },
+    {
+      "character": "Nasser",
+      "id": 1568397,
+      "name": "George Iskandar",
+      "profilePath": null
+    },
+    {
+      "character": "Colonel Calderon",
+      "id": 1074701,
+      "name": "Rodrigo Poisón",
+      "profilePath": "/2fWGOpybjl8P54cTiH5DF60YgjX.jpg"
+    },
+    {
+      "character": "Santiago",
+      "id": 1637076,
+      "name": "Harlys Becerra",
+      "profilePath": "/klDB0a7YXBYH6JGWLZeTxojjmIK.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 280523,
+      "logoPath": null,
+      "name": "EscoBank Movie"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2025-11-14",
+  "externalIds": {
+    "imdbId": "tt22202450"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "id": 1426083,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "he",
+      "name": "Hebrew"
+    }
+  ],
+  "originalTitle": "אסקובנק",
+  "overview": "A ragtag group of misfits, veterans and ex-cons embark on a perilous journey in the jungles of Colombia to find the buried barrels of cash left behind by legendary drug kingpin Pablo Escobar before his downfall.",
+  "posterPath": "/5G0pPDxAKWgQy24NHBGl8LYPxIH.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-14",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-11-14"
+    }
+  },
+  "runtime": 97,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Escobank",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "iQqUdSuALPc",
+      "name": "Escobank | Official Trailer HD",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 12,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        },
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        },
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1426083/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

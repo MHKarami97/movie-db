@@ -1,0 +1,256 @@
+{
+  "backdropPath": "/uOQtyMV2G9yJvc0s14zmLoRC5H9.jpg",
+  "cast": [
+    {
+      "character": "Prince Eli",
+      "id": 4133256,
+      "name": "Matthew Gademske",
+      "profilePath": "/wgvHF93BO0VxQA3HemklufBFEX4.jpg"
+    },
+    {
+      "character": "Ella",
+      "id": 4499806,
+      "name": "Morgan Flanagan",
+      "profilePath": "/5Qb68qsULMlUz83At9cHixtLkDN.jpg"
+    },
+    {
+      "character": "Chancellor Faurtax",
+      "id": 2812699,
+      "name": "Krymis J Fernando",
+      "profilePath": null
+    },
+    {
+      "character": "Gunnar",
+      "id": 3213589,
+      "name": "Antonio Valles",
+      "profilePath": "/qbUYTt2m5qey8rO310887XyT2XQ.jpg"
+    },
+    {
+      "character": "Samara",
+      "id": 3796858,
+      "name": "Telisha Johnson",
+      "profilePath": "/tVUzmTyd5WgF2aTKdGPLpPsLQ4b.jpg"
+    },
+    {
+      "character": "Sevryn",
+      "id": 2722294,
+      "name": "Llana Barron",
+      "profilePath": "/tXIYv38X8AZ6YP29yHHekcXckIU.jpg"
+    },
+    {
+      "character": "King Walter",
+      "id": 6356723,
+      "name": "Jim O'Brien",
+      "profilePath": null
+    },
+    {
+      "character": "Atrious",
+      "id": 2873900,
+      "name": "Bryan Barron",
+      "profilePath": "/pddlVRMQ7HbFzx476lc2xI7nqSI.jpg"
+    },
+    {
+      "character": "Wynne",
+      "id": 6356724,
+      "name": "Bryan J Mangam",
+      "profilePath": null
+    },
+    {
+      "character": "Rik",
+      "id": 1752240,
+      "name": "Leo Christopher Sheridan",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 1311,
+      "logoPath": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-05-22",
+  "externalIds": {
+    "imdbId": "tt41087705"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "id": 1698856,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Master of the Universe",
+  "overview": "A young man must use his untapped powers to fight back against an evil alien and their army, who will stop at nothing to take over Earth and then the universe.",
+  "posterPath": "/a77OcLmarwiBJakOPPC36m58t4L.jpg",
+  "rating": 5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-22",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-05-22"
+    }
+  },
+  "runtime": 140,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "He's the Man.",
+  "theatricalDate": null,
+  "title": "Master of the Universe",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "CmuEqjuzxWc",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 96,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1698856-master-of-the-universe/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1698856-master-of-the-universe/watch?locale=US",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "backdropPath": "/c9kyFqOJj7PVn87JBkRBmKvFAfI.jpg",
+  "cast": [
+    {
+      "character": "Tom",
+      "id": 2984471,
+      "name": "Bentley Storteboom",
+      "profilePath": "/pRsAMtGYuOBFz8FhEDhAChJYOrA.jpg"
+    },
+    {
+      "character": "Allie",
+      "id": 3318616,
+      "name": "Skywalker Hughes",
+      "profilePath": "/odWo2m7Xdcnw3WdxsZfvRBqbmY.jpg"
+    },
+    {
+      "character": "Frank",
+      "id": 1372,
+      "name": "Karl Urban",
+      "profilePath": "/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg"
+    },
+    {
+      "character": "Abigail",
+      "id": 1772,
+      "name": "Anna Faris",
+      "profilePath": "/tptTb0BQwCpKWETNqzkZzzf5qSZ.jpg"
+    },
+    {
+      "character": "Little Ben (voice)",
+      "id": 569,
+      "name": "Ethan Hawke",
+      "profilePath": "/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+    },
+    {
+      "character": "Pop (voice)",
+      "id": 55936,
+      "name": "Jemaine Clement",
+      "profilePath": "/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg"
+    },
+    {
+      "character": "(voice)",
+      "id": 449,
+      "name": "Jay Baruchel",
+      "profilePath": "/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 61011,
+      "logoPath": "/kDPeollsOtUtGqqEF4P29NwEjf5.png",
+      "name": "Scythia Films"
+    },
+    {
+      "id": 55251,
+      "logoPath": null,
+      "name": "Southern Light Films"
+    },
+    {
+      "id": 160007,
+      "logoPath": "/dsUGgrrbqYZcHLKZQnrf3zEs6db.png",
+      "name": "Orogen Entertainment"
+    },
+    {
+      "id": 127522,
+      "logoPath": "/bEeTzk7aLDNHWW2L0L0yRbFegGA.png",
+      "name": "The Mediapro Studio"
+    },
+    {
+      "id": 11317,
+      "logoPath": "/hMboqqmeILXFeOJjuCsn3FvCIT3.png",
+      "name": "Phoenix Pictures"
+    },
+    {
+      "id": 306610,
+      "logoPath": null,
+      "name": "BLD Ventures"
+    },
+    {
+      "id": 54874,
+      "logoPath": "/gniXmIsykPPXw7Lys1Fkm4LlB9O.png",
+      "name": "Umbrella Entertainment"
+    },
+    {
+      "id": 25140,
+      "logoPath": "/6SeV4YCwyIDktJlvrVwiEDSLovF.png",
+      "name": "The Exchange"
+    },
+    {
+      "id": 64740,
+      "logoPath": "/N9CoGbHpYbA93wogwbKGN3MhDh.png",
+      "name": "Mongrel Media"
+    },
+    {
+      "id": 157740,
+      "logoPath": "/psBLfwHCfU9A4U9bWmeWF8AlSqr.png",
+      "name": "Crave"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "AU",
+      "name": "Australia"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt27897176",
+    "wikidataId": "Q124450732"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1127861,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "I, Object",
+  "overview": "10-year-old Tom, grieving the loss of his father and unable to relate to the people in his life, takes refuge in the everyday objects around him. Pop can lids, suitcases and untold numbers of everyday objects reveal their true faces and speak to him, helping him on his healing journey.",
+  "posterPath": "/xZblxKLzgXameNgEdcE8o37Ch8I.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-07-23"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-07-23"
+    }
+  },
+  "runtime": 92,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Friendship comes in all shapes and sizes.",
+  "theatricalDate": "2026-07-23",
+  "title": "I, Object",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "u5ENTPq8xf0",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {}
+}

@@ -1,0 +1,206 @@
+{
+  "backdropPath": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
+  "cast": [
+    {
+      "character": "Rose",
+      "id": 7152,
+      "name": "Sandra Hüller",
+      "profilePath": "/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
+    },
+    {
+      "character": "Suzanna",
+      "id": 5926511,
+      "name": "Caro Braun",
+      "profilePath": "/gMlt1SZ6eOUinOcSTc7QhrlEuuy.jpg"
+    },
+    {
+      "character": "The Narrator (voice)",
+      "id": 1817655,
+      "name": "Marisa Growaldt",
+      "profilePath": "/lbDsn2cj6ATAL4Su10Usp0R5b4t.jpg"
+    },
+    {
+      "character": "The Bailiff",
+      "id": 50244,
+      "name": "Robert Gwisdek",
+      "profilePath": "/doCAnt1rXCLmbLlMA9wQx215LSF.jpg"
+    },
+    {
+      "character": "The Large-Scale Farmer",
+      "id": 928468,
+      "name": "Godehard Giese",
+      "profilePath": "/2vz3pSqdPUEtJ5xcNTWh7eZVdkj.jpg"
+    },
+    {
+      "character": "His Wife",
+      "id": 39249,
+      "name": "Maria Dragus",
+      "profilePath": "/4AiU1EdwWlNuxBbYV1qLxc09mv1.jpg"
+    },
+    {
+      "character": "His Deceased Wife",
+      "id": 1467525,
+      "name": "Larisa Faber",
+      "profilePath": "/vSidsrCNYtL7oAR9tcsn3oCGGLl.jpg"
+    },
+    {
+      "character": "His Daughter",
+      "id": 5926521,
+      "name": "Annalisa Hohl",
+      "profilePath": "/6138LUa2LOiptGunhP5rGiNrSm6.jpg"
+    },
+    {
+      "character": "His Daughter",
+      "id": 6494292,
+      "name": "Ruby De Quero",
+      "profilePath": null
+    },
+    {
+      "character": "His Daughter",
+      "id": 6494294,
+      "name": "Enni Kräker",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 141151,
+      "logoPath": "/dLhJy7NJYrANcDonHRhcM1xGXJC.png",
+      "name": "Schubert"
+    },
+    {
+      "id": 193640,
+      "logoPath": "/spTDjTNIejFQCL30ZBPC9w0G1jR.png",
+      "name": "Row Pictures"
+    },
+    {
+      "id": 25828,
+      "logoPath": "/ikU6I2MtiJsupBMhDPHpcS8hre6.png",
+      "name": "Walker & Worm Film"
+    },
+    {
+      "id": 3391,
+      "logoPath": "/t0QBs2fI3mE3HxgoH1n39bYuzNu.png",
+      "name": "ORF"
+    },
+    {
+      "id": 4606,
+      "logoPath": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AT",
+      "name": "Austria"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt25399154",
+    "wikidataId": "Q136458718"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "id": 1176962,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "Rose",
+  "overview": "In the early 17th century, a soldier arrives at an isolated Protestant village in Germany claiming to be the heir to an abandoned farmstead. Even though he proves to be a good man, the villagers’ suspicions about his identity grow and they force a reckoning.",
+  "posterPath": "/4k3ph6BoeZr7IMiQx8ioEV8d9cJ.jpg",
+  "rating": 7.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-02-05"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-12-11"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-04-19"
+    },
+    "GB": {
+      "premiere": "2026-10-13",
+      "theatrical": "2027-02-05"
+    },
+    "US": {
+      "premiere": "2026-09-05",
+      "theatrical": "2026-12-11"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-12-11",
+  "title": "Rose",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "KrmkNoxS6t4",
+      "name": "Official International Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "XncHAx1HKA4",
+      "name": "Sandra Hüller and Markus Schleinzer on Rose",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Bo0Gkx3KHGc",
+      "name": "Official Clip [Subtitled]",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "80xR3G5eowo",
+      "name": "Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 64,
+  "watchProviders": {}
+}

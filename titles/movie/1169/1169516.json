@@ -1,0 +1,203 @@
+{
+  "backdropPath": "/96chPcURxg5thGyLqxO6otyxHFR.jpg",
+  "cast": [
+    {
+      "character": "Rajeev Kohli / Vishwajit Kohli",
+      "id": 35070,
+      "name": "Akshay Kumar",
+      "profilePath": "/sR8nASRtTpiwXqkFHjG2jdRBZ7a.jpg"
+    },
+    {
+      "character": "Yeda Anna",
+      "id": 85730,
+      "name": "Suniel Shetty",
+      "profilePath": "/7N2gTXit5GMfgUhkZ3QsjTnoMH6.jpg"
+    },
+    {
+      "character": "Romeo",
+      "id": 85889,
+      "name": "Arshad Warsi",
+      "profilePath": "/1Hv35hhpfwNXNm0DqJxpfNJt1q.jpg"
+    },
+    {
+      "character": "Jenny",
+      "id": 95505,
+      "name": "Jacqueline Fernandez",
+      "profilePath": "/d9uHQdFXMGBwPEhbovipqbnkqqX.jpg"
+    },
+    {
+      "character": "Nadia",
+      "id": 1546398,
+      "name": "Disha Patani",
+      "profilePath": "/jeFgIW3d3BP6MkfnMlmEGP33Oyq.jpg"
+    },
+    {
+      "character": "Zoya",
+      "id": 123180,
+      "name": "Raveena Tandon",
+      "profilePath": "/4z0X9ZMgyNZRHfJG4G2Z10rhLpu.jpg"
+    },
+    {
+      "character": "Zatara",
+      "id": 86014,
+      "name": "Jackie Shroff",
+      "profilePath": "/sVqe6VioM37LQwgQLd8wnC5vapK.jpg"
+    },
+    {
+      "character": "Das",
+      "id": 85033,
+      "name": "Paresh Rawal",
+      "profilePath": "/xFVHMvDC8s4Ab2sLXrdVxMxZ33b.jpg"
+    },
+    {
+      "character": "Teja",
+      "id": 55063,
+      "name": "Lara Dutta",
+      "profilePath": "/tt0qUlMx7tlDa8XyhBm6OQPurG0.jpg"
+    },
+    {
+      "character": "Badi Bi",
+      "id": 146971,
+      "name": "Farida Jalal",
+      "profilePath": "/tJdqL4BRSAWVFX1W6cmwxFs9IFh.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 64331,
+      "logoPath": null,
+      "name": "Base Industries Group"
+    },
+    {
+      "id": 35063,
+      "logoPath": "/r7pvX3K2k3iNVBVt4xufCIEIcnP.png",
+      "name": "Cape of Good Films"
+    },
+    {
+      "id": 60536,
+      "logoPath": "/chMIfiURhqvr6eWCrzxIwuaWVeN.png",
+      "name": "Nadiadwala Grandson Entertainment"
+    },
+    {
+      "id": 255348,
+      "logoPath": null,
+      "name": "Seeta Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt28540171",
+    "wikidataId": "Q140053031"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "id": 1169516,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "hi",
+      "name": "Hindi"
+    }
+  ],
+  "originalTitle": "Welcome To The Jungle",
+  "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
+  "posterPath": "/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+  "rating": 5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-06-25"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-06-26"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-06-25"
+    },
+    "GB": {
+      "theatrical": "2026-06-26"
+    }
+  },
+  "runtime": 170,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Fake film. Real jungle. Real danger. Real idiots!",
+  "theatricalDate": "2026-06-26",
+  "title": "Welcome To The Jungle",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "25l9MXYWxww",
+      "name": "Welcome To The Jungle (Teaser)",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 43,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 630,
+          "logoPath": "/vnpp3n6DAIh2sKXfMbehKZAWJMC.png",
+          "name": "STARZPLAY"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1169516-welcome-to-the-jungle/watch?locale=AE",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1169516-welcome-to-the-jungle/watch?locale=US",
+      "rent": []
+    }
+  }
+}

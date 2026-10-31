@@ -1,0 +1,236 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Nathan",
+      "id": 1443761,
+      "name": "Jim Burleson",
+      "profilePath": "/yU3Q0pWiY7XMNkSiSDvUiwnyXFj.jpg"
+    },
+    {
+      "character": "Mandy",
+      "id": 4891650,
+      "name": "Mihira Estelle",
+      "profilePath": null
+    },
+    {
+      "character": "Dusty",
+      "id": 92312,
+      "name": "Corey Taylor",
+      "profilePath": "/zGLj4Z8y930WFrz6sQbACQMsNW7.jpg"
+    },
+    {
+      "character": "Parker",
+      "id": 226332,
+      "name": "Trae Ireland",
+      "profilePath": "/uAVtzBoQdPpZWxM9PAcMwXg1NYe.jpg"
+    },
+    {
+      "character": "Tracy",
+      "id": 6292016,
+      "name": "Kennedy Smith",
+      "profilePath": null
+    },
+    {
+      "character": "Charles",
+      "id": 24968,
+      "name": "Nils Allen Stewart",
+      "profilePath": "/qeTM6yMFJeP9dhudYGAKduzaoGD.jpg"
+    },
+    {
+      "character": "Page",
+      "id": 3067222,
+      "name": "Sage Stewart",
+      "profilePath": null
+    },
+    {
+      "character": "Shelby",
+      "id": 3880043,
+      "name": "Bonnie Jean Tyer",
+      "profilePath": "/llASZfrHsBr86IVnAfHeSHgjVy9.jpg"
+    },
+    {
+      "character": "Robert",
+      "id": 5880761,
+      "name": "Francesco S. Viola",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 179835,
+      "logoPath": "/j6u9QwJUwWGFpAHaoUzp6jENF4G.png",
+      "name": "Screambox"
+    },
+    {
+      "id": 15157,
+      "logoPath": "/yezzLb9RbKNtQUsyYySAqC9TQr7.png",
+      "name": "Bloody Disgusting"
+    },
+    {
+      "id": 301895,
+      "logoPath": null,
+      "name": "Darkroad Pictures"
+    },
+    {
+      "id": 104320,
+      "logoPath": null,
+      "name": "Plymouth Productions"
+    },
+    {
+      "id": 301896,
+      "logoPath": null,
+      "name": "Six Guns Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-06-16",
+  "externalIds": {
+    "imdbId": "tt27986547",
+    "instagramId": "@coreytaylor"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1713962,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Night of Blood",
+  "overview": "Six strangers enter a cash-prize endurance challenge at the Val Verde Hotel, a location infamous for a fatal explosion and rumors of being haunted. Instead of being stalked by a physical, masked serial killer, the contestants face immersive, supernatural scares when the hauntings at the hotel turn out to be all too real.",
+  "posterPath": "/sa7Ko9iXItGwtBmsBSehSyz6mk3.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-16",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-06-16"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Night of Blood",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "tXOiwlerDxU",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 202,
+          "logoPath": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+          "name": "Screambox Amazon Channel"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        },
+        {
+          "id": 2367,
+          "logoPath": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+          "name": "Midnight Pulp Amazon Channel"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1713962-night-of-blood/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "backdropPath": "/1o7I9rlfreejKFECAWDu4hHGghj.jpg",
+  "cast": [
+    {
+      "character": "Sara",
+      "id": 2520942,
+      "name": "Chloe Van Landschoot",
+      "profilePath": "/9sQDQxKcp0UAl5nKfeoHwcn3eGs.jpg"
+    },
+    {
+      "character": "Carol",
+      "id": 3012310,
+      "name": "Tymika Tafari",
+      "profilePath": "/8k42n2AJb3goVZTGa6CriXUM6Dh.jpg"
+    },
+    {
+      "character": "Troy",
+      "id": 1268568,
+      "name": "Garrett Hnatiuk",
+      "profilePath": "/rOmfQyBX5gnvHcWOCQs5G0u975a.jpg"
+    },
+    {
+      "character": "Agnes",
+      "id": 1362948,
+      "name": "Jane Moffat",
+      "profilePath": "/x8hRTny8olUJYGyH7K3zDUUHIqk.jpg"
+    },
+    {
+      "character": "Satan",
+      "id": 2232332,
+      "name": "Brendan Flynn",
+      "profilePath": "/7vKEToXXV3nMORBCRItJOOwM7K4.jpg"
+    },
+    {
+      "character": "Angelene",
+      "id": 2486729,
+      "name": "Raevv'n Leedham",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34881854"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1522027,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Son of Sara: Volume 1",
+  "overview": "Haunted by strange urges and visions, a pregnant woman past her due date accepts an invitation to dinner where the hosts have a demented interest in the birth of her child.",
+  "posterPath": "/tsLP0bgEL4CWY9qhsrTov8dhYnL.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Son of Sara: Volume 1",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "NNa9GNcnUA0",
+      "name": "Son of Sara | Official Trailer | Horror Brains",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1522027-son-of-sara-volume-1/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

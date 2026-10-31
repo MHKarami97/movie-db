@@ -1,0 +1,703 @@
+{
+  "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+  "cast": [
+    {
+      "character": "Bryan",
+      "id": 148992,
+      "name": "Austin Abrams",
+      "profilePath": "/nvbJNwyhIICUFcS4lhxj9mGvL5z.jpg"
+    },
+    {
+      "character": "Paul",
+      "id": 1294982,
+      "name": "Paul Walter Hauser",
+      "profilePath": "/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg"
+    },
+    {
+      "character": "Maxine",
+      "id": 3119545,
+      "name": "Kali Reis",
+      "profilePath": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg"
+    },
+    {
+      "character": "Carl",
+      "id": 1838225,
+      "name": "Zach Cherry",
+      "profilePath": "/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
+    },
+    {
+      "character": "Officer Wilson",
+      "id": 1169291,
+      "name": "Johnno Wilson",
+      "profilePath": "/eZtBoBE0F7Qb9ZyNpacMOQtmWnM.jpg"
+    },
+    {
+      "character": "Puker",
+      "id": 2445714,
+      "name": "Shaun W. Loeser",
+      "profilePath": "/pMV7kzy7OHk4X93uRGbrdvuFgQB.jpg"
+    },
+    {
+      "character": "Intercom (voice)",
+      "id": 84833,
+      "name": "Zach Cregger",
+      "profilePath": "/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg"
+    },
+    {
+      "character": "Dr. Maria Stokes",
+      "id": 1362996,
+      "name": "Emily Piggford",
+      "profilePath": "/ruijvaNNXzGXqGphQXsoHts1Ovc.jpg"
+    },
+    {
+      "character": "Dave",
+      "id": 1221073,
+      "name": "Will Merrick",
+      "profilePath": "/zqyH01TJ9WW6TaAULCG2ChSbNwI.jpg"
+    },
+    {
+      "character": "Birdie",
+      "id": 5848547,
+      "name": "Zoé Bellas",
+      "profilePath": "/3nw4EhStA4IcJQxz4Yevm25u5ov.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 47,
+      "logoPath": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+      "name": "Constantin Film"
+    },
+    {
+      "id": 240675,
+      "logoPath": "/qBN0r3EbLfDwANllIHmQtSRTBaP.png",
+      "name": "Subconscious"
+    },
+    {
+      "id": 829,
+      "logoPath": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
+      "name": "Vertigo Entertainment"
+    },
+    {
+      "id": 342,
+      "logoPath": "/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png",
+      "name": "Davis Films"
+    },
+    {
+      "id": 5,
+      "logoPath": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures"
+    },
+    {
+      "id": 125281,
+      "logoPath": "/3hV8pyxzAJgEjiSYVv1WZ0ZYayp.png",
+      "name": "PlayStation Productions"
+    },
+    {
+      "id": 559,
+      "logoPath": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+      "name": "TriStar Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": "2026-11-03",
+  "externalIds": {
+    "facebookId": "ResidentEvilMovie",
+    "imdbId": "tt35538033",
+    "instagramId": "residentevil",
+    "twitterId": "ResidentEvil",
+    "wikidataId": "Q136565785"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 46,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "id": 1423191,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Resident Evil",
+  "overview": "برایان، پیکِ محموله‌های دارویی، ناخواسته خود را درگیرِ نبردی برای بقا می‌یابد؛ شبی سرنوشت‌ساز و هولناک که در دلِ هرج‌ومرج و آشوب بر سر او آوار می‌شود.",
+  "posterPath": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+  "rating": 7.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-17"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-05"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-18"
+    },
+    "US": {
+      "digitalDate": "2026-11-03",
+      "gapDays": 46,
+      "theatricalDate": "2026-09-18"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-09-17"
+    },
+    "CN": {
+      "theatrical": "2026-10-05"
+    },
+    "GB": {
+      "theatrical": "2026-09-18"
+    },
+    "US": {
+      "digital": "2026-11-03",
+      "premiere": "2026-09-17",
+      "theatrical": "2026-09-18"
+    }
+  },
+  "runtime": 95,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A new era of evil.",
+  "theatricalDate": "2026-09-18",
+  "title": "Resident Evil",
+  "translations": {
+    "faOverview": "برایان، پیکِ محموله‌های دارویی، ناخواسته خود را درگیرِ نبردی برای بقا می‌یابد؛ شبی سرنوشت‌ساز و هولناک که در دلِ هرج‌ومرج و آشوب بر سر او آوار می‌شود.",
+    "faTitle": "رزیدنت ایول"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "_dAMkGfEZQ0",
+      "name": "Worst. Shift. Ever",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "gprAaN6RU-U",
+      "name": "In Cinemas Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "DXkFZ7RZFTs",
+      "name": "In Cinemas Now",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "4YLXlGgrNfI",
+      "name": "Dynamic Duo",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "IBVetWBLMUA",
+      "name": "In Cinemas Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "zhJgnJQDQlc",
+      "name": "𝙽𝚊𝚑, 𝚉𝚊𝚌𝚑 𝙲𝚛𝚎𝚐𝚐𝚎𝚛 𝚒𝚜 𝚐𝚘𝚗𝚗𝚊 𝚍𝚘 𝚑𝚒𝚜 𝚘𝚠𝚗 𝚝𝚑𝚒𝚗𝚐.",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "SFapZhoPgJE",
+      "name": "𝙾𝚑 𝚏*𝚌𝚔… 𝚎𝚗𝚓𝚘𝚢 𝚢𝚘𝚞𝚛 𝚏***𝚒𝚗𝚐 𝚙𝚘𝚙𝚌𝚘𝚛𝚗.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "E7OzF0wWkWE",
+      "name": "Bruh.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "nSSig89WVBI",
+      "name": "1.90 Scene Breakdown",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "e2iEEZ4Q68g",
+      "name": "Zach + Austin",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "XJ13qqZ09F0",
+      "name": "In Cinemas Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9QTXJXkdfCA",
+      "name": "In Cinemas Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "d0oYT9NRU90",
+      "name": "Lock Opening Challenge",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "UAFbpNacsaw",
+      "name": "stay tuned for a surprise at the end",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "qeiuzYRdfGM",
+      "name": "Horror Lens",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "WyFZz0Di31M",
+      "name": "In Cinemas Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "-ILR_-aYaEE",
+      "name": "𝙶𝚘𝚝 𝚝𝚑𝚊𝚝 𝚍𝚘𝚐 𝚒𝚗 𝚖𝚎…",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "E3a8igBVRHs",
+      "name": "Curzon Soho visitors had a lot to say about RESIDENT EVIL at our preview screening last week.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "bbvj-GdTtL4",
+      "name": "Cardio",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "uc4Ga4cyi5E",
+      "name": "In Cinemas Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "KIeYc83WdAc",
+      "name": "In Cinemas Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "65S4n60II9E",
+      "name": "Certified Fresh",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "bwSvIOnPjOc",
+      "name": "Filmed for IMAX",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "yvQ4ZMmH_EM",
+      "name": "In Cinemas Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "d8N873GDkIk",
+      "name": "𝚄𝚑𝚑𝚑… 𝚁𝚎𝚜𝚒𝚍𝚎𝚗𝚝 𝙴𝚟𝚒𝚕 𝚒𝚜 𝚘𝚞𝚝 𝚗𝚘𝚠!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "KF4iyLk3rdE",
+      "name": "In Cinemas Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "FefOXVJtwu4",
+      "name": "Exclusive Interview | Filmed For IMAX®",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "gEoj2WwDLbU",
+      "name": "Ammo's low, tension's high, and it's finally in your hands. Resident Evil is OUT NOW!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "oi043MvmRx4",
+      "name": "First Reactions",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Y0l-IiL82TA",
+      "name": "Practical Filmmaking",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "YM09bbyJeEo",
+      "name": "Zach Q&A Initiated",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "wvX8dXcX6F8",
+      "name": "𝙴𝚟𝚒𝚕 𝚒𝚜 𝚊𝚙𝚙𝚛𝚘𝚊𝚌𝚑𝚒𝚗𝚐…",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "19ducPDdRW4",
+      "name": "In Cinemas and IMAX 17 September",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "1hr5VESUUqI",
+      "name": "Everyday Joe",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "XBgIVjbw_p8",
+      "name": "your fear will grow...quite literally",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "4YjJytnoFTM",
+      "name": "Zach Cregger On Why an Original Take On Resident Evil Was Necessary & Fine Tuning The Comedy",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "8RXE5Ot5TQc",
+      "name": "Flow Of Terror",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9Gnh6q5xwwc",
+      "name": "You don't need to ask me twice.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "AMSOw_oxxp0",
+      "name": "𝙸𝚌𝚘𝚗𝚒𝚌 𝚍𝚞𝚘. 𝙵𝚛𝚘𝚖 𝚆𝚎𝚊𝚙𝚘𝚗𝚜 𝚝𝚘 𝚁𝚎𝚜𝚒𝚍𝚎𝚗𝚝 𝙴𝚟𝚒𝚕.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "B6GrRtCRNXg",
+      "name": "Game Inspiration Revised",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "TNfHXutsLPU",
+      "name": "𝙻𝚒𝚐𝚑𝚝𝚜. 𝙲𝚊𝚖𝚎𝚛𝚊. 𝙴𝚟𝚒𝚕.",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "PhUiuA5X4fM",
+      "name": "Better find some ammo.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "pOhRtPbr8mI",
+      "name": "Game POV",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "2znSbIEyfic",
+      "name": "Resident Evil x Reddit. Zach Cregger hosted the first ever live in-person Reddit AMA.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "pzJOWDJ3c2w",
+      "name": "Game Inspiration",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "qdyaRv-vhNM",
+      "name": "Jump Street Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "Q_wggwcvFgM",
+      "name": "In Cinemas SEPT 16",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Mbj1Atbkx8Y",
+      "name": "In Cinemas SEPT 16",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "pFvKvcLzswo",
+      "name": "In Cinemas SEPT 16",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "pAGDR1tf1gQ",
+      "name": "In Cinemas SEPT 16",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "CYWosV-0v4g",
+      "name": "30\" Video 'Experience'",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "v4Wtn0-xbEM",
+      "name": "7\" Teaser",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "lY-QnOqp9k0",
+      "name": "Consider this your warning: Zach Cregger's Resident Evil tickets are on sale now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "X1oG2k1Qlrs",
+      "name": "In Cinemas SEPT 16",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "w-p2M_DFSGI",
+      "name": "In Cinemas SEPT 16",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "w7unNKZctbU",
+      "name": "In Cinemas SEPT 16",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "5BKGqzswYmU",
+      "name": "In Cinemas SEPT 16",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "oIY9R72Duzc",
+      "name": "In Cinemas SEPT 16",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "PKKAp3NwRLw",
+      "name": "In Cinemas SEPT 16",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ZTGn8jBfYDI",
+      "name": "In Cinemas SEPT 16",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "xmqU594sVQA",
+      "name": "In Cinemas SEPT 16",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Ku71OA24jI0",
+      "name": "In Cinemas SEPT 16",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "OTfoL5U0ytY",
+      "name": "𝙸𝚝 𝚑𝚊𝚙𝚙𝚎𝚗𝚎𝚍 𝚒𝚗 𝚊 𝚖𝚊𝚝𝚝𝚎𝚛 𝚘𝚏 𝚑𝚘𝚞𝚛𝚜…",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "4d8Ys4cd41g",
+      "name": "In Cinemas SEPT 16",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "mnpIaC6uFkU",
+      "name": "In Cinemas SEPT 16",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "DtlCAX6SSko",
+      "name": "In Cinemas SEPT 16",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "znsHh0QsK5E",
+      "name": "In Cinemas SEPT 16",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "LWbqQkkq03U",
+      "name": "Changing",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "YCkkrLm1p0Y",
+      "name": "In Cinemas SEPT 16",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "VG-eMQLUTjE",
+      "name": "First Play",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "lb-haH8xTwE",
+      "name": "𝚃𝚑𝚒𝚗𝚐𝚜 𝚊𝚛𝚎 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚠𝚘𝚛𝚜𝚎…",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "3LSjlUrkIjg",
+      "name": "One month until Zach Cregger's Resident Evil crawls into cinemas September 18",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "YxUBmx6wreI",
+      "name": "PlayStation Interview",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "vItypzi5Bcg",
+      "name": "Fans had a blast at the Resident Evil x @discord fan experience with Zach Cregger & Austin Abrams.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "GpDJiI0L36U",
+      "name": "Zach Cregger's making this Resident Evil his own",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "1M1OLk2LJus",
+      "name": "new fear unlocked: a still camera",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "QI-ZJb8Klx8",
+      "name": "love you too Zach Cregger",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "mNd1gb19A-c",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "vjq7I-lNBSU",
+      "name": "In Cinemas and IMAX 17 September",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "jMFzRhEkIvE",
+      "name": "Where’s everyone going? The movies.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "JwRG-vZig2o",
+      "name": "When you become the main character.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "N_KDtokTO1c",
+      "name": "Zach Cregger on Survival Horror",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "SJPu1spHqfk",
+      "name": "Official Teaser Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 1107,
+  "watchProviders": {}
+}

@@ -1,0 +1,154 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Adam / Lee",
+      "id": 1254583,
+      "name": "Jamie Dornan",
+      "profilePath": "/qmTiAm3LII5moykSriVkJCeysKC.jpg"
+    },
+    {
+      "character": "Nicola",
+      "id": 1110405,
+      "name": "Mackenzie Davis",
+      "profilePath": "/ekQbEIKh26jbz17P0wwLbo6uNs9.jpg"
+    },
+    {
+      "character": "",
+      "id": 956764,
+      "name": "Iain De Caestecker",
+      "profilePath": "/1xYV3gY412Sy2f5LE2gi5is0GaV.jpg"
+    },
+    {
+      "character": "",
+      "id": 480,
+      "name": "Gary Lewis",
+      "profilePath": "/cOaibfAluUeWPtcSOjedfGXn9ym.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 131464,
+      "logoPath": "/9Gk6sEs92Eshc1mZm4r2JEebran.png",
+      "name": "Complete Fiction"
+    },
+    {
+      "id": 113378,
+      "logoPath": "/q47cg2kD4UF8rh72nSuyPGhl8E7.png",
+      "name": "wiip"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2027-01-01",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt30495117",
+    "wikidataId": "Q125979164"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 249037,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-01",
+    "episodeNumber": 1,
+    "id": 5211574,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "The Twin",
+  "overview": "Suffocating in a loveless marriage to Adam, Nicola’s life takes a dramatic turn when Adam’s long-estranged identical twin brother Lee comes crashing back into her life, and their tangled romantic past threatens to destroy the present. A split-second decision and a terrible accident drives Nicola to protect her children, and over the course of one week, Lee and Nicola are forced together, struggling to maintain a web of secrets and lies. Though they can’t ignore their feelings for each other, they both know they’re living on borrowed time.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-01"
+    },
+    "CN": {
+      "tv": "2027-01-01"
+    },
+    "GB": {
+      "tv": "2027-01-01"
+    },
+    "US": {
+      "tv": "2027-01-01"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-01",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Twin",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

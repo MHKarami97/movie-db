@@ -1,0 +1,120 @@
+{
+  "backdropPath": "/xyP8J60HDLL9XDIUYZveaaVELSo.jpg",
+  "cast": [
+    {
+      "character": "Tereza",
+      "id": 1344429,
+      "name": "Fernanda Chicolet",
+      "profilePath": "/oTz42xQpaxfGlDbu3PhlsyDrSj8.jpg"
+    },
+    {
+      "character": "Pina",
+      "id": 5480942,
+      "name": "Sophia Fuggacy",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 112110,
+      "name": "Stepan Nercessian",
+      "profilePath": "/d0NfxANbOtT55dQj7xC28YtBoHg.jpg"
+    },
+    {
+      "character": "",
+      "id": 1693267,
+      "name": "Allan Souza Lima",
+      "profilePath": "/m4HTYTh34Vy64QwS27RjHznSAol.jpg"
+    },
+    {
+      "character": "",
+      "id": 4246237,
+      "name": "Chico Barney",
+      "profilePath": "/lyDAsDIzsGoXu4kfrDUD8zyqQ9i.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 130077,
+      "logoPath": "/e3wIhHj6U5wstsnHJSQb1mgtkkM.png",
+      "name": "Vulcana Cinema"
+    },
+    {
+      "id": 93276,
+      "logoPath": "/xRanKsfFLUKuA4L4dLZ3668kBFa.png",
+      "name": "Syndrome Films"
+    },
+    {
+      "id": 62226,
+      "logoPath": "/fhspZSkxRNBbijRRpUCDOvQIj3K.png",
+      "name": "Vitrine Filmes"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt46023404"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1472651,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "Talismã",
+  "overview": "Tereza is a single mother who juggles teaching dance and caring for her daughter, Pina, with help only from her elderly father. Her life is turned upside down when her daughter joins a children's talent show. Pina wants to reach the finals in Rio de Janeiro, hoping to return to her hometown. As they rehearse, the girl reignites dreams from her mother's past.",
+  "posterPath": "/kQVBAFzvQZm2WfXbFQK6DNgGhU6.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 80,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Talented",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,179 @@
+{
+  "backdropPath": "/y1qwFKNJhdlsknjpTI3Eob8yLvd.jpg",
+  "cast": [
+    {
+      "character": "Aubrey Flint",
+      "id": 1010135,
+      "name": "John Bradley",
+      "profilePath": "/lQuxVtH8GkSLSZQhpmSdIi88DSF.jpg"
+    },
+    {
+      "character": "Gloria Lynn",
+      "id": 9139,
+      "name": "Celia Imrie",
+      "profilePath": "/eEtVfESOVnkkdPLYkyQpalEwAwj.jpg"
+    },
+    {
+      "character": "Ellen",
+      "id": 1252533,
+      "name": "Sophia Di Martino",
+      "profilePath": "/qZdFp18btpQJfDoknxr7DgfRpcB.jpg"
+    },
+    {
+      "character": "Kugan",
+      "id": 1786304,
+      "name": "Kiell Smith-Bynoe",
+      "profilePath": "/6pVa2SEgMfR2u7E3xfIUGZSqinh.jpg"
+    },
+    {
+      "character": "Janet",
+      "id": 109651,
+      "name": "Adjoa Andoh",
+      "profilePath": "/4dsLkxU3Vcw1P97JoyGWlbYhV1h.jpg"
+    },
+    {
+      "character": "Colin Barrow",
+      "id": 91300,
+      "name": "Karl Pilkington",
+      "profilePath": "/ApDrO9jg1GKF3lvMlyk0fcNhZnb.jpg"
+    },
+    {
+      "character": "Charles Dickens (voice)",
+      "id": 388,
+      "name": "Jim Broadbent",
+      "profilePath": "/jTyvGwwR1NFpvgDhcmuWZCM241w.jpg"
+    },
+    {
+      "character": "Mr. Hopkins",
+      "id": 20766,
+      "name": "Richard E. Grant",
+      "profilePath": "/92oaBntIXhndCxUXaGywUyILIIE.jpg"
+    },
+    {
+      "character": "Sadie",
+      "id": 153359,
+      "name": "Ann Mitchell",
+      "profilePath": "/hPChFuMvXUI9m8GtCrCubKTA5aJ.jpg"
+    },
+    {
+      "character": "Mr. Formby",
+      "id": 1554383,
+      "name": "Dave Johns",
+      "profilePath": "/cd13oIyBJ7Rx0LbEOnXhFXrbOdD.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 230960,
+      "logoPath": "/lfnWzpUd8zdzZ1DtczoYJCfT18A.png",
+      "name": "Shush Films"
+    },
+    {
+      "id": 18530,
+      "logoPath": "/6SS8KHz1KH594IG5hom9bL3DQI5.png",
+      "name": "BYUtv"
+    },
+    {
+      "id": 315130,
+      "logoPath": null,
+      "name": "CPR Entertainments"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt19499670",
+    "wikidataId": "Q136646298"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1578488,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Merry Christmas Aubrey Flint",
+  "overview": "An amateur production of A Christmas Carol at a retirement home is reluctantly directed by reclusive man on community service.",
+  "posterPath": "/1bwt5V84oUFkzaPvIswwFgWlWZw.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-06"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-11-06"
+    }
+  },
+  "runtime": 98,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "The stage is set to save Christmas.",
+  "theatricalDate": "2026-11-06",
+  "title": "Merry Christmas Aubrey Flint",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "b_hzu0mOMvc",
+      "name": "Only In Cinemas Nov 6",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "7gVGPuCA_gE",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1578488-merry-christmas-aubrey-flint/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    }
+  }
+}

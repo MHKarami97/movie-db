@@ -1,0 +1,334 @@
+{
+  "backdropPath": "/gmNtsz7MJ3IQoCFt8ymGNDfipfm.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 74238,
+      "logoPath": "/9wDgX5ryoIZr4LLxZ261S7DAvBW.png",
+      "name": "KBS"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": "2010-05-15",
+  "episodes": {
+    "16": [],
+    "17": [
+      {
+        "airDate": "2026-11-18",
+        "episodeNumber": 1,
+        "name": "The Scent of Spring Over You",
+        "overview": "A singer-songwriter discovers an animal language translator after losing her pet cat embarks on a journey to uncover her cat's final message.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-19",
+        "episodeNumber": 2,
+        "name": "After The Play Ends",
+        "overview": "A romance drama that evokes childhood innocence, about a PD from a documentary background who is semi-forced into taking charge of a children's program and recalls the precious values ​​of life that had been forgotten under the weight of time.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-26",
+        "episodeNumber": 3,
+        "name": "When My Loneliness Calls You",
+        "overview": "A woman develops a one-sided crush on a man and cautiously approaches him after noticing his hidden loneliness.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-02",
+        "episodeNumber": 4,
+        "name": "Bye, Summer",
+        "overview": "A young person leaves behind faded friendships and embraces a new season alone.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-03",
+        "episodeNumber": 5,
+        "name": "Recollection",
+        "overview": "A woman is forced to sacrifice lives on an operating table to avenge her deceased brother.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-09",
+        "episodeNumber": 6,
+        "name": "Chronicle",
+        "overview": "Scholars and commoners risk their lives to protect the Joseon Dynasty's historical records during the 1592 Imjin War.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-10",
+        "episodeNumber": 7,
+        "name": "Lie Lie Lie",
+        "overview": "A woman tracks a fraudster who scammed her deposit, only to unexpectedly reunite with an old student, leading to an unforeseen chain of events.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-16",
+        "episodeNumber": 8,
+        "name": "Autumn Morning",
+        "overview": "A detective, the sole survivor of her sister’s death, investigates a recurring serial murder 13 years later.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt9014894",
+    "wikidataId": "Q12581318"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 83893,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2024-12-10",
+    "episodeNumber": 5,
+    "id": 5825424,
+    "name": "To My Lonely Sister",
+    "overview": "Unfolds as Ha Neul, a high school girl with a reclusive, lonely older sister, begins a plan to help her sister escape from her room. With the theme of love and recovery between families, it depicts the process in which the Ha Neul overcomes her family's pain together.",
+    "seasonNumber": 15
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-18",
+    "episodeNumber": 1,
+    "id": 7968757,
+    "name": "The Scent of Spring Over You",
+    "overview": "A singer-songwriter discovers an animal language translator after losing her pet cat embarks on a journey to uncover her cat's final message.",
+    "seasonNumber": 17
+  },
+  "originalTitle": "KBS 드라마 스페셜",
+  "overview": "Forget the existing one-act dramas! Short but impactive! KBS Drama Special presents high quality single episode dramas. Dramas are the broadcast content with the widest public appeal. KBS Drama Special will produce short dramas of far-reaching impact involving at times a serious social message, unique emotions or perspectives. It will stay abreast of modern viewership.",
+  "posterPath": "/9nRwFvAs5toFtkLEzffqu39Fw7m.jpg",
+  "rating": 7.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2010-05-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2010-05-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2010-05-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2010-05-15",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2010-05-15"
+    },
+    "CN": {
+      "tv": "2010-05-15"
+    },
+    "GB": {
+      "tv": "2010-05-15"
+    },
+    "US": {
+      "tv": "2010-05-15"
+    }
+  },
+  "runtime": 70,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2010-05-15",
+      "episodeCount": 24,
+      "name": "2010",
+      "overview": "",
+      "posterPath": "/trrwZGX95SG1tHsIah7QF80IZ7g.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2011-06-05",
+      "episodeCount": 23,
+      "name": "2011",
+      "overview": "",
+      "posterPath": "/srYlIcKfbjbNadakcNPYOfTH8tK.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2012-06-03",
+      "episodeCount": 24,
+      "name": "2012",
+      "overview": "",
+      "posterPath": "/xxUmz7Mj8N2E28cLga9lVtAjQJ3.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2013-06-12",
+      "episodeCount": 18,
+      "name": "2013",
+      "overview": "",
+      "posterPath": "/TD9Cg3QEGALIi62pX6Oo6KmDGA.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2014-01-26",
+      "episodeCount": 31,
+      "name": "2014",
+      "overview": "",
+      "posterPath": "/moH8OTYfugEHoQsRGlRil9FyEv6.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2015-03-13",
+      "episodeCount": 15,
+      "name": "2015",
+      "overview": "",
+      "posterPath": "/ynJD5euCmoAdnPPCXpseBokb8KP.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2016-09-24",
+      "episodeCount": 10,
+      "name": "2016",
+      "overview": "",
+      "posterPath": "/3c5LN4QtmJR7oWrO4CmxfPJJhPu.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2017-09-03",
+      "episodeCount": 10,
+      "name": "2017",
+      "overview": "",
+      "posterPath": "/fw5KMl9bNH74anmz5BDKfAnaZFR.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2018-09-14",
+      "episodeCount": 10,
+      "name": "2018",
+      "overview": "",
+      "posterPath": "/7t4rkWiOHSIecGFFczpuwVgNFkw.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2019-09-27",
+      "episodeCount": 10,
+      "name": "2019",
+      "overview": "",
+      "posterPath": "/tNykqStUakE8K8NpaFEr9praCdO.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2020-11-07",
+      "episodeCount": 10,
+      "name": "2020",
+      "overview": "",
+      "posterPath": "/v0P282gf0CoddPhnjaI8Xip4lAB.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2021-10-08",
+      "episodeCount": 10,
+      "name": "2021",
+      "overview": "",
+      "posterPath": "/yhFMXbk32k0nGpYWDUFvCpEGR1G.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2022-11-16",
+      "episodeCount": 10,
+      "name": "2022",
+      "overview": "The KBS Drama Special is back as always in 2022. From a suspenseful psychological thriller about desire starring young actors to a fantasy story where villains are punished with a superpower to a heart-warming coming-of-age drama about ballet to a story about a 19-year-old being lost and in love for the first time to the romance among COVID-19 patients in the isolated ward to a story about a man who is serious about panties and life to a frolicsome, touching romantic comedy and to the last episode set in a military base, this year's drama special is coming back with eight one-act dramas full of vibrant charms, commemorating the 38th anniversary",
+      "posterPath": "/mjvZFMB3udrP6vsof19FNmPMWcK.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2023-10-14",
+      "episodeCount": 10,
+      "name": "2023",
+      "overview": "The KBS Drama Special, a collection of episodes that are fully packed with well-constructed content, has made its comeback in 2023 as KBS airs the series annually. The stories to be told will include one about a typical working professional who makes a decision to better his life that ends up being the wrong decision, a coming-of-age story of people trying to protect a kid who lies to hide the family history, a story of a female amateur futsal team's passion as they become one through the sport, a story about the victim, perpetrator, and bystander of bullying at a school, a hectic, wisecracking rom-com about a Joseon scholar who witnesses a secret rendezvous of his wife and his servant, and a rom-com set in a university where a student tries to mess with the smartest student in class to be at the top. The 2023 KBS Drama Special offers a plethora of stories accompanied by extreme thrills, fresh takes, and heartwarming sensations. Expect to find an episode that hits the sweet spot!",
+      "posterPath": "/6YsHJv2szdRo6X2gUBiUTa6k8d8.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2024-11-05",
+      "episodeCount": 5,
+      "name": "2024",
+      "overview": "In a new phase of KBS's one-act drama project, fresh actors, directors, and writers come together to provide entertainment and inspiration. Every story has something unique to offer! A young historian is determined to preserve the past, while the prince seeks to erase it and take the throne, leading to a collision of values. Cutie, the obscure member of an idol group that disbanded 13 years ago, begins his journey of hunting for Handsome, another member who's been elusive. In the tumultuous year before the Korean War, two women, Young Bok from Korea and Sachiko from Japan, fight for the love of the same husband. This is the dramatic story of two ladies who can never be friends. A seasoned member of a street-view shooting team encounters a directionally challenged woman who claims that a figure caught in the street-view is her father. Ha Neul, a high school girl, devises a clever plan to coax her reclusive sister out of her room! Immerse yourself in a collection of touching stories.",
+      "posterPath": "/mgpHKcy5R3MoOuBBDrUCPhhbYCj.jpg",
+      "seasonNumber": 15
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "2025: Love: Track",
+      "overview": "A romance anthology containing 10 different love stories. It explores romance, breakups, unrequited love, familial love, and even the love of older adults, singles, and minorities, all in a flexible format unique to short films, broadening the emotional spectrum of love.",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2026-11-18",
+      "episodeCount": 8,
+      "name": "2026: Sound: Track",
+      "overview": "KBS Drama Special 2026 ‘Sound: Track’ has finalized a lineup of eight single-episode dramas, continuing the 42-year legacy of KBS’s single-episode productions. The eight episodes span genres from melodrama to mystery, fantasy, and youth stories. Each 60-minute standalone episode promises a concise yet intense narrative. While each story is independent, the common thread of music is expected to evoke viewers’ emotions.",
+      "posterPath": "/659S6I4aaEMLfZhEmbdfxrpEO1C.jpg",
+      "seasonNumber": 17
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "KBS Drama Special",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "-wCBrOILa4M",
+      "name": "So Close, Yet So Far | 닿을 듯 말 듯 (Final Episode) [2018 KBS Drama Special/ENG/2018.12.21]",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "AE": {
+      "ads": [
+        {
+          "id": 232,
+          "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+          "name": "Zee5"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/83893-kbs/watch?locale=AE",
+      "rent": []
+    }
+  }
+}

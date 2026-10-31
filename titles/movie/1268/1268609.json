@@ -1,0 +1,222 @@
+{
+  "backdropPath": "/atWzbjlDkfbkh4mdY3uuiF9vr3r.jpg",
+  "cast": [
+    {
+      "character": "Mi-jung",
+      "id": 21689,
+      "name": "Ko Asung",
+      "profilePath": "/hzGxaqQ2LsBObBSijV9SYCEyhFv.jpg"
+    },
+    {
+      "character": "Kyung-rok",
+      "id": 3132668,
+      "name": "Moon Sang-min",
+      "profilePath": "/5w1vbIgYiKa01RF7OZ4Hot81blO.jpg"
+    },
+    {
+      "character": "Yo-han",
+      "id": 1337780,
+      "name": "Byun Yo-han",
+      "profilePath": "/5kOBQYbgBTAf8nVzgx0ecCsJ1pW.jpg"
+    },
+    {
+      "character": "Se-ra",
+      "id": 3314352,
+      "name": "Lee E-dam",
+      "profilePath": "/raND8efeLH0TmIgs6ZSzgp42the.jpg"
+    },
+    {
+      "character": "Hyeon-ji",
+      "id": 4399413,
+      "name": "Han Yu-eun",
+      "profilePath": "/4E6f6nt9MY2LhMMFsKpIabEiekA.jpg"
+    },
+    {
+      "character": "Suk-hui",
+      "id": 3595104,
+      "name": "Seo Yi-ra",
+      "profilePath": "/q4Gyp3XM6solBF35nSTKPHHDQb1.jpg"
+    },
+    {
+      "character": "Kentucky Hope",
+      "id": 578838,
+      "name": "Shin Jung-keun",
+      "profilePath": "/2zuxoRgBPNCQXDGb3wOnGaJCI4y.jpg"
+    },
+    {
+      "character": "Kyung-rok's Father",
+      "id": 1292971,
+      "name": "Park Hae-joon",
+      "profilePath": "/heNKjLHWCQXXfkDB1Hb2nhuhDCf.jpg"
+    },
+    {
+      "character": "Kyung-rok's Mother",
+      "id": 2133921,
+      "name": "Lee Bong-ryeon",
+      "profilePath": "/AkpzrUGpT0JvRY9Zk6qceKm937l.jpg"
+    },
+    {
+      "character": "Pretentious Guy",
+      "id": 3496494,
+      "name": "Lee Sang-jin",
+      "profilePath": "/sTTXFUzQ4DoHDXCooeehpM24PiQ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 91505,
+      "logoPath": "/c6ggS6OO4tyEcgBQ7sHs67LDfES.png",
+      "name": "Plus M Entertainment"
+    },
+    {
+      "id": 92012,
+      "logoPath": "/lGELj7l0lQpnbC4uYm3nX4jS4d1.png",
+      "name": "The LAMP"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": "2026-02-20",
+  "externalIds": {
+    "imdbId": "tt39387657",
+    "wikidataId": "Q126957220"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1268609,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "originalTitle": "파반느",
+  "overview": "Three lonely strangers meet at their department store jobs and find solace in each other's company while they explore connection and the nature of love.",
+  "posterPath": "/wOXc8stx1CLvM6GC0ABKfWOkbYw.jpg",
+  "rating": 7.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-02-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-02-20",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-20",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-02-20"
+    },
+    "GB": {
+      "digital": "2026-02-20"
+    },
+    "US": {
+      "digital": "2026-02-20"
+    }
+  },
+  "runtime": 113,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "For all who are in love. And who are meant to love.",
+  "theatricalDate": null,
+  "title": "Pavane",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "iKM0WEtHoEU",
+      "name": "Official Trailer [ENG SUB]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "xCVopkL31EE",
+      "name": "Official Teaser [ENG SUB]",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 71,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1268609/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1268609/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1268609/watch?locale=US",
+      "rent": []
+    }
+  }
+}

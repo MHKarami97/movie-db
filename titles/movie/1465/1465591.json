@@ -1,0 +1,230 @@
+{
+  "backdropPath": "/lz2LQtEw8aFKR24sw9xPZn5czkX.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 80117,
+      "name": "Billy Idol",
+      "profilePath": "/fWJxzjzCk3V02k0cFs1KhH8F5vq.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 76594,
+      "name": "Miley Cyrus",
+      "profilePath": "/7slnMlDLR1O65U3Hr8gcOmxDlZz.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6100228,
+      "name": "Brendan Bourke",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 95866,
+      "name": "Billie Joe Armstrong",
+      "profilePath": "/upYUoLOi7xypknbNQmYVbLCekM4.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 92707,
+      "name": "Duff McKagan",
+      "profilePath": "/6Nbg5MScYZnZMyQsRBSk8mo1RSe.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6100230,
+      "name": "Joan Broad",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6100231,
+      "name": "Jane Broad",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 38667,
+      "name": "Steve Jones",
+      "profilePath": "/p82A0EEApjvRsr9KgqGThEoMehs.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 79628,
+      "name": "Paul Cook",
+      "profilePath": "/k1z00YC9PdhGgLM1uj7LjT1fBni.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2822248,
+      "name": "Tony James",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 210399,
+      "logoPath": "/eIpOCle8489hI2dUrElaCUlQVr3.png",
+      "name": "Serial Pictures"
+    },
+    {
+      "id": 4183,
+      "logoPath": "/bPOaJehJ43bEq1sip5jE1G53IEE.png",
+      "name": "Diamond Docs"
+    },
+    {
+      "id": 81368,
+      "logoPath": "/hadEBzUTj8ZzmaC1yh8MrXKXqR5.png",
+      "name": "Live Nation Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-03-26",
+  "externalIds": {
+    "imdbId": "tt21870816",
+    "wikidataId": "Q139918527"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1465591,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Billy Idol Should Be Dead",
+  "overview": "Punk legend turned pop sensation Billy Idol bares it all in this electrifying documentary, revealing his rise to fame, battle with addiction and triumphant comeback that captivated millions of fans worldwide.",
+  "posterPath": "/oWFfPpVkNhhUSvfH69uR1iPyPAk.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-26",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-03-26",
+      "premiere": "2025-06-10"
+    }
+  },
+  "runtime": 118,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Billy Idol Should Be Dead",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "eByNViJ8388",
+      "name": "Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 15,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1465591-billy-idol-should-be-dead/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

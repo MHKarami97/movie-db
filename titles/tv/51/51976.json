@@ -1,0 +1,378 @@
+{
+  "backdropPath": "/9EnK6KdA9MLYZyMsTqxh8GLffYc.jpg",
+  "cast": [
+    {
+      "character": "Maria Wern",
+      "id": 126936,
+      "name": "Eva Röse",
+      "profilePath": "/qAmGsTn8lEqCEsd56thJt9vNwDA.jpg"
+    },
+    {
+      "character": "Emil Wern",
+      "id": 565870,
+      "name": "Oscar Pettersson",
+      "profilePath": null
+    },
+    {
+      "character": "Arvidsson",
+      "id": 544031,
+      "name": "Peter Perski",
+      "profilePath": "/4Ix7GSVsUlyVodishpLmlVjEdSk.jpg"
+    },
+    {
+      "character": "Sebastian",
+      "id": 592422,
+      "name": "Erik Johansson",
+      "profilePath": "/ztbOB6sNAgd1veRLoGS1WaTW5Ei.jpg"
+    },
+    {
+      "character": "Linda Wern",
+      "id": 572559,
+      "name": "Matilda Wännström",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 6782,
+      "logoPath": null,
+      "name": "Moviola Film och Television AB"
+    },
+    {
+      "id": 94521,
+      "logoPath": "/Jrad5e1fAD3JnY0JU0APsrj189.png",
+      "name": "Warner Bros. International Television Production Sweden"
+    },
+    {
+      "id": 87872,
+      "logoPath": null,
+      "name": "Eyeworks Sweden"
+    }
+  ],
+  "countries": [
+    {
+      "code": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "digitalDate": "2008-09-16",
+  "episodes": {
+    "9": [
+      {
+        "airDate": "2026-09-04",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": "/dMACQoVudtubhvk39t6iitQ4bk5.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-09-25",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": "/yMwv9DD9hq1cMsGzoQTWwveNaUf.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-16",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": "/2FSFpU4N9vcpEldFBseXllBnLpf.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-06",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-13",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-20",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-27",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-04",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt1129398",
+    "wikidataId": "Q30091647"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 51976,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "sv",
+      "name": "Swedish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-16",
+    "episodeNumber": 3,
+    "id": 7768153,
+    "name": "Episode 3",
+    "overview": "",
+    "seasonNumber": 9
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-06",
+    "episodeNumber": 4,
+    "id": 7768154,
+    "name": "Episode 4",
+    "overview": "",
+    "seasonNumber": 9
+  },
+  "originalTitle": "Maria Wern",
+  "overview": "Crime Inspector Maria Wern returns to duty at the Police Department on the island of Gotland, and is immediately thrown into a murder investigation.",
+  "posterPath": "/8YkMuUWez1lt6GPEe9BmtECb4Cy.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2008-09-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2008-09-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2008-09-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2008-09-16",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2008-09-16"
+    },
+    "CN": {
+      "tv": "2008-09-16"
+    },
+    "GB": {
+      "tv": "2008-09-16"
+    },
+    "US": {
+      "tv": "2008-09-16"
+    }
+  },
+  "runtime": 40,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2008-09-16",
+      "episodeCount": 4,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/dHdsXZQ7VU7kVvX23zLcruhI2gh.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2010-11-24",
+      "episodeCount": 4,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/5vgYWA3fMfRcjvVGqcTAZ6ATRFt.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2011-06-22",
+      "episodeCount": 10,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/su0U0l07UEEuuIoYN6YvxJ7J650.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2014-05-20",
+      "episodeCount": 4,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/bZUL7teR3fChmIRnQg27vNcIMlV.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2016-03-16",
+      "episodeCount": 8,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/neJ5KqtiP5fRp4DbDuQ21t9HwCq.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2018-08-22",
+      "episodeCount": 8,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/25etBEvpZv7L0128z1kB16u4G9I.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2021-04-19",
+      "episodeCount": 8,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/4cHufEOHl24UhA25vBdkj9XVQ16.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2023-08-29",
+      "episodeCount": 8,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/6dSWlDwfTALrSBhRcVUH0siok9G.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2026-09-04",
+      "episodeCount": 8,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/8YkMuUWez1lt6GPEe9BmtECb4Cy.jpg",
+      "seasonNumber": 9
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Maria Wern",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "NJppFeiQr6g",
+      "name": "Maria Wern | Official Trailer | Viaplay",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "6-VB2I1ZnbM",
+      "name": "Maria Wern trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 16,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 2621,
+          "logoPath": "/gq031DkuykfuuHVoLPx9BFNyfPU.png",
+          "name": "KQED"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 209,
+          "logoPath": "/kwKCUFjKjq1GlZeIjImBV62IypB.png",
+          "name": "PBS"
+        },
+        {
+          "id": 294,
+          "logoPath": "/aZASQOdPFvGnXiJ015OVGVJ9vt7.png",
+          "name": "PBS Masterpiece Amazon Channel"
+        },
+        {
+          "id": 291,
+          "logoPath": "/6kINh90KLGRqWa9HS2oj4JI1ipO.png",
+          "name": "MZ Choice Amazon Channel"
+        },
+        {
+          "id": 427,
+          "logoPath": "/lLCtT8BA42vuYn23UxuPPQDrLap.png",
+          "name": "Mhz Choice"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        },
+        {
+          "id": 2296,
+          "logoPath": "/eP8ouMk5uIDebPWNto76rNstMqE.png",
+          "name": "Viaplay Amazon Channel"
+        },
+        {
+          "id": 2622,
+          "logoPath": "/dQKjAyrGlA3HPbDs4hp8RyaXUiK.png",
+          "name": "Thirteen"
+        },
+        {
+          "id": 2657,
+          "logoPath": "/fwzxYZXp5T57T2WaazFhzArAmYd.png",
+          "name": "WETA+"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/51976-maria-wern/watch?locale=US",
+      "rent": []
+    }
+  }
+}

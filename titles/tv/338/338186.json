@@ -1,0 +1,229 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Thomas (voice)",
+      "id": 6542625,
+      "name": "Good Guy",
+      "profilePath": null
+    },
+    {
+      "character": "Edward (voice)",
+      "id": 6542626,
+      "name": "Trickster",
+      "profilePath": null
+    },
+    {
+      "character": "Henry (voice)",
+      "id": 6449480,
+      "name": "Drama-rama",
+      "profilePath": null
+    },
+    {
+      "character": "Gordon (voice)",
+      "id": 6542783,
+      "name": "Thedroopersplits",
+      "profilePath": null
+    },
+    {
+      "character": "James (voice)",
+      "id": 6449475,
+      "name": "Fussy Male",
+      "profilePath": null
+    },
+    {
+      "character": "Narrator (voice)",
+      "id": 6449476,
+      "name": "Santa2025",
+      "profilePath": null
+    },
+    {
+      "character": "Percy (voice)",
+      "id": 6542785,
+      "name": "ElfTheGoof",
+      "profilePath": null
+    },
+    {
+      "character": "Rebecca / Pug / Emily (voices)",
+      "id": 6449478,
+      "name": "JessieAshley14",
+      "profilePath": null
+    },
+    {
+      "character": "Oliver (voice)",
+      "id": 6542820,
+      "name": "Elfy2026",
+      "profilePath": null
+    },
+    {
+      "character": "Toby (voice)",
+      "id": 6542821,
+      "name": "Deep Voice",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 146543,
+      "logoPath": "/vhjGJU4LZdnf63PtvKBw8Y0EjQ2.png",
+      "name": "TikTok"
+    },
+    {
+      "id": 114247,
+      "logoPath": "/bwcRttyGrH1lxP36JbmXxSe48J3.png",
+      "name": "YouTube"
+    },
+    {
+      "id": 215124,
+      "logoPath": "/qw6zTDTLqRjLIBQUU2uXnTpUUtb.png",
+      "name": "Vimeo"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-03-02",
+  "episodes": {
+    "2": [
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 1,
+        "name": "Thomas Tells a Lie",
+        "overview": "When Thomas lies to the Controller about finishing the job he starts to not confess as Percy gets into an accident.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt37675024",
+    "instagramId": "engi.nesofsodor"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 338186,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-09-07",
+    "episodeNumber": 24,
+    "id": 7976180,
+    "name": "Not So Special Train",
+    "overview": "Thomas is given a letter with Sir Topham Hatt to go to London and visit the queen.",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-01",
+    "episodeNumber": 1,
+    "id": 7976227,
+    "name": "Thomas Tells a Lie",
+    "overview": "When Thomas lies to the Controller about finishing the job he starts to not confess as Percy gets into an accident.",
+    "seasonNumber": 2
+  },
+  "originalTitle": "The Engines of Sodor",
+  "overview": "Welcome to the Island of Sodor. A world that is a railway with trains, cars, buses and much more. Join Thomas and his friends for exciting adventures, unexpected surprises and many characters you'll be seeing long after the journey ends.",
+  "posterPath": "/zweVNqGFYCYyweo5gfdIpc1Etjj.jpg",
+  "rating": 7.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-03-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2025-03-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-03-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-03-02",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2025-03-02"
+    },
+    "CN": {
+      "tv": "2025-03-02"
+    },
+    "GB": {
+      "tv": "2025-03-02"
+    },
+    "US": {
+      "tv": "2025-03-02"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-10-25",
+      "episodeCount": 1,
+      "name": "Specials",
+      "overview": "The first special for The Engines of Sodor is confirmed to be coming soon.",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2025-02-28",
+      "episodeCount": 24,
+      "name": "Season 1",
+      "overview": "Season 1 of The Engines of Sodor premiered on March 2, 2025.",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2027-01-01",
+      "episodeCount": 1,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Engines of Sodor",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "UV609peZZPY",
+      "name": "The Engines of Sodor New Intro",
+      "official": false,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 2,
+  "watchProviders": {}
+}

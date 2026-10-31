@@ -1,0 +1,264 @@
+{
+  "backdropPath": "/apjPFTi3QEHdSND5psGVte3ly4o.jpg",
+  "cast": [
+    {
+      "character": "Philippe Conticini",
+      "id": 1907511,
+      "name": "Philippe Conticini",
+      "profilePath": "/a7AzK8iDcvMaqC8RnQZwtzgBBKW.jpg"
+    },
+    {
+      "character": "Pierre Hermé",
+      "id": 1907513,
+      "name": "Pierre Hermé",
+      "profilePath": "/exmkZSMzLudFsknSMfcCHedsCh6.jpg"
+    },
+    {
+      "character": "Frédéric Bau",
+      "id": 1907516,
+      "name": "Frédéric Bau",
+      "profilePath": "/pnyHrtubmWRUc2hJwUDlQHqsnoe.jpg"
+    },
+    {
+      "character": "Cyril Lignac",
+      "id": 1893405,
+      "name": "Cyril Lignac",
+      "profilePath": "/nSMsvjwpFFK9iYJQdC4dVEKlR4k.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 11261,
+      "logoPath": "/g7p4vSwqsIo6zYptyN3hoDxFp7y.png",
+      "name": "M6"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": "2012-11-27",
+  "episodes": {
+    "15": [
+      {
+        "airDate": "2026-11-26",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt3020702",
+    "wikidataId": "Q22248875"
+  },
+  "fetchedAt": 1794337910228,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 74544,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-12-11",
+    "episodeNumber": 14,
+    "id": 6701925,
+    "name": "La Grande Finale (Part 01&02)",
+    "overview": "It's time for the grand finale for the last three pastry candidates still in the running, and also the final evening of the competition for Mercotte, who is hanging up her Great French Bake Off apron for good! An exceptional evening marked by creativity, technical challenges and a strong dose of emotion. At the end of this final challenge, only one contestant will lift the legendary Meilleur Pâtissier trophy. Classic revisited challenge: the most divine Saint-Honoré! Technical challenge: the princely charlotte, a royal tribute! Creative challenge: the grand sweet ball!",
+    "seasonNumber": 14
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-26",
+    "episodeNumber": 1,
+    "id": 8088073,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 15
+  },
+  "originalTitle": "Le Meilleur Pâtissier",
+  "overview": "",
+  "posterPath": "/7OGBZwKbNwunkK0siRmMP0o30Qh.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2012-11-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2012-11-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2012-11-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2012-11-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2012-11-27"
+    },
+    "CN": {
+      "tv": "2012-11-27"
+    },
+    "GB": {
+      "tv": "2012-11-27"
+    },
+    "US": {
+      "tv": "2012-11-27"
+    }
+  },
+  "runtime": 120,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2012-11-27",
+      "episodeCount": 4,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/5E3JhmrBkMXKV8x45x8phUD7rDt.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2013-10-28",
+      "episodeCount": 8,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/gt1wq3L43y3NvfN08k22nIgxTTZ.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2014-10-08",
+      "episodeCount": 8,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/rh8L0vpteyScPSOtBKA5Pz09A5E.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2015-10-14",
+      "episodeCount": 8,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/sr7sIdiFgx13xFNlTTS2NxeY7ZK.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2016-10-12",
+      "episodeCount": 9,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/mIdheTR5TOBDP0B1vLnyfsiLajh.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2017-10-17",
+      "episodeCount": 9,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/65w2CXzvp4QvSIAWohc1jB5MK38.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2018-09-12",
+      "episodeCount": 10,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/yDFNn7ria1ERXwPjCh0fDhuoe2J.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2019-09-11",
+      "episodeCount": 12,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/2hpZ8sVF4WwXIl7DPDHzj0fVMDu.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2020-09-30",
+      "episodeCount": 13,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/clSuDIWRshfeQxYz6WtttVYlbq6.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2021-10-07",
+      "episodeCount": 13,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/seq8GNNijFKUaDvGAou8oXKdSwK.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2022-09-07",
+      "episodeCount": 14,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": "/wtIuohojhdHYn1yZ6bIBtsQW3Qx.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2023-09-06",
+      "episodeCount": 14,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": "/zg5HOffloGvGp3rEe4lePw7e15k.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2024-10-10",
+      "episodeCount": 14,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": "/kXDVlqkRvicsZ2RDNiVfxW8HEOU.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2025-09-10",
+      "episodeCount": 14,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2026-11-26",
+      "episodeCount": 2,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Le Meilleur Pâtissier",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 3,
+  "watchProviders": {}
+}

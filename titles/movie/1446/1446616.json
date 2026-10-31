@@ -1,0 +1,201 @@
+{
+  "backdropPath": "/zIOBTZAqGwdKnOb5c6SvzxP7x86.jpg",
+  "cast": [
+    {
+      "character": "Maruti 'Aala Flowpara' Kadam",
+      "id": 1605786,
+      "name": "Adarsh Gourav",
+      "profilePath": "/uVFCZpGPrtmBEZ64rPXwyRnusqV.jpg"
+    },
+    {
+      "character": "Avani 'Ms Vanity' Shah",
+      "id": 3450541,
+      "name": "Shanaya Kapoor",
+      "profilePath": "/xmjhU64kkNY8snbaad7L3Wx6OT1.jpg"
+    },
+    {
+      "character": "Mrs. Kadam",
+      "id": 1247026,
+      "name": "Kshitee Jog",
+      "profilePath": "/iUnbW9eujjZXmn9Rd68lylIwjJl.jpg"
+    },
+    {
+      "character": "Lyra",
+      "id": 1613556,
+      "name": "Parul Gulati",
+      "profilePath": "/dfGqZ3SHwosbfILPEs6RiSi4SSf.jpg"
+    },
+    {
+      "character": "Purushottam 'Fabric' Damdere",
+      "id": 5957074,
+      "name": "Ansh Chopra",
+      "profilePath": null
+    },
+    {
+      "character": "Tara Shah",
+      "id": 1592408,
+      "name": "Amrutha Srinivasan",
+      "profilePath": "/8EZS7YqMnav3FerG5gC1On85SHY.jpg"
+    },
+    {
+      "character": "Vikram",
+      "id": 1471176,
+      "name": "Rajat Kaul",
+      "profilePath": null
+    },
+    {
+      "character": "Guest in Konkan Bay",
+      "id": 1053894,
+      "name": "Parvathy Thiruvothu",
+      "profilePath": "/8PD546DV51Rwc2YkBsQw8iUCWTk.jpg"
+    },
+    {
+      "character": "Pintya",
+      "id": 4419415,
+      "name": "Ashok Kangude",
+      "profilePath": null
+    },
+    {
+      "character": "Sonali Kadam",
+      "id": 6008863,
+      "name": "Rajsi Kinjalaskar",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 93991,
+      "logoPath": "/qFcZA3BpKxAsy8QBGlDVc9X1dDy.png",
+      "name": "Colour Yellow Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2026-04-10",
+  "externalIds": {
+    "imdbId": "tt36118360",
+    "wikidataId": "Q138018477"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1446616,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "hi",
+      "name": "Hindi"
+    }
+  ],
+  "originalTitle": "तू या मैं",
+  "overview": "A wannabe rapper from the outskirts of Mumbai and an affluent influencer elope to a coastal town, only to find themselves trapped in the pool of a derelict resort fighting for survival against the wrath of a ferocious crocodile.",
+  "posterPath": "/nUPnA0I1MTaZRVCsUQc5DS5JA8W.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-02-13"
+    },
+    "US": {
+      "digitalDate": "2026-04-10",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-02-13"
+    },
+    "US": {
+      "digital": "2026-04-10"
+    }
+  },
+  "runtime": 145,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Like. Share. Survive.",
+  "theatricalDate": null,
+  "title": "Tu Yaa Main",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 66,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1446616/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1446616/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1446616/watch?locale=US",
+      "rent": []
+    }
+  }
+}

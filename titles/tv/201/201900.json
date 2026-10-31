@@ -1,0 +1,122 @@
+{
+  "backdropPath": "/aI7FDsSnhUtD8Qnzak1L86QjQhB.jpg",
+  "cast": [
+    {
+      "character": "主持人",
+      "id": 1825872,
+      "name": "Dee Hsu",
+      "profilePath": "/z0BtvLRNbcAtdRQR2a3KB4UPPBS.jpg"
+    },
+    {
+      "character": "",
+      "id": 6272370,
+      "name": "Patrick Liu",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2022-02-14",
+  "externalIds": {
+    "facebookId": "ebcdeegirlstalk",
+    "instagramId": "ebcdeegirlstalk"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 201900,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-20",
+    "episodeNumber": 1051,
+    "id": 8022175,
+    "name": "Episode 1051",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "小姐不熙娣",
+  "overview": "",
+  "posterPath": "/hEi1zZmS0Bgm8j2X7j8Rvv2yfHJ.jpg",
+  "rating": 7.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2022-02-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2022-02-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2022-02-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2022-02-14",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2022-02-14"
+    },
+    "CN": {
+      "tv": "2022-02-14"
+    },
+    "GB": {
+      "tv": "2022-02-14"
+    },
+    "US": {
+      "tv": "2022-02-14"
+    }
+  },
+  "runtime": 46,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2023-01-21",
+      "episodeCount": 7,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/oVqZlG1RNpei6XHBkURBIzozRoY.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2022-02-14",
+      "episodeCount": 1051,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/mHQnv28oFj9AHm1mQoxODpSAYpB.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Dee Girls Talk",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 3,
+  "watchProviders": {}
+}

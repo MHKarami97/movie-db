@@ -1,0 +1,212 @@
+{
+  "backdropPath": "/7jiOCYtxAzaac6OXruH59QcoEjM.jpg",
+  "cast": [
+    {
+      "character": "Crisóstomo",
+      "id": 17289,
+      "name": "Rodrigo Santoro",
+      "profilePath": "/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg"
+    },
+    {
+      "character": "Isaura",
+      "id": 5001096,
+      "name": "Rebeca Jamir",
+      "profilePath": "/eCHnXcOyNWZJekjOjb0CGrcfGGV.jpg"
+    },
+    {
+      "character": "Camilo",
+      "id": 5001094,
+      "name": "Miguel Martines",
+      "profilePath": "/sgwWT8UiIr5Orl1CU9VPMAqzobD.jpg"
+    },
+    {
+      "character": "Antonino",
+      "id": 1469693,
+      "name": "Johnny Massaro",
+      "profilePath": "/gPwKUHWiUpQAyITlCQZ0aCngiHJ.jpg"
+    },
+    {
+      "character": "Alfredo",
+      "id": 1086172,
+      "name": "Marcello Escorel",
+      "profilePath": "/1SXEmTjPhxRpljv4vNjMmNe7HSg.jpg"
+    },
+    {
+      "character": "Isaura (Jovem)",
+      "id": 3313950,
+      "name": "Lívia Silva",
+      "profilePath": "/4RVM81EVloIUkOdoZU6Fxx2wf02.jpg"
+    },
+    {
+      "character": "Antonino (Jovem)",
+      "id": 1541936,
+      "name": "Antonio Haddad",
+      "profilePath": "/4wWVkfAiMpnBw6MYyA2WA2yrCjX.jpg"
+    },
+    {
+      "character": "Francisca",
+      "id": 1909987,
+      "name": "Juliana Caldas",
+      "profilePath": "/tLdVRguiRUrk1y8keGrlq1QLC0Y.jpg"
+    },
+    {
+      "character": "Matilde",
+      "id": 150683,
+      "name": "Inez Viana",
+      "profilePath": "/qF1AWVqCOz1Dg6RzbP4niQwYt39.jpg"
+    },
+    {
+      "character": "Doutora Carminda",
+      "id": 1299042,
+      "name": "Tuna Dwek",
+      "profilePath": "/f7luVhKzzuqeK0NAt4NhcAbOpm6.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 85607,
+      "logoPath": "/hZxlXNBQr4NInBImTQyTw5FyYQJ.png",
+      "name": "Biônica Filmes"
+    },
+    {
+      "id": 81072,
+      "logoPath": "/965z9BeD2ChX1NDD1gNhc3drU4V.png",
+      "name": "Barry Company"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "digitalDate": "2025-11-19",
+  "externalIds": {
+    "imdbId": "tt33402908",
+    "wikidataId": "Q136650449"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1299209,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "O Filho de Mil Homens",
+  "overview": "In a small village, a lonely fisherman yearning for a son is drawn to an ethereal light that links him to others and their long-buried secrets.",
+  "posterPath": "/vIFdUrfIuOnW6YRGK1BqPAYOaTY.jpg",
+  "rating": 7.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-11-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-11-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2025-11-19"
+    },
+    "GB": {
+      "digital": "2025-11-19"
+    },
+    "US": {
+      "digital": "2025-11-19"
+    }
+  },
+  "runtime": 126,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Son of a Thousand Men",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "3gFPO65At9Q",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 72,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1299209-o-filho-de-mil-homens/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1299209-o-filho-de-mil-homens/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1299209-o-filho-de-mil-homens/watch?locale=US",
+      "rent": []
+    }
+  }
+}

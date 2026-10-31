@@ -1,0 +1,159 @@
+{
+  "backdropPath": "/xzY5ZwVZSMMn111DhNcQs2M3J9Q.jpg",
+  "cast": [
+    {
+      "character": "Paul Marquet",
+      "id": 910944,
+      "name": "Bastien Bouillon",
+      "profilePath": "/8ksm25v40MS2p2y0EyyNrxdt7it.jpg"
+    },
+    {
+      "character": "Alice Bosquet, Gallimard Publisher",
+      "id": 19163,
+      "name": "Virginie Ledoyen",
+      "profilePath": "/sIx8EAaGqEaveQtUrCzQOqmoY2J.jpg"
+    },
+    {
+      "character": "Paul's Father",
+      "id": 55805,
+      "name": "André Marcon",
+      "profilePath": "/tQFEk49npJO1XHh4OfSAjCfQTIz.jpg"
+    },
+    {
+      "character": "Paul's Ex-wife",
+      "id": 19937,
+      "name": "Valérie Donzelli",
+      "profilePath": "/avBnRouRIl6ynhyDU5EXNa9k4iR.jpg"
+    },
+    {
+      "character": "Paul's Mother",
+      "id": 26101,
+      "name": "Marie Rivière",
+      "profilePath": "/8dYXEsV8KwUUa1Zo9hC2gfGdvMW.jpg"
+    },
+    {
+      "character": "Pierre Lautrec",
+      "id": 1201987,
+      "name": "Adrien Barazzone",
+      "profilePath": "/p0GTycszXoFG87rjNX1k2TIALn6.jpg"
+    },
+    {
+      "character": "Paul's Sister",
+      "id": 1402048,
+      "name": "Marion Lecrivain",
+      "profilePath": "/oJanSL5QbW03YgsGWiZjLcSUJwD.jpg"
+    },
+    {
+      "character": "Paul's Son",
+      "id": 5998897,
+      "name": "Oscar Tillette",
+      "profilePath": null
+    },
+    {
+      "character": "Paul's Daughter",
+      "id": 5998893,
+      "name": "Ève Oron",
+      "profilePath": null
+    },
+    {
+      "character": "Jeweler",
+      "id": 119501,
+      "name": "Philippe Katerine",
+      "profilePath": "/vGo21vRILgGPT5Q3TTwzLxANemF.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 202567,
+      "logoPath": null,
+      "name": "Pitchipoï Productions"
+    },
+    {
+      "id": 180218,
+      "logoPath": null,
+      "name": "Montmartre Films"
+    },
+    {
+      "id": 80146,
+      "logoPath": null,
+      "name": "Les Films de Françoise"
+    },
+    {
+      "id": 83,
+      "logoPath": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37660587",
+    "wikidataId": "Q135438484"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1430820,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "À pied d’œuvre",
+  "overview": "A successful photographer gives up everything to devote himself to writing and discovers poverty.",
+  "posterPath": "/iqeF5Yr65hPlEJojJGESjVclf6h.jpg",
+  "rating": 6.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-04-20"
+    },
+    "US": {
+      "premiere": "2025-11-03"
+    }
+  },
+  "runtime": 92,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "At Work",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 85,
+  "watchProviders": {}
+}

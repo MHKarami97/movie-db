@@ -1,0 +1,246 @@
+{
+  "backdropPath": "/2fn9FphCwiuDpJqI4Ivws12b8gN.jpg",
+  "cast": [
+    {
+      "character": "Katie",
+      "id": 1245745,
+      "name": "Rhiannon Fish",
+      "profilePath": "/9DhcQcOBSsyQXbckl9r1Mms13fY.jpg"
+    },
+    {
+      "character": "Carlos",
+      "id": 1947446,
+      "name": "Alec Santos",
+      "profilePath": "/w2OZS03EEc6GqHTJRiLvKy3K7Bv.jpg"
+    },
+    {
+      "character": "Dan",
+      "id": 3782877,
+      "name": "Christopher Vieira",
+      "profilePath": null
+    },
+    {
+      "character": "Luciana",
+      "id": 5387236,
+      "name": "Michelle Rosselló",
+      "profilePath": null
+    },
+    {
+      "character": "Maria",
+      "id": 4829600,
+      "name": "Lucía Caravedo",
+      "profilePath": null
+    },
+    {
+      "character": "Cesar",
+      "id": 5387239,
+      "name": "Alberto Wirz Revoredo",
+      "profilePath": null
+    },
+    {
+      "character": "Flores",
+      "id": 2748809,
+      "name": "Valentina Saba",
+      "profilePath": "/mpjl33lBzpxhGmYnOTkBzCHINek.jpg"
+    },
+    {
+      "character": "Luis",
+      "id": 5387238,
+      "name": "Fernando Farfan",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 5225,
+      "logoPath": "/3oajd9v7Zxw7QvnnyhK5TFjDcFB.png",
+      "name": "Johnson Production Group"
+    },
+    {
+      "id": 263913,
+      "logoPath": null,
+      "name": "Hollyware Entertainment"
+    },
+    {
+      "id": 258421,
+      "logoPath": "/8cjbEkmCkvuflBZitvpppm0jXKG.png",
+      "name": "Studio TF1"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "PE",
+      "name": "Peru"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36615154",
+    "wikidataId": "Q136655283"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1468471,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "A Machu Picchu Proposal",
+  "overview": "Katie agrees to join her brother Dan and his girlfriend Luciana on a trip to Peru. Dan plans to propose to Luciana in a grand way at Machu Picchu at the end of the week and needs Katie’s Spanish speaking skills to ask Luciana’s Peruvian father for his blessing. However, when Luciana’s friend, Chef Carlos, arrives, he accidentally ruins each proposal attempt. Refusing to give up, Katie does everything in her power to make this proposal happen, until Dan calls it off. Katie must lean into Chef Carlos’ spontaneity to not only save the day and the proposal, and Carlos may just win Katie’s heart too!",
+  "posterPath": "/ySrjf2ExY0qlKfl3HjmsOgMSTFN.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2025-06-28"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Ancient peaks. Modern Love.",
+  "theatricalDate": null,
+  "title": "A Machu Picchu Proposal",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "tMbF3Oyjgp4",
+      "name": "Sneak Peek",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "yvpfLMtqIGQ",
+      "name": "Preview",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 16,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 2528,
+          "logoPath": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+          "name": "YouTube TV"
+        },
+        {
+          "id": 290,
+          "logoPath": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "id": 2058,
+          "logoPath": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "id": 1746,
+          "logoPath": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1468471-a-machu-picchu-proposal/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

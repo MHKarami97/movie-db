@@ -1,0 +1,181 @@
+{
+  "backdropPath": "/nXbA3MCeHi9Jaedg3hA1oeIDeKJ.jpg",
+  "cast": [
+    {
+      "character": "Hank Carter",
+      "id": 1107810,
+      "name": "Nick Sagar",
+      "profilePath": "/gGjr1vuxFeTMIRzXVwDCTWMbOrb.jpg"
+    },
+    {
+      "character": "Jenny Carter",
+      "id": 1684152,
+      "name": "Montana Manning",
+      "profilePath": "/o4LnTdNSRsdrr9y2kqdzT3aDtyV.jpg"
+    },
+    {
+      "character": "Hannah Carter",
+      "id": 5021209,
+      "name": "Gabriela Ochoa Perez",
+      "profilePath": "/zidsyddjCVYybNqrURdeLyklZY6.jpg"
+    },
+    {
+      "character": "",
+      "id": 1227779,
+      "name": "Ricky Norwood",
+      "profilePath": "/p6uzRKpi4RMnfALG8svxr4cZmS7.jpg"
+    },
+    {
+      "character": "Jayney",
+      "id": 1037691,
+      "name": "Florence Hall",
+      "profilePath": "/okDxiRHlQ31txCqTpJCtuUQxtE3.jpg"
+    },
+    {
+      "character": "Delilah",
+      "id": 2498630,
+      "name": "Eloise Lovell Anderson",
+      "profilePath": "/lC63Ik3IImhE1t2ifWwZvITqKTg.jpg"
+    },
+    {
+      "character": "Father McDougall",
+      "id": 1470134,
+      "name": "Mark Fleischmann",
+      "profilePath": "/4Xki6fvgwjRXVmV9pEinAhqK6XJ.jpg"
+    },
+    {
+      "character": "Reggie",
+      "id": 995,
+      "name": "Vas Blackwood",
+      "profilePath": "/7xxlJe5O9SyPLH0tXIK7WLd2iB1.jpg"
+    },
+    {
+      "character": "Sandy / Female Elf / Red Ninja #1",
+      "id": 2414076,
+      "name": "Georgia Curtis",
+      "profilePath": "/qJZFgX97uFxEIz0uKsw597XifzG.jpg"
+    },
+    {
+      "character": "Mike",
+      "id": 2389512,
+      "name": "Tim Cullingworth-Hudson",
+      "profilePath": "/bBOZyLHJMA0PB3a5CHUkR4XZjRc.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 67575,
+      "logoPath": null,
+      "name": "Empire Studios"
+    },
+    {
+      "id": 16096,
+      "logoPath": null,
+      "name": "Stryke-Force Films"
+    },
+    {
+      "id": 247159,
+      "logoPath": null,
+      "name": "Everly Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-03",
+  "externalIds": {
+    "imdbId": "tt34378341",
+    "wikidataId": "Q132817661"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1382316,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Holiday Hitman",
+  "overview": "Hitman Hank Carter is trying to save his marriage with the perfect family Christmas. Unfortunately for him, a hit has been put on his head — and a gang of festive bounty hunters will stop at nothing to collect the payday.",
+  "posterPath": "/5VfqiT4VEvfJ8CbL2ucXMZKpaqL.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-03"
+    }
+  },
+  "runtime": 98,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "You better watch out.",
+  "theatricalDate": null,
+  "title": "The Holiday Hitman",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "JOEeMlH3_TU",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1382316-the-holiday-hitman/watch?locale=US",
+      "rent": []
+    }
+  }
+}

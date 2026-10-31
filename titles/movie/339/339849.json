@@ -1,0 +1,316 @@
+{
+  "backdropPath": "/rJ7PB78ZcBaCPxQRLrZxh4M2Z0N.jpg",
+  "cast": [
+    {
+      "character": "Nick Schuyler",
+      "id": 69899,
+      "name": "Zachary Levi",
+      "profilePath": "/1W8L3kEMMPF9umT3ZGaNIiCYKfZ.jpg"
+    },
+    {
+      "character": "Timothy Close",
+      "id": 19536,
+      "name": "Josh Duhamel",
+      "profilePath": "/5Rp9aeWdN2S623KCjwfii9MhDK1.jpg"
+    },
+    {
+      "character": "Marquis Cooper",
+      "id": 1532422,
+      "name": "Quentin Plair",
+      "profilePath": "/jCVuX3cB0iyjsYaz2RcuBtX2MaL.jpg"
+    },
+    {
+      "character": "Corey Smith",
+      "id": 2601103,
+      "name": "Terrence Terrell",
+      "profilePath": "/to5u2Mumj1zp9J9JSV1QCzI3XuN.jpg"
+    },
+    {
+      "character": "Will Bleakley",
+      "id": 654199,
+      "name": "Marshall Cook",
+      "profilePath": "/pFGVXYnyRbK22xI1uPPzflDf7vO.jpg"
+    },
+    {
+      "character": "Marcia",
+      "id": 10080,
+      "name": "JoBeth Williams",
+      "profilePath": "/nL9ZdnI50y1yRVvmz0P61TxjZsF.jpg"
+    },
+    {
+      "character": "Paula",
+      "id": 1377977,
+      "name": "Floriana Lima",
+      "profilePath": "/hiHqJwjzz6fT9QeTz0rG7MgdnOX.jpg"
+    },
+    {
+      "character": "Rebekah Cooper",
+      "id": 1017023,
+      "name": "Jessica Blackmore",
+      "profilePath": "/jEJzmYdZqf5PuwnylP78WAmYkUL.jpg"
+    },
+    {
+      "character": "Stu Schuyler",
+      "id": 162849,
+      "name": "James Martin Kelly",
+      "profilePath": "/tEzKhyEa5SO3bUyvwV9yO521kKj.jpg"
+    },
+    {
+      "character": "Coast Guard Radio Operator Davies",
+      "id": 84298,
+      "name": "Chris Dingli",
+      "profilePath": "/zzqT0ZDR67H1OjIRUTQJfCEgW5r.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 168294,
+      "logoPath": "/hO9hMQIAUvSEVJHBUdtrsXWfoRu.png",
+      "name": "Volition Media Partners"
+    },
+    {
+      "id": 175316,
+      "logoPath": "/jB6FmRiPnKGHWSfk46iwjH38CRU.png",
+      "name": "K. JAM Media"
+    },
+    {
+      "id": 168678,
+      "logoPath": null,
+      "name": "Altit Media Group"
+    },
+    {
+      "id": 177499,
+      "logoPath": "/9fCtPsxhpASvHIrzju2PAdg2F35.png",
+      "name": "Latigo Films"
+    },
+    {
+      "id": 249595,
+      "logoPath": null,
+      "name": "Prix Productions"
+    },
+    {
+      "id": 301273,
+      "logoPath": null,
+      "name": "Xtellus Partners"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt3331548",
+    "wikidataId": "Q123137223"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 339849,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Not Without Hope",
+  "overview": "A group of friends' fishing boat capsizes off the coast of Mexico and they're left alone stranded at sea and struggling for survival.",
+  "posterPath": "/w5WJMJ6DWPFK0Gx0Ongh0FZBAlK.jpg",
+  "rating": 6.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-01-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-12-12"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-01-12"
+    },
+    "US": {
+      "premiere": "2025-10-25",
+      "theatrical": "2025-12-12"
+    }
+  },
+  "runtime": 119,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2025-12-12",
+  "title": "Not Without Hope",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "QOH4QTheVJI",
+      "name": "On Digital Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "m9pnti9FQZ0",
+      "name": "Available to Buy and Rent Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "rzDAcL3rOcU",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 153,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/339849-not-without-hope/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2303,
+          "logoPath": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "id": 582,
+          "logoPath": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        },
+        {
+          "id": 633,
+          "logoPath": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+          "name": "Paramount+ Roku Premium Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/339849-not-without-hope/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 317070,
+      "logoPath": null,
+      "name": "Falcova studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2027-04-01",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-04-01",
+        "episodeNumber": 1,
+        "name": "Introduction",
+        "overview": "Introduced player",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793940074615,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 341167,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "hi",
+      "name": "Hindi"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-04-01",
+    "episodeNumber": 1,
+    "id": 8080866,
+    "name": "Introduction",
+    "overview": "Introduced player",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Kingdom Of Temptation",
+  "overview": "KINGDOM OF TEMPTATION: A NEW REALITY ENTERTAINMENT EXPERIENCE BY FALCOVA STUDIOS\n\nGet ready for a game of connections, competition, strategy and unexpected twists. Kingdom of Temptation brings a fresh reality entertainment concept where personal choices, evolving relationships and unexpected challenges shape the journey.\n\nThe show explores attraction, trust, loyalty and human psychology through an engaging competitive format, where every decision can change the dynamics of the game.\n\nThe project brings together Mohd Talib, Allan Bazil Monteiro and Zafar Iqbal Khan as part of its creative team, with individual roles and further show details remaining undisclosed.\n\nFalcova Studios, formerly known as Bouncer Production, represents the evolved identity of the production venture, reflecting its broader vision of creating original entertainment formats, discovering fresh talent and developing engaging content for modern audiences.\n\nKingdom of Temptation — The Game Begins With a Choice.",
+  "posterPath": "/anTcfYBqbTgkTllqDE4itZp1gAh.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-04-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-04-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-04-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-04-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-04-01"
+    },
+    "CN": {
+      "tv": "2027-04-01"
+    },
+    "GB": {
+      "tv": "2027-04-01"
+    },
+    "US": {
+      "tv": "2027-04-01"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-04-01",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Kingdom Of Temptation",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

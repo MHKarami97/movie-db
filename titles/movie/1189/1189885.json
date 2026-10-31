@@ -1,0 +1,292 @@
+{
+  "backdropPath": "/jdy2Q1JTKun986X6XOLWzGr7XB4.jpg",
+  "cast": [
+    {
+      "character": "Fiona",
+      "id": 9825,
+      "name": "Saffron Burrows",
+      "profilePath": "/2qMLZh9XWquBt7TZF9wmDiOtJdm.jpg"
+    },
+    {
+      "character": "Francis Crowley",
+      "id": 2467,
+      "name": "James Cosmo",
+      "profilePath": "/4QZnZ3wyGALVuwZ70HdXZk4O14W.jpg"
+    },
+    {
+      "character": "Lily",
+      "id": 1876847,
+      "name": "Emily Flain",
+      "profilePath": "/tjBOOkruujK0GZWuXZ1v5Jypmzi.jpg"
+    },
+    {
+      "character": "Sean",
+      "id": 1050248,
+      "name": "Art Parkinson",
+      "profilePath": "/ejAKOJME1DsvHECLWdQ7dEtXyyc.jpg"
+    },
+    {
+      "character": "Jonathan Horner",
+      "id": 210707,
+      "name": "Jonathan Forbes",
+      "profilePath": "/qa0BvBLbPM5kSX59VKctNS0R9PU.jpg"
+    },
+    {
+      "character": "Conor",
+      "id": 2588578,
+      "name": "Michael Shea",
+      "profilePath": "/yIgScSvktf0V6fyVL8Fg0fIjqPE.jpg"
+    },
+    {
+      "character": "University Dean",
+      "id": 1564925,
+      "name": "Sean Kearns",
+      "profilePath": "/2YAGtkgtaPmTXcZc09NTPsNhMtU.jpg"
+    },
+    {
+      "character": "Treasurer",
+      "id": 1649097,
+      "name": "Nigel O'Neill",
+      "profilePath": "/f5rpWUBXTzILEGmJQFnYXSYKcXo.jpg"
+    },
+    {
+      "character": "Ancient Morrigan",
+      "id": 17022,
+      "name": "Antonia Campbell-Hughes",
+      "profilePath": "/bbX2OIYN1ZrUZKZZVnQvbIrb1zs.jpg"
+    },
+    {
+      "character": "Rescuer",
+      "id": 1972534,
+      "name": "Desmond Eastwood",
+      "profilePath": "/6C4AewNqq7gR7u1Odd4j7VKBtSI.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 248409,
+      "logoPath": "/njO6Ny1AmG4KzNe5qpKLP2QgLAE.png",
+      "name": "Cowboy Cosmonaut Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "XI",
+      "name": "Northern Ireland"
+    }
+  ],
+  "digitalDate": "2026-02-03",
+  "externalIds": {
+    "imdbId": "tt29423057"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1189885,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ga",
+      "name": "Irish"
+    }
+  ],
+  "originalTitle": "The Morrigan",
+  "overview": "Archaeologist Fiona travels to Ireland to uncover a long-dead tomb. A threat is released and she will have to fight to keep her teenage daughter from falling under the control of The Morrigan, a vengeful Pagan War Goddess.",
+  "posterPath": "/ahnhXyjd26ducr4V05hDAzLPyB5.jpg",
+  "rating": 3.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-06-29",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-06-29"
+    },
+    "US": {
+      "digital": "2026-02-03"
+    }
+  },
+  "runtime": 96,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "An ancient evil rises.",
+  "theatricalDate": null,
+  "title": "The Morrigan",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "igSSPVZ2uw0",
+      "name": "Official UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1189885-the-morrigan/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 202,
+          "logoPath": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+          "name": "Screambox Amazon Channel"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        },
+        {
+          "id": 2367,
+          "logoPath": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+          "name": "Midnight Pulp Amazon Channel"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1189885-the-morrigan/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

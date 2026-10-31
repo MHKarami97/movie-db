@@ -1,0 +1,319 @@
+{
+  "backdropPath": "/hWERNIYXnagcoNXddIZP13hSqz4.jpg",
+  "cast": [
+    {
+      "character": "Martin Beck",
+      "id": 74709,
+      "name": "Peter Haber",
+      "profilePath": "/e6jnPrQiUs3wyEP9OVWd7sMse6B.jpg"
+    },
+    {
+      "character": "Alexandra Beijer",
+      "id": 1166983,
+      "name": "Jennie Silfverhjelm",
+      "profilePath": "/tgFWvnh6idwctPPo9nHJSLQ6Ofk.jpg"
+    },
+    {
+      "character": "Oskar Bergman",
+      "id": 74713,
+      "name": "Måns Nathanaelson",
+      "profilePath": "/qYdD7xqM6kwhKSunos5A1Tw1Y65.jpg"
+    },
+    {
+      "character": "Josef Eriksson",
+      "id": 213486,
+      "name": "Martin Wallström",
+      "profilePath": "/6zIR09NCAc2IyGnTwQLOCvieWp.jpg"
+    },
+    {
+      "character": "Ayda Çetin",
+      "id": 1042844,
+      "name": "Elmira Arikan",
+      "profilePath": "/fiGJwekeijAADHA6u69ZHAHh0rE.jpg"
+    },
+    {
+      "character": "Vilhelm Beck",
+      "id": 1281937,
+      "name": "Valter Skarsgård",
+      "profilePath": "/sRWh6TGz3992B6VI7UZzIZ2ZBlF.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 2669,
+      "logoPath": "/xuSvgLUZJyrY4IO1jBpmlqpHqyc.png",
+      "name": "Filmlance International"
+    }
+  ],
+  "countries": [
+    {
+      "code": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "digitalDate": "1999-12-12",
+  "externalIds": {
+    "imdbId": "tt0907683",
+    "wikidataId": "Q16939437"
+  },
+  "fetchedAt": 1795203017842,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 38148,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "sv",
+      "name": "Swedish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-03-20",
+    "episodeNumber": 4,
+    "id": 5412525,
+    "name": "In the Shadows",
+    "overview": "A shooting takes place in a Stockholm suburb and a violent gang is suspected of the crime. Soon the suspected perpetrators are found tied up near the crime scene, where they appear to have been delivered by a mysterious person with ulterior motives. The Beck group leads a cross-border operation to both find the gang's leader and find out who the unknown actor is.",
+    "seasonNumber": 10
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Beck",
+  "overview": "Beck follows Swedish police officer Martin Beck and his team as they investigate various crimes.",
+  "posterPath": "/oOHVlOM3l0etyCVAWA3ity4EJqm.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1999-12-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1999-12-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1999-12-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1999-12-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1999-12-12"
+    },
+    "CN": {
+      "tv": "1999-12-12"
+    },
+    "GB": {
+      "tv": "1999-12-12"
+    },
+    "US": {
+      "tv": "1999-12-12"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "1967-08-14",
+      "episodeCount": 8,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/83Hw5INYB4AhbNwfYZlViz6Tz4e.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1999-12-12",
+      "episodeCount": 8,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/dFiQ7MzNjmaZH6ubGAwWlec410d.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2003-10-12",
+      "episodeCount": 8,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/avsHEyy0Bj9GYF2an6ugpOXL5Wd.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2009-02-01",
+      "episodeCount": 8,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/Ed7w2VZnJDT8TZ80dk4zSExSpc.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2012-09-16",
+      "episodeCount": 2,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/yVaNDPDGX8O9ESFlY9E4vsheP2S.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2015-01-01",
+      "episodeCount": 8,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/pXZVqm2Ln6OC8QgWwXWfL59spg2.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2018-01-01",
+      "episodeCount": 4,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/7VNDGlrEw2YwGgmdplcDrzctdHk.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2020-11-06",
+      "episodeCount": 4,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/5SkEAVaATFlA4kd6Ftw8J86GbQr.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2021-12-25",
+      "episodeCount": 4,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/15gj6VHdkSmM75vEu7LnHsJBsSX.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2022-12-25",
+      "episodeCount": 4,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/pOkv4cAmhaL4uyIF6ViynRIe4JB.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2024-12-06",
+      "episodeCount": 4,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/v4KD8i36oqUfu2WkYW7Lz2MNTjZ.jpg",
+      "seasonNumber": 10
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Beck",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "6N-Y9jtFl1w",
+      "name": "Beck - series trailer (Eps 26-30)",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 60,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 613,
+          "logoPath": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png",
+          "name": "Amazon Prime Video Free with Ads"
+        },
+        {
+          "id": 1898,
+          "logoPath": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png",
+          "name": "Amazon MX Player"
+        }
+      ],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        },
+        {
+          "id": 2296,
+          "logoPath": "/eP8ouMk5uIDebPWNto76rNstMqE.png",
+          "name": "Viaplay Amazon Channel"
+        }
+      ],
+      "free": [
+        {
+          "id": 38,
+          "logoPath": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
+          "name": "BBC iPlayer"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/38148-beck/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 291,
+          "logoPath": "/6kINh90KLGRqWa9HS2oj4JI1ipO.png",
+          "name": "MZ Choice Amazon Channel"
+        },
+        {
+          "id": 427,
+          "logoPath": "/lLCtT8BA42vuYn23UxuPPQDrLap.png",
+          "name": "Mhz Choice"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/38148-beck/watch?locale=US",
+      "rent": []
+    }
+  }
+}

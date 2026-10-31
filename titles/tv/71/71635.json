@@ -1,0 +1,320 @@
+{
+  "backdropPath": "/m3N3VzsiENWdAYNFsjzQ4GfQuoB.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 981,
+      "logoPath": "/pkrdO9ykplO4Zc8edikoSX5APUN.png",
+      "name": "TVE"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": "2013-10-27",
+  "episodes": {
+    "15": [
+      {
+        "airDate": "2026-11-01",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": "/rXWNSHdJWKtOlK7ovO9nc9StPU.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-08",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": "/gS8Re2UKBMfh4jFZmsV4JTDdXej.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-15",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": "/y3M5js94Dqq9Q2wRYrVO73k3twU.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-22",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-29",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-06",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-13",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-20",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-27",
+        "episodeNumber": 9,
+        "name": "Episode 9",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": null,
+        "episodeNumber": 10,
+        "name": "Episode 10",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "cachitos",
+    "imdbId": "tt3325572",
+    "wikidataId": "Q19753780"
+  },
+  "fetchedAt": 1794946854500,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 71635,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-11-15",
+    "episodeNumber": 3,
+    "id": 8132327,
+    "name": "Episode 3",
+    "overview": "",
+    "seasonNumber": 15
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-22",
+    "episodeNumber": 4,
+    "id": 8136426,
+    "name": "Episode 4",
+    "overview": "",
+    "seasonNumber": 15
+  },
+  "originalTitle": "Cachitos de hierro y cromo",
+  "overview": "Cachitos de hierro y cromo is a Spanish musical-themed documentary program, directed by Jero Rodríguez and hosted by Virginia Díaz. It is an unapologetic musical display of RTVE's sound legacy in the form of performances on the set of programs such as 'Aplauso', 'Galas del Sábado', 'Mapa Sonoro', 'Zona Franca' or 'Los Conciertos de Radio 3'. For nearly 60 years, artists and other specimens have stormed viewers' screens. The result is a polyphony of images and memories that includes everything from James Brown to Camela, from Perales to REM, from Gabinete to Violent Femmes. And so all the time. Our secret weapon has been the historical archive of TVE, the repository of Spanish collective memory for more than half a century.",
+  "posterPath": "/525LUVZJOd0oMC2HWFgQ2Pgo8b.jpg",
+  "rating": 7.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2013-10-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2013-10-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2013-10-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2013-10-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2013-10-27"
+    },
+    "CN": {
+      "tv": "2013-10-27"
+    },
+    "GB": {
+      "tv": "2013-10-27"
+    },
+    "US": {
+      "tv": "2013-10-27"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2013-12-22",
+      "episodeCount": 28,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/u82SDHPbSA97EhmPtuEIxcAB1Hq.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2013-10-27",
+      "episodeCount": 11,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/3O92Wx4ASPfMNqk8oDKLCICJt9u.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2014-09-21",
+      "episodeCount": 16,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/u7RJnA7JxhXtuVVRWooK3ks0ls8.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2015-09-20",
+      "episodeCount": 12,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/ummhsKN6W3qCYuO9GmIGOnOmDx3.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2016-09-11",
+      "episodeCount": 12,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/wnB0y2F1rLlBpUfQsH9sahuMMni.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2017-10-08",
+      "episodeCount": 15,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/zgelThX1OsO5jv7rstLn0a5ZZ28.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2018-10-02",
+      "episodeCount": 13,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/eQ7J2D1NdB3r1MP67AgkGzKKIrR.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2019-04-23",
+      "episodeCount": 7,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/mqIROZE20OFv7h7r3ZkRlGOlwrG.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2020-01-07",
+      "episodeCount": 10,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/p3KDS4WXZZ0V27dcaeweLmoqm23.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2021-01-11",
+      "episodeCount": 11,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/sFuvKPW2BhC0E7hp5FCLcVh5Uck.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2022-01-11",
+      "episodeCount": 11,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/s8EgeidVjsoXU2811lAaHloY3pP.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2023-04-18",
+      "episodeCount": 11,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": "/69LqWRsdAqQACWJCnPLXv7J0eYY.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2024-01-09",
+      "episodeCount": 7,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": "/a81YPJU4P9HFeShMTSSeUyj20p6.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2025-01-16",
+      "episodeCount": 10,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": "/s5pKsvqm7Kos1Csvhx3ae6qGgGo.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2025-10-19",
+      "episodeCount": 10,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": "/7gWVvaOvGyhNLKNqsFptll2iBnq.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2026-11-01",
+      "episodeCount": 10,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": "/uvXE6u7e0eOB92QsV8RHAyZh57z.jpg",
+      "seasonNumber": 15
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Cachitos de hierro y cromo",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 6,
+  "watchProviders": {}
+}

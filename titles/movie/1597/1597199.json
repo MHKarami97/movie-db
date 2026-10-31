@@ -1,0 +1,186 @@
+{
+  "backdropPath": "/dvmsh2jUR1SkyLNWCaoQOI2y6uG.jpg",
+  "cast": [
+    {
+      "character": "Mariano Guerra",
+      "id": 73475,
+      "name": "Adriano Giannini",
+      "profilePath": "/8cyApt07EO7aaAtPTshe7whciSx.jpg"
+    },
+    {
+      "character": "",
+      "id": 1247852,
+      "name": "Paula Cohen",
+      "profilePath": "/y3zo6Gj31kjgJLkDvnurYrsB8lX.jpg"
+    },
+    {
+      "character": "",
+      "id": 64771,
+      "name": "Ana Celentano",
+      "profilePath": "/jWMxml2AuavtwdwwvbnsgCA6loF.jpg"
+    },
+    {
+      "character": "",
+      "id": 4072489,
+      "name": "Vero Geréz",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 3511308,
+      "name": "Olivia Nuss",
+      "profilePath": "/s7XvZq9UYjb5pCckIOx6np8m6ix.jpg"
+    },
+    {
+      "character": "",
+      "id": 125499,
+      "name": "Adrián Fondari",
+      "profilePath": "/sZq41K3OFlmBeFdupcJO8jIHmHc.jpg"
+    },
+    {
+      "character": "",
+      "id": 125500,
+      "name": "Marcelo Chaparro",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 2279102,
+      "name": "Marcela Serli",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 3641731,
+      "name": "Maria Laila Fernandez",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 4399525,
+      "name": "Eduardo Hoy",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 2441,
+      "logoPath": "/7Vutdea75apwXkRyfQ4Ne6j0KcN.png",
+      "name": "Fandango"
+    },
+    {
+      "id": 94435,
+      "logoPath": "/Ar1NCTgUdpRgLjwJ92QYcTsZFL6.png",
+      "name": "39Films"
+    },
+    {
+      "id": 93149,
+      "logoPath": null,
+      "name": "Karta Film"
+    },
+    {
+      "id": 152642,
+      "logoPath": "/sZRlbNLt3ma35LzFF3Ox2D3DevJ.png",
+      "name": "34 Filmes"
+    },
+    {
+      "id": 155990,
+      "logoPath": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema"
+    },
+    {
+      "id": 14016,
+      "logoPath": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC"
+    },
+    {
+      "id": 26261,
+      "logoPath": "/thn5VXJ5JegdrtiJn7mFuV2NWB6.png",
+      "name": "Film Commission Torino Piemonte"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39239726",
+    "wikidataId": "Q140680798"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1597199,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "it",
+      "name": "Italian"
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Ritorno a Buenos Aires",
+  "overview": "It follows Mariano Guerra as he returns to Argentina to testify against soldiers who tortured him during the dictatorship, focusing not on revenge but on his inner struggle with guilt, trauma, and the lasting psychological impact of violence kept largely off-screen.",
+  "posterPath": "/2iX5Mf2xRLpL7X5ywYhEPmkzztV.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 104,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Back to Buenos Aires",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "dq71WaJEyZw",
+      "name": "'Back To Buenos Aires': exclusive first trailer for Marco Bechis' Venice Competition title",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 17,
+  "watchProviders": {}
+}

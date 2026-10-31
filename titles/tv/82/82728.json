@@ -1,0 +1,316 @@
+{
+  "backdropPath": "/tWdNZ3xuFBhJ2ZoQ9vShNGHTb85.jpg",
+  "cast": [
+    {
+      "character": "Bandit Heeler (voice)",
+      "id": 2139632,
+      "name": "Dave McCormack",
+      "profilePath": "/tF2Xy0bqOf1C2CQjEX8TL9yuKSA.jpg"
+    },
+    {
+      "character": "Chilli Heeler (voice)",
+      "id": 1312450,
+      "name": "Melanie Zanetti",
+      "profilePath": "/lbUQ7ilvBtWMU23reKsHg3jRmsf.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 81576,
+      "logoPath": "/m1sQ0FG05KeveKGufbcJbsHUKYi.png",
+      "name": "Ludo Studio"
+    },
+    {
+      "id": 1253,
+      "logoPath": "/pE2WJeUJBfoit4COoWSRslT9ioj.png",
+      "name": "Australian Broadcasting Corporation"
+    },
+    {
+      "id": 7584,
+      "logoPath": "/eGkfvvyf4fJTvBUR1xt1669IPA3.png",
+      "name": "Screen Australia"
+    },
+    {
+      "id": 10950,
+      "logoPath": "/6TdE9m9KgV2az7vNI8n95rQiYr3.png",
+      "name": "Screen Queensland"
+    },
+    {
+      "id": 79173,
+      "logoPath": "/4hDXEoxuB8EJFq2LHshCzALaFhO.png",
+      "name": "CBeebies"
+    },
+    {
+      "id": 3164,
+      "logoPath": "/h06QVxWESaOAfBwkgrWFdbkkccq.png",
+      "name": "BBC Worldwide"
+    },
+    {
+      "id": 221844,
+      "logoPath": null,
+      "name": "BBC Studios Distribution"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2018-10-01",
+  "episodes": {
+    "4": []
+  },
+  "externalIds": {
+    "facebookId": "OfficialBlueyTV",
+    "imdbId": "tt7678620",
+    "instagramId": "officialblueytv",
+    "twitterId": "OfficialBlueyTV",
+    "wikidataId": "Q39071378"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "id": 82728,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2024-04-21",
+    "episodeNumber": 49,
+    "id": 4215673,
+    "name": "Surprise!",
+    "overview": "Bluey and Bingo want Dad to play two different games, so Dad plays both at the same time.",
+    "seasonNumber": 3
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Bluey",
+  "overview": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordinary adventures, developing her imagination as well as her mental, physical and emotional resilience.",
+  "posterPath": "/9p4pNoGcuyCfHcGWKNrTopqMWtq.jpg",
+  "rating": 8.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2018-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2018-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2018-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2018-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2018-10-01"
+    },
+    "CN": {
+      "tv": "2018-10-01"
+    },
+    "GB": {
+      "tv": "2018-10-01"
+    },
+    "US": {
+      "tv": "2018-10-01"
+    }
+  },
+  "runtime": 7,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2019-12-14",
+      "episodeCount": 31,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/oXcJ7MlUvJWEEkS9BSlmez58ZP0.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2018-10-01",
+      "episodeCount": 52,
+      "name": "Series 1",
+      "overview": "",
+      "posterPath": "/eVzZUBfHxCrlATbMokkBN8jMJkm.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2020-03-17",
+      "episodeCount": 52,
+      "name": "Series 2",
+      "overview": "",
+      "posterPath": "/yWOni1fTBx43j6VQsJuSTKkSCIL.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2021-09-05",
+      "episodeCount": 49,
+      "name": "Series 3",
+      "overview": "",
+      "posterPath": "/gfqtdkCGTOA1G1S0AZnnVPhNx8c.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "For real life?!",
+  "theatricalDate": null,
+  "title": "Bluey",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "VS5jsksGIM4",
+      "name": "Bluey Theme Song",
+      "official": true,
+      "type": "Opening Credits"
+    },
+    {
+      "key": "2ZtG5Ba6iT0",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 756,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        },
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 38,
+          "logoPath": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
+          "name": "BBC iPlayer"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/82728-bluey/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 2621,
+          "logoPath": "/gq031DkuykfuuHVoLPx9BFNyfPU.png",
+          "name": "KQED"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        },
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2528,
+          "logoPath": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+          "name": "YouTube TV"
+        },
+        {
+          "id": 508,
+          "logoPath": "/3Zp05yizjTStDH4AhEBPzEsf9jv.png",
+          "name": "DisneyNOW"
+        }
+      ],
+      "free": [
+        {
+          "id": 486,
+          "logoPath": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+          "name": "Spectrum On Demand"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/82728-bluey/watch?locale=US",
+      "rent": []
+    }
+  }
+}

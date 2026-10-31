@@ -1,0 +1,71 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1618195,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "Haus 4",
+  "overview": "HOUSE 4 documents a year in the life of inmates at Berlin´s youth prison. With exceptional access and the trust of both prisoners and staff, the film follows its protagonists as they undergo mandatory therapy. Does this institution succeed in changing the paths of these young men? House 4 holds up a mirror to the youth prison systems of Western social welfare states.",
+  "posterPath": "/t9daTbfUxsOAjEjOXK6Q2uAhxJP.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-02-23"
+    }
+  },
+  "runtime": 70,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "HOUSE 4",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

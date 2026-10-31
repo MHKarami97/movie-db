@@ -1,0 +1,389 @@
+{
+  "backdropPath": "/4oAB2qs7lwfhw1BaUmp7xkryM7E.jpg",
+  "cast": [
+    {
+      "character": "Michael 'Michi' Mohr",
+      "id": 55526,
+      "name": "Max Müller",
+      "profilePath": "/9qnL4oIQ4zpXbc7q3Xd2yI1YXLc.jpg"
+    },
+    {
+      "character": "Marie Hofer",
+      "id": 36501,
+      "name": "Karin Thaler",
+      "profilePath": "/fOObh9ZzIVDBgOPrqqjoBeOWFDO.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1704,
+      "logoPath": "/sb3PuMTgJgpPUY7x634etBAhodu.png",
+      "name": "Bavaria Film"
+    },
+    {
+      "id": 4606,
+      "logoPath": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "2002-01-09",
+  "episodes": {
+    "26": [
+      {
+        "airDate": "2026-10-06",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": "/aI3yew2KK2X7SIsqMVcyAcIYe5w.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-13",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": "/vhiZaWx1HTcxwLAC6VLCFDz4Orq.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-20",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": "/4ryhtJCq3BQiGDChbk1dMas6eiJ.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-27",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": "/dNQhLcLR20bwV3OiLDi9kQJLtaF.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-10",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": "/mAHtwp0nQQce647t2jFgehgwV1a.jpg",
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt0305095",
+    "wikidataId": "Q1215825"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 41149,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-27",
+    "episodeNumber": 4,
+    "id": 7895066,
+    "name": "Episode 4",
+    "overview": "",
+    "seasonNumber": 26
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-10",
+    "episodeNumber": 5,
+    "id": 8025652,
+    "name": "Episode 5",
+    "overview": "",
+    "seasonNumber": 26
+  },
+  "originalTitle": "Die Rosenheim-Cops",
+  "overview": "A team of inspectors investigates murders in and around the small Upper Bavarian town of Rosenheim, and they still have plenty of time to see idyllic landscapes and luxurious pre-alpine villas and enjoy sumptuous Bavarian fare with beer.",
+  "posterPath": "/kAhi0xY6gIEMvHtmChC44pBwOWG.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2002-01-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2002-01-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2002-01-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2002-01-09",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2002-01-09"
+    },
+    "CN": {
+      "tv": "2002-01-09"
+    },
+    "GB": {
+      "tv": "2002-01-09"
+    },
+    "US": {
+      "tv": "2002-01-09"
+    }
+  },
+  "runtime": 45,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2003-12-29",
+      "episodeCount": 7,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/yKe9v2j2N3jJ003wplCCzq0hDYD.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2002-01-09",
+      "episodeCount": 12,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/brChkvPhSMV2U8rh3eUwpDiwvjd.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2003-02-25",
+      "episodeCount": 15,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/2BbqFtz4avczlXGU8BK6Dc66QOZ.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2004-04-27",
+      "episodeCount": 7,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/jNQf12Y393aHi5iXSB4067taNUW.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2005-04-05",
+      "episodeCount": 20,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/ujEdn8qgVGk410PaAHDURruOdIi.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2005-11-29",
+      "episodeCount": 22,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/uvg87nsRkuVU4fyd9QvlY02G6di.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2006-10-24",
+      "episodeCount": 20,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/8QmXtM2LKWnn1uMzEQFlupeJbRx.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2007-09-18",
+      "episodeCount": 30,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/u2cZs2VocFjmEWDqePVGeNykJ2u.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2008-10-07",
+      "episodeCount": 28,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/i75nikvPV5qfaxheqM8fVhExeF1.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2009-09-08",
+      "episodeCount": 30,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/5JH2flJnoAjSF57gOPWy8rjWryl.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2010-10-19",
+      "episodeCount": 28,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/nJ1Pg8RhoDmTEMOaXAIXf4CPWxx.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2011-09-13",
+      "episodeCount": 30,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": "/tnn5mvI4kjlpIK6uvrwb02Vm1Jj.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2012-10-02",
+      "episodeCount": 24,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": "/r7v716BSHzTFdz3owoP7WpZsgEP.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2013-09-24",
+      "episodeCount": 26,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": "/cozS1ivSa7QSVMTxA8kEO0pLdJQ.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2014-10-07",
+      "episodeCount": 27,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": "/1BHDRA9ZW5wruCFGeuh9nUtBfhZ.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2015-09-08",
+      "episodeCount": 31,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": "/yGJ0rVKw7srJGRpSa9YdLQ5LpA.jpg",
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2016-09-13",
+      "episodeCount": 30,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": "/m5TxqrahmkmcUUizVLhr7ag8XGz.jpg",
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2017-09-26",
+      "episodeCount": 24,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": "/n4x4Kjd6DWvmAxF2mCvGAqCIs82.jpg",
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2018-10-02",
+      "episodeCount": 25,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": "/2m2yS3F5pbSi86u0mZPKLW9AM5w.jpg",
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2019-09-24",
+      "episodeCount": 27,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": "/5YxSVvypWixRfFbOWLvEmCm2T8k.jpg",
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2020-10-13",
+      "episodeCount": 26,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": "/aDj7030mIscwU0prVvprmv96Ifg.jpg",
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2021-09-21",
+      "episodeCount": 27,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": "/t4uSLSD2Zdkb9iP8neKuWnshj90.jpg",
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2022-10-04",
+      "episodeCount": 22,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": "/deucZqBU7ALPKyYsLg17ifPrO3i.jpg",
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2023-10-10",
+      "episodeCount": 23,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": "/b3qp5gpFL4EnsVG4Ds6fhMJfjmu.jpg",
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2024-10-01",
+      "episodeCount": 24,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": "/j80V4X89dhgv1AhvHtU5RaYiwre.jpg",
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2025-10-07",
+      "episodeCount": 23,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": "/yTiddvhBKXyUWksAHPkcSix8kLc.jpg",
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "2026-10-06",
+      "episodeCount": 5,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 26
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Die Rosenheim-Cops",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 29,
+  "watchProviders": {}
+}

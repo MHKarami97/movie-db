@@ -1,0 +1,143 @@
+{
+  "backdropPath": "/tJ2MxAJVk4T2YwGar46S8uq3bzp.jpg",
+  "cast": [
+    {
+      "character": "Vicentina",
+      "id": 1380635,
+      "name": "Rejane Faria",
+      "profilePath": "/iie8IOxVZF6JXB416EanhE2bqkT.jpg"
+    },
+    {
+      "character": "Joana",
+      "id": 2521798,
+      "name": "Maíra Azevedo",
+      "profilePath": "/xYQfXAbP55oGag2JYAP0opVtVRX.jpg"
+    },
+    {
+      "character": "Cleide",
+      "id": 1180871,
+      "name": "Thalma de Freitas",
+      "profilePath": "/l5V2w20y5NhvyTOCaEx0dW3CWE.jpg"
+    },
+    {
+      "character": "Isabel",
+      "id": 1660398,
+      "name": "Grace Passô",
+      "profilePath": "/xzomAlvVQor81adGhWjf94F6rP0.jpg"
+    },
+    {
+      "character": "Gisele",
+      "id": 4390185,
+      "name": "Giovanna Heliodoro",
+      "profilePath": null
+    },
+    {
+      "character": "Wesley/Bruno",
+      "id": 1844397,
+      "name": "Renato Novaes",
+      "profilePath": "/gXdCJC9QPTC60gRwR2ZRPVCCkqX.jpg"
+    },
+    {
+      "character": "",
+      "id": 1115320,
+      "name": "Karine Teles",
+      "profilePath": "/tuefwgcWVmjlTs11mvRaxtyKiLp.jpg"
+    },
+    {
+      "character": "Luiz",
+      "id": 121457,
+      "name": "Flávio Bauraqui",
+      "profilePath": "/kqTAOpegEqpssNhrlSYgrFJGX5Y.jpg"
+    },
+    {
+      "character": "Fred",
+      "id": 2252913,
+      "name": "Giovanni Venturini",
+      "profilePath": "/5a9aRC7a7J4qRlXebuT4Al1Rmax.jpg"
+    },
+    {
+      "character": "Vera",
+      "id": 3399608,
+      "name": "Marisa Revert",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 37098,
+      "logoPath": "/wPQrM2TrAnYi93HkRlmu7vYvZhX.png",
+      "name": "Filmes de Plástico"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "digitalDate": "2026-11-20",
+  "externalIds": {
+    "imdbId": "tt33402927",
+    "wikidataId": "Q140180606"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 15,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1307474,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "Vicentina Pede Desculpas",
+  "overview": "Vicentina struggles to cope with the death of her son Wesley after a tragic bus accident, in which he was the driver. As the investigation unfolds, evidence suggests that Wesley’s actions may have been suicidal. Vicentina then embarks on a journey to seek out the victims’ families and apologize, while confronting her own grief and uncertainty.",
+  "posterPath": "/EE0nu2jPKGio3ICEG193Z7DDSe.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-20",
+      "gapDays": 15,
+      "theatricalDate": "2026-11-05"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-20",
+      "premiere": "2026-10-06",
+      "theatricalLimited": "2026-11-05"
+    }
+  },
+  "runtime": 148,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-11-05",
+  "title": "On Behalf of My Son",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,129 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "TmacD",
+      "id": 6248815,
+      "name": "Toulouse MacDonnell",
+      "profilePath": null
+    },
+    {
+      "character": "Numero Tumero",
+      "id": 6248816,
+      "name": "Kaylan Cavallo",
+      "profilePath": null
+    },
+    {
+      "character": "Dr. Krushnikov",
+      "id": 6310050,
+      "name": "James Kubera",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 300255,
+      "logoPath": null,
+      "name": "skfilms london"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1721411,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Allegro",
+  "overview": "Join two Soho sleuths on an ultra stylised  crime caper grindhouse epic, unraveling the mystery and origin of... none other than...Doctor Krushnikov!!!",
+  "posterPath": "/m4COcQkrtsGJ57uRciuER5Pmeh9.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-07-02"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2027-07-02"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "Cavallo. Kubera. Krushnikov.",
+  "theatricalDate": "2027-07-02",
+  "title": "Allegro",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "lOx0lAoz9yw",
+      "name": "I CRUSH YOU 8 | 4K",
+      "official": false,
+      "type": "Clip"
+    },
+    {
+      "key": "jKT8R_Jri8A",
+      "name": "I CRUSH YOU !V: GOOD",
+      "official": false,
+      "type": "Clip"
+    },
+    {
+      "key": "s1OW8nzQ_sk",
+      "name": "I CRUSH YOU III: TIMES!",
+      "official": false,
+      "type": "Clip"
+    },
+    {
+      "key": "CDH4rW8FmsY",
+      "name": "Pikachunes | Nervous | S.K.Films music video",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

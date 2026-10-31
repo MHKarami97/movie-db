@@ -1,0 +1,154 @@
+{
+  "backdropPath": "/6y98EyDVC3cJuzFx8DCxvHYYXR5.jpg",
+  "cast": [
+    {
+      "character": "François",
+      "id": 1346048,
+      "name": "Eric K. Boulianne",
+      "profilePath": "/rZidIbEwjMGkbng8cG8skbDKYnX.jpg"
+    },
+    {
+      "character": "Julie",
+      "id": 2207240,
+      "name": "Catherine Chabot",
+      "profilePath": "/bdQin1vMmV7G7F39jG9Mz0JsNa2.jpg"
+    },
+    {
+      "character": "Suzanne",
+      "id": 1289774,
+      "name": "Florence Blain Mbaye",
+      "profilePath": "/3Zzf3VEUigOlQ0ekEdY0xfy9gel.jpg"
+    },
+    {
+      "character": "Étienne",
+      "id": 1346050,
+      "name": "Étienne Galloy",
+      "profilePath": "/4slzBjhNgoeUHJwtEPQ9C7tal8m.jpg"
+    },
+    {
+      "character": "Maxine",
+      "id": 4809034,
+      "name": "Sarah Chouinard-Poirier",
+      "profilePath": null
+    },
+    {
+      "character": "Louise",
+      "id": 3508176,
+      "name": "Agathe Bellemare-Ledoux",
+      "profilePath": "/yQ9CCcgGUPQmta5NonSgdwddavV.jpg"
+    },
+    {
+      "character": "Lily",
+      "id": 4289573,
+      "name": "Simone Bellemare-Ledoux",
+      "profilePath": "/lrJGJF4yb3PcaI9zmWkduCZ8tsO.jpg"
+    },
+    {
+      "character": "Leila",
+      "id": 2372885,
+      "name": "Ambre Jabrane",
+      "profilePath": "/wCim9BvzKi2sIrJzw7n5A8YxLp3.jpg"
+    },
+    {
+      "character": "Sophie",
+      "id": 237875,
+      "name": "Sophie Letourneur",
+      "profilePath": "/gpgwKBpGKv78UeCnxqrkaNqYNoJ.jpg"
+    },
+    {
+      "character": "Antonin",
+      "id": 2306676,
+      "name": "Antonin Mousseau-Rivard",
+      "profilePath": "/zZIOOiM4PKVWWbqDlGohSfm4bJY.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 20181,
+      "logoPath": "/51PVTqYHBEl5AFJKwjT4uPsslpq.png",
+      "name": "Coop Vidéo de Montréal"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37537634",
+    "wikidataId": "Q135321330"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1403189,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Folichonneries",
+  "overview": "After 16 years together, François and Julie open their relationship to explore sexual adventures and self-discovery. With two kids and their bond at stake, the path proves more complex than expected.",
+  "posterPath": "/q31pAsmK2mlxxEztWzf9OaN0zf2.jpg",
+  "rating": 6.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 101,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Follies",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "i7XGkb8NIw4",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "w1ZfKWzpTt4",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {}
+}
