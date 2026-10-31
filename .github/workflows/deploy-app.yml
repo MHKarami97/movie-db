@@ -43,11 +43,14 @@ jobs:
         run: npm run build:app
 
       - name: Clone Data Branch into Distribution Output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           mkdir -p app/dist/data
-          if git ls-remote --exit-code --heads origin data; then
+          REMOTE_REPO="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git ls-remote --exit-code --heads "$REMOTE_REPO" data; then
             echo "Copying data branch JSON files into dist/data..."
-            git clone --branch data --single-branch --depth 1 "${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}.git" temp_data
+            git clone --branch data --single-branch --depth 1 "$REMOTE_REPO" temp_data
             rm -rf temp_data/.git
             cp -r temp_data/* app/dist/data/ || true
             rm -rf temp_data
