@@ -36,6 +36,7 @@ function getProfile(path: string | null): string {
             height="64"
             loading="lazy"
             decoding="async"
+            referrerpolicy="no-referrer"
             class="h-full w-full object-cover"
           />
           <div v-else class="flex h-full w-full items-center justify-center text-slate-600">

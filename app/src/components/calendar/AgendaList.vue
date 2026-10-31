@@ -77,6 +77,7 @@ function getReleaseTypeLabel(type: string): string {
             :alt="item.title"
             loading="lazy"
             decoding="async"
+            referrerpolicy="no-referrer"
             width="80"
             height="120"
             class="h-full w-full object-cover group-hover:scale-105 transition duration-300"

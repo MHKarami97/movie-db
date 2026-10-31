@@ -7,17 +7,23 @@ import { searchRoute } from './routes/search.js';
 
 const app = new Hono<{ Bindings: WorkerBindings }>();
 
-// Global CORS middleware
+// Global CORS & Cross-Origin-Resource-Policy middleware
 app.use('*', async (c, next) => {
   const allowedOrigin = c.env.ALLOWED_ORIGIN || '*';
   const corsMiddleware = cors({
     origin: allowedOrigin,
     allowMethods: ['GET', 'HEAD', 'OPTIONS'],
-    allowHeaders: ['Content-Type', 'If-None-Match', 'Authorization'],
-    exposeHeaders: ['ETag', 'Cache-Control', 'X-Cache-Status'],
+    allowHeaders: ['Content-Type', 'If-None-Match', 'Authorization', 'Range'],
+    exposeHeaders: ['ETag', 'Cache-Control', 'X-Cache-Status', 'Content-Range'],
     maxAge: 86400
   });
-  return corsMiddleware(c, next);
+  const res = await corsMiddleware(c, next);
+  if (res) {
+    res.headers.set('Cross-Origin-Resource-Policy', 'cross-origin');
+    return res;
+  }
+  c.header('Cross-Origin-Resource-Policy', 'cross-origin');
+  return;
 });
 
 // Health check endpoint

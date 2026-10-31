@@ -8,7 +8,8 @@ on:
 
 permissions:
   contents: write
-  actions: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: sync-data
@@ -17,6 +18,8 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit_step.outputs.changed }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -94,10 +97,8 @@ jobs:
             echo "Successfully updated and pushed data branch."
           fi
 
-      - name: Trigger App Deployment
-        if: steps.commit_step.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          echo "Triggering deploy-app.yml to publish updated data..."
-          gh workflow run deploy-app.yml --ref main || true
+  deploy:
+    needs: sync
+    if: needs.sync.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+    uses: ./.github/workflows/deploy-app.yml
+    secrets: inherit

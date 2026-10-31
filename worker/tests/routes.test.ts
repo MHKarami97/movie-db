@@ -66,4 +66,13 @@ describe('Worker Routes & Validation (Zero-D1)', () => {
     expect(data.status).toBe('ok');
     expect(data.mode).toBe('zero-d1-cache');
   });
+
+  it('handles image preflight OPTIONS request with CORS and CORP headers', async () => {
+    const req = new Request('http://localhost/img/w185/test.jpg', { method: 'OPTIONS' });
+    const res = await worker.fetch(req, dummyEnv, dummyCtx);
+
+    expect(res.status).toBe(204);
+    expect(res.headers.get('Access-Control-Allow-Origin')).toBe('*');
+    expect(res.headers.get('Cross-Origin-Resource-Policy')).toBe('cross-origin');
+  });
 });

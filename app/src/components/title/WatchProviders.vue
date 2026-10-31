@@ -63,6 +63,7 @@ function getLogo(path: string): string {
               width="24"
               height="24"
               loading="lazy"
+              referrerpolicy="no-referrer"
               class="h-6 w-6 rounded-lg object-cover"
             />
             <span class="text-xs font-medium text-slate-200">{{ p.name }}</span>
@@ -85,6 +86,7 @@ function getLogo(path: string): string {
               width="24"
               height="24"
               loading="lazy"
+              referrerpolicy="no-referrer"
               class="h-6 w-6 rounded-lg object-cover"
             />
             <span class="text-xs font-medium text-slate-200">{{ p.name }}</span>
@@ -107,6 +109,7 @@ function getLogo(path: string): string {
               width="24"
               height="24"
               loading="lazy"
+              referrerpolicy="no-referrer"
               class="h-6 w-6 rounded-lg object-cover"
             />
             <span class="text-xs font-medium text-slate-200">{{ p.name }}</span>

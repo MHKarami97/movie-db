@@ -127,7 +127,7 @@ function getPoster(path: string | null): string {
       <div v-if="onlineResults.length > 0" class="space-y-4 pt-6 border-t border-slate-800">
         <h4 class="text-sm font-bold text-amber-400 flex items-center gap-2">
           <SvgIcon name="globe" size="16" />
-          <span>نتایج آنلاین از TMDB:</span>
+          <span>نتایج جستجوی آنلاین:</span>
         </h4>
         <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
           <router-link
@@ -142,6 +142,8 @@ function getPoster(path: string | null): string {
                 :src="getPoster(item.posterPath)"
                 :alt="item.title"
                 loading="lazy"
+                decoding="async"
+                referrerpolicy="no-referrer"
                 class="h-full w-full object-cover group-hover:scale-105 transition duration-300"
               />
               <div v-else class="flex h-full w-full items-center justify-center text-slate-600">

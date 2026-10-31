@@ -5,8 +5,8 @@ export class WorkerClient implements IWorkerClient {
   private workerUrl: string;
 
   constructor(workerUrl = import.meta.env.VITE_WORKER_URL || '') {
-    // If not configured, use empty prefix (relative URL) or default
-    this.workerUrl = workerUrl.endsWith('/') ? workerUrl.slice(0, -1) : workerUrl;
+    const effectiveUrl = workerUrl || '';
+    this.workerUrl = effectiveUrl.endsWith('/') ? effectiveUrl.slice(0, -1) : effectiveUrl;
   }
 
   public getImageUrl(size: string, imagePath: string | null): string {

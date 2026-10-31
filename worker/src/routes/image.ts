@@ -6,6 +6,20 @@ export const imageRoute = new Hono();
 // Strict regex for TMDB image path: must start with slash, followed by valid characters and image extension
 const PATH_REGEX = /^\/[a-zA-Z0-9_\-\.]+\.(jpg|jpeg|png|webp|svg)$/i;
 
+// Preflight CORS handler for images
+imageRoute.options('/img/:size/*', (c) => {
+  return new Response(null, {
+    status: 204,
+    headers: {
+      'Access-Control-Allow-Origin': '*',
+      'Access-Control-Allow-Methods': 'GET, HEAD, OPTIONS',
+      'Access-Control-Allow-Headers': 'Content-Type, If-None-Match, Range',
+      'Access-Control-Max-Age': '86400',
+      'Cross-Origin-Resource-Policy': 'cross-origin'
+    }
+  });
+});
+
 imageRoute.get('/img/:size/*', async (c) => {
   const size = c.req.param('size');
   // Get remainder of wildcard path
@@ -23,7 +37,7 @@ imageRoute.get('/img/:size/*', async (c) => {
   }
 
   const tmdbImageUrl = `${WORKER_CONFIG.tmdbImageBaseUrl}/${size}${cleanPath}`;
-  const cacheKey = new Request(c.req.url, c.req.raw);
+  const cacheKey = new Request(c.req.url, { method: 'GET' });
 
   // Access Cache API
   let cache: Cache | null = null;
@@ -45,21 +59,29 @@ imageRoute.get('/img/:size/*', async (c) => {
           status: 304,
           headers: {
             'Access-Control-Allow-Origin': '*',
+            'Cross-Origin-Resource-Policy': 'cross-origin',
             'Cache-Control': `public, max-age=${WORKER_CONFIG.imageCacheMaxAgeSeconds}, immutable`,
             ETag: cachedEtag
           }
         });
       }
 
-      return cachedResponse;
+      const resHeaders = new Headers(cachedResponse.headers);
+      resHeaders.set('Access-Control-Allow-Origin', '*');
+      resHeaders.set('Cross-Origin-Resource-Policy', 'cross-origin');
+      return new Response(cachedResponse.body, {
+        status: cachedResponse.status,
+        headers: resHeaders
+      });
     }
   }
 
-  // Fetch unmodified bytes from TMDB
+  // Fetch unmodified bytes from TMDB with clean headers
   const tmdbRes = await fetch(tmdbImageUrl, {
     method: 'GET',
     headers: {
-      'User-Agent': 'Cloudflare-Worker-TMDB-Image-Proxy'
+      'User-Agent': 'Cloudflare-Worker-TMDB-Image-Proxy',
+      'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8'
     }
   });
 
@@ -69,6 +91,7 @@ imageRoute.get('/img/:size/*', async (c) => {
       status: tmdbRes.status,
       headers: {
         'Access-Control-Allow-Origin': '*',
+        'Cross-Origin-Resource-Policy': 'cross-origin',
         'Cache-Control': 'no-store'
       }
     });
@@ -78,6 +101,7 @@ imageRoute.get('/img/:size/*', async (c) => {
   if (tmdbRes.status === 404) {
     const notFoundHeaders = new Headers();
     notFoundHeaders.set('Access-Control-Allow-Origin', '*');
+    notFoundHeaders.set('Cross-Origin-Resource-Policy', 'cross-origin');
     notFoundHeaders.set('Cache-Control', `public, max-age=${WORKER_CONFIG.image404CacheMaxAgeSeconds}`);
     const notFoundResponse = new Response('Image not found on TMDB', {
       status: 404,
@@ -93,6 +117,7 @@ imageRoute.get('/img/:size/*', async (c) => {
   // Success 200: store UNMODIFIED bytes with immutable cache header
   const headers = new Headers();
   headers.set('Access-Control-Allow-Origin', '*');
+  headers.set('Cross-Origin-Resource-Policy', 'cross-origin');
   headers.set('Cache-Control', `public, max-age=${WORKER_CONFIG.imageCacheMaxAgeSeconds}, immutable`);
 
   const contentType = tmdbRes.headers.get('content-type');

@@ -104,6 +104,9 @@ export default defineConfig({
             handler: 'StaleWhileRevalidate',
             options: {
               cacheName: 'tmdb-data-cache',
+              cacheableResponse: {
+                statuses: [200]
+              },
               expiration: {
                 maxEntries: 500,
                 maxAgeSeconds: 86400 * 7 // 7 days

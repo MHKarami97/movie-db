@@ -131,6 +131,7 @@ function getPoster(path: string | null): string {
             class="h-full w-full object-cover opacity-25 filter blur-[1px]"
             loading="lazy"
             decoding="async"
+            referrerpolicy="no-referrer"
           />
           <div class="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/80 to-transparent"></div>
         </div>
@@ -147,6 +148,7 @@ function getPoster(path: string | null): string {
               height="336"
               class="h-full w-full object-cover"
               loading="eager"
+              referrerpolicy="no-referrer"
             />
             <div v-else class="flex h-full w-full items-center justify-center text-slate-600">
               <SvgIcon name="calendar" size="48" />
