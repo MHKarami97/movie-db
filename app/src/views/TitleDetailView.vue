@@ -4,7 +4,6 @@ import { useRoute } from 'vue-router';
 import { MediaType, TitleDetail } from '../types/index.js';
 import { DataRepository } from '../services/DataRepository.js';
 import { WorkerClient } from '../services/WorkerClient.js';
-import { JalaliDateService } from '../services/JalaliDateService.js';
 import { PersianUtils } from '../services/PersianUtils.js';
 import { useCountdown } from '../composables/useCountdown.js';
 import { useListStore } from '../stores/listStore.js';
@@ -21,7 +20,6 @@ import AddToListModal from '../components/title/AddToListModal.vue';
 const route = useRoute();
 const dataRepo = new DataRepository();
 const workerClient = new WorkerClient();
-const dateService = new JalaliDateService();
 const listStore = useListStore();
 const settingsStore = useSettingsStore();
 

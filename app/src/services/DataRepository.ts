@@ -158,7 +158,7 @@ export class DataRepository implements IDataRepository {
     return all;
   }
 
-  private getFixtureTitleDetail(type: MediaType, id: number): TitleDetail | null {
+  private getFixtureTitleDetail(_type: MediaType, id: number): TitleDetail | null {
     if (id === 693134) {
       return {
         id: 693134,

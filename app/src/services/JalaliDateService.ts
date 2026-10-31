@@ -1,4 +1,4 @@
-import jalaali from 'jalaali-js';
+import { toJalaali, toGregorian, jalaaliMonthLength, isLeapJalaaliYear } from 'jalaali-js';
 import { CalendarDayCell, IJalaliDateService } from './interfaces.js';
 import { PersianUtils } from './PersianUtils.js';
 
@@ -36,11 +36,11 @@ export class JalaliDateService implements IJalaliDateService {
     } else {
       d = gregorianDate;
     }
-    return jalaali.toJalaali(d);
+    return toJalaali(d);
   }
 
   public toGregorian(jy: number, jm: number, jd: number): { gy: number; gm: number; gd: number } {
-    return jalaali.toGregorian(jy, jm, jd);
+    return toGregorian(jy, jm, jd);
   }
 
   public formatJalali(date: Date | string): string {
@@ -54,12 +54,12 @@ export class JalaliDateService implements IJalaliDateService {
   }
 
   public isLeapYear(jy: number): boolean {
-    return jalaali.isLeapJalaaliYear(jy);
+    return isLeapJalaaliYear(jy);
   }
 
   public getMonthGrid(jy: number, jm: number): CalendarDayCell[] {
-    const daysInMonth = jalaali.jalaaliMonthLength(jy, jm);
-    const firstDayGregorian = jalaali.toGregorian(jy, jm, 1);
+    const daysInMonth = jalaaliMonthLength(jy, jm);
+    const firstDayGregorian = toGregorian(jy, jm, 1);
     const firstDate = new Date(
       firstDayGregorian.gy,
       firstDayGregorian.gm - 1,
@@ -81,11 +81,11 @@ export class JalaliDateService implements IJalaliDateService {
     if (leadingPaddingDays > 0) {
       const prevJm = jm === 1 ? 12 : jm - 1;
       const prevJy = jm === 1 ? jy - 1 : jy;
-      const prevMonthLength = jalaali.jalaaliMonthLength(prevJy, prevJm);
+      const prevMonthLength = jalaaliMonthLength(prevJy, prevJm);
 
       for (let i = leadingPaddingDays - 1; i >= 0; i--) {
         const jDay = prevMonthLength - i;
-        const g = jalaali.toGregorian(prevJy, prevJm, jDay);
+        const g = toGregorian(prevJy, prevJm, jDay);
         const iso = this.formatIsoDate(g.gy, g.gm, g.gd);
         const isFriday = cells.length % 7 === 6;
 
@@ -104,7 +104,7 @@ export class JalaliDateService implements IJalaliDateService {
 
     // 2. Current month days
     for (let day = 1; day <= daysInMonth; day++) {
-      const g = jalaali.toGregorian(jy, jm, day);
+      const g = toGregorian(jy, jm, day);
       const iso = this.formatIsoDate(g.gy, g.gm, g.gd);
       const isToday =
         todayJalali.jy === jy && todayJalali.jm === jm && todayJalali.jd === day;
@@ -129,7 +129,7 @@ export class JalaliDateService implements IJalaliDateService {
       const nextJy = jm === 12 ? jy + 1 : jy;
 
       for (let day = 1; day <= remaining; day++) {
-        const g = jalaali.toGregorian(nextJy, nextJm, day);
+        const g = toGregorian(nextJy, nextJm, day);
         const iso = this.formatIsoDate(g.gy, g.gm, g.gd);
         const isFriday = cells.length % 7 === 6;
 

@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import { computed } from 'vue';
 import { useCalendarStore } from '../../stores/calendarStore.js';
-import { PersianUtils } from '../../services/PersianUtils.js';
 import { JALALI_WEEK_DAYS } from '../../services/JalaliDateService.js';
 import { CalendarDayCell } from '../../services/interfaces.js';
 

@@ -11,7 +11,7 @@ import FilterDrawer from '../components/filter/FilterDrawer.vue';
 
 const route = useRoute();
 const router = useRouter();
-const { loading, isOnlineSearching, results, onlineResults, initIndex, searchOffline, searchOnline } = useSearch();
+const { isOnlineSearching, results, onlineResults, initIndex, searchOffline, searchOnline } = useSearch();
 const filterStore = useFilterStore();
 const workerClient = new WorkerClient();
 

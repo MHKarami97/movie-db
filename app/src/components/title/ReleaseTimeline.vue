@@ -2,7 +2,6 @@
 import { ref, computed } from 'vue';
 import { RegionReleaseDates } from '../../types/index.js';
 import { JalaliDateService } from '../../services/JalaliDateService.js';
-import { PersianUtils } from '../../services/PersianUtils.js';
 
 const props = defineProps<{
   releaseDates: Record<string, RegionReleaseDates>;
