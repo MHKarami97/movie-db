@@ -120,9 +120,9 @@ function getPoster(path: string | null): string {
     </div>
 
     <!-- Main Content -->
-    <div v-else class="space-y-8">
+    <div v-else class="space-y-6 sm:space-y-8">
       <!-- Hero Banner with Backdrop -->
-      <div class="relative rounded-3xl overflow-hidden border border-slate-800 bg-slate-900 shadow-2xl min-h-[360px] md:min-h-[460px] flex items-end">
+      <div class="relative rounded-3xl overflow-hidden border border-slate-800 bg-slate-900 shadow-2xl min-h-[340px] md:min-h-[440px] flex items-end">
         <!-- Backdrop Image with Gradient Overlay -->
         <div v-if="title.backdropPath" class="absolute inset-0 z-0">
           <img
@@ -136,9 +136,9 @@ function getPoster(path: string | null): string {
         </div>
 
         <!-- Banner Content -->
-        <div class="relative z-10 w-full p-6 md:p-8 flex flex-col md:flex-row items-center md:items-end gap-6 md:gap-8">
+        <div class="relative z-10 w-full p-4 sm:p-6 md:p-8 flex flex-col md:flex-row items-center md:items-end gap-5 md:gap-8">
           <!-- Poster -->
-          <div class="w-44 sm:w-56 shrink-0 aspect-[2/3] rounded-2xl overflow-hidden shadow-2xl border-2 border-slate-700/80 bg-slate-800">
+          <div class="w-36 sm:w-48 md:w-56 shrink-0 aspect-[2/3] rounded-2xl overflow-hidden shadow-2xl border-2 border-slate-700/80 bg-slate-800">
             <img
               v-if="title.posterPath"
               :src="getPoster(title.posterPath)"
@@ -154,9 +154,9 @@ function getPoster(path: string | null): string {
           </div>
 
           <!-- Title Details Header -->
-          <div class="flex-1 space-y-3.5 text-center md:text-right">
+          <div class="flex-1 space-y-3 text-center md:text-right w-full min-w-0">
             <!-- Badges Row -->
-            <div class="flex flex-wrap items-center justify-center md:justify-start gap-2">
+            <div class="flex flex-wrap items-center justify-center md:justify-start gap-1.5 sm:gap-2">
               <span
                 class="px-2.5 py-1 rounded-lg text-xs font-bold"
                 :class="title.type === 'movie' ? 'bg-amber-500/20 text-amber-300 border border-amber-500/30' : 'bg-cyan-500/20 text-cyan-300 border border-cyan-500/30'"
@@ -177,27 +177,27 @@ function getPoster(path: string | null): string {
             </div>
 
             <!-- Persian Title & Original Title -->
-            <div>
-              <h1 class="text-2xl sm:text-4xl font-extrabold text-slate-100 tracking-tight leading-tight">
+            <div class="space-y-1">
+              <h1 class="text-xl sm:text-3xl md:text-4xl font-extrabold text-slate-100 tracking-tight leading-snug break-words">
                 {{ title.title }}
               </h1>
-              <p v-if="title.originalTitle !== title.title" class="text-sm sm:text-base text-slate-400 font-medium dir-ltr text-center md:text-right mt-1">
+              <p v-if="title.originalTitle !== title.title" class="text-xs sm:text-sm text-slate-400 font-medium dir-ltr text-center md:text-right truncate">
                 {{ title.originalTitle }}
               </p>
             </div>
 
             <!-- Tagline -->
-            <p v-if="title.tagline" class="text-xs sm:text-sm text-amber-400/80 italic font-medium">
+            <p v-if="title.tagline" class="text-xs sm:text-sm text-amber-400/90 italic font-medium">
               «{{ title.tagline }}»
             </p>
 
             <!-- Actions Row: Add to List, Favorites, Trailer Link -->
-            <div class="flex flex-wrap items-center justify-center md:justify-start gap-3 pt-2">
+            <div class="flex flex-wrap items-center justify-center md:justify-start gap-2 sm:gap-3 pt-2">
               <!-- Add to Favorites Toggle -->
               <button
                 type="button"
                 @click="listStore.toggleFavorite(title.type, title.id)"
-                class="flex items-center gap-2 px-4 py-2.5 rounded-xl text-xs font-bold transition border"
+                class="flex items-center gap-2 px-3.5 py-2 sm:px-4 sm:py-2.5 rounded-xl text-xs font-bold transition border"
                 :class="[
                   listStore.isFavorite(title.type, title.id)
                     ? 'bg-rose-500/20 text-rose-300 border-rose-500/40'
@@ -216,22 +216,22 @@ function getPoster(path: string | null): string {
               <button
                 type="button"
                 @click="showAddModal = true"
-                class="flex items-center gap-2 px-4 py-2.5 rounded-xl border border-slate-700 bg-slate-900/80 hover:bg-slate-800 text-slate-200 text-xs font-bold transition"
+                class="flex items-center gap-2 px-3.5 py-2 sm:px-4 sm:py-2.5 rounded-xl border border-slate-700 bg-slate-900/80 hover:bg-slate-800 text-slate-200 text-xs font-bold transition"
               >
                 <SvgIcon name="bookmark" size="16" />
                 <span>افزودن به لیست...</span>
               </button>
 
-              <!-- Official YouTube Trailer Link (EXTERNAL LINK ONLY, NO EMBED per rules) -->
+              <!-- Official YouTube Trailer Link -->
               <a
                 v-if="primaryTrailer"
                 :href="`https://www.youtube.com/watch?v=${primaryTrailer.key}`"
                 target="_blank"
                 rel="noopener noreferrer"
-                class="flex items-center gap-2 px-4 py-2.5 rounded-xl bg-red-600 hover:bg-red-700 text-white text-xs font-bold transition shadow-lg shadow-red-600/20"
+                class="flex items-center gap-2 px-3.5 py-2 sm:px-4 sm:py-2.5 rounded-xl bg-red-600 hover:bg-red-700 text-white text-xs font-bold transition shadow-lg shadow-red-600/20"
               >
                 <SvgIcon name="play" size="16" className="fill-white" />
-                <span>مشاهده تریلر در یوتیوب</span>
+                <span>مشاهده تریلر</span>
                 <SvgIcon name="external-link" size="12" />
               </a>
             </div>
@@ -242,7 +242,7 @@ function getPoster(path: string | null): string {
       <!-- Live Release Countdown Banner -->
       <div
         v-if="!countdown.isPast"
-        class="flex flex-col sm:flex-row items-center justify-between gap-4 p-4 rounded-2xl border border-amber-500/30 bg-amber-500/10 text-amber-200"
+        class="flex flex-col sm:flex-row items-center justify-between gap-3 p-4 rounded-2xl border border-amber-500/30 bg-amber-500/10 text-amber-200"
       >
         <div class="flex items-center gap-3">
           <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-amber-500/20 text-amber-400">
@@ -256,7 +256,7 @@ function getPoster(path: string | null): string {
           </div>
         </div>
 
-        <div class="text-sm font-extrabold text-amber-300 font-mono bg-slate-950/80 border border-amber-500/30 px-4 py-2 rounded-xl">
+        <div class="text-xs sm:text-sm font-extrabold text-amber-300 font-mono bg-slate-950/80 border border-amber-500/30 px-3.5 py-2 rounded-xl text-center w-full sm:w-auto">
           {{ countdown.formatted }}
         </div>
       </div>
@@ -271,13 +271,13 @@ function getPoster(path: string | null): string {
       </div>
 
       <!-- Overview and Details Grid -->
-      <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 lg:gap-8">
         <!-- Main Description and Timeline (2 cols) -->
         <div class="lg:col-span-2 space-y-6">
           <!-- Overview -->
-          <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-5 space-y-3">
+          <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-4 sm:p-5 space-y-3">
             <h3 class="text-sm font-bold text-slate-100 flex items-center gap-2">
-              <span class="h-2 w-2 rounded-full bg-amber-400"></span>
+              <span class="h-2 w-2 rounded-full bg-amber-400 shrink-0"></span>
               <span>خلاصه داستان</span>
             </h3>
             <p class="text-sm text-slate-300 leading-relaxed font-normal">
@@ -312,7 +312,7 @@ function getPoster(path: string | null): string {
 
         <!-- Sidebar Meta Info (1 col) -->
         <div class="space-y-6">
-          <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-5 space-y-4 text-xs">
+          <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-4 sm:p-5 space-y-4 text-xs overflow-hidden">
             <h3 class="text-sm font-bold text-slate-100 pb-3 border-b border-slate-800">
               مشخصات اثر
             </h3>

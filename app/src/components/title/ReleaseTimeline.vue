@@ -76,22 +76,22 @@ const timelineSteps = computed(() => {
 </script>
 
 <template>
-  <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-5 space-y-4">
-    <div class="flex items-center justify-between">
+  <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-4 sm:p-5 space-y-4 overflow-hidden">
+    <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-3 border-b border-slate-800/60">
       <h3 class="text-sm font-bold text-slate-100 flex items-center gap-2">
-        <span class="h-2 w-2 rounded-full bg-amber-400"></span>
+        <span class="h-2 w-2 rounded-full bg-amber-400 shrink-0"></span>
         <span>خط زمان انتشار و اکران</span>
       </h3>
 
       <!-- Region Switcher -->
-      <div v-if="availableRegions.length > 1" class="flex gap-1 bg-slate-950 p-1 rounded-xl border border-slate-800 text-xs">
+      <div v-if="availableRegions.length > 1" class="flex flex-wrap items-center gap-1 bg-slate-950 p-1 rounded-xl border border-slate-800 text-xs w-fit max-w-full">
         <button
           v-for="reg in availableRegions"
           :key="reg"
           type="button"
           @click="activeRegion = reg"
-          class="px-2.5 py-1 rounded-lg font-medium transition"
-          :class="activeRegion === reg ? 'bg-amber-500 text-slate-950 font-bold' : 'text-slate-400 hover:text-slate-200'"
+          class="px-2.5 py-1 rounded-lg font-medium transition shrink-0"
+          :class="activeRegion === reg ? 'bg-amber-500 text-slate-950 font-bold shadow-sm' : 'text-slate-400 hover:text-slate-200'"
         >
           {{ reg }}
         </button>
@@ -99,14 +99,14 @@ const timelineSteps = computed(() => {
     </div>
 
     <!-- Timeline List -->
-    <div v-if="timelineSteps.length > 0" class="relative pr-4 border-r-2 border-slate-800 space-y-5 my-2">
+    <div v-if="timelineSteps.length > 0" class="relative border-r-2 border-slate-800 space-y-5 my-3 mr-2 sm:mr-3">
       <div
         v-for="step in timelineSteps"
         :key="step.key"
-        class="relative flex flex-col sm:flex-row sm:items-center justify-between gap-1 group"
+        class="relative pr-5 flex flex-col sm:flex-row sm:items-center justify-between gap-1 group"
       >
-        <!-- Circle Marker -->
-        <span class="absolute -right-[23px] top-1.5 h-3.5 w-3.5 rounded-full border-2 border-slate-900 bg-amber-400 group-hover:scale-125 transition"></span>
+        <!-- Circle Marker centered on line -->
+        <span class="absolute -right-[7px] top-1.5 h-3 w-3 rounded-full border-2 border-slate-900 bg-amber-400 group-hover:scale-125 transition"></span>
 
         <div>
           <span class="text-sm font-bold text-slate-200 block">{{ step.label }}</span>

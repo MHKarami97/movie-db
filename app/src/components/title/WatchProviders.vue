@@ -24,22 +24,22 @@ function getLogo(path: string): string {
 </script>
 
 <template>
-  <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-5 space-y-4">
-    <div class="flex items-center justify-between">
+  <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-4 sm:p-5 space-y-4 overflow-hidden">
+    <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-3 border-b border-slate-800/60">
       <h3 class="text-sm font-bold text-slate-100 flex items-center gap-2">
-        <span class="h-2 w-2 rounded-full bg-cyan-400"></span>
+        <span class="h-2 w-2 rounded-full bg-cyan-400 shrink-0"></span>
         <span>پلتفرم‌های تماشا و استریم آنلاین</span>
       </h3>
 
       <!-- Region Switcher -->
-      <div v-if="availableRegions.length > 1" class="flex gap-1 bg-slate-950 p-1 rounded-xl border border-slate-800 text-xs">
+      <div v-if="availableRegions.length > 1" class="flex flex-wrap items-center gap-1 bg-slate-950 p-1 rounded-xl border border-slate-800 text-xs w-fit max-w-full">
         <button
           v-for="reg in availableRegions"
           :key="reg"
           type="button"
           @click="activeRegion = reg"
-          class="px-2.5 py-1 rounded-lg font-medium transition"
-          :class="activeRegion === reg ? 'bg-cyan-500 text-slate-950 font-bold' : 'text-slate-400 hover:text-slate-200'"
+          class="px-2.5 py-1 rounded-lg font-medium transition shrink-0"
+          :class="activeRegion === reg ? 'bg-cyan-500 text-slate-950 font-bold shadow-sm' : 'text-slate-400 hover:text-slate-200'"
         >
           {{ reg }}
         </button>
