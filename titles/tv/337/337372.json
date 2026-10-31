@@ -1,0 +1,192 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Eşref Tek",
+      "id": 1252061,
+      "name": "Çağatay Ulusoy",
+      "profilePath": "/6anWOhuVKq64zoL2YCEN043B3SP.jpg"
+    },
+    {
+      "character": "Kadir Yanık",
+      "id": 1258725,
+      "name": "Görkem Sevindik",
+      "profilePath": "/1228W2nEHGpOhvjkq8qRtlD1Bzu.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 125897,
+      "logoPath": "/n4s8xYaH85zkTESfVhbjbX5Bsj3.png",
+      "name": "Tims&B"
+    }
+  ],
+  "countries": [
+    {
+      "code": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "digitalDate": "2027-01-01",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-01",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-08",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-15",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-22",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-29",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-05",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-12",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-02-19",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt47723123"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 337372,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "tr",
+      "name": "Turkish"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-01",
+    "episodeNumber": 1,
+    "id": 7907979,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Eşref Tek",
+  "overview": "Set before the events of Eşref Rüya, Eşref Tek follows Eşref’s early years in the criminal underworld and his alliance with Kadir. The series explores the past, choices, and relationships that shaped Eşref into the man he would become.",
+  "posterPath": "/tgGsACYKoMAtclxXkBkHhl3EvYa.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-01"
+    },
+    "CN": {
+      "tv": "2027-01-01"
+    },
+    "GB": {
+      "tv": "2027-01-01"
+    },
+    "US": {
+      "tv": "2027-01-01"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-01",
+      "episodeCount": 8,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Planned",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Esref Tek",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

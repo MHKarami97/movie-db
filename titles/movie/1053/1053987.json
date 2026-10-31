@@ -1,0 +1,255 @@
+{
+  "backdropPath": "/s3GnOB5SgsZge6nJpwOYMV3B0zD.jpg",
+  "cast": [
+    {
+      "character": "Eve",
+      "id": 59263,
+      "name": "Diora Baird",
+      "profilePath": "/iOVBvwBhcHIZuLZT3S9tJQ6mbTT.jpg"
+    },
+    {
+      "character": "Danni",
+      "id": 1058507,
+      "name": "Marem Hassler",
+      "profilePath": "/eNZhyFIBTdxZ9uvdfXcdYyxEo1a.jpg"
+    },
+    {
+      "character": "Penny",
+      "id": 1231526,
+      "name": "Candis Cayne",
+      "profilePath": "/s0JDLERtTEWiNKe9VrU69iKdf8J.jpg"
+    },
+    {
+      "character": "Aurora: Witch of the Web",
+      "id": 32030,
+      "name": "Guinevere Turner",
+      "profilePath": "/1j0RtYIayM7LOsT8bispVHsKBia.jpg"
+    },
+    {
+      "character": "Chief Rick Toth",
+      "id": 144820,
+      "name": "David Fumero",
+      "profilePath": "/wF8JKkBKw2fAOTfMitizZaxxFQH.jpg"
+    },
+    {
+      "character": "Robbie",
+      "id": 93796,
+      "name": "Marc Price",
+      "profilePath": "/mSUnS7Vcdq096ksscR1m6dJJubx.jpg"
+    },
+    {
+      "character": "Todd",
+      "id": 167847,
+      "name": "Paul Fox",
+      "profilePath": "/vuTRbUGsLCO7r3I3K8GXJ64YVDf.jpg"
+    },
+    {
+      "character": "Fred",
+      "id": 99427,
+      "name": "Ford Austin",
+      "profilePath": null
+    },
+    {
+      "character": "Rosie",
+      "id": 3804319,
+      "name": "Alexandra Barton",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 99064,
+      "logoPath": null,
+      "name": "FilmMcQueen"
+    },
+    {
+      "id": 187127,
+      "logoPath": null,
+      "name": "Prickly Pears Films"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2025-10-01",
+  "externalIds": {
+    "imdbId": "tt19409102"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1053987,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Witchy Ways",
+  "overview": "When a skeptical woman retreats to a secluded cabin believed to be magical, she falls for its enigmatic witch owner, until dark spells, buried secrets, and a restless ghost threaten their chance at love.",
+  "posterPath": "/aE6UNLmcpjaHGrLVsBjeF2OPoiS.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-10-01"
+    }
+  },
+  "runtime": 98,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Love is the most dangerous spell of all.",
+  "theatricalDate": null,
+  "title": "Witchy Ways",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Q5QykzIxdYM",
+      "name": "Witchy Ways - Movie TRAILER | LGBTQ+ | Wolfe Video",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1053987-witchy-ways/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 332,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango at Home Free"
+        },
+        {
+          "id": 1963,
+          "logoPath": "/n6E9OeoQicCDd43PnLsMpVIVYFK.png",
+          "name": "Xumo Play"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1053987-witchy-ways/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Belém",
+      "id": 1819655,
+      "name": "Heslaine Vieira",
+      "profilePath": "/sRnPxHf0CdQ79TBRgtrfRQ2CeFj.jpg"
+    },
+    {
+      "character": "Maya",
+      "id": 1486796,
+      "name": "Vitória Strada",
+      "profilePath": "/iSs1SohTcxgmGITvfIIUhPPZe2m.jpg"
+    },
+    {
+      "character": "Kika",
+      "id": 1437139,
+      "name": "Dani Calabresa",
+      "profilePath": "/l6HbHImwc7wcxSwYeGcm0gKg6v6.jpg"
+    },
+    {
+      "character": "Noah",
+      "id": 1786985,
+      "name": "Rodrigo Simas",
+      "profilePath": "/rgzPVcXeQIeM2f2yZnUBxZmSExH.jpg"
+    },
+    {
+      "character": "",
+      "id": 4453128,
+      "name": "Diogo Novaes",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 145609,
+      "name": "Alessandra Negrini",
+      "profilePath": "/zFanfnX3uw7EIJmkzxgHUhHNiiS.jpg"
+    },
+    {
+      "character": "",
+      "id": 3294922,
+      "name": "Belo",
+      "profilePath": "/ilc80ygcC5KkuXioDL0nm1n2S1V.jpg"
+    },
+    {
+      "character": "",
+      "id": 228010,
+      "name": "Edson Celulari",
+      "profilePath": "/6vwdsO3wG26DatBgkVyPY9OjnDL.jpg"
+    },
+    {
+      "character": "Valentim",
+      "id": 1474067,
+      "name": "Marcelo Médici",
+      "profilePath": "/xPihIC5En1QaPvZfG8nOo5peNo6.jpg"
+    },
+    {
+      "character": "",
+      "id": 50362,
+      "name": "Thiago Martins",
+      "profilePath": "/f79YvNXdOEQrEcev7NVnn32O8Bw.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2027-03-08",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-03-08",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 330862,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-03-08",
+    "episodeNumber": 1,
+    "id": 7642962,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Elas que Lutem!",
+  "overview": "",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-03-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-03-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-03-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-03-08",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-03-08"
+    },
+    "CN": {
+      "tv": "2027-03-08"
+    },
+    "GB": {
+      "tv": "2027-03-08"
+    },
+    "US": {
+      "tv": "2027-03-08"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-03-08",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Elas que Lutem!",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

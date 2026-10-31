@@ -1,0 +1,180 @@
+{
+  "backdropPath": "/yXGEmt7Fyofr2I3ccWLrZ3tohVq.jpg",
+  "cast": [
+    {
+      "character": "Emma",
+      "id": 1355149,
+      "name": "Rebecca Dalton",
+      "profilePath": "/dTsw3WJImhlgsajfzQvkIxqyYD7.jpg"
+    },
+    {
+      "character": "Nate",
+      "id": 558900,
+      "name": "Stephen Huszar",
+      "profilePath": "/l5gfPIcngMlJ92IuKRjeFv1Dkta.jpg"
+    },
+    {
+      "character": "Diane",
+      "id": 1585650,
+      "name": "Precious Chong",
+      "profilePath": "/6eH5IgwiRkL6nNoz5fVDOCBgT70.jpg"
+    },
+    {
+      "character": "Richard Kent",
+      "id": 5010027,
+      "name": "Michael Dickson",
+      "profilePath": "/fweQ6EXHpKjnnVuAvjHZFpNHOuP.jpg"
+    },
+    {
+      "character": "Linda",
+      "id": 4165354,
+      "name": "Mylene Carino",
+      "profilePath": "/2NYrSux6oieMyJIbl8IAjdYjqeo.jpg"
+    },
+    {
+      "character": "Nancy",
+      "id": 1390369,
+      "name": "Lawrene Denkers",
+      "profilePath": "/uDFdK0PVtAHrWZavx8TbatCxRK1.jpg"
+    },
+    {
+      "character": "Sonya",
+      "id": 4289377,
+      "name": "Monica Rodriguez Knox",
+      "profilePath": "/2Ela65jtumxkIP9wMY0BEh2rLES.jpg"
+    },
+    {
+      "character": "Mrs. Langford",
+      "id": 2774322,
+      "name": "Leslie Ann Coles",
+      "profilePath": "/2EOydiiQRzSqTforgS8M28WMCMM.jpg"
+    },
+    {
+      "character": "Colonial Tour Guide",
+      "id": 5757869,
+      "name": "Jacqueline Ashton",
+      "profilePath": "/65lh5yF8rLUwd3Yp38TjIUt0Tgi.jpg"
+    },
+    {
+      "character": "Buyer",
+      "id": 1716602,
+      "name": "Tazito Garcia",
+      "profilePath": "/llKNE7c8S7OjeOKv61Le158aOkU.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 53015,
+      "logoPath": "/tWxubAjwO1QtLLWdnUR1bjS1vvf.png",
+      "name": "Hallmark Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt40336528"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1645241,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "To Philly with Love",
+  "overview": "A teacher and an archivist decode Revolutionary War-era love letters, taking them on a thrilling journey through Philadelphia where they uncover history-and discover a love story of their own.",
+  "posterPath": "/hr7AI4AnkucXPaYdoMXN2CSjMax.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2026-04-18"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "To Philly with Love",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 7,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 2528,
+          "logoPath": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+          "name": "YouTube TV"
+        },
+        {
+          "id": 290,
+          "logoPath": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "id": 2058,
+          "logoPath": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "id": 1746,
+          "logoPath": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1645241-to-philly-with-love/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "backdropPath": "/69TLqW1BeyP3bAPf18GpGqjTb00.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 1561053,
+      "name": "Alex Jones",
+      "profilePath": "/5LXNcZyegpjuw48F2NHOB0VmVGW.jpg"
+    },
+    {
+      "character": "Self - Host",
+      "id": 215820,
+      "name": "Ronan Keating",
+      "profilePath": "/h0MIN503XGWS5EA7vpSoSxf79ek.jpg"
+    },
+    {
+      "character": "Self - Host",
+      "id": 1908668,
+      "name": "Roman Kemp",
+      "profilePath": "/pBUoWBX2W30tGVrOlS41Phre2wZ.jpg"
+    },
+    {
+      "character": "Self - Host",
+      "id": 1228700,
+      "name": "Lauren Laverne",
+      "profilePath": "/usuAWDHvFUejT9QkyZofWDh8hUX.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 80893,
+      "logoPath": "/enAjeGPTtVw8pt7HSzZYBXPfbOY.png",
+      "name": "BBC Studios"
+    },
+    {
+      "id": 214718,
+      "logoPath": "/3kybnp1s4DAlJw2kLAx9G7l9Bz7.png",
+      "name": "BBC Studios Productions"
+    },
+    {
+      "id": 256568,
+      "logoPath": "/iBUFozGDrkTFhML6lqupyRce9Cx.png",
+      "name": "BBC Studios Factual Entertainment Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2006-08-14",
+  "episodes": {
+    "21": [
+      {
+        "airDate": "2026-02-03",
+        "episodeNumber": 1,
+        "name": "3/2/26",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "bbctheoneshow",
+    "imdbId": "tt0844203",
+    "instagramId": "bbctheoneshow",
+    "twitterId": "BBCTheOneShow",
+    "wikidataId": "Q7755050"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 1514,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-02-03",
+    "episodeNumber": 1,
+    "id": 7151471,
+    "name": "3/2/26",
+    "overview": "",
+    "seasonNumber": 21
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "The One Show",
+  "overview": "A topical magazine-style daily television programme broadcast live on BBC One.",
+  "posterPath": "/7QpzCej3Lwrsnx5A8FePYsUCIzf.jpg",
+  "rating": 4.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2006-08-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2006-08-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2006-08-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2006-08-14",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2006-08-14"
+    },
+    "CN": {
+      "tv": "2006-08-14"
+    },
+    "GB": {
+      "tv": "2006-08-14"
+    },
+    "US": {
+      "tv": "2006-08-14"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2006-08-14",
+      "episodeCount": 20,
+      "name": "2006",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2007-07-09",
+      "episodeCount": 118,
+      "name": "2007",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2008-07-07",
+      "episodeCount": 108,
+      "name": "2008",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2009-07-06",
+      "episodeCount": 121,
+      "name": "2009",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2010-07-12",
+      "episodeCount": 112,
+      "name": "2010",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2011-01-10",
+      "episodeCount": 30,
+      "name": "2011",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2011-01-10",
+      "episodeCount": 9,
+      "name": "2012",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2013-01-07",
+      "episodeCount": 2,
+      "name": "2013",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2014-01-06",
+      "episodeCount": 3,
+      "name": "2014",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2015-01-05",
+      "episodeCount": 1,
+      "name": "2015",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2016-01-04",
+      "episodeCount": 1,
+      "name": "2016",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2017-01-02",
+      "episodeCount": 1,
+      "name": "2017",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2018-01-08",
+      "episodeCount": 1,
+      "name": "2018",
+      "overview": "",
+      "posterPath": "/pXIhE4Hbjc7pFGnpIHHCtIEAQLe.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2019-01-07",
+      "episodeCount": 5,
+      "name": "2019",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2020-01-06",
+      "episodeCount": 5,
+      "name": "2020",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2021-01-04",
+      "episodeCount": 5,
+      "name": "2021",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2022-01-04",
+      "episodeCount": 1,
+      "name": "2022",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2023-01-03",
+      "episodeCount": 3,
+      "name": "2023",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2024-01-02",
+      "episodeCount": 101,
+      "name": "2024",
+      "overview": "",
+      "posterPath": "/xnPyqNC9a8bfkABNqHcIQWAFl88.jpg",
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2025-01-06",
+      "episodeCount": 122,
+      "name": "2025",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2026-02-03",
+      "episodeCount": 1,
+      "name": "2026",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The One Show",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 32,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 38,
+          "logoPath": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
+          "name": "BBC iPlayer"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/1514-the-one-show/watch?locale=GB",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "backdropPath": "/mdBElS5YjpZPkB9DNYjgxwWgXcv.jpg",
+  "cast": [
+    {
+      "character": "Jude Derry",
+      "id": 4180390,
+      "name": "Irene Balmes",
+      "profilePath": null
+    },
+    {
+      "character": "Aegan Cash",
+      "id": 4143084,
+      "name": "Gleb Abrosimov",
+      "profilePath": "/7FxcYwxyp5t5RfP0wuRXelhVcd5.jpg"
+    },
+    {
+      "character": "Adrik Cash",
+      "id": 4520353,
+      "name": "Pau Simon",
+      "profilePath": "/6oyosrmBUREw3Nq9cwKXlkn9pJe.jpg"
+    },
+    {
+      "character": "Aleixandre Cash",
+      "id": 2869815,
+      "name": "Pablo Scapigliati",
+      "profilePath": "/8VDS2NnHHoinvCuqi9MdEJaUwVx.jpg"
+    },
+    {
+      "character": "Adrian Cash",
+      "id": 102228,
+      "name": "Asier Etxeandia",
+      "profilePath": "/pi0zU6nfgUk7tulpgZaVtVZqHBY.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 149950,
+      "logoPath": null,
+      "name": "Federation Spain"
+    },
+    {
+      "id": 210099,
+      "logoPath": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios"
+    },
+    {
+      "id": 286761,
+      "logoPath": null,
+      "name": "WEBTOON Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-20",
+  "externalIds": {
+    "imdbId": "tt18351090"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1568060,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Perfectos mentirosos",
+  "overview": "",
+  "posterPath": "/6bQ0YqBV61wlBHArIyksxs0FoT6.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-20",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-20"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Perfect Liars",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "50v6k3LUcxU",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,564 @@
+{
+  "backdropPath": "/vTk6KQRLomlkMG5xqQIrzvyQB8z.jpg",
+  "cast": [
+    {
+      "character": "Self - Vocals, Piano, Guitar",
+      "id": 2413513,
+      "name": "Billie Eilish",
+      "profilePath": "/4K69OtW6PVQ8gDozNB9Ja4j5iQS.jpg"
+    },
+    {
+      "character": "Self - Vocals, Piano, Guitar",
+      "id": 1396403,
+      "name": "FINNEAS",
+      "profilePath": "/ojMZneTb6EgupJ4w6gyGvKqTJYM.jpg"
+    },
+    {
+      "character": "Self - Drums",
+      "id": 4588079,
+      "name": "Andrew Marshall",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Bass",
+      "id": 6208327,
+      "name": "Solomon Smith",
+      "profilePath": "/2yqzKBoRXZDlLmC8AUFYO1mcRdF.jpg"
+    },
+    {
+      "character": "Self - Keys, Guitar",
+      "id": 6208328,
+      "name": "Abraham Nouri",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Keys, Guitar",
+      "id": 6208332,
+      "name": "Tom Crouch",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Background Vocals",
+      "id": 6208337,
+      "name": "Jane Horner",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Background Vocals",
+      "id": 6208339,
+      "name": "Ava Horner",
+      "profilePath": null
+    },
+    {
+      "character": "Self (uncredited)",
+      "id": 2710,
+      "name": "James Cameron",
+      "profilePath": "/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg"
+    },
+    {
+      "character": "Self (uncredited)",
+      "id": 1219812,
+      "name": "Maggie Baird",
+      "profilePath": "/3ovNQYZrWTHDybETzMITYvwBqo3.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 118381,
+      "logoPath": "/jXGMxHQREYFoojxN9BaLBbdkglQ.png",
+      "name": "Interscope Films"
+    },
+    {
+      "id": 281504,
+      "logoPath": "/dA2j4MdFjmcs9T8Vwpx6RtKRMRM.png",
+      "name": "Darkroom Records"
+    },
+    {
+      "id": 282842,
+      "logoPath": "/25ZDfKhnnloS2VmLtEMxNLNgOnS.png",
+      "name": "Lightstorm Earth"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-06-23",
+  "externalIds": {
+    "facebookId": "hitmehardandsoftmovie",
+    "imdbId": "tt39018643",
+    "instagramId": "hitmehardandsoftmovie",
+    "twitterId": "Billie3DMovie",
+    "wikidataId": "Q137204783"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 46,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1515899,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
+  "overview": "Captured during Billie Eilish's sold-out world tour, a concert experience from one of the most celebrated and successful artists of her generation, presented in immersive 3D.",
+  "posterPath": "/zfFvltKHntGBupFuubx3r61v48e.jpg",
+  "rating": 8.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-08"
+    },
+    "US": {
+      "digitalDate": "2026-06-23",
+      "gapDays": 46,
+      "theatricalDate": "2026-05-08"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-05-08"
+    },
+    "US": {
+      "digital": "2026-06-23",
+      "theatrical": "2026-05-08"
+    }
+  },
+  "runtime": 114,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Billie Eilish and James Cameron reinvent the concert experience.",
+  "theatricalDate": "2026-05-08",
+  "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "S7YEPt01aSs",
+      "name": "Billie Eilish's Movie Night Essentials",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "X0V_vkAWjzg",
+      "name": "\"WILDFLOWER\" Extended Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "RUDxlrAJ3Jo",
+      "name": "Come With Me",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6DddLiwmQ9Y",
+      "name": "Quick Fire",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "F5J8SGMclOw",
+      "name": "Guess Who Has Tickets",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "3Mqm_WwhgTE",
+      "name": "Due to popular demand... HIT ME HARD AND SOFT: THE TOUR (LIVE IN 3D) continues its cinema run!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "qBoUybgvon0",
+      "name": "What Movie",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "rIzkmrGw9jY",
+      "name": "Dress Like Billie",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "iUplHZ3B0IM",
+      "name": "Tearing Up",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "tVXVArRaMFg",
+      "name": "Favourite Moment",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "TLSfSSKXlzM",
+      "name": "Favourite Part",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "GOsF4Qx5L0E",
+      "name": "Why Manchester?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "HjkRS2jSc6E",
+      "name": "Bucket",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "o4YhycCTP_c",
+      "name": "Like She's There",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "YjyPM3fJ3nA",
+      "name": "Jump",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "l0LKjpdYqJI",
+      "name": "Assignment Was Understood",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "RHlIIgT47nE",
+      "name": "Run Fast",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "0OLBpLp0bjg",
+      "name": "Watching Movie",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Dl1u4PfITgw",
+      "name": "Then And Now",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6PZo-bHNDeg",
+      "name": "Run",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "TYVHecBQ1I0",
+      "name": "Get Ready",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "E96Zjuvp1aM",
+      "name": "Billie Eilish on Directing with James Cameron",
+      "official": false,
+      "type": "Featurette"
+    },
+    {
+      "key": "F8FHEBnc9_g",
+      "name": "3D Glasses",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "HGJD2Jsuy1I",
+      "name": "POV UK Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "EYbcOBgCO5Q",
+      "name": "Confetti UK Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "eTvVjFUZLfk",
+      "name": "Fans UK Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "tiANb0CY-a8",
+      "name": "UK Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "gz8GtcGnUbo",
+      "name": "Billie Eilish UK Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "O2p98eKtdHY",
+      "name": "Fans at the UK Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "HG2fP9mAjMg",
+      "name": "Surprise UK Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "cyXdXxaw3O8",
+      "name": "James Cameron UK Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "FuKGgbhG06g",
+      "name": "Billie Eilish UK Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "TC9uwqCW1-8",
+      "name": "Surprise",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "tIcEYQxQcXk",
+      "name": "INTRO OUT NOW",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "XE88x5p0ghY",
+      "name": "Collaboration Featurette",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "MgyVVDBmJdc",
+      "name": "Get Tickets Now",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Wf1Td70RrOw",
+      "name": "Tickets",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "t5DDgfxJ1do",
+      "name": "Get Tickets",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ZdbvRl9-7gs",
+      "name": "Hey UK",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "8GvWR-9aieQ",
+      "name": "Tickets for HIT ME HARD AND SOFT: THE TOUR (LIVE IN 3D) are on sale now.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9ElURjcuWLQ",
+      "name": "Official Trailer 2",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "grs2hNHXKdQ",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "Zho_F5oMwwA",
+      "name": "BILLIE EILISH - HIT ME HARD AND SOFT: THE TOUR (LIVE IN 3D)",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 87,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1515899-billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 2784,
+          "logoPath": "/aaFIYn2NGPCo0rpLiWokbvNqNJd.png",
+          "name": "JustWatch TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2303,
+          "logoPath": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "id": 2616,
+          "logoPath": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+          "name": "Paramount Plus Essential"
+        },
+        {
+          "id": 582,
+          "logoPath": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        }
+      ],
+      "free": [
+        {
+          "id": 2616,
+          "logoPath": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+          "name": "Paramount Plus Essential"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1515899-billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 2784,
+          "logoPath": "/aaFIYn2NGPCo0rpLiWokbvNqNJd.png",
+          "name": "JustWatch TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

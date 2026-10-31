@@ -1,0 +1,210 @@
+{
+  "backdropPath": "/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+  "cast": [
+    {
+      "character": "Anika",
+      "id": 3965870,
+      "name": "Naomi Baker",
+      "profilePath": "/myRSStJz4Fwl4REI3jyoeDaNTyN.jpg"
+    },
+    {
+      "character": "Carousel",
+      "id": 2101957,
+      "name": "Jay Reeves",
+      "profilePath": "/s1qMftsc4xuFrQijxYXSc3U4Nnr.jpg"
+    },
+    {
+      "character": "Cathy",
+      "id": 1652527,
+      "name": "Tamberla Perry",
+      "profilePath": "/wOgL2t31LoC98TgEJzq4xv0brnx.jpg"
+    },
+    {
+      "character": "Trina",
+      "id": 1848253,
+      "name": "Karen Obilom",
+      "profilePath": "/egdF0iqd4i1toSpJLcC7eQNkSim.jpg"
+    },
+    {
+      "character": "Lisa",
+      "id": 3779032,
+      "name": "Jasmine Sargent",
+      "profilePath": "/4C70IMpMsV9tXZg21oP7tyajdxo.jpg"
+    },
+    {
+      "character": "Denise",
+      "id": 1615562,
+      "name": "Danielle Moné Truitt",
+      "profilePath": "/5LasbbMDuons2DGGFATC8J89l2t.jpg"
+    },
+    {
+      "character": "Quinn",
+      "id": 1172814,
+      "name": "Lucky Johnson",
+      "profilePath": "/bGrvIMpWYJCqRckHyNPLeTO9ymf.jpg"
+    },
+    {
+      "character": "Donovan",
+      "id": 5808915,
+      "name": "Cornell Young IV",
+      "profilePath": "/pRy7ZJkjlLnejySjoT9ENQNAWoZ.jpg"
+    },
+    {
+      "character": "Dr. Scott",
+      "id": 173990,
+      "name": "Gena Shaw",
+      "profilePath": "/9NjtrrBkJfKz9tkDU6BghOrTssO.jpg"
+    },
+    {
+      "character": "Keisha",
+      "id": 3363537,
+      "name": "Tracy Tolliver",
+      "profilePath": "/w7dBiOmeMwqchhfupcdiFrSqDL0.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 3096,
+      "logoPath": "/fkZTZ4veYYr3lwr2riVrVAOfeqD.png",
+      "name": "Tyler Perry Studios"
+    },
+    {
+      "id": 178464,
+      "logoPath": "/tyHnxjQJLH6h4iDQKhN5iqebWmX.png",
+      "name": "Netflix"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-02",
+  "externalIds": {
+    "imdbId": "tt36429458",
+    "wikidataId": "Q141410306"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1458857,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Doing Life",
+  "overview": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
+  "posterPath": "/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-02",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-02"
+    }
+  },
+  "runtime": 112,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Choose a love that breaks all chains.",
+  "theatricalDate": null,
+  "title": "Doing Life",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "zrOtmDQawas",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 114,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1458857-doing-life/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1458857-doing-life/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1458857-doing-life/watch?locale=US",
+      "rent": []
+    }
+  }
+}

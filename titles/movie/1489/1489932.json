@@ -1,0 +1,136 @@
+{
+  "backdropPath": "/wJwTuwy1ZajIA6ivGjoe0Ee08XN.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1875844,
+      "name": "LISA",
+      "profilePath": "/qI8vV0rh9XWC7FObzEGDRSg4PBN.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 247510,
+      "logoPath": null,
+      "name": "Sony Music Vision"
+    },
+    {
+      "id": 58637,
+      "logoPath": "/ow51X3ZjwBSE2UeYOF9ya8xfiI9.png",
+      "name": "Tremolo Productions"
+    },
+    {
+      "id": 235843,
+      "logoPath": null,
+      "name": "Salt Water Productions"
+    },
+    {
+      "id": 309020,
+      "logoPath": "/A4yEdVCWd2srw9k7lcQUG7JzUh0.png",
+      "name": "LLOUD"
+    },
+    {
+      "id": 130261,
+      "logoPath": "/zx6BU2xpIZYKMSFY3bCQVGEfFVu.png",
+      "name": "RCA Records"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "SG",
+      "name": "Singapore"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37108970",
+    "wikidataId": "Q141155722"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1489932,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "th",
+      "name": "Thai"
+    },
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "originalTitle": "Always Lalisa",
+  "overview": "Documentary following global superstar LISA during a transformative year away from BLACKPINK, the K-pop phenomenon that made her one of the world's most recognizable performers. Documenting a year of risk, reinvention, and self-discovery as LISA begins to define her next chapter.",
+  "posterPath": "/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-12"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-12"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-12"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-10-12"
+    },
+    "GB": {
+      "theatrical": "2026-10-12"
+    },
+    "US": {
+      "theatricalLimited": "2026-10-12"
+    }
+  },
+  "runtime": 98,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-12",
+  "title": "Always Lalisa",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "s6NUEu1x64I",
+      "name": "LISA - Always Lalisa (Official Trailer)",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 1,
+  "watchProviders": {}
+}

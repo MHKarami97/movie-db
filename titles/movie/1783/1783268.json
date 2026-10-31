@@ -1,0 +1,178 @@
+{
+  "backdropPath": "/8O4JRME9XyFGRcaNbJ2HIffuYDR.jpg",
+  "cast": [
+    {
+      "character": "Sandra",
+      "id": 2993340,
+      "name": "Jazlyn Nicolette Sward",
+      "profilePath": "/p3CzKK3vVE8SYmv3AJWj3gcJlhR.jpg"
+    },
+    {
+      "character": "Beth",
+      "id": 1793239,
+      "name": "Kelly Lynn Reiter",
+      "profilePath": "/pdgxxTot78HiJbk8NcyK3qodiXl.jpg"
+    },
+    {
+      "character": "Viktor",
+      "id": 90117,
+      "name": "James Chalke",
+      "profilePath": "/83XksAzD5WoJHErDBgjYQ3NrVM6.jpg"
+    },
+    {
+      "character": "Isabelle",
+      "id": 77740,
+      "name": "Spice Williams-Crosby",
+      "profilePath": "/vE0MAnHzB3c3wl3S96zLVOlCA8d.jpg"
+    },
+    {
+      "character": "Jordon",
+      "id": 1672439,
+      "name": "Luke Gregory Crosby",
+      "profilePath": "/dBjkRovv9WPYL4p4II7LRNtS68L.jpg"
+    },
+    {
+      "character": "Lisa",
+      "id": 2051214,
+      "name": "Courtney Akbar",
+      "profilePath": "/iGRQ6EAmUTqVzV2qRcEtJGcIFKt.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2026-10-27",
+  "externalIds": {
+    "imdbId": "tt14374794"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1783268,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Teenage Vampire",
+  "overview": "When a straightlaced young woman moves into a chic bungalow in the Hollywood Hills she imagines nothing but raging parties and romance in her future. But Sandra's new dream house quickly becomes a den of horrors after she discovers her landlords are ancient vampires and her first party guests are the victims of a bloody massacre. As the night grows more sinister and twisted, Sandra unearths the most terrifying secret of all.",
+  "posterPath": "/hhbcC4lUcaU7YW3Miq4XzUVEJY8.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-27"
+    }
+  },
+  "runtime": 85,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Welcome to their home.",
+  "theatricalDate": null,
+  "title": "The Teenage Vampire",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "fPwXkk-REKs",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1783268-the-teenage-vampire/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

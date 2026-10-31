@@ -1,0 +1,154 @@
+{
+  "backdropPath": "/73zhCjhVg80kIotpaBFhs6vnXw0.jpg",
+  "cast": [
+    {
+      "character": "Anne",
+      "id": 227454,
+      "name": "Alicia Vikander",
+      "profilePath": "/lZu8qiTwiQIN96cuptgqMCCaUtg.jpg"
+    },
+    {
+      "character": "Leo",
+      "id": 509344,
+      "name": "Luca Marinelli",
+      "profilePath": "/9Tmzfhp9hY6Zouo8KtHcyzuKfdf.jpg"
+    },
+    {
+      "character": "Ava",
+      "id": 4038,
+      "name": "Susan Sarandon",
+      "profilePath": "/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg"
+    },
+    {
+      "character": "",
+      "id": 1765199,
+      "name": "Ann Akinjirin",
+      "profilePath": "/o4Tbudvow3rzgxmlilnRral5fpr.jpg"
+    },
+    {
+      "character": "Edward",
+      "id": 523748,
+      "name": "Peter Coonan",
+      "profilePath": "/4CIPj53v871Gwwyean91BhXesfW.jpg"
+    },
+    {
+      "character": "Consuelo",
+      "id": 2251146,
+      "name": "Antonia Fotaras",
+      "profilePath": "/kHqUvKxRTcAerPZmEi7ywhYrLvP.jpg"
+    },
+    {
+      "character": "",
+      "id": 1469394,
+      "name": "Aomi Muyock",
+      "profilePath": "/iU05t946KkwRInlBnxq5SQLBemS.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 3040,
+      "logoPath": "/aZww3B7RCFAMV1qrDZDrdeB8qcI.png",
+      "name": "Versus Production"
+    },
+    {
+      "id": 1533,
+      "logoPath": "/bMD3Zv15TujMXJwvqoTFY6Scexx.png",
+      "name": "Indigo Film"
+    },
+    {
+      "id": 155990,
+      "logoPath": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt9395802",
+    "wikidataId": "Q140715020"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1576934,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Echo Chamber",
+  "overview": "Leo and Ava chase each other—coming close, drifting apart, and searching for their way back. They cannot let go, nor break free. Through the rooms, Ava’s voice echoes across time, carrying to the surface what endures—and what can no longer be held back.",
+  "posterPath": "/a2hxeonmr6A5SGD6qwIr18I9mGZ.jpg",
+  "rating": 5.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-10-17"
+    }
+  },
+  "runtime": 123,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Echo Chamber",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Hc-6dHlRDek",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "MCCok6xVbDI",
+      "name": "Official International Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 19,
+  "watchProviders": {}
+}

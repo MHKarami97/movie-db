@@ -1,0 +1,293 @@
+{
+  "backdropPath": "/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
+  "cast": [
+    {
+      "character": "Jon",
+      "id": 10989,
+      "name": "Rupert Grint",
+      "profilePath": "/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg"
+    },
+    {
+      "character": "Saga",
+      "id": 2420419,
+      "name": "Seidi Haarla",
+      "profilePath": "/o2D0bPFPpiUSWRvpmBxwuRd5hGk.jpg"
+    },
+    {
+      "character": "Taru",
+      "id": 147733,
+      "name": "Pamela Tola",
+      "profilePath": "/q9WTI0X1j1IAZKSIHkTd7kXpBRn.jpg"
+    },
+    {
+      "character": "Saga's Mother",
+      "id": 1200385,
+      "name": "Pirkko Saisio",
+      "profilePath": "/vGioze117HDNe4pvp5b124UrU60.jpg"
+    },
+    {
+      "character": "Jon's Mother",
+      "id": 1219229,
+      "name": "Rebecca Lacey",
+      "profilePath": "/5ml7gmrTVKnBcyah8W8mcnPwSPO.jpg"
+    },
+    {
+      "character": "Jon's Father",
+      "id": 7321,
+      "name": "John Thomson",
+      "profilePath": "/p7oShR4yImaPszUh3ywnJEu5a5.jpg"
+    },
+    {
+      "character": "Anna",
+      "id": 6327347,
+      "name": "Silvia Saloranta",
+      "profilePath": null
+    },
+    {
+      "character": "Saga's Colleague",
+      "id": 1982057,
+      "name": "Satu Tuuli Karhu",
+      "profilePath": "/ne2VKc91JmVb2LeckjJqW2Wfc1T.jpg"
+    },
+    {
+      "character": "Saga's Colleague",
+      "id": 148334,
+      "name": "Amira Khalifa",
+      "profilePath": "/x8KHQbDiLSmqkipYVGAuYebO3Jl.jpg"
+    },
+    {
+      "character": "Saga's Colleague",
+      "id": 6327348,
+      "name": "Johanna Kuuva",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 106557,
+      "logoPath": "/i6mhfVriXTap9whFMrc8guJNODR.png",
+      "name": "Elokuvayhtiö Komeetta"
+    },
+    {
+      "id": 137610,
+      "logoPath": "/gNNiV7xHCmOnJtUPZXJ9sC8HyKC.png",
+      "name": "Getaway Films"
+    },
+    {
+      "id": 107356,
+      "logoPath": null,
+      "name": "BlueLight"
+    },
+    {
+      "id": 267380,
+      "logoPath": "/eQgIeNXtTUARWviqtEHLcvp0H5R.png",
+      "name": "Filmai LT"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FI",
+      "name": "Finland"
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-07-31",
+  "externalIds": {
+    "imdbId": "tt34383465",
+    "wikidataId": "Q131372717"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 964849,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fi",
+      "name": "Finnish"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Yön lapsi",
+  "overview": "In Finnish forest, Saga and her husband Jon embark on a new chapter as parents. But Saga's joy is overshadowed by a chilling suspicion about their newborn, unbeknownst to Jon, causing a rift as she alone grapples with the disturbing truth.",
+  "posterPath": "/cF1g9qtuRyATaZ75O6zRop2zmfZ.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-20",
+      "gapDays": 21,
+      "theatricalDate": "2026-10-30"
+    },
+    "US": {
+      "digitalDate": "2026-07-31",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-11-20",
+      "theatrical": "2026-10-30"
+    },
+    "US": {
+      "digital": "2026-07-31"
+    }
+  },
+  "runtime": 92,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Nightborn",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "dWePsu_Kd9c",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 169,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/964849-yon-lapsi/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1854,
+          "logoPath": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 635,
+          "logoPath": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+          "name": "AMC+ Roku Premium Channel"
+        },
+        {
+          "id": 526,
+          "logoPath": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+          "name": "AMC+"
+        },
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/964849-yon-lapsi/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

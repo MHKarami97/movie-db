@@ -1,0 +1,109 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 1834148,
+      "name": "Lapisara Intarasut",
+      "profilePath": "/zGNQQWRnv0b0lmHrl4DufYufn2F.jpg"
+    },
+    {
+      "character": "",
+      "id": 5923572,
+      "name": "Panthita Jencharoentham",
+      "profilePath": "/ucIfsPkxeu6n0VnnjK7xKnaSdSf.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2028-10-01",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2028-10-01",
+        "episodeNumber": 1,
+        "name": "1",
+        "overview": "Adapted from the web novel \"Phantha Wan\" (พันธะหวาน) by Flower of Memory (ดอกไม้แห่งความทรงจำ)",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793990790150,
+  "gapDays": null,
+  "genres": [],
+  "id": 341215,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2028-10-01",
+    "episodeNumber": 1,
+    "id": 8082999,
+    "name": "1",
+    "overview": "Adapted from the web novel \"Phantha Wan\" (พันธะหวาน) by Flower of Memory (ดอกไม้แห่งความทรงจำ)",
+    "seasonNumber": 1
+  },
+  "originalTitle": "พันธะหวาน",
+  "overview": "Sweet Bond",
+  "posterPath": "/wPP1pvEom331zir9E2Biq6YDdEC.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2028-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2028-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2028-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2028-10-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2028-10-01"
+    },
+    "CN": {
+      "tv": "2028-10-01"
+    },
+    "GB": {
+      "tv": "2028-10-01"
+    },
+    "US": {
+      "tv": "2028-10-01"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2028-10-01",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Planned",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Sweet Bond",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

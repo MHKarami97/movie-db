@@ -1,0 +1,200 @@
+{
+  "backdropPath": "/tYGuI1GH0c2vEA15EgCN7LFw2eX.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 776,
+      "name": "Eddie Murphy",
+      "profilePath": "/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+    },
+    {
+      "character": "Self - Announcer",
+      "id": 3763977,
+      "name": "Andia Winslow",
+      "profilePath": "/xJtBlyGEZxxHiy57SiMYvFNLpFA.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 5281,
+      "name": "Spike Lee",
+      "profilePath": "/2KOHXgk2uoRXl6u7V9xpAIo3uay.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 4169,
+      "name": "Dave Chappelle",
+      "profilePath": "/hDVe67wjmjtbOTzDrFaJfcobcE.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2632,
+      "name": "Chris Rock",
+      "profilePath": "/5lILFeBvX3sC0EfbHhrvMEc7bPD.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 78029,
+      "name": "Martin Lawrence",
+      "profilePath": "/y3SQzIPUPJpdueb1DkbTYph68nk.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 44994,
+      "name": "Arsenio Hall",
+      "profilePath": "/8oqVGysLVXkWlTOWIWkWIbL4i2q.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 18746,
+      "name": "Stevie Wonder",
+      "profilePath": "/oJIkkcW2urvaej7ib9mJJFmFWBO.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 55638,
+      "name": "Kevin Hart",
+      "profilePath": "/byiNydUlM6oP8diA7WMvYbNM7a1.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 12073,
+      "name": "Mike Myers",
+      "profilePath": "/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 12226,
+      "logoPath": "/5PJ3JaGTCvF7CjbjQ7bivae2cHJ.png",
+      "name": "AFI"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-05-31",
+  "externalIds": {
+    "imdbId": "tt41300402"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1677574,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "AFI Life Achievement Award: A Tribute to Eddie Murphy",
+  "overview": "Comedy trailblazer Eddie Murphy celebrates his legendary film career in this star-studded tribute filmed live in Los Angeles.",
+  "posterPath": "/pxWhmE1NDCXsxDbLV1UYALVMlMk.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-31",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-05-31"
+    }
+  },
+  "runtime": 83,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "AFI Life Achievement Award: A Tribute to Eddie Murphy",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "etaJr-Mf0ME",
+      "name": "Sneak Peek",
+      "official": true,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1677574-afi-life-achievement-award-a-tribute-to-eddie-murphy/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1677574-afi-life-achievement-award-a-tribute-to-eddie-murphy/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1677574-afi-life-achievement-award-a-tribute-to-eddie-murphy/watch?locale=US",
+      "rent": []
+    }
+  }
+}

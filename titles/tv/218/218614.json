@@ -1,0 +1,113 @@
+{
+  "backdropPath": "/mQ704tiajawX24Xn1i1IT4NLLy5.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 2707700,
+      "name": "Peter Klien",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "AT",
+      "name": "Austria"
+    }
+  ],
+  "digitalDate": "2019-09-12",
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 218614,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-23",
+    "episodeNumber": 175,
+    "id": 7088283,
+    "name": "Episode 175",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-06",
+    "episodeNumber": 176,
+    "id": 7088288,
+    "name": "Episode 176",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Gute Nacht Österreich",
+  "overview": "",
+  "posterPath": "/sgFJeldLkPxYs9oBLJO1KG0E6B2.jpg",
+  "rating": 8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2019-09-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2019-09-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2019-09-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2019-09-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2019-09-12"
+    },
+    "CN": {
+      "tv": "2019-09-12"
+    },
+    "GB": {
+      "tv": "2019-09-12"
+    },
+    "US": {
+      "tv": "2019-09-12"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2019-09-12",
+      "episodeCount": 185,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Gute Nacht Österreich",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 1,
+  "watchProviders": {}
+}

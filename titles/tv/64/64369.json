@@ -1,0 +1,163 @@
+{
+  "backdropPath": "/1eUNe8eP5GnEL6RLgPLSVOiVTvU.jpg",
+  "cast": [
+    {
+      "character": "진행자",
+      "id": 3028280,
+      "name": "Jung Sun-hee",
+      "profilePath": "/4uv6JEHDLt7jNiYOl3g1aLYO1tI.jpg"
+    },
+    {
+      "character": "진행자",
+      "id": 1350138,
+      "name": "Shin Dong-yup",
+      "profilePath": "/iMzzz78MnoBpzrVyjMnG6DqkfmZ.jpg"
+    },
+    {
+      "character": "진행자",
+      "id": 1619570,
+      "name": "Tony An",
+      "profilePath": "/sNMkQmafV2IE06JtAUc4vnkG532.jpg"
+    },
+    {
+      "character": "",
+      "id": 1547207,
+      "name": "JOY",
+      "profilePath": "/4S14P69iASzrsAPaSJqBlh07hj0.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 38369,
+      "logoPath": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+      "name": "Seoul Broadcasting System"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2001-05-06",
+  "externalIds": {
+    "imdbId": "tt25605188",
+    "wikidataId": "Q12581964"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "id": 64369,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-25",
+    "episodeNumber": 1293,
+    "id": 7996652,
+    "name": "Episode 1293",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-01",
+    "episodeNumber": 1294,
+    "id": 8036422,
+    "name": "Episode 1294",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "TV 동물농장",
+  "overview": "",
+  "posterPath": "/7FZZHXxlujrtq3EUkP78tm5aVkX.jpg",
+  "rating": 7.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2001-05-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2001-05-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2001-05-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2001-05-06",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2001-05-06"
+    },
+    "CN": {
+      "tv": "2001-05-06"
+    },
+    "GB": {
+      "tv": "2001-05-06"
+    },
+    "US": {
+      "tv": "2001-05-06"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2001-05-06",
+      "episodeCount": 1294,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/2SDZ1GnwH5kAxxyNCBPtKyGHbCi.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "TV Animal Farm",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 4,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 575,
+          "logoPath": "/t4tushezwJkXCposaC73oZTwF5a.png",
+          "name": "OnDemandKorea"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/64369-tv/watch?locale=US",
+      "rent": []
+    }
+  }
+}

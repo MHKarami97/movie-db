@@ -1,0 +1,182 @@
+{
+  "backdropPath": "/tFP1ckHdNhrv8NK3nXF7L5sNngm.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 2514413,
+      "name": "Clint Patterson",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6564854,
+      "name": "Bob Heironimus",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 1495207,
+      "name": "Bob Gimlin",
+      "profilePath": "/bxMF862tnYD1D3F9YUaXqpbw1Z3.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6564856,
+      "name": "Vaile Thompson",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6564859,
+      "name": "Bill Munns",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 1482430,
+      "name": "Jeffrey Meldrum",
+      "profilePath": "/9sRaFjpG62R6ReYFreTEBaxqZRy.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6565089,
+      "name": "Teresa Brooks",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6565091,
+      "name": "Sandy Collier",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6565092,
+      "name": "Larry Lund",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 246299,
+      "logoPath": null,
+      "name": "The McCaw"
+    },
+    {
+      "id": 12142,
+      "logoPath": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+      "name": "XYZ Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-20",
+  "externalIds": {
+    "facebookId": "people",
+    "imdbId": "tt31457111",
+    "instagramId": "capturing_bigfoot",
+    "wikidataId": "Q138683716"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1629356,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Capturing Bigfoot",
+  "overview": "On October 20, 1967, Roger Patterson captured 60 seconds of film showing a creature walking through the Northern California woods—footage that became the most analyzed and debated in history. Fifty-seven years later, a reel of 16mm film discovered in a safe changes everything, revealing the untold story behind the world's greatest mystery, told for the first time by Patterson's own son and the people who were there.",
+  "posterPath": "/t1ACTBkvJu6RrSmWIwOvmGvDbi1.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-20",
+      "gapDays": 0,
+      "theatricalDate": "2026-10-20"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-20",
+      "premiere": "2026-03-19",
+      "theatricalLimited": "2026-10-20"
+    }
+  },
+  "runtime": 103,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-20",
+  "title": "Capturing Bigfoot",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "aEOzQTdjVYc",
+      "name": "CAPTURING BIGFOOT | Official Trailer | XYZ Films",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "2MdQ69Za2yI",
+      "name": "Capturing Bigfoot 2026 Trailer",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 4,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1629356-capturing-bigfoot/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    }
+  }
+}

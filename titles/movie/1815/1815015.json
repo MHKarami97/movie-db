@@ -1,0 +1,71 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [],
+  "countries": [
+    {
+      "code": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793654174010,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1815015,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "cs",
+      "name": "Czech"
+    }
+  ],
+  "originalTitle": "Palindrom",
+  "overview": "Natan, a young man with a strange disorder that affects his perception of time, remembers his future but is gradually losing his past. An atmospheric story about memory, identity, and the search for meaning in a world where cause and effect no longer make sense.",
+  "posterPath": "/oOgpT0xtVB8rJHFpgjWppIqV8Um.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 56,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "Who is Natan?",
+  "theatricalDate": null,
+  "title": "Palindrome",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

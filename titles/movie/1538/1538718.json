@@ -1,0 +1,183 @@
+{
+  "backdropPath": "/lUUzdpdlQiYno9rFrQ4EJOACQy5.jpg",
+  "cast": [
+    {
+      "character": "Self (archive footage)",
+      "id": 2106,
+      "name": "Walt Disney",
+      "profilePath": "/xtnOuQtUHv2Pu0ryhsqGKpAPCmK.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 93708,
+      "name": "Art Linkletter",
+      "profilePath": "/jtNTGnWgfcrNjby5nCVdZpcBAT.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 77158,
+      "name": "Irene Dunne",
+      "profilePath": "/kDc4dRJm90WgXORggca2vpa7XR5.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 2789533,
+      "name": "Harriet Burns",
+      "profilePath": null
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 1512424,
+      "name": "Marty Sklar",
+      "profilePath": null
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 67630,
+      "name": "Roy Edward Disney",
+      "profilePath": "/pI6OMBEwKJXv8Xy6vFHqV9jr91k.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 7125,
+      "name": "Robert Cummings",
+      "profilePath": "/4L1MmYlUWLr0HKFRBAtunGorxDm.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 1782528,
+      "name": "Diane Disney",
+      "profilePath": "/gAsuzWCNtlrq9AZveGJhlsbMbGn.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 6253792,
+      "name": "Milt Albright",
+      "profilePath": null
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 4013758,
+      "name": "John Hencher",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 124308,
+      "logoPath": "/1AsI0LqpKLz6zBjtKSLAbdNK8T0.png",
+      "name": "Iwerks & Co."
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-01-22",
+  "externalIds": {
+    "imdbId": "tt39308381",
+    "wikidataId": "Q137771918"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1538718,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Disneyland Handcrafted",
+  "overview": "Oscar and Emmy nominated filmmaker Leslie Iwerks returns with an all-new Disney documentary giving viewers an up-close look at the dedication, effort, and passion that was required to realize a dream that would go on to inspire millions around the world.",
+  "posterPath": "/81szv19zvs5fGqXtWau6tXzfC4T.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-01-22",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-01-22"
+    }
+  },
+  "runtime": 78,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Through rare archival footage, experience the labor and love that built one man's impossible dream.",
+  "theatricalDate": null,
+  "title": "Disneyland Handcrafted",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "sFOJeloXWc8",
+      "name": "Inside Disneyland Handcrafted: Leslie Iwerks on Family's Legacy, Archives & Filmmaking Magic",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "7rP3FVnGtfg",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 33,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1538718-disneyland-handcrafted/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1538718-disneyland-handcrafted/watch?locale=US",
+      "rent": []
+    }
+  }
+}

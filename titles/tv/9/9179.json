@@ -1,0 +1,379 @@
+{
+  "backdropPath": "/mMJ6lKsjgOcuZKxNYlt2hIA070B.jpg",
+  "cast": [
+    {
+      "character": "Main Host",
+      "id": 129233,
+      "name": "Eyal Kitzis",
+      "profilePath": "/aKqNnXdWyu3Hiyq80PoGRxGBnj1.jpg"
+    },
+    {
+      "character": "Various",
+      "id": 129246,
+      "name": "Mariano Idelman",
+      "profilePath": "/ZNBUPgU8NwyYXCk5q0h9Rz0NYd.jpg"
+    },
+    {
+      "character": "Various",
+      "id": 129240,
+      "name": "Alma Zack",
+      "profilePath": "/oNl3WP45xLd3PXm33UW8Jv1gT7Y.jpg"
+    },
+    {
+      "character": "Various",
+      "id": 129234,
+      "name": "Eli Finish",
+      "profilePath": "/emN6VhU8z9UtHOpl4vHruZeuqZZ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 33245,
+      "logoPath": "/tIrB3XUYchCVDVg0lZ1yG0Djqa0.png",
+      "name": "Keshet Broadcasting"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IL",
+      "name": "Israel"
+    }
+  ],
+  "digitalDate": "2003-11-02",
+  "episodes": {
+    "24": [
+      {
+        "airDate": "2026-10-13",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-20",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-27",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-04",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "EretzNehederet.Keshet",
+    "imdbId": "tt0385411",
+    "instagramId": "eretznehederet",
+    "twitterId": "eretz_nehederet",
+    "wikidataId": "Q2910877"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 9179,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "he",
+      "name": "Hebrew"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-27",
+    "episodeNumber": 3,
+    "id": 8024259,
+    "name": "Episode 3",
+    "overview": "",
+    "seasonNumber": 24
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-04",
+    "episodeNumber": 4,
+    "id": 8024271,
+    "name": "Episode 4",
+    "overview": "",
+    "seasonNumber": 24
+  },
+  "originalTitle": "ארץ נהדרת",
+  "overview": "An Israeli satire show featuring satirical references to current affairs of the past week through parodies of the people involved, as well as the thoughts of recurring characters. One of the most watched and influential shows on Israeli TV.",
+  "posterPath": "/lzc1arU7a6qFDpNisLuoJK4R3N6.jpg",
+  "rating": 7.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2003-11-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2003-11-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2003-11-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2003-11-02",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2003-11-02"
+    },
+    "CN": {
+      "tv": "2003-11-02"
+    },
+    "GB": {
+      "tv": "2003-11-02"
+    },
+    "US": {
+      "tv": "2003-11-02"
+    }
+  },
+  "runtime": 60,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2009-09-24",
+      "episodeCount": 3,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2003-11-02",
+      "episodeCount": 16,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/dQAeFRhg7lgJn4u4lOKLUpmOot5.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2004-11-07",
+      "episodeCount": 23,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/ardTLtSo22A5RXBy64G63K92IY4.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2005-11-04",
+      "episodeCount": 21,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/o8TpdelaoDG4dlUagoP4vpSFAKO.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2006-12-01",
+      "episodeCount": 16,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/4ejlQNRe2eBoEPwEbEIH1ASnbVE.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2008-01-06",
+      "episodeCount": 14,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/vgWBIiSY5QY2FRJ0CY5ZFGeWAm7.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2008-12-23",
+      "episodeCount": 9,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/wnwhg7ku7X0llOFDWueMkSI4AfK.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2010-01-01",
+      "episodeCount": 14,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/rNWYmlPjL2fi2IpeQIORhY65YHm.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2010-12-24",
+      "episodeCount": 24,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/qaSJbQaq8R3Q6PLQhF4cDDWEREv.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2012-01-23",
+      "episodeCount": 14,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/7hAN2zqYZvpV7cgc3Y7ljkV8PIB.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2012-12-24",
+      "episodeCount": 14,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/b1zykt60Rqre5MBPmkQZqogPoji.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2014-01-03",
+      "episodeCount": 14,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2015-01-19",
+      "episodeCount": 23,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2016-01-28",
+      "episodeCount": 25,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2017-02-19",
+      "episodeCount": 14,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2017-11-01",
+      "episodeCount": 28,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2019-01-16",
+      "episodeCount": 21,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2020-01-08",
+      "episodeCount": 30,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2020-12-23",
+      "episodeCount": 21,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2021-11-10",
+      "episodeCount": 20,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2022-09-21",
+      "episodeCount": 15,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2023-10-25",
+      "episodeCount": 22,
+      "name": "Season 21",
+      "overview": "Season 21 of Eretz Nehederet premiered on October 25, 2023 as a result of the war.",
+      "posterPath": "/99GHF8AMf6kNlI4evPP3cinIbWa.jpg",
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2024-11-06",
+      "episodeCount": 22,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": "/eMqVr0pxtdpeKoMRNhguDwM0jYq.jpg",
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2025-10-22",
+      "episodeCount": 17,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": "/wITk7FzpYFIqYXlGVnn40y1vwze.jpg",
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2026-10-13",
+      "episodeCount": 4,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": "/iqap0BUdU8g0oZOgGnIPAHzN4mS.jpg",
+      "seasonNumber": 24
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Eretz Nehederet",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 10,
+  "watchProviders": {}
+}

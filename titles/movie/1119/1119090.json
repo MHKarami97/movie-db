@@ -1,0 +1,232 @@
+{
+  "backdropPath": "/pZr3484MENVj3m7toTUk7Cw4bnW.jpg",
+  "cast": [
+    {
+      "character": "Francisca Imelda / Frankelda (voice)",
+      "id": 3386069,
+      "name": "Mireya Mendoza",
+      "profilePath": "/cdXLLB9iA5Sk0oONgrljr9K722o.jpg"
+    },
+    {
+      "character": "Herneval (voice)",
+      "id": 3386070,
+      "name": "Arturo Mercado Jr.",
+      "profilePath": "/aLNkQw9j3efOrYQ4FypkbjfwnpW.jpg"
+    },
+    {
+      "character": "Procustes (voice)",
+      "id": 3386072,
+      "name": "Luis Leonardo Suarez",
+      "profilePath": "/tPpAPhd3X14Wow73KgWBca8MBd2.jpg"
+    },
+    {
+      "character": "Reina Veritena (voice)",
+      "id": 2513025,
+      "name": "Gaby Cárdenas",
+      "profilePath": null
+    },
+    {
+      "character": "Rey Ficturo (voice)",
+      "id": 4177020,
+      "name": "Beto Castillo",
+      "profilePath": "/v2AohkP83DjtaZWs4g1UvKO95k9.jpg"
+    },
+    {
+      "character": "Abuela / Tololina (voice)",
+      "id": 5391645,
+      "name": "Magda Giner",
+      "profilePath": "/oiS9eJGN91mzvf0iyGD4oPRczzV.jpg"
+    },
+    {
+      "character": "Ceimuth (voice)",
+      "id": 4177017,
+      "name": "Carlos Segundo",
+      "profilePath": "/A5ErOFO68BnBjjAT28dvb3AXhZ0.jpg"
+    },
+    {
+      "character": "Mitélitas (voice)",
+      "id": 3491556,
+      "name": "Idzi Dutkiewicz",
+      "profilePath": "/pcqmyvTmz1naOGyNbcBpkTRD4dX.jpg"
+    },
+    {
+      "character": "Veritena (voice)",
+      "id": 2513025,
+      "name": "Gaby Cárdenas",
+      "profilePath": null
+    },
+    {
+      "character": "Totolina (canto) (voice)",
+      "id": 3563806,
+      "name": "Anahí Allue",
+      "profilePath": "/mX7yBJx0Uaje6yZey7IU3gWQzC7.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 113122,
+      "logoPath": "/b0aKMzmFidLiDMh2uJHBMtopwp2.png",
+      "name": "Cinema Fantasma"
+    },
+    {
+      "id": 89326,
+      "logoPath": "/uJ7GGajJ7bKsq2GQxhRnzO8Xair.png",
+      "name": "Cine Vendaval"
+    },
+    {
+      "id": 29608,
+      "logoPath": "/tYK5BZqUMCeUsfkiYQ8vjorg9Ci.png",
+      "name": "Woo Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "digitalDate": "2026-06-12",
+  "externalIds": {
+    "imdbId": "tt36639986",
+    "wikidataId": "Q123050446"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1119090,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Soy Frankelda",
+  "overview": "A gifted young writer in 19th-century Mexico journeys into her subconscious and comes face to face with characters from her own spooky stories.",
+  "posterPath": "/uaqDBPmUM2TOrf1RWThVh5MEOc6.jpg",
+  "rating": 8.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-06-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-12",
+      "gapDays": 0,
+      "theatricalDate": "2026-06-12"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-06-12"
+    },
+    "US": {
+      "digital": "2026-06-12",
+      "premiere": "2025-10-19",
+      "theatricalLimited": "2026-06-12"
+    }
+  },
+  "runtime": 104,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "What you imagine has long been imagining you.",
+  "theatricalDate": "2026-06-12",
+  "title": "I Am Frankelda",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "diRwnGRr-Ko",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 129,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1119090-soy-frankelda/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1119090-soy-frankelda/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1119090-soy-frankelda/watch?locale=US",
+      "rent": []
+    }
+  }
+}

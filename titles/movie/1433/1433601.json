@@ -1,0 +1,193 @@
+{
+  "backdropPath": "/cX7F226WqkQ7Ly2GHEdIuGaai0u.jpg",
+  "cast": [
+    {
+      "character": "Warne / Oneorother",
+      "id": 549520,
+      "name": "Elliott Tittensor",
+      "profilePath": "/mpQkECu7DfcdkkwxVU0W1IRmXHN.jpg"
+    },
+    {
+      "character": "Arthur / Otherorone",
+      "id": 1227875,
+      "name": "Luke Tittensor",
+      "profilePath": "/1KuzpG8Wkw6AzOdG3mWNmrX5ADR.jpg"
+    },
+    {
+      "character": "Noll",
+      "id": 30433,
+      "name": "Neil Maskell",
+      "profilePath": "/12dDCWSE8GXrhnzHuaEWxNJFfrN.jpg"
+    },
+    {
+      "character": "General Alman",
+      "id": 120092,
+      "name": "Matthew Dylan Roberts",
+      "profilePath": "/ec9b5xAJ6fnH19LGxobFNgVg13T.jpg"
+    },
+    {
+      "character": "Mamma",
+      "id": 1817076,
+      "name": "Camilla Waldman",
+      "profilePath": "/vqepyzrayCXgXLz7qI6zlkICxS8.jpg"
+    },
+    {
+      "character": "Mother",
+      "id": 1171655,
+      "name": "Catriona Andrew",
+      "profilePath": "/eAxGcGduOfbNznYsAiDxkBne63w.jpg"
+    },
+    {
+      "character": "Administrator",
+      "id": 1154524,
+      "name": "Johan Baird",
+      "profilePath": null
+    },
+    {
+      "character": "Aide",
+      "id": 82190,
+      "name": "Robert Hobbs",
+      "profilePath": "/bTAi1h6oS2KC80HJAzeHN1IpT5T.jpg"
+    },
+    {
+      "character": "Politician",
+      "id": 1844699,
+      "name": "Fiona Ramsay",
+      "profilePath": "/m03IAYOBWEFKNWF8LEyRQvxR9Np.jpg"
+    },
+    {
+      "character": "Senator",
+      "id": 77685,
+      "name": "Michael Richard",
+      "profilePath": "/eUhWP9iWncvJIKozaPG3TheoMCK.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 158407,
+      "logoPath": "/zUj7hFnsY8y1hVPfiZYnDtcGTHe.png",
+      "name": "2AM"
+    },
+    {
+      "id": 288,
+      "logoPath": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film"
+    },
+    {
+      "id": 253382,
+      "logoPath": "/et1gI7544LhOctHAm9d0EnX8RFP.png",
+      "name": "Magna Studios"
+    },
+    {
+      "id": 168282,
+      "logoPath": "/mO481qJ4RmFhPtv36qIbUbGc0LE.png",
+      "name": "Such Content"
+    },
+    {
+      "id": 253383,
+      "logoPath": null,
+      "name": "Helekan Pictures"
+    },
+    {
+      "id": 253384,
+      "logoPath": "/1RuluRPQSSImoaq1EMGEPKrDzBf.png",
+      "name": "Prospect Avenue"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt29630535",
+    "wikidataId": "Q135436960"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1433601,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Straight Circle",
+  "overview": "A pair of enemy soldiers stationed on a remote border in a vast featureless desert descend into a state of profound disorientation after forgetting which side of the border is which. As they grapple with their identities, loyalties, and the absurdity of their situation, their isolation slowly gives way to an unfathomable nightmare that will blur the line between friend and foe.",
+  "posterPath": "/xltwRuJo3WdqsCRLb4Qeymktzam.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-01-08"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-12-11"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-06-21"
+    },
+    "GB": {
+      "premiere": "2025-10-17",
+      "theatrical": "2027-01-08"
+    },
+    "US": {
+      "premiere": "2025-10-24",
+      "theatrical": "2026-12-11"
+    }
+  },
+  "runtime": 108,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-12-11",
+  "title": "Straight Circle",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "rv5FRyz3DXE",
+      "name": "Straight Circle - Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

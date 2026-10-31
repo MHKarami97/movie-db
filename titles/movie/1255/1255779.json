@@ -1,0 +1,172 @@
+{
+  "backdropPath": "/hPAgArD5mjp2LgZEJ9wUbrPU67W.jpg",
+  "cast": [
+    {
+      "character": "Clémence",
+      "id": 2112198,
+      "name": "Pauline Clément",
+      "profilePath": "/nHAaTn6N7yIFWxcgwylIGZDLiC6.jpg"
+    },
+    {
+      "character": "Paul",
+      "id": 73394,
+      "name": "Arthur Dupont",
+      "profilePath": "/kdBKt1uLmuIuHaPm3uG7yfOiDe.jpg"
+    },
+    {
+      "character": "Bianca",
+      "id": 999406,
+      "name": "Émilie Caen",
+      "profilePath": "/inBbVbSWtYd0I3VjQR9wsrrCGmA.jpg"
+    },
+    {
+      "character": "Bernard",
+      "id": 1631566,
+      "name": "Loïc Legendre",
+      "profilePath": "/TNK4kkxmOF1N5p67KPhhA3itOt.jpg"
+    },
+    {
+      "character": "Quentin",
+      "id": 1451520,
+      "name": "Quentin Dolmaire",
+      "profilePath": "/vHHMEJAOpr8xz36p7YnHrFDBCxx.jpg"
+    },
+    {
+      "character": "Darius",
+      "id": 1441242,
+      "name": "Thomas Scimeca",
+      "profilePath": "/r1x8gzVgMPi4xEnUBckYbNEHG22.jpg"
+    },
+    {
+      "character": "Le voyant",
+      "id": 21769,
+      "name": "Bruno Podalydès",
+      "profilePath": "/a8dEHSgIqIOjnl6YsAv6cSf1Nz.jpg"
+    },
+    {
+      "character": "Michel",
+      "id": 62444,
+      "name": "François Chattot",
+      "profilePath": "/yexQlUQ01hkLX4juhlFC8rbbmMV.jpg"
+    },
+    {
+      "character": "Karin Viard",
+      "id": 13688,
+      "name": "Karin Viard",
+      "profilePath": "/quIomRrFBxXq32K5MBuvaTR3xBk.jpg"
+    },
+    {
+      "character": "Tristan",
+      "id": 1901015,
+      "name": "Pierre Gommé",
+      "profilePath": "/cbe8C6KdMM0L77xCkfImYzX8VFk.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 143013,
+      "logoPath": "/jw70p4qxgNHwnSFeYHMqSZpGe0N.png",
+      "name": "Les Films de la Capitaine"
+    },
+    {
+      "id": 65744,
+      "logoPath": "/6d5Yp9AnX8tuz15MEsRnLk9fQ1b.png",
+      "name": "La Féline Films"
+    },
+    {
+      "id": 23577,
+      "logoPath": "/2e69chGou2s3oizXcL36hnT2W1j.png",
+      "name": "Karé Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33034931",
+    "wikidataId": "Q139386779"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1255779,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Une Fille en or",
+  "overview": "On the day Clémence realizes that no one has ever admired her, her father dies. Lulled by the illusions of the remnants of a complicated childhood, Clémence has no choice but to rebuild her self-esteem, which she never thought could be so low. When fate brings her together with a certain Paul, whom everyone nicknames Paul Pot because of his strong tendency toward tyranny, Clémence asks herself the only question that matters: is this the right person?",
+  "posterPath": "/4uMXPmz4pSZ2lHkorxspEcdddqM.jpg",
+  "rating": 4.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 86,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Une Fille en or",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 13,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1255779-une-fille-en-or/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    }
+  }
+}

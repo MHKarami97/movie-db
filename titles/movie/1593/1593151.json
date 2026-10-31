@@ -1,0 +1,166 @@
+{
+  "backdropPath": "/vFC87TKPZwPR7E7a8gkrYLSBkVR.jpg",
+  "cast": [
+    {
+      "character": "Darnell",
+      "id": 17637,
+      "name": "Taye Diggs",
+      "profilePath": "/1GVbezrPYdbmo7fJGtishxWf0aP.jpg"
+    },
+    {
+      "character": "Asia",
+      "id": 1815194,
+      "name": "Tamar Braxton",
+      "profilePath": "/eSZsssdNuYnCwkUUspNaBieTIay.jpg"
+    },
+    {
+      "character": "Sasha",
+      "id": 5218766,
+      "name": "Kalani Jules",
+      "profilePath": null
+    },
+    {
+      "character": "Melanie",
+      "id": 4155849,
+      "name": "Jessica Jarrell",
+      "profilePath": "/wVUoBbKCSaEUw8JMr27tiMgXijJ.jpg"
+    },
+    {
+      "character": "Detective Andrews",
+      "id": 1810482,
+      "name": "Janeline Hayes",
+      "profilePath": "/wHrAvAnSR0d1FV4B00IgrAc1b5h.jpg"
+    },
+    {
+      "character": "John Simmons",
+      "id": 1032439,
+      "name": "Dante Brown",
+      "profilePath": "/i7Xa7COVbfldsL0nyTgDVXT1ak6.jpg"
+    },
+    {
+      "character": "Brett Dixon",
+      "id": 2388000,
+      "name": "Troy Brookins",
+      "profilePath": "/nqFTnY1N9OAHLUZPuNsnl0La3MY.jpg"
+    },
+    {
+      "character": "Timothy",
+      "id": 3143325,
+      "name": "TJ Shaw",
+      "profilePath": null
+    },
+    {
+      "character": "Brad Denton",
+      "id": 5306423,
+      "name": "Koda Kalani Beschen",
+      "profilePath": "/lN0zfDridjQJaGA0BBdvnqX2wbD.jpg"
+    },
+    {
+      "character": "Beverly",
+      "id": 6327318,
+      "name": "Elizabeth Dantus",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 89529,
+      "logoPath": "/neOq7I2WkeBOrCR7PiPadbzEVQo.png",
+      "name": "Footage Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-06-19",
+  "externalIds": {
+    "imdbId": "tt42353154"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1593151,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Stepfather",
+  "overview": "After years of eradicating any family that falls short of perfection, Darnell believes his new wife Asia and her daughters might finally be the real deal. That is, until tensions rise and they uncover his deadly pattern. Now, getting rid of them won’t be as easy as he planned.",
+  "posterPath": "/71VH6ZNAKioFSSvGEmVwk3Egnto.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-06-19"
+    }
+  },
+  "runtime": 95,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Stepfather",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "uyxFZDsDeZo",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 12,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1593151-stepfather/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "backdropPath": "/lW9uSLT4t7trf1rG0nnOj14AoXT.jpg",
+  "cast": [
+    {
+      "character": "Fred",
+      "id": 113617,
+      "name": "Alexandra Lamy",
+      "profilePath": "/m52fdEhVo6sBjEhgyM6bqFwC1HA.jpg"
+    },
+    {
+      "character": "Adam",
+      "id": 5402976,
+      "name": "Julien Le Berre",
+      "profilePath": "/gR81sOU7NH38DhRNc38TUbdJigA.jpg"
+    },
+    {
+      "character": "Paul",
+      "id": 112765,
+      "name": "Eric Métayer",
+      "profilePath": "/36DH0axgKHqk9kU5PAf2rL2A95a.jpg"
+    },
+    {
+      "character": "Nadège",
+      "id": 67532,
+      "name": "Mélanie Doutey",
+      "profilePath": "/xgLVvAhEOIY9Wsrcwpiw7mykmDB.jpg"
+    },
+    {
+      "character": "",
+      "id": 131308,
+      "name": "Cyril Gueï",
+      "profilePath": "/8YwG32TepV8DYR1tvRwojG0YI8W.jpg"
+    },
+    {
+      "character": "Mossi",
+      "id": 3438650,
+      "name": "Malik Amraoui",
+      "profilePath": "/jltlBQadywhj343GXu6yixmsICd.jpg"
+    },
+    {
+      "character": "Estella",
+      "id": 6135043,
+      "name": "Maëlle Vidou",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 179114,
+      "logoPath": null,
+      "name": "Page Films"
+    },
+    {
+      "id": 591,
+      "logoPath": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma"
+    },
+    {
+      "id": 49755,
+      "logoPath": "/iom7Z8e1dzoTfCvwq8F4bJvbeIJ.png",
+      "name": "Apollo Films"
+    },
+    {
+      "id": 109756,
+      "logoPath": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+      "name": "Auvergne-Rhône-Alpes Cinéma"
+    },
+    {
+      "id": 11773,
+      "logoPath": "/8fCjsqh43LbPV6pm3SfR5Jx64GU.png",
+      "name": "Artémis Productions"
+    },
+    {
+      "id": 282587,
+      "logoPath": null,
+      "name": "Eveya Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39814688",
+    "wikidataId": "Q138777644"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1404604,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Compostelle",
+  "overview": "Fred and Adam have nothing in common. Yet, they will meet while walking the Way of St. James as a form of spiritual path.",
+  "posterPath": "/4FaoBpDtzhZk9R907epSN5WCelq.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 113,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Walking means Saving.",
+  "theatricalDate": null,
+  "title": "Compostelle",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 51,
+  "watchProviders": {}
+}

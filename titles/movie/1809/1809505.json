@@ -1,0 +1,134 @@
+{
+  "backdropPath": "/zjCKxJQLVYVGTvqOuUbyBIByvW2.jpg",
+  "cast": [
+    {
+      "character": "Cid",
+      "id": 1213398,
+      "name": "Michael Steger",
+      "profilePath": "/oM4d4XTyuGFlRdVsMQo6FCXC6KB.jpg"
+    },
+    {
+      "character": "Chick",
+      "id": 1338023,
+      "name": "Michael Barra",
+      "profilePath": null
+    },
+    {
+      "character": "Sheila",
+      "id": 568600,
+      "name": "Rachel Spencer Hewitt",
+      "profilePath": null
+    },
+    {
+      "character": "Jerry",
+      "id": 2083096,
+      "name": "Joe Kurak",
+      "profilePath": "/zzLQAwCEOjXo4pkMqUVc5y6QU0V.jpg"
+    },
+    {
+      "character": "Bank Manager",
+      "id": 1464484,
+      "name": "Mark Tierno",
+      "profilePath": "/3lxj9qiCJc4EubSXFicyGy2U6Ri.jpg"
+    },
+    {
+      "character": "Plant Foreman",
+      "id": 1098036,
+      "name": "John W. Iwanonkiw",
+      "profilePath": "/bbHAI1mp2XXR5lOs7f53cbCLVyN.jpg"
+    },
+    {
+      "character": "Bank Teller #1",
+      "id": 2000579,
+      "name": "Jillian O'Neil",
+      "profilePath": "/30W9iJHi329Ih9TJ0SrEMhvMILK.jpg"
+    },
+    {
+      "character": "Lowery",
+      "id": 1344599,
+      "name": "Greg Dorchak",
+      "profilePath": "/uboDxvUDVcAWlTXJlPXPGyekGf5.jpg"
+    },
+    {
+      "character": "Bartender",
+      "id": 1798916,
+      "name": "David Ogrodowski",
+      "profilePath": "/eY1U8MmLEY5j2ZUloiXedJ2oufS.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39074919"
+  },
+  "fetchedAt": 1793732202619,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1809505,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Dark Noon",
+  "overview": "Caught in a cycle of petty crime and imprisonment, a man is released from prison for a failed bank robbery attempt while an impending solar eclipse offers a way out of the cycle.",
+  "posterPath": "/c47IqLeltfbQKAAces0eRMmLEi7.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-19"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2026-11-19"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": "2026-11-19",
+  "title": "Dark Noon",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "T6Ms_6r_k08",
+      "name": "DARK NOON Feature Film Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

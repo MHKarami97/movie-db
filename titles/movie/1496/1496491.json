@@ -1,0 +1,153 @@
+{
+  "backdropPath": "/5ikboX1fj7GVjVpgcdkR4E6j16A.jpg",
+  "cast": [
+    {
+      "character": "Nina Cardi",
+      "id": 2112198,
+      "name": "Pauline Clément",
+      "profilePath": "/nHAaTn6N7yIFWxcgwylIGZDLiC6.jpg"
+    },
+    {
+      "character": "Philippe Vialle",
+      "id": 28675,
+      "name": "Laurent Stocker",
+      "profilePath": "/4EhK8uFnlSjoFXi6Mz7a6dSO5W1.jpg"
+    },
+    {
+      "character": "Antoine de Nombel",
+      "id": 35894,
+      "name": "Julien Frison",
+      "profilePath": "/8WjUdv56Ipwzbc2fyWGSuO6y5OM.jpg"
+    },
+    {
+      "character": "Emilie Hamel",
+      "id": 32511,
+      "name": "Marina Hands",
+      "profilePath": "/nj7gw15uQLxImwsC8iNC2QzKLgJ.jpg"
+    },
+    {
+      "character": "Suzanne Paturel",
+      "id": 1315534,
+      "name": "Adeline D'Hermy",
+      "profilePath": "/lx16ybQmFwP2WSQNT4Yyrwd9QxZ.jpg"
+    },
+    {
+      "character": "Nadine Guimard",
+      "id": 28677,
+      "name": "Danièle Lebrun",
+      "profilePath": "/ljsBazO34i1e2xuFTVZOzBMN2of.jpg"
+    },
+    {
+      "character": "Issa, l'ouvreur",
+      "id": 4413266,
+      "name": "Sefa Yeboah",
+      "profilePath": "/gW7m5JDTjqVYp2FOrOcdn0d0nWO.jpg"
+    },
+    {
+      "character": "Jacques, le régisseur",
+      "id": 62535,
+      "name": "Christian Hecq",
+      "profilePath": "/tWQB5qzKdSjlrWrizmC20RRqpE3.jpg"
+    },
+    {
+      "character": "Thibault, l'administrateur général",
+      "id": 1151455,
+      "name": "Serge Bagdassarian",
+      "profilePath": "/sXXnFr4TD8NgQtYuWAUdXQ1MpM2.jpg"
+    },
+    {
+      "character": "Mélanie, la maquilleuse",
+      "id": 3092502,
+      "name": "Sephora Pondi",
+      "profilePath": "/p7KmPpKMtB6XbO97ArMPrBaxsgG.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 102468,
+      "logoPath": "/7116YZNSKt5xKXgO9inx6bH0bq8.png",
+      "name": "Atelier de Production"
+    },
+    {
+      "id": 194477,
+      "logoPath": "/4epaEfUBBbjoBvgo99dunfqcARN.png",
+      "name": "Zinc"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37846373",
+    "wikidataId": "Q138748970"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1496491,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "De la Comédie-Française",
+  "overview": "At the Comédie-Française, there is one golden rule: the play is never canceled. Unfortunately for Nina, everything else is—just three hours before the premiere of her first staging. An actor is stuck on a train, tensions explode, equipment breaks down, egos clash, and panic sets in. With no way out and time slipping away, Nina must hold the show together at all costs. Will she make it until the curtain rises?",
+  "posterPath": "/1RYOtCOlAV2Xeztv7nUnbFSYGpr.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-09"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-10-09"
+    }
+  },
+  "runtime": 75,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-09",
+  "title": "Comédie-Française",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "vYSoVcuFxNg",
+      "name": "Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 110,
+  "watchProviders": {}
+}

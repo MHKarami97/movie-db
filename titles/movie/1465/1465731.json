@@ -1,0 +1,182 @@
+{
+  "backdropPath": "/gBoMxRKKOjYRDfJKU5lvHulpIqh.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1529446,
+      "name": "Becky G",
+      "profilePath": "/pRTBUS0LYvWEho15VO7SPwdSntu.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 168286,
+      "logoPath": "/1Imdx9Bo7ueko38GROVwiBzpD4m.png",
+      "name": "Lady & Bird Films"
+    },
+    {
+      "id": 221889,
+      "logoPath": null,
+      "name": "State of the Art"
+    },
+    {
+      "id": 224652,
+      "logoPath": null,
+      "name": "Lionsgate Alternative Television"
+    },
+    {
+      "id": 81368,
+      "logoPath": "/hadEBzUTj8ZzmaC1yh8MrXKXqR5.png",
+      "name": "Live Nation Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36590342"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1465731,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Rebbeca",
+  "overview": "As chart-topping Latin music superstar Becky G embarks on her most personal and ambitious project to date, her debut Mexican regional album, she is prompted to revisit her roots and dive deep into a beautiful and complicated past.",
+  "posterPath": "/hjw96u88T4p438RkgCp1pDvie4W.jpg",
+  "rating": 5.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-12-10"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2025-06-12",
+      "theatricalLimited": "2025-12-10"
+    }
+  },
+  "runtime": 98,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2025-12-10",
+  "title": "Rebbeca",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 6,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1465731-rebbeca/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

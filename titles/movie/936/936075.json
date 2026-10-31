@@ -1,0 +1,816 @@
+{
+  "backdropPath": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+  "cast": [
+    {
+      "character": "Michael",
+      "id": 3898497,
+      "name": "Jaafar Jackson",
+      "profilePath": "/tVSzFjQxOrLOcvnzFto0772Q9Bw.jpg"
+    },
+    {
+      "character": "Joseph Jackson",
+      "id": 91671,
+      "name": "Colman Domingo",
+      "profilePath": "/t0cgfvtA7Thxnrtj5baRi656zlc.jpg"
+    },
+    {
+      "character": "Katherine Jackson",
+      "id": 9781,
+      "name": "Nia Long",
+      "profilePath": "/heVQkCGKUuKKRjRJaZIBrEKGhYA.jpg"
+    },
+    {
+      "character": "Young Michael",
+      "id": 4487890,
+      "name": "Juliano Krue Valdi",
+      "profilePath": "/1rQYmcxdPD1IwHpa78DcfVEu1EN.jpg"
+    },
+    {
+      "character": "Bill Bray",
+      "id": 1990676,
+      "name": "KeiLyn Durrel Jones",
+      "profilePath": "/4wDO3Zt9KJg9CARCEgjuVdhWa8x.jpg"
+    },
+    {
+      "character": "John Branca",
+      "id": 996701,
+      "name": "Miles Teller",
+      "profilePath": "/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg"
+    },
+    {
+      "character": "Berry Gordy",
+      "id": 18291,
+      "name": "Larenz Tate",
+      "profilePath": "/6BWajF1sbuwsvXHmdQDxP5MfZ5R.jpg"
+    },
+    {
+      "character": "Suzanne de Passe",
+      "id": 1606394,
+      "name": "Laura Harrier",
+      "profilePath": "/hYS8z1DxP6jvsBNXMRALiSI3nhw.jpg"
+    },
+    {
+      "character": "Walter Yetnikoff",
+      "id": 12073,
+      "name": "Mike Myers",
+      "profilePath": "/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg"
+    },
+    {
+      "character": "Quincy Jones",
+      "id": 1446825,
+      "name": "Kendrick Sampson",
+      "profilePath": "/AoZGTujNZEfabaXR5kUwmDUmxfe.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1632,
+      "logoPath": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate"
+    },
+    {
+      "id": 3281,
+      "logoPath": "/8tMybAieh64uzvm8knSjXOFX8Qc.png",
+      "name": "GK Films"
+    },
+    {
+      "id": 19222,
+      "logoPath": "/aQrYO4ziZbm24huYBahFKG4TfrJ.png",
+      "name": "Optimum Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-06-09",
+  "externalIds": {
+    "facebookId": "michaelmovie",
+    "imdbId": "tt11378946",
+    "instagramId": "michaelmovie",
+    "twitterId": "michaelmovie",
+    "wikidataId": "Q116677364"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 46,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 936075,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Michael",
+  "overview": "فیلم داستان زندگی \"مایکل جکسون\" یکی از تأثیرگذارترین هنرمندان تاریخ، را روایت می‌کند و نگاهی فراتر از موسیقی به زندگی او دارد. از کشف استعداد شگفت‌انگیزش به‌عنوان خواننده اصلی گروه «جکسون فایو» تا تبدیل شدن به هنرمندی خلاق و آینده‌نگر که با جاه‌طلبی بی‌وقفه‌اش در پی تبدیل شدن به بزرگ‌ترین سرگرم‌کننده جهان بود. این روایت، علاوه بر زندگی شخصی او خارج از صحنه، برخی از ماندگارترین اجراهای دوران آغازین فعالیت انفرادی‌اش را نیز به تصویر می‌کشد و ...",
+  "posterPath": "/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
+  "rating": 8.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-22"
+    },
+    "CN": {
+      "digitalDate": "2026-08-07",
+      "gapDays": 105,
+      "theatricalDate": "2026-04-24"
+    },
+    "GB": {
+      "digitalDate": "2026-06-09",
+      "gapDays": 48,
+      "theatricalDate": "2026-04-22"
+    },
+    "US": {
+      "digitalDate": "2026-06-09",
+      "gapDays": 46,
+      "theatricalDate": "2026-04-24"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-04-22"
+    },
+    "CN": {
+      "digital": "2026-08-07",
+      "theatrical": "2026-04-24"
+    },
+    "GB": {
+      "digital": "2026-06-09",
+      "physical": "2026-08-10",
+      "theatrical": "2026-04-22"
+    },
+    "US": {
+      "digital": "2026-06-09",
+      "physical": "2026-07-14",
+      "premiere": "2026-04-20",
+      "theatrical": "2026-04-24",
+      "tv": "2026-08-10"
+    }
+  },
+  "runtime": 128,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Discover the making of a king.",
+  "theatricalDate": "2026-04-24",
+  "title": "Michael",
+  "translations": {
+    "faOverview": "فیلم داستان زندگی \"مایکل جکسون\" یکی از تأثیرگذارترین هنرمندان تاریخ، را روایت می‌کند و نگاهی فراتر از موسیقی به زندگی او دارد. از کشف استعداد شگفت‌انگیزش به‌عنوان خواننده اصلی گروه «جکسون فایو» تا تبدیل شدن به هنرمندی خلاق و آینده‌نگر که با جاه‌طلبی بی‌وقفه‌اش در پی تبدیل شدن به بزرگ‌ترین سرگرم‌کننده جهان بود. این روایت، علاوه بر زندگی شخصی او خارج از صحنه، برخی از ماندگارترین اجراهای دوران آغازین فعالیت انفرادی‌اش را نیز به تصویر می‌کشد و ...",
+    "faTitle": "مایکل"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "9h7-znnwxeA",
+      "name": "Michael is the HIGHEST grossing biopic of all time and has crossed $1B WORLDWIDE",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "XTt4vxZr2a8",
+      "name": "Watch at Home June 9th",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Pp3CO00g7ro",
+      "name": "The dance moves that changed the world.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "oWWtzot3pIM",
+      "name": "Watch Jaafar Jackson master the moves for Michael...",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "miLGuFiSAis",
+      "name": "Michael has audiences singing and dancing in cinemas! What is your favourite scene?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "s7_JXu1f0KA",
+      "name": "Throwback to when Michael took over Berlin...",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "aUio1KhuCTc",
+      "name": "Day one on the set of MICHAEL.",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "-KkNPUvFqco",
+      "name": "On the Set of Michael",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "KpP5pCUFil0",
+      "name": "Watch Michael Jackson's journey to the top in Michael, in cinemas now!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "d79L3vUtthA",
+      "name": "Thriller comes to life.",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "v_CAKsUaCAc",
+      "name": "SO many Michael Jackson hits...",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "0TdureE6__0",
+      "name": "Don't stop 'til you get enough... See Michael over and over again!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "6YjseYCv37g",
+      "name": "How we're going to be dancing into cinemas to see Michael!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "QgcvE12GGGQ",
+      "name": "Exclusive Interview",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "GTX-JfKCk-Y",
+      "name": "The stars of Michael chat about what film genres they want to take on next.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ctXz0-9k7aY",
+      "name": "Thank you to fans around the world for bringing the magic.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ZYY9iNBvwkU",
+      "name": "The wait is over. MICHAEL is NOW PLAYING EVERYWHERE.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "hGewI0w3Wf8",
+      "name": "The fans brought the energy to the Michael release event at House Party in London!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "MvCAJQHvSUs",
+      "name": "It's showtime.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "VBtBNIQWRnU",
+      "name": "Audiences can't get enough of Michael...",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "AJn72difsk8",
+      "name": "Stars of Michael discuss which of Michael’s music videos they’d like to see as a feature film!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "mM-FCk3DGg0",
+      "name": "Upgrade your MICHAEL experience.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "V_AJNaotDB4",
+      "name": "KeiLyn Durrel Jones at the Los Angeles premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "CjTwUO0aIJI",
+      "name": "Kendrick Sampson at the Los Angeles premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "dR97MQWxxxE",
+      "name": "Larenz Tate at the Los Angeles premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "EOmvN0dK1xg",
+      "name": "Laura Harrier at the Los Angeles premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "-0muI4DYNBw",
+      "name": "Antoine Fuqua at the Los Angeles premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "oxD3iIdPRck",
+      "name": "Juliano Valdi at the Los Angeles premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "2cDNn2Ltx0E",
+      "name": "Miles Teller at the Los Angeles premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "CTGU-UcSyLQ",
+      "name": "This is how you make an entrance. From the premiere carpet to the big screen THIS FRIDAY.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "hN5dTZ6MLjM",
+      "name": "All eyes on MICHAEL.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "kfHWFnX9Bls",
+      "name": "Star",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Iaet76Q8e3o",
+      "name": "You're not ready! Don't miss Michael in cinemas NOW!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "gd_DJ85MZY4",
+      "name": "Nia Long at the Los Angeles premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "-ePfLv5W50I",
+      "name": "Colman Domingo at the Los Angeles premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "XRWbzML49KE",
+      "name": "Jaafar Jackson at the Los Angeles premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "M1HUUcOFV80",
+      "name": "An unforgettable night with the stars of MICHAEL.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "dAz9a2LSvkc",
+      "name": "The wait is almost over. See Michael in THREE DAYS.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "u-gBVCCzUrw",
+      "name": "Be part of the moment...",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "xeSCF_0xWmc",
+      "name": "FOUR DAYS until MICHAEL. You ready?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "EYs4nq08XSA",
+      "name": "Before the Big Screen",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "nMvJIuOToes",
+      "name": "You’ve never seen a story like MICHAEL's. Don’t miss his journey on the big screen.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "K2ED-B-7mUQ",
+      "name": "Before The Big Screen",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "VNmtPrEvTn4",
+      "name": "The countdown is ON!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "oMJLgVEQ1sc",
+      "name": "ONE. WEEK.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "_bIWKbh6C2g",
+      "name": "No place like home. MICHAEL returns to Gary, Indiana.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "mQH5Vn6NbI4",
+      "name": "It's almost time to be startin' somethin'...",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "arh4_GqiaPo",
+      "name": "The world moves to MICHAEL.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ZV-gn-ZXY8Y",
+      "name": "MICHAEL in one word? “Amazing.”",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "V0nuqQnOhdQ",
+      "name": "TWO WEEKS.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "m2ePntQvkT0",
+      "name": "The music that changed the world.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "dc2k_DjKnno",
+      "name": "Bringing generations together.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "k-YAcjaLuSI",
+      "name": "Final Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "MkCkXrZ2-4I",
+      "name": "Know where else you can watch Nia Long and Colman Domingo?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "5GcpZ4d-mSU",
+      "name": "Step into the spotlight...",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "_3pv4AsgKgo",
+      "name": "THREE WEEKS. TWO WORDS. ONE LEGACY.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "gXZARRXXk_o",
+      "name": "The iconic moves of Michael Jackson...",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "OUqpl8demew",
+      "name": "Your music. Your Michael era. Discover your MICHAEL era, now on the Spotify mobile app.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6IUWme-ICxU",
+      "name": "In Los Angeles, MICHAEL is the moment.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "aHepyj35yRg",
+      "name": "There is only one.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "JS53W2vHidQ",
+      "name": "All in.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ABTkhgrijzc",
+      "name": "Every legend has a beginning.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "yWEJHfobxPg",
+      "name": "Step into the moment.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "B8ORfAn6yJw",
+      "name": "Get however many seats you need today!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "fehFFNQaERY",
+      "name": "Be there when the beat drops. MICHAEL – tickets on sale NOW.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "GGpX2DbAhdM",
+      "name": "Don't Walk, Moonwalk",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "rYGi0BT_5XQ",
+      "name": "ONE MAN. ONE VOICE. ONE MICHAEL",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "I42ObuEIKtw",
+      "name": "A Conversation with Jaafar Jackson",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "bMMqJVcsxec",
+      "name": "Antoine Fuqua & the 'Michael' Cast on Familial Bonds and Capturing Michael Jackson's Essence on Film",
+      "official": false,
+      "type": "Featurette"
+    },
+    {
+      "key": "QK24m18xBLM",
+      "name": "Be among the first to experience his story.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "IQL1AQ-j2pc",
+      "name": "Early Access Event - Extended Spot",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "IxiFDkkqRrI",
+      "name": "50 DAYS.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "7LbeSve-P8M",
+      "name": "MICHAEL Celebrates: Legacy | Artistry | Culture - Southern University",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "2MEoAQ1YMy0",
+      "name": "MICHAEL Celebrates: Legacy | Artistry | Culture - Jackson State University",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ncLqZaP4-sU",
+      "name": "See you in two months.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "PWb7KW-7F5k",
+      "name": "MICHAEL Celebrates: Legacy | Artistry | Culture - Florida A&M University",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "TWCkPVDrpg8",
+      "name": "A Conversation with Director Antoine Fuqua",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "kox8lgLLBKo",
+      "name": "The original all-star.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "PLK5WQ2eR0s",
+      "name": "First Look",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "e5ovsaJH5QU",
+      "name": "In 75 days, experience the life of a legend.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "mbtgEE6rkxw",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "4rz0Rg7Vmjw",
+      "name": "Trailer Tomorrow",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "DorqoncWPfY",
+      "name": "3 Months Left",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "7_ZN2kdDWeQ",
+      "name": "Welcome to the year of MICHAEL.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "4UVO6bUpvNU",
+      "name": "In theaters April 24, 2026.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "723RZxnDWKE",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 4650,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/936075-michael/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1794,
+          "logoPath": "/adymMNlhhLlJl5xccRCrsh3OehD.png",
+          "name": "Starz Amazon Channel"
+        },
+        {
+          "id": 43,
+          "logoPath": "/h25xjouKmiSmFiiqw0aDXbxGZo7.png",
+          "name": "Starz"
+        },
+        {
+          "id": 1855,
+          "logoPath": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+          "name": "Starz Apple TV channel"
+        },
+        {
+          "id": 634,
+          "logoPath": "/tKembbxL7cYdDvFK70xBecbN0G8.png",
+          "name": "Starz Roku Premium Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/936075-michael/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

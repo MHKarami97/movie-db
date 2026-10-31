@@ -1,0 +1,115 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 3039987,
+      "name": "Bertie Gregory",
+      "profilePath": "/33SnXfOwM7RuBnuEPf4ziqXvlF9.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6552055,
+      "name": "Albert \"Butch\" Saunders",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6552058,
+      "name": "Mike Reimer",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 7521,
+      "logoPath": "/fRqMjLjyAqThtEg9P9WKCXLmCpJ.png",
+      "name": "National Geographic"
+    },
+    {
+      "id": 139622,
+      "logoPath": "/578zH4RZL2aP4DvGxzF8rvGe7eV.png",
+      "name": "Wildstar Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-11-06",
+  "externalIds": {
+    "imdbId": "tt49241977"
+  },
+  "fetchedAt": 1793654174010,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1798383,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Wolves Up Close with Bertie Gregory",
+  "overview": "Reconnecting with a pack of wolves he has followed for seven years, Bertie sets out to capture one of the Arctic's most dangerous and rarely filmed hunts: wolves taking on a bull moose, prey roughly ten times their size. Led by Kona, a striking white breeding male, the pack faces a critical winter as dwindling food supplies, an encroaching rival wolf and an aging leader threaten its survival.",
+  "posterPath": "/fopmDU345HPkMC9iUaNQEY0uRkk.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-06",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-11-06",
+      "tv": "2026-11-06"
+    }
+  },
+  "runtime": 44,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Wolves Up Close with Bertie Gregory",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "3hCMUaREGL8",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

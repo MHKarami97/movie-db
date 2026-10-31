@@ -1,0 +1,111 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Frieda",
+      "id": 3350400,
+      "name": "Julia Windischbauer",
+      "profilePath": "/9Kic27CTyn4L6QItw45N0sCoJHb.jpg"
+    },
+    {
+      "character": "Johanna",
+      "id": 1139352,
+      "name": "Johanna Orsini-Rosenberg",
+      "profilePath": null
+    },
+    {
+      "character": "Friedrich Reis",
+      "id": 2897770,
+      "name": "Lukas Walcher",
+      "profilePath": "/tSz6SH0qGFx9PhfLxS7O3SXt9xA.jpg"
+    },
+    {
+      "character": "Rosa",
+      "id": 1946310,
+      "name": "Marie-Therese Futterknecht",
+      "profilePath": null
+    },
+    {
+      "character": "Alexander",
+      "id": 1730944,
+      "name": "Dominik Warta",
+      "profilePath": "/zI3VmTfdKwjCIqXLVi3YQrILfif.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 16660,
+      "logoPath": null,
+      "name": "Leykauf Film"
+    },
+    {
+      "id": 16265,
+      "logoPath": "/lIWIuL87nLRgaLQss0NUBbuzjsu.png",
+      "name": "Mischief Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "AT",
+      "name": "Austria"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt42719199",
+    "wikidataId": "Q140164296"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 1693083,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "Erinnerungen eines Waldes",
+  "overview": "",
+  "posterPath": "/gsnNfBAXkPfj08jfH6csXZk48xi.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Memories of a Forest",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

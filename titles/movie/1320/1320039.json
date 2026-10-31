@@ -1,0 +1,242 @@
+{
+  "backdropPath": "/dBziuJUx0tteX1eSzKj05twjDJi.jpg",
+  "cast": [
+    {
+      "character": "Bailey Benson",
+      "id": 78030,
+      "name": "Ashley Benson",
+      "profilePath": "/3kPXGhqo9fQro0rifqPFvwt4cuo.jpg"
+    },
+    {
+      "character": "Tim",
+      "id": 496470,
+      "name": "Jake Lacy",
+      "profilePath": "/qU6n9EaesBGqhNLlj5BecUrb5LW.jpg"
+    },
+    {
+      "character": "Junior",
+      "id": 15033,
+      "name": "Justin Long",
+      "profilePath": "/7TGXeHw4o86IBm6xknQotpludXK.jpg"
+    },
+    {
+      "character": "Leon",
+      "id": 2170919,
+      "name": "Chandler Duke",
+      "profilePath": "/mKSqlJZwvVOygqpeQ4PCDACh0sK.jpg"
+    },
+    {
+      "character": "Roger",
+      "id": 2372,
+      "name": "Ron Perlman",
+      "profilePath": "/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg"
+    },
+    {
+      "character": "Taylor",
+      "id": 1706313,
+      "name": "Elle King",
+      "profilePath": "/xtKn6KrVcJj5KnsjjxopwrUihNQ.jpg"
+    },
+    {
+      "character": "Flyin' Bryan",
+      "id": 15234,
+      "name": "David Arquette",
+      "profilePath": "/74wJjoywG7zCrNMWbRxwoyOj7Ub.jpg"
+    },
+    {
+      "character": "Chauncey",
+      "id": 20405,
+      "name": "Brian Posehn",
+      "profilePath": "/kg93LNpDQaRoosR4gVt7SsA3oL1.jpg"
+    },
+    {
+      "character": "Charlie",
+      "id": 3095785,
+      "name": "JP Sarro",
+      "profilePath": null
+    },
+    {
+      "character": "Darryl",
+      "id": 2026155,
+      "name": "Maxwell Jacob Friedman",
+      "profilePath": "/aeSCM8zH8ga8Wu7lPNTxur6FEZw.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 75355,
+      "logoPath": "/avj80RsunqwDbOS6oLp4plRE5UQ.png",
+      "name": "Yale Productions"
+    },
+    {
+      "id": 229487,
+      "logoPath": "/vF5HUjsJU0jFtlhpUdcodrECXBk.png",
+      "name": "Rabbits Black"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-02",
+  "externalIds": {
+    "imdbId": "tt33038782",
+    "instagramId": "strangleholdmovie"
+  },
+  "fetchedAt": 1793504874718,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 1320039,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Stranglehold",
+  "overview": "Fed up with their lives, barely eking by in small-town Arkansas, a stripper with dreams and her Army vet husband decide to rob the strip club that employs her.",
+  "posterPath": "/eTWcOmwSqC8Xr5o5VKFj7BFHKSI.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-02",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-11-02"
+    },
+    "US": {
+      "digital": "2026-10-02"
+    }
+  },
+  "runtime": 105,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "It's the most wonderful crime of the year.",
+  "theatricalDate": null,
+  "title": "Stranglehold",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "q-6t7_1fKWU",
+      "name": "UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "5YPh1loDZNc",
+      "name": "Official Redband Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "oPJSYlg8Ibc",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 10,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1320039-stranglehold/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

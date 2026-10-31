@@ -1,0 +1,160 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Dmitriy Shostakovich",
+      "id": 2041157,
+      "name": "Oleg Savtsov",
+      "profilePath": "/oJNSpcrnQB8WO9h7Ej5dxlof7HT.jpg"
+    },
+    {
+      "character": "student",
+      "id": 4413546,
+      "name": "Polina Tsyganova",
+      "profilePath": "/crqgypyNzZkGyHiGaIuEIpQYGVV.jpg"
+    },
+    {
+      "character": "Nina",
+      "id": 2697337,
+      "name": "Daria Balabanova",
+      "profilePath": "/cgkLkqJ5ewddbXDKKEbP6wOkyYd.jpg"
+    },
+    {
+      "character": "Vera",
+      "id": 1114558,
+      "name": "Mariya Smolnikova",
+      "profilePath": "/7Y8NLJBZa3eLFVaokiRywIW6CnM.jpg"
+    },
+    {
+      "character": "Sergey Sergeevich",
+      "id": 83836,
+      "name": "Evgeny Tsyganov",
+      "profilePath": "/2NrcWY41rzahQw9e2VZrJb4uFXj.jpg"
+    },
+    {
+      "character": "Pyotr",
+      "id": 3247026,
+      "name": "Lev Zulkarnaev",
+      "profilePath": "/iE1L1uI7tzaoZXj0tNCod3hU9iM.jpg"
+    },
+    {
+      "character": "Tikhonov",
+      "id": 2213731,
+      "name": "Nikita Kologrivyy",
+      "profilePath": "/gXOZMIhuKM5HjgvPpEcM5uOc0gU.jpg"
+    },
+    {
+      "character": "",
+      "id": 6059156,
+      "name": "Алина Павлючкова",
+      "profilePath": "/dnYsq4Ls2J2RXSmEJPI6cBMRFvY.jpg"
+    },
+    {
+      "character": "Marshal Tukhachevsky",
+      "id": 562730,
+      "name": "Danila Kozlovsky",
+      "profilePath": "/6uHj234Xiu8DW8x2hFX1uWq4LxV.jpg"
+    },
+    {
+      "character": "",
+      "id": 5710071,
+      "name": "Yana Minosyan",
+      "profilePath": "/iS1snumppGA2qzLT3nDkvPmZNME.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 42673,
+      "logoPath": null,
+      "name": "Rock Films"
+    },
+    {
+      "id": 185582,
+      "logoPath": null,
+      "name": "Premier"
+    },
+    {
+      "id": 46939,
+      "logoPath": "/ui0aY1K8PqGL97loUiFpo33KvZc.png",
+      "name": "Nashe Kino"
+    },
+    {
+      "id": 125613,
+      "logoPath": "/4igxnZjJeSStLiMWf7xDCEaJWUN.png",
+      "name": "Kinoprime Foundation"
+    },
+    {
+      "id": 1039,
+      "logoPath": "/vTDwphEW5Ikiqu6UxrRCzhfFcVo.png",
+      "name": "Channel One"
+    }
+  ],
+  "countries": [
+    {
+      "code": "RU",
+      "name": "Russia"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37179053"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "id": 1467402,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ru",
+      "name": "Russian"
+    }
+  ],
+  "originalTitle": "Шум времени",
+  "overview": "About one of the most famous composers of the 20th century, Dmitriy Dmitrievich Shostakovich.",
+  "posterPath": "/4pkcUa8kJC0Ylovaxocq6jHCScO.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 98,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Noise of Time",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

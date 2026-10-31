@@ -1,0 +1,213 @@
+{
+  "backdropPath": "/nHAc3ovLgHXDNb8lpgrF138pHwA.jpg",
+  "cast": [
+    {
+      "character": "Dr. Alice Rogers",
+      "id": 96624,
+      "name": "Rachel Boston",
+      "profilePath": "/lXsexhIX8oMhPnO85M0ocL0GhC2.jpg"
+    },
+    {
+      "character": "Dr. Brian Davis",
+      "id": 129298,
+      "name": "Brendan Penny",
+      "profilePath": "/cgjw8TR9J9zicgGWuzdXdcE9aQK.jpg"
+    },
+    {
+      "character": "Catherine Fenwick",
+      "id": 39360,
+      "name": "Lucia Walters",
+      "profilePath": "/tnPMoaUecAl7k1qO4VXnlvTeTb1.jpg"
+    },
+    {
+      "character": "Monica Johnson",
+      "id": 1085644,
+      "name": "Aadila Dosani",
+      "profilePath": "/plDJGrCm0tuoJQcDnGvYVIaZrNA.jpg"
+    },
+    {
+      "character": "Katie Jones",
+      "id": 5551868,
+      "name": "Jecca Beauchamp",
+      "profilePath": "/8kKG9WmSdUuLjgyvFev5UjKdqII.jpg"
+    },
+    {
+      "character": "Elena Jones",
+      "id": 1392937,
+      "name": "Carmel Amit",
+      "profilePath": "/qIBZ3SOsIQOo1CD2ker5YPnnuiY.jpg"
+    },
+    {
+      "character": "Ruth Camp",
+      "id": 1219552,
+      "name": "Iris Quinn",
+      "profilePath": "/rajESK5oqBRX5F0YA8T78Ticg95.jpg"
+    },
+    {
+      "character": "Samantha Cameron",
+      "id": 1761093,
+      "name": "Donna Benedicto",
+      "profilePath": "/muXNSartYyLpgZHQuoJ9NTzqoya.jpg"
+    },
+    {
+      "character": "Jake",
+      "id": 21091,
+      "name": "Jerry Wasserman",
+      "profilePath": "/sDxJx0ijIuI0Hfwq4KL5kVfAiBN.jpg"
+    },
+    {
+      "character": "Dr. Natalie Spencer",
+      "id": 2509652,
+      "name": "Marlie Collins",
+      "profilePath": "/rEMLA1mGza69RtmGBjkLPL3FnKG.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 53015,
+      "logoPath": "/tWxubAjwO1QtLLWdnUR1bjS1vvf.png",
+      "name": "Hallmark Media"
+    },
+    {
+      "id": 14987,
+      "logoPath": "/hujjtUnpgnARRGR7S3UtbW9S2Jb.png",
+      "name": "Two 4 The Money Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38354960"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1546001,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The More the Merrier",
+  "overview": "An overwhelmed doctor is left to look after and care for three very pregnant women by herself during a storm on Christmas Eve, until she is joined by an intriguing colleague.",
+  "posterPath": "/3wiTWMVT6RpnMkWfW5tW39Ou8ba.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2025-11-28"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The More the Merrier",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "c_MU7IRPDRk",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 13,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1546001-the-more-the-merrier/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 290,
+          "logoPath": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "id": 2058,
+          "logoPath": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "id": 1746,
+          "logoPath": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1546001-the-more-the-merrier/watch?locale=US",
+      "rent": []
+    }
+  }
+}

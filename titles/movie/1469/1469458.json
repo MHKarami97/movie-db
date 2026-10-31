@@ -1,0 +1,182 @@
+{
+  "backdropPath": "/rfMWciUEZkqL9AiNcTedhtXQHr0.jpg",
+  "cast": [
+    {
+      "character": "Anand",
+      "id": 1864605,
+      "name": "Askar Ali",
+      "profilePath": "/2kCACIpB95RkIW9sLY8ggKTnPbI.jpg"
+    },
+    {
+      "character": "Reji",
+      "id": 591109,
+      "name": "Vineeth Kumar",
+      "profilePath": "/rTtJDTHhqyQ4IGlrAyrCkHyBc33.jpg"
+    },
+    {
+      "character": "Narrator",
+      "id": 1186670,
+      "name": "Sidharth Bharathan",
+      "profilePath": "/4a13KELmZuB4NnRlOsdzMfo2K7j.jpg"
+    },
+    {
+      "character": "Ashokan",
+      "id": 1625832,
+      "name": "Assim Jamal",
+      "profilePath": "/mZAeMMdEWkcGRMGfCkaPlBMJyas.jpg"
+    },
+    {
+      "character": "Joshi",
+      "id": 2138214,
+      "name": "Senthil Krishna Rajamani",
+      "profilePath": "/wXI4Jo8M01YfE3HtUeL1YpM0eFK.jpg"
+    },
+    {
+      "character": "Culprit",
+      "id": 2171073,
+      "name": "Sreekanth Dasan",
+      "profilePath": null
+    },
+    {
+      "character": "Stephen George",
+      "id": 5023335,
+      "name": "Fahad Sidheekh",
+      "profilePath": null
+    },
+    {
+      "character": "Neethu",
+      "id": 5391264,
+      "name": "Neethu Krishna",
+      "profilePath": "/pW8WRdtcWVBbcdjDEY5ylo0diiR.jpg"
+    },
+    {
+      "character": "",
+      "id": 5684638,
+      "name": "Gouri Vineeth",
+      "profilePath": null
+    },
+    {
+      "character": "Anand's Daughter",
+      "id": 5551565,
+      "name": "Suparna Sajeesh",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 273941,
+      "logoPath": null,
+      "name": "Nalla Cinema Production"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36628923",
+    "wikidataId": "Q139464162"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1469458,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ml",
+      "name": "Malayalam"
+    },
+    {
+      "code": "ta",
+      "name": "Tamil"
+    }
+  ],
+  "originalTitle": "സംഭവം അദ്ധ്യായം ഒന്ന്",
+  "overview": "Three Kerala Police officers venture into a mysterious forest on the Kerala-Tamil Nadu border to find a missing officer. They encounter strange time-related phenomena, uncovering the hidden secrets of Velloorkkatt forest.",
+  "posterPath": "/4ASKGsPMbzChx0YX5Pqc9HFXQm3.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-03-11"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-03-11"
+    }
+  },
+  "runtime": 127,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-03-11",
+  "title": "Sambhavam Adhyayam Onnu",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 24,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 630,
+          "logoPath": "/vnpp3n6DAIh2sKXfMbehKZAWJMC.png",
+          "name": "STARZPLAY"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1469458/watch?locale=AE",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1469458/watch?locale=US",
+      "rent": []
+    }
+  }
+}

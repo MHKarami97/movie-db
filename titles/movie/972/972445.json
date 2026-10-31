@@ -1,0 +1,139 @@
+{
+  "backdropPath": "/cbmeaWZtTA40He88eI8ua7kttJE.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 74376,
+      "name": "Cem Yılmaz",
+      "profilePath": "/n8J3f4Ua0FWM29icutaKcg6PxFJ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 4308,
+      "logoPath": "/y2UR0KSxPNR3v0xwGophPBVfvEl.png",
+      "name": "CMYLMZ Fikirsanat"
+    }
+  ],
+  "countries": [
+    {
+      "code": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "digitalDate": "2025-12-31",
+  "externalIds": {
+    "imdbId": "tt39214430"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 972445,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "tr",
+      "name": "Turkish"
+    }
+  ],
+  "originalTitle": "CMXXIV",
+  "overview": "Turkish comedy heavyweight Cem Yılmaz takes the stand-up stage in this dynamic special – covering everything from cancel culture to regretful tattoos.",
+  "posterPath": "/zN25h6zhlYLEnrCv1Zv3MWjtLoy.jpg",
+  "rating": 6.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-12-31",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-12-31"
+    }
+  },
+  "runtime": 113,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "CMXXIV",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 30,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/972445-cmxxiv/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/972445-cmxxiv/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/972445-cmxxiv/watch?locale=US",
+      "rent": []
+    }
+  }
+}

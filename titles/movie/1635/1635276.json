@@ -1,0 +1,197 @@
+{
+  "backdropPath": "/7weSO3kEzMpMgdmte4AasS0tbeV.jpg",
+  "cast": [
+    {
+      "character": "Urschi / Ursula",
+      "id": 5644,
+      "name": "Alexandra Maria Lara",
+      "profilePath": "/68YNY2TfvsE9T3tcCeHDVXbnzyB.jpg"
+    },
+    {
+      "character": "Nodon / Simon",
+      "id": 3637665,
+      "name": "Rúrik Gíslason",
+      "profilePath": "/ewnb3puzCKiYtrpKDW6A3S33505.jpg"
+    },
+    {
+      "character": "Helmut",
+      "id": 6086,
+      "name": "Devid Striesow",
+      "profilePath": "/dV5Sdfa7ED8gkbof8pWuBfPR7lo.jpg"
+    },
+    {
+      "character": "Babs",
+      "id": 1347172,
+      "name": "Anna Herrmann",
+      "profilePath": "/8nzbHoIfc7kboIqySz2fEDRmVcm.jpg"
+    },
+    {
+      "character": "Ziggy",
+      "id": 2198457,
+      "name": "Doğa Gürer",
+      "profilePath": "/awakRjJm0cK3ULzmF4EiSbsg0Ux.jpg"
+    },
+    {
+      "character": "Hakan",
+      "id": 1964839,
+      "name": "Kerim Waller",
+      "profilePath": "/kYuJ2F4wfYhyCKyxx5QxD76fkmN.jpg"
+    },
+    {
+      "character": "Birgit",
+      "id": 48121,
+      "name": "Brigitte Kren",
+      "profilePath": "/uRsNgkSO69EDcO1Kf3sriv1Pyv8.jpg"
+    },
+    {
+      "character": "Gustl",
+      "id": 1273766,
+      "name": "Martin Leutgeb",
+      "profilePath": "/bhGB3sGWxIdSTSFjpjKpDC1Frl1.jpg"
+    },
+    {
+      "character": "Sue",
+      "id": 1324565,
+      "name": "Yvonne Yung Hee",
+      "profilePath": "/rUeaV4kr2XskbiuRJHyWjKDYj1R.jpg"
+    },
+    {
+      "character": "Renate Huber",
+      "id": 1663920,
+      "name": "Catalina Navarro Kirner",
+      "profilePath": "/buL14n7dvKYZVV815ikIsEMOpCs.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 99,
+      "logoPath": "/62PhpTy0SrplwjcVgZsZHv0hJS4.png",
+      "name": "OLGA FILM"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "2026-04-01",
+  "externalIds": {
+    "imdbId": "tt39465484",
+    "wikidataId": "Q137944520"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1635276,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "Eat Pray Bark",
+  "overview": "Five eccentric dog owners seek help in dealing with their four-legged friends. Their last hope: an intensive course with the charismatic and legendary dog trainer Nodon in the Tyrolean mountains.",
+  "posterPath": "/kZ0ntedjG2X6hZ7upzupeUe2g5n.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-04-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-04-01"
+    },
+    "US": {
+      "digital": "2026-04-01"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "It seems not everyone gets off on the right 𝖿̶𝗈̶𝗈̶𝗍̶ paw ...",
+  "theatricalDate": null,
+  "title": "Eat Pray Bark",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 120,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1635276-eat-pray-bark/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1635276-eat-pray-bark/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1635276-eat-pray-bark/watch?locale=US",
+      "rent": []
+    }
+  }
+}

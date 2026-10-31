@@ -1,0 +1,107 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 311879,
+      "logoPath": null,
+      "name": "Işıkla diriliş"
+    }
+  ],
+  "countries": [
+    {
+      "code": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "digitalDate": "2027-01-31",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-31",
+        "episodeNumber": 1,
+        "name": "Işıkla Diriliş",
+        "overview": "Show omer keskin performance art,  artsbook",
+        "stillPath": "/eWhMkYsMV9KhdRblS3IZLQvqMsF.jpg",
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 336260,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-31",
+    "episodeNumber": 1,
+    "id": 7842712,
+    "name": "Işıkla Diriliş",
+    "overview": "Show omer keskin performance art,  artsbook",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Işıkla Diriliş",
+  "overview": "Show performance arts, art book",
+  "posterPath": "/rBCQh834KkE2qqMt8AjMSSKzOZF.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-31",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-31"
+    },
+    "CN": {
+      "tv": "2027-01-31"
+    },
+    "GB": {
+      "tv": "2027-01-31"
+    },
+    "US": {
+      "tv": "2027-01-31"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-31",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "Benim kitaplarım sadece okumaz aynı zamanda izlenir",
+  "theatricalDate": null,
+  "title": "Işıkla Diriliş",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

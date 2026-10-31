@@ -1,0 +1,243 @@
+{
+  "backdropPath": "/3m4jsYrVGx5hZCofSaUd6eNWzXD.jpg",
+  "cast": [
+    {
+      "character": "Ella Daniels",
+      "id": 5107419,
+      "name": "LeeAnne Bauer",
+      "profilePath": "/9QISx6rIjNuIiWdEMzOW83PDN8n.jpg"
+    },
+    {
+      "character": "Atticus Reed",
+      "id": 2091809,
+      "name": "Mike Ferguson",
+      "profilePath": "/20R1lPw9vqfiv9iyegYoI7ifofW.jpg"
+    },
+    {
+      "character": "Aisha",
+      "id": 2064825,
+      "name": "Twana Barnett",
+      "profilePath": null
+    },
+    {
+      "character": "Knox",
+      "id": 3815834,
+      "name": "Omar Moustafa Ghonim",
+      "profilePath": "/7dtT1PN3C2K1pKsOM3IlnBls7wv.jpg"
+    },
+    {
+      "character": "Dog",
+      "id": 1830304,
+      "name": "Mario Daggett",
+      "profilePath": null
+    },
+    {
+      "character": "Wrench",
+      "id": 5791081,
+      "name": "Trent James",
+      "profilePath": "/h9ZWKA0nXVyUO08SAbktu2l5XyZ.jpg"
+    },
+    {
+      "character": "Wolf",
+      "id": 5971194,
+      "name": "Chetavious Davis",
+      "profilePath": null
+    },
+    {
+      "character": "Cai",
+      "id": 3617179,
+      "name": "Vu Mai",
+      "profilePath": null
+    },
+    {
+      "character": "Hugo",
+      "id": 6381510,
+      "name": "Hail Adams",
+      "profilePath": null
+    },
+    {
+      "character": "Basketball Player",
+      "id": 6381515,
+      "name": "Lakshya Dhiman",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 205284,
+      "logoPath": "/uHKXajM2YxLiXxFvVpfwQqMDG1s.png",
+      "name": "Glass House Distribution"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-01-27",
+  "externalIds": {
+    "imdbId": "tt34673881"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1624183,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Blackout",
+  "overview": "After a nuclear strike devastates California, a group of veterans and criminals trapped in a warehouse must fight to survive marauders, radiation, and each other in a world where the line between good and evil is gone.",
+  "posterPath": "/gFy3I3hJeLKKJt8EGpc1ZbGTwoH.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-01-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-01-27"
+    }
+  },
+  "runtime": 80,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Blackout",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "GHKqcxCQLBE",
+      "name": "BLACKOUT (2026) – Official Trailer | Post-Apocalyptic Thriller | @BreakingGlassPictures",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 11,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1624183-blackout/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        },
+        {
+          "id": 2077,
+          "logoPath": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+          "name": "Plex Channel"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        },
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1624183-blackout/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ]
+    }
+  }
+}

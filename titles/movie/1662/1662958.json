@@ -1,0 +1,141 @@
+{
+  "backdropPath": "/ohQTIteoHPNeLd3WRlVXbCBeaN6.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 52849,
+      "name": "Louis C.K.",
+      "profilePath": "/1ii770zdeX62UFGawTmNr2vddYb.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-06-30",
+  "externalIds": {
+    "imdbId": "tt41376508",
+    "wikidataId": "Q140842092"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1662958,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Louis C.K.: Ridiculous",
+  "overview": "From a bee getting shot in New York City to paying strangers to take his aging father, Louis C.K. unleashes the ridiculous thoughts in his mind.",
+  "posterPath": "/7HDsSxJ4Vve54cNmpk7Qtmai77n.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-30",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-06-30"
+    }
+  },
+  "runtime": 61,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Louis C.K.: Ridiculous",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "UaLBYs9l8Vs",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 40,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1662958-louis-c-k-ridiculous/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1662958-louis-c-k-ridiculous/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1662958-louis-c-k-ridiculous/watch?locale=US",
+      "rent": []
+    }
+  }
+}

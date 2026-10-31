@@ -1,0 +1,154 @@
+{
+  "backdropPath": "/yt7kUJ42heOePCPAdzvsAZP7lJH.jpg",
+  "cast": [
+    {
+      "character": "Aslı",
+      "id": 1258747,
+      "name": "Eda Ece",
+      "profilePath": "/14W0FDshCBbZc8Yem9kzC0CRw6k.jpg"
+    },
+    {
+      "character": "Yıldırım",
+      "id": 1893047,
+      "name": "Kaan Yıldırım",
+      "profilePath": "/7a2OvUAMhDSIQ3IhXyJZWh4XqrL.jpg"
+    },
+    {
+      "character": "Esin",
+      "id": 1729395,
+      "name": "Pelin Uluksar",
+      "profilePath": "/6mUcUgjMhHiDdMmWASCjxHD3bZ5.jpg"
+    },
+    {
+      "character": "",
+      "id": 1452408,
+      "name": "Devrim Yakut",
+      "profilePath": "/i7WGKyvlDluHkXx4Tkqn3WsILZi.jpg"
+    },
+    {
+      "character": "",
+      "id": 1083415,
+      "name": "Tamer Levent",
+      "profilePath": "/bQrGr7zTAdNfeGb18wNgPbXTmle.jpg"
+    },
+    {
+      "character": "",
+      "id": 2262363,
+      "name": "Seren Şirince",
+      "profilePath": "/6z8TeS2mzshsASbH2vQoob1TI3g.jpg"
+    },
+    {
+      "character": "Enis",
+      "id": 4050356,
+      "name": "Kürşat Demir",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 3619907,
+      "name": "Onur Gözeten",
+      "profilePath": "/4lcFlfbzimeQYHyxtqJifCGPCJg.jpg"
+    },
+    {
+      "character": "",
+      "id": 3176344,
+      "name": "Mekin Sezer",
+      "profilePath": "/rDHeQ1nvHFkNSolTthV3LjdTRWV.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 125588,
+      "logoPath": null,
+      "name": "03 Medya"
+    }
+  ],
+  "countries": [
+    {
+      "code": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "digitalDate": "2026-03-27",
+  "externalIds": {
+    "imdbId": "tt39130911",
+    "wikidataId": "Q138819733"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1582328,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "tr",
+      "name": "Turkish"
+    }
+  ],
+  "originalTitle": "Sonunda Sen",
+  "overview": "The funny story of Aslı, an advertising executive who doesn't want to be alone on Valentine's Day.",
+  "posterPath": "/mKxTnUGXtctAOzrfPUC3xWBqMsY.jpg",
+  "rating": 5.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-03-27"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Love At Last",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 7,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1582328-sonunda-sen/watch?locale=AE",
+      "rent": []
+    }
+  }
+}

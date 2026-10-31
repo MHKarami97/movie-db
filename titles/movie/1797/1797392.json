@@ -1,0 +1,977 @@
+{
+  "backdropPath": "/oTMqOh1FPl7bdlrlp4YUHfGz6TR.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1266558,
+      "name": "Kordell Stewart",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 1240191,
+      "name": "Bill Cowher",
+      "profilePath": "/h9juxW9wBF5GIHeW67RG9YUghER.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1215301,
+      "name": "Jerome Bettis",
+      "profilePath": "/pA1iHyi1xoNHXBZnVhl1TqpT3XT.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6548988,
+      "name": "Mike Mularkey",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6548989,
+      "name": "Bob Pompeani",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 2087863,
+      "name": "LZ Granderson",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 173807,
+      "logoPath": "/vXKfbGDlT9bNCio5BXmiWpOp6Vi.png",
+      "name": "Skydance Sports"
+    },
+    {
+      "id": 3232,
+      "logoPath": "/8KtxMsWLOK6zDTNAfi75yg2QvSt.png",
+      "name": "NFL Films"
+    },
+    {
+      "id": 250992,
+      "logoPath": null,
+      "name": "HBO Sports Documentaries"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-27",
+  "externalIds": {
+    "imdbId": "tt49164308"
+  },
+  "fetchedAt": 1793452486014,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1797392,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Kordell Stewart / Slash & Burn",
+  "overview": "For a generation of football fans, former Pittsburgh Steelers quarterback Kordell \"Slash\" Stewart was one of the most electrifying players of the 1990s. But just as he became one of football's biggest stars, a malicious rumor upended his life. Through candid interviews with Stewart and others who witnessed his brightest and darkest moments, explore the personal toll of scrutiny beyond the football field while searching for the truth behind a story that followed Stewart for decades.",
+  "posterPath": "/wVZXTyC92jRU7lwn5QjhDs7FORk.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "CA": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "DE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "IR": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "RO": {
+      "digital": "2026-10-28"
+    },
+    "US": {
+      "digital": "2026-10-27",
+      "tv": "2026-10-27"
+    }
+  },
+  "runtime": 40,
+  "status": "Released",
+  "tagline": "The star. The rumor. The story.",
+  "theatricalDate": null,
+  "title": "Kordell Stewart / Slash & Burn",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "MZAV0HKRDVk",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {
+    "AD": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=AD",
+      "rent": []
+    },
+    "AT": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=AT",
+      "rent": []
+    },
+    "AU": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        },
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=AU",
+      "rent": []
+    },
+    "BA": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=BA",
+      "rent": []
+    },
+    "BE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        },
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=BE",
+      "rent": []
+    },
+    "BG": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=BG",
+      "rent": []
+    },
+    "CA": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 230,
+          "logoPath": "/a2o4bE63LR71m8jHrkx9BnBucN0.png",
+          "name": "Crave"
+        },
+        {
+          "id": 2604,
+          "logoPath": "/6EuODonAziRYWv90wAtEmUjk78R.png",
+          "name": "Crave Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=CA",
+      "rent": []
+    },
+    "CH": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=CH",
+      "rent": []
+    },
+    "CY": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=CY",
+      "rent": []
+    },
+    "CZ": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=CZ",
+      "rent": []
+    },
+    "DE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        },
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=DE",
+      "rent": []
+    },
+    "DK": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=DK",
+      "rent": []
+    },
+    "EE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=EE",
+      "rent": []
+    },
+    "ES": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        },
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=ES",
+      "rent": []
+    },
+    "FI": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=FI",
+      "rent": []
+    },
+    "FJ": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=FJ",
+      "rent": []
+    },
+    "FR": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        },
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=FR",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=GB",
+      "rent": []
+    },
+    "GR": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=GR",
+      "rent": []
+    },
+    "HK": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=HK",
+      "rent": []
+    },
+    "HR": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=HR",
+      "rent": []
+    },
+    "HU": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=HU",
+      "rent": []
+    },
+    "ID": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=ID",
+      "rent": []
+    },
+    "IE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=IE",
+      "rent": []
+    },
+    "IL": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=IL",
+      "rent": []
+    },
+    "IN": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2336,
+          "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=IN",
+      "rent": []
+    },
+    "IS": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=IS",
+      "rent": []
+    },
+    "IT": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=IT",
+      "rent": []
+    },
+    "LI": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=LI",
+      "rent": []
+    },
+    "LT": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=LT",
+      "rent": []
+    },
+    "LU": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=LU",
+      "rent": []
+    },
+    "LV": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=LV",
+      "rent": []
+    },
+    "MC": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=MC",
+      "rent": []
+    },
+    "MD": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=MD",
+      "rent": []
+    },
+    "ME": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=ME",
+      "rent": []
+    },
+    "MK": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=MK",
+      "rent": []
+    },
+    "MT": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=MT",
+      "rent": []
+    },
+    "MY": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=MY",
+      "rent": []
+    },
+    "NL": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        },
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=NL",
+      "rent": []
+    },
+    "NO": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 578,
+          "logoPath": "/mlNPljPGzSDqNK2Fjr4SS0gTITj.png",
+          "name": "Strim"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=NO",
+      "rent": []
+    },
+    "NZ": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=NZ",
+      "rent": []
+    },
+    "PH": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=PH",
+      "rent": []
+    },
+    "PL": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=PL",
+      "rent": []
+    },
+    "PT": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=PT",
+      "rent": []
+    },
+    "RO": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=RO",
+      "rent": []
+    },
+    "RS": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=RS",
+      "rent": []
+    },
+    "SE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        },
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=SE",
+      "rent": []
+    },
+    "SG": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=SG",
+      "rent": []
+    },
+    "SI": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=SI",
+      "rent": []
+    },
+    "SK": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=SK",
+      "rent": []
+    },
+    "TH": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=TH",
+      "rent": []
+    },
+    "TR": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=TR",
+      "rent": []
+    },
+    "TW": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=TW",
+      "rent": []
+    },
+    "UA": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=UA",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1797392-kordell-stewart-slash-burn/watch?locale=US",
+      "rent": []
+    }
+  }
+}

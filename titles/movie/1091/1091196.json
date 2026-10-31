@@ -1,0 +1,132 @@
+{
+  "backdropPath": "/cSHSViBQedLtepD4Rizq3TuBVnS.jpg",
+  "cast": [
+    {
+      "character": "Alice",
+      "id": 1689510,
+      "name": "Myriem Akheddiou",
+      "profilePath": "/9Xw3XoQSAuUcArgyDjV9erC8W3C.jpg"
+    },
+    {
+      "character": "The Father",
+      "id": 228719,
+      "name": "Laurent Capelluto",
+      "profilePath": "/4QzdHAvXJs7TJzjnG2WgzAArld1.jpg"
+    },
+    {
+      "character": "The Judge",
+      "id": 85802,
+      "name": "Natali Broods",
+      "profilePath": "/flgw9Gex0ppdaBQwXoNvzruIKAG.jpg"
+    },
+    {
+      "character": "Etienne",
+      "id": 4757273,
+      "name": "Ulysse Goffin",
+      "profilePath": null
+    },
+    {
+      "character": "Lila",
+      "id": 3921756,
+      "name": "Adèle Pinckaers",
+      "profilePath": null
+    },
+    {
+      "character": "Mother’s Lawyer",
+      "id": 5233613,
+      "name": "Alisa Laub",
+      "profilePath": null
+    },
+    {
+      "character": "Father’s Lawyer",
+      "id": 5233614,
+      "name": "Marion de Nanteuil",
+      "profilePath": null
+    },
+    {
+      "character": "Children’s Lawyer",
+      "id": 5233615,
+      "name": "Mounir Bennaoum",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 221794,
+      "logoPath": null,
+      "name": "Makintosh Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35504398",
+    "wikidataId": "Q132131889"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1091196,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "On vous croit",
+  "overview": "Today, Alice stands before a judge, knowing there is no room for error. She must speak up for her children, as her custody is being called into question. Can she protect them from their father before it is too late?",
+  "posterPath": "/aBYQhsh65AZqEfPiDy3Z7AGbsw.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 78,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "We Believe You",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "xAH76ackNDE",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 35,
+  "watchProviders": {}
+}

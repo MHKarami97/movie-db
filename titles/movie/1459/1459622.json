@@ -1,0 +1,101 @@
+{
+  "backdropPath": "/e9SdSFkt7MBGFz731z0kvYTqVkO.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 4699184,
+      "name": "Klaus Mäkelä",
+      "profilePath": "/tqEqshmuB3quDzAtB7aY1jSAfek.jpg"
+    },
+    {
+      "character": "Orchestra",
+      "id": 5387030,
+      "name": "Orchestre de Paris",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 2866345,
+      "name": "Herbert Blomstedt",
+      "profilePath": "/bvaq7SRCpCh5ZTq6wAZCDFE2Ll1.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 12389,
+      "logoPath": "/6yilbEvoHtPcTb4LwAueAq091iT.png",
+      "name": "Les Films Pelléas"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "facebookId": "alamode.filme",
+    "imdbId": "tt39183481",
+    "instagramId": "alamodefilm",
+    "wikidataId": "Q140482918"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1459622,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Nous, l'Orchestre",
+  "overview": "How can people play together as one? How can one contribute to something greater than oneself? How can a group cohabitate for decades without falling apart? And what role does the conductor really play? For the first time, cameras and microphones slip among the 80 musicians of the Orchestre de Paris, under the baton of their young prodigy conductor, Klaus Mäkelä. A total immersion to share their experiences, emotion and beauty, at the heart of music in the making.",
+  "posterPath": "/w0BDdIPygkUo4t7wCoXueTDZ7r8.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Nous l'orchestre de Paris",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 14,
+  "watchProviders": {}
+}

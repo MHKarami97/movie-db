@@ -1,0 +1,126 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Mia",
+      "id": 1737507,
+      "name": "Danielle Lyn",
+      "profilePath": "/eJArKAwfppu8qtiq5S9JlgVXCFW.jpg"
+    },
+    {
+      "character": "Thad",
+      "id": 1911294,
+      "name": "Michael Oloyede",
+      "profilePath": "/rRz9d7D3Aqkb5F2fky2OPYJm7kk.jpg"
+    },
+    {
+      "character": "Brock",
+      "id": 3131490,
+      "name": "Deion Smith",
+      "profilePath": "/iSP83nz4TCHaPBoxGadaUwktwgm.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 282046,
+      "logoPath": null,
+      "name": "Gestalt Picture Company"
+    },
+    {
+      "id": 13466,
+      "logoPath": "/d2ewBAUkCGeYMj6bv2Z9PkzL5OA.png",
+      "name": "Park Pictures Features"
+    },
+    {
+      "id": 14909,
+      "logoPath": "/8fLjVGiX8adkseQMCIBYt3UYFiO.png",
+      "name": "Impact Partners"
+    },
+    {
+      "id": 15181,
+      "logoPath": "/sjQmClxWfF4NmP01QJVY8e3UVYK.png",
+      "name": "Wavelength"
+    },
+    {
+      "id": 125345,
+      "logoPath": "/z3Ly3BKafB4PUkvVmkTwLQ8V8yS.png",
+      "name": "Concordia Studio"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38952225"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1591604,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Soul Patrol",
+  "overview": "From deep behind enemy lines, a hidden chapter of American military history is uncovered, prompting the question of whether reckoning with the past can bring peace to those who lived it. The Vietnam War’s first Black special operations team reunites to tell their story.",
+  "posterPath": "/sav8yadAjfykfFlZuFsclmrN9st.jpg",
+  "rating": 1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-06"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-01-25",
+      "theatricalLimited": "2026-11-06"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-11-06",
+  "title": "Soul Patrol",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "D8LIYqag82E",
+      "name": "Soul Patrol – Official Teaser Trailer",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 1,
+  "watchProviders": {}
+}

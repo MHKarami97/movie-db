@@ -1,0 +1,188 @@
+{
+  "backdropPath": "/AtQRdi1ZwUb1T1fFOkXI16dqNFr.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 4608456,
+      "name": "Soma Zimmatore",
+      "profilePath": "/lzrSeiWIJvHzVKetpBWpEPlavij.jpg"
+    },
+    {
+      "character": "",
+      "id": 3291962,
+      "name": "Thea Achillea",
+      "profilePath": "/qGjF6zgyiwLhv2XrIir1mOxC8PJ.jpg"
+    },
+    {
+      "character": "",
+      "id": 5244338,
+      "name": "Marco Stylianou",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 143505,
+      "name": "Sara Melleri",
+      "profilePath": "/b1AGYgChBFeAN0FIWLbhdajWmaj.jpg"
+    },
+    {
+      "character": "",
+      "id": 88853,
+      "name": "Jarkko Niemi",
+      "profilePath": "/xBuvYDuer3NF03aDnfM6dGWXGad.jpg"
+    },
+    {
+      "character": "",
+      "id": 1364782,
+      "name": "Alma Pöysti",
+      "profilePath": "/lWr3JthLdoe80Ux87DHoUFyK5FS.jpg"
+    },
+    {
+      "character": "",
+      "id": 85751,
+      "name": "Eero Milonoff",
+      "profilePath": "/2U6EPXeURLuX7zQU1gD0euS8DCP.jpg"
+    },
+    {
+      "character": "",
+      "id": 5999,
+      "name": "Kati Outinen",
+      "profilePath": "/cQSSc5IPpU8BoJsQw7EjWLPt98C.jpg"
+    },
+    {
+      "character": "",
+      "id": 53509,
+      "name": "Vesa Vierikko",
+      "profilePath": "/hOtMUcOldeweUDQ9fKj3W9UjmpU.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 7079,
+      "logoPath": "/m4er9bvkoHHgELav4HPgMDlq3MP.png",
+      "name": "Oktober"
+    },
+    {
+      "id": 130621,
+      "logoPath": "/nMz0AaoZbJ4r3fh93C0px0z2S8M.png",
+      "name": "Rein Film"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FI",
+      "name": "Finland"
+    },
+    {
+      "code": "NO",
+      "name": "Norway"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt29003256",
+    "wikidataId": "Q135183652"
+  },
+  "fetchedAt": 1793504874718,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "id": 1286995,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "da",
+      "name": "Danish"
+    },
+    {
+      "code": "fi",
+      "name": "Finnish"
+    }
+  ],
+  "originalTitle": "Tonttu",
+  "overview": "Siblings Lumi and Talvi are separated as children. In search of her sister, Lumi ends up in Elfland, where elves prepare Christmas presents for all the children of the world. The elves are initially suspicious of the human child who appears out of nowhere, but Pyry, an elf boy, welcomes Lumi with interest. Pyry is eager for new adventures and his friendship with Lumi looks like a chance for an exciting journey.",
+  "posterPath": "/zEevTwf2LeYEbTO7J2gT65Beq7G.jpg",
+  "rating": 5.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Elf",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "WG9E7RIrPe0",
+      "name": "The Elf and the Christmas Wonder (Official Trailer)",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ],
+      "free": [
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1286995-tonttu/watch?locale=US",
+      "rent": []
+    }
+  }
+}

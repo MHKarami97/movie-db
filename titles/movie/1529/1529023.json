@@ -1,0 +1,170 @@
+{
+  "backdropPath": "/vOxDnzAHqhaeO0hRpywMPF0DvaL.jpg",
+  "cast": [
+    {
+      "character": "Berre",
+      "id": 3232123,
+      "name": "Jef Hellemans",
+      "profilePath": "/vG6FYMVQyGGEAkzWSkxJ7pBemzC.jpg"
+    },
+    {
+      "character": "Elza",
+      "id": 3701928,
+      "name": "Femke Vanhove",
+      "profilePath": "/9JmGUMXm0yybW2087brXC4h9fhA.jpg"
+    },
+    {
+      "character": "Polak",
+      "id": 82420,
+      "name": "Koen De Bouw",
+      "profilePath": "/7W1RMDnglVxwtg8ccrZmt7z9paH.jpg"
+    },
+    {
+      "character": "Fons Belloy",
+      "id": 88808,
+      "name": "Peter van den Begin",
+      "profilePath": "/1ZSa7cVDCKrMCUZ2tRXKJG81IhP.jpg"
+    },
+    {
+      "character": "Dries",
+      "id": 147295,
+      "name": "Nico Sturm",
+      "profilePath": "/ujhUGPtJWoxpN9lUFCWekp77pUg.jpg"
+    },
+    {
+      "character": "Samuel",
+      "id": 88806,
+      "name": "Robbie Cleiren",
+      "profilePath": "/rWbsJK8Y86xi6MzIHBLqzxUACDZ.jpg"
+    },
+    {
+      "character": "Gaby",
+      "id": 13507,
+      "name": "Els Dottermans",
+      "profilePath": "/wXbbWnAdm2BVyxSymw3CaQDLGyF.jpg"
+    },
+    {
+      "character": "Denize",
+      "id": 591850,
+      "name": "Evelien Bosmans",
+      "profilePath": "/mCfwhWOLZhL2UpB1CuxtDSMbv1l.jpg"
+    },
+    {
+      "character": "Ida",
+      "id": 140492,
+      "name": "Antje De Boeck",
+      "profilePath": "/hKDJLBKr4kxjyGRMUhMXX35AR2I.jpg"
+    },
+    {
+      "character": "André",
+      "id": 76294,
+      "name": "Jan Hammenecker",
+      "profilePath": "/1YPkkXR3GK205H7xEWeVvgGEi7x.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 2699,
+      "logoPath": "/c0vZ3qicUq3z8WD5EF1oleLtNMf.png",
+      "name": "Caviar"
+    },
+    {
+      "id": 246262,
+      "logoPath": null,
+      "name": "Lompvis B.V."
+    },
+    {
+      "id": 104419,
+      "logoPath": "/iR254gYRVrSql6UJqLfkL0IG9TJ.png",
+      "name": "Beluga Tree"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt22872358",
+    "wikidataId": "Q137104883"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1529023,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "nl",
+      "name": "Dutch"
+    },
+    {
+      "code": "pl",
+      "name": "Polish"
+    }
+  ],
+  "originalTitle": "Radioman",
+  "overview": "May 1940. As Europe trembles on the brink of war, two lives cross within Brussels’ legendary Flagey building, the beating heart of national radio. Elza, a young actress making her debut in radio drama, meets Berre, a gifted soundman with a magical ear. She is enchanted by storytelling; he finds solace in sound. Their encounter sparks a love that dares to exist beyond the rising shadow of their time.",
+  "posterPath": "/vmP2KA9XqyhIxiCZ4IgdpsZBg35.jpg",
+  "rating": 7.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-01-05"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2026-01-05"
+    }
+  },
+  "runtime": 118,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The crossed destinies of a boy and a young woman on the eve of the German invasion of Belgium in 1940.",
+  "theatricalDate": "2026-01-05",
+  "title": "The Soundman",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "cmLvljVT4pY",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {}
+}

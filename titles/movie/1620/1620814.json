@@ -1,0 +1,138 @@
+{
+  "backdropPath": "/vklNczLm96PqhVA3qfflOBVTW2W.jpg",
+  "cast": [
+    {
+      "character": "Self - Special agent, homeland security",
+      "id": 5954751,
+      "name": "Greg Squire",
+      "profilePath": null
+    },
+    {
+      "character": "Self - member of the internet criminality brigade, Portugal",
+      "id": 6275069,
+      "name": "Ricardo Vieira",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 50510,
+      "logoPath": "/fNWALeT5F0pOcTtBAeV1No8fB9f.png",
+      "name": "BBC Storyville"
+    },
+    {
+      "id": 242162,
+      "logoPath": "/qD9dVjFCPkY1WHPCnKFRHX7lzoJ.png",
+      "name": "BBC World Service"
+    },
+    {
+      "id": 2067,
+      "logoPath": "/y5knLIUjYsKBIlM4W0dLruWwYaC.png",
+      "name": "RBB"
+    },
+    {
+      "id": 587,
+      "logoPath": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39869408"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1620814,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Darkest Web",
+  "overview": "For US agent Greg Squire and a dedicated network of specialist undercover investigators around the world, the mission is clear: track and catch serial paedophiles who operate across the dark web with the same sophistication and secrecy as international organised crime syndicates. Increasingly, these offenders are far younger than the stereotypical image of a paedophile - tech-savvy young adults who exploit digital anonymity with alarming ease.",
+  "posterPath": "/qsz94c9ZQzAZ9MYcniWiwMaDMIB.jpg",
+  "rating": 7.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "tv": "2026-02-17"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Darkest Web",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "jfSDjAmiScY",
+      "name": "The Darkest Web Inside the internet’s most hidden corners to save kids",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1852,
+          "logoPath": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+          "name": "Britbox Apple TV channel"
+        },
+        {
+          "id": 2039,
+          "logoPath": "/wrSjTgv3jPOTCCYYYGS7XFzS5DH.png",
+          "name": "BBC Select Apple Tv channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1620814-the-darkest-web/watch?locale=US",
+      "rent": []
+    }
+  }
+}

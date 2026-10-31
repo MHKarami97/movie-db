@@ -1,0 +1,82 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Self",
+      "id": 6600019,
+      "name": "Saulius Damulevičius",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 217383,
+      "logoPath": "/8WUgXJ65ZhjfdIe8OIwyZ71TSc6.png",
+      "name": "Broom Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "LT",
+      "name": "Lithuania"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt43744231"
+  },
+  "fetchedAt": 1793853689151,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1817281,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "lt",
+      "name": "Lithuanian"
+    }
+  ],
+  "originalTitle": "Kalnas",
+  "overview": "A documentary about Lithuanian mountaineer Saulius Damulevičius and his Everest attempt without oxygen. 449 meters from the summit, he faced the ultimate choice: to live or to die.",
+  "posterPath": "/dkbw8bjXp3yORowQ1k6140Aw50W.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 75,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Mountain",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

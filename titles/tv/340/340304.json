@@ -1,0 +1,208 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 6583763,
+      "name": "Charles Grant DeBose",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6583764,
+      "name": "Kiarra Raine",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 3973146,
+      "name": "KyLee Evans",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6311098,
+      "name": "Quan",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6583766,
+      "name": "Destiny Ashlynne",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6583768,
+      "name": "Bentley Kyle Evans Jr.",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6583770,
+      "name": "Nathaniel Sudenga",
+      "profilePath": null
+    },
+    {
+      "character": "Coach TC",
+      "id": 1223877,
+      "name": "Vincent M. Ward",
+      "profilePath": "/wA7wu8SPn9xue8BzmHIXmYXmTo3.jpg"
+    },
+    {
+      "character": "",
+      "id": 127931,
+      "name": "Dorien Wilson",
+      "profilePath": "/bGv6dBkxrcX7U8zXO6nNOGKSYxw.jpg"
+    },
+    {
+      "character": "",
+      "id": 223305,
+      "name": "Chico Benymon",
+      "profilePath": "/rlguZh5k0Wj2KXf5vkzg6l6lHn1.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 121204,
+      "logoPath": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+      "name": "BondIt Media Capital"
+    },
+    {
+      "id": 41735,
+      "logoPath": "/je9Ko1f6iu0AfLL3dINJEaxLvEb.png",
+      "name": "Buffalo 8"
+    },
+    {
+      "id": 232055,
+      "logoPath": null,
+      "name": "Harvest Studios"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2027-01-07",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-07",
+        "episodeNumber": 1,
+        "name": "Pilot",
+        "overview": "Seven college freshmen step onto campus for the first time, ready or not, to figure out who they are at Oakley University.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 340304,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-07",
+    "episodeNumber": 1,
+    "id": 8029367,
+    "name": "Pilot",
+    "overview": "Seven college freshmen step onto campus for the first time, ready or not, to figure out who they are at Oakley University.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "New State of Mind",
+  "overview": "New State of Mind follows seven first-year students navigating college life, growth, and relationships at the fictional HBCU Oakley University.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-07",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-07"
+    },
+    "CN": {
+      "tv": "2027-01-07"
+    },
+    "GB": {
+      "tv": "2027-01-07"
+    },
+    "US": {
+      "tv": "2027-01-07"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-07",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "New friends. New challenges. New state of mind.",
+  "theatricalDate": null,
+  "title": "New State of Mind",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "Q072_-3DHRU",
+      "name": "Behind the Scenes of New State of Mind | Bentley Kyle Evans on His Vision",
+      "official": false,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "UDc4cGiRCxA",
+      "name": "New State of Mind | First Look at aspireTV’s New Comedy Series Coming in 2027",
+      "official": false,
+      "type": "Featurette"
+    },
+    {
+      "key": "_bp_d9px30w",
+      "name": "HBCU Comedy 'New State of Mind' Trailer | AspireTV's First Scripted Original Comedy Series",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "QtxtSUcXHiM",
+      "name": "Teaser | New State of Mind | January 2027",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

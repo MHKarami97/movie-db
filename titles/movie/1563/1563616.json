@@ -1,0 +1,153 @@
+{
+  "backdropPath": "/cYTNVjLbbTiqMspFN3jbotLRCl1.jpg",
+  "cast": [
+    {
+      "character": "Cleo",
+      "id": 3516836,
+      "name": "Cristina Ștefania Codreanu",
+      "profilePath": "/3UE7cuASyk1IXEAhfHiZamjeeBM.jpg"
+    },
+    {
+      "character": "Mario",
+      "id": 1480637,
+      "name": "Codin Maticiuc",
+      "profilePath": "/yu6iqXDQI8YPVXGkfLsxI2yLD5O.jpg"
+    },
+    {
+      "character": "Andrei",
+      "id": 2408968,
+      "name": "Denis Hanganu",
+      "profilePath": "/jK9V7GRpvoHpygD1OyWjkpy6W6O.jpg"
+    },
+    {
+      "character": "David",
+      "id": 134841,
+      "name": "Ștefan Iancu",
+      "profilePath": "/nP3p9VuxbddX063pCCDnYgNbIWA.jpg"
+    },
+    {
+      "character": "Raul",
+      "id": 85230,
+      "name": "Andi Vasluianu",
+      "profilePath": "/6aqImm4O1A3a51modGhC2aJnXFF.jpg"
+    },
+    {
+      "character": "",
+      "id": 5852869,
+      "name": "Aris Negoita",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "RO",
+      "name": "Romania"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35052447"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1563616,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ro",
+      "name": "Romanian"
+    }
+  ],
+  "originalTitle": "Cursa",
+  "overview": "To secure his brother's future, a gifted mechanic enters Europe's ultimate street race – and steps into a world of daring stunts and deadly rivalries.",
+  "posterPath": "/oTLcRCSuunNV8ML81VlU4spIpMi.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 97,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Race",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 15,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1563616-cursa/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1563616-cursa/watch?locale=US",
+      "rent": []
+    }
+  }
+}

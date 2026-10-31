@@ -1,0 +1,121 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 82052,
+      "logoPath": null,
+      "name": "Mali Budo"
+    },
+    {
+      "id": 29736,
+      "logoPath": "/ux2z8hoLJWFlN5Nz25d2CMk2tRs.png",
+      "name": "Nukleus film"
+    },
+    {
+      "id": 83640,
+      "logoPath": null,
+      "name": "Studio Virc"
+    },
+    {
+      "id": 15608,
+      "logoPath": "/qBRUElUQABd4zOqTKYPi1A2nQdQ.png",
+      "name": "Agitprop"
+    },
+    {
+      "id": 191871,
+      "logoPath": null,
+      "name": "Mashina Produkcija"
+    }
+  ],
+  "countries": [
+    {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    {
+      "code": "MK",
+      "name": "Macedonia"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1625843,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "hr",
+      "name": "Croatian"
+    },
+    {
+      "code": "mk",
+      "name": "Macedonian"
+    },
+    {
+      "code": "sr",
+      "name": "Serbian"
+    }
+  ],
+  "originalTitle": "Jedna umiruća zvezda",
+  "overview": "A fascinating story of science-fiction films that tried to predict the future of a socialist country that didn’t live long enough to see it.",
+  "posterPath": "/akx2yT2zr18bizd5nxgU3qdb2Ci.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "One Dying Star",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

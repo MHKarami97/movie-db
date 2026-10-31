@@ -1,0 +1,283 @@
+{
+  "backdropPath": "/oKCgBKJxd9PjbaqhyPoSw6QyLLc.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 2290088,
+      "name": "Melissa Macedo",
+      "profilePath": "/apKFhnWaaTQowFyfDOMsCvxxwq0.jpg"
+    },
+    {
+      "character": "",
+      "id": 2352611,
+      "name": "Michelle Macedo",
+      "profilePath": "/cuHDbeaMGDib1oMisYhVaJnywGC.jpg"
+    },
+    {
+      "character": "",
+      "id": 3707386,
+      "name": "Mary Beth Barone",
+      "profilePath": "/4RWzlHz5GPPnaaiz0HDfYO0JJ7H.jpg"
+    },
+    {
+      "character": "Neils",
+      "id": 54728,
+      "name": "Brian Huskey",
+      "profilePath": "/te38JswcD9frbyLuxQPIsBB24yz.jpg"
+    },
+    {
+      "character": "Demetria",
+      "id": 209196,
+      "name": "Annie Ilonzeh",
+      "profilePath": "/CTJr6V472oxa92GDCd3Eqh4jDd.jpg"
+    },
+    {
+      "character": "Josh",
+      "id": 234953,
+      "name": "Gavin Stenhouse",
+      "profilePath": "/s55MZewbynQdDaZ5oV8VoapXFsM.jpg"
+    },
+    {
+      "character": "Chaela",
+      "id": 134780,
+      "name": "Shannon Dang",
+      "profilePath": "/b140a0fv7avVAExdgCwQE6jaBOK.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 294630,
+      "logoPath": null,
+      "name": "Dogplayer"
+    },
+    {
+      "id": 254245,
+      "logoPath": null,
+      "name": "Hitmakers Media"
+    },
+    {
+      "id": 163116,
+      "logoPath": "/p1JBJbwv6CvaCT0vqsJCJhhJId0.png",
+      "name": "Mary Ellen Moffat"
+    },
+    {
+      "id": 294631,
+      "logoPath": null,
+      "name": "Stay Lucky Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt29720283",
+    "wikidataId": "Q137379908"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1481946,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Thinestra",
+  "overview": "A young woman takes a new weight-loss pill and the fat she sheds returns in the form of her blood-thirsty doppelgänger.",
+  "posterPath": "/ubsAc9vU7FYoMcWAIokD2L6nRQZ.jpg",
+  "rating": 5.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-14"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-06-20"
+    },
+    "US": {
+      "premiere": "2025-08-08",
+      "theatricalLimited": "2026-04-14"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Just diet.",
+  "theatricalDate": "2026-04-14",
+  "title": "Thinestra",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "HHpo2GsSkys",
+      "name": "Thinestra | Official Trailer | Horror Brains",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ],
+      "free": [
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1481946-thinestra/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ],
+      "free": [
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1481946-thinestra/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        },
+        {
+          "id": 2077,
+          "logoPath": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+          "name": "Plex Channel"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ],
+      "free": [
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        },
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1481946-thinestra/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "backdropPath": "/l2Fk70FTuBPDx32gTsVUrRvF8jC.jpg",
+  "cast": [
+    {
+      "character": "Amaia",
+      "id": 544004,
+      "name": "Susana Abaitua",
+      "profilePath": "/v9BA3YRPkEBpfL3ogKkn2Phag6m.jpg"
+    },
+    {
+      "character": "Teniente Coronel Castro",
+      "id": 51905,
+      "name": "Andrés Gertrúdix",
+      "profilePath": "/qR9EyorWi9Z8WnoFcY5AskYBW4B.jpg"
+    },
+    {
+      "character": "Begoña",
+      "id": 1522118,
+      "name": "Iraia Elias",
+      "profilePath": "/sqtUzaP1hwLkEkMQ8JoZZbjqtNr.jpg"
+    },
+    {
+      "character": "Anboto",
+      "id": 17006,
+      "name": "Ariadna Gil",
+      "profilePath": "/4g5IyK6br9UCRqLLlW8z5ZLFtYf.jpg"
+    },
+    {
+      "character": "Arrieta",
+      "id": 34021,
+      "name": "Raúl Arévalo",
+      "profilePath": "/npWhiRnqlbqku6mNnk5RTgGvnj2.jpg"
+    },
+    {
+      "character": "Antza",
+      "id": 1117804,
+      "name": "Anartz Zuazua",
+      "profilePath": "/abQ9nXis7hqVjAW7VKNDRYkbgzy.jpg"
+    },
+    {
+      "character": "Txiki el Viejo",
+      "id": 37613,
+      "name": "Jaime Chávarri",
+      "profilePath": "/7W1ax4s7l31seVqSndufvcdjulS.jpg"
+    },
+    {
+      "character": "Adela",
+      "id": 1987954,
+      "name": "Cris Iglesias",
+      "profilePath": "/qJeRU4ToSc57diLsHlCx2fkWl1G.jpg"
+    },
+    {
+      "character": "Renteria",
+      "id": 1076948,
+      "name": "Mikel Losada",
+      "profilePath": "/uCL4nq9WZUU708By82SOk0D7jxr.jpg"
+    },
+    {
+      "character": "Andoni",
+      "id": 2943742,
+      "name": "Ander Lacalle",
+      "profilePath": "/1RzK5asw7lm6fTfDrNgTkqGagwu.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 272450,
+      "logoPath": null,
+      "name": "Basoilarraren Filmak"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": "2025-10-17",
+  "externalIds": {
+    "imdbId": "tt32129665",
+    "wikidataId": "Q132083442"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1275151,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    },
+    {
+      "code": "eu",
+      "name": "Basque"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Un fantasma en la batalla",
+  "overview": "A young agent leaves everything behind to pose as a member of ETA, risking her life to uncover the terrorists' hideouts in the south of France.",
+  "posterPath": "/lR7TH2IlUJWh92HuiYrlb8rNuCp.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2025-10-17"
+    },
+    "GB": {
+      "digital": "2025-10-17"
+    },
+    "US": {
+      "digital": "2025-10-17"
+    }
+  },
+  "runtime": 105,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "She Walks in Darkness",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "fhTkCde7E8I",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "cYFnxE66XRY",
+      "name": "Official Teaser [Subtitled]",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 125,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1275151-un-fantasma-en-la-batalla/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1275151-un-fantasma-en-la-batalla/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1275151-un-fantasma-en-la-batalla/watch?locale=US",
+      "rent": []
+    }
+  }
+}

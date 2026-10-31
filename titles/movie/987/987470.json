@@ -1,0 +1,186 @@
+{
+  "backdropPath": "/2RgHNI8ZAeaGnqcaXrDCWpj7R13.jpg",
+  "cast": [
+    {
+      "character": "Do-kyung",
+      "id": 108535,
+      "name": "Jung Ryeo-won",
+      "profilePath": "/lwpxoITReDuadSr5beFZ3xmxuIQ.jpg"
+    },
+    {
+      "character": "Hyun-ju",
+      "id": 1572354,
+      "name": "Lee Jung-eun",
+      "profilePath": "/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
+    },
+    {
+      "character": "Mi-gyeong",
+      "id": 2501178,
+      "name": "Jang Jin-hee",
+      "profilePath": "/rW6kIPlIU4d7FCAEjVrLTuevw0h.jpg"
+    },
+    {
+      "character": "Jung-man",
+      "id": 2792885,
+      "name": "Kang Jeong-woo",
+      "profilePath": "/hYRQxl5QBG96ABmEqbq9vaml5xo.jpg"
+    },
+    {
+      "character": "Yong-jae",
+      "id": 3038588,
+      "name": "Lee Hwi-jong",
+      "profilePath": "/cJMIeqWUAjPnqoPKIXxqXlZTJie.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 164046,
+      "logoPath": "/q7SpPvg2sJGRMZ5X4ba123eU4Qf.png",
+      "name": "SLL"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt21983828",
+    "wikidataId": "Q115113820"
+  },
+  "fetchedAt": 1793452486014,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 987470,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "originalTitle": "하얀 차를 탄 여자",
+  "overview": "Hyun-ju, a kind-hearted small-town cop with a razor-sharp mind, is summoned by the local hospital to deal with Do-kyung, who has arrived carrying the limp body of her sister, believed to have been stabbed in a violent attack by her controlling fiancé. Hyun-ju, herself a victim of domestic abuse, is sympathetic until she finds holes in Do-kyung's statement. Her suspicions are further aroused when it transpires that the injured woman is not Do-kyung's sister and Do-kyung's real sister is missing.",
+  "posterPath": "/6kLdCMcfYItUrPWCI24CmWfNQRg.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "CA": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "DE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "IR": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2022-10-07"
+    },
+    "JP": {
+      "theatrical": "2026-04-24"
+    },
+    "KR": {
+      "premiere": "2022-07-10",
+      "theatrical": "2025-10-29"
+    },
+    "US": {
+      "premiere": "2022-10-22"
+    }
+  },
+  "runtime": 108,
+  "status": "Released",
+  "tagline": "It's not her fault.",
+  "theatricalDate": null,
+  "title": "하얀 차를 탄 여자",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "8CETduYAXBM",
+      "name": "THE WOMAN IN THE WHITE CAR trailer | BFI London Film Festival 2022",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "JP": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/987470/watch?locale=JP",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 2683,
+          "logoPath": "/m0tkTiV5TN7NWfazDEYc8NoVXSd.png",
+          "name": "FOD"
+        }
+      ]
+    },
+    "KR": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/987470/watch?locale=KR",
+      "rent": []
+    }
+  }
+}

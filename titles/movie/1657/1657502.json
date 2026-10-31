@@ -1,0 +1,162 @@
+{
+  "backdropPath": "/xykyypqHWY6b2GCbgDcThSVNK1T.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1382987,
+      "name": "Ramy Youssef",
+      "profilePath": "/uLQWOoq11TKqnLfJBu90aKEGj8O.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 191137,
+      "logoPath": null,
+      "name": "Cairo Cowboy"
+    },
+    {
+      "id": 196495,
+      "logoPath": null,
+      "name": "American Light & Fixture"
+    },
+    {
+      "id": 295797,
+      "logoPath": null,
+      "name": "TBiddy Film and Television Production"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-04-17",
+  "externalIds": {
+    "imdbId": "tt41378543"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1657502,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Ramy Youssef: In Love",
+  "overview": "In his third HBO special, Ramy Youssef approaches a vast spectrum of personal topics, including marriage, AI, and being a dog parent.",
+  "posterPath": "/5d3ZOUrlpTjV1WyH2IPovRVIF3I.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-04-17",
+      "tv": "2026-07-04"
+    }
+  },
+  "runtime": 64,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Ramy Youssef: In Love",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "4-97n2AXmDQ",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 629,
+          "logoPath": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+          "name": "OSN+"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1657502-ramy-youssef-in-love/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1657502-ramy-youssef-in-love/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1657502-ramy-youssef-in-love/watch?locale=US",
+      "rent": []
+    }
+  }
+}

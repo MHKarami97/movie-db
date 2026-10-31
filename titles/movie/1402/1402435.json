@@ -1,0 +1,130 @@
+{
+  "backdropPath": "/gMmgg0MfLw1pGCZ2BbTNoaE75yq.jpg",
+  "cast": [
+    {
+      "character": "Reed",
+      "id": 2552961,
+      "name": "Nick Funess",
+      "profilePath": null
+    },
+    {
+      "character": "Tess",
+      "id": 2532065,
+      "name": "Izzi Rojas",
+      "profilePath": "/A1457PQ850eAMmGp2u4VVSzNy6o.jpg"
+    },
+    {
+      "character": "Elena",
+      "id": 4148677,
+      "name": "Amrita Newton",
+      "profilePath": "/m8OXnaGCSGLMBeXnCHUKaT0xW3t.jpg"
+    },
+    {
+      "character": "Jeremy",
+      "id": 4346587,
+      "name": "Zachary Grant",
+      "profilePath": null
+    },
+    {
+      "character": "Scott",
+      "id": 1211473,
+      "name": "Eugene Kotlyarenko",
+      "profilePath": "/oIYE1jvF097fNs16Jse5iX25Ybu.jpg"
+    },
+    {
+      "character": "Ava",
+      "id": 5055748,
+      "name": "Anetta Hartono",
+      "profilePath": null
+    },
+    {
+      "character": "Yann",
+      "id": 4229197,
+      "name": "Santiago Saba Salem",
+      "profilePath": null
+    },
+    {
+      "character": "Dad",
+      "id": 5121829,
+      "name": "Richard Funess",
+      "profilePath": null
+    },
+    {
+      "character": "Mom",
+      "id": 4348761,
+      "name": "Marijane Funess",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 247389,
+      "logoPath": null,
+      "name": "SILIENCE"
+    }
+  ],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33398476"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1402435,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Hedonist",
+  "overview": "After a nervous breakdown, a young office assistant flees to his parents' house in Arizona and hires an escort to take care of him.",
+  "posterPath": "/j2t1BzgqKszVREDAwrp4CbR7t0g.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-01-13"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2025-03-30",
+      "theatricalLimited": "2027-01-13"
+    }
+  },
+  "runtime": 78,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2027-01-13",
+  "title": "The Hedonist",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

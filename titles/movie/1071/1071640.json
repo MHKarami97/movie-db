@@ -1,0 +1,154 @@
+{
+  "backdropPath": "/my0Be7yOeJzSaVBh77b7cyXE97a.jpg",
+  "cast": [
+    {
+      "character": "Ben Cheng",
+      "id": 21914,
+      "name": "Alex Fong Chung-sun",
+      "profilePath": "/qQKB910E3e2YLOQs4WdaouJiFJE.jpg"
+    },
+    {
+      "character": "Wallace Cheung",
+      "id": 1172629,
+      "name": "Carlos Chan Ka-lok",
+      "profilePath": "/uCocD9qqMME6ADzKmfaHU6m2eV8.jpg"
+    },
+    {
+      "character": "Lung Yuen",
+      "id": 1202564,
+      "name": "Louis Cheung",
+      "profilePath": "/ypmPVRkZkjtS7qE3P8nU5GYCXnT.jpg"
+    },
+    {
+      "character": "Mo Yuen",
+      "id": 63585,
+      "name": "Andy On Chi-kit",
+      "profilePath": "/9qUfGKAG3zkpxiAwABu84wiMmqn.jpg"
+    },
+    {
+      "character": "Kai Kam",
+      "id": 78877,
+      "name": "Ray Lui",
+      "profilePath": "/vAWHhBCWZwBKLsujgEKusfMLmCO.jpg"
+    },
+    {
+      "character": "Kwai Chan",
+      "id": 148884,
+      "name": "Chin Ka-Lok",
+      "profilePath": "/1C8uMztrOOBYlhOj2VKHsfDzQv9.jpg"
+    },
+    {
+      "character": "Raven",
+      "id": 1455929,
+      "name": "German Cheung Man-kit",
+      "profilePath": "/yq29KpKUQUyyTYaz8JRxyoBKn5O.jpg"
+    },
+    {
+      "character": "Dad",
+      "id": 66010,
+      "name": "Power Chan Kwok-pong",
+      "profilePath": "/o5wZEj3oS527cE4g1JdfVledphb.jpg"
+    },
+    {
+      "character": "Powder Keg",
+      "id": 3962139,
+      "name": "Macy Ma",
+      "profilePath": "/6z985YyL6aezgibAmugRvSoG3Yw.jpg"
+    },
+    {
+      "character": "Shing Yuen",
+      "id": 1143687,
+      "name": "Sammy Sum Chun-hin",
+      "profilePath": "/14JvAGteXhwqciX0uNAwdGaC20K.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 122289,
+      "logoPath": "/4l16C8j9h4frZO5iPD71lpLqTH3.png",
+      "name": "Emperor Motion Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "digitalDate": "2026-02-10",
+  "externalIds": {
+    "facebookId": "UltimateRevengeMovie",
+    "imdbId": "tt32272771",
+    "wikidataId": "Q123330657"
+  },
+  "fetchedAt": 1793654174010,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1071640,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    },
+    {
+      "code": "cn",
+      "name": "Cantonese"
+    }
+  ],
+  "originalTitle": "衝鋒: 火拼",
+  "overview": "The Yau Tsim Mong area, the core commercial area of Hong Kong, has recently experienced a series of robberies. Many jewelry stores in the area have been ransacked by gangsters. Police unit is given the mission to take the gangsters into a custody, but the operation is not so easy.",
+  "posterPath": "/xqu6u29ToxZos0PojcgXy2hEx9b.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-02-10",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "digital": "2026-02-10"
+    }
+  },
+  "runtime": 110,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Ultimate Revenge",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {}
+}

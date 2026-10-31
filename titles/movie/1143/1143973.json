@@ -1,0 +1,151 @@
+{
+  "backdropPath": "/7wlZpYSxmwdcNDEZj7gNwYPeekm.jpg",
+  "cast": [
+    {
+      "character": "Raul Gatti",
+      "id": 17839,
+      "name": "Pierfrancesco Favino",
+      "profilePath": "/hedzgTKFKrSleWvLkBlANng8w4T.jpg"
+    },
+    {
+      "character": "Felice Milella",
+      "id": 3920185,
+      "name": "Tiziano Menichelli",
+      "profilePath": "/pNQidYncvo5k6dvEYpLOjxerFnX.jpg"
+    },
+    {
+      "character": "Pietro Milella",
+      "id": 556729,
+      "name": "Giovanni Ludeno",
+      "profilePath": "/1OsdLgywScdMjrLm8cUGnEBIKsa.jpg"
+    },
+    {
+      "character": "Maestra Wilma",
+      "id": 1510167,
+      "name": "Dora Romano",
+      "profilePath": "/4WvIHeaG66oAN58NlyC1DSOQGHi.jpg"
+    },
+    {
+      "character": "Claudia",
+      "id": 1435167,
+      "name": "Valentina Bellè",
+      "profilePath": "/pVkJQ7oBSvoS6a3JdB5WV3F52du.jpg"
+    },
+    {
+      "character": "Beata Milella",
+      "id": 1375643,
+      "name": "Astrid Meloni",
+      "profilePath": "/z6A1VBH8QAJQ3NhkRmo1hdKY3Vr.jpg"
+    },
+    {
+      "character": "Francesca",
+      "id": 1776083,
+      "name": "Chiara Bassermann",
+      "profilePath": "/nmv6Fx8dEdAvzvjJaCtrgF3vt8o.jpg"
+    },
+    {
+      "character": "Gragorio",
+      "id": 107626,
+      "name": "Paolo Briguglia",
+      "profilePath": "/m5zgv4OzYydp05xfdmaOJ9BkVhY.jpg"
+    },
+    {
+      "character": "Camillo Cecchetti",
+      "id": 263002,
+      "name": "Roberto Zibetti",
+      "profilePath": null
+    },
+    {
+      "character": "Scintilla",
+      "id": 44434,
+      "name": "Edwige Fenech",
+      "profilePath": "/AplCfkkWGoPdh6FgOI1sKvlg9IY.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 18156,
+      "logoPath": "/3nAuYcaWdpW0ULMvMz6V5HIJmCO.png",
+      "name": "Indiana Production"
+    },
+    {
+      "id": 1533,
+      "logoPath": "/bMD3Zv15TujMXJwvqoTFY6Scexx.png",
+      "name": "Indigo Film"
+    },
+    {
+      "id": 115535,
+      "logoPath": "/mYoc1K3UPAUqKfuCYkvDLJN2aAA.png",
+      "name": "Vision Distribution"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt5179884",
+    "wikidataId": "Q136043847"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1143973,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "originalTitle": "Il Maestro",
+  "overview": "Italy, 1989. After years of hard training, 13-year-old Felice, carrying his father's expectations on his shoulders, finally sets out to compete in the national tennis tournaments. While dreaming of a simple summer vacation, he's instead placed under the wing of ex tennis champion Raul, an unconventional coach hired by his father. Match after match, the two embark on a journey that will lead Felice to discover the taste of freedom, and Raul to glimpse the possibility of a fresh start. As they travel along the Italian coast, an unexpected, deep, and sincere bond between them develops.",
+  "posterPath": "/6tJSUT4sG1b5H1RLfxsv8mMjoCa.jpg",
+  "rating": 6.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-09-20"
+    }
+  },
+  "runtime": 125,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "My Tennis Maestro",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 119,
+  "watchProviders": {}
+}

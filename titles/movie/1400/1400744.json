@@ -1,0 +1,251 @@
+{
+  "backdropPath": "/1EXHKv9CEIWdTzYTgy04qyd20Bp.jpg",
+  "cast": [
+    {
+      "character": "Self - Narrator",
+      "id": 1288788,
+      "name": "Charlie Shackleton",
+      "profilePath": "/vZ2wpK1RTlhcdDK84UYHQk4DGWJ.jpg"
+    },
+    {
+      "character": "Lyndon",
+      "id": 1172059,
+      "name": "Guy Robbins",
+      "profilePath": "/gque7AmrO3MdfAfRxfBxMXT9Fv6.jpg"
+    },
+    {
+      "character": "Tucker",
+      "id": 578690,
+      "name": "Lee Nicholas Harris",
+      "profilePath": "/9crQhkCT2HJnLKW8THeteZnTeEJ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 71551,
+      "logoPath": "/hT2G2iuXXqY458TYen2T2qmjlS8.png",
+      "name": "Field of Vision"
+    },
+    {
+      "id": 181797,
+      "logoPath": null,
+      "name": "Loop"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-01-06",
+  "externalIds": {
+    "imdbId": "tt34965959",
+    "wikidataId": "Q131985790"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 46,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1400744,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Zodiac Killer Project",
+  "overview": "Against the backdrop of deserted spaces, a filmmaker explores his abandoned Zodiac Killer documentary, delving into the true crime genre's inner workings at a saturation point.",
+  "posterPath": "/x1ZOSia1JA6SnRyokBOoVje2L67.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-01-06",
+      "gapDays": 46,
+      "theatricalDate": "2025-11-21"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-08-15"
+    },
+    "US": {
+      "digital": "2026-01-06",
+      "premiere": "2025-01-27",
+      "theatricalLimited": "2025-11-21"
+    }
+  },
+  "runtime": 92,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2025-11-21",
+  "title": "Zodiac Killer Project",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "u0CIawoCtn4",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 10,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1400744-zodiac-killer-project/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 224,
+          "logoPath": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+          "name": "BFI Player"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1854,
+          "logoPath": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 635,
+          "logoPath": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+          "name": "AMC+ Roku Premium Channel"
+        },
+        {
+          "id": 526,
+          "logoPath": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+          "name": "AMC+"
+        },
+        {
+          "id": 143,
+          "logoPath": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+          "name": "Sundance Now"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1400744-zodiac-killer-project/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

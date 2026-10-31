@@ -1,0 +1,597 @@
+{
+  "backdropPath": "/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
+  "cast": [
+    {
+      "character": "J. Daniel Atlas",
+      "id": 44735,
+      "name": "Jesse Eisenberg",
+      "profilePath": "/2ojZrkt5rdkUi857WSeCatxXdGS.jpg"
+    },
+    {
+      "character": "Bosco",
+      "id": 3918497,
+      "name": "Dominic Sessa",
+      "profilePath": "/tSRLahrkA3iHJmKjkh3R2ZBFIQN.jpg"
+    },
+    {
+      "character": "June",
+      "id": 1767250,
+      "name": "Ariana Greenblatt",
+      "profilePath": "/lp7lzzBE7EYTMvSb4foN5LyZUkP.jpg"
+    },
+    {
+      "character": "Charlie",
+      "id": 1029934,
+      "name": "Justice Smith",
+      "profilePath": "/htJrcOzYkLVcnF4ExT4O1bDN5e5.jpg"
+    },
+    {
+      "character": "Veronika Vanderberg",
+      "id": 10882,
+      "name": "Rosamund Pike",
+      "profilePath": "/8ObNklHDi2hjdz0ayzJFB9jtqzm.jpg"
+    },
+    {
+      "character": "Merritt McKinney",
+      "id": 57755,
+      "name": "Woody Harrelson",
+      "profilePath": "/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+    },
+    {
+      "character": "Jack Wilder",
+      "id": 54697,
+      "name": "Dave Franco",
+      "profilePath": "/to7ee1xcCOpDSKMXjBIRuYEfbEc.jpg"
+    },
+    {
+      "character": "Henley Reeves",
+      "id": 52848,
+      "name": "Isla Fisher",
+      "profilePath": "/vVeKcMyFMPcIDLYNAnGSGnQrJ3k.jpg"
+    },
+    {
+      "character": "Lula",
+      "id": 51988,
+      "name": "Lizzy Caplan",
+      "profilePath": "/cHs9pPpjcEMpWrGmrAYAn0QOE78.jpg"
+    },
+    {
+      "character": "Thaddeus Bradley",
+      "id": 192,
+      "name": "Morgan Freeman",
+      "profilePath": "/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1632,
+      "logoPath": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate"
+    },
+    {
+      "id": 281285,
+      "logoPath": null,
+      "name": "Cohen Pictures"
+    },
+    {
+      "id": 221429,
+      "logoPath": "/rWqW00ts1tZ0efwyacZlGnVd6PB.png",
+      "name": "Media Capital Technologies"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-12-16",
+  "externalIds": {
+    "facebookId": "NowYouSeeMeMovie",
+    "imdbId": "tt4712810",
+    "instagramId": "nysmmovie",
+    "twitterId": "NYSMmovie",
+    "wikidataId": "Q65146722"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 425274,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Now You See Me: Now You Don't",
+  "overview": "یک سرقت بزرگ الماس باعث می شود که اسب‌ سواران قدیمی دوباره کنار هم قرار می‌گیرند و با گروهی از شعبده‌ بازان جدید متحد شوند. آن‌ها برای مقابله با مجموعه‌ ای از مجرمان خطرناک باید عملیات‌هایی پیچیده و فریبکارانه طراحی کنن. در این ماجرا، دو نسل از توهم‌ آفرینان با هم همکاری می‌کنند تا راز سرقت را فاش کرده و دشمنانشان را شکست دهند و ...",
+  "posterPath": "/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-03-28",
+      "gapDays": 134,
+      "theatricalDate": "2025-11-14"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-11-12"
+    },
+    "US": {
+      "digitalDate": "2025-12-16",
+      "gapDays": 32,
+      "theatricalDate": "2025-11-14"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "digital": "2026-03-28",
+      "premiere": "2025-11-13",
+      "theatrical": "2025-11-14"
+    },
+    "GB": {
+      "theatrical": "2025-11-12"
+    },
+    "US": {
+      "digital": "2025-12-16",
+      "premiere": "2025-11-01",
+      "theatrical": "2025-11-14",
+      "tv": "2026-03-14"
+    }
+  },
+  "runtime": 112,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Unlock the illusion.",
+  "theatricalDate": "2025-11-14",
+  "title": "Now You See Me: Now You Don't",
+  "translations": {
+    "faOverview": "یک سرقت بزرگ الماس باعث می شود که اسب‌ سواران قدیمی دوباره کنار هم قرار می‌گیرند و با گروهی از شعبده‌ بازان جدید متحد شوند. آن‌ها برای مقابله با مجموعه‌ ای از مجرمان خطرناک باید عملیات‌هایی پیچیده و فریبکارانه طراحی کنن. در این ماجرا، دو نسل از توهم‌ آفرینان با هم همکاری می‌کنند تا راز سرقت را فاش کرده و دشمنانشان را شکست دهند و ...",
+    "faTitle": "حالا مرا میبینی : حالا نمی بینی"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "LWuZc-oaeYo",
+      "name": "Isla, Rosamund and Ariana answering the BIG questions (new or OG Horsemen ofc)",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ulrI4mQQH8w",
+      "name": "Official Clip 'We Made The Fifth Horseman Reappear'",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "KEnmKJK386c",
+      "name": "don't miss the #1 film in the WORLD.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "GW5tPR4wi2s",
+      "name": "pov: you've only got a 1 min to chat with Ariana Greenblatt",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "68TG5EycuAQ",
+      "name": "Critics agree - Now You See Me: Now You Don’t delivers the fun.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "tPBDA8H90J4",
+      "name": "There’s still a few more tricks up our sleeves.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "_aafiClfl1s",
+      "name": "It’s good to be back.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "cSuyrDR1dXk",
+      "name": "okay, but why hasn't this magic trick happened yet???",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "RljplAfwFf4",
+      "name": "Trailer Reactions",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "sBzGJyR44Rs",
+      "name": "is this the world's biggest ever magic trick???",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "MNlGPyL6ezQ",
+      "name": "get yourself down to the cinema today to see what you're missing out on",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "8eMejHfJWho",
+      "name": "The Horsemen are BACK.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "x1IXsc4qKtw",
+      "name": "they say you should learn something new every day",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "dsdE17u-Ebk",
+      "name": "David Blaine joins Woody Harrelson on Hot Ones",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "uA_lyP75w1U",
+      "name": "You know you want to see a magic trick.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ifxjtfl-nno",
+      "name": "This next trick is bigger and better than anything you’ve seen before.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Z0aCv-cj5ho",
+      "name": "Reneé Rapp – “Lucky” with Cast from Now You See Me: Now You Don’t (2025)",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "89n_hlN-K5k",
+      "name": "Special Feature ‘Real Magic’",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "Sbpa7Dm04fw",
+      "name": "and for our next trick: making Jesse Eisenberg appear",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Jk_0J8zyAaI",
+      "name": "When the Horsemen call, you answer.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "lLWESUfW-0A",
+      "name": "Final Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "U6zMai9D-EU",
+      "name": "The cinema is the only place you're going to want to be on November 14",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "kScfUIoH40E",
+      "name": "Zach King Teams Up With Now You See Me: Now You Don't Cast",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "gziPy5e_m00",
+      "name": "Cast Heist Interrogation",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "yfM9D4VdLWs",
+      "name": "The dream team.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "VtG7cl-aWFE",
+      "name": "Always meet your heroes.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "lCYmQRathSQ",
+      "name": "Official Clip 'Diamonds Are Forever'",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "KVuAlqO_ARI",
+      "name": "dug into the camera roll for y’all",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "A-Xb4nVXunM",
+      "name": "This next trick is bigger and better than you’ve ever seen.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "hIpxmGuDhOU",
+      "name": "Time for a (very) rapid fire Q&A with the cast",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Q1Qdy7I4ffs",
+      "name": "Special Feature 'Jesse Interviews the Apprentices'",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "1sB3XfMfVl0",
+      "name": "Ready to see some magic?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "3JCNP8ABWH4",
+      "name": "Official Clip 'A Lock You Solve'",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "sbCgzQa1FdY",
+      "name": "Now You See… his trailer.",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "lTf_hkEt4Ys",
+      "name": "Official Clip 'Magic Showdown'",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "qfJ1NuMv4t4",
+      "name": "Optical Illusion",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "uogrgIasYcA",
+      "name": "Official Trailer #2",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "3yzKdOESYNQ",
+      "name": "Back on the map. Trailer 2 TOMORROW.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "aWLlyrWtkX0",
+      "name": "Mother knows best. Trailer 2 in TWO days.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9EDqqhTIK3o",
+      "name": "You know you missed Merritt. Trailer 2 in THREE days.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9mdNOeXX_uE",
+      "name": "It’s about to get Wilder. Trailer in FOUR days.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "zR7ApJF7BfE",
+      "name": "Treat yourself.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "s239xPGDous",
+      "name": "Look closer. Which way does the diamond turn?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "nG52I31izy4",
+      "name": "It’s called self care.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "QjgPT1-DYAs",
+      "name": "We stole the show. You kept the change.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "-E3lMRx7HRQ",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "5KV2Clkym9s",
+      "name": "In theaters November 14, 2025.",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 1937,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1750,
+          "logoPath": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+          "name": "TOD"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/425274-now-you-see-me-now-you-don-t/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/425274-now-you-see-me-now-you-don-t/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        },
+        {
+          "id": 1855,
+          "logoPath": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+          "name": "Starz Apple TV channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/425274-now-you-see-me-now-you-don-t/watch?locale=US",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 331,
+          "logoPath": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+          "name": "FlixFling"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

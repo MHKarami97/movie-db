@@ -1,0 +1,343 @@
+{
+  "backdropPath": "/9MeHubuKm7XJLx68LDEkE8yVnWZ.jpg",
+  "cast": [
+    {
+      "character": "Dolly",
+      "id": 3420298,
+      "name": "Max the Impaler",
+      "profilePath": "/pwSfguf7PypufQmUZRb9vaOdzxV.jpg"
+    },
+    {
+      "character": "Macy",
+      "id": 576223,
+      "name": "Fabianne Therese",
+      "profilePath": "/w1ES3wqpERfngz7DVujVMSpLZ04.jpg"
+    },
+    {
+      "character": "Chase",
+      "id": 57599,
+      "name": "Seann William Scott",
+      "profilePath": "/AftiUFP4rYcl3SG3xllxyiLiuXS.jpg"
+    },
+    {
+      "character": "Tobe",
+      "id": 824,
+      "name": "Ethan Suplee",
+      "profilePath": "/gGSb8P9nQdDNu0JC65zyAyMUFhS.jpg"
+    },
+    {
+      "character": "Billy",
+      "id": 2646693,
+      "name": "Russ Tiller",
+      "profilePath": "/7gcmxCiWvjQFGI90CxsnjLmzx2S.jpg"
+    },
+    {
+      "character": "Aunt Sadie",
+      "id": 2270651,
+      "name": "Michalina Scorzelli",
+      "profilePath": "/t2BJWQVX8NhAUJ6vKm2Mm6HLHIO.jpg"
+    },
+    {
+      "character": "Rachel",
+      "id": 1182729,
+      "name": "Kate Cobb",
+      "profilePath": "/k9maL6BBeYXSbHmKHBhQEMMlupL.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 154462,
+      "logoPath": "/b50HZtBl1ANTbHwu7PJmSAccZk1.png",
+      "name": "Witchcraft Motion Picture Company"
+    },
+    {
+      "id": 156293,
+      "logoPath": null,
+      "name": "Gentile Entertainment Group"
+    },
+    {
+      "id": 74148,
+      "logoPath": null,
+      "name": "Mama Bear Studios"
+    },
+    {
+      "id": 235412,
+      "logoPath": null,
+      "name": "Monarque Entertainment"
+    },
+    {
+      "id": 235413,
+      "logoPath": "/ibJpTZCuFl16aghGvzNhs60B29H.png",
+      "name": "Set Point Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-24",
+  "externalIds": {
+    "imdbId": "tt32639175",
+    "wikidataId": "Q138337407"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 232,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1309083,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Dolly",
+  "overview": "Young Macy is abducted by a deranged, monstrous figure who wants to raise her as its child.",
+  "posterPath": "/oJJquv1sg5XMTIyNHxEm0KLo696.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-07"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-03-06"
+    },
+    "US": {
+      "digitalDate": "2026-10-24",
+      "gapDays": 232,
+      "theatricalDate": "2026-03-06"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-05-07"
+    },
+    "GB": {
+      "theatrical": "2026-03-06"
+    },
+    "US": {
+      "digital": "2026-10-24",
+      "premiere": "2025-09-21",
+      "theatrical": "2026-03-06"
+    }
+  },
+  "runtime": 83,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Mommy knows best.",
+  "theatricalDate": "2026-03-06",
+  "title": "Dolly",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "JIBPpI3cOAc",
+      "name": "In Cinemas this Friday",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "O9OmgGUgq80",
+      "name": "Official Clip | Dollhouse Nightmare",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "LALT2B-Ubpk",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "XwpCVf5VZtI",
+      "name": "Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 249,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 630,
+          "logoPath": "/vnpp3n6DAIh2sKXfMbehKZAWJMC.png",
+          "name": "STARZPLAY"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1309083-dolly/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        },
+        {
+          "id": 204,
+          "logoPath": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+          "name": "Shudder Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1309083-dolly/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1854,
+          "logoPath": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 635,
+          "logoPath": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+          "name": "AMC+ Roku Premium Channel"
+        },
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        },
+        {
+          "id": 204,
+          "logoPath": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+          "name": "Shudder Amazon Channel"
+        },
+        {
+          "id": 2049,
+          "logoPath": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+          "name": "Shudder Apple TV channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1309083-dolly/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

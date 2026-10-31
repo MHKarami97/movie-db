@@ -1,0 +1,384 @@
+{
+  "backdropPath": "/f5445uc1T6HqTe4Zi0hfkk7kuHn.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 123919,
+      "name": "Guy A. Lepage",
+      "profilePath": "/anUeTYaX99tM8hACiAKR0zTdMPD.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 57579,
+      "logoPath": "/al14xBYjgUndQZP5voBlqylHae3.png",
+      "name": "ICI RDI"
+    },
+    {
+      "id": 39279,
+      "logoPath": "/djEsVdwtMaiLnt3ci1vfNakkVdS.png",
+      "name": "Avanti Groupe"
+    },
+    {
+      "id": 80037,
+      "logoPath": null,
+      "name": "Le gars de la TV"
+    },
+    {
+      "id": 80038,
+      "logoPath": null,
+      "name": "Les Productions Jacques K. Primeau"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2004-09-12",
+  "episodes": {
+    "23": [
+      {
+        "airDate": "2026-09-20",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-09-27",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-04",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-11",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-18",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-25",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-01",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "Tout-le-monde-en-parle-112565155447457",
+    "imdbId": "tt0431577",
+    "instagramId": "off_tlmep",
+    "twitterId": "OFF_TLMEP",
+    "wikidataId": "Q3535746"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 31351,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-25",
+    "episodeNumber": 6,
+    "id": 8014494,
+    "name": "Episode 6",
+    "overview": "",
+    "seasonNumber": 23
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-01",
+    "episodeNumber": 7,
+    "id": 8014495,
+    "name": "Episode 7",
+    "overview": "",
+    "seasonNumber": 23
+  },
+  "originalTitle": "Tout le monde en parle",
+  "overview": "Host Guy A. Lepage brings together six to eight personalities from different milieus—sports, politics, stage productions and more—that are the subject of everyone’s conversations and/or are important figures in recent events. Participants are invited to speak freely, voicing their opinions on headline news or on a subject that is near and dear to them. ",
+  "posterPath": "/2ij9iqLwm2FMnd6chiX4VvJDiIh.jpg",
+  "rating": 4.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2004-09-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2004-09-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2004-09-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2004-09-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2004-09-12"
+    },
+    "CN": {
+      "tv": "2004-09-12"
+    },
+    "GB": {
+      "tv": "2004-09-12"
+    },
+    "US": {
+      "tv": "2004-09-12"
+    }
+  },
+  "runtime": 140,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2005-01-02",
+      "episodeCount": 48,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2004-09-12",
+      "episodeCount": 24,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2005-09-11",
+      "episodeCount": 24,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2006-09-17",
+      "episodeCount": 24,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2007-09-16",
+      "episodeCount": 24,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2008-09-21",
+      "episodeCount": 24,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "2009-09-27",
+      "episodeCount": 24,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "2010-09-26",
+      "episodeCount": 24,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "2011-09-25",
+      "episodeCount": 24,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "2012-09-23",
+      "episodeCount": 24,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2013-09-22",
+      "episodeCount": 25,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2014-09-21",
+      "episodeCount": 25,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2015-09-26",
+      "episodeCount": 24,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2016-09-24",
+      "episodeCount": 26,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2017-09-23",
+      "episodeCount": 25,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2018-09-22",
+      "episodeCount": 26,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2019-09-22",
+      "episodeCount": 31,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2020-09-26",
+      "episodeCount": 30,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2021-09-25",
+      "episodeCount": 26,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2022-09-25",
+      "episodeCount": 26,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2023-09-24",
+      "episodeCount": 26,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": "/hofLC2iaHHwUIavafe4PZhDT3ye.jpg",
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2024-09-22",
+      "episodeCount": 28,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2025-09-20",
+      "episodeCount": 26,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2026-09-20",
+      "episodeCount": 7,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": "/nrktbyzou8nylzED7SNmiFssjAP.jpg",
+      "seasonNumber": 23
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Tout le monde en parle",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 11,
+  "watchProviders": {}
+}

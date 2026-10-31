@@ -1,0 +1,164 @@
+{
+  "backdropPath": "/9Zu3uXE03P1qaX3Xp5TeCTqtGJS.jpg",
+  "cast": [
+    {
+      "character": "Beatrice",
+      "id": 1598948,
+      "name": "Valentina Romani",
+      "profilePath": "/ppvIs5wRrhRd4LGjLAMBFcoxIiZ.jpg"
+    },
+    {
+      "character": "Giulio",
+      "id": 3058259,
+      "name": "Nicolas Maupas",
+      "profilePath": "/8WdOQQJc5tZadGngR97c48AadnK.jpg"
+    },
+    {
+      "character": "Gabriele D'Annunzio",
+      "id": 1423301,
+      "name": "Maurizio Lombardi",
+      "profilePath": "/4l11pikTOITlsayYCOtAl939Uz6.jpg"
+    },
+    {
+      "character": "Pietro",
+      "id": 59270,
+      "name": "Riccardo Scamarcio",
+      "profilePath": "/s3ZAW6QA6yZaOx9wmAZfGZ1Z8BP.jpg"
+    },
+    {
+      "character": "Dimitri Pavlov",
+      "id": 1898026,
+      "name": "Darko Perić",
+      "profilePath": "/u3WigKj7tUriLC9Z5XbHuTNk4Wx.jpg"
+    },
+    {
+      "character": "Alceste De Ambris",
+      "id": 3921810,
+      "name": "Daniele Paoloni",
+      "profilePath": "/oAFuRMTsULDp6yjj16HC7TJxYQG.jpg"
+    },
+    {
+      "character": "Beatrice Da Adolescente",
+      "id": 3696366,
+      "name": "Valentina Filippeschi",
+      "profilePath": "/iH847WUCyp3dhGvjZ5fMFecbFZQ.jpg"
+    },
+    {
+      "character": "Guido Keller",
+      "id": 2152025,
+      "name": "Luca Tanganelli",
+      "profilePath": "/lRd9gj4V6GTYV0aSqnBCDA4b38B.jpg"
+    },
+    {
+      "character": "Sara",
+      "id": 2170997,
+      "name": "Susanna Acchiardi",
+      "profilePath": null
+    },
+    {
+      "character": "Warren Finch",
+      "id": 1514079,
+      "name": "Tim Daish",
+      "profilePath": "/fDHM7VzHMYOfTlfFJCZZ8xBeOlI.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 155990,
+      "logoPath": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema"
+    },
+    {
+      "id": 14016,
+      "logoPath": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC"
+    },
+    {
+      "id": 1429,
+      "logoPath": "/n1GvY0KLgk3gcEPO07L7nXncB3i.png",
+      "name": "Italian International Film"
+    },
+    {
+      "id": 38591,
+      "logoPath": "/fa8Jp9NDuVxwokaKMah081ILYh4.png",
+      "name": "Friuli Venezia Giulia Film Commission"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36283691",
+    "wikidataId": "Q139379082"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "id": 1549120,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "originalTitle": "Alla festa della Rivoluzione",
+  "overview": "In 1919 Fiume, Russian spy Beatrice navigates political turmoil while protecting poet Gabriele D’Annunzio, entangling with an intelligence chief and a WWI deserter amid Italy’s revolutionary unrest.",
+  "posterPath": "/9P8ErnUBGXCI1buPSnvttbMjuG2.jpg",
+  "rating": 5.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Poet and the Spy",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 9,
+  "watchProviders": {}
+}

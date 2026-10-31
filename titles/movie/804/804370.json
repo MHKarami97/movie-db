@@ -1,0 +1,414 @@
+{
+  "backdropPath": "/7qSUxLjtgU97nSGNzvw8rdNJ0FT.jpg",
+  "cast": [
+    {
+      "character": "Iris (voice)",
+      "id": 4115114,
+      "name": "Margot Ringard Oldra",
+      "profilePath": null
+    },
+    {
+      "character": "Arco (voice)",
+      "id": 5443009,
+      "name": "Oscar Tresanini",
+      "profilePath": "/jqjdgri0SA5OdAHay4ZTJqEOhcD.jpg"
+    },
+    {
+      "character": "Clifford (voice)",
+      "id": 5813796,
+      "name": "Nathanaël Perrot",
+      "profilePath": null
+    },
+    {
+      "character": "Jeanne / Mikki (voice)",
+      "id": 1096167,
+      "name": "Alma Jodorowsky",
+      "profilePath": "/1Uh2MYZmly1nsKHXoveYQlfAANC.jpg"
+    },
+    {
+      "character": "Tom / Mikki  (voice)",
+      "id": 145120,
+      "name": "Swann Arlaud",
+      "profilePath": "/38iX2NHO7pMdQH1ygoGEJ8E82WV.jpg"
+    },
+    {
+      "character": "Dougie (voice)",
+      "id": 992623,
+      "name": "Vincent Macaigne",
+      "profilePath": "/6Z4JmAauiallW2lXTOuSAiHdHGf.jpg"
+    },
+    {
+      "character": "Stewie (voice)",
+      "id": 16269,
+      "name": "Louis Garrel",
+      "profilePath": "/iKJ1SL0im6tJVnE777HNLX2kUeG.jpg"
+    },
+    {
+      "character": "Frankie (voice)",
+      "id": 544682,
+      "name": "William Lebghil",
+      "profilePath": "/ogz8SaBwqiVuY87EC7pdvHGH4fO.jpg"
+    },
+    {
+      "character": "La mère d'Arco (voix)",
+      "id": 1722532,
+      "name": "Sophie Mas",
+      "profilePath": "/8HUihlwlGrm5JOVMFNAshKnrLNx.jpg"
+    },
+    {
+      "character": "La mère d'Arco - séquence finale (voix)",
+      "id": 2938576,
+      "name": "Frédérique Cantrel",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 172827,
+      "logoPath": "/u1uwRTWA4wOB0ZNm5xm0hDGx6n1.png",
+      "name": "Remembers"
+    },
+    {
+      "id": 157532,
+      "logoPath": "/dUCUH5Rt8Mq9oG5fucrLPs2oABT.png",
+      "name": "MountainA"
+    },
+    {
+      "id": 591,
+      "logoPath": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma"
+    },
+    {
+      "id": 169960,
+      "logoPath": "/mPfWxHoW3WB6RuUAZ0388HUUw3j.png",
+      "name": "Fit Via Vi"
+    },
+    {
+      "id": 149522,
+      "logoPath": "/iFSOhZejd4p6o8me3cCGhfBXC5X.png",
+      "name": "Sons of Rigor Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-02-24",
+  "externalIds": {
+    "imdbId": "tt14883538",
+    "wikidataId": "Q134571218"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 25,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "id": 804370,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Arco",
+  "overview": "Ten-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by any means to help send him back to his own era.",
+  "posterPath": "/mWlvHFxTDhq9O5WSOHywa32QIez.jpg",
+  "rating": 7.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-06-22",
+      "gapDays": 156,
+      "theatricalDate": "2026-01-17"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-03-20"
+    },
+    "US": {
+      "digitalDate": "2026-02-24",
+      "gapDays": 25,
+      "theatricalDate": "2026-01-30"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "digital": "2026-06-22",
+      "premiere": "2025-06-21",
+      "theatrical": "2026-01-17"
+    },
+    "GB": {
+      "theatrical": "2026-03-20"
+    },
+    "US": {
+      "digital": "2026-02-24",
+      "premiere": "2025-10-18",
+      "theatrical": "2026-01-30",
+      "theatricalLimited": "2025-11-14"
+    }
+  },
+  "runtime": 89,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "What if rainbows were people from the future traveling in time?",
+  "theatricalDate": "2026-01-30",
+  "title": "Arco",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "PBRJ2RRip9Q",
+      "name": "Q&A Hosted by Alfonso Cuarón w/ Natalie Portman, Ugo Bienvenu & Sophie Mas",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "8XqI5sO6Gxg",
+      "name": "ARCO | Membership Moments with Kia",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Ud0DK17iF1w",
+      "name": "Adventure [Dubbed]",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "dU08gtbE0vo",
+      "name": "Featurette #1",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "n-sxXh0gqyY",
+      "name": "Official UK Trailer #2 [Dubbed]",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "j7Tpaj-Iet8",
+      "name": "Final Trailer [Dubbed]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "0pxU2zd5Hd8",
+      "name": "🌈 MAKING OF | Arco",
+      "official": false,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "zpQYIIFDx84",
+      "name": "ARCO Exclusive Featurette - The Making of ARCO with Ugo Bienvenu & Natalie Portman (2025)",
+      "official": false,
+      "type": "Featurette"
+    },
+    {
+      "key": "Y4Opv9eIoQA",
+      "name": "Clip - Wishes",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "UxRMiqPz52Q",
+      "name": "Clip - A Chase Through Time",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "e4RrOe8IbI8",
+      "name": "Official Trailer [Dubbed]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "UNUkW6ywV-c",
+      "name": "Official Teaser Trailer",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 294,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/804370-arco/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        },
+        {
+          "id": 189,
+          "logoPath": "/4YC38wgKDkaL2NQiujnUFRt9VIB.png",
+          "name": "Curzon Home Cinema"
+        },
+        {
+          "id": 224,
+          "logoPath": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+          "name": "BFI Player"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/804370-arco/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

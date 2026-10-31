@@ -1,0 +1,193 @@
+{
+  "backdropPath": "/nubSpIsDuoVPactRAdxfKafBaer.jpg",
+  "cast": [
+    {
+      "character": "Veneranda",
+      "id": 6144350,
+      "name": "Clémentine U. Nyirinkindi",
+      "profilePath": "/27VR8BxgWtJ0m5jp6tfQRcIgwWH.jpg"
+    },
+    {
+      "character": "Tina",
+      "id": 6144351,
+      "name": "Kesia Kelly Nishimwe",
+      "profilePath": null
+    },
+    {
+      "character": "Grandmother",
+      "id": 6144352,
+      "name": "Arivere Kagoyire",
+      "profilePath": null
+    },
+    {
+      "character": "Suzane",
+      "id": 2525567,
+      "name": "Isabelle Kabano",
+      "profilePath": "/zOU7ud5mrRGUxBJilLokhqmwFB9.jpg"
+    },
+    {
+      "character": "Victoire",
+      "id": 6144353,
+      "name": "Antoinette Uwamahoro",
+      "profilePath": null
+    },
+    {
+      "character": "Madeleine",
+      "id": 6144354,
+      "name": "Leocadie Uwabeza",
+      "profilePath": null
+    },
+    {
+      "character": "Karangwa",
+      "id": 6144355,
+      "name": "Aime Valens Tuyisenge",
+      "profilePath": null
+    },
+    {
+      "character": "Ingabire",
+      "id": 6144356,
+      "name": "Hamida Uwimana",
+      "profilePath": null
+    },
+    {
+      "character": "Juge",
+      "id": 6144357,
+      "name": "Adelite Mugabo",
+      "profilePath": null
+    },
+    {
+      "character": "Théodata",
+      "id": 6144358,
+      "name": "Clemence Murorunkwere",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 121107,
+      "logoPath": "/rabWiUD1dEtoLPXP8rgEAMKDcfe.png",
+      "name": "DUOFilm AS"
+    },
+    {
+      "id": 295408,
+      "logoPath": "/pZKBNi7KApwE8UIkwOTxUBPhE4u.png",
+      "name": "Ejo Cine"
+    },
+    {
+      "id": 103606,
+      "logoPath": "/lqG6wxp78BX0j1P0fBAQoa22CzU.png",
+      "name": "Les Films du Bilboquet"
+    },
+    {
+      "id": 103605,
+      "logoPath": "/epU9cIW1DFPdnobG9nguHlapb6Z.png",
+      "name": "Princesse M Productions"
+    },
+    {
+      "id": 300951,
+      "logoPath": null,
+      "name": "Ogweli Productions"
+    },
+    {
+      "id": 104,
+      "logoPath": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GA",
+      "name": "Gabon"
+    },
+    {
+      "code": "NO",
+      "name": "Norway"
+    },
+    {
+      "code": "RW",
+      "name": "Rwanda"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38820979",
+    "wikidataId": "Q139570853"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1405200,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "rw",
+      "name": "Kinyarwanda"
+    }
+  ],
+  "originalTitle": "Ben'Imana",
+  "overview": "Rwanda, 2012. The country is emerging from an era of silence after the 1994 Tutsi genocide, and people's courts are being set up with the aim of bringing justice and reconciliation. Veneranda, a survivor, is convinced of the need for these trials. Despite pressures, she organises discussion sessions between victims and the families of the executioners. Therapy for some, an act of betrayal for others, these testimonial sessions revive and reveal the traumas that each of them try to overcome, in their own way. The wounds of Veneranda's past are exposed again when she learns of her daughter's unexpected pregnancy and the identity of the father. Veneranda has to face her own contradictions and the dark parts of her past.",
+  "posterPath": "/bAdS6WNpU3w1k4fDuV7aV2KLCdV.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-02-19"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-27"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-09-27"
+    },
+    "GB": {
+      "premiere": "2026-10-12",
+      "theatrical": "2027-02-19"
+    },
+    "US": {
+      "premiere": "2026-10-17",
+      "theatricalLimited": "2026-11-27"
+    }
+  },
+  "runtime": 101,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-11-27",
+  "title": "Ben'Imana",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "1xl-rhEt7Vo",
+      "name": "Clip [Subtitled]",
+      "official": true,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,562 @@
+{
+  "backdropPath": "/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
+  "cast": [
+    {
+      "character": "Charlie Cannon",
+      "id": 1007683,
+      "name": "Jack Reynor",
+      "profilePath": "/vbPewOkSGGQl93wgshDlczMqiOk.jpg"
+    },
+    {
+      "character": "Larissa Cannon",
+      "id": 1425019,
+      "name": "Laia Costa",
+      "profilePath": "/kSbdpHWLlfzvOfZKJ0dgP0ieVL6.jpg"
+    },
+    {
+      "character": "Detective Dalia Zaki",
+      "id": 1952051,
+      "name": "May Calamawy",
+      "profilePath": "/i1yy5xxPE0bsvdJ3BgyLHGfk1c1.jpg"
+    },
+    {
+      "character": "Katie Cannon",
+      "id": 3524429,
+      "name": "Natalie Grace",
+      "profilePath": "/qnjgunIujTZpBSrMRjTJvgb2pNS.jpg"
+    },
+    {
+      "character": "Sebastián Cannon",
+      "id": 2886183,
+      "name": "Shylo Molina",
+      "profilePath": "/rIhBsRY6c7B4ClLOJbc4qEWter1.jpg"
+    },
+    {
+      "character": "Maud Cannon",
+      "id": 3768556,
+      "name": "Billie Roy",
+      "profilePath": "/criWuHntMq5c6Duv505NApONwUu.jpg"
+    },
+    {
+      "character": "Carmen Santiago",
+      "id": 1029593,
+      "name": "Veronica Falcón",
+      "profilePath": "/uanObSCuuyirFuncV7pBrja2qWT.jpg"
+    },
+    {
+      "character": "The Magician",
+      "id": 1743875,
+      "name": "Hayat Kamille",
+      "profilePath": "/ftzaSEGIEn5uLHy8U7uQrXC7SZc.jpg"
+    },
+    {
+      "character": "Layla Khalil",
+      "id": 1850319,
+      "name": "May Elghety",
+      "profilePath": "/dFpkIOfCrUVIASpN5wutX1OaYls.jpg"
+    },
+    {
+      "character": "Young Katie Cannon",
+      "id": 3543561,
+      "name": "Emily Mitchell",
+      "profilePath": "/A6gzXB5KbLwnrMH07lX3i43Lahs.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 76907,
+      "logoPath": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+      "name": "Atomic Monster"
+    },
+    {
+      "id": 3172,
+      "logoPath": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+      "name": "Blumhouse Productions"
+    },
+    {
+      "id": 12,
+      "logoPath": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema"
+    },
+    {
+      "id": 216687,
+      "logoPath": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+      "name": "Domain Entertainment"
+    },
+    {
+      "id": 285968,
+      "logoPath": null,
+      "name": "Wicked/Good"
+    },
+    {
+      "id": 129815,
+      "logoPath": "/qbCmnVTQEuFqrVkbxn3i9P7Jrcw.png",
+      "name": "Wild Atlantic Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "IE",
+      "name": "Ireland"
+    }
+  ],
+  "digitalDate": "2026-05-19",
+  "externalIds": {
+    "facebookId": "LeeCroninsTheMummy",
+    "imdbId": "tt32612507",
+    "instagramId": "leecroninsthemummy",
+    "twitterId": "LCTheMummyMovie",
+    "wikidataId": "Q133505340"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1304313,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ar",
+      "name": "Arabic"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Lee Cronin's The Mummy",
+  "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+  "posterPath": "/1q308iixueCU4pFtSYugNOevtNx.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-16"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-17"
+    },
+    "US": {
+      "digitalDate": "2026-05-19",
+      "gapDays": 32,
+      "theatricalDate": "2026-04-17"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-04-16"
+    },
+    "GB": {
+      "theatrical": "2026-04-17"
+    },
+    "US": {
+      "digital": "2026-05-19",
+      "physical": "2026-07-14",
+      "premiere": "2026-04-09",
+      "theatrical": "2026-04-17",
+      "tv": "2026-07-04"
+    }
+  },
+  "runtime": 133,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "What happened to Katie?",
+  "theatricalDate": "2026-04-17",
+  "title": "Lee Cronin's The Mummy",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "MfZ4-jj0NoE",
+      "name": "Katie Kidnapped",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "R4HFUI_1PxA",
+      "name": "She Ripped Out Her Own Teeth - Movie Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "9CFcYj9BLmU",
+      "name": "Katie Meets a Mysterious Woman - Movie Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "FyzDnCN7ZnY",
+      "name": "The Stranger Gave Her Candy…",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "TtsBJKSBeGU",
+      "name": "Katie Returns Home - Movie Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "93l7RlFGIRM",
+      "name": "Scorpion Hunt - Deleted Scene",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "kM-V-SbORlk",
+      "name": "The Most Disturbing Scene Yet - Movie Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "ocftVARq8qI",
+      "name": "She Ate a Scorpion…",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "TptW3LPiyho",
+      "name": "Katie Eats a Scorpion - Movie Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "p0Dk1_AccxQ",
+      "name": "Making Of - Behind the Scenes",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "IYVT9Iggaj0",
+      "name": "Something Is Wrong With Katie - Movie Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "Lk1b3URzJKc",
+      "name": "First Look at the Mummy - Full Movie Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "x-W69KDGDRE",
+      "name": "We're way past creepy...",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "PIv1-QUyxlo",
+      "name": "That shouldn't happen…",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "qRqnd4Ol1mw",
+      "name": "You're not ready for what’s behind that door.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ltRQLZycMuY",
+      "name": "don't open it don't open it",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "XEGyXRq48Yc",
+      "name": "A new chapter of fear begins in Lee Cronin's The Mummy, in cinemas now!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ePeicllrZ30",
+      "name": "Only in cinemas April 15",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "a0_LdoX5GsQ",
+      "name": "In Cinemas April 15",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "1dumuYJT9h8",
+      "name": "Now Showing In Cinemas",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "6FPt9zSwCwE",
+      "name": "Now Showing In Cinemas",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "KLXiKGUGa1o",
+      "name": "Now Showing In Cinemas",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "qndLRn600KU",
+      "name": "Canadian fans weren't prepared for what they were about to see... are you?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "WQSLx45QtPw",
+      "name": "Don’t look away…",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "QRsyhDEnowg",
+      "name": "Lee Cronin, James Wan & Jason Blum teamed up for LEE CRONIN'S THE MUMMY.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "AVBCJmY2YRE",
+      "name": "this will give me nightmares for WEEKS",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "zReB-pftpxc",
+      "name": "There’s no escaping the darkness…",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "zmUaYPr3Bv8",
+      "name": "We warned you…",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "BXH8zWC1-1g",
+      "name": "Get ready for LEE CRONINS THE MUMMY in cinemas April 17.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "RDLX8Ym8YlM",
+      "name": "Prepare for the terror that refuses to stay buried in LEE CRONIN’S THE MUMMY in cinemas April 17.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "5dyN8FYNEaI",
+      "name": "In Cinemas 17 April",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "6wbMsDmJLCs",
+      "name": "Tickets On Sale",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "GlRtAYfQ6_0",
+      "name": "Only in Cinemas April 15",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "vPQARuS0U5s",
+      "name": "Evil unearthed in IMAX.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "JFkX27ob1d8",
+      "name": "\"The Sarcophagus” Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "ZiX352UizEI",
+      "name": "She went missing as Katie. She returned as something else.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "NhcLa-5gavg",
+      "name": "Be careful what you pray for.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "XJ0uv-phsDk",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "Pbn1yz2p0CU",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 2839,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 39,
+          "logoPath": "/oFAnvlaEW2KT6J7XM0DXjlWqKu9.png",
+          "name": "Now TV"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1304313-lee-cronin-s-the-mummy/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1304313-lee-cronin-s-the-mummy/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

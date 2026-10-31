@@ -1,0 +1,161 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Jack",
+      "id": 4724,
+      "name": "Kevin Bacon",
+      "profilePath": "/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
+    },
+    {
+      "character": "Ellen",
+      "id": 26467,
+      "name": "Kyra Sedgwick",
+      "profilePath": "/cfpLVZWChElvkKegZopC0xDjEWk.jpg"
+    },
+    {
+      "character": "Ula",
+      "id": 1396124,
+      "name": "Sosie Bacon",
+      "profilePath": "/hMsjirweIK9wGuy49l52b8SnLuv.jpg"
+    },
+    {
+      "character": "Trent",
+      "id": 1816415,
+      "name": "Travis Bacon",
+      "profilePath": "/kjTuKQulfQHlaV94j9wrJATzquW.jpg"
+    },
+    {
+      "character": "Maya",
+      "id": 1700631,
+      "name": "Liza Koshy",
+      "profilePath": "/1Xs1DqpZTUCPyhHdjFhyFQaajg1.jpg"
+    },
+    {
+      "character": "",
+      "id": 17183,
+      "name": "Jackie Earle Haley",
+      "profilePath": "/xDPeiyklN8f9Ilowsti4lGVbioj.jpg"
+    },
+    {
+      "character": "",
+      "id": 59233,
+      "name": "Scoot McNairy",
+      "profilePath": "/oP2LJEqupxVZ2XdEW1lN5Q5LF3M.jpg"
+    },
+    {
+      "character": "Catherine",
+      "id": 71402,
+      "name": "Andrea Savage",
+      "profilePath": "/dh2prcwPU9U1PBdCNu5SSd4Of9j.jpg"
+    },
+    {
+      "character": "",
+      "id": 1552436,
+      "name": "Austin Amelio",
+      "profilePath": "/y4QTXuSSmD99n8dinMiTRBkUnAp.jpg"
+    },
+    {
+      "character": "Bill",
+      "id": 3911,
+      "name": "John Carroll Lynch",
+      "profilePath": "/cIx1HYFOHmfeAGRDBJwdFK9ZMIM.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 65453,
+      "logoPath": null,
+      "name": "Mixed Breed Films"
+    },
+    {
+      "id": 274396,
+      "logoPath": null,
+      "name": "Getaway Entertainment"
+    },
+    {
+      "id": 198179,
+      "logoPath": "/ct4wmzYtS2prZnitm4iuMxRAMsR.png",
+      "name": "Filmopoly"
+    },
+    {
+      "id": 1786,
+      "logoPath": "/dVSnNBwhb0WW5zGis3HjI6Q66Gp.png",
+      "name": "Dark Castle Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34440913",
+    "wikidataId": "Q138328419"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1382802,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Family Movie",
+  "overview": "The Smiths have gathered once again on their quaint family farm to make the latest in a string of low-budget horror movies. No, the movies aren't particularly \"successful.\" Some might even call them \"bad.\" But at least the family is together, and that's what matters to Jack and Ellen. Their adult children, on the other hand - Trent and Ula - are working up the courage to leave this particular family tradition behind. Simmering family dysfunction turns to pure chaos when a real dead body shows up on set. Can they come together to keep the movie on track, or will this be the Smith family's final act?",
+  "posterPath": "/iKGb52exgPMsoy9v3wR51SjQcdY.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-04-23"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-03-13",
+      "theatrical": "2027-04-23"
+    }
+  },
+  "runtime": 81,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2027-04-23",
+  "title": "Family Movie",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

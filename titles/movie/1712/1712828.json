@@ -1,0 +1,220 @@
+{
+  "backdropPath": "/lCEB4vJMHiT8KEWJ7h2dpM5Zya1.jpg",
+  "cast": [
+    {
+      "character": "Coach",
+      "id": 77321,
+      "name": "David Chokachi",
+      "profilePath": "/j5RTusstv11K2xMHdEIBjrWsGle.jpg"
+    },
+    {
+      "character": "Peyton Ivy",
+      "id": 1585143,
+      "name": "Chelsea Gilson",
+      "profilePath": "/hlq8a03SBGgkkw021T9mAUOO4RI.jpg"
+    },
+    {
+      "character": "Mikhaila Ivy",
+      "id": 6279799,
+      "name": "Kacie Patricia",
+      "profilePath": null
+    },
+    {
+      "character": "Mayor Clark Calhoun",
+      "id": 5576915,
+      "name": "Hector Becerra",
+      "profilePath": null
+    },
+    {
+      "character": "Deputy Jenkins",
+      "id": 1453542,
+      "name": "Michael Shaun Sandy",
+      "profilePath": null
+    },
+    {
+      "character": "Rain",
+      "id": 4730723,
+      "name": "Snow Feng",
+      "profilePath": null
+    },
+    {
+      "character": "Joshua Dag",
+      "id": 5950602,
+      "name": "Brigdon York",
+      "profilePath": null
+    },
+    {
+      "character": "Crawford",
+      "id": 2483993,
+      "name": "Rob Eubanks",
+      "profilePath": "/igeQXcD0pV38QM2ln8Obeu8DRaL.jpg"
+    },
+    {
+      "character": "Randall",
+      "id": 6279806,
+      "name": "Brady Leonard",
+      "profilePath": null
+    },
+    {
+      "character": "Liza",
+      "id": 2485046,
+      "name": "Camilla Bastos",
+      "profilePath": "/tlfbJPzn18ccGO8RFcGlvJ2O4O.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 232411,
+      "logoPath": null,
+      "name": "Narrative Pictures"
+    },
+    {
+      "id": 231271,
+      "logoPath": "/uioIBDLtbiNPWpEhzQUvQNs8yVd.png",
+      "name": "TCGT Entertainment"
+    },
+    {
+      "id": 150095,
+      "logoPath": "/ahzjpqFBPQLTA3KLAd17HQSDiBv.png",
+      "name": "CHROMA"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-07-03",
+  "externalIds": {
+    "imdbId": "tt38890293",
+    "wikidataId": "Q140520056"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1712828,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Water Park Shark",
+  "overview": "Sharks breach a seaside water park during the debut of a new ride, forcing a lifeguard and the town’s police chief to contain the chaos and protect guests from becoming prey.",
+  "posterPath": "/eIWgTZIoExUfnEZOsCsNXs9y5Aw.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-07-03",
+      "premiere": "2026-07-18"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "No food in the pool. Except you.",
+  "theatricalDate": null,
+  "title": "Water Park Shark",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "EQyHkXMr59I",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 11,
+  "watchProviders": {
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1712828-water-park-shark/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

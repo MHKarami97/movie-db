@@ -1,0 +1,106 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2027-09-30",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-09-30",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "A romantic and dramatic tale set in the historical era of the Safavid dynasty.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 337011,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fa",
+      "name": "Persian"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-09-30",
+    "episodeNumber": 1,
+    "id": 7895833,
+    "name": "Episode 1",
+    "overview": "A romantic and dramatic tale set in the historical era of the Safavid dynasty.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "ده پهلوان",
+  "overview": "A romantic and dramatic tale set in the historical era of the Safavid dynasty.",
+  "posterPath": "/1ctPWQ0cB5r0smqCpwWfTUGYmRQ.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-09-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-09-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-09-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-09-30",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-09-30"
+    },
+    "CN": {
+      "tv": "2027-09-30"
+    },
+    "GB": {
+      "tv": "2027-09-30"
+    },
+    "US": {
+      "tv": "2027-09-30"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-09-30",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "10 Hero",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

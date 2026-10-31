@@ -1,0 +1,224 @@
+{
+  "backdropPath": "/MYqoCfiLgHogiByMUCEjcVu5uI.jpg",
+  "cast": [
+    {
+      "character": "Laura Linhartová",
+      "id": 52561,
+      "name": "Kristýna Podzimková",
+      "profilePath": "/jBd8n2rVUUDbIK2fUgMDzxPTXcH.jpg"
+    },
+    {
+      "character": "Adam Beneš",
+      "id": 136796,
+      "name": "Kryštof Hádek",
+      "profilePath": "/35mTGXSU81R2Z7vXq6OpmmwIwzk.jpg"
+    },
+    {
+      "character": "Dan Richter",
+      "id": 1179809,
+      "name": "Stanislav Majer",
+      "profilePath": "/8bNNmDTb6VQXUFPi8kHRVkZS8KW.jpg"
+    },
+    {
+      "character": "Valerie Pittnerová",
+      "id": 3412516,
+      "name": "Alžběta Malá",
+      "profilePath": "/esYiX0Ql5d4qDgNfqojaVRcIwv6.jpg"
+    },
+    {
+      "character": "Anna Pittnerová",
+      "id": 5637625,
+      "name": "Olga Zaunarová",
+      "profilePath": null
+    },
+    {
+      "character": "Beáta Pittnerová",
+      "id": 1404048,
+      "name": "Gabriela Míčová",
+      "profilePath": "/bVX3nt1c4NMddeavLpl7iTSVTkI.jpg"
+    },
+    {
+      "character": "Jan Pittner",
+      "id": 2370311,
+      "name": "Václav Vašák",
+      "profilePath": "/BMtJoTRCMMQNuIcQ2XMAOE5A4X.jpg"
+    },
+    {
+      "character": "Alfréd Pittner",
+      "id": 1815778,
+      "name": "Antonín Holoubek",
+      "profilePath": "/thYp9Yd9xs21L50zJaZn3V9K6pp.jpg"
+    },
+    {
+      "character": "Jiří Šedaj",
+      "id": 125157,
+      "name": "Luboš Veselý",
+      "profilePath": "/1m7LeKzTUfeihws8QaJCSqJjk9F.jpg"
+    },
+    {
+      "character": "Olga Hakenová",
+      "id": 1788414,
+      "name": "Kateřina Janečková",
+      "profilePath": "/d3zYzyGKI7Iwgyygkfu9WliC9Jj.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 92467,
+      "logoPath": "/2036VCDrFeZtxm7cm3xLHZNST22.png",
+      "name": "Film Kolektiv"
+    },
+    {
+      "id": 143248,
+      "logoPath": null,
+      "name": "Evolution Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38573622",
+    "wikidataId": "Q133194705"
+  },
+  "fetchedAt": 1793452486014,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1566170,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "cs",
+      "name": "Czech"
+    }
+  ],
+  "originalTitle": "Stvůry",
+  "overview": "A small town somewhere in the north. The body of a brutally murdered young girl, Anna, is found by the river. The investigation is taken up by the determined criminalist Laura Linhartová (Kristýna Ryška), and her old colleague Adam Beneš (Kryštof Hádek) is assigned to her. The main suspect is a recently convicted perpetrator who is responsible for a similar murder. Just when it seems that the search for Anna's murderer is over, new evidence appears that brings the whole case back to the beginning. The criminalists thus embark on a complicated investigation full of unexpected twists and turns. The circle of suspects in the small town expands dramatically. The tension between Laura and Adam rises, not to mention their different characters and shared past. And the question still hangs in the air: Who killed Anna Pittnerová?",
+  "posterPath": "/thebZURuxbS6VdrV7A52OKaLfyO.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "CA": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "DE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "IR": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CZ": {
+      "theatrical": "2025-10-23"
+    },
+    "KR": {
+      "digital": "2026-04-23"
+    },
+    "RU": {
+      "digital": "2026-06-03"
+    }
+  },
+  "runtime": 90,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Stvůry",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "WMpl5pNp6dA",
+      "name": "Stvůry (2025) | Trailer | Film Kolektiv",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 12,
+  "watchProviders": {
+    "CZ": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1566170-stvury/watch?locale=CZ",
+      "rent": []
+    },
+    "KR": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1883,
+          "logoPath": "/w4ov8Zx73eu2TjHsDs5EmiuYKA4.png",
+          "name": "TVING"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1566170-stvury/watch?locale=KR",
+      "rent": []
+    },
+    "PL": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2214,
+          "logoPath": "/19i0ihHvFzvK0GF5qQ6Wc4UnkOf.png",
+          "name": "CDA Premium"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1566170-stvury/watch?locale=PL",
+      "rent": []
+    },
+    "SK": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1566170-stvury/watch?locale=SK",
+      "rent": []
+    }
+  }
+}

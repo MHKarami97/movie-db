@@ -1,0 +1,243 @@
+{
+  "backdropPath": "/elepOKWDoaHMKJPuOL0LAl1XXpp.jpg",
+  "cast": [
+    {
+      "character": "Stephan Brenner",
+      "id": 62909,
+      "name": "Paul Campbell",
+      "profilePath": "/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg"
+    },
+    {
+      "character": "Taylor Brenner",
+      "id": 218923,
+      "name": "Tyler Hynes",
+      "profilePath": "/siTWzqou73esXFvRO1jcpl2fnYi.jpg"
+    },
+    {
+      "character": "Luke Brenner",
+      "id": 134673,
+      "name": "Andrew W. Walker",
+      "profilePath": "/iff2n02XlPjZKJrjIoocWcTec7y.jpg"
+    },
+    {
+      "character": "Barbara Brenner",
+      "id": 8985,
+      "name": "Margaret Colin",
+      "profilePath": "/tsg9bGtD1mY1FLKIeIFUNeD5jpm.jpg"
+    },
+    {
+      "character": "Susie",
+      "id": 1397812,
+      "name": "Fiona Vroom",
+      "profilePath": "/lDQOOPQDBDjD0vFIhVcl65HFn0f.jpg"
+    },
+    {
+      "character": "Sophie",
+      "id": 1569748,
+      "name": "Nicole Major",
+      "profilePath": "/wT5jdaDcpEyZXeqqEftZY7VFArM.jpg"
+    },
+    {
+      "character": "Caroline",
+      "id": 59313,
+      "name": "Erin Karpluk",
+      "profilePath": "/jibU5x89Al5XgqMmQH2sTOtHErk.jpg"
+    },
+    {
+      "character": "Thomas",
+      "id": 4303663,
+      "name": "Miles Marthaller",
+      "profilePath": "/2NiH8HVhLrGl0ZyWJF7IslmPOd.jpg"
+    },
+    {
+      "character": "Roy",
+      "id": 83777,
+      "name": "Christopher Shyer",
+      "profilePath": "/svguxf1N6xDWNAA4hSyQrn7OM0A.jpg"
+    },
+    {
+      "character": "Mark LaClark",
+      "id": 1201386,
+      "name": "Matt Hamilton",
+      "profilePath": "/cHBK0naxrE9GdjG1O8koXEyli3s.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 53015,
+      "logoPath": "/tWxubAjwO1QtLLWdnUR1bjS1vvf.png",
+      "name": "Hallmark Media"
+    },
+    {
+      "id": 6345,
+      "logoPath": "/pctomojbRLZNdYB0muFoZiaYdPI.png",
+      "name": "Lighthouse Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38353919"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1537084,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Three Wisest Men",
+  "overview": "Luke is expecting twins, Taylor is debating a life-changing job, and Stephan is planning a wedding — all while their mom is planning to put the family home up for sale.",
+  "posterPath": "/yTMNjavrgr6BrYSb3BN7gRXPBcV.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2025-11-15"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Gold, Frankincense, and Brenner",
+  "theatricalDate": null,
+  "title": "Three Wisest Men",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "165bKm1HfME",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 14,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1537084-three-wisest-men/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 290,
+          "logoPath": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "id": 2058,
+          "logoPath": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "id": 1746,
+          "logoPath": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1537084-three-wisest-men/watch?locale=US",
+      "rent": []
+    }
+  }
+}

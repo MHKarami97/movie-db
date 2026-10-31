@@ -1,0 +1,133 @@
+{
+  "backdropPath": "/Ag6J86izoe6b6mGD8HDI0TFK8hj.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 114394,
+      "name": "Jo Koy",
+      "profilePath": "/rbD9UnkYFYsmewSn2YFPI8lL5UI.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-09-15",
+  "externalIds": {
+    "imdbId": "tt39052963"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1770859,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Jo Koy: Blue in the Face",
+  "overview": "Jo Koy relives a wild dental disaster, recounts getting fired from McDonald's and celebrates his veteran stepdad in this hilariously heartfelt set.",
+  "posterPath": "/ex8xdDlmo0HWv716Ml5DDMwTkAt.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-15",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-09-15"
+    }
+  },
+  "runtime": 56,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Jo Koy: Blue in the Face",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1770859-jo-koy-blue-in-the-face/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1770859-jo-koy-blue-in-the-face/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1770859-jo-koy-blue-in-the-face/watch?locale=US",
+      "rent": []
+    }
+  }
+}

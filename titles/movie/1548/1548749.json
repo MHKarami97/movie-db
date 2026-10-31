@@ -1,0 +1,174 @@
+{
+  "backdropPath": "/rghQhDVj2O4N1vRaQKpeGuXJoWv.jpg",
+  "cast": [
+    {
+      "character": "Hope",
+      "id": 5417287,
+      "name": "Luna Rivera",
+      "profilePath": "/rLgFk8Nh71U5lkyCQCxqIodioDZ.jpg"
+    },
+    {
+      "character": "Garrett",
+      "id": 2965857,
+      "name": "John D. Michaels",
+      "profilePath": "/tiwTIAWkSbETLh2oKN8ynJEpDrG.jpg"
+    },
+    {
+      "character": "Bishop",
+      "id": 20563,
+      "name": "Alex Veadov",
+      "profilePath": "/bpJKpwpYSgnSkjAA5SX50Wwr0Qa.jpg"
+    },
+    {
+      "character": "Valerie",
+      "id": 1653255,
+      "name": "Michelle Haro",
+      "profilePath": "/86LisahRoQEB3wjY5558EmLryxe.jpg"
+    },
+    {
+      "character": "Skylar",
+      "id": 4556902,
+      "name": "Andrea Mitchell",
+      "profilePath": "/qIYEAzv91jpTh8BGclZe7ETKaej.jpg"
+    },
+    {
+      "character": "Queen",
+      "id": 5697919,
+      "name": "Kionta Banks",
+      "profilePath": "/4VJQQTgNkhfW4ZxQrqpdhtHq8Bc.jpg"
+    },
+    {
+      "character": "Kylee",
+      "id": 4630448,
+      "name": "Kylie Kay",
+      "profilePath": "/5gl4ffIGunkl2FwhNxt6MBQbkz9.jpg"
+    },
+    {
+      "character": "Romero",
+      "id": 4174460,
+      "name": "James Liddell",
+      "profilePath": "/26C5JRIGiwR2aRLa5xoz4v75Czs.jpg"
+    },
+    {
+      "character": "Trevor",
+      "id": 3151799,
+      "name": "Daniel Ferrell",
+      "profilePath": "/auSl8adb3MuvLmwOip6XHERESSL.jpg"
+    },
+    {
+      "character": "Jennifer",
+      "id": 3043081,
+      "name": "Wilma Rivera",
+      "profilePath": "/haxOMBzhpKTObBMsEdgmc3fWaX3.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 231146,
+      "logoPath": "/2xonqaX8pwkpdZsQaKlfWVZzqT2.png",
+      "name": "Studio 523"
+    },
+    {
+      "id": 274670,
+      "logoPath": null,
+      "name": "Pixels of Hope"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "facebookId": "stillhope.movie",
+    "imdbId": "tt25049862",
+    "twitterId": "stillhopemovie",
+    "wikidataId": "Q138194151"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1548749,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Still Hope",
+  "overview": "Beloved by her family and raised in a quiet community, 16-year-old Hope finds herself in danger when a new friend is not who he claims to be… Ripped from all she knows and forced into sex trafficking, Hope is stripped of her identity and threatened into submission, surviving years of abuse. Hope finally finds freedom and reunites with the family that never gave up looking for her. Though now safe, she struggles adjusting to her old life as she reconciles with all she’s endured. Hope’s journey is inspired by true stories and powerfully illustrates the courage it takes to find healing after life’s darkest moments.",
+  "posterPath": "/yjDfgddc0ZynBt4ZKSWNEIkGjB.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-02-05"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2026-02-05"
+    }
+  },
+  "runtime": 113,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-02-05",
+  "title": "Still Hope",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "mScCTkFIvWw",
+      "name": "Still Hope | OFFICIAL TEASER TRAILER",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1956,
+          "logoPath": "/pusUxS9dP5VK7HkN8SLf2wnP9gm.png",
+          "name": "Angel Studios"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1548749-still-hope/watch?locale=US",
+      "rent": []
+    }
+  }
+}

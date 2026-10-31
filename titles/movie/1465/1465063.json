@@ -1,0 +1,483 @@
+{
+  "backdropPath": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+  "cast": [
+    {
+      "character": "Jo (voice)",
+      "id": 2320763,
+      "name": "H.E.R.",
+      "profilePath": "/3OgApAmRJF6Y79HyHS1BZjNMgZd.jpg"
+    },
+    {
+      "character": "Raissa (voice)",
+      "id": 1268847,
+      "name": "Liza Soberano",
+      "profilePath": "/xsgT139b39OHdLkY87yIabNLi5Y.jpg"
+    },
+    {
+      "character": "Raww (voice)",
+      "id": 54697,
+      "name": "Dave Franco",
+      "profilePath": "/to7ee1xcCOpDSKMXjBIRuYEfbEc.jpg"
+    },
+    {
+      "character": "Batiba (voice)",
+      "id": 213001,
+      "name": "Jenny Slate",
+      "profilePath": "/mMxsNO6r966ut0sordYzj2iDOb6.jpg"
+    },
+    {
+      "character": "Bungi Tiyanak (voice)",
+      "id": 1368795,
+      "name": "Manny Jacinto",
+      "profilePath": "/jMbNV4nr5647r6CZJbT6nsnspMz.jpg"
+    },
+    {
+      "character": "Manang (voice)",
+      "id": 15838,
+      "name": "Lea Salonga",
+      "profilePath": "/cA8lv5GCU5DkZMEeplaVgttrlXr.jpg"
+    },
+    {
+      "character": "Lola (voice)",
+      "id": 1513304,
+      "name": "Dolly de Leon",
+      "profilePath": "/fwwvPAJaJA3F8P35MYGf8MmYfe8.jpg"
+    },
+    {
+      "character": "Datu (voice)",
+      "id": 114394,
+      "name": "Jo Koy",
+      "profilePath": "/rbD9UnkYFYsmewSn2YFPI8lL5UI.jpg"
+    },
+    {
+      "character": "King Truffle Wuffle (voice)",
+      "id": 1319469,
+      "name": "Ronny Chieng",
+      "profilePath": "/yRUGjqALyg1LcJO75cO58cVJ2ud.jpg"
+    },
+    {
+      "character": "Prince Mermahn (voice)",
+      "id": 3815284,
+      "name": "Kevin McCann",
+      "profilePath": "/tY9R5lQyA0vI7Bz6COiyyzOtkqJ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 521,
+      "logoPath": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
+      "name": "DreamWorks Animation"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-27",
+  "externalIds": {
+    "facebookId": "ForgottenIslandMovie",
+    "imdbId": "tt36583977",
+    "instagramId": "forgottenislandmovie",
+    "wikidataId": "Q138335503"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1465063,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "tl",
+      "name": "Tagalog"
+    }
+  ],
+  "originalTitle": "Forgotten Island",
+  "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+  "posterPath": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+  "rating": 7.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-15"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-16"
+    },
+    "US": {
+      "digitalDate": "2026-10-27",
+      "gapDays": 32,
+      "theatricalDate": "2026-09-25"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-10-15"
+    },
+    "GB": {
+      "theatrical": "2026-10-16",
+      "theatricalLimited": "2026-10-04"
+    },
+    "US": {
+      "digital": "2026-10-27",
+      "physical": "2026-12-01",
+      "premiere": "2026-09-04",
+      "theatrical": "2026-09-25"
+    }
+  },
+  "runtime": 109,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "No memory left behind.",
+  "theatricalDate": "2026-09-25",
+  "title": "Forgotten Island",
+  "translations": {
+    "faTitle": "جزیره فراموش‌شده"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "BNmxL9uHe9I",
+      "name": "A Mysterious Portal To A New World - Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "kSvXGYZi4w8",
+      "name": "Watch at Home October 27",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "5AmxmGKwJVM",
+      "name": "Too many funny moments to pick from",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "D00C45vCImU",
+      "name": "Get ready for non-stop laughter.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "4UbZtYgEM0c",
+      "name": "My Universal Story: Genevieve Tsai",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "SXMFy6KvcQ8",
+      "name": "Prince Mermahn",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "W61dMjdaFxM",
+      "name": "Bungi",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "Cyu9OANWa6E",
+      "name": "Manang",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "I1fDDe6m7CQ",
+      "name": "Memories in Nature",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "fRee5AnyALg",
+      "name": "King Truffle Wuffle",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "-cBI6A2CpZw",
+      "name": "Raww",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "TVf2juQFVPQ",
+      "name": "Raissa",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "uy5H1F4nKKE",
+      "name": "Jo",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "wIPNYwJjkwA",
+      "name": "Forgotten Island screening at ComicCon Africa",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "zNSff6auEHE",
+      "name": "Raww getting ready to see Forgotten Island in cinemas",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ZptzNZ29jLA",
+      "name": "Sophia Laforteza",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "K6gFndLtgKY",
+      "name": "Full Dog",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Mq813IDwLYY",
+      "name": "Behind The Music",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "1eD_64sroTU",
+      "name": "Adventure may bring them to Nakali, but friendship is what drives the story.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "h2Xs1VVfJWo",
+      "name": "Meet King Truffle Wuffle",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "f_Oh3_8AOJ0",
+      "name": "Celebration of Culture",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "PSUvI670l_o",
+      "name": "Everything's Fine",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "0aWuwIWkSDo",
+      "name": "Personality",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "DnEJR_Zpd5w",
+      "name": "Something In My Eye",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "82tq8voYjiI",
+      "name": "Bare Minimum",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "NE8HqyEhxww",
+      "name": "Extended Graduation Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "Zd_eeZCNuS8",
+      "name": "Do you have a tendency to overshare?",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "e1YWjdVszh4",
+      "name": "Adventure, magic and friendship await beyond the portal.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "LHcNEbzKmdA",
+      "name": "A Look Inside",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "t3sPG98pIgQ",
+      "name": "Jo & Raissa Fall Into Nakali!",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "PhgY8cOJiQA",
+      "name": "Get Tickets",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "preleEhDdq0",
+      "name": "Dreams",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "4nOsPFIlQvk",
+      "name": "Normal sibling relationships",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "YbFvSQo8RiA",
+      "name": "Locking in",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "3qIaCVJ9b0k",
+      "name": "Every introverted friend needs their extroverted friend",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "teB5by3bKLU",
+      "name": "It's Giving 90s! Best Friends Get Ready For FORGOTTEN ISLAND",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "pBypFuz1WNQ",
+      "name": "You need your bestie by your side through everything",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "f7mFVeWnVLw",
+      "name": "Official New Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "yccf-SGe-XY",
+      "name": "Tayo-Na",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "54SZ3TL_LzM",
+      "name": "First Look",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "a8RHqN93qfo",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 151,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1465063-forgotten-island/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

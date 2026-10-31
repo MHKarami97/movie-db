@@ -1,0 +1,472 @@
+{
+  "backdropPath": "/tN3pTxkQoP96wtaEahYuRVdUWb2.jpg",
+  "cast": [
+    {
+      "character": "Michelle",
+      "id": 54693,
+      "name": "Emma Stone",
+      "profilePath": "/ak2Y9wOI3wi2pNQU6OWSvVvWPj5.jpg"
+    },
+    {
+      "character": "Teddy",
+      "id": 88124,
+      "name": "Jesse Plemons",
+      "profilePath": "/og4I51GsuwohdPgoELOHVMMqMre.jpg"
+    },
+    {
+      "character": "Don",
+      "id": 5212114,
+      "name": "Aidan Delbis",
+      "profilePath": "/k9xKpm9cVryO3dgdsyxvC46FyBW.jpg"
+    },
+    {
+      "character": "Casey",
+      "id": 1400595,
+      "name": "Stavros Halkias",
+      "profilePath": "/ifNnV7bO0DHzDEn1Dr5lKYW1mkp.jpg"
+    },
+    {
+      "character": "Sandy",
+      "id": 5588,
+      "name": "Alicia Silverstone",
+      "profilePath": "/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
+    },
+    {
+      "character": "Ricky / Security Guard",
+      "id": 5105206,
+      "name": "J. Carmen Galindez Barrera",
+      "profilePath": "/2ktCkWgexsBTbh0UFsbdKoHX4D1.jpg"
+    },
+    {
+      "character": "Tony",
+      "id": 5105205,
+      "name": "Marc T. Lewis",
+      "profilePath": "/6WOS0OTGlAh61cpRBtEgclZrrop.jpg"
+    },
+    {
+      "character": "Corey",
+      "id": 4986018,
+      "name": "Vanessa Eng",
+      "profilePath": "/3HYU97U1wKR9byRBvu5SVpvifeH.jpg"
+    },
+    {
+      "character": "Chris",
+      "id": 2978859,
+      "name": "Cedric Dumornay",
+      "profilePath": "/t8YtnWbZV8To3PGLE6xHUB6o8Sm.jpg"
+    },
+    {
+      "character": "Tina",
+      "id": 5446529,
+      "name": "Momma Cherri",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 3353,
+      "logoPath": "/hUw1iTY3hdjyb2zXT9KxupHbL4M.png",
+      "name": "Element Pictures"
+    },
+    {
+      "id": 123620,
+      "logoPath": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
+      "name": "Square Peg"
+    },
+    {
+      "id": 121813,
+      "logoPath": "/7OwtRpQAFKU3KWA7InBg3h3PxqI.png",
+      "name": "Fremantle"
+    },
+    {
+      "id": 264539,
+      "logoPath": null,
+      "name": "Pith Quest Films"
+    },
+    {
+      "id": 138287,
+      "logoPath": "/3I1k679J7ZLQtVFM23dJhFZQQCH.png",
+      "name": "Fruit Tree"
+    },
+    {
+      "id": 128404,
+      "logoPath": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
+      "name": "CJ ENM"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2025-11-25",
+  "externalIds": {
+    "facebookId": "bugoniafilm",
+    "imdbId": "tt12300742",
+    "instagramId": "bugoniafilm",
+    "twitterId": "bugoniafilm",
+    "wikidataId": "Q125971387"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 25,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 701387,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Bugonia",
+  "overview": "داستان دو مرد جوان شیفته تئوری‌های توطئه که مدیرعامل شرکتی بزرگ را می‌ربایند و اعتقاد دارند او یک بیگانه است که قصد نابودی زمین را دارد.",
+  "posterPath": "/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg",
+  "rating": 7.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-11-25",
+      "gapDays": 25,
+      "theatricalDate": "2025-10-31"
+    },
+    "US": {
+      "digitalDate": "2025-11-25",
+      "gapDays": 25,
+      "theatricalDate": "2025-10-31"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-04-16"
+    },
+    "GB": {
+      "digital": "2025-11-25",
+      "physical": "2026-02-09",
+      "premiere": "2025-10-10",
+      "theatrical": "2025-10-31"
+    },
+    "US": {
+      "digital": "2025-11-25",
+      "physical": "2025-12-23",
+      "premiere": "2025-08-30",
+      "theatrical": "2025-10-31",
+      "theatricalLimited": "2025-10-24"
+    }
+  },
+  "runtime": 119,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Of all the abductions, this one is different.",
+  "theatricalDate": "2025-10-31",
+  "title": "Bugonia",
+  "translations": {
+    "faOverview": "داستان دو مرد جوان شیفته تئوری‌های توطئه که مدیرعامل شرکتی بزرگ را می‌ربایند و اعتقاد دارند او یک بیگانه است که قصد نابودی زمین را دارد.",
+    "faTitle": "بوگونیا"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "78GqIUfgtWw",
+      "name": "The Night of the Lunar Eclipse",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "pl6LrkrWqFw",
+      "name": "A Police Officer Makes an Unexpected Visit to Teddy’s Place",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "NuPO4gAWu7U",
+      "name": "The Moment a CEO is Kidnapped",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "2Y2zl_qUlEI",
+      "name": "Will Tracy on Writing BUGONIA | AFI Conservatory",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "W85kXQEmSRI",
+      "name": "Yorgos Lanthimos on BUGONIA and Working with Editor Yorgos “Blackfish” Mavropsaridis",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "XZQwuPCRj1U",
+      "name": "\"We Have Created Something Extraordinary\" - Bonus Feature",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "psW7x_iu9OQ",
+      "name": "Is This Yorgos Lanthimos' Most Ambitious Film Yet? - Bonus Feature",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "gZ6pPFK6kaQ",
+      "name": "Watch at Home Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9a_1FCP7vVc",
+      "name": "BUGONIA: A Conversation with the Filmmakers",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "QiuxZ1ovNQ8",
+      "name": "Director Yorgos Lanthimos Exploring the World of Bugonia Through VistaVision - 60 Second Film School",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "gbJdhp-YFC4",
+      "name": "Emma Stone Talks Shaving Her Head, Working with Jesse Plemmons & More in 'Bugnoia'",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Ow9aJ6LpykI",
+      "name": "TV Spot: FOMO",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "mop-xm1TK9g",
+      "name": "Unraveling Bugonia: Emma Stone and Jesse Plemons Discuss Their Transformative Roles | BAFTA",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "23yi5ahpVE4",
+      "name": "\"How Can You Tell She's An Alien\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "EImNsms4zl4",
+      "name": "\"Interrogation\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "_12xKVATz28",
+      "name": "\"The 5:30 Thing\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "LIOsTkyZvcI",
+      "name": "Yorgos Lanthimos on finding the perfect balance for Bugonia",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "e3ZgZT8szZo",
+      "name": "\"Where's My Hair\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "oJtk0Yf83Ek",
+      "name": "TV Spot: Jesus Review",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "toF1VWEdcq4",
+      "name": "Emma Stone talks about her 6 collaborations with Yorgos Lanthimos",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "7VBigr-JHB0",
+      "name": "Official Trailer 2",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "bd_5HcTujfc",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "_p4BCpJ44Qg",
+      "name": "Official Teaser Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 2559,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/701387-bugonia/watch?locale=GB",
+      "rent": [
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/701387-bugonia/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 331,
+          "logoPath": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+          "name": "FlixFling"
+        }
+      ]
+    }
+  }
+}

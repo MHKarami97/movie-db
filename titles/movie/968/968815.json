@@ -1,0 +1,123 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Self (archive footage)",
+      "id": 3460,
+      "name": "Gene Wilder",
+      "profilePath": "/mwwOSWS2m8ArpiUKnoxVVyT8fND.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1897165,
+      "name": "Jordan Walker-Pearlman",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 53972,
+      "logoPath": "/bEnOf6B2GsW15f1NRg3Ao5Xw2Av.png",
+      "name": "White Horse Pictures"
+    },
+    {
+      "id": 113634,
+      "logoPath": "/7ViBFQPmKYxSmfTQ0WC1RPFRQJ.png",
+      "name": "Library Films"
+    },
+    {
+      "id": 220322,
+      "logoPath": "/rITrLHfrYZqVXkbhbHU9QsLGdNO.png",
+      "name": "Sobey Road Entertainment"
+    },
+    {
+      "id": 99614,
+      "logoPath": "/gXrb4q4TqBHCYEvjRa16WOE9NRs.png",
+      "name": "American Masters Pictures"
+    },
+    {
+      "id": 209680,
+      "logoPath": "/lFkTwaDjhPAyEVJwyzqpLwAqhH2.png",
+      "name": "MoJo Global Arts"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt19860734"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 968815,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Wilder",
+  "overview": "Focusing on the life and legacy of actor Gene Wilder, told through the lens of Jordan Walker-Pearlman, the late actor’s nephew and a filmmaker in his own right.",
+  "posterPath": "/z2ZpILgSw49CZhoVqUMEVR5f6zu.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "tv": "2026-09-20"
+    },
+    "US": {
+      "premiere": "2026-10-09",
+      "tv": "2026-12-29"
+    }
+  },
+  "runtime": 82,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Wilder",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "lcnBsEcRIxM",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,245 @@
+{
+  "backdropPath": "/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",
+  "cast": [
+    {
+      "character": "John Miller",
+      "id": 64295,
+      "name": "Alan Ritchson",
+      "profilePath": "/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+    },
+    {
+      "character": "Reynolds",
+      "id": 11107,
+      "name": "Ben Foster",
+      "profilePath": "/p5FlM9OOStD9I0Nm3GGlhaiAC5r.jpg"
+    },
+    {
+      "character": "Sophia",
+      "id": 94185,
+      "name": "Shailene Woodley",
+      "profilePath": "/gL2NvHKW9wAH3qkZuJ76ULUiArB.jpg"
+    },
+    {
+      "character": "Youngblood",
+      "id": 2320708,
+      "name": "Lionel Boyce",
+      "profilePath": "/sTxjfODyzgOiQD8OgeMjpdjfdJ4.jpg"
+    },
+    {
+      "character": "Singh",
+      "id": 1616920,
+      "name": "Amar Chadha-Patel",
+      "profilePath": "/6SZXUfn5A2IzwrWhpBDw99gC4uQ.jpg"
+    },
+    {
+      "character": "Lieutenant Savick",
+      "id": 59254,
+      "name": "Pablo Schreiber",
+      "profilePath": "/trKW3kwhwx4UeCNZg43A1x1h4Uv.jpg"
+    },
+    {
+      "character": "Porthos",
+      "id": 1122102,
+      "name": "Dominic Bogart",
+      "profilePath": "/dUb5kOCWVHIYmoAfMEGR3hunTiD.jpg"
+    },
+    {
+      "character": "Aramis",
+      "id": 2979211,
+      "name": "Mister Fitzgerald",
+      "profilePath": "/nwopnmyVGhJFlkGzl1PHcZdANUE.jpg"
+    },
+    {
+      "character": "Athos",
+      "id": 1146866,
+      "name": "Rafael Cebrian",
+      "profilePath": "/aIvCv51Jh55neKPiGFvXql9CuvA.jpg"
+    },
+    {
+      "character": "Detective Kent",
+      "id": 17245,
+      "name": "Ben McKenzie",
+      "profilePath": "/2jlwhOXKakL6gk365u4gPkTtHHi.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 118472,
+      "logoPath": "/vafYjvjZwK4JaV5Hcm9vSzw6f9G.png",
+      "name": "Stampede Ventures"
+    },
+    {
+      "id": 215935,
+      "logoPath": "/pYh0UKZbx8WGKLDZuBkq7WwvGSH.png",
+      "name": "Gramercy Park Media"
+    },
+    {
+      "id": 233099,
+      "logoPath": null,
+      "name": "Peachtree Media Partners"
+    },
+    {
+      "id": 74330,
+      "logoPath": null,
+      "name": "Ace of Spades"
+    },
+    {
+      "id": 251829,
+      "logoPath": null,
+      "name": "Syndicate Entertainment"
+    },
+    {
+      "id": 51083,
+      "logoPath": "/8QBMjrhxiXcZ9J0QmXUHK9s8euF.png",
+      "name": "Third Man Records"
+    },
+    {
+      "id": 22146,
+      "logoPath": "/v37N1mFeXNQfvPankg3feBhVvM7.png",
+      "name": "Black Bear Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-08-25",
+  "externalIds": {
+    "imdbId": "tt2012616",
+    "instagramId": "motorcitythefilm",
+    "wikidataId": "Q118146294"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 87513,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Motor City",
+  "overview": "در دهه ۱۹۷۰ در دیترویت، میلر عاشق دختر یک گانگستر محلی می‌شود. گانگستر در تلافی، نقشه‌ای ساختگی برای فرستادن مرد بی‌گناه به زندان طراحی می‌کند. زندگی‌اش ویران می‌شود و میلر نقشه انتقام می‌کشد.",
+  "posterPath": "/rKws4iqKhrzWHVLHnwtMnCpEHhF.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-07-23"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-08-25",
+      "gapDays": 32,
+      "theatricalDate": "2026-07-24"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-07-23"
+    },
+    "US": {
+      "digital": "2026-08-25",
+      "theatrical": "2026-07-24"
+    }
+  },
+  "runtime": 104,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Love will drive you mad.",
+  "theatricalDate": "2026-07-24",
+  "title": "Motor City",
+  "translations": {
+    "faOverview": "در دهه ۱۹۷۰ در دیترویت، میلر عاشق دختر یک گانگستر محلی می‌شود. گانگستر در تلافی، نقشه‌ای ساختگی برای فرستادن مرد بی‌گناه به زندان طراحی می‌کند. زندگی‌اش ویران می‌شود و میلر نقشه انتقام می‌کشد.",
+    "faTitle": "شهر موتور"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "t6RklhKu9os",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "JHMPxTWI4sQ",
+      "name": "Teaser Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 141,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/87513-motor-city/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

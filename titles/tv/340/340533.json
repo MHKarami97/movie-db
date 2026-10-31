@@ -1,0 +1,118 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 73968,
+      "name": "Henry Cavill",
+      "profilePath": "/dgTD7Q9owL3DyX9uYoSX9KZeUUz.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2027-12-31",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-12-31",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "Episode 1 overview",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt24565836"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "id": 340533,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-12-31",
+    "episodeNumber": 1,
+    "id": 8036523,
+    "name": "Episode 1",
+    "overview": "Episode 1 overview",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Warhammer 40,000",
+  "overview": "The Deathwatch, an elite group of Space Marines, specializes in hunting down alien threats to humanity's empire in the far future.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-12-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-12-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-12-31",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-12-31",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-12-31"
+    },
+    "CN": {
+      "tv": "2027-12-31"
+    },
+    "GB": {
+      "tv": "2027-12-31"
+    },
+    "US": {
+      "tv": "2027-12-31"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-12-31",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Warhammer 40,000",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

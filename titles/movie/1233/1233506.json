@@ -1,0 +1,159 @@
+{
+  "backdropPath": "/pgvn1tazqI9mZaRCNQUqNr3umvG.jpg",
+  "cast": [
+    {
+      "character": "Paul",
+      "id": 56024,
+      "name": "Jean Dujardin",
+      "profilePath": "/iPtSWWoO8vajj6fIUQLQeuGOCsk.jpg"
+    },
+    {
+      "character": "Élise",
+      "id": 8791,
+      "name": "Marie-Josée Croze",
+      "profilePath": "/d7sRQCDFijXaSnyiZpURknJAQFi.jpg"
+    },
+    {
+      "character": "Mia",
+      "id": 3640440,
+      "name": "Daphné Richard",
+      "profilePath": "/rcjnsdNXwHBKLASwl7exwQYUxNA.jpg"
+    },
+    {
+      "character": "Dr. Sicre",
+      "id": 1881010,
+      "name": "Serge Swysen",
+      "profilePath": "/160fnVds8O8RYYRh2gzaPdqQlyc.jpg"
+    },
+    {
+      "character": "Karim",
+      "id": 2749304,
+      "name": "Salim Talbi",
+      "profilePath": "/3hqdnBmRK8l6q4M9MGfhwnfMTFW.jpg"
+    },
+    {
+      "character": "",
+      "id": 195525,
+      "name": "Miranda Raison",
+      "profilePath": "/eEZi02e07nZ3qG6DA8dYRAVVEHh.jpg"
+    },
+    {
+      "character": "L'endocrinologue",
+      "id": 1793563,
+      "name": "Stéphanie Van Vyve",
+      "profilePath": "/wJSLWrz1jVemtN4MooPLU6cOOe3.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 202567,
+      "logoPath": null,
+      "name": "Pitchipoï Productions"
+    },
+    {
+      "id": 356,
+      "logoPath": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production"
+    },
+    {
+      "id": 19037,
+      "logoPath": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+      "name": "uMedia"
+    },
+    {
+      "id": 156654,
+      "logoPath": null,
+      "name": "La Production Dujardin"
+    },
+    {
+      "id": 22127,
+      "logoPath": "/lgkXXc4hyHH6WqVMJVUFrhFIjm5.png",
+      "name": "uFund"
+    },
+    {
+      "id": 92187,
+      "logoPath": "/yrAyYme1zlZtHuhlWS3DlFAj762.png",
+      "name": "Proximus"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt32642156",
+    "wikidataId": "Q127778663"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "id": 1233506,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "L'Homme qui rétrécit",
+  "overview": "Paul, is an ordinary man who divides his life between his shipbuilding company, his wife Elise and their daughter Mia. During a sea trip, Paul finds himself confronted with a strange, unexplained meteorological phenomenon. From then on, Paul shrinks inexorably, without science being able to explain why or be of any help to him. When, by accident, he finds himself a prisoner in his own cellar, and while he is only a few centimeters tall, he will have to fight to survive in this banal environment that has become perilous. During this experience, Paul will find himself confronted with himself, with his humanity, and will try to answer the great questions of existence.",
+  "posterPath": "/5scjQRQq4i0zpbfyvWJX8LFEWjt.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Shrinking Man",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "dX1E-9jE4bs",
+      "name": "Trailer [Subtitled]",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 181,
+  "watchProviders": {}
+}

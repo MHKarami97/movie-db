@@ -1,0 +1,150 @@
+{
+  "backdropPath": "/ySbav9wRhnA1yGadMIpoQnLgTq6.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 2523559,
+      "name": "Hilaree Nelson",
+      "profilePath": "/r1Ai4jLhYBB8s9P7ELBGdwkVGvZ.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2523560,
+      "name": "Jim Morrison",
+      "profilePath": "/lfAl8bGM3aUiLt7YMOvLGgYTSLI.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1403129,
+      "name": "Jimmy Chin",
+      "profilePath": "/3ay242p85A9QzR785SuBv4xASAp.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1027910,
+      "name": "Elizabeth Chai Vasarhelyi",
+      "profilePath": "/hljaKxLMqS9JGYFuEIee0xi4fQg.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1283186,
+      "name": "Mikey Schaefer",
+      "profilePath": "/ofAL0uF5lb0kKCqx25qU4fK95tb.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 189457,
+      "logoPath": "/a0ruFlMfEs2pTOLZ1tPHqzDH7Fc.png",
+      "name": "National Geographic Documentary Films"
+    },
+    {
+      "id": 116323,
+      "logoPath": "/2cjJeC2MQMPwT2INRpqRxH8Xuz1.png",
+      "name": "Little Monster Films"
+    },
+    {
+      "id": 2,
+      "logoPath": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+      "name": "Walt Disney Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "CN",
+      "name": "China"
+    },
+    {
+      "code": "NP",
+      "name": "Nepal"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38691481",
+    "wikidataId": "Q140745383"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1603262,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Everest: The Other Side",
+  "overview": "An intimate portrait of two people bound by love, ambition, and the pursuit of the impossible. Elite ski mountaineers Jim Morrison and Hilaree Nelson fell deeply in love while reaching the pinnacle of their sport. Their drive sharpened into a shared dream: to climb and ski the direct North Face of Mount Everest—the most difficult and dangerous climb on the mountain and the most coveted ski line on Earth—something only a handful have ever achieved, and no one has successfully skied down.",
+  "posterPath": "/2m9ts8LfjG8d4xcUtx66aApngJL.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-06"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-30"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-30"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "theatrical": "2026-11-06"
+    },
+    "GB": {
+      "premiere": "2026-10-10",
+      "theatrical": "2026-10-30",
+      "theatricalLimited": "2026-11-20"
+    },
+    "US": {
+      "theatricalLimited": "2026-10-30"
+    }
+  },
+  "runtime": 115,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-30",
+  "title": "Everest: The Other Side",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "q6XUlPdTuto",
+      "name": "Official Trailer 2",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "8gjOXAjeisY",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

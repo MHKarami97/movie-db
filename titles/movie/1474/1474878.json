@@ -1,0 +1,154 @@
+{
+  "backdropPath": "/zkGLha4n4vQkA1KWQUS1fHKbJqs.jpg",
+  "cast": [
+    {
+      "character": "Jane",
+      "id": 133401,
+      "name": "Amanda Fuller",
+      "profilePath": "/yRZk0c8NMcAiOg9KQqbss96Sbn9.jpg"
+    },
+    {
+      "character": "Justin",
+      "id": 51750,
+      "name": "Joey Lawrence",
+      "profilePath": "/ohJpQbDTkWJxt31g7hbAOLM6ION.jpg"
+    },
+    {
+      "character": "Alejandro",
+      "id": 2369060,
+      "name": "Ricardo Chávez",
+      "profilePath": "/qpe8onzjemChvVWcJg1IWWAMNCF.jpg"
+    },
+    {
+      "character": "Addy",
+      "id": 5670612,
+      "name": "Melina Alves",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 273220,
+      "logoPath": null,
+      "name": "Produced by Muse"
+    },
+    {
+      "id": 255419,
+      "logoPath": null,
+      "name": "Acting Famous Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt31520670"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1474878,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Great Christmas Snow-In",
+  "overview": "After his engagement is called off, Justin retreats to a secluded cabin meant for his honeymoon, only to be snowed in with Jane, his ex-fiancée’s cousin. As tension builds, a spark forms between them, but when Justin’s ex shows up with her new boyfriend, things get even more complicated. In the close quarters of the cabin, secrets unravel, leading to unexpected discoveries about love and second chances.",
+  "posterPath": "/msyROXudqlpDHiowBEvpxJbEKDN.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "tv": "2025-11-02"
+    }
+  },
+  "runtime": 86,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Great Christmas Snow-In",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "e04xQvRDrjk",
+      "name": "The Great Christmas Snow-In | Trailer | Nicely Entertainment",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1474878-the-great-christmas-snow-in/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2045,
+          "logoPath": "/j7y1nRXVZIqco9GgZv5cv7CpFSG.png",
+          "name": "UP Faith & Family Apple TV channel"
+        },
+        {
+          "id": 2066,
+          "logoPath": "/okzVQmpdFwtSRTvkIUr8vSSWNCj.png",
+          "name": "UP Faith & Family Amazon Channel "
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1474878-the-great-christmas-snow-in/watch?locale=US",
+      "rent": []
+    }
+  }
+}

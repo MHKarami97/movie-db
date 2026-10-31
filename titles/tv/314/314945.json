@@ -1,0 +1,172 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Bang Ok-suk",
+      "id": 20737,
+      "name": "Jeon Do-yeon",
+      "profilePath": "/ev2tT7ZbReE06rZy7SX0Mv8evZ7.jpg"
+    },
+    {
+      "character": "Yoon Tae-woong",
+      "id": 1593672,
+      "name": "Park Hae-soo",
+      "profilePath": "/hFt7Cj8sx1VYIwm18lYmq5kS7Pw.jpg"
+    },
+    {
+      "character": "Lee Ho-young",
+      "id": 1352930,
+      "name": "Kim Sun-young",
+      "profilePath": "/9aFsdy8tAZkoP33qG8CH6y3lafP.jpg"
+    },
+    {
+      "character": "Yoon Ji-ae",
+      "id": 2441975,
+      "name": "Kim Keum-soon",
+      "profilePath": "/jzMDWmOfa87MOQe84BXBqDYa97X.jpg"
+    },
+    {
+      "character": "Oh Ji-hee",
+      "id": 2003804,
+      "name": "Kim Guk-hee",
+      "profilePath": "/vbcRnt6e81ZG2Hrqb10my8jK5jq.jpg"
+    },
+    {
+      "character": "Do Do-hee",
+      "id": 3644029,
+      "name": "Woo Jeong-won",
+      "profilePath": "/eNXpnFT7lnBPFOScUt9p57LjttS.jpg"
+    },
+    {
+      "character": "Kim Ye-ri",
+      "id": 3329897,
+      "name": "Kong Seong-ha",
+      "profilePath": "/u6qDnQ2EdtA3HDwtHfTrk969DPR.jpg"
+    },
+    {
+      "character": "Ku Myeong-hwan",
+      "id": 1791945,
+      "name": "Bek Hyun-jin",
+      "profilePath": "/1wKuypLzAzaSDUd93cuCz1N75qx.jpg"
+    },
+    {
+      "character": "",
+      "id": 3507817,
+      "name": "Park Yoon-ho",
+      "profilePath": "/8hgwNPy66kaWbZlBoaKyOWXU7Q5.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 113553,
+      "logoPath": "/asYwlV8bdPaQr3iQN7k01llcFDG.png",
+      "name": "Film Monster"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": "2027-03-13",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-03-13",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 314945,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-03-13",
+    "episodeNumber": 1,
+    "id": 6980411,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "위대한 방옥숙",
+  "overview": "",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-03-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-03-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-03-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-03-13",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-03-13"
+    },
+    "CN": {
+      "tv": "2027-03-13"
+    },
+    "GB": {
+      "tv": "2027-03-13"
+    },
+    "US": {
+      "tv": "2027-03-13"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-03-13",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Great Oksuk",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

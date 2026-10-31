@@ -1,0 +1,296 @@
+{
+  "backdropPath": "/vGVWjxlWRzevTG5R7E2HziDjueA.jpg",
+  "cast": [
+    {
+      "character": "Amber",
+      "id": 1932292,
+      "name": "Helena Howard",
+      "profilePath": "/xOb2IwfqTCERL3vKZkEItA1Dhme.jpg"
+    },
+    {
+      "character": "Lavinia",
+      "id": 98285,
+      "name": "Bella Thorne",
+      "profilePath": "/lgz1eArGmzrN8pDbFhRnoXxC7c4.jpg"
+    },
+    {
+      "character": "Zosia",
+      "id": 2364971,
+      "name": "Zión Moreno",
+      "profilePath": "/hh1MYhL2BV1rJsh7x9s2Y3I1cVI.jpg"
+    },
+    {
+      "character": "Lola",
+      "id": 1585678,
+      "name": "Chloe Cherry",
+      "profilePath": "/czDZr2NO24E6aGGeb7PnLhJRiQR.jpg"
+    },
+    {
+      "character": "Maddy",
+      "id": 1163789,
+      "name": "Sophia Ali",
+      "profilePath": "/45B39NY2LEYewNUiWtvFb7LrDct.jpg"
+    },
+    {
+      "character": "Will",
+      "id": 969140,
+      "name": "Israel Broussard",
+      "profilePath": "/cSmPXUMjUgodorabkAHJ4IMWFz7.jpg"
+    },
+    {
+      "character": "Tye",
+      "id": 1651966,
+      "name": "Blaine Kern III",
+      "profilePath": "/u0KBbbuEcRC4E7otk5y955TjREv.jpg"
+    },
+    {
+      "character": "Blaine",
+      "id": 1903427,
+      "name": "Zak Steiner",
+      "profilePath": "/kv2EAljlsru1XWF6uC4P9tRrNGc.jpg"
+    },
+    {
+      "character": "Russell",
+      "id": 4445,
+      "name": "Chris Bauer",
+      "profilePath": "/1AjdNxbVmy6azlOxIfnCX5OruEA.jpg"
+    },
+    {
+      "character": "Jake",
+      "id": 1300650,
+      "name": "Jake Manley",
+      "profilePath": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 275344,
+      "logoPath": null,
+      "name": "FYF Film"
+    },
+    {
+      "id": 291327,
+      "logoPath": null,
+      "name": "Welcome to Italy"
+    },
+    {
+      "id": 200470,
+      "logoPath": null,
+      "name": "Walters Media Group"
+    },
+    {
+      "id": 238494,
+      "logoPath": "/fUpSbA9hp1xIjmkwEdx5Adkhfnx.png",
+      "name": "WWPS.TV"
+    },
+    {
+      "id": 245480,
+      "logoPath": null,
+      "name": "Angry Cloud"
+    },
+    {
+      "id": 178359,
+      "logoPath": "/8Vir3jz2OMrcLFdcpRAg6LQixJp.png",
+      "name": "828 Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": "2026-06-12",
+  "externalIds": {
+    "imdbId": "tt32275326",
+    "wikidataId": "Q133852596"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 8,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1283636,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Find Your Friends",
+  "overview": "A sinister spin on twenty-something party culture, revealing the darkness beneath the carefree facade. What starts as a wild girls trip turns dangerous when hostile locals escalate tensions and Amber's past trauma surfaces. As the group fractures under toxic dynamics, their fun getaway transforms into a revenge-fueled nightmare.",
+  "posterPath": "/uFdpiH5zh8wMnOckYtwvVDM0SDE.jpg",
+  "rating": 4.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-12",
+      "gapDays": 8,
+      "theatricalDate": "2026-06-04"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-06-12",
+      "premiere": "2025-09-19",
+      "theatricalLimited": "2026-06-04"
+    }
+  },
+  "runtime": 92,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A party to die for.",
+  "theatricalDate": "2026-06-04",
+  "title": "Find Your Friends",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "pT5y7-WwD8M",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 19,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        },
+        {
+          "id": 204,
+          "logoPath": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+          "name": "Shudder Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1283636-find-your-friends/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1854,
+          "logoPath": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 635,
+          "logoPath": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+          "name": "AMC+ Roku Premium Channel"
+        },
+        {
+          "id": 526,
+          "logoPath": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+          "name": "AMC+"
+        },
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1283636-find-your-friends/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

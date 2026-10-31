@@ -1,0 +1,389 @@
+{
+  "backdropPath": "/4drV6iluttgjZmU1Q0xDqjrBQ1.jpg",
+  "cast": [
+    {
+      "character": "Marshall Cuso (voice)",
+      "id": 1298804,
+      "name": "Dave King",
+      "profilePath": "/sLwmPWUtt3w30YiPCX51khw7A9s.jpg"
+    },
+    {
+      "character": "Frances Applewhite (voice)",
+      "id": 2299770,
+      "name": "Emily Pendergast",
+      "profilePath": "/tNBh4rl7vfNqIPK9LQZvPnLC3ce.jpg"
+    },
+    {
+      "character": "Rick Kruger (voice)",
+      "id": 17403,
+      "name": "Mike Judge",
+      "profilePath": "/ol4kd4mSOK7Hx3r86ydez84bwEI.jpg"
+    },
+    {
+      "character": "Agent Harrington (voice)",
+      "id": 1572541,
+      "name": "Martha Kelly",
+      "profilePath": "/ac7HoARDIHdYNqpzgJBzpmKHXHR.jpg"
+    },
+    {
+      "character": "Agent Copano (voice)",
+      "id": 1853836,
+      "name": "Joseph Lee Anderson",
+      "profilePath": "/3u6LOjmlhjvhXsLFJdXieBZmJaU.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 168168,
+      "logoPath": null,
+      "name": "Bandera Entertainment"
+    },
+    {
+      "id": 177171,
+      "logoPath": "/nZX6TvDZmsPoIVwrnr3Vr3oy2A5.png",
+      "name": "Green Street Pictures"
+    },
+    {
+      "id": 6760,
+      "logoPath": "/h3syDHowNmk61FzlW2GPY0vJCFh.png",
+      "name": "Williams Street"
+    },
+    {
+      "id": 252268,
+      "logoPath": null,
+      "name": "Tell Me More"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-02-02",
+  "episodes": {
+    "2": [
+      {
+        "airDate": "2027-01-24",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt28093628",
+    "wikidataId": "Q130971959"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "id": 228878,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-03-30",
+    "episodeNumber": 10,
+    "id": 5933533,
+    "name": "Raid",
+    "overview": "Dangerous forces converge on Marshall's camp.",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-24",
+    "episodeNumber": 1,
+    "id": 7930416,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 2
+  },
+  "originalTitle": "Common Side Effects",
+  "overview": "Former high school lab partners Marshall and Frances begin to unravel a conspiracy involving big pharma and the federal government to suppress knowledge of a rare mushroom that may hold the key to curing all the world’s diseases.",
+  "posterPath": "/a8X5XXP49DHrySTXJMUIN5HI1Wz.jpg",
+  "rating": 8.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-02-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2025-02-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-02-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-02-02",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2025-02-02"
+    },
+    "CN": {
+      "tv": "2025-02-02"
+    },
+    "GB": {
+      "tv": "2025-02-02"
+    },
+    "US": {
+      "tv": "2025-02-02"
+    }
+  },
+  "runtime": 23,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2025-02-02",
+      "episodeCount": 10,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/a8X5XXP49DHrySTXJMUIN5HI1Wz.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2027-01-24",
+      "episodeCount": 1,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/v3oZoQeDlNStyTTkvV2tZlvzlEE.jpg",
+      "seasonNumber": 2
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Common Side Effects",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "8rKznVxlSqI",
+      "name": "Promo #5",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "uHN9QbWytcE",
+      "name": "Official Trailer [Adult Swim Europe]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "EVHHI7B_Yuk",
+      "name": "Official Trailer #3",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "ud17jNqhRxE",
+      "name": "Early Preview: Marshall's Bounty Hunter",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "iKm-fHVc1LA",
+      "name": "Promo #4",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "mlZS_hF0zZE",
+      "name": "Sneak Peek: Rick & Frances",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "aAGvXTeu_As",
+      "name": "Early Preview: Rick and Frances",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "gKM29QkprSU",
+      "name": "Sneak Peek: Copano & Harrington",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "MO0aLoOew2Y",
+      "name": "Early Preview: Copano and Harrington",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "KKCkl9jibvY",
+      "name": "Sneak Peek: Frances & Marshall",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "Mo0zl5Ujoh4",
+      "name": "Promo #3",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "VKCf31jcTes",
+      "name": "Official Trailer #2",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "vmkjcqGIfF8",
+      "name": "Promo #2",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "fEx4ZIK8fdE",
+      "name": "Early Preview: Meet Frances & Marshall",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "OSLWMG0YjDA",
+      "name": "Promo",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "Tdf8q2ax-Ks",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "DyQ8X9OPOP4",
+      "name": "First Look",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "FgkQQCFaYuY",
+      "name": "Early Preview",
+      "official": true,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 365,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/228878-common-side-effects/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 318,
+          "logoPath": "/lEboSJfLzmtWaoLsms0jYBxYqka.png",
+          "name": "Adult Swim"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 2528,
+          "logoPath": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+          "name": "YouTube TV"
+        },
+        {
+          "id": 318,
+          "logoPath": "/lEboSJfLzmtWaoLsms0jYBxYqka.png",
+          "name": "Adult Swim"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/228878-common-side-effects/watch?locale=US",
+      "rent": []
+    }
+  }
+}

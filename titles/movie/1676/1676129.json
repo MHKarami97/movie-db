@@ -1,0 +1,154 @@
+{
+  "backdropPath": "/t8uallFaiC92HcL4mvcx8RJwCP6.jpg",
+  "cast": [
+    {
+      "character": "Nour",
+      "id": 1018984,
+      "name": "Sofia Essaïdi",
+      "profilePath": "/6OSQeJhTJ8nWG0VYtk876OIql0P.jpg"
+    },
+    {
+      "character": "Fabrice",
+      "id": 1517883,
+      "name": "Yoann Zimmer",
+      "profilePath": "/bxbqN0LRO8SUdH0uib3qN7GVPdo.jpg"
+    },
+    {
+      "character": "Greg",
+      "id": 2342845,
+      "name": "Jean Le Peltier",
+      "profilePath": "/q6fjiCbrieeVlVZdO0t4vneVrpg.jpg"
+    },
+    {
+      "character": "Xavier",
+      "id": 578512,
+      "name": "Marc Zinga",
+      "profilePath": "/kAX08gkt2rlfnQXgn6ASgjOYOoG.jpg"
+    },
+    {
+      "character": "Inès",
+      "id": 6067502,
+      "name": "Mélanie Akkari",
+      "profilePath": null
+    },
+    {
+      "character": "Doctor Hussein",
+      "id": 1620312,
+      "name": "Mohamed Makhtoumi",
+      "profilePath": "/sjTNXM22KU1uLpp6wsY0pXVwQET.jpg"
+    },
+    {
+      "character": "Eve",
+      "id": 6431528,
+      "name": "Lisa Hours",
+      "profilePath": null
+    },
+    {
+      "character": "Jupiter",
+      "id": 2768482,
+      "name": "Pierre-Yves Kiebbe",
+      "profilePath": "/fsl5AgFOnm095wNNZeOe4TcTLxf.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 99133,
+      "logoPath": null,
+      "name": "Narrativ Nation"
+    },
+    {
+      "id": 11331,
+      "logoPath": "/wcHhcw58wms26ejFLx1unYDT37n.png",
+      "name": "Cinétévé"
+    },
+    {
+      "id": 7131,
+      "logoPath": "/qpFsGoa96SytbWkhtkkpllu5Cch.png",
+      "name": "France Télévisions"
+    },
+    {
+      "id": 792,
+      "logoPath": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+      "name": "RTBF"
+    },
+    {
+      "id": 75242,
+      "logoPath": "/hrZzmOGhzhv473sIInHtSNwQOhT.png",
+      "name": "Pictanovo"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793504874718,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1676129,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Au sein des autres",
+  "overview": "",
+  "posterPath": "/vMUg5C5hPAlvJip0XZGiaa3FOso.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Au sein des autres",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {}
+}

@@ -1,0 +1,162 @@
+{
+  "backdropPath": "/cT0Beeme1WVc4udpfg9t0stX05s.jpg",
+  "cast": [
+    {
+      "character": "Stanisław Wokulski",
+      "id": 591295,
+      "name": "Marcin Dorociński",
+      "profilePath": "/pyPUnMHxNPKKYxn8PehQJfSbZzO.jpg"
+    },
+    {
+      "character": "Izabela Łęcka",
+      "id": 2745254,
+      "name": "Kamila Urzędowska",
+      "profilePath": "/vLX3MnghFcJXHmMXgloxdUr0iCT.jpg"
+    },
+    {
+      "character": "Ignacy Rzecki",
+      "id": 2830,
+      "name": "Marek Kondrat",
+      "profilePath": "/jIerx9Mfgkzd8NdiDmWYFTk09eK.jpg"
+    },
+    {
+      "character": "Tomasz Łęcki",
+      "id": 2829,
+      "name": "Andrzej Seweryn",
+      "profilePath": "/uYohJvqAai28Piqa0eEs6zAeFer.jpg"
+    },
+    {
+      "character": "Joanna Karolowa",
+      "id": 2807,
+      "name": "Krystyna Janda",
+      "profilePath": "/zx2UuzWg4iaa66vjw09Sk6w9Q31.jpg"
+    },
+    {
+      "character": "Kazimiera Wąsowska",
+      "id": 1522822,
+      "name": "Maria Dębska",
+      "profilePath": "/yoMuNK2doLDZ2yAauCFpl2pdBgB.jpg"
+    },
+    {
+      "character": "Kazimierz Starski",
+      "id": 116173,
+      "name": "Mateusz Damięcki",
+      "profilePath": "/bJTVPMPVpYts0g5klIiCgttMWWj.jpg"
+    },
+    {
+      "character": "Ms. Meliton",
+      "id": 566101,
+      "name": "Agata Kulesza",
+      "profilePath": "/qOk64HBbyZeJ4o1k9ScOMOtqOXR.jpg"
+    },
+    {
+      "character": "Florentyna",
+      "id": 90760,
+      "name": "Karolina Gruszka",
+      "profilePath": "/3QFVPgTVGKZ76U8LzdQWIVUBkQe.jpg"
+    },
+    {
+      "character": "Baroness Krzeszowska",
+      "id": 82312,
+      "name": "Maja Ostaszewska",
+      "profilePath": "/1d1QZzGSTfCX9zZHqG4ST8N3mj3.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 76201,
+      "logoPath": "/7MT49Brn8DiNMUstHYXh2m9xav5.png",
+      "name": "Gigant Films"
+    },
+    {
+      "id": 233704,
+      "logoPath": "/hXwh3n5q2ubbBwPTZG4UeYIJ56c.png",
+      "name": "TVN Warner Bros. Discovery"
+    },
+    {
+      "id": 135022,
+      "logoPath": "/fjNz3pIgYuIZ3ab5nbiF8RVqIPa.png",
+      "name": "Wytwórnia Filmów Fabularnych we Wrocławiu"
+    },
+    {
+      "id": 304001,
+      "logoPath": null,
+      "name": "S2 Holding"
+    }
+  ],
+  "countries": [
+    {
+      "code": "PL",
+      "name": "Poland"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "facebookId": "lalka.film",
+    "imdbId": "tt37082105",
+    "instagramId": "lalka.film",
+    "wikidataId": "Q139380938"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1321666,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pl",
+      "name": "Polish"
+    }
+  ],
+  "originalTitle": "Lalka",
+  "overview": "Wealthy merchant Stanislaw Wokulski falls tragically in love with beautiful yet vain Izabela Lecka. His unfulfilled love leads to many foolish decisions sealing his fate.",
+  "posterPath": "/6vN4ppExgYQXuCeyXkrEfnvTqIT.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-09"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-10-09"
+    }
+  },
+  "runtime": 162,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-09",
+  "title": "The Doll",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 15,
+  "watchProviders": {}
+}

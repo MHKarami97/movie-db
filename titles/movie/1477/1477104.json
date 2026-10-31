@@ -1,0 +1,418 @@
+{
+  "backdropPath": "/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+  "cast": [
+    {
+      "character": "Shaun / Timmy (voice)",
+      "id": 224354,
+      "name": "Justin Fletcher",
+      "profilePath": "/i0cXa3B7P9cWc4j82jowzGIQDaM.jpg"
+    },
+    {
+      "character": "The Farmer / Bitzer (voice)",
+      "id": 1212388,
+      "name": "John Sparkes",
+      "profilePath": "/kP6nILSReaAU0HpoHrs0nOvGLxU.jpg"
+    },
+    {
+      "character": "The Vet (voice)",
+      "id": 7063,
+      "name": "Nina Sosanya",
+      "profilePath": "/nKqRWTF8hCsyjiSRCNMyShbmvrg.jpg"
+    },
+    {
+      "character": "Timmy's Mum (voice)",
+      "id": 124557,
+      "name": "Kate Harbour",
+      "profilePath": "/9jqX2oO6Eho43x6Q9dWOI93YJnm.jpg"
+    },
+    {
+      "character": "Shirley (voice)",
+      "id": 1235023,
+      "name": "Rich Webber",
+      "profilePath": "/zE1gW6zPdX5ISULFXn4JYu3SrVm.jpg"
+    },
+    {
+      "character": "Hazel (voice)",
+      "id": 185065,
+      "name": "Emma Tate",
+      "profilePath": "/in8SZAA5dG6wW1LBCU10j1J7W8V.jpg"
+    },
+    {
+      "character": "The Twins (voice)",
+      "id": 155527,
+      "name": "Simon Greenall",
+      "profilePath": "/oe6HQ5bqb2uXITUC2s7rXHwfDLN.jpg"
+    },
+    {
+      "character": "Nuts (voice)",
+      "id": 22810,
+      "name": "Andy Nyman",
+      "profilePath": "/9bN9RVoPWmsmV3VBI7hp4VKD9Kg.jpg"
+    },
+    {
+      "character": "Shop Keeper (voice)",
+      "id": 34900,
+      "name": "Paul Whitehouse",
+      "profilePath": "/4aacb6fRghFwrT636cYmAYqQ35o.jpg"
+    },
+    {
+      "character": "Pizza Boy (voice)",
+      "id": 1908668,
+      "name": "Roman Kemp",
+      "profilePath": "/pBUoWBX2W30tGVrOlS41Phre2wZ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 297,
+      "logoPath": "/8ixoR3cvroUqNDLjaX6AZmJIdRY.png",
+      "name": "Aardman"
+    },
+    {
+      "id": 694,
+      "logoPath": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": "2026-10-23",
+  "externalIds": {
+    "facebookId": "shaunthesheepm",
+    "imdbId": "tt36841161",
+    "instagramId": "shaunthesheep",
+    "twitterId": "shaunthesheep",
+    "wikidataId": "Q134694705"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 35,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1477104,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "xx",
+      "name": "No Language"
+    }
+  ],
+  "originalTitle": "Shaun the Sheep: The Beast of Mossy Bottom",
+  "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
+  "posterPath": "/gayX49siwXf8eNs16rtk1fI91Ey.jpg",
+  "rating": 7.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-24"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-18"
+    },
+    "US": {
+      "digitalDate": "2026-10-23",
+      "gapDays": 35,
+      "theatricalDate": "2026-09-18"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "theatrical": "2026-10-24"
+    },
+    "GB": {
+      "theatrical": "2026-09-18"
+    },
+    "US": {
+      "digital": "2026-10-23",
+      "physical": "2027-01-26",
+      "theatrical": "2026-09-18"
+    }
+  },
+  "runtime": 81,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "What's that coming over the hill?",
+  "theatricalDate": "2026-09-18",
+  "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+  "translations": {
+    "faTitle": "شان گوسفند : هیولای ماسی باتم"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "bT92-lLovfs",
+      "name": "On Blu-ray, DVD, & Digital",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "F3yi-nxfG00",
+      "name": "Christine and the Vet! Behind the scenes of Shaun the Sheep, The Beast of Mossy Bottom!",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "5jXvZxO1nZk",
+      "name": "On set with animator Tim! The Beast of Mossy Bottom come to life, one frame at a time!",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "ni349K-zYZg",
+      "name": "Ever wondered where the skies above Shaun’s world come from?",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "ENvWyIgaQwY",
+      "name": "Meet our animators - Adam! | Aardman Animations Stop Motion Behind the Scenes",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "xRonRV_tnZo",
+      "name": "Official Clip - New Man in Town",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "Q8IMVs_ThuQ",
+      "name": "Welcome To Mossingham Town",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "ejknNp8lxl8",
+      "name": "Official Clip - Shaun's Secret Pumpkin Patch",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "VHQPopTW7fE",
+      "name": "Me and ewe. Cinema trip. This weekend.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "MnGyUEOVDgs",
+      "name": "ABSOLUTE SHAUN-EMA at the LA premiere for SHAUN THE SHEEP: THE BEAST OF MOSSY BOTTOM!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ONn34YeChpA",
+      "name": "Step baa-hind the scenes and into Shaun’s science lab!",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "riXcL4ISMp0",
+      "name": "Official Clip - Bitzer On The Run",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "piCzVSGnrgg",
+      "name": "Official Clip - Mad Science",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "tNwoqWWhCtQ",
+      "name": "Life On Set",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "qEXKvFg3ScE",
+      "name": "Hang onto your fleece— things are getting spooky!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "pLHCUi9cwHs",
+      "name": "Meet our animators! | Aardman Animations Stop Motion Behind the Scenes",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "tOJC0eaRHhU",
+      "name": "Never a dull day on this farm.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "l5G49PgYCLk",
+      "name": "Tiny Mic",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "uH2ZdLZ97Xs",
+      "name": "Hmmm...That clown does look familiar!",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "QjhNZT_1EvY",
+      "name": "Everyone's favorite lamb, Timmy!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "npQTRRmKk1M",
+      "name": "What Shaun The Sheep Is Actually Made Of! Behind the Scenes on The Beast of Mossy Bottom",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "g2RLgdx0myQ",
+      "name": "Autumn has hit Mossy Bottom Farm!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "daZMq0AyOMc",
+      "name": "Official US Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "dnANsVHMKCk",
+      "name": "Watch Roman Kemp play Truth or Dare",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "deVlB2LI9uU",
+      "name": "Crafting a Poster",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "T3K2uKvi_0s",
+      "name": "Official Trailer 2",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "b2RwIefN0Y0",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "UZ46Smi6mOw",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "bXKbBfzL4Vg",
+      "name": "Animation vs Final Shot",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "Cok148lEKPM",
+      "name": "Movie Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 43,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1477104-shaun-the-sheep-the-beast-of-mossy-bottom/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

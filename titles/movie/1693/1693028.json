@@ -1,0 +1,81 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 298233,
+      "logoPath": null,
+      "name": "Greenwood"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "id": 1693028,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "originalTitle": "나의 대통령",
+  "overview": "",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Planned",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "My President",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

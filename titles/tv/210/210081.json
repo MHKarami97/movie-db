@@ -1,0 +1,158 @@
+{
+  "backdropPath": "/7g5ntSj6rQANCZnkDKeRax1hhhD.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 109561,
+      "name": "Sherri Shepherd",
+      "profilePath": "/hEuNkdOpeztVtqIxWlwZFeoieUw.jpg"
+    },
+    {
+      "character": "Self - Announcer",
+      "id": 305275,
+      "name": "Rolonda Watts",
+      "profilePath": "/4zX8lI4QG7U9Kl3jzRccT7DV9c4.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 30588,
+      "logoPath": "/9oqo471Fw1R644VE8NwCgHiePY5.png",
+      "name": "Debmar-Mercury"
+    },
+    {
+      "id": 109811,
+      "logoPath": null,
+      "name": "WW Productions"
+    },
+    {
+      "id": 157203,
+      "logoPath": null,
+      "name": "Perler Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2022-09-12",
+  "externalIds": {
+    "facebookId": "sherrishowtv",
+    "imdbId": "tt18300006",
+    "instagramId": "sherrishowtv",
+    "twitterId": "sherrishowtv",
+    "wikidataId": "Q115516674"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 210081,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-02-11",
+    "episodeNumber": 36,
+    "id": 6928672,
+    "name": "Caleb Mclaughlin",
+    "overview": "",
+    "seasonNumber": 4
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Sherri",
+  "overview": "Sherri Shepherd, actress, comic, and Emmy Award-winning longtime co-host of \"The View\", appears before a live audience with a daily dose of pop culture, comedy, conversations, and daytime talk staples, including celebrity and human interest interviews.",
+  "posterPath": "/w6K4LsGYTBbuYpDG9qR20g6p1NT.jpg",
+  "rating": 2.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2022-09-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2022-09-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2022-09-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2022-09-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2022-09-12"
+    },
+    "CN": {
+      "tv": "2022-09-12"
+    },
+    "GB": {
+      "tv": "2022-09-12"
+    },
+    "US": {
+      "tv": "2022-09-12"
+    }
+  },
+  "runtime": 42,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2022-09-12",
+      "episodeCount": 159,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/tNpISQ0ymMpZmfRCeJXceAjyzev.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2023-09-18",
+      "episodeCount": 150,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/dGSUohx1DjGub5LPcZmVxrXx01P.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2024-09-23",
+      "episodeCount": 151,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/lFoyDXXcrsoxOjBDvPvODvxMOv5.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2025-09-22",
+      "episodeCount": 36,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Sherri",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 15,
+  "watchProviders": {}
+}

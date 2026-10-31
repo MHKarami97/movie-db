@@ -1,0 +1,212 @@
+{
+  "backdropPath": "/1Xdsq7U7bvJJd2X7Jg4qNaKVkYO.jpg",
+  "cast": [
+    {
+      "character": "Cristina",
+      "id": 1272190,
+      "name": "Naruna Costa",
+      "profilePath": null
+    },
+    {
+      "character": "Elisa",
+      "id": 3391695,
+      "name": "Camilla Damião",
+      "profilePath": "/qw8nKlkH5VsTPDlCNaAOTfaZglY.jpg"
+    },
+    {
+      "character": "Edson",
+      "id": 5659,
+      "name": "Seu Jorge",
+      "profilePath": "/p8VUk0ZSzfAF9uWjWg2jEVpPtTy.jpg"
+    },
+    {
+      "character": "Borges / André Luis",
+      "id": 4131582,
+      "name": "David Santos",
+      "profilePath": "/owWCmZsL0siy8oxm9q9QXUqMSPO.jpg"
+    },
+    {
+      "character": "Dona Ângela",
+      "id": 222991,
+      "name": "Marcélia Cartaxo",
+      "profilePath": "/ch8qtxE9oy9lwNzoksjnRCjfoEu.jpg"
+    },
+    {
+      "character": "Ivan",
+      "id": 189656,
+      "name": "Lee Taylor",
+      "profilePath": "/ylMjegqeoGOjNHeI2caA75f2jwL.jpg"
+    },
+    {
+      "character": "Anselmo",
+      "id": 2501569,
+      "name": "Enio Cavalcante",
+      "profilePath": "/dsM5QrDS8GrFwnnrp8HXMwlNS53.jpg"
+    },
+    {
+      "character": "Darlene",
+      "id": 583446,
+      "name": "Hermila Guedes",
+      "profilePath": "/tRhIem0QaMXLNuEjKLPVqoUNVso.jpg"
+    },
+    {
+      "character": "Elisa (criança)",
+      "id": 5998242,
+      "name": "Yetunde Hammed",
+      "profilePath": null
+    },
+    {
+      "character": "Romero",
+      "id": 1262677,
+      "name": "Elzio Vieira",
+      "profilePath": "/xf7ko8BC2Vh18ZP6cz3UhId8fas.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 345,
+      "logoPath": "/hj2nqoG2F9COm16fqvM0YpY3jL4.png",
+      "name": "O2 Filmes"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "digitalDate": "2026-02-11",
+  "externalIds": {
+    "imdbId": "tt39369643",
+    "wikidataId": "Q138381630"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1426964,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "Salve Geral: Irmandade",
+  "overview": "As São Paulo erupts in an unprecedented wave of violence, a lawyer with underworld ties must strike a deal with the police to rescue her kidnapped niece.",
+  "posterPath": "/3Eaqedg8MAlnP51GYY8MCSIdTnV.jpg",
+  "rating": 5.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-02-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-02-11",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-11",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-02-11"
+    },
+    "GB": {
+      "digital": "2026-02-11"
+    },
+    "US": {
+      "digital": "2026-02-11"
+    }
+  },
+  "runtime": 103,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "State of Fear",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 79,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1426964-salve-geral-irmandade/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1426964-salve-geral-irmandade/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1426964-salve-geral-irmandade/watch?locale=US",
+      "rent": []
+    }
+  }
+}

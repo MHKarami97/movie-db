@@ -1,0 +1,460 @@
+{
+  "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+  "cast": [
+    {
+      "character": "Bear",
+      "id": 1561370,
+      "name": "Michael Johnston",
+      "profilePath": "/fbpcCkBzu43kMdlXxEAMuLhseL8.jpg"
+    },
+    {
+      "character": "Nikki",
+      "id": 2638587,
+      "name": "Inde Navarrette",
+      "profilePath": "/qlNBUGON8FebgzcqVhhRSVFYSa5.jpg"
+    },
+    {
+      "character": "Ian",
+      "id": 2823609,
+      "name": "Cooper Tomlinson",
+      "profilePath": "/vBMQbYT1DyWPCUp11dIiqZR9zhd.jpg"
+    },
+    {
+      "character": "Sarah",
+      "id": 1519711,
+      "name": "Megan Lawless",
+      "profilePath": "/6qW63YEgB1qro01sM7T2HvhtFkh.jpg"
+    },
+    {
+      "character": "Carter",
+      "id": 28637,
+      "name": "Andy Richter",
+      "profilePath": "/5Qr7N6TzC8cI0ULxDm6EC5GpZ4C.jpg"
+    },
+    {
+      "character": "Viola",
+      "id": 3095494,
+      "name": "Haley Fitzgerald",
+      "profilePath": "/xbKqZ5Epz0IaSCPLXDnByDACw2X.jpg"
+    },
+    {
+      "character": "Harry",
+      "id": 1352948,
+      "name": "Darin Toonder",
+      "profilePath": "/bD7Y9T7Y6XwDXjGJ8Suabyt1ZGo.jpg"
+    },
+    {
+      "character": "Reggie",
+      "id": 4030428,
+      "name": "Anthony Pavone",
+      "profilePath": "/hxiqY9gHgwXGYnXSD11Wacm5Nmi.jpg"
+    },
+    {
+      "character": "Joe",
+      "id": 3592074,
+      "name": "Justice",
+      "profilePath": "/YFxKf2HHJvyavQf54NO5wXFOJX.jpg"
+    },
+    {
+      "character": "Chris",
+      "id": 5618033,
+      "name": "Anthony Casabianca",
+      "profilePath": "/xNJUKqKQhMeyZ74erQvETr3AqV0.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 155758,
+      "logoPath": "/iZi0zd9ijrcWR9zlEUUthG8d600.png",
+      "name": "Tea Shop Productions"
+    },
+    {
+      "id": 273145,
+      "logoPath": null,
+      "name": "Under the Shell"
+    },
+    {
+      "id": 154063,
+      "logoPath": "/r4anaxYa8OL5KaUbU35VkrIe88L.png",
+      "name": "Capstone Pictures"
+    },
+    {
+      "id": 3172,
+      "logoPath": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+      "name": "Blumhouse Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-06-30",
+  "externalIds": {
+    "facebookId": "obsessionmovie",
+    "imdbId": "tt37287335",
+    "instagramId": "obsessionthemovie",
+    "twitterId": "obsessionmovie",
+    "wikidataId": "Q136163067"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 46,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1339713,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Obsession",
+  "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+  "posterPath": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+  "rating": 8.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-21"
+    },
+    "CN": {
+      "digitalDate": "2026-10-30",
+      "gapDays": 98,
+      "theatricalDate": "2026-07-24"
+    },
+    "GB": {
+      "digitalDate": "2026-06-30",
+      "gapDays": 46,
+      "theatricalDate": "2026-05-15"
+    },
+    "US": {
+      "digitalDate": "2026-06-30",
+      "gapDays": 46,
+      "theatricalDate": "2026-05-15"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-05-21"
+    },
+    "CN": {
+      "digital": "2026-10-30",
+      "theatrical": "2026-07-24"
+    },
+    "GB": {
+      "digital": "2026-06-30",
+      "physical": "2026-09-07",
+      "theatrical": "2026-05-15"
+    },
+    "US": {
+      "digital": "2026-06-30",
+      "physical": "2026-07-14",
+      "premiere": "2025-09-21",
+      "theatrical": "2026-05-15",
+      "theatricalLimited": "2026-10-14"
+    }
+  },
+  "runtime": 109,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Be careful who you wish for…",
+  "theatricalDate": "2026-05-15",
+  "title": "Obsession",
+  "translations": {
+    "faTitle": "وسوسه"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "1kJfz70rI8w",
+      "name": "Bear's Wish Comes True - Extended Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "HGMT6esYf70",
+      "name": "Inde Navarrette Tells You How to Create the Perfect Inde Navarrette Costume",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "wHAql1jQYUI",
+      "name": "Don’t Ask ‘Obsession’ Director Curry Barker About His Wish",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Hd0WU9axVs8",
+      "name": "Curry Barker’s First Day on Set - Bonus Feature",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "iKBDpkti1WY",
+      "name": "The Biggest Challenge Behind Filming Obsession - Bonus Feature",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "PwjOcZQsl1E",
+      "name": "How Improv Shaped Obsession - Bonus Feature",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "AvLWFCXbVqU",
+      "name": "Nice Date",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "GlbDPVE78oQ",
+      "name": "When Someone Mentions Watching Obsession at Home",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "HvjZM9PQPZ0",
+      "name": "Inde Navarrette \"Can't Wait To Scare People\" - Bonus Feature",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "vGagNXaSoWc",
+      "name": "Watch at Home Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "PxRdmUBEhD4",
+      "name": "Curry Barker's Favourite Day On Set - Bonus Feature",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "95upf5hhidY",
+      "name": "Michael Johnston on Playing Bear - Bonus Feature",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "ILEbgnaFHlM",
+      "name": "The Cast Reveal Their Obsessions - Bonus Feature",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "aGZ_uALWvk8",
+      "name": "Watch at Home Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "tYQgZc0N0cY",
+      "name": "The Moment Bear Makes His Wish - Extended Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "JYWMQj-YlEk",
+      "name": "Four Favorites with Inde Navarrette",
+      "official": false,
+      "type": "Featurette"
+    },
+    {
+      "key": "l4YERhbntis",
+      "name": "What's on the Menu? - The Cast of Obsession Reveals Their Perfect Secret Sandwich Ingredients",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ZpeiXao2MS4",
+      "name": "Built Different: Curry Barker on Supernatural Horror",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "khIA3Y8Ci3A",
+      "name": "Speed Dating with the Cast of Obsession",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "SWk93t-DEwA",
+      "name": "Curry Barker, Inde Navarrette, Michael Johnston and More Read Your Letterboxd Reviews of Obsession",
+      "official": false,
+      "type": "Featurette"
+    },
+    {
+      "key": "KMVFpeSSZS0",
+      "name": "OBSESSION Filmmaker Curry Barker: HEREDITARY Changed the Way I Looked at Horror",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "HaZsOipO-xE",
+      "name": "\"Freaky Nikki\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "UWVznyWUS-E",
+      "name": "\"Nice Date\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "Sw3QHS8VNhA",
+      "name": "One Wish Willow",
+      "official": false,
+      "type": "Featurette"
+    },
+    {
+      "key": "gMC8kkwbIQQ",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "yybtztMB-Ww",
+      "name": "Official Teaser Trailer 2",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "0G5CjgPw1x4",
+      "name": "Official Teaser Trailer",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 6430,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1339713-obsession/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 386,
+          "logoPath": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+          "name": "Peacock Premium"
+        },
+        {
+          "id": 387,
+          "logoPath": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+          "name": "Peacock Premium Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1339713-obsession/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

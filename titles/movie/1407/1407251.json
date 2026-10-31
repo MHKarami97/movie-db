@@ -1,0 +1,141 @@
+{
+  "backdropPath": "/1XZQZmuREZG0kJmhGxPFpGk6jQR.jpg",
+  "cast": [
+    {
+      "character": "Platonov",
+      "id": 1748445,
+      "name": "Aleksandr Gorbatov",
+      "profilePath": "/xYPKMYglBJURVRTVYn9JuauUTD8.jpg"
+    },
+    {
+      "character": "Geiger",
+      "id": 23440,
+      "name": "Konstantin Khabensky",
+      "profilePath": "/xNGDL5Wya6sjiAH6Fk417c2geAs.jpg"
+    },
+    {
+      "character": "Zheltkov",
+      "id": 235097,
+      "name": "Evgeniy Stychkin",
+      "profilePath": "/A6l4ebUDXeBnPJUY6E9tEB7PXFD.jpg"
+    },
+    {
+      "character": "Anastasiya",
+      "id": 4552936,
+      "name": "Daria Kukarskih",
+      "profilePath": "/56UAMERUa38EpYk1SAvPjEepVuC.jpg"
+    },
+    {
+      "character": "Seva",
+      "id": 1429681,
+      "name": "Ilya Korobko",
+      "profilePath": "/oVr5wUWrluiiEDkg0DNhYTGPcFm.jpg"
+    },
+    {
+      "character": "Smolyanets",
+      "id": 93407,
+      "name": "Aleksei Kravchenko",
+      "profilePath": "/o7UD6o30iJ29dTHPCbtOScv9s5E.jpg"
+    },
+    {
+      "character": "Valentina",
+      "id": 2219440,
+      "name": "Sofya Ernst",
+      "profilePath": "/3W6niP16Vb1fJeFEUMz6Ib82L0I.jpg"
+    },
+    {
+      "character": "Zaretsky",
+      "id": 77666,
+      "name": "Anton Shagin",
+      "profilePath": "/3WufqXOLBq7KpJOwFnrPaJxANBG.jpg"
+    },
+    {
+      "character": "Platonov’s Mother",
+      "id": 68518,
+      "name": "Nataliya Vdovina",
+      "profilePath": "/4u4bVn1YkauMSOvT6K5s6zi1VDJ.jpg"
+    },
+    {
+      "character": "Platonov’s Father",
+      "id": 95560,
+      "name": "Igor Mirkurbanov",
+      "profilePath": "/aKK8IdM4ccKElRzYpZsNNyX8r1V.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 315260,
+      "logoPath": null,
+      "name": "KINOTV"
+    }
+  ],
+  "countries": [
+    {
+      "code": "RU",
+      "name": "Russia"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt29703223",
+    "wikidataId": "Q137850160"
+  },
+  "fetchedAt": 1793504874718,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1407251,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ru",
+      "name": "Russian"
+    }
+  ],
+  "originalTitle": "Авиатор",
+  "overview": "A person with amnesia writes down his memories in an attempt to reconstruct his life history.",
+  "posterPath": "/fajUsQfQAHvwJJKlqvpY9u8J0iH.jpg",
+  "rating": 5.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 117,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Aviator",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 7,
+  "watchProviders": {}
+}

@@ -1,0 +1,147 @@
+{
+  "backdropPath": "/qZ7CdO7rkH0KyCxvZBoP4Mm2cQL.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 10464,
+      "logoPath": "/bibwqB8U1QGwotLpX4QL4dvisxG.png",
+      "name": "Korea Educational Broadcasting System (EBS)"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": "2021-08-30",
+  "externalIds": {
+    "wikidataId": "Q130597286"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 132544,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-12-23",
+    "episodeNumber": 47,
+    "id": 6783128,
+    "name": "Episode 47",
+    "overview": "",
+    "seasonNumber": 5
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "위대한 수업, 그레이트 마인즈",
+  "overview": "A current affairs program that began airing on EBS in August 2021. Co-produced by the Ministry of Education, the National Institute for Lifelong Learning, and EBS, the program is part of the Korean MOOC (Korean Massive Open Online Course) program, which aims to disseminate world-class knowledge to the public amid the prolonged COVID-19 pandemic, which has widened the knowledge gap between classes and spread fake information on social media. Hear great thoughts from some of the world's leading minds right now, including Nobel Prize-winning economist Paul Krugman, Michael Sandel of What is Justice, and world-renowned conductor and pianist Daniel Barenboim.",
+  "posterPath": "/lj46PSaBziqCqbGXlmnXN325biA.jpg",
+  "rating": 5.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2021-08-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2021-08-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2021-08-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2021-08-30",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2021-08-30"
+    },
+    "CN": {
+      "tv": "2021-08-30"
+    },
+    "GB": {
+      "tv": "2021-08-30"
+    },
+    "US": {
+      "tv": "2021-08-30"
+    }
+  },
+  "runtime": 20,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2021-08-30",
+      "episodeCount": 203,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/bIl7F8euoGSkfc4vTDCzWtNlh8V.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2022-08-29",
+      "episodeCount": 214,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/8udbdtrspkRpV2wJut8WALc7btj.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2023-08-28",
+      "episodeCount": 215,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/bVQL0iW3ODc61wklkQKbu82CBOV.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "2024-09-30",
+      "episodeCount": 92,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "2025-10-20",
+      "episodeCount": 47,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Great Minds",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 17,
+  "watchProviders": {}
+}

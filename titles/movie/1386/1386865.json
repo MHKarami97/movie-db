@@ -1,0 +1,204 @@
+{
+  "backdropPath": "/5kR1EnvSecgUTACYO3wy7F7VCsi.jpg",
+  "cast": [
+    {
+      "character": "Silvio Santos",
+      "id": 1086110,
+      "name": "Leandro Hassum",
+      "profilePath": "/ulXMwJqQMZwSpKyx3We1LSJUVXX.jpg"
+    },
+    {
+      "character": "Marília",
+      "id": 2067002,
+      "name": "Manu Gavassi",
+      "profilePath": "/f3Yabn3hdVBI4O5JtagSGTHfNSg.jpg"
+    },
+    {
+      "character": "Raul",
+      "id": 1751211,
+      "name": "Marcelo Laham",
+      "profilePath": "/a86Mwh4dfYLBVQm9p8D2h96uItv.jpg"
+    },
+    {
+      "character": "Íris Abravanel",
+      "id": 568400,
+      "name": "Regiane Alves",
+      "profilePath": "/8ACb8FEDKBmGzU6lgMTOEY9rZ90.jpg"
+    },
+    {
+      "character": "Cida",
+      "id": 121459,
+      "name": "Vanessa Giácomo",
+      "profilePath": "/5ELbYvwJiVSxiwqQcjhK2JKPvpd.jpg"
+    },
+    {
+      "character": "Ricardo",
+      "id": 1040907,
+      "name": "Gabriel Godoy",
+      "profilePath": "/5Mf3yM6HER3sixamVfTYFMejwku.jpg"
+    },
+    {
+      "character": "Carlinhos",
+      "id": 1898677,
+      "name": "Hugo Bonemer",
+      "profilePath": "/oqATN43ND3CGgWyz1KEGErOXnxH.jpg"
+    },
+    {
+      "character": "Roque",
+      "id": 2625942,
+      "name": "Guilherme Dourado",
+      "profilePath": "/anm8RfQE4q5gr5nmFGDdiuX4M1F.jpg"
+    },
+    {
+      "character": "Lombardi",
+      "id": 1779208,
+      "name": "César Marchetti",
+      "profilePath": "/9VkNae5Zz7gqYP02xR06YvEXk2o.jpg"
+    },
+    {
+      "character": "Marlene",
+      "id": 1751394,
+      "name": "Gisela Reimann",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 93195,
+      "logoPath": "/qjk6yikGcCAqMQvi7Jo2juoIMY.png",
+      "name": "Paris Entretenimento"
+    },
+    {
+      "id": 202798,
+      "logoPath": "/tU2YHFlXX6nFMZlfFJ2yPzkkhdM.png",
+      "name": "Claro"
+    },
+    {
+      "id": 169217,
+      "logoPath": "/exccoKG2hyKPk7fCzfjGbtOs7yG.png",
+      "name": "Simba Content"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34767956",
+    "wikidataId": "Q131296790"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1386865,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "Silvio Santos Vem Aí",
+  "overview": "This biopic follows Silvio Santos in his 1989 presidential race, as a young journalist joins his campaign to uncover his past and what drives him to run.",
+  "posterPath": "/oPPHJPKFOODJkI49Q9InSPEKmBr.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Up Next: Silvio Santos",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 8,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1386865-silvio-santos-vem-ai/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1386865-silvio-santos-vem-ai/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1386865-silvio-santos-vem-ai/watch?locale=US",
+      "rent": []
+    }
+  }
+}

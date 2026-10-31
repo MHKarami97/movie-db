@@ -1,0 +1,64 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 269126,
+      "logoPath": null,
+      "name": "Analog Archive"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2028-04-20",
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": 182,
+  "genres": [],
+  "id": 1517390,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Saki Sanobashi: Go For A Punch",
+  "overview": "After being kidnapped, six people suddenly find themselves awake in what appears to be a bathroom? Just like the food and water, the little hope of escape they once had is slowly being eaten away by the realization that no one is coming to save them and that they will all decay here.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2028-04-20",
+      "gapDays": 182,
+      "theatricalDate": "2027-10-21"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2028-04-20",
+      "physical": "2028-06-19",
+      "theatricalLimited": "2027-10-21"
+    }
+  },
+  "runtime": 125,
+  "schemaVersion": 2,
+  "status": "Planned",
+  "tagline": "Where are we?",
+  "theatricalDate": "2027-10-21",
+  "title": "Saki Sanobashi: Go For A Punch",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

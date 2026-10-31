@@ -1,0 +1,205 @@
+{
+  "backdropPath": "/9wTQzxrVtiAJh1SMOhtK5A7UExD.jpg",
+  "cast": [
+    {
+      "character": "Adam Fox",
+      "id": 57171,
+      "name": "Jesse Metcalfe",
+      "profilePath": "/qZR4VAB2t0qawkH88Wv3K7y67nM.jpg"
+    },
+    {
+      "character": "Monica Rollason",
+      "id": 106725,
+      "name": "Kathryn Davis",
+      "profilePath": "/hs3fjziV9U4cmw4Px92KRbfE1Ea.jpg"
+    },
+    {
+      "character": "Ben Fox",
+      "id": 4332373,
+      "name": "Max Baribeau",
+      "profilePath": "/sctP7y43X732s6L9anEDfieEUss.jpg"
+    },
+    {
+      "character": "John Moser",
+      "id": 1549127,
+      "name": "Ian Busher",
+      "profilePath": null
+    },
+    {
+      "character": "Louise Moser",
+      "id": 62246,
+      "name": "Amy Matysio",
+      "profilePath": "/rv87UyLrV98KfLSsizHlHAhPvxa.jpg"
+    },
+    {
+      "character": "Cindy",
+      "id": 6497950,
+      "name": "Anita Corsi",
+      "profilePath": null
+    },
+    {
+      "character": "Jill Gomez",
+      "id": 6497951,
+      "name": "Daniela Donayre",
+      "profilePath": null
+    },
+    {
+      "character": "Noah Rollason",
+      "id": 3716163,
+      "name": "Lucien Duncan-Reid",
+      "profilePath": "/sliCDt3gkMHXcXusq72PLLFTbHG.jpg"
+    },
+    {
+      "character": "Sam Moser",
+      "id": 2825838,
+      "name": "Phoenix Ellis",
+      "profilePath": "/eMRnTpMPYjrW8tWaS4jNcboXlRN.jpg"
+    },
+    {
+      "character": "Max Gomez",
+      "id": 5382620,
+      "name": "Diego Fuentes",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 279515,
+      "logoPath": null,
+      "name": "Roku Media"
+    },
+    {
+      "id": 266872,
+      "logoPath": "/xiBTudkHBBRWOsAoP0y5A6klyQE.png",
+      "name": "Studio TF1 America"
+    },
+    {
+      "id": 140422,
+      "logoPath": "/bdzcN8jo9l77g5zKqPlxW3CkejM.png",
+      "name": "Champlain Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-07-07",
+  "externalIds": {
+    "imdbId": "tt42669039"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1727577,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Summer Sparks",
+  "overview": "Follows a single father and a single mom at Camp Evergreen during a summer cook-off, where cooking mishaps and heartfelt moments lead to an unexpected romantic connection.",
+  "posterPath": "/azL8xUAXTnW700ffzchkKmUCvp8.jpg",
+  "rating": 3.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-07",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-07-07"
+    }
+  },
+  "runtime": 88,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Summer Sparks",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "ookNGViP_gQ",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1727577-summer-sparks/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        }
+      ],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2754,
+          "logoPath": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+          "name": "Howdy Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1727577-summer-sparks/watch?locale=US",
+      "rent": []
+    }
+  }
+}

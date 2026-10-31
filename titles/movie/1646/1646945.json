@@ -1,0 +1,115 @@
+{
+  "backdropPath": "/cxAOlicoljfeXzuNKKpElM4Bovc.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 114378,
+      "logoPath": "/u2LABgcjXoomyWSr2T3NHAqxSl7.png",
+      "name": "Expectation TV"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-09-29",
+  "externalIds": {
+    "imdbId": "tt46060457"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1646945,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Swan: Behind the Mirror",
+  "overview": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
+  "posterPath": "/hCALD2uCetzUjj40k8TUMnsA397.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-09-29",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-09-29"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Swan: Behind the Mirror",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "yIfvzNKLGzw",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1646945-the-swan-behind-the-mirror/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1646945-the-swan-behind-the-mirror/watch?locale=US",
+      "rent": []
+    }
+  }
+}

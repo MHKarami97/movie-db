@@ -1,0 +1,216 @@
+{
+  "backdropPath": "/8QRMlkCMFNKZM2ApnIaut5t4snf.jpg",
+  "cast": [
+    {
+      "character": "Dr. Geetika Sen",
+      "id": 85666,
+      "name": "Konkona Sen Sharma",
+      "profilePath": "/i538HToMEGR6J2OVmOGX3GfWcQC.jpg"
+    },
+    {
+      "character": "Meera",
+      "id": 2550663,
+      "name": "Pratibha Ranta",
+      "profilePath": "/hKIMxsT766lvNowO2rxs4Kc8wzo.jpg"
+    },
+    {
+      "character": "Angad",
+      "id": 4297031,
+      "name": "Aditya Nanda",
+      "profilePath": "/oTyk6j0PA1yv6j9rSuscvIWMUAh.jpg"
+    },
+    {
+      "character": "Jaideep Bharghav",
+      "id": 4186053,
+      "name": "Mashhoor Amrohi",
+      "profilePath": "/qFl3ZCms5jSmFZ2GLxuirphnAK4.jpg"
+    },
+    {
+      "character": "Simran",
+      "id": 3098270,
+      "name": "Monica Mahendru",
+      "profilePath": null
+    },
+    {
+      "character": "Mansoor Ali",
+      "id": 2359361,
+      "name": "Sukant Goel",
+      "profilePath": "/k5FxVxeGB6B6XkglubMuDJBzCa4.jpg"
+    },
+    {
+      "character": "Sophie",
+      "id": 1739730,
+      "name": "Kallirroi Tziafeta",
+      "profilePath": "/qSJofJCJe62A19gpI3TGIizUa3d.jpg"
+    },
+    {
+      "character": "Rohit",
+      "id": 6047295,
+      "name": "Keshav Bhardwaj",
+      "profilePath": null
+    },
+    {
+      "character": "Dr. Logan",
+      "id": 6047294,
+      "name": "Christopher Jones",
+      "profilePath": null
+    },
+    {
+      "character": "Dr. Martin Cooper",
+      "id": 5517605,
+      "name": "Daniele Secondi",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 150300,
+      "logoPath": null,
+      "name": "Dharmatic Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2026-02-27",
+  "externalIds": {
+    "imdbId": "tt39631179",
+    "wikidataId": "Q138504859"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1389149,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "hi",
+      "name": "Hindi"
+    }
+  ],
+  "originalTitle": "अक्यूज़्ड",
+  "overview": "When a celebrated queer doctor in London is accused of sexual misconduct, her life unravels. Now under a storm of suspicion and scrutiny, her marriage fractures and the truth blurs. Her wife must decide whether to walk away, or fight for the woman the world is turning against.",
+  "posterPath": "/3FAQTMv64JINU5Pk6mePXQbze4M.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-02-27",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-02-27"
+    },
+    "US": {
+      "digital": "2026-02-27"
+    }
+  },
+  "runtime": 107,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Accused",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Jsbo8A9MH3w",
+      "name": "Accused Official Trailer | Accused 2026 Hindi Trailer | Accused Movie Trailer In Hindi",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 77,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1389149/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1389149/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1389149/watch?locale=US",
+      "rent": []
+    }
+  }
+}

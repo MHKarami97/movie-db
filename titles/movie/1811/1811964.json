@@ -1,0 +1,189 @@
+{
+  "backdropPath": "/hFKZK6R1iFvB1Da01rN28CqWYmi.jpg",
+  "cast": [
+    {
+      "character": "Yugandhar",
+      "id": 1180898,
+      "name": "Aadi Saikumar",
+      "profilePath": "/33fFiOUrsZcwjIz483Zruk6oFrA.jpg"
+    },
+    {
+      "character": "",
+      "id": 3193174,
+      "name": "Megha Lekha",
+      "profilePath": "/wh6BecIOvV6Fim6p51qCUQLOaIY.jpg"
+    },
+    {
+      "character": "",
+      "id": 1712856,
+      "name": "Rakendu Mouli",
+      "profilePath": "/bTPcmRTCTjiASiEp4Nu5SQArTaM.jpg"
+    },
+    {
+      "character": "",
+      "id": 4175193,
+      "name": "Lavannya Sahukara",
+      "profilePath": "/Vep8fwvEQ6nNCKg0AL5M1mj33G.jpg"
+    },
+    {
+      "character": "",
+      "id": 2228961,
+      "name": "Pavan Tej Konidela",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 1997181,
+      "name": "Siva Krishna",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 1430836,
+      "name": "Kadambari Kiran",
+      "profilePath": "/j6oQNoZw0pT40e0RdtyKB84VuIE.jpg"
+    },
+    {
+      "character": "",
+      "id": 1998581,
+      "name": "Gayatri Bhargavi",
+      "profilePath": "/ugx4DTNVSGaj4KgvgPJdQwcCQc8.jpg"
+    },
+    {
+      "character": "",
+      "id": 1107240,
+      "name": "Jayalalita",
+      "profilePath": "/qvw64GoEDOYMvxEwourE6lT94SL.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 316294,
+      "logoPath": null,
+      "name": "Sri Pinaaka Motion Pictures"
+    }
+  ],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt47421307"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1811964,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "te",
+      "name": "Telugu"
+    }
+  ],
+  "originalTitle": "SI Yugandhar",
+  "overview": "An honest cop's discovery of a mysterious body launches a high-stakes investigation, forcing him to uncover a dark web of secrets hidden beneath the city's surface.",
+  "posterPath": "/mIK5YnqQWKZxyQgaeDDVywUxNWo.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 151,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "SI Yugandhar",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "7exx6Nv-L0o",
+      "name": "Si Yugandhar Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "qAZol_1qsOg",
+      "name": "SI Yugandhar Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1811964-si-yugandhar/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1811964-si-yugandhar/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1811964-si-yugandhar/watch?locale=US",
+      "rent": []
+    }
+  }
+}

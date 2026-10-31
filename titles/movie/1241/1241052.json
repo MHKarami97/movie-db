@@ -1,0 +1,175 @@
+{
+  "backdropPath": "/1pR6uu0e9h4tJiSuYLuiRm7id6x.jpg",
+  "cast": [
+    {
+      "character": "Helen Bell",
+      "id": 2598,
+      "name": "Sophie Okonedo",
+      "profilePath": "/tG5XragN8l5Npg6viwEmvVKwt2r.jpg"
+    },
+    {
+      "character": "Minnie Dunn",
+      "id": 4019845,
+      "name": "Katherine Mallen Kupferer",
+      "profilePath": "/7K9yXtbStDmHCNaox20arYS74R.jpg"
+    },
+    {
+      "character": "Callie Bell",
+      "id": 1696016,
+      "name": "Chloe Coleman",
+      "profilePath": "/rTbVFZMvUViFCIa5AXlBX3P6vfR.jpg"
+    },
+    {
+      "character": "Mr. Murdaugh",
+      "id": 11076,
+      "name": "David Hyde Pierce",
+      "profilePath": "/9BSgq4yxjPry1Oghqq92S4wUIvs.jpg"
+    },
+    {
+      "character": "Barbara Dunn",
+      "id": 2722232,
+      "name": "Tara Mallen",
+      "profilePath": "/fwyWGt8l2yEjFNjV2jadpVtAPd0.jpg"
+    },
+    {
+      "character": "Kat",
+      "id": 2798462,
+      "name": "Iman Vellani",
+      "profilePath": "/oBpOjLAH8heYNNJZN1Z5jVQhAKC.jpg"
+    },
+    {
+      "character": "Brad Hugg",
+      "id": 2249666,
+      "name": "Beck Nolan",
+      "profilePath": "/59OiQs9BdyatzrqS2M0hzZ1ilwg.jpg"
+    },
+    {
+      "character": "Brandi Combs",
+      "id": 5358470,
+      "name": "Addisyn Grace Cain",
+      "profilePath": "/yo9VvuikUr7CIcx9o7HYGUogR2X.jpg"
+    },
+    {
+      "character": "Cara",
+      "id": 1918851,
+      "name": "Audrey Grace Marshall",
+      "profilePath": "/u9j51KnphsW0zg05nCOXxXKlWex.jpg"
+    },
+    {
+      "character": "Mark Bell",
+      "id": 1707116,
+      "name": "Christopher R Ellis",
+      "profilePath": "/aLfcroWl13fOVNYI24P7MRiACq0.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 226771,
+      "logoPath": null,
+      "name": "Little Engine"
+    },
+    {
+      "id": 229698,
+      "logoPath": "/uMI7qSe1E8UqdDH0dsbLglUCv8Q.png",
+      "name": "Rosalind Productions"
+    },
+    {
+      "id": 62514,
+      "logoPath": null,
+      "name": "Metropolitan Entertainment"
+    },
+    {
+      "id": 94902,
+      "logoPath": null,
+      "name": "Runaway Train"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt13652154",
+    "wikidataId": "Q133849149"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1241052,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Mouse",
+  "overview": "When her closest friendship is suddenly disrupted the summer before senior year, a teenager struggles to find her footing and develops an unexpected, complicated bond with her best friend’s mother.",
+  "posterPath": "/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-13"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-09-03"
+    },
+    "GB": {
+      "premiere": "2026-10-14"
+    },
+    "US": {
+      "premiere": "2026-10-20",
+      "theatrical": "2026-11-13",
+      "theatricalLimited": "2026-11-06"
+    }
+  },
+  "runtime": 120,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-11-13",
+  "title": "Mouse",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "sfvh4VZsFuY",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

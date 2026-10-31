@@ -1,0 +1,197 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Ivan",
+      "id": 28633,
+      "name": "Richard Jenkins",
+      "profilePath": "/muT3RZG9hiKaKojD751RcQ5tGEy.jpg"
+    },
+    {
+      "character": "Greta",
+      "id": 1371297,
+      "name": "Adria Arjona",
+      "profilePath": "/hzu7OqTmNCT1xdCdmwBSf2yJvaO.jpg"
+    },
+    {
+      "character": "Gnarly",
+      "id": 66554,
+      "name": "Kadeem Hardison",
+      "profilePath": "/swexf3AEacs9Ep2oDcaUyE5XBdj.jpg"
+    },
+    {
+      "character": "Leo",
+      "id": 56365,
+      "name": "Charlie Hunnam",
+      "profilePath": "/5WIDrnY25Ps2RYu0zIzHSVuSt5n.jpg"
+    },
+    {
+      "character": "Jenny",
+      "id": 93376,
+      "name": "Logan Browning",
+      "profilePath": "/zKEsvVQCZORJ32wzp1a1exsHU0P.jpg"
+    },
+    {
+      "character": "Mallory",
+      "id": 1223786,
+      "name": "Emilia Clarke",
+      "profilePath": "/iFY6t7Ux9r70WB7Sp0TTVz6eGtm.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 54629,
+      "logoPath": "/nygX645auQxOiiAH1mrPxIuQRj0.png",
+      "name": "Legendary Television"
+    },
+    {
+      "id": 210099,
+      "logoPath": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2027-01-13",
+  "episodes": {
+    "1": [
+      {
+        "airDate": null,
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": null,
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": null,
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": null,
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt27493572",
+    "wikidataId": "Q126584129"
+  },
+  "fetchedAt": 1793906464749,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 243214,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-13",
+    "episodeNumber": 1,
+    "id": 5060098,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Criminal",
+  "overview": "An interlocking universe of crime stories based on the graphic novel series created by Ed Brubaker and Sean Phillips.",
+  "posterPath": "/tfPuLe8lA4rN9cdKWy4IiMzhbgO.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-13",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-13"
+    },
+    "CN": {
+      "tv": "2027-01-13"
+    },
+    "GB": {
+      "tv": "2027-01-13"
+    },
+    "US": {
+      "tv": "2027-01-13"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-13",
+      "episodeCount": 8,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Criminal",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "RgrGEvdc7mk",
+      "name": "Criminal Official Teaser | Prime Video",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,216 @@
+{
+  "backdropPath": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+  "cast": [
+    {
+      "character": "Carmona",
+      "id": 220496,
+      "name": "Alfonso Herrera",
+      "profilePath": "/54KLFvt8iMDFmam2tsb5wk3AIcv.jpg"
+    },
+    {
+      "character": "Rosales",
+      "id": 89445,
+      "name": "Noé Hernández",
+      "profilePath": "/l3NXUy1x5buKHawSw4xye5JW8pl.jpg"
+    },
+    {
+      "character": "El Chapo Guzmán",
+      "id": 133766,
+      "name": "Hector Kotsifakis",
+      "profilePath": "/IE5KgMI1bE0LcloTHNVsk3kldk.jpg"
+    },
+    {
+      "character": "Isaura",
+      "id": 1327350,
+      "name": "Paola Fernández",
+      "profilePath": "/kRfjEVZULgJNf8XC5PJETkoc7bx.jpg"
+    },
+    {
+      "character": "Valladares",
+      "id": 1301522,
+      "name": "Gerardo Trejoluna",
+      "profilePath": "/fJzcjj3JrARh3iQEx5lMbCEfRKq.jpg"
+    },
+    {
+      "character": "Lagarto",
+      "id": 2732919,
+      "name": "Fernando Cuautle",
+      "profilePath": "/yxGoMBPVvieHrSkA2A0LACWcr68.jpg"
+    },
+    {
+      "character": "Joana",
+      "id": 6353774,
+      "name": "Alejandra Vazquez De Leon",
+      "profilePath": "/9nKUBLk0rkJ6U1xQqgdP72PMGfn.jpg"
+    },
+    {
+      "character": "Sapo",
+      "id": 4746012,
+      "name": "Santiago Colores",
+      "profilePath": "/ohFw8S6Ff7lY8x26DMktBoZdifL.jpg"
+    },
+    {
+      "character": "Chabela",
+      "id": 2091725,
+      "name": "Berenice Mastretta",
+      "profilePath": "/xK35EiEqQMtqzZmDJ55l8O663ry.jpg"
+    },
+    {
+      "character": "Liz",
+      "id": 6412964,
+      "name": "Regina Arroyo",
+      "profilePath": "/9uBC4fhSMCrbxYSCk3S2tDkqKPa.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 84651,
+      "logoPath": "/o7gUREdtNzQ3Alrck13tlvcNKvv.png",
+      "name": "Draco Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "digitalDate": "2026-08-21",
+  "externalIds": {
+    "imdbId": "tt39390497",
+    "wikidataId": "Q141165617"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1621552,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "La captura",
+  "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
+  "posterPath": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+  "rating": 8.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-08-21",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-08-21",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-08-21"
+    },
+    "US": {
+      "digital": "2026-08-21"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Facing El Chapo",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Rk0efhpa-5Y",
+      "name": "FACING EL CHAPO Official Trailer (2026) Netflix | Alfonso Herrera, Noé Hernández 🚨",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 969,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "backdropPath": "/fNRe0krrGlxrmtXC8lNOOsEV2eY.jpg",
+  "cast": [
+    {
+      "character": "Self - Presenter",
+      "id": 86543,
+      "name": "David Attenborough",
+      "profilePath": "/xE6aLZ2Ma1VSoZGhOUW8TcbBMN6.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 9050,
+      "logoPath": "/dEUWxME2lFFfzsSunN3lSZyRcY.png",
+      "name": "BBC Studios Natural History Unit"
+    },
+    {
+      "id": 105182,
+      "logoPath": "/5sFjaa1lYQgcrfYHScn2GaezmN.png",
+      "name": "BBC America"
+    },
+    {
+      "id": 4606,
+      "logoPath": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF"
+    },
+    {
+      "id": 7131,
+      "logoPath": "/qpFsGoa96SytbWkhtkkpllu5Cch.png",
+      "name": "France Télévisions"
+    },
+    {
+      "id": 131634,
+      "logoPath": "/xADNihESQ9mHtnOnhruEg3RoUH6.png",
+      "name": "Skai"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "GR",
+      "name": "Greece"
+    }
+  ],
+  "digitalDate": "2026-11-01",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-11-01",
+        "episodeNumber": 1,
+        "name": "Tropical Seas",
+        "overview": "Warm waters and year-round sunshine create the perfect conditions for the ocean’s richest habitats to flourish, but survival here takes remarkable and surprising tactics.",
+        "stillPath": "/er00EcMyjBAAyVHq1d9z7MB2kUn.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-08",
+        "episodeNumber": 2,
+        "name": "Open Ocean",
+        "overview": "Beyond the horizon lies the vast Open Ocean, a mysterious wilderness teeming with extraordinary life that thrives against all odds.",
+        "stillPath": "/6xQXjFsBiXqE9f5QVsSDyZ01oAt.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-15",
+        "episodeNumber": 3,
+        "name": "Season Seas",
+        "overview": "Between the tropics and poles lie seas governed by the seasons. From storm-battered winters to the intense heat of summer, it's a world of extremes, but for those that can adapt, opportunity awaits.",
+        "stillPath": "/nQaU1shfaYEZP2S8kMv9AsQjolc.jpg",
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-22",
+        "episodeNumber": 4,
+        "name": "Polar Waters",
+        "overview": "Polar waters help power global ocean currents, bringing epic wildlife spectacles and surprising animal behaviour far beyond the poles.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-29",
+        "episodeNumber": 5,
+        "name": "The Deep",
+        "overview": "Journey into Earth’s last great frontier, where cutting-edge technology reveals an extraordinary world hidden beneath the ocean’s surface.",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-06",
+        "episodeNumber": 6,
+        "name": "Future Seas",
+        "overview": "Our ocean faces immense challenges, but we now have the tools to help it recover and there are incredible people around the world leading this fight.",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt40002142"
+  },
+  "fetchedAt": 1794024458150,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 208929,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-11-01",
+    "episodeNumber": 1,
+    "id": 3912778,
+    "name": "Tropical Seas",
+    "overview": "Warm waters and year-round sunshine create the perfect conditions for the ocean’s richest habitats to flourish, but survival here takes remarkable and surprising tactics.",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-08",
+    "episodeNumber": 2,
+    "id": 7992028,
+    "name": "Open Ocean",
+    "overview": "Beyond the horizon lies the vast Open Ocean, a mysterious wilderness teeming with extraordinary life that thrives against all odds.",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Blue Planet III",
+  "overview": "The third series of this nature documentary uses the very latest in underwater filming techniques to reveal brand new and untold stories from magical underwater worlds focusing on five major underwater habitats: the tropical seas, temperate seas, polar seas, high seas and deep seas. Venture deeper beneath the waves. David Attenborough reveals ocean life more surprising, more intelligent and more precious than we ever realised.",
+  "posterPath": "/3K7dHJvcGy8RJNh46xZJcLmwfSJ.jpg",
+  "rating": 9.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-11-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-11-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-01",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-11-01"
+    },
+    "CN": {
+      "tv": "2026-11-01"
+    },
+    "GB": {
+      "tv": "2026-11-01"
+    },
+    "US": {
+      "tv": "2026-11-01"
+    }
+  },
+  "runtime": 58,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-11-01",
+      "episodeCount": 6,
+      "name": "Miniseries",
+      "overview": "",
+      "posterPath": "/1ToWQSaH5iHS3HMBU3UpNpCywfB.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Blue Planet III",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "348yPrc4w_E",
+      "name": "Official AMC+ Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "LvjlkoWkaWA",
+      "name": "First Look Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 2,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        }
+      ],
+      "free": [
+        {
+          "id": 38,
+          "logoPath": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
+          "name": "BBC iPlayer"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/208929-blue-planet-iii/watch?locale=GB",
+      "rent": []
+    }
+  }
+}

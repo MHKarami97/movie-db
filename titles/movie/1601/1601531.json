@@ -1,0 +1,146 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Barbara",
+      "id": 127164,
+      "name": "Phyllis Logan",
+      "profilePath": "/jRNfzD3bA5fyPxXRTiDbfNsTcOV.jpg"
+    },
+    {
+      "character": "Peter",
+      "id": 2392013,
+      "name": "Max Harwood",
+      "profilePath": "/94PUsnHaSZ6OYt2CvPiaeH2JEzT.jpg"
+    },
+    {
+      "character": "Liam",
+      "id": 1646779,
+      "name": "Angus Imrie",
+      "profilePath": "/smM2jI7EbsuiSxQCHlJhnb8FQdj.jpg"
+    },
+    {
+      "character": "Caroline",
+      "id": 1215741,
+      "name": "Kathryn Drysdale",
+      "profilePath": "/ryhIHc6gKVYKmgMxaFSLYv8Tbbi.jpg"
+    },
+    {
+      "character": "Janet",
+      "id": 207305,
+      "name": "Kacey Ainsworth",
+      "profilePath": "/qIUb9YMbRCOdbr54f2uVyW1uc1Q.jpg"
+    },
+    {
+      "character": "Dotty",
+      "id": 1219228,
+      "name": "Elizabeth Bennett",
+      "profilePath": "/hHhJxALSfzBiHvu09YwYYAg0jfH.jpg"
+    },
+    {
+      "character": "Trevor",
+      "id": 5840608,
+      "name": "Tim Barton",
+      "profilePath": null
+    },
+    {
+      "character": "Poppy",
+      "id": 6521286,
+      "name": "Sunny Chung",
+      "profilePath": null
+    },
+    {
+      "character": "Travis",
+      "id": 71073,
+      "name": "Enzo Squillino Jr.",
+      "profilePath": "/pXr0Vg3wrhyl32rFjCtYBojD2np.jpg"
+    },
+    {
+      "character": "Reporter",
+      "id": 2529375,
+      "name": "Deeivya Meir",
+      "profilePath": "/o7ZGHCM23TnrCvv3awZR0Bp5qfg.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 10393,
+      "logoPath": "/7MazD0kppT5OzdumzDi5IFYNthO.png",
+      "name": "Vertigo Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1601531,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Village Idiot",
+  "overview": "\"Village Idiot\" is a sharp, heartfelt comedy-drama about a stubborn English grandmother, Barbara, who chains herself to her cottage to resist eviction by High Speed train developers. She then discovers that the company’s liaison sent to remove her is her estranged grandson, Peter. What follows is a clash between generations, class, and values: Barbara’s fierce attachment to home and identity versus Peter’s desperate need to hold onto his corporate job. As their battle becomes public, turning into a small-town spectacle of protest, press, and community chaos, both are forced to confront what “home” really means, and how love, pride, and belonging can both bind and divide a family. Witty, warm, and deeply human, \"Village Idiot\" captures rural England on the brink of change with equal parts humour and heartbreak.",
+  "posterPath": "/3Lkpw4z1aEESUJGcmDFgBN1RVQx.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-10-02"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-10-02"
+    }
+  },
+  "runtime": 60,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-02",
+  "title": "Village Idiot",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

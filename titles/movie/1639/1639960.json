@@ -1,0 +1,316 @@
+{
+  "backdropPath": "/idnxQjDQpwrcF2UnwHF5ZBkt4H1.jpg",
+  "cast": [
+    {
+      "character": "Dr. Viktor Frankenstein",
+      "id": 1980660,
+      "name": "Nick Launchbury",
+      "profilePath": "/jrP9L3PRjyrBhXlzzDvl0iZ4YPU.jpg"
+    },
+    {
+      "character": "The Bride",
+      "id": 6023590,
+      "name": "Emma De Maria",
+      "profilePath": null
+    },
+    {
+      "character": "Clancy",
+      "id": 1818454,
+      "name": "Vincent Donato",
+      "profilePath": null
+    },
+    {
+      "character": "Agatha De Lacey",
+      "id": 4347433,
+      "name": "Tayla Cecere",
+      "profilePath": null
+    },
+    {
+      "character": "Felix",
+      "id": 6226605,
+      "name": "Connor Kennedy",
+      "profilePath": null
+    },
+    {
+      "character": "John Clerval",
+      "id": 5813728,
+      "name": "Lucas Andrews",
+      "profilePath": null
+    },
+    {
+      "character": "The Monster",
+      "id": 6226607,
+      "name": "Rob C. Wells",
+      "profilePath": null
+    },
+    {
+      "character": "Mary Clerval",
+      "id": 2774453,
+      "name": "Lisa Fanto",
+      "profilePath": "/dMU6O8Lw5s7YaQZKfyjiWX4OcuN.jpg"
+    },
+    {
+      "character": "Harris Clerval",
+      "id": 6226552,
+      "name": "Will Hodgson",
+      "profilePath": null
+    },
+    {
+      "character": "Henry Clerval",
+      "id": 5629312,
+      "name": "Joshua Davies-Thain",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 1311,
+      "logoPath": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum"
+    },
+    {
+      "id": 162087,
+      "logoPath": null,
+      "name": "Atomic Blonde Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-02-20",
+  "externalIds": {
+    "imdbId": "tt38627843"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1639960,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Frankenstein's Bride",
+  "overview": "On the day of Frankenstein’s Monster’s wedding, villagers riot and kill him. His bride escapes, vows revenge on the townsfolk responsible, and eventually resurrects the Monster – leading a trail of blood in her wake.",
+  "posterPath": "/zmeOomyxOSs8w04Nv5OE4V7bv15.jpg",
+  "rating": 5.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-06-15",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-20",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-06-15",
+      "physical": "2026-06-15"
+    },
+    "US": {
+      "digital": "2026-02-20"
+    }
+  },
+  "runtime": 86,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Vengeance is hers!",
+  "theatricalDate": null,
+  "title": "Frankenstein's Bride",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "qeE_grq3y0s",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1639960-frankenstein-s-bride/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        },
+        {
+          "id": 613,
+          "logoPath": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png",
+          "name": "Amazon Prime Video Free with Ads"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        },
+        {
+          "id": 1898,
+          "logoPath": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png",
+          "name": "Amazon MX Player"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1639960-frankenstein-s-bride/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

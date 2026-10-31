@@ -1,0 +1,771 @@
+{
+  "backdropPath": "/i3eFaFQEc5SiWuJMRZhN7xnB4H6.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 60324,
+      "logoPath": "/bG83WjZgjmWuWz0TYAxlWVRGmln.png",
+      "name": "NBC News"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "1947-11-06",
+  "episodes": {
+    "80": [
+      {
+        "airDate": "2026-01-04",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "meetthepress",
+    "imdbId": "tt0149490",
+    "instagramId": "meetthepress",
+    "twitterId": "meetthepress",
+    "wikidataId": "Q1543066"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "id": 4496,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-01-04",
+    "episodeNumber": 1,
+    "id": 7628812,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 80
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Meet the Press",
+  "overview": "Meet the Press is a weekly American television news/interview program airing on NBC. It is the longest-running television series in American broadcasting history, despite bearing little resemblance to the original format of the program seen in its television debut on November 6, 1947. Meet the Press is the highest-rated of the American television Sunday morning talk shows.\n\nIt has been hosted by 11 moderators, beginning with Martha Rountree.  Meet the Press and similar shows specialize in interviewing national leaders on issues of politics, economics, foreign policy and other public affairs.",
+  "posterPath": "/ix7PFKpRTzD5eQxEqD4MvqdAAHW.jpg",
+  "rating": 4.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1947-11-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1947-11-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1947-11-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1947-11-06",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1947-11-06"
+    },
+    "CN": {
+      "tv": "1947-11-06"
+    },
+    "GB": {
+      "tv": "1947-11-06"
+    },
+    "US": {
+      "tv": "1947-11-06"
+    }
+  },
+  "runtime": 53,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2015-09-28",
+      "episodeCount": 61,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1947-11-06",
+      "episodeCount": 7,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1948-01-01",
+      "episodeCount": 53,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1949-01-02",
+      "episodeCount": 52,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1950-01-01",
+      "episodeCount": 53,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1951-01-07",
+      "episodeCount": 52,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1952-01-06",
+      "episodeCount": 52,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1953-01-04",
+      "episodeCount": 52,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1954-01-07",
+      "episodeCount": 52,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1955-01-06",
+      "episodeCount": 52,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1956-01-05",
+      "episodeCount": 52,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "1957-01-03",
+      "episodeCount": 52,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "1958-01-02",
+      "episodeCount": 52,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "1959-01-01",
+      "episodeCount": 53,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "1960-01-07",
+      "episodeCount": 52,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "1961-01-05",
+      "episodeCount": 52,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "1962-01-04",
+      "episodeCount": 52,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "1963-01-03",
+      "episodeCount": 52,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "1964-01-02",
+      "episodeCount": 53,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "1965-01-07",
+      "episodeCount": 52,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "1966-01-06",
+      "episodeCount": 52,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "1967-01-05",
+      "episodeCount": 52,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "1968-01-04",
+      "episodeCount": 51,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "1969-01-02",
+      "episodeCount": 52,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "1970-01-01",
+      "episodeCount": 53,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "1971-01-07",
+      "episodeCount": 52,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "1972-01-06",
+      "episodeCount": 52,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "1973-01-04",
+      "episodeCount": 52,
+      "name": "Season 27",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "1974-01-03",
+      "episodeCount": 52,
+      "name": "Season 28",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "1975-01-02",
+      "episodeCount": 52,
+      "name": "Season 29",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "1976-01-01",
+      "episodeCount": 53,
+      "name": "Season 30",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "1977-01-06",
+      "episodeCount": 52,
+      "name": "Season 31",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "1978-01-05",
+      "episodeCount": 52,
+      "name": "Season 32",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "1979-01-04",
+      "episodeCount": 52,
+      "name": "Season 33",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "1980-01-03",
+      "episodeCount": 52,
+      "name": "Season 34",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "1981-01-01",
+      "episodeCount": 53,
+      "name": "Season 35",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "1982-01-07",
+      "episodeCount": 52,
+      "name": "Season 36",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 36
+    },
+    {
+      "airDate": "1983-01-06",
+      "episodeCount": 52,
+      "name": "Season 37",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 37
+    },
+    {
+      "airDate": "1984-01-05",
+      "episodeCount": 51,
+      "name": "Season 38",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 38
+    },
+    {
+      "airDate": "1985-01-03",
+      "episodeCount": 52,
+      "name": "Season 39",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 39
+    },
+    {
+      "airDate": "1986-01-02",
+      "episodeCount": 52,
+      "name": "Season 40",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 40
+    },
+    {
+      "airDate": "1987-01-01",
+      "episodeCount": 53,
+      "name": "Season 41",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 41
+    },
+    {
+      "airDate": "1988-01-07",
+      "episodeCount": 52,
+      "name": "Season 42",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 42
+    },
+    {
+      "airDate": "1989-01-05",
+      "episodeCount": 52,
+      "name": "Season 43",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 43
+    },
+    {
+      "airDate": "1990-01-04",
+      "episodeCount": 51,
+      "name": "Season 44",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 44
+    },
+    {
+      "airDate": "1991-01-03",
+      "episodeCount": 52,
+      "name": "Season 45",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 45
+    },
+    {
+      "airDate": "1992-01-02",
+      "episodeCount": 52,
+      "name": "Season 46",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 46
+    },
+    {
+      "airDate": "1993-01-07",
+      "episodeCount": 52,
+      "name": "Season 47",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 47
+    },
+    {
+      "airDate": "1994-01-06",
+      "episodeCount": 52,
+      "name": "Season 48",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 48
+    },
+    {
+      "airDate": "1995-01-05",
+      "episodeCount": 52,
+      "name": "Season 49",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 49
+    },
+    {
+      "airDate": "1996-01-04",
+      "episodeCount": 52,
+      "name": "Season 50",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 50
+    },
+    {
+      "airDate": "1997-01-02",
+      "episodeCount": 52,
+      "name": "Season 51",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 51
+    },
+    {
+      "airDate": "1998-01-01",
+      "episodeCount": 53,
+      "name": "Season 52",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 52
+    },
+    {
+      "airDate": "1999-01-07",
+      "episodeCount": 52,
+      "name": "Season 53",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 53
+    },
+    {
+      "airDate": "2000-01-06",
+      "episodeCount": 52,
+      "name": "Season 54",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 54
+    },
+    {
+      "airDate": "2001-01-04",
+      "episodeCount": 52,
+      "name": "Season 55",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 55
+    },
+    {
+      "airDate": "2002-01-03",
+      "episodeCount": 52,
+      "name": "Season 56",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 56
+    },
+    {
+      "airDate": "2003-01-02",
+      "episodeCount": 52,
+      "name": "Season 57",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 57
+    },
+    {
+      "airDate": "2004-01-04",
+      "episodeCount": 52,
+      "name": "Season 58",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 58
+    },
+    {
+      "airDate": "2005-01-02",
+      "episodeCount": 52,
+      "name": "Season 59",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 59
+    },
+    {
+      "airDate": "2006-01-01",
+      "episodeCount": 53,
+      "name": "Season 60",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 60
+    },
+    {
+      "airDate": "2007-01-07",
+      "episodeCount": 49,
+      "name": "Season 61",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 61
+    },
+    {
+      "airDate": "2008-01-06",
+      "episodeCount": 1,
+      "name": "Season 62",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 62
+    },
+    {
+      "airDate": "2009-01-04",
+      "episodeCount": 1,
+      "name": "Season 63",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 63
+    },
+    {
+      "airDate": "2010-01-03",
+      "episodeCount": 1,
+      "name": "Season 64",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 64
+    },
+    {
+      "airDate": "2011-01-02",
+      "episodeCount": 1,
+      "name": "Season 65",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 65
+    },
+    {
+      "airDate": "2012-01-01",
+      "episodeCount": 1,
+      "name": "Season 66",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 66
+    },
+    {
+      "airDate": "2013-01-06",
+      "episodeCount": 1,
+      "name": "Season 67",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 67
+    },
+    {
+      "airDate": "2014-01-05",
+      "episodeCount": 1,
+      "name": "Season 68",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 68
+    },
+    {
+      "airDate": "2015-01-04",
+      "episodeCount": 2,
+      "name": "Season 69",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 69
+    },
+    {
+      "airDate": "2016-01-03",
+      "episodeCount": 1,
+      "name": "Season 70",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 70
+    },
+    {
+      "airDate": "2017-01-01",
+      "episodeCount": 1,
+      "name": "Season 71",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 71
+    },
+    {
+      "airDate": "2018-01-07",
+      "episodeCount": 1,
+      "name": "Season 72",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 72
+    },
+    {
+      "airDate": "2019-01-06",
+      "episodeCount": 1,
+      "name": "Season 73",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 73
+    },
+    {
+      "airDate": "2020-01-05",
+      "episodeCount": 1,
+      "name": "Season 74",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 74
+    },
+    {
+      "airDate": "2021-01-03",
+      "episodeCount": 50,
+      "name": "Season 75",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 75
+    },
+    {
+      "airDate": "2022-01-02",
+      "episodeCount": 1,
+      "name": "Season 76",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 76
+    },
+    {
+      "airDate": "2023-01-01",
+      "episodeCount": 2,
+      "name": "Season 77",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 77
+    },
+    {
+      "airDate": "2024-01-07",
+      "episodeCount": 14,
+      "name": "Season 78",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 78
+    },
+    {
+      "airDate": "2025-01-05",
+      "episodeCount": 29,
+      "name": "Season 79",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 79
+    },
+    {
+      "airDate": "2026-01-04",
+      "episodeCount": 1,
+      "name": "Season 80",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 80
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Meet the Press",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 20,
+  "watchProviders": {}
+}

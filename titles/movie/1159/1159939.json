@@ -1,0 +1,356 @@
+{
+  "backdropPath": "/uKYonNS8B67oYgjGIMKMCgYOnER.jpg",
+  "cast": [
+    {
+      "character": "Krystyna Skarbek",
+      "id": 1571182,
+      "name": "Morgane Polanski",
+      "profilePath": "/jOs1fYh7lMjuKb9jATv1CDx328s.jpg"
+    },
+    {
+      "character": "Armand",
+      "id": 55584,
+      "name": "Ingvar E. Sigurðsson",
+      "profilePath": "/m7pllSNc0HRorwZmT6flaR3LdRE.jpg"
+    },
+    {
+      "character": "Trench coat",
+      "id": 56890,
+      "name": "Malcolm McDowell",
+      "profilePath": "/hL8ep4Hqj6izX7IlzE7Bbcfq62w.jpg"
+    },
+    {
+      "character": "Roger",
+      "id": 1312122,
+      "name": "Frederick Schmidt",
+      "profilePath": "/uJbO9kaUJEdE3wlX8XUAf9bIVEe.jpg"
+    },
+    {
+      "character": "Captain Hamann",
+      "id": 118762,
+      "name": "Piotr Adamczyk",
+      "profilePath": "/sOhY6yYAP0IgnCweTpjhxQ659Qt.jpg"
+    },
+    {
+      "character": "Stefania Skarbek",
+      "id": 566101,
+      "name": "Agata Kulesza",
+      "profilePath": "/qOk64HBbyZeJ4o1k9ScOMOtqOXR.jpg"
+    },
+    {
+      "character": "Dubois",
+      "id": 136170,
+      "name": "Grégoire Colin",
+      "profilePath": "/jtolsceVVsMT1wWi8m8pdtaUE4f.jpg"
+    },
+    {
+      "character": "Gravedigger",
+      "id": 107879,
+      "name": "Lech Dyblik",
+      "profilePath": "/1tOJ0Q0Qg3Va7shQsPAiOOylEqv.jpg"
+    },
+    {
+      "character": "Feliks",
+      "id": 2171278,
+      "name": "Piotr Trojan",
+      "profilePath": "/iHYHWVjVXjy0yIMeifs2ic8dbrd.jpg"
+    },
+    {
+      "character": "",
+      "id": 1573859,
+      "name": "Jacek Beler",
+      "profilePath": "/rKGVdNT83XNUNg4r28AMFnk5H4k.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 71742,
+      "logoPath": null,
+      "name": "Sisyphus"
+    },
+    {
+      "id": 186090,
+      "logoPath": null,
+      "name": "FDR Studio"
+    },
+    {
+      "id": 117747,
+      "logoPath": "/brD72VA95qgjCtGx0hJEAVUeldW.png",
+      "name": "Media Finance Capital"
+    }
+  ],
+  "countries": [
+    {
+      "code": "PL",
+      "name": "Poland"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": "2025-10-27",
+  "externalIds": {
+    "imdbId": "tt27664301",
+    "wikidataId": "Q124286828"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 24,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "id": 1159939,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "pl",
+      "name": "Polish"
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "The Partisan",
+  "overview": "A Polish spy working for the British during World War II is betrayed and compromised in Warsaw, leaving her no other choice but to descend into a dangerous world of treachery and deception in order to survive.",
+  "posterPath": "/a6AMhzCY0vlnO9KSbawvGg7c2y.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-10-27",
+      "gapDays": 24,
+      "theatricalDate": "2025-10-03"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2025-10-27",
+      "physical": "2025-10-27",
+      "theatricalLimited": "2025-10-03"
+    }
+  },
+  "runtime": 108,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Deceive. Betray. Survive.",
+  "theatricalDate": "2025-10-03",
+  "title": "The Partisan",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "oIx0i0rqAAs",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "nwo0pUHpRWw",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 43,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 613,
+          "logoPath": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png",
+          "name": "Amazon Prime Video Free with Ads"
+        },
+        {
+          "id": 1898,
+          "logoPath": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png",
+          "name": "Amazon MX Player"
+        }
+      ],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1159939-the-partisan/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 332,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango at Home Free"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        },
+        {
+          "id": 2077,
+          "logoPath": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+          "name": "Plex Channel"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        },
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1159939-the-partisan/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

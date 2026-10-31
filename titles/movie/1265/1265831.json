@@ -1,0 +1,181 @@
+{
+  "backdropPath": "/wVJPuSrEsSWWTMzYH1xLClAWSkb.jpg",
+  "cast": [
+    {
+      "character": "Géo",
+      "id": 6163218,
+      "name": "Kaylon Lancel",
+      "profilePath": null
+    },
+    {
+      "character": "Eve",
+      "id": 6163220,
+      "name": "Kelsie Verdeilles",
+      "profilePath": null
+    },
+    {
+      "character": "Manon",
+      "id": 6163221,
+      "name": "Louise Podolski",
+      "profilePath": null
+    },
+    {
+      "character": "Rouben",
+      "id": 6163223,
+      "name": "Mohamed Coly",
+      "profilePath": null
+    },
+    {
+      "character": "B",
+      "id": 6163224,
+      "name": "Alessandro Piquera",
+      "profilePath": null
+    },
+    {
+      "character": "Do",
+      "id": 6163225,
+      "name": "Meryl Pires",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 858,
+      "logoPath": "/6NwjE3AuYKMuGNJdAG8TzmhmioV.png",
+      "name": "Tessalit Productions"
+    },
+    {
+      "id": 110638,
+      "logoPath": "/qjbCOTKoIGUbfc0ow7uwidHZDio.png",
+      "name": "Nightswim"
+    },
+    {
+      "id": 7465,
+      "logoPath": "/e28RwIpRcOSFaeKkzLQBzvMXbK0.png",
+      "name": "Novak Prod"
+    },
+    {
+      "id": 16421,
+      "logoPath": "/A5ZNlCF9yzcIqmvD8WQtHK9htg8.png",
+      "name": "Rosa Filmes"
+    },
+    {
+      "id": 13720,
+      "logoPath": "/wqBR878P0PvPAEWE8xxG8VkHP8i.png",
+      "name": "Andergraun Films"
+    },
+    {
+      "id": 228402,
+      "logoPath": null,
+      "name": "Pulpa Film"
+    },
+    {
+      "id": 7970,
+      "logoPath": "/so1bsD7PbaSsFio7gVyW0M3qhsc.png",
+      "name": "Bord Cadre Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt31383175",
+    "wikidataId": "Q139674083"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1265831,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "originalTitle": "Les Roches Rouges",
+  "overview": "On the French Riviera, two gangs of kids compete in the perilous game of cliff jumping. Géo, barely five years old, discovers over the course of a summer a world where friendship blends with rivalry, and where the first stirrings of the heart emerge against the dazzling Mediterranean landscape.",
+  "posterPath": "/dM3lVIOIz9KEfigAkiBqez2BXzg.jpg",
+  "rating": 4.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-10-31"
+    },
+    "US": {
+      "premiere": "2026-10-08"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Red Rocks",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "lvW8JtqjqYc",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 10,
+  "watchProviders": {}
+}

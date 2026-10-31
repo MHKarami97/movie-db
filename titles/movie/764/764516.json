@@ -1,0 +1,165 @@
+{
+  "backdropPath": "/p5GvBKh8pC2aulmUCnaQUD0o4U8.jpg",
+  "cast": [
+    {
+      "character": "Fernanda",
+      "id": 1424077,
+      "name": "Bárbara Colen",
+      "profilePath": "/mBuvpxBip2ADrmT3xv6Z4cZFOMv.jpg"
+    },
+    {
+      "character": "Mocinha / Luzia",
+      "id": 2875692,
+      "name": "Nena Inoue",
+      "profilePath": "/euCiEOaRJX15E5Y7294s21igMCA.jpg"
+    },
+    {
+      "character": "Antônio",
+      "id": 1054884,
+      "name": "Eucir de Souza",
+      "profilePath": "/59RcG8B5BCYrYz7VJCe3j4UaL8Y.jpg"
+    },
+    {
+      "character": "Arlette",
+      "id": 1171743,
+      "name": "Fernanda Vianna",
+      "profilePath": "/9YxnEdbyc0gSdz140gyBKkRBK3O.jpg"
+    },
+    {
+      "character": "Joana",
+      "id": 4011119,
+      "name": "Vilminha Chaves",
+      "profilePath": null
+    },
+    {
+      "character": "Tereza",
+      "id": 1424078,
+      "name": "Kelly Crifer",
+      "profilePath": "/fODDJGqjx0isu5zQvSGsESdVA5o.jpg"
+    },
+    {
+      "character": "Ezequiel",
+      "id": 2875697,
+      "name": "Timothy Wilson",
+      "profilePath": null
+    },
+    {
+      "character": "Paula",
+      "id": 2591298,
+      "name": "Fernanda Pimenta",
+      "profilePath": null
+    },
+    {
+      "character": "Pedro",
+      "id": 2790003,
+      "name": "Allan Jacinto Santana",
+      "profilePath": "/xPtMqAQfRGUFI5ZEeeDhX9uw4I3.jpg"
+    },
+    {
+      "character": "Cacique",
+      "id": 4011123,
+      "name": "Typyire Ãwa",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 2535,
+      "logoPath": "/2DDg3cvcxnsAJTLvIXk35NeWKJR.png",
+      "name": "Bananeira Filmes"
+    },
+    {
+      "id": 166179,
+      "logoPath": "/cQvJtcBTwxkAVYC3mTRl4LQ5Vn6.png",
+      "name": "MyMama Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BR",
+      "name": "Brazil"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt14113574",
+    "wikidataId": "Q110727143"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 764516,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "Fogaréu",
+  "overview": "On the border between the real and the fantastic, between the colonial past and the overwhelming modernity of agribusiness, the city of Goiás is the scene of the meeting between the young Fernanda and her secret roots. She returns to the home of her wealthy uncle, after the death of her adoptive mother, in order to implode the certainties and to reveal the painful truth about its origin.",
+  "posterPath": "/yFFufzySPbs7ntuGWCfGUO0eF35.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2022-08-16"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Fogaréu",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1757,
+          "logoPath": "/rStHqcghNPED9B7xxKGxAKjrcXR.png",
+          "name": "Sooner Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/764516-fogareu/watch?locale=GB",
+      "rent": []
+    }
+  }
+}

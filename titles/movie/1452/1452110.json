@@ -1,0 +1,241 @@
+{
+  "backdropPath": "/py3XG3mFkdVMcw7VwfZ4HaXZIIU.jpg",
+  "cast": [
+    {
+      "character": "Kevin Simmers",
+      "id": 5367,
+      "name": "Zach Braff",
+      "profilePath": "/koIHwqE6hWIXuOIDHNADwSuGq6N.jpg"
+    },
+    {
+      "character": "Brooke Simmers",
+      "id": 3435887,
+      "name": "Esther McGregor",
+      "profilePath": "/kRcZk74vMRB1dmnfB1uWRtP4llZ.jpg"
+    },
+    {
+      "character": "Dana",
+      "id": 123725,
+      "name": "Abigail Spencer",
+      "profilePath": "/uf96FDHVoFMwoiP5He4SPLCmwri.jpg"
+    },
+    {
+      "character": "Deputy Dormer",
+      "id": 429,
+      "name": "Lucas Till",
+      "profilePath": "/5m8xgsOgT3FgCBo2AsMn7dewe57.jpg"
+    },
+    {
+      "character": "Mandy",
+      "id": 2998834,
+      "name": "Abigail Rhyne",
+      "profilePath": "/46PC8XO46NIFz7FB9IcUdwXg04F.jpg"
+    },
+    {
+      "character": "David Trone",
+      "id": 7497,
+      "name": "Holt McCallany",
+      "profilePath": "/b1FEXFQ8ZnvXhVrMqCv5mTJ8aW3.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 13498,
+      "logoPath": null,
+      "name": "Margate House Films"
+    },
+    {
+      "id": 174603,
+      "logoPath": "/15EowqTnkxHTVwL5LqyHJovJu6v.png",
+      "name": "Riverside Entertainment"
+    },
+    {
+      "id": 257088,
+      "logoPath": null,
+      "name": "WW / SF Entertainment"
+    },
+    {
+      "id": 265007,
+      "logoPath": null,
+      "name": "Glasshouse Pictures (US)"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-10-16",
+  "externalIds": {
+    "imdbId": "tt36271247",
+    "wikidataId": "Q139525788"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1452110,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Clean Hands",
+  "overview": "Based on a true story, a veteran narcotics officer turned recovery advocate and his daughter, who struggles with addiction, confront the American drug crisis from opposing sides of the law while navigating their complicated family bond.",
+  "posterPath": "/szIEtkFLOMsPX6AVQSfzalNEEDd.jpg",
+  "rating": 6.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-16",
+      "gapDays": 0,
+      "theatricalDate": "2026-10-16"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-16",
+      "premiere": "2026-06-07",
+      "theatricalLimited": "2026-10-16"
+    }
+  },
+  "runtime": 108,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-10-16",
+  "title": "Clean Hands",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "p0izMCPGdGE",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1452110-clean-hands/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1452110-clean-hands/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

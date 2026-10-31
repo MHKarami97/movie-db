@@ -1,0 +1,131 @@
+{
+  "backdropPath": "/lkVHLSbfeKkB3PtK6RQw3kLVE9d.jpg",
+  "cast": [
+    {
+      "character": "The Patient",
+      "id": 11864,
+      "name": "Ryan Phillippe",
+      "profilePath": "/fgneZFXn0fGG1o7tMzJvHqfHHF7.jpg"
+    },
+    {
+      "character": "Dr. Rose",
+      "id": 3967,
+      "name": "Kate Beckinsale",
+      "profilePath": "/aoIQJzrWRtq9mOeaPadzpUCAaVd.jpg"
+    },
+    {
+      "character": "Dr. Williams",
+      "id": 1439634,
+      "name": "David Cade",
+      "profilePath": "/kW0HuLzAp8j6jp1sCFIUKM1AW9R.jpg"
+    },
+    {
+      "character": "Nurse",
+      "id": 1278867,
+      "name": "Kelly Greyson",
+      "profilePath": "/dbygGZLqAqhPLQKVa24TACboAj9.jpg"
+    },
+    {
+      "character": "Chris",
+      "id": 929065,
+      "name": "Michael Sirow",
+      "profilePath": "/nhUJDr8d3RHQdz7aIVW5Jc2t3RD.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 6692,
+      "logoPath": "/2Wd2CodKtgB4XyAQH4ez8qnZuqg.png",
+      "name": "Benaroya Pictures"
+    },
+    {
+      "id": 78555,
+      "logoPath": null,
+      "name": "International Film Trust"
+    },
+    {
+      "id": 121204,
+      "logoPath": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+      "name": "BondIt Media Capital"
+    },
+    {
+      "id": 41735,
+      "logoPath": "/je9Ko1f6iu0AfLL3dINJEaxLvEb.png",
+      "name": "Buffalo 8"
+    },
+    {
+      "id": 188570,
+      "logoPath": null,
+      "name": "The Barnum Picture Company"
+    },
+    {
+      "id": 20312,
+      "logoPath": "/iYmytRQt5jqlBIEaMQ0Cb6iAHh8.png",
+      "name": "TPC"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt31414242"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1290799,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Patient",
+  "overview": "An amnesiac hospital patient is issued a life he doesn't remember. But soon he comes to suspect that he’s being manipulated in order to protect a powerful politician implicated in a murder.",
+  "posterPath": "/4m1F4QVXlxr03ZPfd7clXfgFtD1.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 81,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Patient",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 8,
+  "watchProviders": {}
+}

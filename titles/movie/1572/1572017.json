@@ -1,0 +1,208 @@
+{
+  "backdropPath": "/teRLn0uy7Ttggbi7ll5kipPrynv.jpg",
+  "cast": [
+    {
+      "character": "Owethu \"Ovee\" Sityebi Jnr",
+      "id": 4449742,
+      "name": "Ntobeko Sishi",
+      "profilePath": "/nYV7mOYX3WcyU8RxJpHYKyZw2tf.jpg"
+    },
+    {
+      "character": "Amahle Philliso",
+      "id": 2538481,
+      "name": "Masali Baduza",
+      "profilePath": "/8Y1eh0JaUZXLDLuMDaPC9e9EYqS.jpg"
+    },
+    {
+      "character": "Nathi Maseko",
+      "id": 5287964,
+      "name": "Thandolwethu Zondi",
+      "profilePath": "/5BqzcxTscCvSwTjkkD1Xr6d6NNp.jpg"
+    },
+    {
+      "character": "Lena",
+      "id": 2788768,
+      "name": "Thando Thabethe",
+      "profilePath": "/3Xn0EvhT5PjB3b1rv9VfWIidKpN.jpg"
+    },
+    {
+      "character": "Owethu Sityebi Snr",
+      "id": 1782302,
+      "name": "Bongile Mantsai",
+      "profilePath": null
+    },
+    {
+      "character": "Bab'Tom",
+      "id": 2602,
+      "name": "Desmond Dube",
+      "profilePath": "/pFp0HfE1Bhg4dHA6RIKvmcLzdHA.jpg"
+    },
+    {
+      "character": "Memo",
+      "id": 4714029,
+      "name": "N’kone Mametja",
+      "profilePath": "/dyzgCMGMIoJufvaWe9wT749vOMm.jpg"
+    },
+    {
+      "character": "Kim",
+      "id": 4564111,
+      "name": "Simone Neethling",
+      "profilePath": "/qUJnj6e9LwUNsubnqIFyKJZU6SD.jpg"
+    },
+    {
+      "character": "Dr. Mokoena",
+      "id": 2719533,
+      "name": "Bohang Moeko",
+      "profilePath": "/fVzdYm6gF7RyvooZXtAoVZUjcjv.jpg"
+    },
+    {
+      "character": "Desmond",
+      "id": 1153448,
+      "name": "Jacques Bessenger",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 52117,
+      "logoPath": "/AcK4CcjzcdapS8TOk0VhguvZNtw.png",
+      "name": "Quizzical Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "digitalDate": "2025-12-05",
+  "externalIds": {
+    "imdbId": "tt38907962"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1572017,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "xh",
+      "name": "Xhosa"
+    }
+  ],
+  "originalTitle": "Love and Wine",
+  "overview": "A privileged young man working at his wealthy father's business traps himself in a lie when he falls in love with a hard-working medical student, and tries to convince her that he comes from more humble beginnings like hers. What follows is a comedic whirlwind of chaos and heartfelt revelations.",
+  "posterPath": "/aRJrEffxIoplzUwzVsWvFDTQgvK.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-12-05",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-12-05"
+    }
+  },
+  "runtime": 109,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Love and Wine",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "2aBtW5tkiEo",
+      "name": "Love and Wine | Official Trailer | Netflix",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 17,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1572017-love-and-wine/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1572017-love-and-wine/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1572017-love-and-wine/watch?locale=US",
+      "rent": []
+    }
+  }
+}

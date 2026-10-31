@@ -1,0 +1,165 @@
+{
+  "backdropPath": "/vhmUAwPtqZI4wVsQHmTJNR8bRK6.jpg",
+  "cast": [
+    {
+      "character": "Ruben",
+      "id": 3389588,
+      "name": "Sangeeth Prathap",
+      "profilePath": "/2f7mTmZ1RttbacuADm6vv7xpTAi.jpg"
+    },
+    {
+      "character": "Sooraj",
+      "id": 1473469,
+      "name": "Sharafudheen",
+      "profilePath": "/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+    },
+    {
+      "character": "Susanna",
+      "id": 3719125,
+      "name": "Akhila Bhargavan",
+      "profilePath": "/dGaNyhTvnotJpqxmRLXCqIfKGjC.jpg"
+    },
+    {
+      "character": "Rameshan",
+      "id": 1859065,
+      "name": "Anand Manmadhan",
+      "profilePath": "/xlx9Rmb3NGHNX7VFGD55kskCM04.jpg"
+    },
+    {
+      "character": "Antony",
+      "id": 3616360,
+      "name": "Kiran Peethambaran",
+      "profilePath": "/qbfH2hMSspS1PWVNRQP2xa2buWK.jpg"
+    },
+    {
+      "character": "Chithra",
+      "id": 3147819,
+      "name": "Parvathy Krishna",
+      "profilePath": "/69Y1vWqHkDFlYe92kGNb7fmIMeG.jpg"
+    },
+    {
+      "character": "Prathapan",
+      "id": 591095,
+      "name": "Kottayam Nazeer",
+      "profilePath": "/vN0cHxgDIE5DKUeL2F0nmIhTIoZ.jpg"
+    },
+    {
+      "character": "Ancy",
+      "id": 3367945,
+      "name": "Nileen Sandra",
+      "profilePath": "/wNvwgBEofXZT0qAJn61gKenpYC2.jpg"
+    },
+    {
+      "character": "Vijayan",
+      "id": 2270804,
+      "name": "Zhinz Shan",
+      "profilePath": "/e2qrMKWAS01rpA2kl89UUz4VyBt.jpg"
+    },
+    {
+      "character": "Sooraj's daughter",
+      "id": 5883203,
+      "name": "Hezzah Mehak",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 102161,
+      "logoPath": null,
+      "name": "Dr. Pauls Entertainment"
+    },
+    {
+      "id": 293656,
+      "logoPath": null,
+      "name": "Dream Big Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35963439"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1422822,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ml",
+      "name": "Malayalam"
+    }
+  ],
+  "originalTitle": "It's a മെഡിക്കൽ മിറാക്കിള്‍",
+  "overview": "A young man declared brain-dead suddenly awakens with the ability to hear everything. Seeking the nurse whose voice saved him, he's drawn into a dark game of masks, memories, and revenge where every sound may be a clue or a trap.",
+  "posterPath": "/tT9VKxtyyb5uFsxZhdnvE1GVZJd.jpg",
+  "rating": 5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-18"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-18"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-09-18"
+    },
+    "GB": {
+      "theatrical": "2026-09-18"
+    }
+  },
+  "runtime": 137,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-09-18",
+  "title": "It's a Medical Miracle",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "wK2CU6znTDw",
+      "name": "Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "7dB3HamS_lQ",
+      "name": "Kaathangal Dhoore Song",
+      "official": true,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {}
+}

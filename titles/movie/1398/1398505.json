@@ -1,0 +1,130 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Jani",
+      "id": 3599864,
+      "name": "Chempa Puteri",
+      "profilePath": null
+    },
+    {
+      "character": "Winnie",
+      "id": 235429,
+      "name": "Sigi Wimala",
+      "profilePath": "/dpf2SfCFJbK5XqVCIv3YX3jxQl3.jpg"
+    },
+    {
+      "character": "Oma",
+      "id": 1296726,
+      "name": "Tutie Kirana",
+      "profilePath": "/4gFTi5UnZO7rpUHQehJYGCCCTFr.jpg"
+    },
+    {
+      "character": "Julia",
+      "id": 6114591,
+      "name": "Hyori Mika",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 95160,
+      "logoPath": "/2QnXL6C2Ord5ShvNOSOSfrsxxtj.png",
+      "name": "Palari Films"
+    },
+    {
+      "id": 235238,
+      "logoPath": "/kfZd64gNwp6JAcUYXjQ8xAon4u4.png",
+      "name": "Role Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ID",
+      "name": "Indonesia"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39673642",
+    "instagramId": "desemberjani",
+    "wikidataId": "Q141620461"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1398505,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "id",
+      "name": "Indonesian"
+    }
+  ],
+  "originalTitle": "Desember Jani",
+  "overview": "Ten days after her sister Julia leaves home without a word, Jani (13) wants only one thing: her return. Jani knows her mother, Winnie, is the reason Julia left, and the two are growing distant while Winnie buries her guilt in work. Only Oma, the grandmother, comforts Jani. Unknown to Winnie and Oma, Jani secretly keeps in touch with Julia. Over four December days, Jani must choose: stay silent or confront her mother.",
+  "posterPath": "/gsDYurbNLdUzqnsjTA9gRR3fl5P.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 101,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Jani Be Good",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "9eQFxRmw9g8",
+      "name": "Desember Jani - International Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "8EjFO2KU3IY",
+      "name": "JANI BE GOOD (DESEMBER JANI) - OFFICIAL INTERNATIONAL TRAILER",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "z1EefXBkOJk",
+      "name": "Jani's December - Official Teaser",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

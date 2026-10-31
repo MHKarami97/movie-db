@@ -1,0 +1,173 @@
+{
+  "backdropPath": "/pfy32xcH0EYlSJqh4FhV7UUY9cf.jpg",
+  "cast": [
+    {
+      "character": "Li Mingqi",
+      "id": 3863054,
+      "name": "Jiang Qiming",
+      "profilePath": "/6OWIhJwjwiMWKBHcUTn7pglXEFx.jpg"
+    },
+    {
+      "character": "Gao Yafeng",
+      "id": 2916765,
+      "name": "Li Xueqin",
+      "profilePath": "/7MLQGh5zryfM6CYOSIg2q5Dh5FD.jpg"
+    },
+    {
+      "character": "Gao Xuguang",
+      "id": 3896219,
+      "name": "Dong Baoshi",
+      "profilePath": "/9Sw1V4qLow4ly7gtiWuR2CyVBf2.jpg"
+    },
+    {
+      "character": "Gao Likuan",
+      "id": 15170,
+      "name": "Jiang Wu",
+      "profilePath": "/f8BXK5pb9yoREZq3ROM9hSBgvlk.jpg"
+    },
+    {
+      "character": "Li Zhengdao",
+      "id": 2018045,
+      "name": "Yang Le",
+      "profilePath": "/6yvhf8DffccXncVffVveNKTDScz.jpg"
+    },
+    {
+      "character": "Lang Guoqing",
+      "id": 3439813,
+      "name": "Jiang Yi",
+      "profilePath": "/5UCfkjichBZv1aGAbuoMX29wltx.jpg"
+    },
+    {
+      "character": "Tang Monk / TV Station Chief",
+      "id": 1724403,
+      "name": "Lei Jiayin",
+      "profilePath": "/wjDzXeAycQj01k40oXigRgJCPRr.jpg"
+    },
+    {
+      "character": "Zhuang Dezeng",
+      "id": 1353695,
+      "name": "Dong Zijian",
+      "profilePath": "/cSaRGUAjFWsfYakGTfCuRghIkhW.jpg"
+    },
+    {
+      "character": "Sun Wukong",
+      "id": 1724346,
+      "name": "Wang Yanlin",
+      "profilePath": "/bl4wKqUhYdPNVg0p4rXJ2ZVO3T0.jpg"
+    },
+    {
+      "character": "Tian Yan",
+      "id": 4098650,
+      "name": "Ou Jianyu",
+      "profilePath": "/pMZvpskpbznlsYAXJAemOC6cvj9.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 218024,
+      "logoPath": null,
+      "name": "Shanghai Maoyan Film 上海猫眼影业"
+    },
+    {
+      "id": 230796,
+      "logoPath": null,
+      "name": "Shanghai Haimu Film Group"
+    },
+    {
+      "id": 221665,
+      "logoPath": null,
+      "name": "China Film Creative"
+    },
+    {
+      "id": 160606,
+      "logoPath": null,
+      "name": "Tianjin Maoyan Weiying Culture Media 天津猫眼微影文化传媒"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34386745",
+    "wikidataId": "Q137846767"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1411529,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "originalTitle": "飞行家",
+  "overview": "A worker from Northeast China is obsessed with his dream of flying his self-made flying-device.",
+  "posterPath": "/xCEwmQ8mKzgO70vJMY8vmytq5YE.jpg",
+  "rating": 6.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-03-18",
+      "gapDays": 60,
+      "theatricalDate": "2026-01-17"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-17"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "digital": "2026-03-18",
+      "premiere": "2026-01-15",
+      "theatrical": "2026-01-17",
+      "theatricalLimited": "2026-01-12"
+    },
+    "US": {
+      "theatrical": "2026-09-17"
+    }
+  },
+  "runtime": 123,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-09-17",
+  "title": "Take Off",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "2NhnUQoKaPY",
+      "name": "飞行家 TAKE OFF - 9月17日上映！Opens 9/17!",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 11,
+  "watchProviders": {}
+}

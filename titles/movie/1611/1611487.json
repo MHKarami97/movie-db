@@ -1,0 +1,187 @@
+{
+  "backdropPath": "/iKFZFt8Z3RIwQHrIkmzULdKlYIi.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 1448119,
+      "name": "Tony Hinchcliffe",
+      "profilePath": "/nJbIalwNCvqaDZQ9PW6Uyujb8tw.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1709774,
+      "name": "Brian Redban",
+      "profilePath": "/xaYxS77D3Zt80Zf42YtyFX4K56C.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 86498,
+      "name": "Gabriel Iglesias",
+      "profilePath": "/8Bjy3RZ5TfNs3oUOUpxTv84G01f.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 16846,
+      "name": "Harland Williams",
+      "profilePath": "/mnor1Hoy3kvTBygccBIVuyWfvge.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 96010,
+      "name": "Carrot Top",
+      "profilePath": "/gJHiu33FKGO6foXnnXNOUFKQREu.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 60949,
+      "name": "Rob Schneider",
+      "profilePath": "/nGHHon86e0rxVV1GVMRuKheqf6L.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 46393,
+      "name": "Roseanne Barr",
+      "profilePath": "/oyY5lWTFzhymLB4sJ1OODseI3jR.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1452575,
+      "name": "Joe DeRosa",
+      "profilePath": "/mYUEAQJfVbu28u73No4x5s8OWxG.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 5923990,
+      "name": "James McCann",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 5923991,
+      "name": "Dedrick Flynn",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-01-12",
+  "externalIds": {
+    "imdbId": "tt39307372"
+  },
+  "fetchedAt": 1793990790150,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1611487,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Kill Tony: Once Upon a Time in Texas",
+  "overview": "One minute. One mic. No mercy. Tony Hinchcliffe and a panel of famous guests put up-and-coming comedians to the test at a relentless Austin showcase.",
+  "posterPath": "/kepiMVDrjSvNM9afWewWxlWXXK6.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-01-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-01-12"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Yippee.",
+  "theatricalDate": null,
+  "title": "Kill Tony: Once Upon a Time in Texas",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1611487-kill-tony-once-upon-a-time-in-texas/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1611487-kill-tony-once-upon-a-time-in-texas/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1611487-kill-tony-once-upon-a-time-in-texas/watch?locale=US",
+      "rent": []
+    }
+  }
+}

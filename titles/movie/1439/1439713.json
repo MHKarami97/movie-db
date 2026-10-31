@@ -1,0 +1,176 @@
+{
+  "backdropPath": "/x7jZHALUR58sAzEw0Ms9ohfapP8.jpg",
+  "cast": [
+    {
+      "character": "Shankara Varaprasad",
+      "id": 147079,
+      "name": "Chiranjeevi",
+      "profilePath": "/jRCxnhftb7NprH92cdfah8KoAHg.jpg"
+    },
+    {
+      "character": "Sasirekha",
+      "id": 91548,
+      "name": "Nayanthara",
+      "profilePath": "/sYUzvjsSsqeOgBblSzda6ZwwbEa.jpg"
+    },
+    {
+      "character": "Venky Gowda",
+      "id": 88166,
+      "name": "Venkatesh",
+      "profilePath": "/t5PWjy177ZTUM6wdjaVjqp5FLJq.jpg"
+    },
+    {
+      "character": "Jwaala",
+      "id": 1199984,
+      "name": "Catherine Tresa",
+      "profilePath": "/7RAxooOVqPb8nkhZjyaEC2aj3ij.jpg"
+    },
+    {
+      "character": "Narayana",
+      "id": 215912,
+      "name": "Harsha Vardhan",
+      "profilePath": "/A6mdUVQBu565oz20DzlxjGUWIZr.jpg"
+    },
+    {
+      "character": "Musthafa",
+      "id": 1378575,
+      "name": "Abhinav Gomatam",
+      "profilePath": "/vRBY5Xw1aBaYmj61NfiYvS3Vbfb.jpg"
+    },
+    {
+      "character": "GVR",
+      "id": 85589,
+      "name": "Sachin Khedekar",
+      "profilePath": "/jRSgXFTDAbAb4RsW9nvNYsdhxWo.jpg"
+    },
+    {
+      "character": "MP Nitin Sharma",
+      "id": 55066,
+      "name": "Sharat Saxena",
+      "profilePath": "/ArW6nQ23bjVfbcFmNVl4W9zpd7X.jpg"
+    },
+    {
+      "character": "Viendra Pandey",
+      "id": 1544619,
+      "name": "Sudev Nair",
+      "profilePath": "/6x111KVuthpPOGJYTvdXLmh3J3p.jpg"
+    },
+    {
+      "character": "Reddy",
+      "id": 1064957,
+      "name": "Srinivasa Reddy",
+      "profilePath": "/aUMNaDeskPGyDoEGwqvBxZPnzYR.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 100071,
+      "logoPath": null,
+      "name": "Shine Screens"
+    },
+    {
+      "id": 194032,
+      "logoPath": null,
+      "name": "Gold Box Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt28629017",
+    "wikidataId": "Q135647565"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1439713,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "te",
+      "name": "Telugu"
+    }
+  ],
+  "originalTitle": "మన శంకర వరప్రసాద్ గారు",
+  "overview": "National security officer Vara Prasad, protecting his estranged wife and kids from a vengeful ex-cop, sees it as a chance to rebuild their relationship after six years apart.",
+  "posterPath": "/w0HMauXnYBlFk3iikMLa7cPjR30.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-01-11"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-01-11"
+    }
+  },
+  "runtime": 162,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Pandagaki Vastunnaru",
+  "theatricalDate": "2026-01-11",
+  "title": "Mana ShankaraVaraPrasad Garu",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "bEZ-0iP76sA",
+      "name": "Mana ShankaraVaraPrasad Garu Trailer (Hindi) | ZEE5 | Chiranjeevi, Venkatesh, Nayanthara | 11th Feb",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 27,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 232,
+          "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+          "name": "Zee5"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1439713/watch?locale=AE",
+      "rent": []
+    }
+  }
+}

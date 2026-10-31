@@ -1,0 +1,192 @@
+{
+  "backdropPath": "/lZscBPMnr1AYAUKWpngNtWaaxS0.jpg",
+  "cast": [
+    {
+      "character": "Isabella",
+      "id": 1648728,
+      "name": "Sian Clifford",
+      "profilePath": "/rIqcwewXdkrDTMTwX56QPa7MNTC.jpg"
+    },
+    {
+      "character": "Sam",
+      "id": 1507579,
+      "name": "Laurie Kynaston",
+      "profilePath": "/8Y77oafAjGoHIP1MKU1VxKB8M5W.jpg"
+    },
+    {
+      "character": "Becky",
+      "id": 1213838,
+      "name": "Juliet Cowan",
+      "profilePath": "/8zBYU2fqciM8kV6NAg1R6y6JHoh.jpg"
+    },
+    {
+      "character": "Olivier",
+      "id": 1835574,
+      "name": "Olisa Odele",
+      "profilePath": "/senZVDoFNEmhgrPXzovsLzueaNe.jpg"
+    },
+    {
+      "character": "Dr. Robert",
+      "id": 1703850,
+      "name": "Tom Greaves",
+      "profilePath": null
+    },
+    {
+      "character": "Mady",
+      "id": 6569132,
+      "name": "Mady Niel",
+      "profilePath": null
+    },
+    {
+      "character": "Teen Magician",
+      "id": 6569133,
+      "name": "Jacob Masterson",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 162036,
+      "logoPath": "/ebqgHFWoL5uH3GvZJtVdbUNq5nn.png",
+      "name": "MetFilm Production"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35636239",
+    "wikidataId": "Q136522043"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1479333,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Lady",
+  "overview": "A narcissistic, lonely aristocrat hires an opportunistic filmmaker to document her lavish life, but her desperate bid for fame turns surreal when she literally begins to vanish from sight.",
+  "posterPath": "/fXsTO5Wa11VtIyVMdoQOpeioSVx.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-14"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-10-16",
+      "theatrical": "2026-08-14"
+    }
+  },
+  "runtime": 95,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-08-14",
+  "title": "Lady",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "a6JIBcAUJSc",
+      "name": "Sian Clifford, Laurie Kynaston and Samuel Abrahams on Lady | BFI Q&A",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "MuJHJTK0Pmg",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1479333-lady/watch?locale=GB",
+      "rent": [
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1479333-lady/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "backdropPath": "/1wruGeuequY1PumBfEgCEifpGb5.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 466505,
+      "name": "Kumail Nanjiani",
+      "profilePath": "/9EyrK1Cv7ey1h1GgmsVAOn45w6G.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 234134,
+      "logoPath": "/g1p84abJBwFtdSTFQhSS2PluKGB.png",
+      "name": "ITV America"
+    },
+    {
+      "id": 157654,
+      "logoPath": null,
+      "name": "TheYearOfElan Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-12-19",
+  "externalIds": {
+    "imdbId": "tt39131664",
+    "wikidataId": "Q137709462"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1529419,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Kumail Nanjiani: Night Thoughts",
+  "overview": "After nearly a decade away, Kumail Nanjiani returns to Chicago, where he got his start in standup, in a new special that tackles anxiety, the perils of buying drugs pre-legalization, and most importantly, cat medication.",
+  "posterPath": "/qOvbKZHzBFQrmjmK9D0Lg7sz8co.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-12-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-12-19"
+    }
+  },
+  "runtime": 55,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Kumail Nanjiani: Night Thoughts",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "MACAGhfzxWE",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 22,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1529419-kumail-nanjiani-night-thoughts/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1529419-kumail-nanjiani-night-thoughts/watch?locale=US",
+      "rent": []
+    }
+  }
+}

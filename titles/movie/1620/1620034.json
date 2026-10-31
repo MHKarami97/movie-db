@@ -1,0 +1,207 @@
+{
+  "backdropPath": "/vate7k6MyLQDeFYkHqCrLhRes6m.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 519,
+      "name": "Martin Short",
+      "profilePath": "/vWoZIOk7K8TSKu1IN90akswsWjZ.jpg"
+    },
+    {
+      "character": "Self (voice)",
+      "id": 8844,
+      "name": "Lawrence Kasdan",
+      "profilePath": "/1c57YAUDEsyI6jwc3buKISgh2pf.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 67773,
+      "name": "Steve Martin",
+      "profilePath": "/d0KthX8hVWU9BxTCG1QUO8FURRm.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 26510,
+      "name": "Eugene Levy",
+      "profilePath": "/epZE1ZohKhEFCdCKYFyvtJEj0I7.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 5691056,
+      "name": "Nancy Dolman",
+      "profilePath": "/pgepcIZptx9pYCA4bqjMMQHtOEt.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 8263,
+      "name": "Andrea Martin",
+      "profilePath": "/lOP6nvTOvqpdHtEMfLCvNqUaRnp.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 11514,
+      "name": "Catherine O'Hara",
+      "profilePath": "/gI2RyymLJ9ZrhEyJSD5EqSvFpCX.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6159,
+      "name": "Ron Howard",
+      "profilePath": "/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 72140,
+      "name": "Michael Short",
+      "profilePath": "/hdGD5WZfINO10wAkca3j9Z1HXo9.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 69921,
+      "name": "Paul Shaffer",
+      "profilePath": "/j6SqQZDOAXUFPyFNNEYwzuAoZCz.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 121427,
+      "logoPath": "/rOvuUb2UaKDahx7OqQ1hD4B8Ljk.png",
+      "name": "Imagine Documentaries"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-05-12",
+  "externalIds": {
+    "imdbId": "tt39382052",
+    "wikidataId": "Q139882740"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1620034,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Marty, Life Is Short",
+  "overview": "Martin Short looks back on a life fueled by joy in this documentary with classic clips, fresh interviews and star-studded, never-before-seen home movies.",
+  "posterPath": "/5u8r3iMUVeVejv8G2PrRvlTbogC.jpg",
+  "rating": 8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-05-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-05-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-05-12"
+    },
+    "GB": {
+      "digital": "2026-05-12"
+    },
+    "US": {
+      "digital": "2026-05-12"
+    }
+  },
+  "runtime": 102,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Marty, Life Is Short",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "QBvYXE6oZ64",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 33,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1620034-marty-life-is-short/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1620034-marty-life-is-short/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1620034-marty-life-is-short/watch?locale=US",
+      "rent": []
+    }
+  }
+}

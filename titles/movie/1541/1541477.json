@@ -1,0 +1,208 @@
+{
+  "backdropPath": "/9uU3523A14KJ90Jr8pQx0NGGIgb.jpg",
+  "cast": [
+    {
+      "character": "Simone",
+      "id": 59269,
+      "name": "Elio Germano",
+      "profilePath": "/2Z6SHTOQ9XuKdFlFpKZ2yPCpald.jpg"
+    },
+    {
+      "character": "Lucia",
+      "id": 2086629,
+      "name": "Maria Chiara Giannetta",
+      "profilePath": "/hej1rYJi1qZ5LuIylFh0gMZqOHF.jpg"
+    },
+    {
+      "character": "",
+      "id": 128224,
+      "name": "Lidia Vitale",
+      "profilePath": "/8IXqzKAqVqeT6b9pP8WGH5mTF7d.jpg"
+    },
+    {
+      "character": "",
+      "id": 225301,
+      "name": "Anna Bonaiuto",
+      "profilePath": "/1istMMsr34yfaYCnNyW8SFVMuU5.jpg"
+    },
+    {
+      "character": "",
+      "id": 2646233,
+      "name": "Diop Virginia",
+      "profilePath": "/kyJkL0VMZLYNUEn6jUvVXRSefuo.jpg"
+    },
+    {
+      "character": "",
+      "id": 1816062,
+      "name": "Francesca De Martini",
+      "profilePath": "/ky2R6fkYU15ALp5PysYTR6DfkIU.jpg"
+    },
+    {
+      "character": "",
+      "id": 78713,
+      "name": "Caterina Guzzanti",
+      "profilePath": "/hhzgOoBFkIexBWGXqxyP3jRwIWc.jpg"
+    },
+    {
+      "character": "",
+      "id": 3433029,
+      "name": "Sofia Luchetti",
+      "profilePath": "/A4pHoNCnFy1RG4HGSZFHXZe8250.jpg"
+    },
+    {
+      "character": "",
+      "id": 89389,
+      "name": "Filippo Nigro",
+      "profilePath": "/84QswEDfCsGB6hbaOHn68GhkR3S.jpg"
+    },
+    {
+      "character": "",
+      "id": 5915439,
+      "name": "Bianca Mastromonaco",
+      "profilePath": "/pM4Eq6OkJ4aIhgKvuac4HdnGL4j.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 779,
+      "logoPath": "/KFFOFoztyjV5epvnW5GerPbcvx.png",
+      "name": "Lucky Red"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": "2026-10-29",
+  "externalIds": {
+    "imdbId": "tt38504402"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1541477,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "it",
+      "name": "Italian"
+    },
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "Noi un po' meglio",
+  "overview": "A couple faces the difficult path to adoption, determined to become parents despite their complex vulnerabilities.",
+  "posterPath": "/4Gw8ukw5aAUP1uzNtYZ0CNTUy5A.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-29",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-10-29"
+    }
+  },
+  "runtime": 107,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "You, Me, Us",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "XjUt3Fv_f-Y",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 16,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1541477-noi-un-po-meglio/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1541477-noi-un-po-meglio/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1541477-noi-un-po-meglio/watch?locale=US",
+      "rent": []
+    }
+  }
+}

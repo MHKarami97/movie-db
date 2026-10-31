@@ -1,0 +1,127 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 3872711,
+      "name": "Andrei Voicu",
+      "profilePath": "/mBhaR7nKMAZxAXu0QNjwkS0wBtW.jpg"
+    },
+    {
+      "character": "",
+      "id": 2506825,
+      "name": "Marius Cordos",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 1155747,
+      "name": "Ofelia Popii",
+      "profilePath": "/mFWSayOm0wq2lGsg7yoaC2L1xVA.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 13656,
+      "logoPath": null,
+      "name": "Rova Film"
+    },
+    {
+      "id": 4791,
+      "logoPath": null,
+      "name": "Alternative Cinema"
+    },
+    {
+      "id": 265812,
+      "logoPath": "/o7UusRJlk8Ea62eQAivYROO5Fk.png",
+      "name": "Nukleon Frame"
+    },
+    {
+      "id": 233319,
+      "logoPath": null,
+      "name": "Slovak Audiovisual Fund"
+    },
+    {
+      "id": 69462,
+      "logoPath": "/qTfuW7oZZPSAOXD7HTfBaL5n9E8.png",
+      "name": "CNC"
+    },
+    {
+      "id": 265813,
+      "logoPath": null,
+      "name": "CNC Moldova"
+    }
+  ],
+  "countries": [
+    {
+      "code": "RO",
+      "name": "Romania"
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    {
+      "code": "MD",
+      "name": "Moldova"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37376190"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1501247,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ro",
+      "name": "Romanian"
+    }
+  ],
+  "originalTitle": "Lumina",
+  "overview": "A child and his father journey from their Romanian mountain village to an airport to collect a light for their village church.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 87,
+  "schemaVersion": 2,
+  "status": "Post Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Holy Light",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

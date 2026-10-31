@@ -1,0 +1,213 @@
+{
+  "backdropPath": "/jiZa6ydRLQLS7aJWto7SDHktsEA.jpg",
+  "cast": [
+    {
+      "character": "Lucy",
+      "id": 87570,
+      "name": "Tamera Mowry-Housley",
+      "profilePath": "/1DCF3kbfKioof8ilbbK9Y16a6jE.jpg"
+    },
+    {
+      "character": "Adam Kade",
+      "id": 1214865,
+      "name": "B.J. Britt",
+      "profilePath": "/9uxuWSAgeLSNqSA1gPI9t9Sa4Ej.jpg"
+    },
+    {
+      "character": "Robbie",
+      "id": 5503751,
+      "name": "Elijah-Justus Lewis",
+      "profilePath": null
+    },
+    {
+      "character": "Jill",
+      "id": 51800,
+      "name": "Teryl Rothery",
+      "profilePath": "/fB3XmJ4PRMGo28LxbvTHuYyL3gi.jpg"
+    },
+    {
+      "character": "Todd",
+      "id": 2391228,
+      "name": "Matthew James Dowden",
+      "profilePath": "/cYS0XUkUpWdqbtCon5TnO1meUEA.jpg"
+    },
+    {
+      "character": "Norma",
+      "id": 184571,
+      "name": "Lossen Chambers",
+      "profilePath": "/yu16CosxAx5KrRIfAcbZKOrtzQB.jpg"
+    },
+    {
+      "character": "Jack",
+      "id": 153842,
+      "name": "Bobby Stewart",
+      "profilePath": "/dgeoeAD3cEdKussD6WBvqIsyO4s.jpg"
+    },
+    {
+      "character": "Marty",
+      "id": 118002,
+      "name": "Tom Pickett",
+      "profilePath": "/ivfoYkHQn96UAkepHIqFZwUmh23.jpg"
+    },
+    {
+      "character": "Nathan",
+      "id": 550550,
+      "name": "Tim Beckmann",
+      "profilePath": "/4u9cCTDSsgoKeX9eRKTppYGPW6D.jpg"
+    },
+    {
+      "character": "Skylar",
+      "id": 2845710,
+      "name": "Mariesa Crouse",
+      "profilePath": "/a3EpU0wSWR155oiycVfd5occDdf.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 53015,
+      "logoPath": "/tWxubAjwO1QtLLWdnUR1bjS1vvf.png",
+      "name": "Hallmark Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-11-22",
+  "externalIds": {
+    "imdbId": "tt38353925"
+  },
+  "fetchedAt": 1793732202619,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1547915,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Tidings for the Season",
+  "overview": "A local newscaster’s life changes when he meets a 10-year-old fan — and his single mother — during the holidays.",
+  "posterPath": "/8B59ieVpMESoKNircV4GyvdJ48U.jpg",
+  "rating": 5.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-11-22",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2025-11-22",
+      "physical": "2025-11-22"
+    },
+    "US": {
+      "tv": "2025-11-16"
+    }
+  },
+  "runtime": 84,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Tidings for the Season",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "uBBu1OBruTM",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1547915-tidings-for-the-season/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 2528,
+          "logoPath": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+          "name": "YouTube TV"
+        },
+        {
+          "id": 290,
+          "logoPath": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "id": 2058,
+          "logoPath": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "id": 1746,
+          "logoPath": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1547915-tidings-for-the-season/watch?locale=US",
+      "rent": []
+    }
+  }
+}

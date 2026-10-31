@@ -1,0 +1,303 @@
+{
+  "backdropPath": "/5U3b9SpPXBkvua5LDZauUBJcGDX.jpg",
+  "cast": [
+    {
+      "character": "Silas Johnson",
+      "id": 1297165,
+      "name": "Jesse Kove",
+      "profilePath": "/7r1DkZ0XEM88Jqmdp7ArVCTvgr.jpg"
+    },
+    {
+      "character": "Wesley Harper",
+      "id": 51965,
+      "name": "Kevin Sorbo",
+      "profilePath": "/a6rDi3tkNJwaVoP7VGbdGelwtYw.jpg"
+    },
+    {
+      "character": "Clay Hood",
+      "id": 65831,
+      "name": "Robert LaSardo",
+      "profilePath": "/maezwGo8JUbjECLB6VZJPtGvn1B.jpg"
+    },
+    {
+      "character": "Preacher",
+      "id": 56117,
+      "name": "Martin Kove",
+      "profilePath": "/cuRi6YRaCrXOFU8cmqf5uTk0sUV.jpg"
+    },
+    {
+      "character": "Stranger",
+      "id": 55267,
+      "name": "Terry Kiser",
+      "profilePath": "/2d4ZN6NuQvv7j11Ouf0xcvRamGu.jpg"
+    },
+    {
+      "character": "Rose Tanner",
+      "id": 1979741,
+      "name": "Tommi Rose",
+      "profilePath": "/ffwnOrSD0D35pRaYjpwsAZB2deQ.jpg"
+    },
+    {
+      "character": "Councilman John Ellington",
+      "id": 1212647,
+      "name": "Michael Newman",
+      "profilePath": "/r5LVYDwXX4HlHl6KO6WtbiuuOib.jpg"
+    },
+    {
+      "character": "Lou Stubbs",
+      "id": 154295,
+      "name": "Michael Milhoan",
+      "profilePath": "/oTXRBzb8KUGC2TXtXEIheGjBANG.jpg"
+    },
+    {
+      "character": "Shane Tate",
+      "id": 1181263,
+      "name": "Kevin Wayne",
+      "profilePath": "/eYQc6bGKnURBTCwcOflTfgmHe0S.jpg"
+    },
+    {
+      "character": "Maylene Redding",
+      "id": 1265329,
+      "name": "Tanya Christiansen",
+      "profilePath": "/ciifmUGctpO3zPcazaaAlD8QvJ9.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 262136,
+      "logoPath": null,
+      "name": "R.J. Hendricks II Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt27450169"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "id": 1480071,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "A Gunfighter's Deal",
+  "overview": "In his darkest days, Silas Johnson gets a visit from a mysterious man who promises to make him the fast-gun that he has always wanted to be. But, at what cost?",
+  "posterPath": "/aflxQaIA1v1ow3mEZOEq4fh4iXp.jpg",
+  "rating": 5.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-10-31"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2025-10-31"
+    }
+  },
+  "runtime": 86,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2025-10-31",
+  "title": "A Gunfighter's Deal",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "4l4rDb7IIl8",
+      "name": "Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1480071-a-gunfighter-s-deal/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 332,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango at Home Free"
+        },
+        {
+          "id": 613,
+          "logoPath": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png",
+          "name": "Amazon Prime Video Free with Ads"
+        },
+        {
+          "id": 1963,
+          "logoPath": "/n6E9OeoQicCDd43PnLsMpVIVYFK.png",
+          "name": "Xumo Play"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        },
+        {
+          "id": 1898,
+          "logoPath": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png",
+          "name": "Amazon MX Player"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        },
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1480071-a-gunfighter-s-deal/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

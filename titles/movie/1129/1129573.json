@@ -1,0 +1,161 @@
+{
+  "backdropPath": "/4hAL9idXa8punHe7EyBaymMPlkU.jpg",
+  "cast": [
+    {
+      "character": "Zhu Shaoyu",
+      "id": 1106514,
+      "name": "Hu Ge",
+      "profilePath": "/vmNDYhGMFReeHGqbTwFcFgAq9Ep.jpg"
+    },
+    {
+      "character": "Li Qi",
+      "id": 1937250,
+      "name": "Wen Qi",
+      "profilePath": "/5sV0c3iCnLhepzfR1OA2dqAtaEr.jpg"
+    },
+    {
+      "character": "Granny",
+      "id": 131303,
+      "name": "Yan Ni",
+      "profilePath": "/olR80y58ixqu6e2Vs0cNTeKWQqm.jpg"
+    },
+    {
+      "character": "Diao Er",
+      "id": 96614,
+      "name": "Song Jia",
+      "profilePath": "/hCQK1SXOEwzMvEzBhQM8J9rvuhc.jpg"
+    },
+    {
+      "character": "Bing Gun",
+      "id": 5454039,
+      "name": "高子淇",
+      "profilePath": "/xmV5PNnCTgpJxahgwe0O4XhzfCa.jpg"
+    },
+    {
+      "character": "Yang Jie",
+      "id": 1823685,
+      "name": "Gao Ye",
+      "profilePath": "/iowwWeVy1IlA2h42c08FpmzLCvq.jpg"
+    },
+    {
+      "character": "Dao Yu",
+      "id": 1355667,
+      "name": "Ou Hao",
+      "profilePath": "/nHokLSjlWJB3Gwt3zBXUuBPvR77.jpg"
+    },
+    {
+      "character": "Shop Worker",
+      "id": 2916765,
+      "name": "Li Xueqin",
+      "profilePath": "/7MLQGh5zryfM6CYOSIg2q5Dh5FD.jpg"
+    },
+    {
+      "character": "Qu Tong Pian",
+      "id": 2050320,
+      "name": "Yang Xinming",
+      "profilePath": "/aiEyYq1s9ah42Gedzw1ac1oGcGK.jpg"
+    },
+    {
+      "character": "Pan Xiulan",
+      "id": 1542333,
+      "name": "Ai Liya",
+      "profilePath": "/qehdgUXOT4HEN0mL56dp1Zyqtw1.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 260662,
+      "logoPath": null,
+      "name": "之江电影集团有限公司"
+    },
+    {
+      "id": 136862,
+      "logoPath": "/jE1WsBZUPcfO0Cdt8YULwjsat8M.png",
+      "name": "Hehe Pictures"
+    },
+    {
+      "id": 176809,
+      "logoPath": "/gUzJX8eTtL5VdZxWKZVG0Nzj8ck.png",
+      "name": "Maxtimes Pictures"
+    },
+    {
+      "id": 226814,
+      "logoPath": "/hY9Mw8oUeGnqDjSSmbnAPAmegR3.png",
+      "name": "T.H.ENTERTAINMENT"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "digitalDate": "2026-02-06",
+  "externalIds": {
+    "imdbId": "tt12368458"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 83,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1129573,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "originalTitle": "三滴血",
+  "overview": "The story follows an estranged father, nicknamed Reindeer, who is involved in a gruelling human trafficking run on China’s northeaster border with a young pregnant woman and a boy who has been kidnapped before.",
+  "posterPath": "/2B4rLgNib7nGgqfFDvMrz0LQXr9.jpg",
+  "rating": 5.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-02-06",
+      "gapDays": 83,
+      "theatricalDate": "2025-11-15"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "digital": "2026-02-06",
+      "premiere": "2025-11-13",
+      "theatrical": "2025-11-15"
+    }
+  },
+  "runtime": 110,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2025-11-15",
+  "title": "Family At Large",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 7,
+  "watchProviders": {}
+}

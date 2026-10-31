@@ -1,0 +1,148 @@
+{
+  "backdropPath": "/fERkF0zpAg2ZSYdLXpTWFLyQBs2.jpg",
+  "cast": [
+    {
+      "character": "Johnny",
+      "id": 59410,
+      "name": "Bob Odenkirk",
+      "profilePath": "/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+    },
+    {
+      "character": "Mark",
+      "id": 2682384,
+      "name": "Brando Crawford",
+      "profilePath": "/wpZK03Jyv9ZWNkxha97MKfgEMAs.jpg"
+    },
+    {
+      "character": "Lisa",
+      "id": 234982,
+      "name": "Bella Heathcote",
+      "profilePath": "/ohysJ8CJTAi2Vp5qBkByn98LANi.jpg"
+    },
+    {
+      "character": "Denny",
+      "id": 2527049,
+      "name": "Cameron Kasky",
+      "profilePath": "/aFRP3ak0NN3yFOthjrVIefm4rks.jpg"
+    },
+    {
+      "character": "Peter",
+      "id": 551463,
+      "name": "Mike Flanagan",
+      "profilePath": "/sjnAyb7un3eS7THLQQzJBzkv2Yo.jpg"
+    },
+    {
+      "character": "Claudette",
+      "id": 932076,
+      "name": "Kate Siegel",
+      "profilePath": "/jJJGmVKvMFHMJEwyfiHgxXEFePO.jpg"
+    },
+    {
+      "character": "Chris-R",
+      "id": 81918,
+      "name": "Greg Sestero",
+      "profilePath": "/ySLUoDUVQB1IjgsaX9ktPaz58Rh.jpg"
+    },
+    {
+      "character": "Steven",
+      "id": 1457999,
+      "name": "Arturo Castro",
+      "profilePath": "/pbLoDCfjm3fLtGHVqQcnbM2d0cu.jpg"
+    },
+    {
+      "character": "Susan",
+      "id": 1583107,
+      "name": "Rivkah Reyes",
+      "profilePath": "/syGvodwI4LZO7S7Vqpju5ykdkvU.jpg"
+    },
+    {
+      "character": "Mike",
+      "id": 1720948,
+      "name": "Nico Greetham",
+      "profilePath": "/xiF00qwPVP7FaKWZOAKckQbuSwx.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-07-08",
+  "externalIds": {
+    "imdbId": "tt25274490",
+    "wikidataId": "Q117842621"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 263,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1097699,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Room: A Tribute",
+  "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
+  "posterPath": "/epsWTP2zoY9KpJ7vgSgWiQQcn6N.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-08",
+      "gapDays": 263,
+      "theatricalDate": "2025-10-18"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-07-08",
+      "premiere": "2025-11-01",
+      "theatricalLimited": "2025-10-18"
+    }
+  },
+  "runtime": 65,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A long time ago, in a room far, far away...",
+  "theatricalDate": "2025-10-18",
+  "title": "The Room: A Tribute",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "NMKZ5e5h430",
+      "name": "Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {}
+}

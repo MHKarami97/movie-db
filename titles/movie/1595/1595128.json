@@ -1,0 +1,298 @@
+{
+  "backdropPath": "/sLNRWSMJmPlQLJ3JhYaQYenkWDJ.jpg",
+  "cast": [
+    {
+      "character": "Islay",
+      "id": 3471358,
+      "name": "Silvia Presente",
+      "profilePath": "/n6EmUekgxrw9C3wF20Bew4srs8N.jpg"
+    },
+    {
+      "character": "Tom",
+      "id": 3200774,
+      "name": "Kit Esuruoso",
+      "profilePath": "/qxZAgZQzh61gBOxTMcmrjTxY5jp.jpg"
+    },
+    {
+      "character": "Joe",
+      "id": 6285984,
+      "name": "Joey Lockhart",
+      "profilePath": null
+    },
+    {
+      "character": "David",
+      "id": 1906672,
+      "name": "Paul David-Gough",
+      "profilePath": "/df8P7ariaNdV0JQBqt91Qjq0vZD.jpg"
+    },
+    {
+      "character": "Icarus",
+      "id": 6285985,
+      "name": "Fred Batt",
+      "profilePath": null
+    },
+    {
+      "character": "Marcus",
+      "id": 3539148,
+      "name": "Gregory Fung",
+      "profilePath": null
+    },
+    {
+      "character": "Francis",
+      "id": 2893055,
+      "name": "Samy Elkhatib",
+      "profilePath": null
+    },
+    {
+      "character": "Damien",
+      "id": 3995095,
+      "name": "Reece Henderson",
+      "profilePath": null
+    },
+    {
+      "character": "Edward",
+      "id": 6285990,
+      "name": "Thomas Stocker",
+      "profilePath": null
+    },
+    {
+      "character": "Camilla",
+      "id": 1643690,
+      "name": "Pippa Winslow",
+      "profilePath": "/zPfG57Mc1zAnUwWwCf63kKNvjf9.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-02-02",
+  "externalIds": {
+    "imdbId": "tt15160410",
+    "wikidataId": "Q139831701"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1595128,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Lure",
+  "overview": "After being invited to a party by a mysterious and alluring woman, six men awake to find themselves part of a cult family's gruesome annual tradition to find the perfect suitor.",
+  "posterPath": "/zwGIXXauPHkGCEgDc13raAsG4Uk.jpg",
+  "rating": 5.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-02-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-02-02"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Welcome to the family.",
+  "theatricalDate": null,
+  "title": "Lure",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Pc0xEmDsWBA",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1595128-lure/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        },
+        {
+          "id": 332,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango at Home Free"
+        },
+        {
+          "id": 613,
+          "logoPath": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png",
+          "name": "Amazon Prime Video Free with Ads"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        },
+        {
+          "id": 1898,
+          "logoPath": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png",
+          "name": "Amazon MX Player"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1595128-lure/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

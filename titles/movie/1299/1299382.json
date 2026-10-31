@@ -1,0 +1,180 @@
+{
+  "backdropPath": "/gQYZcNXCduS2cuFZJLubRSk04ft.jpg",
+  "cast": [
+    {
+      "character": "Lea",
+      "id": 1588444,
+      "name": "Pilar Fogliati",
+      "profilePath": "/yO3HJiRbySpZxOIbnzhHEHNvw6K.jpg"
+    },
+    {
+      "character": "Rocco",
+      "id": 73475,
+      "name": "Adriano Giannini",
+      "profilePath": "/8cyApt07EO7aaAtPTshe7whciSx.jpg"
+    },
+    {
+      "character": "Andrea",
+      "id": 1816561,
+      "name": "Andrea Carpenzano",
+      "profilePath": "/r0s2AF4iGyxStD30FH7eZgVEnZ7.jpg"
+    },
+    {
+      "character": "Cecilia",
+      "id": 3124,
+      "name": "Valeria Golino",
+      "profilePath": "/bLw0lNPEhICtbTLtnTswamefN7C.jpg"
+    },
+    {
+      "character": "",
+      "id": 1800446,
+      "name": "Selene Caramazza",
+      "profilePath": "/fm8MiYMRWuswuzbjdVlOvdCjnta.jpg"
+    },
+    {
+      "character": "Umberto",
+      "id": 129649,
+      "name": "Massimo De Lorenzo",
+      "profilePath": "/coFLDs22kQr81MphsePilpLADoe.jpg"
+    },
+    {
+      "character": "",
+      "id": 3410868,
+      "name": "Giulia Maenza",
+      "profilePath": "/aGrdWwaqEStwAqOlcS0h9iT5rEf.jpg"
+    },
+    {
+      "character": "Delinquente",
+      "id": 2186569,
+      "name": "Cristian Stelluti",
+      "profilePath": "/aLV08v3mat3HOnCdqjubmqaKnqj.jpg"
+    },
+    {
+      "character": "Sergio",
+      "id": 128223,
+      "name": "Lorenzo Gioielli",
+      "profilePath": "/8AsSZETcCdFdIw7BeDOAuN5DOoF.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1533,
+      "logoPath": "/bMD3Zv15TujMXJwvqoTFY6Scexx.png",
+      "name": "Indigo Film"
+    },
+    {
+      "id": 24692,
+      "logoPath": "/vqkijFnkJysUz1kZPAZoxmykoRF.png",
+      "name": "HT Film"
+    },
+    {
+      "id": 155990,
+      "logoPath": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt32528560",
+    "wikidataId": "Q137115816"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1299382,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "it",
+      "name": "Italian"
+    }
+  ],
+  "originalTitle": "Breve storia d'amore",
+  "overview": "Lea and Rocco meet by chance in a bar and an instant attraction ignites between them. From that moment, a secret affair begins, consisting of fleeting, clandestine meetings in a hotel room. However, as time passes, Lea's obsession with Rocco intensifies, leading her to intrude more and more into his life. The story soon takes an unexpected and unsettling turn.",
+  "posterPath": "/avqBTEK53Zqyr5sWIi6EuE51UaH.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 97,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "A Brief Affair",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 43,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1299382-breve-storia-d-amore/watch?locale=US",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

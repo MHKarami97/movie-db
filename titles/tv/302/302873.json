@@ -1,0 +1,122 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 223830,
+      "logoPath": "/s6KPysfZG8QDTmEqVkLuqHCZqoy.png",
+      "name": "Seriella Productions"
+    },
+    {
+      "id": 189529,
+      "logoPath": "/2kAb612fQslzOszUnhg4VyzNS5s.png",
+      "name": "Univer Video"
+    },
+    {
+      "id": 68962,
+      "logoPath": "/yeSKR3cPQKvmdBcUijBWezzsF3.png",
+      "name": "RECORD"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2027-05-13",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-05-13",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 302873,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-05-13",
+    "episodeNumber": 1,
+    "id": 6597735,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Judas Iscariotes",
+  "overview": "",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-05-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-05-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-05-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-05-13",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-05-13"
+    },
+    "CN": {
+      "tv": "2027-05-13"
+    },
+    "GB": {
+      "tv": "2027-05-13"
+    },
+    "US": {
+      "tv": "2027-05-13"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-05-13",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Judas Iscariotes",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

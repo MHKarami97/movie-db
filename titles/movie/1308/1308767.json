@@ -1,0 +1,368 @@
+{
+  "backdropPath": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+  "cast": [
+    {
+      "character": "George Washington",
+      "id": 1946699,
+      "name": "William Franklyn-Miller",
+      "profilePath": "/zRTfdQgLk6yy9m6DQjX72qJ0MRs.jpg"
+    },
+    {
+      "character": "Robert Dinwiddie",
+      "id": 2282,
+      "name": "Ben Kingsley",
+      "profilePath": "/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
+    },
+    {
+      "character": "Mary Washington",
+      "id": 18248,
+      "name": "Mary-Louise Parker",
+      "profilePath": "/1ohhrIZ4OMlLx9DvHjPhQJAIP0F.jpg"
+    },
+    {
+      "character": "Christopher Gist",
+      "id": 3060195,
+      "name": "Leo Hanna",
+      "profilePath": "/td9z5ch8GqtGBLRexvNMNCaNyVx.jpg"
+    },
+    {
+      "character": "Sally Cary",
+      "id": 4666780,
+      "name": "Mia Rodgers",
+      "profilePath": "/6KtudVDOmmwAO4TtPjq0TYyy91O.jpg"
+    },
+    {
+      "character": "William Fairfax",
+      "id": 1608418,
+      "name": "Joel Smallbone",
+      "profilePath": "/jgmSh04jRbSxGlBTMJ9Wo4CFDMB.jpg"
+    },
+    {
+      "character": "Lord Fairfax",
+      "id": 7090,
+      "name": "Kelsey Grammer",
+      "profilePath": "/qn38jJHEqRBsj50Gqo2uM38fgJx.jpg"
+    },
+    {
+      "character": "General Edward Braddock",
+      "id": 1333,
+      "name": "Andy Serkis",
+      "profilePath": "/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+    },
+    {
+      "character": "Thomas Gage",
+      "id": 1556258,
+      "name": "Michael Benz",
+      "profilePath": "/qb3oEBOpc11maO2CeM7SgbfWQEq.jpg"
+    },
+    {
+      "character": "James Mackay",
+      "id": 1499833,
+      "name": "Jonno Davies",
+      "profilePath": "/oI68xvcPqZjRIfteTbtT3jAVUV1.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 165435,
+      "logoPath": "/pDh2WDdOajWST9jlkFo6TOvETnB.png",
+      "name": "Angel Studios"
+    },
+    {
+      "id": 273310,
+      "logoPath": null,
+      "name": "10 Ton Productions"
+    },
+    {
+      "id": 218666,
+      "logoPath": "/1FyQYjUUIijNZEJBUPqrpDxCZz3.png",
+      "name": "Wonder Project"
+    },
+    {
+      "id": 223271,
+      "logoPath": "/2Rc6Dvg3tpIfDzgQE6ycWxNj0kT.png",
+      "name": "2521 Entertainment"
+    },
+    {
+      "id": 11166,
+      "logoPath": null,
+      "name": "Red 56"
+    },
+    {
+      "id": 3291,
+      "logoPath": null,
+      "name": "Provident Films"
+    },
+    {
+      "id": 129815,
+      "logoPath": "/qbCmnVTQEuFqrVkbxn3i9P7Jrcw.png",
+      "name": "Wild Atlantic Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "digitalDate": "2026-08-04",
+  "externalIds": {
+    "facebookId": "youngwashingtonmovie",
+    "imdbId": "tt32104007",
+    "instagramId": "youngwashingtonmovie",
+    "twitterId": "washingtonmovie",
+    "wikidataId": "Q136002124"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1308767,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Young Washington",
+  "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+  "posterPath": "/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
+  "rating": 7.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-08-04",
+      "gapDays": 32,
+      "theatricalDate": "2026-07-03"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-08-04",
+      "physical": "2026-09-22",
+      "premiere": "2026-06-13",
+      "theatrical": "2026-07-03"
+    }
+  },
+  "runtime": 121,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "250 years of history begins with one man.",
+  "theatricalDate": "2026-07-03",
+  "title": "Young Washington",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "l5uQxwzbX20",
+      "name": "Becoming a Gentleman With Kelsey Grammer",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "W5kf-rTs5OQ",
+      "name": "A review is a review, no matter how true.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "RuXjQS9vqdo",
+      "name": "Before Martha, there was Sally.",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "9E4GxM6cQY8",
+      "name": "Washington men die early…except for George.",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "7ZdiadB5vpc",
+      "name": "The #1 Action Movie in America!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ndrOxfj-FGs",
+      "name": "Ready Aim.....",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "tkr-41C5jKU",
+      "name": "Young Washington Is NOW In Theaters!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "qwBdWx41Osw",
+      "name": "Give me the Young Washington movie or give me death!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ixTps53f5i8",
+      "name": "Who will Sally choose: George or William?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "E1LmjxiODxM",
+      "name": "3…2…1…",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "fL9LRY8EUCE",
+      "name": "5 days. 5 bullet holes. 1 victory.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ew_wpSs4f48",
+      "name": "Young Washington Is Only One Week Away!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "f5FR--piZJA",
+      "name": "The Problem With Sneaking Into A Party",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "HYHrSaukq1s",
+      "name": "From Farmer To Major In A Matter Of Seconds",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "3zobYGu-_sI",
+      "name": "Three weeks until a farmer becomes a general",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "5bhSZWgfV0I",
+      "name": "The Difference Between Obedience And Respect",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "FTbAav3NIb0",
+      "name": "You Heard The Colonel!",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "ORi68KXed8Q",
+      "name": "Lights, camera, muskets!",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "Gy3aIp7-paw",
+      "name": "“Then, we will force you to leave.”",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "LJek-kc384w",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "YIUkTkGiwRQ",
+      "name": "A Message From Young George Washington",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "STvnU9Yigik",
+      "name": "First Look",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "_Q3WkycWjLc",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 139,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1956,
+          "logoPath": "/pusUxS9dP5VK7HkN8SLf2wnP9gm.png",
+          "name": "Angel Studios"
+        },
+        {
+          "id": 2668,
+          "logoPath": "/q44PU5iFUrxhOLKW19BrPuEN6Go.png",
+          "name": "Wonder Project Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1308767-young-washington/watch?locale=US",
+      "rent": []
+    }
+  }
+}

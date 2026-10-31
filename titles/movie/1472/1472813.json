@@ -1,0 +1,169 @@
+{
+  "backdropPath": "/bYaiKiCmTOnd2EW0yuzA4vno8g.jpg",
+  "cast": [
+    {
+      "character": "Gianina",
+      "id": 3230538,
+      "name": "Ana Dumitrașcu",
+      "profilePath": "/99ehZxENMEOEFaHFJYlPszSNWbB.jpg"
+    },
+    {
+      "character": "Marguerite Donnadieu",
+      "id": 59373,
+      "name": "Mélanie Thierry",
+      "profilePath": "/bzyr9QHNQhLwyxQ6mzN24HPyy3s.jpg"
+    },
+    {
+      "character": "Kalil",
+      "id": 1846567,
+      "name": "Arnaud Baudoin",
+      "profilePath": "/9sH6BIkicmSX3PTc7LI1NnDghNi.jpg"
+    },
+    {
+      "character": "Madame Anne",
+      "id": 26101,
+      "name": "Marie Rivière",
+      "profilePath": "/8dYXEsV8KwUUa1Zo9hC2gfGdvMW.jpg"
+    },
+    {
+      "character": "Louen",
+      "id": 6234389,
+      "name": "Louen Bouteiller",
+      "profilePath": "/iCvvqNXOvn1yMFiueY19cPJT7fV.jpg"
+    },
+    {
+      "character": "Pierre Donnadieu",
+      "id": 992623,
+      "name": "Vincent Macaigne",
+      "profilePath": "/6Z4JmAauiallW2lXTOuSAiHdHGf.jpg"
+    },
+    {
+      "character": "Ilinca",
+      "id": 2080407,
+      "name": "Ilinca Manolache",
+      "profilePath": "/vXRVhPBxAfDW1CdnulzGUSZbej2.jpg"
+    },
+    {
+      "character": "Maria",
+      "id": 6216621,
+      "name": "Sofia Dragoman",
+      "profilePath": null
+    },
+    {
+      "character": "Gianina's Mother",
+      "id": 2080405,
+      "name": "Liliana Ghiță",
+      "profilePath": null
+    },
+    {
+      "character": "Theatre Member",
+      "id": 4836401,
+      "name": "Kahina Mounier",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 8997,
+      "logoPath": "/79j5EijIG8NrRg5ibLtdooXTsiu.png",
+      "name": "SBS Productions"
+    },
+    {
+      "id": 157830,
+      "logoPath": "/f2lSAmhtAgcrBExmyuMWB6vPpo5.png",
+      "name": "Avanpost"
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "RO",
+      "name": "Romania"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt38785098",
+    "wikidataId": "Q139377859"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1472813,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "ro",
+      "name": "Romanian"
+    }
+  ],
+  "originalTitle": "Le Journal d'une femme de chambre",
+  "overview": "A young Romanian woman living in France works for a French family and joins a theatre company who are adapting Octave Mirbeau's The Diary of a Chambermaid.",
+  "posterPath": "/vktQLUEEjg1KZhXfDINqxZNB29x.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-10-08"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Diary of a Chambermaid",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "VhCR5WgsVbA",
+      "name": "Clip [Subtitled]",
+      "official": true,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 2,
+  "watchProviders": {}
+}

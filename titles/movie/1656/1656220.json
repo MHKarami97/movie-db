@@ -1,0 +1,211 @@
+{
+  "backdropPath": "/q5L3aXchoCgwbZbwWl5FjhGmuYs.jpg",
+  "cast": [
+    {
+      "character": "Lukas",
+      "id": 1037348,
+      "name": "Louis Hofmann",
+      "profilePath": "/m3Mo38afbKmy9EOsfmUagvTFM9q.jpg"
+    },
+    {
+      "character": "Kitty",
+      "id": 1327555,
+      "name": "Mala Emde",
+      "profilePath": "/sSCtWqaQMe8fqYlKPuLfQ3Zepu1.jpg"
+    },
+    {
+      "character": "Nina",
+      "id": 1682097,
+      "name": "Katharina Stark",
+      "profilePath": "/3cwKbMriYdDDhPwSQTXTdMhG6p6.jpg"
+    },
+    {
+      "character": "Sören",
+      "id": 49767,
+      "name": "Frederick Lau",
+      "profilePath": "/4ukrX8OPPsD06YMFoTL00uZrwa4.jpg"
+    },
+    {
+      "character": "Viola",
+      "id": 39249,
+      "name": "Maria Dragus",
+      "profilePath": "/4AiU1EdwWlNuxBbYV1qLxc09mv1.jpg"
+    },
+    {
+      "character": "Lamin",
+      "id": 4114135,
+      "name": "Trevor Magaya",
+      "profilePath": null
+    },
+    {
+      "character": "Rose",
+      "id": 5727482,
+      "name": "Kathy Etoa",
+      "profilePath": "/hIxRBgZbZ4iRTjhVOfvkD8xLB0v.jpg"
+    },
+    {
+      "character": "Su",
+      "id": 3736493,
+      "name": "Saibon Wang",
+      "profilePath": null
+    },
+    {
+      "character": "Paula",
+      "id": 4379940,
+      "name": "Joone Dankou",
+      "profilePath": null
+    },
+    {
+      "character": "Maik",
+      "id": 5657421,
+      "name": "Merlin Von Garnier",
+      "profilePath": "/rBkMLk8mZiMdZ45ox36z8hSO8BG.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 275894,
+      "logoPath": "/qKkCZPsYNB3Fbg3TYA2w9BrZQCu.png",
+      "name": "Flimmer"
+    },
+    {
+      "id": 169950,
+      "logoPath": "/bnM4d5btAZPCQKU08hm4p6eEMbZ.png",
+      "name": "Flute Film"
+    },
+    {
+      "id": 127981,
+      "logoPath": null,
+      "name": "Sunnysideup Filmproduktion"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "2026-07-17",
+  "externalIds": {
+    "imdbId": "tt41983440",
+    "wikidataId": "Q140420253"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1656220,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "23 000 Leben",
+  "overview": "A group of young people sets sail for the Mediterranean to save the lives of refugees — a mission that puts their ideas of law and justice to the test.",
+  "posterPath": "/cNYTQKXvlSI62WacK35SfL22xs2.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-07-17"
+    }
+  },
+  "runtime": 112,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "23 000 Lives",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "89dugTvBEWw",
+      "name": "Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 84,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1656220-23-000-leben/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1656220-23-000-leben/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1656220-23-000-leben/watch?locale=US",
+      "rent": []
+    }
+  }
+}

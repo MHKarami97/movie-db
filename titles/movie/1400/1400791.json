@@ -1,0 +1,172 @@
+{
+  "backdropPath": "/3QTnvNnV4uYReCuhXS0BqlX9TfI.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 5216239,
+      "name": "Noam Shuster-Eliassi",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 127201,
+      "logoPath": null,
+      "name": "Home Made Docs"
+    },
+    {
+      "id": 109953,
+      "logoPath": "/s6V1B5qy7t2do8D3aVYwUZHIwxR.png",
+      "name": "Little Big Story"
+    },
+    {
+      "id": 75749,
+      "logoPath": "/j5FhgdD4sSqmJ0kQAk1rDVSVrTe.png",
+      "name": "Intuitive Pictures"
+    },
+    {
+      "id": 250106,
+      "logoPath": null,
+      "name": "My Teez Production"
+    },
+    {
+      "id": 15181,
+      "logoPath": "/sjQmClxWfF4NmP01QJVY8e3UVYK.png",
+      "name": "Wavelength"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "digitalDate": "2025-11-27",
+  "externalIds": {
+    "imdbId": "tt34964219",
+    "instagramId": "coexistencemyass",
+    "wikidataId": "Q131750761"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1400791,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ar",
+      "name": "Arabic"
+    },
+    {
+      "code": "he",
+      "name": "Hebrew"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Coexistence, My Ass!",
+  "overview": "Noam Shuster Eliassi grew up the literal poster child for the Israeli-Palestinian peace process before making a hard pivot to stand-up comedy and political satire. But as the region sinks deeper into devastating violence, she must meet the moment by challenging her audiences with hard truths that are no laughing matter.",
+  "posterPath": "/Gu5Rp19LKqj3VUsPRtygw2OPpL.jpg",
+  "rating": 8.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-27",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-06-18"
+    },
+    "US": {
+      "digital": "2025-11-27",
+      "premiere": "2025-01-26"
+    }
+  },
+  "runtime": 95,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Coexistence, My Ass!",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Ro7FinHJ8RQ",
+      "name": "Coexistence, My Ass! (Trailer)",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1400791-coexistence-my-ass/watch?locale=US",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ]
+    }
+  }
+}

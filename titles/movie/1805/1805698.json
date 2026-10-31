@@ -1,0 +1,181 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 1913696,
+      "name": "Hamdy Al Merghany",
+      "profilePath": "/sJg1gQuFiGJ2dU7QabKlEpe1rGC.jpg"
+    },
+    {
+      "character": "",
+      "id": 1827942,
+      "name": "Mohamed Osama",
+      "profilePath": "/khnJ5LVjOjLPuTPNnPzEpCRtPT3.jpg"
+    },
+    {
+      "character": "",
+      "id": 141004,
+      "name": "Bassem Samra",
+      "profilePath": "/tKhneTl9BL6W1jIgTV43o5duFPx.jpg"
+    },
+    {
+      "character": "",
+      "id": 1320598,
+      "name": "Bayoumi Fouad",
+      "profilePath": "/79rD72T50i6tohSW9OLrahNExjP.jpg"
+    },
+    {
+      "character": "",
+      "id": 1714493,
+      "name": "Mohamed Mahmoud",
+      "profilePath": "/9UIBmYQDSX8N0XZjOdRD5PpQMtl.jpg"
+    },
+    {
+      "character": "",
+      "id": 140872,
+      "name": "Mohammad Lotfi",
+      "profilePath": "/Akh0XZ1gRWeMWAmDz7kbg6xwz4V.jpg"
+    },
+    {
+      "character": "",
+      "id": 3721527,
+      "name": "Sherif Hossny",
+      "profilePath": "/eOUrab9kUKI8LqmlKkQqjqNsHwM.jpg"
+    },
+    {
+      "character": "",
+      "id": 6123473,
+      "name": "Nagui Chehata",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 4571266,
+      "name": "Passant Ahmed Abu Basha",
+      "profilePath": "/aGnNUo11sgjPJDWsVAbkUiODgtX.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 315482,
+      "logoPath": null,
+      "name": "Telfaz"
+    },
+    {
+      "id": 11524,
+      "logoPath": "/zlVF3eMw9LiZRaEsoFaPrQKoNVz.png",
+      "name": "Rotana Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793906464749,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1805698,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "كريبتو",
+  "overview": "The story revolves around an Italian mafia family that contacts the two sons of its late leader, who are living in Egypt, to inform them of their inheritance rights. However, two Egyptian men impersonate the heirs and travel to Italy, where they find themselves caught up in a series of unexpected situations and complications.",
+  "posterPath": "/yWibGjHkPLKbiI4aGYX6FLd0GXu.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Crypto",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1805698/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1805698/watch?locale=US",
+      "rent": []
+    }
+  }
+}

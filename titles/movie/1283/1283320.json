@@ -1,0 +1,396 @@
+{
+  "backdropPath": "/jRSUoJr26JKdtvJsoflf0YlhlFs.jpg",
+  "cast": [
+    {
+      "character": "Mike",
+      "id": 964834,
+      "name": "Frank Dillane",
+      "profilePath": "/eitUc8e045y8dDfBSm681hU471g.jpg"
+    },
+    {
+      "character": "Andrea",
+      "id": 1367720,
+      "name": "Megan Northam",
+      "profilePath": "/docdyrz3Jph8jYNH1hWY8659UkF.jpg"
+    },
+    {
+      "character": "Ramona",
+      "id": 3703714,
+      "name": "Karyna Khymchuk",
+      "profilePath": "/8cI5IVcJFRDWeXSqxflR1WxsPpG.jpg"
+    },
+    {
+      "character": "Chanelle",
+      "id": 3964802,
+      "name": "Shonagh Marie",
+      "profilePath": "/5ILSIHIQ8LA0TxuiyXiBQDS18ct.jpg"
+    },
+    {
+      "character": "Franco",
+      "id": 2960,
+      "name": "Amr Waked",
+      "profilePath": "/eRcAC2beUP52lQiejmKQA8jiyld.jpg"
+    },
+    {
+      "character": "Religious Leader",
+      "id": 5752118,
+      "name": "Claudia Jones",
+      "profilePath": null
+    },
+    {
+      "character": "Waiter",
+      "id": 5752119,
+      "name": "Shahzad Ali",
+      "profilePath": null
+    },
+    {
+      "character": "Dawson",
+      "id": 5752120,
+      "name": "Michael Quartey",
+      "profilePath": null
+    },
+    {
+      "character": "Lisa",
+      "id": 573736,
+      "name": "Natasha Sparkes",
+      "profilePath": "/kqw5HY6wnWUq1tAj9RmnwAHisXz.jpg"
+    },
+    {
+      "character": "Steve",
+      "id": 5752121,
+      "name": "John Norman",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 227743,
+      "logoPath": "/aXsjVGz5WY7GUxdivWXzjQ1QdWE.png",
+      "name": "Devisio"
+    },
+    {
+      "id": 288,
+      "logoPath": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film"
+    },
+    {
+      "id": 227744,
+      "logoPath": "/57N7HJhFzvw6fAxdxXs7p8Gyid3.png",
+      "name": "Tricky Knot"
+    },
+    {
+      "id": 130042,
+      "logoPath": "/eo7podaqkHpRuwSyTYE7sQv3kWl.png",
+      "name": "Somesuch"
+    },
+    {
+      "id": 7281,
+      "logoPath": "/iI7qdR1OFPo0U41BlpKBLD3xesh.png",
+      "name": "BFI"
+    },
+    {
+      "id": 272344,
+      "logoPath": null,
+      "name": "Dream Space Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-11-25",
+  "externalIds": {
+    "facebookId": "UrchinFilm",
+    "imdbId": "tt35715953",
+    "instagramId": "urchinmovie",
+    "wikidataId": "Q132322745"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 46,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1283320,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "uk",
+      "name": "Ukrainian"
+    }
+  ],
+  "originalTitle": "Urchin",
+  "overview": "داستان پسری معتاد در خیابان‌های لندن که فرصتی برای نجات به او داده می‌شود، اما گرفتار ماجرایی می‌شود که ممکن است هیچگاه نتواند از آن فرار کند.",
+  "posterPath": "/zc8n3hm3S2VxFxlNH1MNN28LVMa.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-10-03"
+    },
+    "US": {
+      "digitalDate": "2025-11-25",
+      "gapDays": 46,
+      "theatricalDate": "2025-10-10"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-09-22",
+      "theatrical": "2025-10-03"
+    },
+    "US": {
+      "digital": "2025-11-25",
+      "premiere": "2025-08-30",
+      "theatricalLimited": "2025-10-10"
+    }
+  },
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "You're going to be just fine.",
+  "theatricalDate": "2025-10-10",
+  "title": "Urchin",
+  "translations": {
+    "faOverview": "داستان پسری معتاد در خیابان‌های لندن که فرصتی برای نجات به او داده می‌شود، اما گرفتار ماجرایی می‌شود که ممکن است هیچگاه نتواند از آن فرار کند.",
+    "faTitle": "پسر خیابانی"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "cfUnd6k78so",
+      "name": "Mark Kermode reviews Urchin (2025) | BFI Player",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "S2iqOV2TmbQ",
+      "name": "\"Ego vs What's Right\" Harris Dickinson on His Directorial Debut URCHIN with Frank Dillane | BAFTA",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "1lz1nLj4oj8",
+      "name": "Premiere Q&A with Harris Dickinson and Frank Dillane",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "EHR0pX10j34",
+      "name": "Harris Dickinson shares his journey from actor to director",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "SMqSbo7yJsE",
+      "name": "Harris Dickinson and Frank Dillane on Urchin | BFI Q&A",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "O-hgR7RC39c",
+      "name": "Official UK Trailer #2",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "g5SJuMJ4Shw",
+      "name": "Premiere at Picturehouse Central",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "XrLayKwfWVk",
+      "name": "Interview with Director Harris Dickinson",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "4cJL6vmYOeo",
+      "name": "Official US Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "xUnNNwA4MiA",
+      "name": "Official UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "qDxr00TemEE",
+      "name": "Exclusive Clip",
+      "official": false,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 67,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 224,
+          "logoPath": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+          "name": "BFI Player"
+        },
+        {
+          "id": 287,
+          "logoPath": "/lWzSEjT62Ob0XIHXdN7G4OQWCAr.png",
+          "name": "BFI Player Amazon Channel"
+        },
+        {
+          "id": 2041,
+          "logoPath": "/45RXTNyLafB9AKaZPNHryi2T9x1.png",
+          "name": "BFI Player Apple TV Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1283320-urchin/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 189,
+          "logoPath": "/4YC38wgKDkaL2NQiujnUFRt9VIB.png",
+          "name": "Curzon Home Cinema"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1283320-urchin/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

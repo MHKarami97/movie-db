@@ -1,0 +1,112 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [
+    {
+      "id": 276573,
+      "logoPath": null,
+      "name": "Brain Comet"
+    },
+    {
+      "id": 42171,
+      "logoPath": "/yTvfCUChMCmeEbjWNyIFGwgiXQE.png",
+      "name": "Blue Spirit"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2027-01-03",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-03",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 302429,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-03",
+    "episodeNumber": 1,
+    "id": 6583018,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Ma vie est un Manga",
+  "overview": "",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-03"
+    },
+    "CN": {
+      "tv": "2027-01-03"
+    },
+    "GB": {
+      "tv": "2027-01-03"
+    },
+    "US": {
+      "tv": "2027-01-03"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-03",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Planned",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Ma vie est un Manga",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

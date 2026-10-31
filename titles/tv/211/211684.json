@@ -1,0 +1,407 @@
+{
+  "backdropPath": "/fkeVnvxVx4x2PdDOOzSblFUGTVt.jpg",
+  "cast": [
+    {
+      "character": "Daryl Dixon",
+      "id": 4886,
+      "name": "Norman Reedus",
+      "profilePath": "/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg"
+    },
+    {
+      "character": "Carol Peletier",
+      "id": 31535,
+      "name": "Melissa McBride",
+      "profilePath": "/2omPfeMdnicJqqvgKAU2iqVyD4Z.jpg"
+    },
+    {
+      "character": "Antonio",
+      "id": 17093,
+      "name": "Eduardo Noriega",
+      "profilePath": "/wL2pCdw5lNsDrWRor3rxwLaSTQK.jpg"
+    },
+    {
+      "character": "Federico",
+      "id": 59129,
+      "name": "Óscar Jaenada",
+      "profilePath": "/qwphNLIwMyQW2ZLA0g0l1zFiB3w.jpg"
+    },
+    {
+      "character": "Paz",
+      "id": 1640347,
+      "name": "Alexandra Masangkay",
+      "profilePath": "/iwbCGsSwxkBgJFs90F2PCHJsGpP.jpg"
+    },
+    {
+      "character": "Roberto",
+      "id": 119969,
+      "name": "Hugo Arbues",
+      "profilePath": "/nl2CCSF512XenXKAZGCaOyrpTCx.jpg"
+    },
+    {
+      "character": "Justina",
+      "id": 5678125,
+      "name": "Candela Saitta",
+      "profilePath": "/3iNDlxjRGeLv9mo6HlDjSaKOIjh.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 23242,
+      "logoPath": "/ucE6dN6pUPfZHH5JlXkq44TDUMS.png",
+      "name": "AMC Studios"
+    },
+    {
+      "id": 170794,
+      "logoPath": null,
+      "name": "Idiotbox"
+    },
+    {
+      "id": 50032,
+      "logoPath": "/ojrMksdtR7Bs2vwERU1LCrjv7vx.png",
+      "name": "Skybound Entertainment"
+    },
+    {
+      "id": 73036,
+      "logoPath": "/1gMrlkgIuNWkuigpF5EsCfkaczk.png",
+      "name": "Valhalla Entertainment"
+    },
+    {
+      "id": 23921,
+      "logoPath": "/simDvqT8y6jhP530ggUMbikvVKc.png",
+      "name": "Circle of Confusion"
+    },
+    {
+      "id": 106395,
+      "logoPath": null,
+      "name": "Remainder Men"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2023-09-10",
+  "episodes": {
+    "4": []
+  },
+  "externalIds": {
+    "imdbId": "tt13062500",
+    "wikidataId": "Q116148366"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 211684,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-10-19",
+    "episodeNumber": 7,
+    "id": 6443708,
+    "name": "Solaz del Mar",
+    "overview": "Our heroes fight to protect the people they love.",
+    "seasonNumber": 3
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "The Walking Dead: Daryl Dixon",
+  "overview": "دریل دیکسن پس از خارج شدن از شهر کامنولث، به فرانسه می‌رسد و به‌دنبال راهی برای بازگشت به خانه است، اما در این مسیر، باید با موانع و مشکلات متعددی روبرو شود و.",
+  "posterPath": "/sP5QdW9FN18XWcA4ROz3MPAQBTx.jpg",
+  "rating": 8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2023-09-10",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2023-09-10",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2023-09-10",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2023-09-10",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2023-09-10"
+    },
+    "CN": {
+      "tv": "2023-09-10"
+    },
+    "GB": {
+      "tv": "2023-09-10"
+    },
+    "US": {
+      "tv": "2023-09-10"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2023-09-10",
+      "episodeCount": 6,
+      "name": "Season 1",
+      "overview": "Following his departure from The Commonwealth, Daryl Dixon washes ashore in France, raising the ire of a splintered but growing autocratic movement centered in Paris and endangering a young boy at the heart of a benevolent religious movement.",
+      "posterPath": "/mFjEwa8zmZCocQF6r5Stpcg8mCK.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2024-09-29",
+      "episodeCount": 6,
+      "name": "The Book of Carol",
+      "overview": "Season two follows Daryl Dixon and Carol Peletier as they both confront old demons while she fights to find her friend and he struggles with his decision to stay in France, causing tension at the Nest. Additionally, Genet's movement builds momentum, setting Pouvoir on a violent collision course with the Union of Hope in the fight for France's future.",
+      "posterPath": "/q7A1w6ypfrx6DEMkiBJWfaolVHy.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2025-09-07",
+      "episodeCount": 7,
+      "name": "Season 3",
+      "overview": "Season three follows Daryl Dixon and Carol Peletier as they continue their journey to somehow return home and to the ones they love. As they struggle to find their way back, the path takes them farther astray, leading them through distant lands with ever-changing and unfamiliar conditions as they witness the various effects of the Walker apocalypse.",
+      "posterPath": "/yGH6fzzF4ep166xNE15aD67XizP.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": null,
+      "episodeCount": 0,
+      "name": "Season 4",
+      "overview": "In the final season, while crossing the ravaged badlands of Spain, Daryl and Carol grasp onto hope - and each other - as uncertainty about their future grows.",
+      "posterPath": "/7JiHPMMvtbqeKzuscpLItO26wiQ.jpg",
+      "seasonNumber": 4
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Even heroes need saving.",
+  "theatricalDate": null,
+  "title": "The Walking Dead: Daryl Dixon",
+  "translations": {
+    "faOverview": "دریل دیکسن پس از خارج شدن از شهر کامنولث، به فرانسه می‌رسد و به‌دنبال راهی برای بازگشت به خانه است، اما در این مسیر، باید با موانع و مشکلات متعددی روبرو شود و.",
+    "faTitle": "مردگان متحرک: دریل دیکسون"
+  },
+  "type": "tv",
+  "videos": [
+    {
+      "key": "BEJyRXiyTZ8",
+      "name": "Behind-The-Scenes Preview",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "PFGr3jhAntA",
+      "name": "Official Teaser - Believe in Him",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "xe_VApyyTaU",
+      "name": "Daryl's Journey",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "iTOaFootkSk",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "HF9had5HHdo",
+      "name": "Official Teaser - Paris in Ruins",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "--kREnf2VHY",
+      "name": "Official Teaser - The Abbey",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Kfk4p8OZMO4",
+      "name": "Teaser",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "xPFfRFPv30c",
+      "name": "In Production",
+      "official": true,
+      "type": "Behind the Scenes"
+    }
+  ],
+  "voteCount": 941,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 630,
+          "logoPath": "/vnpp3n6DAIh2sKXfMbehKZAWJMC.png",
+          "name": "STARZPLAY"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/211684-the-walking-dead-daryl-dixon/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 39,
+          "logoPath": "/oFAnvlaEW2KT6J7XM0DXjlWqKu9.png",
+          "name": "Now TV"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/211684-the-walking-dead-daryl-dixon/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1854,
+          "logoPath": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 635,
+          "logoPath": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+          "name": "AMC+ Roku Premium Channel"
+        },
+        {
+          "id": 526,
+          "logoPath": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+          "name": "AMC+"
+        },
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        },
+        {
+          "id": 486,
+          "logoPath": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+          "name": "Spectrum On Demand"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/211684-the-walking-dead-daryl-dixon/watch?locale=US",
+      "rent": []
+    }
+  }
+}

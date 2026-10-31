@@ -1,0 +1,306 @@
+{
+  "backdropPath": "/6rLaRBNSwnrt9JG7himGqYpPnkz.jpg",
+  "cast": [
+    {
+      "character": "Detective Tom Carson",
+      "id": 935624,
+      "name": "John Fiore",
+      "profilePath": "/7HFyWiaFR2TVC249RQ2oB1hveoB.jpg"
+    },
+    {
+      "character": "Doc",
+      "id": 72983,
+      "name": "Manny Perez",
+      "profilePath": "/auDXIA7COAJkgPFYlZWAvCuezRG.jpg"
+    },
+    {
+      "character": "Abigail",
+      "id": 6000122,
+      "name": "Cristina Moody",
+      "profilePath": null
+    },
+    {
+      "character": "Nice",
+      "id": 2735603,
+      "name": "Justin Genna",
+      "profilePath": "/7uApDApFmYrvWDkKpE5uTkmBgMO.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 169576,
+      "logoPath": null,
+      "name": "Deskpop Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-02-10",
+  "externalIds": {
+    "imdbId": "tt15716368",
+    "wikidataId": "Q139665833"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1630440,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Bad Voodoo",
+  "overview": "Two escaped convicts break into a house and take a hostage, only to discover that the hideout houses something far more dangerous: a voodoo curse born from a grieving couple’s thirst for vengeance. As the night spirals into terror, they must battle an unseen power that feeds on guilt, blood, and lost souls.",
+  "posterPath": "/8z9CkHQaPy4eaoVwFubQF0iqgBt.jpg",
+  "rating": 3.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-03-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-10",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-03-16"
+    },
+    "US": {
+      "digital": "2026-02-10"
+    }
+  },
+  "runtime": 86,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Justice, not revenge.",
+  "theatricalDate": null,
+  "title": "Bad Voodoo",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "HC-kqdFwPxw",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1630440-bad-voodoo/watch?locale=AE",
+      "rent": [
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ]
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        },
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1630440-bad-voodoo/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 332,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango at Home Free"
+        },
+        {
+          "id": 613,
+          "logoPath": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png",
+          "name": "Amazon Prime Video Free with Ads"
+        },
+        {
+          "id": 1963,
+          "logoPath": "/n6E9OeoQicCDd43PnLsMpVIVYFK.png",
+          "name": "Xumo Play"
+        },
+        {
+          "id": 1898,
+          "logoPath": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png",
+          "name": "Amazon MX Player"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        },
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ],
+      "free": [
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        },
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1630440-bad-voodoo/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 2555,
+          "logoPath": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+          "name": "Bloodstream"
+        }
+      ]
+    }
+  }
+}

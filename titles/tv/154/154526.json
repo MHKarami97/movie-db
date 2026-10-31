@@ -1,0 +1,247 @@
+{
+  "backdropPath": "/qEqLerjgjX9BL1fsqRc4MoWzqIU.jpg",
+  "cast": [
+    {
+      "character": "Kanata Rivington (Kanata Katagiri) (voice)",
+      "id": 1492992,
+      "name": "Yuma Uchida",
+      "profilePath": "/2otstbLfQ7MXuFt1X8MFOb4OIgd.jpg"
+    },
+    {
+      "character": "Ren Saionji / Seven (voice)",
+      "id": 992869,
+      "name": "Ayane Sakura",
+      "profilePath": "/yPbTmntASE9psPIMhNGU5oo6vIH.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 106076,
+      "logoPath": "/5FHxgxvhqNC6aOVce3X9T2Wz426.png",
+      "name": "FelixFilm"
+    },
+    {
+      "id": 55938,
+      "logoPath": "/ku5PUEwBjUx8XaYikgaXRVLIMbb.png",
+      "name": "avex pictures"
+    },
+    {
+      "id": 59118,
+      "logoPath": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+      "name": "Kodansha"
+    },
+    {
+      "id": 173908,
+      "logoPath": "/ozIYsP32g0ckOd7e2EqUTNpTwUE.png",
+      "name": "Animax Broadcast Japan"
+    },
+    {
+      "id": 98553,
+      "logoPath": "/qqyXcZlJQKlRmAD1TCKV7mGLQlt.png",
+      "name": "Crunchyroll"
+    },
+    {
+      "id": 36342,
+      "logoPath": "/3xYrMZn6SrupK4R83EUgNPjzqj4.png",
+      "name": "Sammy"
+    },
+    {
+      "id": 210007,
+      "logoPath": null,
+      "name": "JIN"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2023-10-02",
+  "externalIds": {
+    "imdbId": "tt28299608",
+    "twitterId": "mfg_anime",
+    "wikidataId": "Q123564308"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "id": 154526,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-03-29",
+    "episodeNumber": 37,
+    "id": 7062417,
+    "name": "The Lead Group Splits",
+    "overview": "Kanata and Beckenbauer finally return to the lead group, creating a fierce four-way struggle.",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "MFゴースト",
+  "overview": "Japan adopts self-driving electric automobiles and renders most gas engines obsolete by 202X. The fastest cars find new life in the MFG, a racing circuit held on Japanese motorways. Drivers from around the world race for a shot at the title. Kanata Rivington returns from Britain to Japan for the MFG—and to find his father. Can he win the title and find answers? Buckle up and push it to the limit!",
+  "posterPath": "/jqkDWnBDltFCjAdhxCqUWg9GXFB.jpg",
+  "rating": 8.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2023-10-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2023-10-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2023-10-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2023-10-02",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2023-10-02"
+    },
+    "CN": {
+      "tv": "2023-10-02"
+    },
+    "GB": {
+      "tv": "2023-10-02"
+    },
+    "US": {
+      "tv": "2023-10-02"
+    }
+  },
+  "runtime": 24,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2024-03-19",
+      "episodeCount": 2,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2023-10-02",
+      "episodeCount": 37,
+      "name": "MF GHOST",
+      "overview": "",
+      "posterPath": "/q5g76XBFJ43cabcTnOo0kB8TTG0.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "MF GHOST",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "evM8AAQVLZ8",
+      "name": "Official Trailer 2 [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "xJaRegMCbNQ",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 40,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 283,
+          "logoPath": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+          "name": "Crunchyroll"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/154526-mf/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 283,
+          "logoPath": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+          "name": "Crunchyroll"
+        },
+        {
+          "id": 1968,
+          "logoPath": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+          "name": "Crunchyroll Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/154526-mf/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 283,
+          "logoPath": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+          "name": "Crunchyroll"
+        },
+        {
+          "id": 1968,
+          "logoPath": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+          "name": "Crunchyroll Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/154526-mf/watch?locale=US",
+      "rent": []
+    }
+  }
+}

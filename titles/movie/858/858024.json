@@ -1,0 +1,597 @@
+{
+  "backdropPath": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
+  "cast": [
+    {
+      "character": "Agnes",
+      "id": 1498158,
+      "name": "Jessie Buckley",
+      "profilePath": "/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
+    },
+    {
+      "character": "Will",
+      "id": 2326151,
+      "name": "Paul Mescal",
+      "profilePath": "/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
+    },
+    {
+      "character": "Mary",
+      "id": 1639,
+      "name": "Emily Watson",
+      "profilePath": "/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg"
+    },
+    {
+      "character": "Bartholomew",
+      "id": 1496392,
+      "name": "Joe Alwyn",
+      "profilePath": "/jAdaAeaDVYWlU8I5X5p5DuUI8Ii.jpg"
+    },
+    {
+      "character": "Hamnet",
+      "id": 3115247,
+      "name": "Jacobi Jupe",
+      "profilePath": "/wVpax8MOwdelnQILiDNoDkTzebU.jpg"
+    },
+    {
+      "character": "Hamlet",
+      "id": 1590759,
+      "name": "Noah Jupe",
+      "profilePath": "/xbswZN0SHgeCbyo5GQ0xfZKH3vs.jpg"
+    },
+    {
+      "character": "Judith",
+      "id": 4945576,
+      "name": "Olivia Lynes",
+      "profilePath": "/cao5MdKpOR0uCDIymGdIP4kG0rD.jpg"
+    },
+    {
+      "character": "Joan",
+      "id": 207040,
+      "name": "Justine Mitchell",
+      "profilePath": "/b8dmEYP6RbwLPL3HdKRcBTfEUPw.jpg"
+    },
+    {
+      "character": "John",
+      "id": 73287,
+      "name": "David Wilmot",
+      "profilePath": "/epb46N0iJyAmSOguMdFn6qQGSsy.jpg"
+    },
+    {
+      "character": "Rowan",
+      "id": 1723014,
+      "name": "Louisa Harland",
+      "profilePath": "/8uH0t3Y7saXoPTYiSGy8ZQn6s8B.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 122908,
+      "logoPath": "/iVPAyAXjzbHjzRamNcc1R8Ra7sD.png",
+      "name": "Hera Pictures"
+    },
+    {
+      "id": 1522,
+      "logoPath": "/8uaoEVgNxFH0R94O53gUiByahVr.png",
+      "name": "Neal Street Productions"
+    },
+    {
+      "id": 56,
+      "logoPath": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+      "name": "Amblin Entertainment"
+    },
+    {
+      "id": 197107,
+      "logoPath": null,
+      "name": "Book of Shadows"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-02-03",
+  "externalIds": {
+    "facebookId": "hamnetmovie",
+    "imdbId": "tt14905854",
+    "instagramId": "hamnetmovie",
+    "twitterId": "hamnetmovie",
+    "wikidataId": "Q122741016"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 60,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 858024,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Hamnet",
+  "overview": "اگنس و ویلیام شیکسپیر، پس از فوت پسرشان همنت توسط طاعون، حالا داغدار هستند و باید سعی کنند فرزند دیگرشان را سلامت و دور از هرگونه خطر نگه دارند.",
+  "posterPath": "/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+  "rating": 7.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-02-03",
+      "gapDays": 25,
+      "theatricalDate": "2026-01-09"
+    },
+    "US": {
+      "digitalDate": "2026-02-03",
+      "gapDays": 60,
+      "theatricalDate": "2025-12-05"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-02-03",
+      "premiere": "2025-10-11",
+      "theatrical": "2026-01-09"
+    },
+    "US": {
+      "digital": "2026-02-03",
+      "physical": "2026-03-03",
+      "premiere": "2025-08-29",
+      "theatrical": "2025-12-05",
+      "theatricalLimited": "2025-11-26"
+    }
+  },
+  "runtime": 125,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Keep your heart open.",
+  "theatricalDate": "2025-12-05",
+  "title": "Hamnet",
+  "translations": {
+    "faOverview": "اگنس و ویلیام شیکسپیر، پس از فوت پسرشان همنت توسط طاعون، حالا داغدار هستند و باید سعی کنند فرزند دیگرشان را سلامت و دور از هرگونه خطر نگه دارند.",
+    "faTitle": "همنت"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "lS3UMl4O1Xg",
+      "name": "William's Powerful Performance in the Tragedy of Hamlet",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "EWBuQBc0s1I",
+      "name": "Agnes Meets the Latin Tutor",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "9QlIDS0lIJI",
+      "name": "Jessie Buckley Best Actress Press Room Speech | 98th Oscars (2026)",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "xCKQZMSQ2xI",
+      "name": "Chloé Zhao on Cast and Crew Bringing Emotion to the Set of HAMNET",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "kntX92dpL3Q",
+      "name": "Jessie Buckley Wins the Leading Actress BAFTA for Hamnet | EE BAFTA Film Awards 2026",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "fI2of9JyZKo",
+      "name": "Hamnet Wins the BAFTA for Outstanding British Film | EE BAFTA Film Awards 2026",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "nL1aFyWEvVU",
+      "name": "Why author and screenplay co-writer Maggie O'Farrell wrote HAMNET.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "AbqBkcltHLU",
+      "name": "\"Bye\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "ZqGffamnFqw",
+      "name": "See the film everyone is talking about.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "QTO85RQccog",
+      "name": "Watch At Home Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "V6mxXxpN1b0",
+      "name": "\"Tell Me A Story\" - Extended Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "gi-LUBa8yhA",
+      "name": "\"That's what I love about movies.\" Bradley Cooper on Jessie Buckley's performance in Hamnet.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "jg18tGU_GZQ",
+      "name": "A Conversation with Composer Max Richter, Moderated by Finneas O’Connell",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ts4-rk0JUns",
+      "name": "Chloé Zhao on the quiet magic of intuitive storytelling.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "CPeNhnRmTWQ",
+      "name": "Shakespeare’s Globe Theatre welcomes the HAMNET cast home.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "QoIkJjTFbNo",
+      "name": "Chloé Zhao Reveals How She & Jessie Buckley Found Hamnet's Ending Four Days Before Wrap | BAFTA",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Drkw216D3Eo",
+      "name": "\"All The World Is A Stage\" Official Featurette",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "fAOH2KcNSz0",
+      "name": "Co-screenplay writer Maggie O’Farrell on bringing Agnes to life in HAMNET.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "40mZx4kwV18",
+      "name": "\"Glove\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "qg9VEE4yzXA",
+      "name": "Paul Mescal reflects on HAMNET at the Irish premiere.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "8H7lXudTEGM",
+      "name": "Jessie & Paul take us behind the scenes of HAMNET.",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "WRxVrY9dFAM",
+      "name": "Creating is healing.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "J_4jEacBliE",
+      "name": "Nature in HAMNET - Official Featurette",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "bNNRqHYsafA",
+      "name": "Jessie Buckley and Paul Mescal make the perfect pairing in HAMNET.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "b0rj8Lo8kmA",
+      "name": "Learning how everyone feels the love.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "mtF9WK9eVAc",
+      "name": "Exit strategy: Irish.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Rgf4vQQl6S4",
+      "name": "Shakespeare, but make it Paul Mescal.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "KidzPQIjGpM",
+      "name": "Share the experience of HAMNET on the big screen",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "lXNN2o_mAKM",
+      "name": "There's no place like home.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "eI4tGSaisnA",
+      "name": "Paul Mescal on why Shakespeare’s story still hits home today.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "G2boJ3xSrN4",
+      "name": "Jessie Buckley and Paul Mescal share memories from the set of HAMNET.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "skvq0hDfhGk",
+      "name": "Paul Mescal and Jessie Buckley read HAMNET by Maggie O'Farrell.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "I06-qKLtxCk",
+      "name": "Discover the untold love story of William and Agnes Shakespeare.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "-p9qT4y0M_M",
+      "name": "How Costume Design Breathes Heart Into the World of Hamnet | Dressed | Ep 12",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "1jG08Y4YC20",
+      "name": "To snack, or not to snack, that is the question?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "9Xk_F1rUP4E",
+      "name": "Heart",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "a9cHuVwKIqU",
+      "name": "\"We Three Meet Again\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "0vDwNqKms_Y",
+      "name": "“Grief Is What Connects Us” – Inside the Making of ‘Hamnet’",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "pylHe8ADrUA",
+      "name": "Building Hamnet: Designing Chloé Zhao’s Cinematic World - Reel Destinations",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "_BQlzMDKol0",
+      "name": "Acclaimed Audience Award",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "DmqKhXUePBc",
+      "name": "\"What Do You Wish To Do\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "QNy_0onRDSs",
+      "name": "Cinematic Event",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "fnALxXI75DQ",
+      "name": "\"When We Kiss\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "RRsz6wW-QXE",
+      "name": "\"I Have To Go\" Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "1TtpF6Q9fIM",
+      "name": "Featurette",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "Pyl8mQFCyUk",
+      "name": "Paul Mescal on embodying William Shakespeare for Hamnet",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "xYcgQMxQwmk",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "1Wc5aRZkL1s",
+      "name": "Q&A | TIFF 2025",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "E2xtmPkuksA",
+      "name": "Official Teaser Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 1735,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/858024-hamnet/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/858024-hamnet/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 331,
+          "logoPath": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+          "name": "FlixFling"
+        }
+      ]
+    }
+  }
+}

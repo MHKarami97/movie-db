@@ -1,0 +1,725 @@
+{
+  "backdropPath": "/uXgWbwxmCW6XZ3ylRThk9Sqhwwq.jpg",
+  "cast": [
+    {
+      "character": "Ida / The Bride / Mary Shelley",
+      "id": 1498158,
+      "name": "Jessie Buckley",
+      "profilePath": "/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
+    },
+    {
+      "character": "Frank",
+      "id": 3894,
+      "name": "Christian Bale",
+      "profilePath": "/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+    },
+    {
+      "character": "Jake Wiles",
+      "id": 133,
+      "name": "Peter Sarsgaard",
+      "profilePath": "/5UANyM4co2nwYPgSEmGeNlZRm7V.jpg"
+    },
+    {
+      "character": "Clyde",
+      "id": 37154,
+      "name": "John Magaro",
+      "profilePath": "/ah4Jm4Lmrgab9xdHwRId80S4REd.jpg"
+    },
+    {
+      "character": "Greta",
+      "id": 124377,
+      "name": "Jeannie Berlin",
+      "profilePath": "/sT1o2nVecNUgysnHV7g6KYTciXb.jpg"
+    },
+    {
+      "character": "Dr. Euphronious",
+      "id": 516,
+      "name": "Annette Bening",
+      "profilePath": "/kGslMAWcpv8MKzODhDRDkFE0uX7.jpg"
+    },
+    {
+      "character": "Ronnie Reed",
+      "id": 131,
+      "name": "Jake Gyllenhaal",
+      "profilePath": "/ct2Gh2sJSxd4yaMrSsqSt1HpIC3.jpg"
+    },
+    {
+      "character": "Myrna Malloy",
+      "id": 955,
+      "name": "Penélope Cruz",
+      "profilePath": "/n5SFgmvJSENQt8poE4qYacUnKOi.jpg"
+    },
+    {
+      "character": "Lupino",
+      "id": 31960,
+      "name": "Zlatko Burić",
+      "profilePath": "/2b9ErKvUwblnByewNMXqBtFEIzQ.jpg"
+    },
+    {
+      "character": "Officer Goodman",
+      "id": 163731,
+      "name": "Louis Cancelmi",
+      "profilePath": "/4MUGuoK0WbLsTt3sg2CD4OsLynZ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 206484,
+      "logoPath": null,
+      "name": "First Love Films"
+    },
+    {
+      "id": 174,
+      "logoPath": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+      "name": "Warner Bros. Pictures"
+    },
+    {
+      "id": 275188,
+      "logoPath": null,
+      "name": "In The Current Company"
+    },
+    {
+      "id": 216687,
+      "logoPath": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+      "name": "Domain Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-04-07",
+  "externalIds": {
+    "imdbId": "tt30851137",
+    "twitterId": "thebridefilm",
+    "wikidataId": "Q124735657"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "id": 1159831,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Bride!",
+  "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
+  "posterPath": "/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-03-06"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-03-06"
+    },
+    "US": {
+      "digitalDate": "2026-04-07",
+      "gapDays": 32,
+      "theatricalDate": "2026-03-06"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "theatrical": "2026-03-06"
+    },
+    "GB": {
+      "premiere": "2026-02-26",
+      "theatrical": "2026-03-06"
+    },
+    "US": {
+      "digital": "2026-04-07",
+      "theatrical": "2026-03-06",
+      "tv": "2026-05-23"
+    }
+  },
+  "runtime": 127,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Here comes the mother f*%#ing bride!",
+  "theatricalDate": "2026-03-06",
+  "title": "The Bride!",
+  "translations": {
+    "faTitle": "عروس!"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "-oLJmEFK14k",
+      "name": "Official American Sign Language Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "dUwoTM0Y-_k",
+      "name": "Frankenstein & Pretty Penny Romantic Proposal - Movie Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "coRJpX4HrSk",
+      "name": "Frankenstein Meets His Bride - Full Movie Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "9g9BrxvSpkA",
+      "name": "Joe Dante on THE BRIDE!",
+      "official": false,
+      "type": "Featurette"
+    },
+    {
+      "key": "hWIIrihudNw",
+      "name": "Exclusive Interview",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "6ZIji2PbswI",
+      "name": "Monstrous.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Unq0sPTi5m8",
+      "name": "The monster we’ve been waiting for!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "p0zqAy-TH0Y",
+      "name": "Not every union is holy.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "UMWQy32xTsk",
+      "name": "Maggie Gyllenhaal on working in IMAX and her new film, The Bride! | BFI in Conversation",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "tae_rP6rT8c",
+      "name": "Find the one who'll go on the run.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "qNP3-ozEVfw",
+      "name": "\"Desire\"",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "D0GaodfX8B0",
+      "name": "Disobedience.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "US5QbmEkeDg",
+      "name": "Life with her is ELECTRIFYING!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Ih3mkJHeeRQ",
+      "name": "\"Unapologetically wild\"",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "AzDZIDjDJWM",
+      "name": "“I thought the movie was AMAZING.”",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "IgPwvibPnWY",
+      "name": "Jessie Buckley and Maggie Gyllenhaal surprise fans before a screening of THE BRIDE!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "vwlgJIO06Wc",
+      "name": "The revolution is here!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "_CBdElr4whs",
+      "name": "In Cinemas Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "J0NFPlvs2h4",
+      "name": "In Cinemas Now",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "JCelE15x3N0",
+      "name": "You don’t want to miss it.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "cpkucx_70ns",
+      "name": "The Bride! is a WILD RIDE!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "tGRrM-gngds",
+      "name": "In the Screening Room with Maggie Gyllenhaal, Jessie Buckley and Christian Bale",
+      "official": false,
+      "type": "Featurette"
+    },
+    {
+      "key": "FMbPQrr30Yk",
+      "name": "The feeling you’ll have as you walk out of THE BRIDE! on Friday night.",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "i4F3oZYj6Mk",
+      "name": "Anybody in the market for a Bride!?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "CnRVm_aUdH8",
+      "name": "More picture, more electrifying action. See The Bride! in our 1.90:1 Expanded Aspect Ratio.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "aH_dg01ycc4",
+      "name": "LET IT OUT!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "AJVjri6rjio",
+      "name": "Nothing like you’ve ever seen before!",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "rtgme3hBDgM",
+      "name": "Christian Bale’s primal scream for The Bride.",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "74zuAX-3cJw",
+      "name": "Partner in crime.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "NtvQexmVZ-k",
+      "name": "Not The Bride of Frankenstein. Just THE BRIDE!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Q-5CUEtl51A",
+      "name": "\"Revenge Review\"",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "irvgDfAU7gM",
+      "name": "Everybody is screaming for The Bride.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "cKmmOPTh6nE",
+      "name": "World Premiere",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "-epV1JghLR8",
+      "name": "The dead have got something to say!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "VSBRdF-1i78",
+      "name": "Jessie Buckley as The Bride is undeniable.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "E69jPG7AEmU",
+      "name": "Reborn in London",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "3UJYoyopSKw",
+      "name": "I would prefer not to.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "8TT_PQx5gkM",
+      "name": "THE BRIDE! arrives in Fortnite. Play at 8532-9413-6963 for a limited time only.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "WG0-cUf09HM",
+      "name": "Listen closely. Credit: @asmrunity",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "wIpJByUUTr0",
+      "name": "The people love a monster.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Xx5Ci0qiAXE",
+      "name": "The monsters.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "GTxLhKcLIAU",
+      "name": "A love that survives death.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "GqUdHVFTpYA",
+      "name": "Leave a mark.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "J4um1jEcie4",
+      "name": "Breathing LIFE into the day!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "S6GXrQxizVY",
+      "name": "Maggie Gyllenhaal and Ryan Coogler: Writing, Directing, and IMAX | IN PROX S3E23",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "xD-G8QPdvq4",
+      "name": "Born again. Credit: @oatmilkmakeup",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "aabW5jg6Ua8",
+      "name": "A screen fit for a monster.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "C5A8kdZ3hdg",
+      "name": "EMERGENCY!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "_Kw6DkqZ5iQ",
+      "name": "All they have is each other.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ab4ZNdh6hDc",
+      "name": "Reborn on the weekend.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "e6iZtt98QkA",
+      "name": "WAKE UP! Get tickets now for The Bride",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "USMWKZsfZgQ",
+      "name": "Scream it to the heavens!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "EHk1Kc_tcKE",
+      "name": "Iconic characters REBORN.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "pO1vBpmqB2I",
+      "name": "Original. Radical. Punk rock.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "altYezitB5I",
+      "name": "Tickets on Sale Featurette",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "QO5J26IFyq0",
+      "name": "Behind the Scenes Featurette",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "t1SEttuwT5s",
+      "name": "Second chance.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "pdaepKpBQ7k",
+      "name": "In love with the monster.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "6CKvCLXvIjQ",
+      "name": "Back to life.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "4dx5XVaf9VU",
+      "name": "More alive than ever.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "wv521p8NUuU",
+      "name": "Are you ready?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "CLjRppw_Yh0",
+      "name": "In Cinemas March 4",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "QyLhkoGeSl4",
+      "name": "Official 1.90 Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "IhgcUArO3Uo",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "T7hEg42phqA",
+      "name": "Reinvigorated.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "KBPm7VlY5aU",
+      "name": "Official 1.90 IMAX® Teaser",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "LJraZRHhFwQ",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 701,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 629,
+          "logoPath": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+          "name": "OSN+"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1159831-the-bride/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1159831-the-bride/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1159831-the-bride/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

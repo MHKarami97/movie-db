@@ -1,0 +1,212 @@
+{
+  "backdropPath": "/y5haKgSz1hCDatwIOMuqZ1CFKPW.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 3522290,
+      "name": "Judit Polgár",
+      "profilePath": "/uTRhkISkM29jh0LPsNWEiSCsgUy.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 225958,
+      "name": "Garry Kasparov",
+      "profilePath": "/vOE9BQVsU6kYQjK2zRdexDNLZBH.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 3522296,
+      "name": "László Polgár",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 3522295,
+      "name": "Sofia Polgár",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 3522298,
+      "name": "Klára Polgár",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6397493,
+      "name": "Gustáv Font",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6397494,
+      "name": "Anna Rudolf",
+      "profilePath": "/9U3GwbXFWyghGc6NbQqOPUiRx3y.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6397497,
+      "name": "Jovanka Houska",
+      "profilePath": "/ywhffh26SFfK9SUSwAWSy5sYnY9.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 1571873,
+      "name": "Maurice Ashley",
+      "profilePath": "/wzgem9M4F73NIgA7lcbPE47A0Gz.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 6397491,
+      "name": "William Hartston",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 170137,
+      "logoPath": "/rRLKtEZOEDNSTjdjTNDuoeKaQNv.png",
+      "name": "Moxie Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-02-06",
+  "externalIds": {
+    "imdbId": "tt39162904",
+    "wikidataId": "Q137594246"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1596291,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "hu",
+      "name": "Hungarian"
+    }
+  ],
+  "originalTitle": "Queen of Chess",
+  "overview": "A Hungarian girl dreams of conquering international men’s chess. After a 15-year battle against world champion Garry Kasparov and her domineering father, Judit Polgár revolutionizes the sport’s patriarchal culture to become one of the greatest chess prodigies in history and the greatest woman chess player of all time.",
+  "posterPath": "/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg",
+  "rating": 7.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-06",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-02-06",
+      "premiere": "2026-01-27"
+    }
+  },
+  "runtime": 93,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Queen of Chess",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "8pmJgtLKBXg",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "fQWLTTV0EUg",
+      "name": "Meet the Artist 2026: Rory Kennedy on “Queen of Chess”",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 82,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1596291-queen-of-chess/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1596291-queen-of-chess/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1596291-queen-of-chess/watch?locale=US",
+      "rent": []
+    }
+  }
+}

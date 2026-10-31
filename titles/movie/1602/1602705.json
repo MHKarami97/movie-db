@@ -1,0 +1,209 @@
+{
+  "backdropPath": "/3RaVf9MWpB74kK8AtPJ7DJmfZNA.jpg",
+  "cast": [
+    {
+      "character": "Kefas",
+      "id": 5012920,
+      "name": "Millo Taslim",
+      "profilePath": "/sMnFeHnCX2lO9ml0BEgIpZxdS5q.jpg"
+    },
+    {
+      "character": "Simon",
+      "id": 2378595,
+      "name": "Agus Wibowo",
+      "profilePath": "/lOIpOKvcPe92PCN04iNizVPnfvN.jpg"
+    },
+    {
+      "character": "Angelina",
+      "id": 5972889,
+      "name": "Kathleen Thomas",
+      "profilePath": null
+    },
+    {
+      "character": "Wahyu",
+      "id": 2057255,
+      "name": "Willem Bevers",
+      "profilePath": "/5TnaOOqNc5KEoIUbQZ83qDwkNYZ.jpg"
+    },
+    {
+      "character": "Gabriel",
+      "id": 1001667,
+      "name": "Verdi Solaiman",
+      "profilePath": "/7ENr0tx8T2ofSYAMTTWfGs8w6d5.jpg"
+    },
+    {
+      "character": "Sabrina",
+      "id": 2137612,
+      "name": "Aqila Herby",
+      "profilePath": "/dIpfVfS9xkdmTMHsE2KfgL8CFhs.jpg"
+    },
+    {
+      "character": "Joy",
+      "id": 4577653,
+      "name": "Cleo Haura",
+      "profilePath": "/qqGVIBio3mcpctzP8KY114D6XJR.jpg"
+    },
+    {
+      "character": "Desi",
+      "id": 5893640,
+      "name": "Diandra Salsabila Lubis",
+      "profilePath": null
+    },
+    {
+      "character": "Romi",
+      "id": 3313171,
+      "name": "Jordan Omar",
+      "profilePath": "/ceCXkoZRtZvOiGJtXjp76Dj9DT2.jpg"
+    },
+    {
+      "character": "Boni",
+      "id": 5893634,
+      "name": "Halim Latuconsina",
+      "profilePath": "/fuP9R0ptY2KkCXe4iTuyMu5nbHH.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 123156,
+      "logoPath": "/aPiq8QRsgNiYNw1vTO3N2b162yD.png",
+      "name": "Buddy Buddy Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ID",
+      "name": "Indonesia"
+    }
+  ],
+  "digitalDate": "2026-01-29",
+  "externalIds": {
+    "imdbId": "tt39240255",
+    "wikidataId": "Q140306984"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1602705,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "id",
+      "name": "Indonesian"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "su",
+      "name": "Sundanese"
+    }
+  ],
+  "originalTitle": "Surat untuk Masa Mudaku",
+  "overview": "A rebellious teen and a reserved caretaker form an unlikely bond in an orphanage as they come to terms with their painful pasts.",
+  "posterPath": "/iqrp25kOrskrFDOKkKQWhFkI69e.jpg",
+  "rating": 7.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-01-29",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-01-29"
+    }
+  },
+  "runtime": 135,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "A Letter to My Youth",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "tmfnaXhkEoI",
+      "name": "Surat Untuk Masa Mudaku | Trailer Resmi | Netflix",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 28,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1602705-surat-untuk-masa-mudaku/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1602705-surat-untuk-masa-mudaku/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1602705-surat-untuk-masa-mudaku/watch?locale=US",
+      "rent": []
+    }
+  }
+}

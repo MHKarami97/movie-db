@@ -1,0 +1,147 @@
+{
+  "backdropPath": "/y0L94MzegJjIFCSEMThxZMfRHJg.jpg",
+  "cast": [
+    {
+      "character": "Marie",
+      "id": 2986668,
+      "name": "Mathilde Arcel",
+      "profilePath": "/ev7ShFvkPttMVlCfQU6dvNEEzmk.jpg"
+    },
+    {
+      "character": "Christian",
+      "id": 571346,
+      "name": "Carsten Bjørnlund",
+      "profilePath": "/bzTI0oG22MtSdDFVmIZc9zQsREx.jpg"
+    },
+    {
+      "character": "Karl",
+      "id": 3808916,
+      "name": "Thorbjørn Hedegaard",
+      "profilePath": null
+    },
+    {
+      "character": "Esther",
+      "id": 6145,
+      "name": "Marina Bouras",
+      "profilePath": "/rt1AiHFalbqdzJl5AmawndZYzn3.jpg"
+    },
+    {
+      "character": "Johanne",
+      "id": 2688704,
+      "name": "Mia Plantin",
+      "profilePath": null
+    },
+    {
+      "character": "Mrs. Berg",
+      "id": 1491453,
+      "name": "Sofia Nolsøe Mikkelsen",
+      "profilePath": "/IMldTVq89JOUO0J0vNPmnBUjUK.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 235,
+      "logoPath": "/obOynoztBEhDNfHsDXBqOuQLAZk.png",
+      "name": "Nordisk Film Denmark"
+    },
+    {
+      "id": 327,
+      "logoPath": "/vodjjKlAbwGeERPjrAhxZMBGPUc.png",
+      "name": "Nordisk Film Sweden"
+    },
+    {
+      "id": 2801,
+      "logoPath": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst"
+    },
+    {
+      "id": 310469,
+      "logoPath": null,
+      "name": "Nafta Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    {
+      "code": "LV",
+      "name": "Latvia"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34888026",
+    "wikidataId": "Q140743054"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1511780,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "da",
+      "name": "Danish"
+    }
+  ],
+  "originalTitle": "Kvinde ukendt",
+  "overview": "Marie, a former housekeeper, plans an extravagant dinner party for her engagement to the household's patriarch. As preparations unfold, hidden aspects of her past begin to surface, threatening to disrupt the celebration.",
+  "posterPath": "/ly8Zf4McOMane0caBwnmuft6TTM.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-10-17"
+    }
+  },
+  "runtime": 124,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Woman Unknown",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "K1kH_VhDzCM",
+      "name": "Teaser [Subtitled]",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

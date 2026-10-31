@@ -1,0 +1,196 @@
+{
+  "backdropPath": "/AtSVT5nSjToh2islkFfJOR0vXWn.jpg",
+  "cast": [
+    {
+      "character": "Siva",
+      "id": 1662028,
+      "name": "Santosh Soban",
+      "profilePath": "/wDyB2jzRlJHtkeevu9IS97m2pAP.jpg"
+    },
+    {
+      "character": "Mithra",
+      "id": 5072621,
+      "name": "Manasa Varanasi",
+      "profilePath": "/qvrrWwRu1RvS2K2fcCosxnadzqw.jpg"
+    },
+    {
+      "character": "Mithra's father",
+      "id": 559738,
+      "name": "Rajeev Kanakala",
+      "profilePath": "/29Czs1esSU744TOe3ddDzCuCa0g.jpg"
+    },
+    {
+      "character": "Shiva's father",
+      "id": 3280222,
+      "name": "Goparaju Ramana",
+      "profilePath": "/vRQKXftT1PXokqcfOKL9JjoiBht.jpg"
+    },
+    {
+      "character": "Mithra's mother",
+      "id": 1063793,
+      "name": "Sriranjini",
+      "profilePath": "/xD07vHvCB4NvxD5M0Scy1CByFJk.jpg"
+    },
+    {
+      "character": "Shankar",
+      "id": 1540764,
+      "name": "Yogi Babu",
+      "profilePath": "/4UMOPd8NqGfKp19VQHsnIzlSRUl.jpg"
+    },
+    {
+      "character": "Thumbathigam Sekar",
+      "id": 585086,
+      "name": "Livingston",
+      "profilePath": "/xDrvqJIDAsuDvsF9Nw7MWVcBHHb.jpg"
+    },
+    {
+      "character": "Karthik",
+      "id": 3356248,
+      "name": "Rishikanth",
+      "profilePath": "/7ThlIFeocFWWYa0boExL6NONR00.jpg"
+    },
+    {
+      "character": "Preethi",
+      "id": 5315307,
+      "name": "Fouzee",
+      "profilePath": "/1XBWxiUC34xtd2kUJTEWhUd4VR3.jpg"
+    },
+    {
+      "character": "Shailaja",
+      "id": 1630695,
+      "name": "Arthana Binu",
+      "profilePath": "/5lmAdV6stOfziwTtOtkyDRAjQZx.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33143854",
+    "wikidataId": "Q138298877"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1440735,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ta",
+      "name": "Tamil"
+    },
+    {
+      "code": "te",
+      "name": "Telugu"
+    }
+  ],
+  "originalTitle": "Couple Friendly",
+  "overview": "Couple Friendly follows the journey of a Telugu boy and girl who both reside in Chennai. Their paths cross under unique circumstances, and the story deals with the challenges they face in their careers and relationship. Set in a city where they don't speak their mother tongue, the film explores the emotional highs and lows of navigating life and love in an unfamiliar environment.",
+  "posterPath": "/kiKGBPQC6exxUbIrOMnDtuU4soC.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-02-13"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-02-13"
+    }
+  },
+  "runtime": 118,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-02-13",
+  "title": "Couple Friendly",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 8,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 119,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1440735-couple-friendly/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1440735-couple-friendly/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1440735-couple-friendly/watch?locale=US",
+      "rent": []
+    }
+  }
+}

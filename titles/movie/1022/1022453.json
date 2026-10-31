@@ -1,0 +1,180 @@
+{
+  "backdropPath": "/kCwmLYy9ZMto1eMH8BI9KcVVIH2.jpg",
+  "cast": [
+    {
+      "character": "Raju \"Rajasaab\" / Joker",
+      "id": 237045,
+      "name": "Prabhas",
+      "profilePath": "/u6RVP8ukgLaymeoi5VmX0JRAcCn.jpg"
+    },
+    {
+      "character": "Pekamedala Kanakaraju",
+      "id": 85881,
+      "name": "Sanjay Dutt",
+      "profilePath": "/70viNBvKHpX1kMZcfIwULqWnfdM.jpg"
+    },
+    {
+      "character": "Gangamma",
+      "id": 94567,
+      "name": "Zarina Wahab",
+      "profilePath": "/nY28L0JFjTlpIWdwt9qxO1p2HNn.jpg"
+    },
+    {
+      "character": "Bessy",
+      "id": 1830991,
+      "name": "Nidhhi Agerwal",
+      "profilePath": "/ptGhRQJPWdQhVVGMrSZvLXHWKlO.jpg"
+    },
+    {
+      "character": "Bhairavi",
+      "id": 1289455,
+      "name": "Malavika Mohanan",
+      "profilePath": "/ukA3kk56Eqhn8g42an73CgdpXC5.jpg"
+    },
+    {
+      "character": "Anitha",
+      "id": 1641604,
+      "name": "Riddhi Kumar",
+      "profilePath": "/kHFRGsX0HS3Viblm7Htns4lyJYn.jpg"
+    },
+    {
+      "character": "Dr. Padmabhushan",
+      "id": 35779,
+      "name": "Boman Irani",
+      "profilePath": "/5J7GiiNar9bg9rGYeA2L30JXE2W.jpg"
+    },
+    {
+      "character": "Ganagaraju",
+      "id": 585397,
+      "name": "Samuthirakani",
+      "profilePath": "/z8mU71yAUfVLgKWHorsTIsyQwnt.jpg"
+    },
+    {
+      "character": "Mangalam Babai",
+      "id": 565865,
+      "name": "VTV Ganesh",
+      "profilePath": "/5JomvpPx6PrExYcZAbHM1MoHjoZ.jpg"
+    },
+    {
+      "character": "Bessy's Aide",
+      "id": 1412713,
+      "name": "Saptagiri",
+      "profilePath": "/h8G2HkmuwDuEgJEIAoUBvN8dSwN.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 106829,
+      "logoPath": null,
+      "name": "People Media Factory"
+    },
+    {
+      "id": 239118,
+      "logoPath": null,
+      "name": "IVY Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt23790696",
+    "twitterId": "@rajasaabmovie",
+    "wikidataId": "Q124301053"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1022453,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "te",
+      "name": "Telugu"
+    }
+  ],
+  "originalTitle": "ది రాజాసాబ్",
+  "overview": "Seeking his lost grandfather, a young man enters a haunted mansion and awakens a family curse powerful enough to upend both his life and reality.",
+  "posterPath": "/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg",
+  "rating": 4.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-01-08"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-01-08"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-01-08"
+    },
+    "US": {
+      "theatrical": "2026-01-08"
+    }
+  },
+  "runtime": 186,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-01-08",
+  "title": "The Rajasaab",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "YFZMBqyXkqQ",
+      "name": "The RajaSaab Glimpse",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 37,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1022453/watch?locale=US",
+      "rent": []
+    }
+  }
+}

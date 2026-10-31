@@ -1,0 +1,137 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "",
+      "id": 3474855,
+      "name": "Ghassan Ismail",
+      "profilePath": "/fsenoeBqzS52ZFcP2tAjYrwNP3T.jpg"
+    },
+    {
+      "character": "",
+      "id": 3078823,
+      "name": "Hind Nizar",
+      "profilePath": "/oPM8zSzcb6At9P3HXxkLzvoZs4C.jpg"
+    },
+    {
+      "character": "",
+      "id": 3689859,
+      "name": "Bakr Khalid",
+      "profilePath": "/slFXbtNrduRBNcH6nHoTTkb6Da9.jpg"
+    },
+    {
+      "character": "",
+      "id": 3978444,
+      "name": "Omaima Jawad Al Shukrchi",
+      "profilePath": "/9Bt1oluSQmgfVkYdXIWxfKtLlbY.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 252111,
+      "logoPath": "/b4GLzdVhMBquYPW2SvTx7zKbKNU.png",
+      "name": "AWS Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IQ",
+      "name": "Iraq"
+    }
+  ],
+  "digitalDate": "2027-02-08",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-02-08",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 338486,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-02-08",
+    "episodeNumber": 1,
+    "id": 7949440,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "حكاية جديدة",
+  "overview": "",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-02-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-02-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-02-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-02-08",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-02-08"
+    },
+    "CN": {
+      "tv": "2027-02-08"
+    },
+    "GB": {
+      "tv": "2027-02-08"
+    },
+    "US": {
+      "tv": "2027-02-08"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-02-08",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "حكاية جديدة",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

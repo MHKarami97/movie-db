@@ -1,0 +1,486 @@
+{
+  "backdropPath": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+  "cast": [
+    {
+      "character": "Cole Reed",
+      "id": 976,
+      "name": "Jason Statham",
+      "profilePath": "/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg"
+    },
+    {
+      "character": "Angie Ellis",
+      "id": 82809,
+      "name": "Annabelle Wallis",
+      "profilePath": "/2ZmO2Zz9TcR0rmSJHOkivcu0heR.jpg"
+    },
+    {
+      "character": "Captain Marko Madsen",
+      "id": 141876,
+      "name": "Roland Møller",
+      "profilePath": "/bF7wrJ5mrIhSwyi6ylhyQWj9BoN.jpg"
+    },
+    {
+      "character": "Tibu Campallo",
+      "id": 178622,
+      "name": "Ramon Tikaram",
+      "profilePath": "/wtBLiI8tzeqPLMB9uswkyFhChva.jpg"
+    },
+    {
+      "character": "Mateo Pineda",
+      "id": 1156305,
+      "name": "Arnas Fedaravičius",
+      "profilePath": "/7WfcGugvkuPqEzu0cUJBeJPt1lD.jpg"
+    },
+    {
+      "character": "Taran",
+      "id": 1033691,
+      "name": "Jason Wong",
+      "profilePath": "/tt3D1PAoB8Yf4jPCovnhlP4pvL3.jpg"
+    },
+    {
+      "character": "Captain Adam Spencer",
+      "id": 76215,
+      "name": "Adrian Lester",
+      "profilePath": "/xyRB9aykTFtI42Ce8xFKZDCsHYd.jpg"
+    },
+    {
+      "character": "Kameron Campallo",
+      "id": 2223751,
+      "name": "Chaneil Kular",
+      "profilePath": "/b6TmM2wcVntDMJGZWQM3ftshhIi.jpg"
+    },
+    {
+      "character": "BK Lobby Businessman",
+      "id": 1712829,
+      "name": "Andrew John Tait",
+      "profilePath": "/zwRwArmNyMTjXTJQopegK0kL439.jpg"
+    },
+    {
+      "character": "Jaran Daniles",
+      "id": 1917917,
+      "name": "Simon Kluth",
+      "profilePath": "/tk4Iwjm5z3G4bQRebSOpGopx6f0.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 218150,
+      "logoPath": null,
+      "name": "Punch Palace Productions"
+    },
+    {
+      "id": 73492,
+      "logoPath": "/bQzrYnomE5hIRJMxEy7e2SCYew3.png",
+      "name": "MadRiver Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-09-08",
+  "externalIds": {
+    "facebookId": "MutinyMovie",
+    "imdbId": "tt32338669",
+    "instagramId": "mutinymovie",
+    "twitterId": "mutinymovie",
+    "wikidataId": "Q125878994"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 18,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1288445,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Mutiny",
+  "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+  "posterPath": "/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+  "rating": 7.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-20"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-04"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-21"
+    },
+    "US": {
+      "digitalDate": "2026-09-08",
+      "gapDays": 18,
+      "theatricalDate": "2026-08-21"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-08-20"
+    },
+    "CN": {
+      "theatrical": "2026-09-04"
+    },
+    "GB": {
+      "theatrical": "2026-08-21"
+    },
+    "US": {
+      "digital": "2026-09-08",
+      "theatrical": "2026-08-21"
+    }
+  },
+  "runtime": 96,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "There's blood in the water.",
+  "theatricalDate": "2026-08-21",
+  "title": "Mutiny",
+  "translations": {
+    "faTitle": "شورش"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "c38ogNyQe3g",
+      "name": "“Die Hard on the high seas.”",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "pz2lYdhm5Gk",
+      "name": "Moments that will make you STAY-tham",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "e4AzAqWaQyg",
+      "name": "The plan: VENGEANCE. You down?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "t1zn2_bSRtQ",
+      "name": "Full speed ahead.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Tvg6PDnoSaA",
+      "name": "Rough day? You should see the other guys.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "KKx-Bckoqdo",
+      "name": "Hear it from Statham Nation themselves.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "RBrY2UDV5GM",
+      "name": "Remember the name: JASON MF’IN STATHAM.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9TphBN3mbSk",
+      "name": "The mayhem meal",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "nCdqYxKGpv4",
+      "name": "Jason Statham and Annabelle Wallis on a MF boat",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "nn2zi9ELu48",
+      "name": "F*ck around and find out. Only in theaters in ONE WEEK.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ZAe2qKPMxFM",
+      "name": "A getaway so good, it hurts.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "WYryKpBj_Os",
+      "name": "ONE WEEK until vengeance comes on board.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "3vc6NCSL6p4",
+      "name": "Jason Statham stars in Mutiny",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "3bVRlJBhHAs",
+      "name": "Check out the highlights from the MUTINY Hang Challenge.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "7loXKUHUdwE",
+      "name": "Jason Statham and Annabelle Wallis star in Mutiny",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "xM9o-WmjReM",
+      "name": "His toughest job yet.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "b1GRq0QvA68",
+      "name": "Eyes to the skies.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Lx5W4XRRTZM",
+      "name": "Official Clip ‘Face Off'",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "Qxo-pcECJxk",
+      "name": "Hook, line, and sinker.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "hn-I_sJtsco",
+      "name": "See Jason Statham & Annabelle Wallis in Mutiny",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Lm_i8NC1hyo",
+      "name": "Jason Statham & Annabelle Wallis star in Mutiny",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "0QsZHcO6BYY",
+      "name": "Official Clip ‘Ambush'",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "ptJPjhnUWkw",
+      "name": "PUSH THE F*CKING BUTTON.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "MXEbyDvqliQ",
+      "name": "Special Feature 'Behind The Scenes'",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "hfDf-dn2_OQ",
+      "name": "He makes it look so easy.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "vd1toiNL8P0",
+      "name": "Mayday, mayday.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "NS9HxYwxXrQ",
+      "name": "Jason Statham doesn't do small.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "XDEtpedO1T0",
+      "name": "Tools of the trade.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Y_sD9O3xu34",
+      "name": "Catch Jason Statham and Annabelle Wallis in Mutiny",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "Cy3UEwfdsz0",
+      "name": "Jason Statham charges in for Mutiny",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "9D7-U3rxppU",
+      "name": "Bow down.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "aQ7Glkzba-8",
+      "name": "Greatest to ever do it.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "2Iqvbe98Gb4",
+      "name": "Official UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "KWyElOAgcPM",
+      "name": "Adrenaline on tap. Jason Statham ups the ante in Mutiny.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "2GD2uLTGQzg",
+      "name": "All hands on deck. We’re officially ONE MONTH away from Mutiny.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "eyUK6Cvi-r0",
+      "name": "Fast car, faster hands. Catch these hands in Mutiny.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "MPyXlWTZ32E",
+      "name": "Official Trailer 2",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "TosExIUHD1M",
+      "name": "This one’s for you.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "DNOmEiLNwJ0",
+      "name": "Stay ready.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "l-RHef0IV04",
+      "name": "Spelling it out for you.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "OwltW9kxSRg",
+      "name": "The hits keep coming.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ZMMYJemXOX4",
+      "name": "First round pick: Jason Statham.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "dzKeYuG5kvI",
+      "name": "No hesitation, no mercy.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "x29173yRDXw",
+      "name": "Locked in.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "FKSdXH89jbo",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 996,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1288445-mutiny/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

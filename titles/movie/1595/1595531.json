@@ -1,0 +1,179 @@
+{
+  "backdropPath": "/sFAfYxI5lVQprCbtlrq2z5fQB62.jpg",
+  "cast": [
+    {
+      "character": "Othello",
+      "id": 16752,
+      "name": "David Harewood",
+      "profilePath": "/kjWRYwRGQco0C4p2iIh2RV86fi7.jpg"
+    },
+    {
+      "character": "Iago",
+      "id": 13014,
+      "name": "Toby Jones",
+      "profilePath": "/1qNisdp4f1KstdfvAgYXMdrhwfk.jpg"
+    },
+    {
+      "character": "Desdemona",
+      "id": 211993,
+      "name": "Caitlin FitzGerald",
+      "profilePath": "/zwtbLjCsThiD4MlnELnYKzUKCqZ.jpg"
+    },
+    {
+      "character": "Emilia",
+      "id": 21679,
+      "name": "Vinette Robinson",
+      "profilePath": "/bGX5h30ozEZb5PQuNrXt0gbOcQF.jpg"
+    },
+    {
+      "character": "Michael Cassio",
+      "id": 103351,
+      "name": "Luke Treadaway",
+      "profilePath": "/kAIfKIuyucJsiMHeEAkavxTnMpi.jpg"
+    },
+    {
+      "character": "Roderigo",
+      "id": 2857560,
+      "name": "Tom Byrne",
+      "profilePath": "/9S1yloi72b3mElexjwABdLCwznR.jpg"
+    },
+    {
+      "character": "Gratiano",
+      "id": 3192952,
+      "name": "David Ahmad",
+      "profilePath": null
+    },
+    {
+      "character": "Nicos",
+      "id": 2808717,
+      "name": "Gethin Alderman",
+      "profilePath": "/jbISkXW38PS2pULiAByaN6rNDRE.jpg"
+    },
+    {
+      "character": "Montano",
+      "id": 2692344,
+      "name": "Ewan Black",
+      "profilePath": null
+    },
+    {
+      "character": "Telemachos",
+      "id": 3722625,
+      "name": "Jonathan Cobb",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 288829,
+      "logoPath": null,
+      "name": "Chris Harper Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39092602"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1595531,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Othello",
+  "overview": "Moorish general Othello is manipulated into thinking that his new wife Desdemona has been carrying on an affair with his lieutenant Michael Cassio when in reality it's all part of a scheme orchestrated by bitter ensign Iago. Filmed live at the Theatre Royal Haymarket in London especially for the big screen.",
+  "posterPath": "/bT1ytTU75H6mM6ScqMyPgb4R3T9.jpg",
+  "rating": 3.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-03-04"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-03-04"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2026-03-04"
+    },
+    "US": {
+      "theatricalLimited": "2026-03-04"
+    }
+  },
+  "runtime": 164,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-03-04",
+  "title": "Othello",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "MMFenDIr96Q",
+      "name": "OTHELLO - Cinema Trailer (David Harewood, Toby Jones & Caitlin FitzGerald)",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2420,
+          "logoPath": "/tZwYeFngp1uSgncqVbUycz51R3S.png",
+          "name": "Marquee TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1595531-othello/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2420,
+          "logoPath": "/tZwYeFngp1uSgncqVbUycz51R3S.png",
+          "name": "Marquee TV Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1595531-othello/watch?locale=US",
+      "rent": []
+    }
+  }
+}

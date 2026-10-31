@@ -1,0 +1,281 @@
+{
+  "backdropPath": "/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
+  "cast": [
+    {
+      "character": "Renee",
+      "id": 1520844,
+      "name": "Lizzy Greene",
+      "profilePath": "/8aXiulJYsyO5vbOtU11QjMtyIJd.jpg"
+    },
+    {
+      "character": "Candace Dalton",
+      "id": 222141,
+      "name": "Megan Boone",
+      "profilePath": "/pNLQpWTCX7WgNLfR7aYHQDg9Wod.jpg"
+    },
+    {
+      "character": "Apothecary",
+      "id": 1827955,
+      "name": "Sky Katz",
+      "profilePath": "/xhvma0NjQh8rD5sLfkWIeYt8dAl.jpg"
+    },
+    {
+      "character": "Dick Jones",
+      "id": 58428,
+      "name": "Philip Winchester",
+      "profilePath": "/oc7lc2d98lM393blvmFfAGnXSMf.jpg"
+    },
+    {
+      "character": "Dagger",
+      "id": 3042038,
+      "name": "Alix Villaret",
+      "profilePath": "/yUJZgLhUb3xy8vkWOS3gS9qdsot.jpg"
+    },
+    {
+      "character": "Rubicon",
+      "id": 5739086,
+      "name": "Ollie Roddy",
+      "profilePath": "/oty5qsTkqEw4zrLsQgClhth9tR7.jpg"
+    },
+    {
+      "character": "Caliber",
+      "id": 3962878,
+      "name": "Kaine Buffonge",
+      "profilePath": "/jSYyaNljaZi7ISJX0khsdm6OLXu.jpg"
+    },
+    {
+      "character": "Analyst",
+      "id": 5858810,
+      "name": "Will Pierson",
+      "profilePath": null
+    },
+    {
+      "character": "Vlad Kurchenko",
+      "id": 119224,
+      "name": "Jonas Armstrong",
+      "profilePath": "/7Ia8Dfhqa2bH43NeKSZiPZ9wHAF.jpg"
+    },
+    {
+      "character": "",
+      "id": 38664,
+      "name": "Sullivan Stapleton",
+      "profilePath": "/vWadhfczxktoYQBC6TaAk6bE6Ci.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 177095,
+      "logoPath": "/nfwWCvMNaK687bjyM7un8p7ilz0.png",
+      "name": "SP Media Group"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-01-13",
+  "externalIds": {
+    "imdbId": "tt38238651",
+    "wikidataId": "Q140225877"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 1584215,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Internship",
+  "overview": "A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA fights back with deadly force.",
+  "posterPath": "/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-02-02",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-01-13",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-02-02"
+    },
+    "US": {
+      "digital": "2026-01-13"
+    }
+  },
+  "runtime": 91,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Internship",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "uXRFha7MLTM",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 148,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 531,
+          "logoPath": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+          "name": "Paramount Plus"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        },
+        {
+          "id": 582,
+          "logoPath": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        },
+        {
+          "id": 2303,
+          "logoPath": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "id": 2304,
+          "logoPath": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+          "name": "Paramount Plus Basic with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1584215-the-internship/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1584215-the-internship/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 331,
+          "logoPath": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+          "name": "FlixFling"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

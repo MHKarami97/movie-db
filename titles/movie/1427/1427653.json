@@ -1,0 +1,254 @@
+{
+  "backdropPath": "/pkSqSzciwotIgrGRHVtrWRX3wo.jpg",
+  "cast": [
+    {
+      "character": "Benji",
+      "id": 1185756,
+      "name": "Lloyd Eyre-Morgan",
+      "profilePath": "/1AqrwWESHz44u1869O6SrKjawje.jpg"
+    },
+    {
+      "character": "Jake",
+      "id": 4136886,
+      "name": "David Tag",
+      "profilePath": "/jJXH888BxthovMpxMj0FogQvSW9.jpg"
+    },
+    {
+      "character": "Kieran",
+      "id": 88322,
+      "name": "Liam Boyle",
+      "profilePath": null
+    },
+    {
+      "character": "Ryan",
+      "id": 3865639,
+      "name": "Tyler Conti",
+      "profilePath": "/zBnCIJngqfaWWVQjy9EOhAhMNkC.jpg"
+    },
+    {
+      "character": "Jackie",
+      "id": 1546864,
+      "name": "Kerry Howard",
+      "profilePath": "/xF2Pru9y0q3UVlTW9QezySG7vRR.jpg"
+    },
+    {
+      "character": "Janet",
+      "id": 85073,
+      "name": "Lorraine Stanley",
+      "profilePath": "/j7k3jTWIrRUvTfObm7iSCab1vNo.jpg"
+    },
+    {
+      "character": "Junger Jake",
+      "id": 3777422,
+      "name": "Jacob Partali",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 268856,
+      "logoPath": null,
+      "name": "Punk Spirit Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35820335",
+    "wikidataId": "Q133500655"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1427653,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Departures",
+  "overview": "It’s instant chemistry when Benji encounters Jake at an airport departures gate. Their on-going relationship unfolds through intimate trips to Amsterdam, revealing a complex power dynamic.",
+  "posterPath": "/gIcGPEjQmC6S2HfMHw4zTcAVMJz.jpg",
+  "rating": 6.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-17"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-03-15",
+      "theatrical": "2026-04-17"
+    }
+  },
+  "runtime": 82,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "They say the best way to move forward is to go back...",
+  "theatricalDate": "2026-04-17",
+  "title": "Departures",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "s2LLsEmk7fc",
+      "name": "Official (redband) Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "rXBZLF2YvTA",
+      "name": "International Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "nO2qxgKDDbs",
+      "name": "Festival Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1427653-departures/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 224,
+          "logoPath": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+          "name": "BFI Player"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2174,
+          "logoPath": "/ugFLagb0elt6ssH89oY85UxXd4d.png",
+          "name": "Strand Releasing Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1427653-departures/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

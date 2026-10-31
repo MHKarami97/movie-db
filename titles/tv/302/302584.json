@@ -1,0 +1,100 @@
+{
+  "backdropPath": "/xVjpLjsyJv3Q7uqnplKKGe7N4zt.jpg",
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2025-10-09",
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "id": 302584,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-29",
+    "episodeNumber": 56,
+    "id": 6587888,
+    "name": "Episode 56",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-05",
+    "episodeNumber": 57,
+    "id": 6587889,
+    "name": "Episode 57",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "乐乐课堂：红楼梦",
+  "overview": "",
+  "posterPath": "/5w4B12fan3W52IblB5h0fpZ6oZe.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-10-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2025-10-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-10-09",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-09",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2025-10-09"
+    },
+    "CN": {
+      "tv": "2025-10-09"
+    },
+    "GB": {
+      "tv": "2025-10-09"
+    },
+    "US": {
+      "tv": "2025-10-09"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2025-10-09",
+      "episodeCount": 108,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "乐乐课堂：红楼梦",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

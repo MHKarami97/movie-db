@@ -1,0 +1,123 @@
+{
+  "backdropPath": "/pY8W4m3JjSPa97aOYpbggMCKTJE.jpg",
+  "cast": [
+    {
+      "character": "",
+      "id": 51988,
+      "name": "Lizzy Caplan",
+      "profilePath": "/cHs9pPpjcEMpWrGmrAYAn0QOE78.jpg"
+    },
+    {
+      "character": "",
+      "id": 139310,
+      "name": "Lucy DeVito",
+      "profilePath": "/ilsebP0Rv9DEpersonvY9WF68eN.jpg"
+    },
+    {
+      "character": "",
+      "id": 32600,
+      "name": "John Stamos",
+      "profilePath": "/5hFEsxkqI6uGa9ltX2soVqt8r1M.jpg"
+    },
+    {
+      "character": "",
+      "id": 1624486,
+      "name": "Christine Ko",
+      "profilePath": "/KWbFpptHRuAye99Insr3q6rn8p.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 179256,
+      "logoPath": "/xsUozoS7ZAHgGpuAnYbibnLu6kd.png",
+      "name": "Jersey Films 2nd Avenue"
+    },
+    {
+      "id": 302584,
+      "logoPath": null,
+      "name": "Asbury Point Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35893068",
+    "instagramId": "dragthemovie",
+    "wikidataId": "Q138035674"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1451238,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Drag",
+  "overview": "A routine robbery at a rural house turns into a nightmare for two amateur burglars when one of them throws their back out. Things spiral out of control as they try to make it out before the homeowner returns.",
+  "posterPath": "/64Ny6F2RpcGociNnRqx27sESU8N.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-01-29"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-08-28"
+    },
+    "US": {
+      "premiere": "2026-03-13",
+      "theatrical": "2027-01-29"
+    }
+  },
+  "runtime": 86,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Back pain. It's all in your head.",
+  "theatricalDate": "2027-01-29",
+  "title": "Drag",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

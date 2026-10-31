@@ -1,0 +1,196 @@
+{
+  "backdropPath": "/16pzCxNJ6pV6kI9hvM1eLn0KtuO.jpg",
+  "cast": [
+    {
+      "character": "Self - Writer / Director",
+      "id": 10828,
+      "name": "Guillermo del Toro",
+      "profilePath": "/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg"
+    },
+    {
+      "character": "Self - Victor Frankenstein",
+      "id": 25072,
+      "name": "Oscar Isaac",
+      "profilePath": "/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+    },
+    {
+      "character": "Self - Producer",
+      "id": 44138,
+      "name": "J. Miles Dale",
+      "profilePath": "/xLKh0iLXHHusu9AbxMM9hdWXtVM.jpg"
+    },
+    {
+      "character": "Self - Producer",
+      "id": 19282,
+      "name": "Scott Stuber",
+      "profilePath": "/BIpxpQaS4v6eukU3Mgjc9KBf0l.jpg"
+    },
+    {
+      "character": "Self - The Creature",
+      "id": 2034418,
+      "name": "Jacob Elordi",
+      "profilePath": "/9FGS8AGjVNtpWuUeoipYWR23sRZ.jpg"
+    },
+    {
+      "character": "Self - William Frankenstein",
+      "id": 3631223,
+      "name": "Felix Kammerer",
+      "profilePath": "/T12faHW0QXunSZbv6YNmDWG7bC.jpg"
+    },
+    {
+      "character": "Self - Elizabeth",
+      "id": 1137824,
+      "name": "Mia Goth",
+      "profilePath": "/rwko7XVaKFcJH1dtAIIsrgLMzHb.jpg"
+    },
+    {
+      "character": "Self - Harlander",
+      "id": 27319,
+      "name": "Christoph Waltz",
+      "profilePath": "/jMvLGCVXLaBqjRLf5olyvEucZob.jpg"
+    },
+    {
+      "character": "Self - Costume Designer",
+      "id": 213644,
+      "name": "Kate Hawley",
+      "profilePath": "/wuZr3Fmx8joPP96CGeVnuTzJgtD.jpg"
+    },
+    {
+      "character": "Self - Creature Design",
+      "id": 1674252,
+      "name": "Mike Hill",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2025-11-07",
+  "externalIds": {
+    "imdbId": "tt38906516",
+    "wikidataId": "Q136764309"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1576287,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Frankenstein: The Anatomy Lesson",
+  "overview": "Go deep behind the scenes with visionary filmmaker Guillermo del Toro and the \"Frankenstein\" cast and crew as they give new life to the classic tale.",
+  "posterPath": "/l1F9EIwShcQX7kmnqucIBsXUG5S.jpg",
+  "rating": 7.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-11-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-11-07",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-07",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2025-11-07"
+    },
+    "GB": {
+      "digital": "2025-11-07"
+    },
+    "US": {
+      "digital": "2025-11-07"
+    }
+  },
+  "runtime": 45,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Frankenstein: The Anatomy Lesson",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "CEQcnXrOJ7w",
+      "name": "Guillermo del Toro Behind the Scenes of Frankenstein with Oscar Isaac & Jacob Elordi | Netflix",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 31,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1576287-frankenstein-the-anatomy-lesson/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1576287-frankenstein-the-anatomy-lesson/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1576287-frankenstein-the-anatomy-lesson/watch?locale=US",
+      "rent": []
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "backdropPath": "/l4xqxKS7nlOni6bnTHWi3USyp4o.jpg",
+  "cast": [
+    {
+      "character": "Chirumamilla Sita Krishna aka CSK",
+      "id": 4210319,
+      "name": "Pari Elavazhagan",
+      "profilePath": "/nHjoeMaugAQJN0t5IRpwaIgUxaF.jpg"
+    },
+    {
+      "character": "Magic Diana D'Souza",
+      "id": 4446230,
+      "name": "Ramya Ranganathan",
+      "profilePath": "/8yRztudKzhaigLfiIgPcSHTZFvg.jpg"
+    },
+    {
+      "character": "Chirumamilla Adinarayana Bhaskar",
+      "id": 1321712,
+      "name": "Chetan",
+      "profilePath": "/jE66LoKC6ctmSLitdtIQUOrpTkI.jpg"
+    },
+    {
+      "character": "Sarala",
+      "id": 584134,
+      "name": "Roja Selvamani",
+      "profilePath": "/vAPBxryYv76xjY3Ra7NavnFpUCy.jpg"
+    },
+    {
+      "character": "Bangalore Baba",
+      "id": 4391337,
+      "name": "Gopi Aravindh",
+      "profilePath": "/8P89xd3QgaYPyPYTctlfBqkJgMe.jpg"
+    },
+    {
+      "character": "Mangababu",
+      "id": 1329460,
+      "name": "Cell Murugan",
+      "profilePath": "/iPG3k08Bs4mIIr3KWv2kvuIvvBZ.jpg"
+    },
+    {
+      "character": "Thanisha",
+      "id": 4506805,
+      "name": "Nikhila Sankar",
+      "profilePath": "/38cupkoH2FQ47ycgQidLXBZMFPC.jpg"
+    },
+    {
+      "character": "Sathyavathi",
+      "id": 3565507,
+      "name": "Ismath Banu",
+      "profilePath": "/1pBbJfciRFwS4WPqFa9PsNHqPOX.jpg"
+    },
+    {
+      "character": "Chirumamilla Chiranjeevi Shankar",
+      "id": 5910086,
+      "name": "Sudharshan Gandhy",
+      "profilePath": null
+    },
+    {
+      "character": "Clifton",
+      "id": 3389558,
+      "name": "Abishek Joseph George",
+      "profilePath": "/2CixcEaF2Tw9QUcs12eZJJSjEWD.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 194234,
+      "logoPath": null,
+      "name": "Million Dollar Studios"
+    },
+    {
+      "id": 290474,
+      "logoPath": null,
+      "name": "Neo Castle Creation"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt39300072",
+    "wikidataId": "Q140533415"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1607634,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ta",
+      "name": "Tamil"
+    }
+  ],
+  "originalTitle": "அன்பே டயானா",
+  "overview": "Set in Perambur, a local Telugu youth falls for an Anglo-Indian girl, sparking a chaotic and humorous clash of cultures between their families.",
+  "posterPath": "/201CEvG6ayNj71iSLxxEk7pUv0N.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 150,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Anbe Diana",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "gcXw7BMSfIQ",
+      "name": "Anbe Diana Trailer | Pari Elavazhagan, Ramya Ranganathan, Roja | Bharath Sankar",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1607634/watch?locale=US",
+      "rent": [
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ]
+    }
+  }
+}

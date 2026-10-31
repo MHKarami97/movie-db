@@ -1,0 +1,177 @@
+{
+  "backdropPath": "/juGU6Im5v4L8tpuqPVEDatwwfio.jpg",
+  "cast": [
+    {
+      "character": "Mara",
+      "id": 5767700,
+      "name": "Sara Chripáková",
+      "profilePath": "/1FF3VpX1rTtshyW6IR1Enqdu5Sb.jpg"
+    },
+    {
+      "character": "Alexander",
+      "id": 2312496,
+      "name": "Jozef Pantlikáš",
+      "profilePath": "/kJTLTGkscA12EQgpvFo2oxHaibz.jpg"
+    },
+    {
+      "character": "Kata",
+      "id": 5767702,
+      "name": "Katarína Babejová",
+      "profilePath": null
+    },
+    {
+      "character": "Jarmila",
+      "id": 3949563,
+      "name": "Vladimíra Štefániková",
+      "profilePath": "/uODJkokX31b3MMKonV3AUqFzrpM.jpg"
+    },
+    {
+      "character": "Vlado",
+      "id": 1515984,
+      "name": "Michal Soltész",
+      "profilePath": "/kK7UsIHc9S72fjEUvLoryr9iHwJ.jpg"
+    },
+    {
+      "character": "Pop",
+      "id": 2701344,
+      "name": "Vlado Čema",
+      "profilePath": "/aMQiI8SkHq09PRT9q1H7OQBFWgu.jpg"
+    },
+    {
+      "character": "Hudák",
+      "id": 1438540,
+      "name": "Stanislav Pitoňák",
+      "profilePath": "/qz2BTXlWwZmMoeN6ovPyxhThlCj.jpg"
+    },
+    {
+      "character": "Anna",
+      "id": 3419704,
+      "name": "Světlana Škovranová",
+      "profilePath": null
+    },
+    {
+      "character": "Lempeľ",
+      "id": 130910,
+      "name": "Jevgenij Libezňuk",
+      "profilePath": "/iD52NLDIdcl24NTMYaomhSrAGmP.jpg"
+    },
+    {
+      "character": "Karol",
+      "id": 2958261,
+      "name": "Igor Latta",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 91847,
+      "logoPath": "/bg5eiTeAFIxOseZwi5mSdQpdcLL.png",
+      "name": "Silverart"
+    },
+    {
+      "id": 24860,
+      "logoPath": "/lsocLEGyTX7agkfApaBef36tIrL.png",
+      "name": "Cineart TV Prague"
+    },
+    {
+      "id": 140170,
+      "logoPath": "/mOsL5XHNYCDnbWi7BXdYZP4ZKyP.png",
+      "name": "Harine Films"
+    },
+    {
+      "id": 242150,
+      "logoPath": "/4wdfYJjW1yd4lLWWdYEHV0snxlx.png",
+      "name": "The Y-House"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    {
+      "code": "PL",
+      "name": "Poland"
+    },
+    {
+      "code": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "facebookId": "filmpotopa",
+    "imdbId": "tt38629827",
+    "instagramId": "filmpotopa",
+    "wikidataId": "Q139881235"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "id": 1567441,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "sk",
+      "name": "Slovak"
+    }
+  ],
+  "originalTitle": "Potopa",
+  "overview": "In communist Czechoslovakia in 1980, 15-year-old Mara dreams of leaving her village to study in the city and become a pilot. But her father, a widowed Ruthenian farmer, insists she stay and work the land. When her village faces destruction due to a new dam, their generational conflict intensifies, revealing the struggle between tradition, identity, and the desire for freedom in a context of historical change.",
+  "posterPath": "/qtom3MULMUp4vFA3rEkTwEIfWVe.jpg",
+  "rating": 8.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 102,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Flood",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "owbuJoOTGcY",
+      "name": "POTOPA - OFICIÁLNY TRAILER - V KINÁCH OD 4. DECEMBRA",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 13,
+  "watchProviders": {}
+}

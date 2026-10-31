@@ -1,0 +1,531 @@
+{
+  "backdropPath": "/32kAbClMKp2BmwNPH5j8OKzyYt9.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 680,
+      "logoPath": "/2GQ81QeLGGR9qnYhqGuDoYdsPw4.png",
+      "name": "Studio Hamburg Filmproduktion"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": "1986-12-16",
+  "episodes": {
+    "38": [
+      {
+        "airDate": "2026-03-16",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-03-23",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-03-30",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-04-13",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-04-20",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-04-27",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-05-04",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-05-11",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-05",
+        "episodeNumber": 9,
+        "name": "Episode 9",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-12",
+        "episodeNumber": 10,
+        "name": "Episode 10",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-19",
+        "episodeNumber": 11,
+        "name": "Episode 11",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-26",
+        "episodeNumber": 12,
+        "name": "Episode 12",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-09",
+        "episodeNumber": 13,
+        "name": "Episode 13",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt0090440",
+    "wikidataId": "Q519245"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 40758,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-26",
+    "episodeNumber": 12,
+    "id": 7912292,
+    "name": "Episode 12",
+    "overview": "",
+    "seasonNumber": 38
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-09",
+    "episodeNumber": 13,
+    "id": 7912293,
+    "name": "Episode 13",
+    "overview": "",
+    "seasonNumber": 38
+  },
+  "originalTitle": "Großstadtrevier",
+  "overview": "Follow the everyday work of a fictional police station on the Kiez of Hamburg.",
+  "posterPath": "/fVsntDN3mQAuaDFGiJTKar7fRcu.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1986-12-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1986-12-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1986-12-16",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1986-12-16",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1986-12-16"
+    },
+    "CN": {
+      "tv": "1986-12-16"
+    },
+    "GB": {
+      "tv": "1986-12-16"
+    },
+    "US": {
+      "tv": "1986-12-16"
+    }
+  },
+  "runtime": 48,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2020-01-22",
+      "episodeCount": 4,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/kO1JMiLOqFbvxTeehlmYhc5GMOP.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1986-12-16",
+      "episodeCount": 12,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/C7zbKWoNTuBQRl9mVdrh5x8IlG.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1988-09-01",
+      "episodeCount": 8,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/2l99Ag7OHvn59gTdJgLJmkQFkPr.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1991-01-02",
+      "episodeCount": 16,
+      "name": "Season 3",
+      "overview": "",
+      "posterPath": "/dDY9EmGeWMVpv4RSH9ELq4RzZDW.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1992-10-06",
+      "episodeCount": 12,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/tpfkpGqH59wyDedtS4VtONvhk7p.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1993-10-26",
+      "episodeCount": 24,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/kuYIcPSGTMA7g6II1kVfdih9gwj.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1995-01-10",
+      "episodeCount": 13,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/el1NSNMVxXEDSuXOV4u8vCaQY8H.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1996-11-26",
+      "episodeCount": 26,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/4AT3bwhN3fOAFop2nG89IUk3TIQ.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1998-08-11",
+      "episodeCount": 13,
+      "name": "Season 8",
+      "overview": "",
+      "posterPath": "/6BxGnzV2Y93ttk2iLvRW7Lc6N4X.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1999-03-25",
+      "episodeCount": 13,
+      "name": "Season 9",
+      "overview": "",
+      "posterPath": "/eh9KIMINdi0sbdQ9oBIZZRyyqoD.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "2000-03-07",
+      "episodeCount": 13,
+      "name": "Season 10",
+      "overview": "",
+      "posterPath": "/n9eVVbxRFFoewT1gbRkFdsfz9g7.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "2001-04-24",
+      "episodeCount": 19,
+      "name": "Season 11",
+      "overview": "",
+      "posterPath": "/aHPRV39FUEu2T22d8uI2Jkh6i8G.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "2002-03-18",
+      "episodeCount": 7,
+      "name": "Season 12",
+      "overview": "",
+      "posterPath": "/7XzYYKssQUv2XZOkYNs5qXiM31c.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "2003-01-13",
+      "episodeCount": 11,
+      "name": "Season 13",
+      "overview": "",
+      "posterPath": "/iNx7NmI6f8MOgc2kCMWY1f2CPVX.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "2003-03-31",
+      "episodeCount": 5,
+      "name": "Season 14",
+      "overview": "",
+      "posterPath": "/d5afiJUEGJPyy5ciDilDsf1MABe.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "2004-01-05",
+      "episodeCount": 4,
+      "name": "Season 15",
+      "overview": "",
+      "posterPath": "/4bE0IdyHpJJGuyZoQCADI9qoxjx.jpg",
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "2004-02-02",
+      "episodeCount": 5,
+      "name": "Season 16",
+      "overview": "",
+      "posterPath": "/7mjRConwlwuLAmxSSToOMtQxthb.jpg",
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "2004-03-08",
+      "episodeCount": 7,
+      "name": "Season 17",
+      "overview": "",
+      "posterPath": "/7u42pGVWvRUp0HBJcmco0lMEZxK.jpg",
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "2005-01-17",
+      "episodeCount": 8,
+      "name": "Season 18",
+      "overview": "",
+      "posterPath": "/xmzA0mujj9WzT9XFI4oouumnWii.jpg",
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "2005-03-14",
+      "episodeCount": 8,
+      "name": "Season 19",
+      "overview": "",
+      "posterPath": "/edB4BB5kh69qsRSEDK2BUjuT1pB.jpg",
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "2006-01-16",
+      "episodeCount": 16,
+      "name": "Season 20",
+      "overview": "",
+      "posterPath": "/tZeoaTzOLYnKcJZl7VtuzV2eQ9v.jpg",
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "2007-02-26",
+      "episodeCount": 16,
+      "name": "Season 21",
+      "overview": "",
+      "posterPath": "/qEsvTQLWgn4Gic34LFR9BGASRAw.jpg",
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "2008-03-31",
+      "episodeCount": 16,
+      "name": "Season 22",
+      "overview": "",
+      "posterPath": "/rE3ep2LGByVmswrFDPBoHjL9qDu.jpg",
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "2009-09-21",
+      "episodeCount": 22,
+      "name": "Season 23",
+      "overview": "",
+      "posterPath": "/wW7T9KCiyTeWVPB4dYHgYoyokQa.jpg",
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "2010-11-22",
+      "episodeCount": 15,
+      "name": "Season 24",
+      "overview": "",
+      "posterPath": "/1XxhJcArFiI6eRp3lPnK9YDvOJ7.jpg",
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "2011-10-24",
+      "episodeCount": 17,
+      "name": "Season 25",
+      "overview": "",
+      "posterPath": "/rD4M8vopiiHt0ESYBDTkn2pScKa.jpg",
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "2012-11-12",
+      "episodeCount": 16,
+      "name": "Season 26",
+      "overview": "",
+      "posterPath": "/gDvVcWLDrKawBIPmwhdAETpicVw.jpg",
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "2013-11-25",
+      "episodeCount": 16,
+      "name": "Season 27",
+      "overview": "",
+      "posterPath": "/iiDfyAWU1SUKdpJ7Sa8LzS5kXYq.jpg",
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "2014-11-24",
+      "episodeCount": 29,
+      "name": "Season 28",
+      "overview": "",
+      "posterPath": "/pC17GJ2IqW9W3MInURcqKYkZ6Xo.jpg",
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "2015-11-29",
+      "episodeCount": 16,
+      "name": "Season 29",
+      "overview": "",
+      "posterPath": "/8d27euz7WeGj9roww0av6mAoEtg.jpg",
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "2017-03-06",
+      "episodeCount": 16,
+      "name": "Season 30",
+      "overview": "",
+      "posterPath": "/f4nSNGyUbpZBY41fUPIwPdV60dm.jpg",
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "2017-11-13",
+      "episodeCount": 14,
+      "name": "Season 31",
+      "overview": "",
+      "posterPath": "/cJ5zAgz9p9EoRkXVkXiIHB8VFiI.jpg",
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "2018-11-12",
+      "episodeCount": 16,
+      "name": "Season 32",
+      "overview": "",
+      "posterPath": "/2s4pd14XsmtOimkQyJ5dPEo74dr.jpg",
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "2020-01-27",
+      "episodeCount": 16,
+      "name": "Season 33",
+      "overview": "",
+      "posterPath": "/zgPm7Ts0X1uu1UHUsARyAkhsJqW.jpg",
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "2021-03-15",
+      "episodeCount": 18,
+      "name": "Season 34",
+      "overview": "",
+      "posterPath": "/sN3eqwDOSPMlbPFKOBGH1wbZvDE.jpg",
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "2022-09-05",
+      "episodeCount": 16,
+      "name": "Season 35",
+      "overview": "",
+      "posterPath": "/sBgECLC1As8HvJbSxgjSVTbs6dR.jpg",
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "2023-10-09",
+      "episodeCount": 12,
+      "name": "Season 36",
+      "overview": "",
+      "posterPath": "/8dGb9u6GGW09QMC3Sfq0RUVL5RC.jpg",
+      "seasonNumber": 36
+    },
+    {
+      "airDate": "2024-10-14",
+      "episodeCount": 16,
+      "name": "Season 37",
+      "overview": "",
+      "posterPath": "/e5gggDxDVZiEU7YdoG3tjlYyoeL.jpg",
+      "seasonNumber": 37
+    },
+    {
+      "airDate": "2026-03-16",
+      "episodeCount": 13,
+      "name": "Season 38",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 38
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Großstadtrevier",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 14,
+  "watchProviders": {}
+}

@@ -1,0 +1,278 @@
+{
+  "backdropPath": "/jrYEcctu1rUa5OhRuGc3ooU7uSO.jpg",
+  "cast": [
+    {
+      "character": "Sheriff Nick Light",
+      "id": 75027,
+      "name": "Michael Edwards",
+      "profilePath": "/B8HtKwNGk8bdHGFQAhV5vtef3q.jpg"
+    },
+    {
+      "character": "Martin",
+      "id": 38300,
+      "name": "Henning Baum",
+      "profilePath": "/e5CkswOQ3YVdH9nCoaouxOnUgxd.jpg"
+    },
+    {
+      "character": "Bobby J.",
+      "id": 13022,
+      "name": "Tom Berenger",
+      "profilePath": "/zLxzAdAfu7y02yEx29JSLDgXJZ4.jpg"
+    },
+    {
+      "character": "Enzo",
+      "id": 18702,
+      "name": "Mark Dacascos",
+      "profilePath": "/trOACuJz1KzhB51qe6asaxRuxrh.jpg"
+    },
+    {
+      "character": "George",
+      "id": 30697,
+      "name": "Jim Meskimen",
+      "profilePath": "/18eXUo8DfTwannhq8FOwgVdFs9Y.jpg"
+    },
+    {
+      "character": "Jessica Light",
+      "id": 1254331,
+      "name": "Sol Rodriguez",
+      "profilePath": "/trBvJNWzg1uFkVXpzilfl6xLrzC.jpg"
+    },
+    {
+      "character": "Tulip",
+      "id": 1667883,
+      "name": "Milo Gibson",
+      "profilePath": "/8qauWfMZUewZKpVuU6jXUpAnXRQ.jpg"
+    },
+    {
+      "character": "Deputy Shaw",
+      "id": 1001737,
+      "name": "Patrick Cage",
+      "profilePath": "/7VyIICsE8ico2ID6hB4KZwCkX6J.jpg"
+    },
+    {
+      "character": "Alda",
+      "id": 6309309,
+      "name": "Beni Alexander",
+      "profilePath": null
+    },
+    {
+      "character": "King",
+      "id": 2621332,
+      "name": "Rodney Damon Collins",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 196035,
+      "logoPath": null,
+      "name": "Whiskey Panda Studios"
+    },
+    {
+      "id": 23386,
+      "logoPath": "/3F6G0SBGnaNt66e0GbFZDIl1kEV.png",
+      "name": "Scatena & Rosner Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-04-02",
+  "externalIds": {
+    "imdbId": "tt32161395"
+  },
+  "fetchedAt": 1793504874718,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 1287809,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Sheriff",
+  "overview": "A local sheriff investigates a recent murder, uncovering disturbing connections to his son's unsolved death five years earlier.",
+  "posterPath": "/pba15JjYAoyuFIM6kkZ7qE6oqG2.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-06-08",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-02",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-06-08",
+      "physical": "2026-06-08"
+    },
+    "US": {
+      "digital": "2026-04-02"
+    }
+  },
+  "runtime": 107,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "It's a town full of suspects.",
+  "theatricalDate": null,
+  "title": "The Sheriff",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "mV0iBdK09Dk",
+      "name": "Official Release Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 613,
+          "logoPath": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png",
+          "name": "Amazon Prime Video Free with Ads"
+        },
+        {
+          "id": 1898,
+          "logoPath": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png",
+          "name": "Amazon MX Player"
+        }
+      ],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1287809-the-sheriff/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1287809-the-sheriff/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

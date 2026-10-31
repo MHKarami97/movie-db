@@ -1,0 +1,224 @@
+{
+  "backdropPath": "/yf7OJzxWAg0LRFUMyp0Jpa2sRKY.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 5822679,
+      "name": "André Ricciardi",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 4773637,
+      "name": "Lee Einhorn",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6334159,
+      "name": "Janice Ricciardi",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 41077,
+      "logoPath": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24"
+    },
+    {
+      "id": 143062,
+      "logoPath": null,
+      "name": "Sandbox Films"
+    },
+    {
+      "id": 25577,
+      "logoPath": "/2trboP7Exx3LEQqSHoo1sAmsC1i.png",
+      "name": "Safehouse Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt34963034",
+    "wikidataId": "Q131893926"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1400731,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "André Is an Idiot",
+  "overview": "André, a brilliant idiot, is dying because he didn’t get a colonoscopy. His sobering diagnosis, complete irreverence, and insatiable curiosity, send him on an unexpected journey learning how to die happily and ridiculously without losing his sense of humor.",
+  "posterPath": "/lUDoDeCyobKik81PWUrBWOEV0qt.jpg",
+  "rating": 7.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-02-06"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-03-06"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-06-18",
+      "theatrical": "2026-02-06"
+    },
+    "US": {
+      "premiere": "2025-01-24",
+      "theatrical": "2026-03-06"
+    }
+  },
+  "runtime": 87,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-03-06",
+  "title": "André Is an Idiot",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "M1XnsyjsnC8",
+      "name": "Official Trailer - Clean",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "Hw8-rIHJe30",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 19,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 38,
+          "logoPath": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
+          "name": "BBC iPlayer"
+        }
+      ],
+      "free": [
+        {
+          "id": 38,
+          "logoPath": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
+          "name": "BBC iPlayer"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1400731-andre-is-an-idiot/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1400731-andre-is-an-idiot/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

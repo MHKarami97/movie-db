@@ -1,0 +1,213 @@
+{
+  "backdropPath": "/6t9nSqZpD1mlT9DLugyZNmC3SsQ.jpg",
+  "cast": [
+    {
+      "character": "Flavia de Luce",
+      "id": 3663805,
+      "name": "Molly Belle Wright",
+      "profilePath": "/gkjn90yZvEWGWD4ApM8gs6Nnuju.jpg"
+    },
+    {
+      "character": "Colonel Havilland de Luce",
+      "id": 7060,
+      "name": "Martin Freeman",
+      "profilePath": "/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
+    },
+    {
+      "character": "Inspector Hewitt",
+      "id": 13014,
+      "name": "Toby Jones",
+      "profilePath": "/1qNisdp4f1KstdfvAgYXMdrhwfk.jpg"
+    },
+    {
+      "character": "Dr. Kissing",
+      "id": 378,
+      "name": "Jonathan Pryce",
+      "profilePath": "/3nQ01F9WPNPzzLblY7XyaihT9JT.jpg"
+    },
+    {
+      "character": "Mrs. Mullet",
+      "id": 30320,
+      "name": "Annette Badland",
+      "profilePath": "/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
+    },
+    {
+      "character": "Dogger",
+      "id": 2717380,
+      "name": "Karan Gill",
+      "profilePath": "/7aPMmDXhW1u0HHL0RVyXVUbIBWK.jpg"
+    },
+    {
+      "character": "Harriet De Luce",
+      "id": 1258225,
+      "name": "Hannah New",
+      "profilePath": "/4U4xCtzINm0zjuqSrwmEbmUxJso.jpg"
+    },
+    {
+      "character": "Horace Bonepenny",
+      "id": 203575,
+      "name": "Jamie Beamish",
+      "profilePath": "/g6F7s8J1oP2AvkHUN4TWkcgAKY1.jpg"
+    },
+    {
+      "character": "",
+      "id": 110076,
+      "name": "Nicholas Burns",
+      "profilePath": "/x8ETzUUeTrmBRuVdvPEaZ23Focf.jpg"
+    },
+    {
+      "character": "Private Jones",
+      "id": 6334289,
+      "name": "Max Cortezi",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 20277,
+      "logoPath": "/aomeUwZLIBjGXHfuZq7HTVk7UNb.png",
+      "name": "Protagonist Pictures"
+    },
+    {
+      "id": 69686,
+      "logoPath": null,
+      "name": "The Mazur Kaplan Company"
+    },
+    {
+      "id": 200512,
+      "logoPath": null,
+      "name": "Mystic Point"
+    },
+    {
+      "id": 168240,
+      "logoPath": "/gMs3AWkhaIOnqHjMMAv4Z7OGjKO.png",
+      "name": "Pinky Promise"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt11662534",
+    "wikidataId": "Q130753382"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1129104,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Flavia",
+  "overview": "The adventures of 11-year-old Flavia de Luce, who is both an amateur detective and a master poisoner. When she discovers a dead body in her family’s decaying British manor house and her father is accused of the murder, Flavia launches her own investigation to uncover family secrets and bring the true murderer to justice.",
+  "posterPath": "/xwm7TGTmQcM2PkVvMxTjpYYk600.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-04-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-12-04"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-04-04",
+      "tv": "2026-04-04"
+    },
+    "US": {
+      "theatrical": "2026-12-04"
+    }
+  },
+  "runtime": 92,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "A little genius goes a long way.",
+  "theatricalDate": "2026-12-04",
+  "title": "Flavia",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "IXZMB2cSnls",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1129104-flavia/watch?locale=GB",
+      "rent": []
+    }
+  }
+}

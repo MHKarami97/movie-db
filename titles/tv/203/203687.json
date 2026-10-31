@@ -1,0 +1,285 @@
+{
+  "backdropPath": "/q6UJ6xZC7rf7HbVOCYenrS7lrUg.jpg",
+  "cast": [
+    {
+      "character": "Bugs Bunny / Daffy Duck / Tweety / Marvin the Martian (voice)",
+      "id": 89599,
+      "name": "Eric Bauza",
+      "profilePath": "/lQl3CAkX5mY49bJUCGozO3wE6u1.jpg"
+    },
+    {
+      "character": "Lola Bunny (voice)",
+      "id": 3581430,
+      "name": "Chandni Parekh",
+      "profilePath": "/kUqZdNdewRHWJ3jFnciqszqIvpY.jpg"
+    },
+    {
+      "character": "Porky Pig (voice)",
+      "id": 78317,
+      "name": "Bob Bergen",
+      "profilePath": "/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 2785,
+      "logoPath": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2022-07-25",
+  "externalIds": {
+    "imdbId": "tt21050232",
+    "wikidataId": "Q113541172"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "id": 203687,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2025-12-08",
+    "episodeNumber": 40,
+    "id": 5864690,
+    "name": "Santa's Toyshop",
+    "overview": "After a hot cocoa disaster, Santa Claus hires The Looney Builders to build him a new toyshop in time to save Christmas.",
+    "seasonNumber": 2
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "Bugs Bunny Builders",
+  "overview": "At ACME Construction Company, Bugs Bunny and Lola Bunny manage an inept crew of builders. By working together as a team, Daffy Duck, Porky Pig, Tweety, and others use their tools and wild vehicles to pull off some of the looniest construction jobs ever.",
+  "posterPath": "/llYAgSgJBH1EnC17e2d5WnxgP5K.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2022-07-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2022-07-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2022-07-25",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2022-07-25",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2022-07-25"
+    },
+    "CN": {
+      "tv": "2022-07-25"
+    },
+    "GB": {
+      "tv": "2022-07-25"
+    },
+    "US": {
+      "tv": "2022-07-25"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2022-10-31",
+      "episodeCount": 14,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/tRbE6f06bk0MGRpQlX75I5PiwL9.jpg",
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "2022-07-25",
+      "episodeCount": 39,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/llYAgSgJBH1EnC17e2d5WnxgP5K.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2024-03-25",
+      "episodeCount": 40,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/1bTiys0flffHnhr02xMrXm5P6z.jpg",
+      "seasonNumber": 2
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Bugs Bunny Builders",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "Oi_twNt4QiQ",
+      "name": "Summer Slide",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "LFkWTV35fm4",
+      "name": "Race Track Teamwork",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "1BrVL4BwU6s",
+      "name": "Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "1oq8dIY6uPo",
+      "name": "Dino Digging",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "ASa-86FgUy4",
+      "name": "Meet The Looney Builders",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "HgA500HCyiY",
+      "name": "Opening Theme",
+      "official": true,
+      "type": "Opening Credits"
+    },
+    {
+      "key": "4r_omDcGREg",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 15,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/203687-bugs-bunny-builders/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 1825,
+          "logoPath": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 2528,
+          "logoPath": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+          "name": "YouTube TV"
+        },
+        {
+          "id": 1899,
+          "logoPath": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "free": [
+        {
+          "id": 486,
+          "logoPath": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+          "name": "Spectrum On Demand"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/203687-bugs-bunny-builders/watch?locale=US",
+      "rent": []
+    }
+  }
+}

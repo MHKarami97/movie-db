@@ -1,0 +1,91 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2025-10-30",
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 304453,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-29",
+    "episodeNumber": 53,
+    "id": 6645028,
+    "name": "Episode 53",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-05",
+    "episodeNumber": 54,
+    "id": 6645029,
+    "name": "Episode 54",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "家庭煮夫",
+  "overview": "",
+  "posterPath": "/xN766fib3hNIgrooplg61QdXCGF.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-10-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2025-10-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-10-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-30",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2025-10-30"
+    },
+    "CN": {
+      "tv": "2025-10-30"
+    },
+    "GB": {
+      "tv": "2025-10-30"
+    },
+    "US": {
+      "tv": "2025-10-30"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2025-10-30",
+      "episodeCount": 65,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/xN766fib3hNIgrooplg61QdXCGF.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "家庭煮夫",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

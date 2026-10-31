@@ -1,0 +1,297 @@
+{
+  "backdropPath": "/bPN80eWwrukw6EulhWu7Y3Ha5P4.jpg",
+  "cast": [
+    {
+      "character": "Evie",
+      "id": 2896531,
+      "name": "Hannah Hueston",
+      "profilePath": "/wc48icP82y3WoI37w3gqBWNUbiQ.jpg"
+    },
+    {
+      "character": "Will",
+      "id": 4590346,
+      "name": "Cliff Dean",
+      "profilePath": null
+    },
+    {
+      "character": "Minnie",
+      "id": 2815605,
+      "name": "Tiffany McDonald",
+      "profilePath": "/xzXugx3uqZNERjBthrgLIzmc3ap.jpg"
+    },
+    {
+      "character": "Sheriff Long",
+      "id": 1622024,
+      "name": "Derrick Redford",
+      "profilePath": "/odvMeuqJ4DtxwNQfqWs9YWd7DeI.jpg"
+    },
+    {
+      "character": "young Will",
+      "id": 3903325,
+      "name": "Kace Winfield",
+      "profilePath": null
+    },
+    {
+      "character": "Honey",
+      "id": 1657017,
+      "name": "Erin Marie Garrett",
+      "profilePath": "/AsmYENuLyPte0IaxmRRyWDO2XWq.jpg"
+    },
+    {
+      "character": "young Bell",
+      "id": 2842460,
+      "name": "Kinley Moody",
+      "profilePath": "/o4qXLGxS1dC78Hcg0iSMnXQsSFk.jpg"
+    },
+    {
+      "character": "Deputy Crews",
+      "id": 42207,
+      "name": "Doug Jeffery",
+      "profilePath": "/7cwnh8pFBvR9yo5ZJRwmtGPHj6C.jpg"
+    },
+    {
+      "character": "young Honey",
+      "id": 5983256,
+      "name": "Kennan Ainsworth",
+      "profilePath": null
+    },
+    {
+      "character": "Minnie-Winnie",
+      "id": 5983258,
+      "name": "Joplyn McDonald",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 141842,
+      "logoPath": null,
+      "name": "B22 Films"
+    },
+    {
+      "id": 249236,
+      "logoPath": null,
+      "name": "Redford Films"
+    },
+    {
+      "id": 69347,
+      "logoPath": "/s5ctDrB6DlRDhIBsrTi4zdt445k.png",
+      "name": "ITN Distribution"
+    },
+    {
+      "id": 282453,
+      "logoPath": null,
+      "name": "B22 Casting"
+    },
+    {
+      "id": 282519,
+      "logoPath": null,
+      "name": "Cooke County Sheriff's Office"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-02-17",
+  "externalIds": {
+    "imdbId": "tt36364104"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1506323,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Minnie’s Midnight Massacre",
+  "overview": "Steamboat Willie’s first mate, Minnie, goes on a killing spree when seeking revenge against the childhood bullies who tortured her as a teenager.",
+  "posterPath": "/eV9vdeMqmxOTxz2ELICoHhkbHn6.jpg",
+  "rating": 4.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-17",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-02-17"
+    }
+  },
+  "runtime": 79,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Minnie’s Midnight Massacre",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "pm0-WFIxzuI",
+      "name": "Minnie's Midnight Massacre (2025) Official Movie Trailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1506323-minnie-s-midnight-massacre/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        },
+        {
+          "id": 2077,
+          "logoPath": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+          "name": "Plex Channel"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1506323-minnie-s-midnight-massacre/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

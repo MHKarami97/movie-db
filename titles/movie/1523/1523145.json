@@ -1,0 +1,161 @@
+{
+  "backdropPath": "/fRjy6zDeNjfzmjpKz8mElA9Aa6l.jpg",
+  "cast": [
+    {
+      "character": "Барс",
+      "id": 5598110,
+      "name": "Daniel Vegas",
+      "profilePath": "/t9AFZX1rpTt59npITX2GY3JgySd.jpg"
+    },
+    {
+      "character": "Полина",
+      "id": 5037367,
+      "name": "Veronika Zhuravleva",
+      "profilePath": "/bvlry6DeiYkm0onAZhonlpl4J7.jpg"
+    },
+    {
+      "character": "Лэйм",
+      "id": 4508505,
+      "name": "Ivan Trushin",
+      "profilePath": "/8DWSEUJnxlr7kTP0O8iOSnsqbcs.jpg"
+    },
+    {
+      "character": "Леха",
+      "id": 2007622,
+      "name": "Maksim Saprykin",
+      "profilePath": "/u6c2wEvtqhXHyYRqd2LXKsyHr5a.jpg"
+    },
+    {
+      "character": "Дилара",
+      "id": 5654199,
+      "name": "Alya Mayer",
+      "profilePath": null
+    },
+    {
+      "character": "мама Полины",
+      "id": 558048,
+      "name": "Evgeniya Loza",
+      "profilePath": "/ruLILWf9x0gxg8o9W9Yj9LCI0us.jpg"
+    },
+    {
+      "character": "отчим Полины",
+      "id": 1565264,
+      "name": "Pavel Kuzmin",
+      "profilePath": "/uIIS1FLF4zMxR0Sj53a4wc9tGU6.jpg"
+    },
+    {
+      "character": "Саша",
+      "id": 4465638,
+      "name": "Alexandra Tikhonova",
+      "profilePath": "/iZL6tYLqs5uhvqE4SM7GwJHxUz3.jpg"
+    },
+    {
+      "character": "Лика",
+      "id": 2887356,
+      "name": "Margarita Dyachenkova",
+      "profilePath": "/a3c2BqkxkZBlJNKFtZTjxZUiLvZ.jpg"
+    },
+    {
+      "character": "Власов",
+      "id": 5654204,
+      "name": "Anton Solomatin",
+      "profilePath": "/rsiqKjHvpQGmDvba4TMpe8Rt8hj.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 71928,
+      "logoPath": "/7M6z2jX570P3HzNQULCTjlZcXkB.png",
+      "name": "All Media A Start Company"
+    },
+    {
+      "id": 114676,
+      "logoPath": "/aVsos0RDN9Ib7H8nW5Vv5kHKykz.png",
+      "name": "START Studio"
+    },
+    {
+      "id": 13850,
+      "logoPath": "/6KsdcnTIpQ47NHad4EtxOCkB94K.png",
+      "name": "Sverdlovsk Film Studio"
+    },
+    {
+      "id": 42877,
+      "logoPath": "/15THT1W3NROsbDXPbrcmWFVkrSv.png",
+      "name": "Yellow, Black & White"
+    },
+    {
+      "id": 119813,
+      "logoPath": "/iyGJzcnWXZoNxYLzZu4jKzxIoFw.png",
+      "name": "Premier Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "RU",
+      "name": "Russia"
+    }
+  ],
+  "digitalDate": "2026-05-31",
+  "externalIds": {
+    "imdbId": "tt38190257",
+    "wikidataId": "Q139499171"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "id": 1523145,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ru",
+      "name": "Russian"
+    }
+  ],
+  "originalTitle": "Твоё сердце будет разбито",
+  "overview": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.",
+  "posterPath": "/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-05-31",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-05-31"
+    }
+  },
+  "runtime": 134,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Your Heart Will Be Broken",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 210,
+  "watchProviders": {}
+}

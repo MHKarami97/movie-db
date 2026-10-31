@@ -1,0 +1,212 @@
+{
+  "backdropPath": "/qEqvcwXH5skWfed1rgZq45FL36G.jpg",
+  "cast": [
+    {
+      "character": "Self - Narrator (voice)",
+      "id": 6818,
+      "name": "Werner Herzog",
+      "profilePath": "/qKlz1oM482Xf0jTPfLiR6qXlLYK.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2767649,
+      "name": "Steve Boyes",
+      "profilePath": "/lD8Y9frwW2pGihlm395W5qvDAT9.jpg"
+    },
+    {
+      "character": "Self - Environmental Anthropologist",
+      "id": 5663291,
+      "name": "Kerllen Costa",
+      "profilePath": "/4CAJprv8jeyQ6Dz4bClr8UzUbxJ.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 5663294,
+      "name": "Xui",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 5663295,
+      "name": "Xui Dawid",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 5663296,
+      "name": "Kobus",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Anthropologist, San Culture Specialist",
+      "id": 6057679,
+      "name": "Gary Trower",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Molecular Ecologist, Stanford University",
+      "id": 6057720,
+      "name": "Jordana Meyer",
+      "profilePath": null
+    },
+    {
+      "character": "Self - King of the Nkangala",
+      "id": 6057749,
+      "name": "Regedor Kaketche",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Luchazi Hunter",
+      "id": 6057761,
+      "name": "António Luhoke",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 220322,
+      "logoPath": "/rITrLHfrYZqVXkbhbHU9QsLGdNO.png",
+      "name": "Sobey Road Entertainment"
+    },
+    {
+      "id": 87721,
+      "logoPath": "/6R1A42rLmNDX6gyRn3VzK8Q8xHq.png",
+      "name": "Skellig Rock"
+    },
+    {
+      "id": 285374,
+      "logoPath": null,
+      "name": "The Roots Production Service"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "NA",
+      "name": "Namibia"
+    },
+    {
+      "code": "AO",
+      "name": "Angola"
+    }
+  ],
+  "digitalDate": "2026-03-08",
+  "externalIds": {
+    "imdbId": "tt35237771",
+    "wikidataId": "Q136006865"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 9,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1451867,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "originalTitle": "Ghost Elephants",
+  "overview": "In Angola's mist-shrouded highlands, three KhoiSan master trackers embark on a spiritual quest to rediscover the legendary \"ghost elephants\" of Lisima, creatures presumed lost but remembered in ancestral trance, ritual, and memory.",
+  "posterPath": "/h2zN5Oo89DjwY9Q4F8zto5MlnNb.jpg",
+  "rating": 7.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-08",
+      "gapDays": 9,
+      "theatricalDate": "2026-02-27"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-03-08",
+      "premiere": "2025-08-30",
+      "theatricalLimited": "2026-02-27",
+      "tv": "2026-03-07"
+    }
+  },
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "An epic search for a mythical giant.",
+  "theatricalDate": "2026-02-27",
+  "title": "Ghost Elephants",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "YoOD-2Wn7ik",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 69,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1451867-ghost-elephants/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 337,
+          "logoPath": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        },
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        },
+        {
+          "id": 2528,
+          "logoPath": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+          "name": "YouTube TV"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1451867-ghost-elephants/watch?locale=US",
+      "rent": []
+    }
+  }
+}

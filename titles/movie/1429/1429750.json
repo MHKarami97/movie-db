@@ -1,0 +1,208 @@
+{
+  "backdropPath": "/uBSAkQNDh9INECJlVEkUc2Q5uZ2.jpg",
+  "cast": [
+    {
+      "character": "Toh",
+      "id": 567012,
+      "name": "Theeradej Wongpuapan",
+      "profilePath": "/pKcJU0RBTo7LZYPIwpA5Xg8niE7.jpg"
+    },
+    {
+      "character": "Petch",
+      "id": 2602115,
+      "name": "Vachirawich Aranthanawong",
+      "profilePath": "/f56RHtAKa31opj17YJ1Nmz8WRKm.jpg"
+    },
+    {
+      "character": "Vodka",
+      "id": 1201808,
+      "name": "Chulachak Chakrabongse",
+      "profilePath": "/kxbaHbvigI7vDYLNtfbzOQ86plr.jpg"
+    },
+    {
+      "character": "Khem",
+      "id": 3724880,
+      "name": "Fatima Dechawaleekul",
+      "profilePath": "/6Re8Sd6YTwgybN1fxDcClagp6ZO.jpg"
+    },
+    {
+      "character": "Ja",
+      "id": 3273931,
+      "name": "Kullanat Preeyawat",
+      "profilePath": "/yrzRhwM8oFdD8gUJQiGmpGkfH36.jpg"
+    },
+    {
+      "character": "Sek",
+      "id": 2234905,
+      "name": "Jirayut Paloprakarn",
+      "profilePath": "/7dAQFum5Cs5s2wgoCGu79tTnuto.jpg"
+    },
+    {
+      "character": "Wut",
+      "id": 4511298,
+      "name": "Pitipat Kootrakul",
+      "profilePath": "/fDjN8dL3SvKOsAGhNHztd4ajEkA.jpg"
+    },
+    {
+      "character": "Jit",
+      "id": 1286207,
+      "name": "Alissa Intusmith",
+      "profilePath": "/ftGwLTMeVJ4ar17322NuhnOQDym.jpg"
+    },
+    {
+      "character": "Shane",
+      "id": 240859,
+      "name": "Khomsan Nanthajit",
+      "profilePath": null
+    },
+    {
+      "character": "Snow",
+      "id": 1201702,
+      "name": "Naracha Chanthasin",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 254655,
+      "logoPath": null,
+      "name": "Changkitwittaya"
+    }
+  ],
+  "countries": [
+    {
+      "code": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "digitalDate": "2025-10-14",
+  "externalIds": {
+    "imdbId": "tt35669054",
+    "wikidataId": "Q139619186"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1429750,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "th",
+      "name": "Thai"
+    }
+  ],
+  "originalTitle": "ลักกันวันตาย",
+  "overview": "Two bank employees steal from a dead woman's account and unwittingly entangle themselves in Pattaya's criminal underworld.",
+  "posterPath": "/p43EHgFFik8csqNlRDI9uVU1onx.jpg",
+  "rating": 6.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-10-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-10-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-14",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2025-10-14"
+    },
+    "GB": {
+      "digital": "2025-10-14"
+    },
+    "US": {
+      "digital": "2025-10-14"
+    }
+  },
+  "runtime": 128,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Would You Take 30 Million Baht from a Dead Person's Account?",
+  "theatricalDate": null,
+  "title": "Everybody Loves Me When I'm Dead",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 20,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1429750/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1429750/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1429750/watch?locale=US",
+      "rent": []
+    }
+  }
+}

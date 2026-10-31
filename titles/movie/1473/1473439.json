@@ -1,0 +1,190 @@
+{
+  "backdropPath": "/t935ImPiov88IxrFcMzfAtLfwmr.jpg",
+  "cast": [
+    {
+      "character": "Kyoji Yabuki",
+      "id": 46364,
+      "name": "Shun Oguri",
+      "profilePath": "/4tfrhvqp3IGHPATor0lYE9X9UD3.jpg"
+    },
+    {
+      "character": "Nguyen",
+      "id": 1016168,
+      "name": "Lily James",
+      "profilePath": "/2w8tMEdCxBXB44X05RQDC2Kvbap.jpg"
+    },
+    {
+      "character": "Megan",
+      "id": 1578310,
+      "name": "Gionna Daddio",
+      "profilePath": "/6SpJl3NvynORWDoyvofp10tBdRa.jpg"
+    },
+    {
+      "character": "",
+      "id": 1565630,
+      "name": "Shotaro Mamiya",
+      "profilePath": "/rTyurOXMTcSyLfjGxLZ1rDedyPt.jpg"
+    },
+    {
+      "character": "",
+      "id": 1168934,
+      "name": "Shuhei Nomura",
+      "profilePath": "/1PX4gI5Hgyli1ZCggNxuVd9IvZT.jpg"
+    },
+    {
+      "character": "",
+      "id": 1741323,
+      "name": "Nanase Nishino",
+      "profilePath": "/8Y3OFMBXPmbfn94QSrSEN64lE0F.jpg"
+    },
+    {
+      "character": "",
+      "id": 2148832,
+      "name": "Yuka Kouri",
+      "profilePath": "/uTKvkl3BYeiIPUvKfdL3QDaeM5.jpg"
+    },
+    {
+      "character": "",
+      "id": 1384549,
+      "name": "Takanori Iwata",
+      "profilePath": "/c4YQfIROreyJBLja3zzhZPrYTwi.jpg"
+    },
+    {
+      "character": "",
+      "id": 2115306,
+      "name": "Keisuke Watanabe",
+      "profilePath": "/6S69gUTZKmiFlFNS5VwxNm1u65Z.jpg"
+    },
+    {
+      "character": "",
+      "id": 88901,
+      "name": "Hideo Nakano",
+      "profilePath": "/7MK9M0WlC5w184FAPMMzNdkH5MH.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 6455,
+      "logoPath": "/mc3rMk0tW5ajjbfqkB8xlp85Cdy.png",
+      "name": "Pressman Film"
+    },
+    {
+      "id": 6755,
+      "logoPath": "/bWiM2iY82B32NGmPCOFatgfekIR.png",
+      "name": "Nippon Television Network Corporation"
+    },
+    {
+      "id": 5372,
+      "logoPath": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+      "name": "OLM"
+    },
+    {
+      "id": 90733,
+      "logoPath": "/3K9wCZTyDgop3ITK1rDi6T2PckE.png",
+      "name": "NEON"
+    },
+    {
+      "id": 11561,
+      "logoPath": "/8HB3TFUeo83keAPHfFfrNtN2MmA.png",
+      "name": "Recorded Picture Company"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36753615",
+    "wikidataId": "Q134511479"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 1473439,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "バッド・ルーテナント：トウキョウ",
+  "overview": "A corrupt gambler in the Metropolitan Police Force finds himself thrown into a tangled case after an enigmatic FBI agent arrives in Tokyo to investigate the disappearance of a politician’s daughter.",
+  "posterPath": "/kE4xwNN2aKLe8thnTH4EJbzc1JO.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 108,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Bad Lieutenant: Tokyo",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "WMjGxEqK9lQ",
+      "name": "Official Japanese Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "brkTgfdmztk",
+      "name": "Official Teaser Trailer",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

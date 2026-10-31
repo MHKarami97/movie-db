@@ -1,0 +1,184 @@
+{
+  "backdropPath": "/pmIuw8t7uStC2g4kK6yZmrcHOLd.jpg",
+  "cast": [
+    {
+      "character": "Shahjahan Islam Noor",
+      "id": 2355502,
+      "name": "Afran Nisho",
+      "profilePath": "/2b46ZeQbUt4Rzy1Ti4DJsps6aiQ.jpg"
+    },
+    {
+      "character": "Sujit",
+      "id": 150410,
+      "name": "Chanchal Chowdhury",
+      "profilePath": "/46ebiphxjeUP4T1JCGp6G4DAyQL.jpg"
+    },
+    {
+      "character": "Anwara Parveen Rani",
+      "id": 2046781,
+      "name": "Puja Cherry Roy",
+      "profilePath": "/rNOpNIJgk64VDrHiAWkwVnVI4LT.jpg"
+    },
+    {
+      "character": "",
+      "id": 6231354,
+      "name": "Mian Muhammad Kashif",
+      "profilePath": null
+    },
+    {
+      "character": "Ezaz Khan",
+      "id": 5799557,
+      "name": "Ruslan Sabirli",
+      "profilePath": "/n4AEp1Ap7OBkZkE7DNVWkKdqO7V.jpg"
+    },
+    {
+      "character": "Millat",
+      "id": 938930,
+      "name": "Abul Hayat",
+      "profilePath": "/k4gvcB31puk2I05kDlsErszxeOf.jpg"
+    },
+    {
+      "character": "Umm An-Noor",
+      "id": 998644,
+      "name": "Dolly Johur",
+      "profilePath": "/qve5ezmCTOHVgvPwJQJ3Oe16Zwi.jpg"
+    },
+    {
+      "character": "",
+      "id": 6204680,
+      "name": "Noor Islam",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 3149564,
+      "name": "Kazi Anisul Hoque Borun",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 5026372,
+      "name": "Fariha Shams Sheuti",
+      "profilePath": "/pv2vr0q7twHdBvPoivM0nUibAba.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 172489,
+      "logoPath": "/a5TEqpvEhsR5aSXfuB91LWiN2iv.png",
+      "name": "Alpha-i"
+    },
+    {
+      "id": 157210,
+      "logoPath": "/5PnqIRUbdpW53V4p56NGxY9lYYB.png",
+      "name": "Chorki"
+    },
+    {
+      "id": 12877,
+      "logoPath": "/eKruM4v4KT0ILAK2NsDGne6qA7D.png",
+      "name": "SVF Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt30889542",
+    "wikidataId": "Q135466588"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1215818,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "bn",
+      "name": "Bengali"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ps",
+      "name": "Pushto"
+    }
+  ],
+  "originalTitle": "দম",
+  "overview": "Noor, a man from a small town, gets the chance to go abroad through his job. But in an unfamiliar country, Noor faces a danger beyond his worst nightmares. The hope of returning to his wife and mother in his home country pushes him to keep moving forward.",
+  "posterPath": "/tFWFWU0k6gmP2xmQS81B46qbnhQ.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-04-03"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2026-04-03"
+    }
+  },
+  "runtime": 128,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "UNTIL THE LAST BREATH",
+  "theatricalDate": "2026-04-03",
+  "title": "Domm",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "lK01xRLuo54",
+      "name": "Domm | Official Trailer",
+      "official": false,
+      "type": "Trailer"
+    },
+    {
+      "key": "jA1ICy2aWTQ",
+      "name": "Domm | First Look",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {}
+}

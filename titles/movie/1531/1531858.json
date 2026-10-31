@@ -1,0 +1,182 @@
+{
+  "backdropPath": "/2JFY1Y4vtQWtCre9qbdObKj8wyN.jpg",
+  "cast": [
+    {
+      "character": "Vishnu",
+      "id": 85033,
+      "name": "Paresh Rawal",
+      "profilePath": "/xFVHMvDC8s4Ab2sLXrdVxMxZ33b.jpg"
+    },
+    {
+      "character": "Advocate Rashid",
+      "id": 85656,
+      "name": "Zakir Hussain",
+      "profilePath": "/etiL0ANjzBhTiyvUblZl6vwIog9.jpg"
+    },
+    {
+      "character": "Avinash",
+      "id": 86883,
+      "name": "Namit Das",
+      "profilePath": "/8Wm6DHg6OapLLTQA7I2b8nLksr7.jpg"
+    },
+    {
+      "character": "Harsha Patel",
+      "id": 1003953,
+      "name": "Amruta Khanvilkar",
+      "profilePath": "/hm08FXRVZOCAPahC1JMhnrzK5fd.jpg"
+    },
+    {
+      "character": "Vibhooti Ji",
+      "id": 85724,
+      "name": "Akhilendra Mishra",
+      "profilePath": "/98XU1EhlP6i6CqEvuYtyCzoTlf.jpg"
+    },
+    {
+      "character": "Nawaz Khan",
+      "id": 1083280,
+      "name": "Anil George",
+      "profilePath": "/2eSMoiNtzoJtQJuHyZIADojag4M.jpg"
+    },
+    {
+      "character": "Advocate Shashikant",
+      "id": 230440,
+      "name": "Brijendra Kala",
+      "profilePath": "/wogG1hX0EHzAhnfnGpN3tY3Ch6n.jpg"
+    },
+    {
+      "character": "Mr. Rehan Habib",
+      "id": 1238025,
+      "name": "Pankaj Berry",
+      "profilePath": "/448NE3vQuRowyaPYANL6fTkKtWp.jpg"
+    },
+    {
+      "character": "Mr. Shrinivas Archaeologist",
+      "id": 239728,
+      "name": "Shishir Sharma",
+      "profilePath": "/fNyJckJRkWhMassWL6YlkPMFfvK.jpg"
+    },
+    {
+      "character": "Highcourt Judge",
+      "id": 1188845,
+      "name": "Abhijit Lahiri",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 292521,
+      "logoPath": null,
+      "name": "Swarnim Global Services"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt32495339",
+    "wikidataId": "Q136385978"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1531858,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "hi",
+      "name": "Hindi"
+    }
+  ],
+  "originalTitle": "The Taj Story",
+  "overview": "Vishnu Das is a local guide who becomes driven by a curiosity to uncover the true history behind the iconic Taj Mahal monument.",
+  "posterPath": "/6oMIAvdPWFbwowAq7Zn8unbREAY.jpg",
+  "rating": 5.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-10-31"
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "theatrical": "2025-10-31"
+    }
+  },
+  "runtime": 161,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2025-10-31",
+  "title": "The Taj Story",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "OF1aBclg58w",
+      "name": "The Taj Story | Official Trailer | Paresh Rawal | #Truthontrial",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 9,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1531858-the-taj-story/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1531858-the-taj-story/watch?locale=US",
+      "rent": [
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ]
+    }
+  }
+}

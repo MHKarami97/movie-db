@@ -1,0 +1,277 @@
+{
+  "backdropPath": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+  "cast": [
+    {
+      "character": "Buddy / Dark Buddy (voice)",
+      "id": 298410,
+      "name": "Keegan-Michael Key",
+      "profilePath": "/xmdzYXP9j87a43FSiL138nLesuS.jpg"
+    },
+    {
+      "character": "Freddy",
+      "id": 3484285,
+      "name": "Delaney Quinn",
+      "profilePath": "/byBPP7Zg4NKQEejOBme9PUdRAZp.jpg"
+    },
+    {
+      "character": "Oliver",
+      "id": 4119575,
+      "name": "Tristan Borders",
+      "profilePath": "/sSXJnfhtw8CbFJKRwd3cMEdhFAq.jpg"
+    },
+    {
+      "character": "Hannah",
+      "id": 4505121,
+      "name": "Madison Skyy Polan",
+      "profilePath": "/9O5EsUmfrr4uHvjFV9sJJFg900g.jpg"
+    },
+    {
+      "character": "Wade",
+      "id": 3173336,
+      "name": "Caleb Williams",
+      "profilePath": "/6I6wWh2dDYziQhqncAT0isaDGoY.jpg"
+    },
+    {
+      "character": "Grace",
+      "id": 204392,
+      "name": "Cristin Milioti",
+      "profilePath": "/aiOOWmej3qYSiR9cUs3lm5x5SkB.jpg"
+    },
+    {
+      "character": "Ben",
+      "id": 17052,
+      "name": "Topher Grace",
+      "profilePath": "/89sF57Br5lq8nrepS7HLzJ41QD1.jpg"
+    },
+    {
+      "character": "Strappy (voice)",
+      "id": 10872,
+      "name": "Patton Oswalt",
+      "profilePath": "/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
+    },
+    {
+      "character": "Willie (voice)",
+      "id": 335,
+      "name": "Michael Shannon",
+      "profilePath": "/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+    },
+    {
+      "character": "George",
+      "id": 15661,
+      "name": "Clint Howard",
+      "profilePath": "/qC7AgKmcBFk76ojTYELeirw1viQ.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 18609,
+      "logoPath": "/pxtYCfl1DWzvizqZcYwE4NefOOF.png",
+      "name": "BoulderLight Pictures"
+    },
+    {
+      "id": 28286,
+      "logoPath": "/m4zzuwJbTrqw5qZHoXpySkC87jE.png",
+      "name": "Low Spark Films"
+    },
+    {
+      "id": 188458,
+      "logoPath": "/limNPrYGEOyKb4kjcZKdIk6K0Sh.png",
+      "name": "SIPUR"
+    },
+    {
+      "id": 312527,
+      "logoPath": null,
+      "name": "Substance"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "IL",
+      "name": "Israel"
+    }
+  ],
+  "digitalDate": "2026-10-13",
+  "externalIds": {
+    "facebookId": "buddytheunicorn",
+    "imdbId": "tt37281055",
+    "instagramId": "buddytheunicorn",
+    "twitterId": "Buddy_The_Uni",
+    "wikidataId": "Q137356269"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 46,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "id": 1514026,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Buddy",
+  "overview": "یک اسب تک‌شاخ نارنجی و جادویی که توانایی آواز خواندن دارد، گروه بازیگران خود را در بُعدی سورئال شبیه به یک برنامه تلویزیونی گروگان می‌گیرد. این اسب تک‌شاخ به مرور زمان رفتارهای عجیبی از خود نشان می‌دهد و فضای داستان را به سمت ناشناخته‌ها سوق می‌دهد.",
+  "posterPath": "/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-11-27"
+    },
+    "US": {
+      "digitalDate": "2026-10-13",
+      "gapDays": 46,
+      "theatricalDate": "2026-08-28"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-08-28",
+      "theatrical": "2026-11-27"
+    },
+    "US": {
+      "digital": "2026-10-13",
+      "premiere": "2026-01-22",
+      "theatrical": "2026-08-28",
+      "theatricalLimited": "2026-10-02"
+    }
+  },
+  "runtime": 96,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "It's Buddy!",
+  "theatricalDate": "2026-08-28",
+  "title": "Buddy",
+  "translations": {
+    "faOverview": "یک اسب تک‌شاخ نارنجی و جادویی که توانایی آواز خواندن دارد، گروه بازیگران خود را در بُعدی سورئال شبیه به یک برنامه تلویزیونی گروگان می‌گیرد. این اسب تک‌شاخ به مرور زمان رفتارهای عجیبی از خود نشان می‌دهد و فضای داستان را به سمت ناشناخته‌ها سوق می‌دهد.",
+    "faTitle": "رفیق"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "udPBHzBnXKA",
+      "name": "Buddy The Sing-Along Version October 2",
+      "official": false,
+      "type": "Clip"
+    },
+    {
+      "key": "Pc9MbCNYn3k",
+      "name": "Official Teaser 3",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "1v4etqI86d8",
+      "name": "\"It's Buddy!\" Watch the Beloved Bright Orange Unicorn Spread Love at SAN DIEGO COMIC-CON",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "2sBRb7Mbg0A",
+      "name": "Official Teaser 2",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "0mil0YgOtu8",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 212,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1514026-buddy/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "backdropPath": "/kUtr1b9CgAmR6bty0XBG1tqjfRv.jpg",
+  "cast": [
+    {
+      "character": "Naomi",
+      "id": 2595886,
+      "name": "Ashley A. Williams",
+      "profilePath": "/7Tj3QC4lnHz2ZXRoz0u4CXMCK8p.jpg"
+    },
+    {
+      "character": "Mindy",
+      "id": 1214290,
+      "name": "Tanjareen Martin",
+      "profilePath": "/kTDPvigGZsct4YRlsimf2idvNlw.jpg"
+    },
+    {
+      "character": "Bas",
+      "id": 70254,
+      "name": "Donald Gibb",
+      "profilePath": "/3SGqGltQ6J0LUJ84DZTdWSMh8O8.jpg"
+    },
+    {
+      "character": "Carter",
+      "id": 3557273,
+      "name": "James M. Black",
+      "profilePath": null
+    },
+    {
+      "character": "Thomas Westbrook",
+      "id": 1520279,
+      "name": "Billy Banks",
+      "profilePath": "/mTGPq6pi5xOFxU6Rfmrb1q0khSh.jpg"
+    },
+    {
+      "character": "Killgore",
+      "id": 78811,
+      "name": "Quinton 'Rampage' Jackson",
+      "profilePath": "/1FcZPbXNJRAUJTN2U6choOgaq51.jpg"
+    },
+    {
+      "character": "Cadence",
+      "id": 4307220,
+      "name": "Jhone Y. Lucas",
+      "profilePath": "/vtLYpKEtuEYs1cUD01qq704TSoF.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2026-01-08",
+  "externalIds": {
+    "imdbId": "tt27834186"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "id": 1618569,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Hands",
+  "overview": "In a world of elite underground fighters, a couple tries to prove they are the best against a greedy rival and a merciless hired gun. They soon have to choose between winning and vengeance.",
+  "posterPath": "/f23tQmbHtSTjOXuENgOjNbtk7Fi.jpg",
+  "rating": 6.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-01-08",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-01-08"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Hands",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "F7gmeUEuvJQ",
+      "name": "Hands | Official Trailer | ALLBLK Original Film",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 6,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 2036,
+          "logoPath": "/hcx4wa1c29eqBHWzDbGJRBVNexh.png",
+          "name": "ALLBLK Apple TV channel"
+        },
+        {
+          "id": 2064,
+          "logoPath": "/oDXxEOMxeZ3UBF1piIYn6zrWMqy.png",
+          "name": "ALLBLK Amazon channel "
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1618569-hands/watch?locale=US",
+      "rent": []
+    }
+  }
+}

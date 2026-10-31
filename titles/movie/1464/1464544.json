@@ -1,0 +1,156 @@
+{
+  "backdropPath": "/cDlIfxIV4grVa4Ut6vMG7afBxcv.jpg",
+  "cast": [
+    {
+      "character": "Julia Day",
+      "id": 973497,
+      "name": "Britt Lower",
+      "profilePath": "/5XIcTMDSyj7hRICQAcnY9U83ujF.jpg"
+    },
+    {
+      "character": "Whitney",
+      "id": 62765,
+      "name": "Rhea Seehorn",
+      "profilePath": "/tql4gvY8NfYvmAdmdp1olkwJnrq.jpg"
+    },
+    {
+      "character": "Lisa Barr",
+      "id": 8944,
+      "name": "Jamie Lee Curtis",
+      "profilePath": "/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg"
+    },
+    {
+      "character": "Tatiana Day",
+      "id": 1724137,
+      "name": "Anna Baryshnikov",
+      "profilePath": "/a7zp0wIARHtWR8RokyGo7mzOYxj.jpg"
+    },
+    {
+      "character": "Charlie",
+      "id": 83854,
+      "name": "David Dastmalchian",
+      "profilePath": "/eLafwcpL64CqzwjjSgKpO7Rv4ae.jpg"
+    },
+    {
+      "character": "Dustin",
+      "id": 929511,
+      "name": "Utkarsh Ambudkar",
+      "profilePath": "/vUW5bFrkjWikNFzh5B6F11r5C3X.jpg"
+    },
+    {
+      "character": "Steve",
+      "id": 1336796,
+      "name": "Mike Mitchell",
+      "profilePath": "/fwn7cNiVmfGAOvbH2auqgSFVixn.jpg"
+    },
+    {
+      "character": "Dick Swope",
+      "id": 83586,
+      "name": "Ken Jeong",
+      "profilePath": "/dfuDZ2m2A8nBb0TdyeqmlPOobJA.jpg"
+    },
+    {
+      "character": "Anne",
+      "id": 2954190,
+      "name": "Alyssa Limperis",
+      "profilePath": "/flFsLLTPEJnP5nLpNSC8U7XYf28.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 134167,
+      "logoPath": "/5FsrPc1N52tT6ApJhFUlTOrkjlE.png",
+      "name": "Comet Pictures"
+    },
+    {
+      "id": 20312,
+      "logoPath": "/iYmytRQt5jqlBIEaMQ0Cb6iAHh8.png",
+      "name": "TPC"
+    },
+    {
+      "id": 289962,
+      "logoPath": null,
+      "name": "Smirk"
+    },
+    {
+      "id": 176099,
+      "logoPath": null,
+      "name": "Paris Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36564091",
+    "instagramId": "sendermovie",
+    "wikidataId": "Q138095158"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1464544,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Sender",
+  "overview": "After receiving a series of packages containing unnervingly personal items, a woman tumbles down a paranoid rabbit hole to find her mysterious sender.",
+  "posterPath": "/aGZh3RUGAa0o9THmX4IEEmaIz8N.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-04-23"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-03-14",
+      "theatrical": "2027-04-23"
+    }
+  },
+  "runtime": 94,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2027-04-23",
+  "title": "Sender",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

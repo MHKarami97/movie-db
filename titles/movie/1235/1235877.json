@@ -1,0 +1,157 @@
+{
+  "backdropPath": "/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
+  "cast": [
+    {
+      "character": "Thalapathy Vetri Kondan 'Vetri'",
+      "id": 91547,
+      "name": "Vijay",
+      "profilePath": "/zbQ1sDRVRHkroWwvrnqYKMerl66.jpg"
+    },
+    {
+      "character": "Kayal",
+      "id": 587753,
+      "name": "Pooja Hegde",
+      "profilePath": "/9wdyzZz0Fu81pnKNDBVOcxkPBIp.jpg"
+    },
+    {
+      "character": "John Himler / Amrish Poojari",
+      "id": 77235,
+      "name": "Bobby Deol",
+      "profilePath": "/2npVa3PduichY8e7qBiE54m9VVP.jpg"
+    },
+    {
+      "character": "Vijayalakshmi 'Viji'",
+      "id": 2191938,
+      "name": "Mamitha Baiju",
+      "profilePath": "/9ySiE3j7ep16fhKi3u5iq5rbOk6.jpg"
+    },
+    {
+      "character": "Sheela Rani",
+      "id": 1107197,
+      "name": "Priyamani",
+      "profilePath": "/grcW2eMm77Q2Kj1xX0HvZlRpGRR.jpg"
+    },
+    {
+      "character": "Roja Rangasamy",
+      "id": 89153,
+      "name": "Prakash Raj",
+      "profilePath": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg"
+    },
+    {
+      "character": "Srikanth",
+      "id": 120953,
+      "name": "Gautham Vasudev Menon",
+      "profilePath": "/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+      "character": "Kaleel",
+      "id": 587752,
+      "name": "Narain",
+      "profilePath": "/d0ApUGeFuGXpBkODIc6eLbBkb7B.jpg"
+    },
+    {
+      "character": "CM Arivudai Nambi",
+      "id": 130111,
+      "name": "Nassar",
+      "profilePath": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg"
+    },
+    {
+      "character": "Velu",
+      "id": 213428,
+      "name": "Sunil Varma",
+      "profilePath": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 176175,
+      "logoPath": "/qg9zyTZMzZQIfvnd3WZuvKPwXH.png",
+      "name": "KVN Productions"
+    },
+    {
+      "id": 182074,
+      "logoPath": null,
+      "name": "The Route"
+    }
+  ],
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "digitalDate": "2026-08-21",
+  "externalIds": {
+    "imdbId": "tt33379543",
+    "wikidataId": "Q130301977"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 29,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1235877,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ta",
+      "name": "Tamil"
+    }
+  ],
+  "originalTitle": "ஜன நாயகன்",
+  "overview": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+  "posterPath": "/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+  "rating": 5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-07-23"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-07-23"
+    },
+    "US": {
+      "digitalDate": "2026-08-21",
+      "gapDays": 29,
+      "theatricalDate": "2026-07-23"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-07-23"
+    },
+    "GB": {
+      "theatrical": "2026-07-23"
+    },
+    "US": {
+      "digital": "2026-08-21",
+      "theatrical": "2026-07-23"
+    }
+  },
+  "runtime": 183,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The Torch Bearer of Democracy",
+  "theatricalDate": "2026-07-23",
+  "title": "Jana Nayagan",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 25,
+  "watchProviders": {}
+}

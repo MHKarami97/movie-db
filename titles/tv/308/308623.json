@@ -1,0 +1,183 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Manassés",
+      "id": 1650601,
+      "name": "Nicolas Vargas",
+      "profilePath": "/iNy31hc5L3WpYXTah9Fh1RI20tg.jpg"
+    },
+    {
+      "character": "Mesulemete",
+      "id": 2026999,
+      "name": "Laura Dutra",
+      "profilePath": "/ipSilYFln0N3UdiL3eboTv8XWS1.jpg"
+    },
+    {
+      "character": "Serua-Etirat",
+      "id": 3634425,
+      "name": "Heloísa Honein",
+      "profilePath": "/zUTAv8b2ylx0bFiKOJJdjyj2CTp.jpg"
+    },
+    {
+      "character": "Iltani",
+      "id": 3466387,
+      "name": "Isadora Ruppert",
+      "profilePath": "/pFzB54w8OJoNEtnxM9r1XApQEsj.jpg"
+    },
+    {
+      "character": "Ezequias",
+      "id": 1169805,
+      "name": "Rafael Sieg",
+      "profilePath": "/rJlOyGk4JZOil1ZYC0YwYmVH1Ks.jpg"
+    },
+    {
+      "character": "Sarate",
+      "id": 4123352,
+      "name": "Andressa Campos",
+      "profilePath": "/rcm6oyKmNmVr75Tbns44tW3Ukp5.jpg"
+    },
+    {
+      "character": "Hefzibá",
+      "id": 1281403,
+      "name": "Miriam Freeland",
+      "profilePath": "/qNky91TyzB7L6WAykAHcD1Mi8zB.jpg"
+    },
+    {
+      "character": "Zakutu",
+      "id": 123759,
+      "name": "Virginia Cavendish",
+      "profilePath": "/kMol9CsRBTiQ1RPFL2IrTPBHXlC.jpg"
+    },
+    {
+      "character": "Senaqueribe",
+      "id": 1239017,
+      "name": "Humberto Martins",
+      "profilePath": "/62sBzFEedHlbWUXO4i0wLk6FpyW.jpg"
+    },
+    {
+      "character": "Esar-Hadom",
+      "id": 2445387,
+      "name": "João Campos",
+      "profilePath": "/oBaqK33VepLQtShrjftosDTgLU7.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 223830,
+      "logoPath": "/s6KPysfZG8QDTmEqVkLuqHCZqoy.png",
+      "name": "Seriella Productions"
+    },
+    {
+      "id": 189529,
+      "logoPath": "/2kAb612fQslzOszUnhg4VyzNS5s.png",
+      "name": "Univer Video"
+    },
+    {
+      "id": 68962,
+      "logoPath": "/yeSKR3cPQKvmdBcUijBWezzsF3.png",
+      "name": "RECORD"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2027-07-13",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-07-13",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 308623,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "pt",
+      "name": "Portuguese"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-07-13",
+    "episodeNumber": 1,
+    "id": 6771852,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "A Ira do Herdeiro",
+  "overview": "",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-07-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-07-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-07-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-07-13",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-07-13"
+    },
+    "CN": {
+      "tv": "2027-07-13"
+    },
+    "GB": {
+      "tv": "2027-07-13"
+    },
+    "US": {
+      "tv": "2027-07-13"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-07-13",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "A Ira do Herdeiro",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

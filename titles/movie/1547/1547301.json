@@ -1,0 +1,174 @@
+{
+  "backdropPath": "/mKIPsyjsE8NLfOmC1I6Up1hr8ip.jpg",
+  "cast": [
+    {
+      "character": "Taylor",
+      "id": 2873851,
+      "name": "Lilly Bell",
+      "profilePath": "/i0dxbQs9KkQsRGZOxH2GCWIBAMM.jpg"
+    },
+    {
+      "character": "Sara",
+      "id": 2462865,
+      "name": "Hazel Moore",
+      "profilePath": "/8I3TgSeKDXa9q2dZSErfqTBt4wJ.jpg"
+    },
+    {
+      "character": "Mystery Man",
+      "id": 6137597,
+      "name": "Jax Cody",
+      "profilePath": null
+    },
+    {
+      "character": "Paul",
+      "id": 4968923,
+      "name": "Ian S. Peterson",
+      "profilePath": null
+    },
+    {
+      "character": "Fortune Teller Caller",
+      "id": 2722294,
+      "name": "Llana Barron",
+      "profilePath": "/tXIYv38X8AZ6YP29yHHekcXckIU.jpg"
+    },
+    {
+      "character": "Woman's Voice",
+      "id": 104912,
+      "name": "Jessica Morris",
+      "profilePath": "/vnRqsSs1iZenoGCJGc0vdUgjg7A.jpg"
+    },
+    {
+      "character": "Man's Voice",
+      "id": 158223,
+      "name": "Rib Hillis",
+      "profilePath": "/8IsiYZyiYFosVoRcDAKqZjzQhla.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 15352,
+      "logoPath": "/sk4KMGNHLCPe03XiQaDmBPnczjy.png",
+      "name": "Full Moon Features"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-12-05",
+  "externalIds": {
+    "imdbId": "tt38991353"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1547301,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Prompt",
+  "overview": "A young woman’s deepest fantasies come to life as she explores the seductive realm of artificial intelligence, only to uncover a shocking reality hiding behind her screens.",
+  "posterPath": "/AiEhp4sjeOImehd0PHO2Its9sPH.jpg",
+  "rating": 5.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-12-05",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-12-05"
+    }
+  },
+  "runtime": 62,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Desire by design.",
+  "theatricalDate": null,
+  "title": "Prompt",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "hy6SoGRFFfM",
+      "name": "Rent Or Buy  Full Moon Features",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "1Q6ly90Ogv4",
+      "name": "VOD Release",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "RTuoFcydFtw",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 14,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1547301-prompt/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1547301-prompt/watch?locale=US",
+      "rent": []
+    }
+  }
+}

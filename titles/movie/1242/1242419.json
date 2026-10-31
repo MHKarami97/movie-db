@@ -1,0 +1,592 @@
+{
+  "backdropPath": "/E7hhuSZ1U5xymN2Olg2EOr4N4P.jpg",
+  "cast": [
+    {
+      "character": "Jeffrey Manchester",
+      "id": 38673,
+      "name": "Channing Tatum",
+      "profilePath": "/4TpgnS6l8YUXSne9Av9nda6mjxY.jpg"
+    },
+    {
+      "character": "Leigh Wainscott",
+      "id": 205,
+      "name": "Kirsten Dunst",
+      "profilePath": "/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+    },
+    {
+      "character": "Pastor Ron",
+      "id": 77335,
+      "name": "Ben Mendelsohn",
+      "profilePath": "/pA9mu9D2IolVA0v2Yo0tJm6uUyI.jpg"
+    },
+    {
+      "character": "Mitch",
+      "id": 22970,
+      "name": "Peter Dinklage",
+      "profilePath": "/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+    },
+    {
+      "character": "Steve",
+      "id": 1200864,
+      "name": "LaKeith Stanfield",
+      "profilePath": "/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg"
+    },
+    {
+      "character": "Michelle",
+      "id": 36594,
+      "name": "Juno Temple",
+      "profilePath": "/n20TNExAma6q9iVcWtPRxLl7pEc.jpg"
+    },
+    {
+      "character": "Talena",
+      "id": 53936,
+      "name": "Melonie Díaz",
+      "profilePath": "/bZw2waOzKDE74crNL02L9EsBiH4.jpg"
+    },
+    {
+      "character": "Eileen",
+      "id": 1332680,
+      "name": "Uzo Aduba",
+      "profilePath": "/VXzHXOKBTAcNmhAHHYPiNmhxwF.jpg"
+    },
+    {
+      "character": "Lindsay",
+      "id": 4046500,
+      "name": "Lily Collias",
+      "profilePath": "/higCbwBsqJgwJyJUW1gMSYOJNlV.jpg"
+    },
+    {
+      "character": "Used Car Salesman",
+      "id": 1468779,
+      "name": "Jimmy O. Yang",
+      "profilePath": "/1QfCVmdNo4AqBdN54kc9DTBx84X.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 128360,
+      "logoPath": "/a9YkOw7I1CCBOc9Cy1FDGYfFrJm.png",
+      "name": "Limelight"
+    },
+    {
+      "id": 52053,
+      "logoPath": "/grMLc37nDRnKrMsKXcrHm76boxI.png",
+      "name": "High Frequency Entertainment"
+    },
+    {
+      "id": 106178,
+      "logoPath": null,
+      "name": "51 Entertainment"
+    },
+    {
+      "id": 14,
+      "logoPath": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+      "name": "Miramax"
+    },
+    {
+      "id": 278601,
+      "logoPath": null,
+      "name": "Von Waaden Entertainment"
+    },
+    {
+      "id": 7493,
+      "logoPath": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+      "name": "FilmNation Entertainment"
+    },
+    {
+      "id": 2290,
+      "logoPath": "/gPO7leIjImfola6eq1QGkNqwTEM.png",
+      "name": "Hunting Lane Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-11-11",
+  "externalIds": {
+    "facebookId": "RoofmanMovie",
+    "imdbId": "tt4627382",
+    "instagramId": "roofmanmovie",
+    "twitterId": "RoofmanMovie",
+    "wikidataId": "Q130742503"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1242419,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Roofman",
+  "overview": "یک جنایتکار کاریزماتیک، در حالی که از دست پلیس فرار می‌کند، در فضایی مخفی در یک فروشگاه اسباب‌بازی، هویت جدیدی برای خود انتخاب می‌کند و با یکی از کارمندان آنجا وارد رابطه‌ای خطرناک می‌شود...",
+  "posterPath": "/wXDFtcnYtevleGzCmAD2ReQnJ4l.jpg",
+  "rating": 7.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-10-17"
+    },
+    "US": {
+      "digitalDate": "2025-11-11",
+      "gapDays": 32,
+      "theatricalDate": "2025-10-10"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-10-14",
+      "theatrical": "2025-10-17"
+    },
+    "US": {
+      "digital": "2025-11-11",
+      "premiere": "2025-09-23",
+      "theatrical": "2025-10-10"
+    }
+  },
+  "runtime": 126,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Based on actual events. And terrible decisions.",
+  "theatricalDate": "2025-10-10",
+  "title": "Roofman",
+  "translations": {
+    "faOverview": "یک جنایتکار کاریزماتیک، در حالی که از دست پلیس فرار می‌کند، در فضایی مخفی در یک فروشگاه اسباب‌بازی، هویت جدیدی برای خود انتخاب می‌کند و با یکی از کارمندان آنجا وارد رابطه‌ای خطرناک می‌شود...",
+    "faTitle": "مرد پشت بامی"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "PzlKSHsD8CY",
+      "name": "Becoming Roofman | Behind the Scenes ft. Channing Tatum",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "ZQvmG-RiEXI",
+      "name": "Extended Clip - Jeffrey Meets Leigh",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "sZNzNf9NhQA",
+      "name": "Channing Tatum and Kirsten Dunst Star in Derek Cianfrance's True Crime Comedy 'Roofman'",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "zByS-13g2LQ",
+      "name": "Channing Tatum and Kirsten Dunst",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "OVfiaTCRvXE",
+      "name": "Peter Dinklage",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "MYJU6mbndz4",
+      "name": "Wigs",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "1Co36d0c4fo",
+      "name": "Derek Cianfrance on Channing Tatum",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "V9fOSUO_LaQ",
+      "name": "Derek Cianfrance on Making a Big-Hearted Channing Tatum Movie - Roofman Q&A",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ewZ18bs0tG0",
+      "name": "Tiny Dog",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "f9naNIBeFso",
+      "name": "Jesse Plemons",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "r5lhsdfeSqY",
+      "name": "Therapy",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "dn9MYdBxreY",
+      "name": "Derek Cianfrance at the LFF",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "qYvL1Ey-nzE",
+      "name": "Channing Tatum on working with director Derek Cianfrance on Roofman",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "sk4WOvwv8_0",
+      "name": "Kirsten Dunst LFF",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Z7r_m3tPUbA",
+      "name": "Derek Cianfrance LFF",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "UmwLt0YmVUE",
+      "name": "Channing Tatum LFF",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "oaDbPQPJkow",
+      "name": "London",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "st9GVlZa63E",
+      "name": "Gala",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "-SVi6wjsvbc",
+      "name": "In Three Words",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "rYcp6jYHxk0",
+      "name": "Sauces",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "dui-ODe8NUY",
+      "name": "Meet Leigh",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "cz_DOC3YHE8",
+      "name": "Meet Cute",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "hR_aLzERVco",
+      "name": "Based on a True Story",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "qptQQodEr28",
+      "name": "Casting Featurette",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "3-qSbbUyF5s",
+      "name": "Diet",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "RTnzYXTngKk",
+      "name": "Guess Your Movie with Channing Tatum and Kirsten Dunst",
+      "official": false,
+      "type": "Featurette"
+    },
+    {
+      "key": "IHikM7vFXsA",
+      "name": "Final Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "2dHOeUKF4cU",
+      "name": "Get Tickets Now",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "8tLuNvb3ruk",
+      "name": "The Real People Featurette",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "A1lElVas_ns",
+      "name": "Stylized Edit",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "jUKbIGz4hLg",
+      "name": "Explainer",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "GZ98ibGnWME",
+      "name": "Toys \"R\" Us Featurette",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "qc-O12CY7T0",
+      "name": "Busy Calendar",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "2dzs4z8pdEE",
+      "name": "Perfect place for our Roofman debut. Thanks TIFF50 for the warm reception at our world premiere.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "siQ-xjhzJwo",
+      "name": "Channing Tatum and Kirsten Dunst TIFF",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "DVLz-z3Bv3s",
+      "name": "Story Featurette",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ykDlE_qgJVY",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "GXecSGmQDEI",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 1106,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 531,
+          "logoPath": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+          "name": "Paramount Plus"
+        },
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        },
+        {
+          "id": 582,
+          "logoPath": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1242419-roofman/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 257,
+          "logoPath": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "id": 583,
+          "logoPath": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+          "name": "MGM+ Amazon Channel"
+        },
+        {
+          "id": 2303,
+          "logoPath": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "id": 2616,
+          "logoPath": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+          "name": "Paramount Plus Essential"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 582,
+          "logoPath": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        },
+        {
+          "id": 34,
+          "logoPath": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+          "name": "MGM Plus"
+        },
+        {
+          "id": 633,
+          "logoPath": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+          "name": "Paramount+ Roku Premium Channel"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1242419-roofman/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 331,
+          "logoPath": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+          "name": "FlixFling"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

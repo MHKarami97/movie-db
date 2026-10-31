@@ -1,0 +1,265 @@
+{
+  "backdropPath": "/xC5GyeIzLsSRizJE5LedGShNgBa.jpg",
+  "cast": [
+    {
+      "character": "Laios (voice)",
+      "id": 1975220,
+      "name": "Kentaro Kumagai",
+      "profilePath": "/hsSdTc4PBuLOQedZMsTS6AHvC8l.jpg"
+    },
+    {
+      "character": "Marcille (voice)",
+      "id": 1407597,
+      "name": "Sayaka Senbongi",
+      "profilePath": "/yLRKX9DPDGgTRKBQRFTUh3pvbU0.jpg"
+    },
+    {
+      "character": "Chilchuck (voice)",
+      "id": 1849550,
+      "name": "Asuna Tomari",
+      "profilePath": "/1UrGvjjGi5p0GvVugjbzGutU6vu.jpg"
+    },
+    {
+      "character": "Senshi (voice)",
+      "id": 126282,
+      "name": "Hiroshi Naka",
+      "profilePath": "/9EmVmKWMczAd6qIGnmoYB2JBb7i.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 50908,
+      "logoPath": "/g96SufLc3lXtaU73tAvEbTbXymY.png",
+      "name": "TRIGGER"
+    },
+    {
+      "id": 2073,
+      "logoPath": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+      "name": "KADOKAWA"
+    },
+    {
+      "id": 50906,
+      "logoPath": "/b334NexgTgoJiKPaDxxoWPq0kd3.png",
+      "name": "Ultra Super Pictures"
+    },
+    {
+      "id": 60197,
+      "logoPath": "/D5B8l99tlFJGoMpYJk1kqxYdey.png",
+      "name": "Good Smile Company"
+    },
+    {
+      "id": 210002,
+      "logoPath": "/lSRv9WrNL5aZ9h2vWEEbWXwbuNg.png",
+      "name": "Tencent Japan"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2024-01-04",
+  "episodes": {
+    "2": [
+      {
+        "airDate": "2027-10-01",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt21621494",
+    "twitterId": "dun_meshi_anime",
+    "wikidataId": "Q118692115"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "id": 207784,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2024-06-13",
+    "episodeNumber": 24,
+    "id": 5025008,
+    "name": "Episode 24: Dumplings -2-/Bacon and Eggs",
+    "overview": "Still wrestling with their new forms, the crew must overcome the gargoyles. Later, they descend deeper into the dungeon. What monsters will they try next?",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-10-01",
+    "episodeNumber": 1,
+    "id": 7464655,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 2
+  },
+  "originalTitle": "ダンジョン飯",
+  "overview": "Dungeons, dragons... and delicious monster stew!? Adventurers foray into a cursed buried kingdom to save their friend, cooking up a storm along the way.",
+  "posterPath": "/9t3DYdGxK3i4WRzKvIZwJd4kBnr.jpg",
+  "rating": 8.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2024-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2024-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2024-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2024-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2024-01-04"
+    },
+    "CN": {
+      "tv": "2024-01-04"
+    },
+    "GB": {
+      "tv": "2024-01-04"
+    },
+    "US": {
+      "tv": "2024-01-04"
+    }
+  },
+  "runtime": 26,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2024-01-04",
+      "episodeCount": 24,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/9t3DYdGxK3i4WRzKvIZwJd4kBnr.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2027-10-01",
+      "episodeCount": 1,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/jxajmLsDsMlGNvVU0HK9EfGoaV7.jpg",
+      "seasonNumber": 2
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Eat or be eaten.",
+  "theatricalDate": null,
+  "title": "Delicious in Dungeon",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "aXfVHMILKJg",
+      "name": "Official Trailer #2 [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "n5JEoD7keVo",
+      "name": "Official Trailer #1 [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "U3veqJewdto",
+      "name": "Official Teaser [Subtitled]",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 375,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/207784/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/207784/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/207784/watch?locale=US",
+      "rent": []
+    }
+  }
+}

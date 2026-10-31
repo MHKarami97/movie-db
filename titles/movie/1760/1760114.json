@@ -1,0 +1,99 @@
+{
+  "backdropPath": "/1HswZLm8YY3O6sA5H9Tzdpy7LeW.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 260312,
+      "logoPath": null,
+      "name": "DOK-WERK filmkooperative GmbH"
+    },
+    {
+      "id": 2067,
+      "logoPath": "/y5knLIUjYsKBIlM4W0dLruWwYaC.png",
+      "name": "RBB"
+    },
+    {
+      "id": 46,
+      "logoPath": "/3xFdKHLXPGHEbrAkmsepGE8974Y.png",
+      "name": "WDR"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "facebookId": "theloveboxproject",
+    "imdbId": "tt43730209",
+    "instagramId": "theloveboxproject",
+    "wikidataId": "Q140884521"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1760114,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "Lovebox",
+  "overview": "A society without money or competition: AfrikaBurn, the largest regional event inspired by the world-famous Burning Man, becomes the setting for a unique experiment. In the middle of the South African desert, an eclectic group of friends sets up their LOVEBOX spaceship, inviting visitors on a journey to the stars — and into themselves. Inside the LOVEBOX, two strangers meet for a few minutes and explore a question about love. Their encounters give rise to unexpected moments of connection and self-discovery. When the dust of the festival settles, the friends set out to bring the magic of the LOVEBOX into everyday life. But can the openness and sense of connection they experienced at AfrikaBurn survive beyond its temporary utopia?",
+  "posterPath": "/abTKQ1z8637jfRKox8qrFOigK0g.jpg",
+  "rating": 10,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 96,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Lovebox",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "iyxsNsJyWDM",
+      "name": "THE LOVEBOX EXPERIENCE | Ein Experiment über Liebe und echte Begegnung (Offizieller Trailer)",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {}
+}

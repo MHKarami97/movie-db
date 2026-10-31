@@ -1,0 +1,74 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "id": 1662461,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "After We Are Born",
+  "overview": "A New Psychological Documentary About Children",
+  "posterPath": "/ikyIMvfezh6QQFPPh0aCxSpwbAM.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2027-05-15"
+    }
+  },
+  "runtime": 90,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "Born to Change the World",
+  "theatricalDate": null,
+  "title": "After We Are Born",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

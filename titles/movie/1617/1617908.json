@@ -1,0 +1,161 @@
+{
+  "backdropPath": "/8imHEnB6kTNgK1TYPC3Rsnv7xke.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 2534682,
+      "name": "Taylor Tomlinson",
+      "profilePath": "/mEPr6NpIxP0Etfx8DLlcONdVWLd.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 3715962,
+      "name": "Sophie Buddle",
+      "profilePath": "/kFfo8nNegvZ44Prk1uzm6LKi2cD.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 194022,
+      "logoPath": null,
+      "name": "TTOM Productions"
+    },
+    {
+      "id": 3831,
+      "logoPath": "/wfsoXBqvo1eFvRQBCvWuupHFZ3w.png",
+      "name": "Triage Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-02-24",
+  "externalIds": {
+    "imdbId": "tt39367471"
+  },
+  "fetchedAt": 1793504874718,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1617908,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Taylor Tomlinson: Prodigal Daughter",
+  "overview": "Taylor Tomlinson takes her fans to church with hilarious confessions about dating in her 30s, her dream assistant and why she refuses to use AI.",
+  "posterPath": "/5n85A8bspgGBhIZ2HnNfbbr6GRe.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-02-24",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2026-02-24"
+    }
+  },
+  "runtime": 69,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "She's taking you to church.",
+  "theatricalDate": null,
+  "title": "Taylor Tomlinson: Prodigal Daughter",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "e4Vj7pAEaiM",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 35,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1617908-taylor-tomlinson-prodigal-daughter/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1617908-taylor-tomlinson-prodigal-daughter/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1617908-taylor-tomlinson-prodigal-daughter/watch?locale=US",
+      "rent": []
+    }
+  }
+}

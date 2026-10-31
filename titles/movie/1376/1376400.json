@@ -1,0 +1,183 @@
+{
+  "backdropPath": "/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
+  "cast": [
+    {
+      "character": "Serena",
+      "id": 1464589,
+      "name": "Matilda Lutz",
+      "profilePath": "/yqeYvGgDvrhvn5lP6fuRE1ImQXv.jpg"
+    },
+    {
+      "character": "Dr. Woodward",
+      "id": 2014129,
+      "name": "Gary Anthony Stennette",
+      "profilePath": "/AgtXWf3Ph4itjIyehy2eJdYwTSu.jpg"
+    },
+    {
+      "character": "Dr. Callan",
+      "id": 1635848,
+      "name": "Elena Sanz",
+      "profilePath": "/dRJi4W6q9D882RQnmNhJhi00QB3.jpg"
+    },
+    {
+      "character": "Molly",
+      "id": 5209690,
+      "name": "Andrea Scott Méndez",
+      "profilePath": "/64YAJim4COEi49PkKpk4iULzOPg.jpg"
+    },
+    {
+      "character": "Bernice",
+      "id": 2347068,
+      "name": "Isabella Marie Egizi",
+      "profilePath": "/2FGVJ15H9beEjFysnULSSTb5n0P.jpg"
+    },
+    {
+      "character": "Lance",
+      "id": 1627296,
+      "name": "Sam Lucas Smith",
+      "profilePath": "/zwT8GC1XI7tSW6iJ0wki17la1Wf.jpg"
+    },
+    {
+      "character": "Bradley",
+      "id": 212686,
+      "name": "Gregg Sulkin",
+      "profilePath": "/cF0w2ZQTE3ZTEFFeYZRbRJVmLCm.jpg"
+    },
+    {
+      "character": "Lady Lash",
+      "id": 1289925,
+      "name": "Melina Matthews",
+      "profilePath": "/bPwRAyD6DrAEj3DIzTibVDdJ51M.jpg"
+    },
+    {
+      "character": "Mr. Rossmore",
+      "id": 72672,
+      "name": "William Miller",
+      "profilePath": "/5Uk1mxLqU3zVMHx5wHvUsKKiYvf.jpg"
+    },
+    {
+      "character": "Tonya",
+      "id": 6504070,
+      "name": "Lex Salvador",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 242751,
+      "logoPath": "/t9R9PhqtO6sDWQ1ijffTCRItPsY.png",
+      "name": "Badlands"
+    },
+    {
+      "id": 3528,
+      "logoPath": "/cCzCClIzIh81Fa79hpW5nXoUsHK.png",
+      "name": "Thunder Road"
+    },
+    {
+      "id": 310043,
+      "logoPath": null,
+      "name": "Sagesse Productions"
+    },
+    {
+      "id": 238206,
+      "logoPath": null,
+      "name": "Fresco Film"
+    },
+    {
+      "id": 234823,
+      "logoPath": null,
+      "name": "Renegade Capital"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-11-10",
+  "externalIds": {
+    "imdbId": "tt32329539",
+    "instagramId": "crawlersfilm",
+    "wikidataId": "Q141124396"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 25,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1376400,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Crawlers",
+  "overview": "Tenants at Paradiso Palms apartments fight a deadly spider invasion while the cunning building manager might be their only hope for survival.",
+  "posterPath": "/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
+  "rating": 6.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-09-24"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-10",
+      "gapDays": 25,
+      "theatricalDate": "2026-10-16"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-09-24"
+    },
+    "US": {
+      "digital": "2026-11-10",
+      "theatrical": "2026-10-16"
+    }
+  },
+  "runtime": 80,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Skin will crawl.",
+  "theatricalDate": "2026-10-16",
+  "title": "Crawlers",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "7ljTQpetuTo",
+      "name": "Clip: Bathroom Behemoth",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "4DowjB87tRE",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 42,
+  "watchProviders": {}
+}

@@ -1,0 +1,405 @@
+{
+  "backdropPath": "/8nchwqjrC1YGT8aNNsHtGz87VTT.jpg",
+  "cast": [
+    {
+      "character": "Nick Dyer",
+      "id": 146750,
+      "name": "George MacKay",
+      "profilePath": "/wnDAg1CyCbBCklQAZ9I1dj5X6QY.jpg"
+    },
+    {
+      "character": "Liam",
+      "id": 1371041,
+      "name": "Callum Turner",
+      "profilePath": "/b9Sz10HU71SQ5wrx7CfWPKQ4vDJ.jpg"
+    },
+    {
+      "character": "Murgey",
+      "id": 39661,
+      "name": "Francis Magee",
+      "profilePath": "/zSUfloXa9Mhy8dkcILq4Jl6iWZU.jpg"
+    },
+    {
+      "character": "Mike Bruffin",
+      "id": 1731963,
+      "name": "Edward Rowe",
+      "profilePath": "/n7fbCtsHAxLlHan0xPhtbsQV0NP.jpg"
+    },
+    {
+      "character": "Tina",
+      "id": 1682679,
+      "name": "Rosalind Eleazar",
+      "profilePath": "/9Tb1rLSnyCfnZXYixfjWJuQJig9.jpg"
+    },
+    {
+      "character": "Mrs. Richards",
+      "id": 1231284,
+      "name": "Mary Woodvine",
+      "profilePath": "/AvQjDdEYkFpvmZaFr2k7EkAH7B8.jpg"
+    },
+    {
+      "character": "Billy Richards",
+      "id": 1643,
+      "name": "Adrian Rawlins",
+      "profilePath": "/G0PGZqTjenuVTAQiib4ScU7vAI.jpg"
+    },
+    {
+      "character": "Emily Carroll",
+      "id": 2169629,
+      "name": "Mae Voogd",
+      "profilePath": null
+    },
+    {
+      "character": "Jess/Linsey",
+      "id": 6177721,
+      "name": "Yana Penrose",
+      "profilePath": "/aajLXjX2PXuOSvDcwshgP7CfLd7.jpg"
+    },
+    {
+      "character": "Little Jess",
+      "id": 6384105,
+      "name": "Aria Balliah-Quin",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 6705,
+      "logoPath": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions"
+    },
+    {
+      "id": 7281,
+      "logoPath": "/iI7qdR1OFPo0U41BlpKBLD3xesh.png",
+      "name": "BFI"
+    },
+    {
+      "id": 5056,
+      "logoPath": "/ok7CQyn0RPEuI0upznPoo93YE6H.png",
+      "name": "Head Gear Films"
+    },
+    {
+      "id": 212714,
+      "logoPath": "/oGNHA4UvaGzlSQmnq5hsYAX8mJP.png",
+      "name": "Sound/Image Cinema Lab"
+    },
+    {
+      "id": 195251,
+      "logoPath": "/ztvGc89XAVeFvYe1H3dAAEoEU4n.png",
+      "name": "Bosena"
+    },
+    {
+      "id": 25954,
+      "logoPath": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
+      "name": "Metrol Technology"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-08-18",
+  "externalIds": {
+    "imdbId": "tt35674521",
+    "wikidataId": "Q132645632"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 53,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "id": 1399525,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "kw",
+      "name": "Cornish"
+    }
+  ],
+  "originalTitle": "Rose of Nevada",
+  "overview": "When a fishing boat, the Rose of Nevada, lost with all hands 30 years ago, mysteriously reappears in the old harbour of a forgotten Cornish village, for those who remember, it’s surely a sign. The boat must go out to sea again and maybe then the luck of the devastated village will turn. Young father Nick and enigmatic newcomer Liam join captain Murgey, and they head to sea. But when they return, satisfied with their haul, something is amiss – they’ve slipped back in time, and the villagers greet them as if they are the original crew.",
+  "posterPath": "/1x34FPfKP8uYO7LlzopbHpJFGAh.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-08-24",
+      "gapDays": 122,
+      "theatricalDate": "2026-04-24"
+    },
+    "US": {
+      "digitalDate": "2026-08-18",
+      "gapDays": 53,
+      "theatricalDate": "2026-06-26"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2025-12-06"
+    },
+    "GB": {
+      "digital": "2026-08-24",
+      "physical": "2026-08-24",
+      "premiere": "2025-10-13",
+      "theatrical": "2026-04-24"
+    },
+    "US": {
+      "digital": "2026-08-18",
+      "premiere": "2025-10-01",
+      "theatrical": "2026-06-26",
+      "theatricalLimited": "2026-06-19"
+    }
+  },
+  "runtime": 114,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-06-26",
+  "title": "Rose of Nevada",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "3v-DLPMztqs",
+      "name": "Official MUBI Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "a3Nxxc1-UqE",
+      "name": "Mark Kermode reviews Rose of Nevada (2025) | BFI Player",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "-wyi8rrkyXk",
+      "name": "Callum Turner, George MacKay and Mark Jenkin on Rose of Nevada | BFI Q&A",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "V93RYI6erPo",
+      "name": "Mark Jenkin on Rose of Nevada",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "0NOm_GBU6M0",
+      "name": "Official US Clip # 3",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "xiR7wyQ0YnI",
+      "name": "Official US Clip #2",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "Ko_ctIo4BNA",
+      "name": "Official US Clip #1",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "ozYEUUbx5kg",
+      "name": "Callum Turner, Rosalind Eleazar and George MacKay on films about time",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "z9MuJlPyfyI",
+      "name": "Rose of Nevada | Membership Moments with Kia at CREATE",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "JprjiJTiBmU",
+      "name": "George MacKay and Callum Turner on working together on Rose of Nevada.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "V1DDJ0d7XXI",
+      "name": "Official clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "lVUEKaEoTdo",
+      "name": "'Don't pot it all in the pub'",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "97q17xC0mb8",
+      "name": "Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "HafsUWXP3UM",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "bw371ui9cTk",
+      "name": "UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "PLAydJKIvO0",
+      "name": "Mark Jenkin and Mary Woodvine on Rose of Nevada",
+      "official": true,
+      "type": "Featurette"
+    }
+  ],
+  "voteCount": 44,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 224,
+          "logoPath": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+          "name": "BFI Player"
+        },
+        {
+          "id": 287,
+          "logoPath": "/lWzSEjT62Ob0XIHXdN7G4OQWCAr.png",
+          "name": "BFI Player Amazon Channel"
+        },
+        {
+          "id": 2041,
+          "logoPath": "/45RXTNyLafB9AKaZPNHryi2T9x1.png",
+          "name": "BFI Player Apple TV Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1399525-rose-of-nevada/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 11,
+          "logoPath": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+          "name": "MUBI"
+        },
+        {
+          "id": 201,
+          "logoPath": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+          "name": "MUBI Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1399525-rose-of-nevada/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

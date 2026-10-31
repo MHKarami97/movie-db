@@ -1,0 +1,87 @@
+{
+  "backdropPath": "/oep5pxCHuMgx6UyNpPEd2Snsgtw.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 2685291,
+      "name": "Peter Zumthor",
+      "profilePath": "/b8VTfmQQm7D4GUybPG53S8DLpiD.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 45,
+      "logoPath": "/tUkNOAjyTt9D56DUeQfmmAFvwYQ.png",
+      "name": "Road Movies"
+    },
+    {
+      "id": 14758,
+      "logoPath": "/eCYPzcnF5KidrKPOT90ANslOKMx.png",
+      "name": "DCM Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt43704808"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1355885,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "From Inside Out - Die Architektur von Peter Zumthor",
+  "overview": "We all come from houses in which we live, dream, love and die. This long-term documentary project explores the significance of architecture in our everyday lives and takes its audience on a journey to the most impressive places designed by Swiss architect Peter Zumthor.",
+  "posterPath": "/ca0wQJILxFbgleAdcUrKhc2i5Qh.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 114,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "From Inside Out: The Architecture of Peter Zumthor",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

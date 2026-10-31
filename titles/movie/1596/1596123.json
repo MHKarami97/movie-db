@@ -1,0 +1,148 @@
+{
+  "backdropPath": "/d0Vjkvm2XqoiI9k90T9kXctHopI.jpg",
+  "cast": [
+    {
+      "character": "Arslan Farooqi",
+      "id": 2037501,
+      "name": "Guz Khan",
+      "profilePath": "/pY2ND9eZhUtPuRBZPEoM1BRPZBd.jpg"
+    },
+    {
+      "character": "Hannah",
+      "id": 1370805,
+      "name": "Morgana Robinson",
+      "profilePath": "/guBJRfTPeLBd3RxbhzUIi3cl242.jpg"
+    },
+    {
+      "character": "Layla",
+      "id": 5868828,
+      "name": "Sophia Hussain",
+      "profilePath": null
+    },
+    {
+      "character": "Fern",
+      "id": 5868829,
+      "name": "Elodie Bains",
+      "profilePath": null
+    },
+    {
+      "character": "Lily",
+      "id": 21553,
+      "name": "Sue Johnston",
+      "profilePath": "/aXMjpy2SyhkRI27SUgDqd3MppgD.jpg"
+    },
+    {
+      "character": "Jamie",
+      "id": 1013048,
+      "name": "Theo Barklem-Biggs",
+      "profilePath": "/r1xIDN0ca9NRngD7m560yuZg2Sp.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 3324,
+      "logoPath": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC"
+    },
+    {
+      "id": 1219,
+      "logoPath": "/6OGqCShROjIvmBOfRbeUsn7im93.png",
+      "name": "Baby Cow Productions"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2025-12-13",
+  "externalIds": {
+    "imdbId": "tt39181657"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "id": 1596123,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Stuffed",
+  "overview": "The Farooqis have an unforgettable Christmas when a surprise bonus leads to a Lapland holiday, but things go downhill fast after a disastrous discovery.",
+  "posterPath": "/yneohsr1nklrkVR2rb896vLFjiO.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-12-13",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2025-12-13",
+      "tv": "2025-12-23"
+    }
+  },
+  "runtime": 59,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Stuffed",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "Futhef-dmxY",
+      "name": "Stuffed with Guz Khan comes to iPlayer this Christmas - BBC",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 38,
+          "logoPath": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
+          "name": "BBC iPlayer"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1596123-stuffed/watch?locale=GB",
+      "rent": []
+    }
+  }
+}

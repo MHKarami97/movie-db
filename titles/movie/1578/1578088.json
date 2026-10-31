@@ -1,0 +1,164 @@
+{
+  "backdropPath": "/kQ0vesWFoMhzSQKaIWobCsigg9t.jpg",
+  "cast": [
+    {
+      "character": "Bella Brady",
+      "id": 1327013,
+      "name": "Zoe Graham",
+      "profilePath": "/rrpk2zcnopTAmpHzMY1N8CrgTmK.jpg"
+    },
+    {
+      "character": "Duncan",
+      "id": 1178812,
+      "name": "Andrew Bowser",
+      "profilePath": "/t2SkfyenBNq28GXLu4Rl3WEuQdW.jpg"
+    },
+    {
+      "character": "Stephen Brady",
+      "id": 5807921,
+      "name": "Paul Schwartz",
+      "profilePath": null
+    },
+    {
+      "character": "Officier Mark",
+      "id": 5807903,
+      "name": "Jawaun Sanders",
+      "profilePath": "/qB2pf6FItRrvuXrCZR0fCyf5gyl.jpg"
+    },
+    {
+      "character": "The Decedent",
+      "id": 2503837,
+      "name": "Gregory Johnstone",
+      "profilePath": null
+    },
+    {
+      "character": "Teen Thief #1",
+      "id": 5807904,
+      "name": "Sidne Shipman",
+      "profilePath": null
+    },
+    {
+      "character": "Teen Thief #2",
+      "id": 5810313,
+      "name": "Anthony Marino",
+      "profilePath": null
+    },
+    {
+      "character": "Police Officer (Voice)",
+      "id": 1903028,
+      "name": "Daniel Dorr",
+      "profilePath": "/VMSs2aazlbxaipaeaD6oMG3VQt.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 267273,
+      "logoPath": null,
+      "name": "Fortuitous Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-11-07",
+  "externalIds": {
+    "imdbId": "tt38671331"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1578088,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Decedent",
+  "overview": "In a family-owned funeral home, a young mortician finds herself confronted with the supernatural as she works on the deceased body of a serial killer.",
+  "posterPath": "/bl9AyBqUt78QCVfE8A40nCuNEI2.jpg",
+  "rating": 4.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-11-07",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-11-07"
+    }
+  },
+  "runtime": 82,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Decedent",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "GTxbESNvd_M",
+      "name": "The Decedent | Official Trailer | Tubi x Kickstarter: The FilmStream Collective",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 7,
+  "watchProviders": {
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1578088-the-decedent/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1578088-the-decedent/watch?locale=US",
+      "rent": []
+    }
+  }
+}

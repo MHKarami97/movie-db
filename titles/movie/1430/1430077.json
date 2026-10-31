@@ -1,0 +1,431 @@
+{
+  "backdropPath": "/qY7zVZ7liULhfRoXg4c9Xl83LcR.jpg",
+  "cast": [
+    {
+      "character": "Ohm Bauman",
+      "id": 36801,
+      "name": "Adam Scott",
+      "profilePath": "/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+    },
+    {
+      "character": "Mal",
+      "id": 523748,
+      "name": "Peter Coonan",
+      "profilePath": "/4CIPj53v871Gwwyean91BhXesfW.jpg"
+    },
+    {
+      "character": "Jerry",
+      "id": 73287,
+      "name": "David Wilmot",
+      "profilePath": "/epb46N0iJyAmSOguMdFn6qQGSsy.jpg"
+    },
+    {
+      "character": "Fiona",
+      "id": 3249431,
+      "name": "Florence Ordesh",
+      "profilePath": "/vOSd53O4QOjZUl9U8LIP84lrvGk.jpg"
+    },
+    {
+      "character": "Fergal",
+      "id": 1368268,
+      "name": "Michael Patric",
+      "profilePath": "/mHbEIuUbc9wuqDRhVgLn4hnxVvn.jpg"
+    },
+    {
+      "character": "Alby / Jack (The Jackass)",
+      "id": 1865592,
+      "name": "Will O'Connell",
+      "profilePath": "/9aQlrstSFoKQdsCigFWQibyfZhW.jpg"
+    },
+    {
+      "character": "Cob",
+      "id": 26865,
+      "name": "Brendan Conroy",
+      "profilePath": "/pUyjqFWqBERIW0wIJkxwgvfq1VY.jpg"
+    },
+    {
+      "character": "Boy",
+      "id": 4947443,
+      "name": "Ezra Carlisle",
+      "profilePath": "/9R5EmE7JOU703wl43si2wMwp0MP.jpg"
+    },
+    {
+      "character": "Conquistador",
+      "id": 1552436,
+      "name": "Austin Amelio",
+      "profilePath": "/y4QTXuSSmD99n8dinMiTRBkUnAp.jpg"
+    },
+    {
+      "character": "Ohm's Mother",
+      "id": 2369470,
+      "name": "Mallory Adams",
+      "profilePath": "/c5CdKuNTubd0kZUA7oNizY7my8Z.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 169906,
+      "logoPath": "/zcjActhEXaYww1JSvx2OtCd8jTG.png",
+      "name": "Spooky Pictures"
+    },
+    {
+      "id": 6736,
+      "logoPath": "/cD0sxmCrppVSInHrOJn7B1dSFlm.png",
+      "name": "Image Nation Studios"
+    },
+    {
+      "id": 272588,
+      "logoPath": null,
+      "name": "Cweature Features"
+    },
+    {
+      "id": 272589,
+      "logoPath": null,
+      "name": "Team Thrives"
+    },
+    {
+      "id": 23459,
+      "logoPath": "/41KbJFe2xc1jQHyZCDFTyFbKInM.png",
+      "name": "Tailored Films"
+    },
+    {
+      "id": 1898,
+      "logoPath": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
+      "name": "Fís Éireann/Screen Ireland"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates"
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "digitalDate": "2026-06-02",
+  "externalIds": {
+    "imdbId": "tt35672862",
+    "wikidataId": "Q133397105"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1430077,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Hokum",
+  "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+  "posterPath": "/x6rHcQFiYcczLQPrmxXPAicm54E.jpg",
+  "rating": 6.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-07"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-05-01"
+    },
+    "US": {
+      "digitalDate": "2026-06-02",
+      "gapDays": 32,
+      "theatricalDate": "2026-05-01"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-05-07"
+    },
+    "GB": {
+      "theatrical": "2026-05-01"
+    },
+    "US": {
+      "digital": "2026-06-02",
+      "physical": "2026-08-11",
+      "premiere": "2026-03-14",
+      "theatrical": "2026-05-01"
+    }
+  },
+  "runtime": 108,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "We've been expecting you.",
+  "theatricalDate": "2026-05-01",
+  "title": "Hokum",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "rKfquft7gn0",
+      "name": "Alby Witch",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "uiMPkzJ-iJU",
+      "name": "Dictaphone",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "xtZZcolHyy8",
+      "name": "CAILLEACH",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "mns3X9EUEsY",
+      "name": "Adam Scott stars in a new twisted nightmare from horror mastermind Damian McCarthy.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "UmIs2xkgX2g",
+      "name": "IN CINEMAS NOW.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ClOWuSGBZ_c",
+      "name": "First reactions from HOKUM London special screening at Prince Charles Cinema",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "dUZmnpdsTXo",
+      "name": "“Pure nightmare fuel” (Bloody Disgusting).",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "PaJVjCJamVo",
+      "name": "They've been waiting.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "gQ_yXwax50Q",
+      "name": "Open your eyes.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "qU_i5e48KzQ",
+      "name": "Final Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "k9nlCox-lsY",
+      "name": "Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "k0_n2UPFpSQ",
+      "name": "Tale",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "3QDg8gLXow8",
+      "name": "Hotel",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "_fbbMMj-95M",
+      "name": "Fado",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "x94TNKhMN94",
+      "name": "UK Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "jP2nDyQWBOU",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "OFmbY2o4tt0",
+      "name": "Official Teaser Trailer",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 1023,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1430077-hokum/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1430077-hokum/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

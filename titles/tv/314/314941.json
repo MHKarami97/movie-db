@@ -1,0 +1,161 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Kim Cheol-su",
+      "id": 1248450,
+      "name": "Cha Seung-won",
+      "profilePath": "/zT9SINDaQylXoRTWMb9OdBjLjLt.jpg"
+    },
+    {
+      "character": "Ko Yo-han",
+      "id": 2152558,
+      "name": "Kim Do-hoon",
+      "profilePath": "/3ISggEbubgBtZiDV7kMVm09X0MG.jpg"
+    },
+    {
+      "character": "Lee Hyun",
+      "id": 4903385,
+      "name": "Jeon So-young",
+      "profilePath": "/b66oPHkDcqdVaXgYR8yf291sfjU.jpg"
+    },
+    {
+      "character": "Noh Min-jun",
+      "id": 5746194,
+      "name": "Baek Lee-on",
+      "profilePath": "/54ZDsFHVVrFmDeRjKTnXW5a9dbn.jpg"
+    },
+    {
+      "character": "Kim Yun-gang",
+      "id": 3395613,
+      "name": "Zoa",
+      "profilePath": "/fMiGFN49BuaPnuzchwMmlnZ2Fu6.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 86418,
+      "logoPath": "/vzzqRwqTin3iAAMw2JlrmVPNnPa.png",
+      "name": "Studio Dragon"
+    },
+    {
+      "id": 149893,
+      "logoPath": "/e2iPF7lzT8pGthv4SxJl9Y8618M.png",
+      "name": "The Great Show"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": "2027-01-04",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-04",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 314941,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-04",
+    "episodeNumber": 1,
+    "id": 6980387,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "은퇴요원+관리팀",
+  "overview": "It follows an X-Gen retired agent and a Z-Gen super ace as they hunt down an insider who's been operating behind a criminal organization for over 25 years.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-04",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-04"
+    },
+    "CN": {
+      "tv": "2027-01-04"
+    },
+    "GB": {
+      "tv": "2027-01-04"
+    },
+    "US": {
+      "tv": "2027-01-04"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-04",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Retired Agent Management Team",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

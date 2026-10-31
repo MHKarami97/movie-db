@@ -1,0 +1,183 @@
+{
+  "backdropPath": "/hhBoWDKmq9u8V2qi0Rtm3XGiydn.jpg",
+  "cast": [
+    {
+      "character": "Raymond Gunn (voice)",
+      "id": 6807,
+      "name": "Sam Rockwell",
+      "profilePath": "/afYhNpLwpa65Yy0Q0g00FNFhzx5.jpg"
+    },
+    {
+      "character": "Venus Nova (voice)",
+      "id": 1245,
+      "name": "Scarlett Johansson",
+      "profilePath": "/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg"
+    },
+    {
+      "character": "Eye-Ra (voice)",
+      "id": 2887,
+      "name": "Tom Waits",
+      "profilePath": "/kmPOnRmxUgL0rjIUF98uToQrQKB.jpg"
+    },
+    {
+      "character": "Francis 'Slugsy' Xavier (voice)",
+      "id": 1488236,
+      "name": "Matt Berry",
+      "profilePath": "/1UCAuXgzQfeANlLnZFVSuq0OFhR.jpg"
+    },
+    {
+      "character": "Vanzine Kaluta (voice)",
+      "id": 72309,
+      "name": "Kathryn Hunter",
+      "profilePath": "/ni98cNE8kOAj6kcpEVmIfi8iAsw.jpg"
+    },
+    {
+      "character": "Barry Vogel (voice)",
+      "id": 21088,
+      "name": "Alan Tudyk",
+      "profilePath": "/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
+    },
+    {
+      "character": "Arnold Dom (voice)",
+      "id": 21127,
+      "name": "Bobby Cannavale",
+      "profilePath": "/wlp20ggyNI7x0xGUtTjC2Xl2XmD.jpg"
+    },
+    {
+      "character": "Roz Dexler (voice)",
+      "id": 17647,
+      "name": "Michelle Rodriguez",
+      "profilePath": "/wVcbrae4eRqGMFZz8Eh52Dl1biP.jpg"
+    },
+    {
+      "character": "Lou Blevins (voice)",
+      "id": 1365114,
+      "name": "Faruq Tauheed",
+      "profilePath": "/2sxcnKVozWucSaltY2XF8RYSYUW.jpg"
+    },
+    {
+      "character": "Sam Stelfreeze (voice)",
+      "id": 87070,
+      "name": "Michael Chernus",
+      "profilePath": "/tqtVxv36oQf4LlHpR3nlfUCm6M4.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 115416,
+      "logoPath": "/eP0uhxcvAl91Xfw5SBSGuCY6GVU.png",
+      "name": "Skydance Animation"
+    },
+    {
+      "id": 171251,
+      "logoPath": "/AqUAfMC270bGGK09Nh3mycwT1hY.png",
+      "name": "Netflix Animation Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-12-18",
+  "externalIds": {
+    "imdbId": "tt18270542",
+    "wikidataId": "Q126722991"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 14,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 940009,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Ray Gunn",
+  "overview": "In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn is drawn into a case involving aliens, murder and a multimedia star named Venus Nova.",
+  "posterPath": "/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-12-18",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-12-18",
+      "gapDays": 14,
+      "theatricalDate": "2026-12-04"
+    },
+    "US": {
+      "digitalDate": "2026-12-18",
+      "gapDays": 14,
+      "theatricalDate": "2026-12-04"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-12-18"
+    },
+    "GB": {
+      "digital": "2026-12-18",
+      "premiere": "2026-10-10",
+      "theatricalLimited": "2026-12-04"
+    },
+    "US": {
+      "digital": "2026-12-18",
+      "premiere": "2026-09-23",
+      "theatricalLimited": "2026-12-04"
+    }
+  },
+  "runtime": 119,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "The taller the skyscrapers, the longer the shadows.",
+  "theatricalDate": "2026-12-04",
+  "title": "Ray Gunn",
+  "translations": {
+    "faTitle": "ری گان"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "FUD09goz17A",
+      "name": "Scarlett Johansson on becoming a global pop sensation in Ray Gunn",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "VL-xjzQFWsY",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

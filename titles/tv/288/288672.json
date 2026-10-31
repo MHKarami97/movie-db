@@ -1,0 +1,234 @@
+{
+  "backdropPath": "/eVyHdSC53TJhwPxhpG1P8mtsKqY.jpg",
+  "cast": [
+    {
+      "character": "Elizabeth Bennet",
+      "id": 2324569,
+      "name": "Emma Corrin",
+      "profilePath": "/miSbXJBlq6S3dVvOr7OoNL4axW6.jpg"
+    },
+    {
+      "character": "Mr. Darcy",
+      "id": 1334638,
+      "name": "Jack Lowden",
+      "profilePath": "/mQeiB35UBxjcO1D0pc8ZHKJW5dP.jpg"
+    },
+    {
+      "character": "Mrs. Bennet",
+      "id": 39187,
+      "name": "Olivia Colman",
+      "profilePath": "/lawJUdbLb1YW0niaYjiVGR9IBG8.jpg"
+    },
+    {
+      "character": "Mr. Bennet",
+      "id": 17328,
+      "name": "Rufus Sewell",
+      "profilePath": "/yc2EWyg45GO03YqDttaEhjvegiE.jpg"
+    },
+    {
+      "character": "Lady Catherine de Bourg",
+      "id": 10981,
+      "name": "Fiona Shaw",
+      "profilePath": "/8X7fZybxtwh2nTvYk6kjRYo9RIY.jpg"
+    },
+    {
+      "character": "Mr. Wickham",
+      "id": 1558986,
+      "name": "Louis Partridge",
+      "profilePath": "/Q6X8fZQchv1gWjI9pWU58yZ0wb.jpg"
+    },
+    {
+      "character": "Charlotte Lucas",
+      "id": 2375414,
+      "name": "Jasmine Blackborow",
+      "profilePath": "/4jbrrgJ2Em1fFe72alhavnDERja.jpg"
+    },
+    {
+      "character": "Mr. Bingley",
+      "id": 1829245,
+      "name": "Daryl McCormack",
+      "profilePath": "/uxBEREn7HCDzhSNJaFw8MPdvXxo.jpg"
+    },
+    {
+      "character": "Mr. Collins",
+      "id": 1470911,
+      "name": "Jamie Demetriou",
+      "profilePath": "/txvWmokZ7KytXO1Ke1GEWoAQ9to.jpg"
+    },
+    {
+      "character": "Mrs. Long",
+      "id": 118036,
+      "name": "Ella Smith",
+      "profilePath": "/8RoDJCbeIQqiju6wmhWFL3qzmWm.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 72850,
+      "logoPath": "/yxpBlnD0yfROQ8uwzSu3kWm2fl5.png",
+      "name": "Lookout Point"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-12-03",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-12-03",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-03",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-03",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-03",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-03",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-03",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "imdbId": "tt36475261",
+    "wikidataId": "Q133861919"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 288672,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2026-12-03",
+    "episodeNumber": 1,
+    "id": 6122106,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Pride and Prejudice",
+  "overview": "Elizabeth Bennet is an unmarried woman and the second of five daughters of Mr. and Mrs. Bennet from Hertfordshire, near London. The Bennet home can only be inherited by males in the family, so the pressure is on for the daughters to marry well or risk losing everything. While out in society, Elizabeth interacts with single men like Mr. Darcy, an outwardly curmudgeon who is misunderstood.",
+  "posterPath": "/48gkikPDZm2IP1zdaboOPpELRwX.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-12-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-12-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-12-03",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-12-03",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-12-03"
+    },
+    "CN": {
+      "tv": "2026-12-03"
+    },
+    "GB": {
+      "tv": "2026-12-03"
+    },
+    "US": {
+      "tv": "2026-12-03"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-12-03",
+      "episodeCount": 6,
+      "name": "Miniseries",
+      "overview": "",
+      "posterPath": "/48gkikPDZm2IP1zdaboOPpELRwX.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Pride and Prejudice",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "KuRYRhP6kag",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "4bSKM9WWT08",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

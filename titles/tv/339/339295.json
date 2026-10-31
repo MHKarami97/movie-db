@@ -1,0 +1,136 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Various (voice)",
+      "id": 6529589,
+      "name": "Jerome Soriano",
+      "profilePath": "/h4TUgcO1Y5MacR2OyA3ZYRMiXs2.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 313347,
+      "logoPath": null,
+      "name": "JS Productions"
+    },
+    {
+      "id": 313783,
+      "logoPath": null,
+      "name": "Jerome Soriano Productions"
+    }
+  ],
+  "countries": [],
+  "digitalDate": "2026-03-21",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-03-21",
+        "episodeNumber": 1,
+        "name": "School Time",
+        "overview": "it is a pilot of this episode",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-01-30",
+        "episodeNumber": 2,
+        "name": "TBA",
+        "overview": "TBA",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 339295,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": {
+    "airDate": "2026-03-21",
+    "episodeNumber": 1,
+    "id": 7984560,
+    "name": "School Time",
+    "overview": "it is a pilot of this episode",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-30",
+    "episodeNumber": 2,
+    "id": 7984757,
+    "name": "TBA",
+    "overview": "TBA",
+    "seasonNumber": 1
+  },
+  "originalTitle": "The Klasky Csupo Effects Showtime",
+  "overview": "a klasky csupo show is a web series featuring Jerome Soriano Known for his upcoming shows like Battle for the Server",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-03-21",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-03-21",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-03-21",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-03-21",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-03-21"
+    },
+    "CN": {
+      "tv": "2026-03-21"
+    },
+    "GB": {
+      "tv": "2026-03-21"
+    },
+    "US": {
+      "tv": "2026-03-21"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-03-21",
+      "episodeCount": 2,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Klasky Csupo Effects Showtime",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "bmYneYsg6dY",
+      "name": "The Klasky Csupo Effects ShowTime!!! Season 1 Episode 1 : School Time",
+      "official": false,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

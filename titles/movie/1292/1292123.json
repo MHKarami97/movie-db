@@ -1,0 +1,182 @@
+{
+  "backdropPath": "/b9KYKTIpKbvB5RPbtpwaJu5iek7.jpg",
+  "cast": [
+    {
+      "character": "Mother Teresa",
+      "id": 87722,
+      "name": "Noomi Rapace",
+      "profilePath": "/m0J6ZqEyNljqF1DXBoC9DcMStHP.jpg"
+    },
+    {
+      "character": "Father Friedrich",
+      "id": 980147,
+      "name": "Nikola Ristanovski",
+      "profilePath": "/gbOsUqdjz7PK4ro3BwCG5UMPAda.jpg"
+    },
+    {
+      "character": "Sister Agnieszka",
+      "id": 104632,
+      "name": "Sylvia Hoeks",
+      "profilePath": "/wKC9LgqgJRCXuzs1kUKaK7Uicv.jpg"
+    },
+    {
+      "character": "Novice Agatha",
+      "id": 5176258,
+      "name": "Ekin Corapci",
+      "profilePath": null
+    },
+    {
+      "character": "Sister Katarina",
+      "id": 51487,
+      "name": "Marijke Pinoy",
+      "profilePath": "/1dJqftg6GIYtN8SukbIx5WM2ZKQ.jpg"
+    },
+    {
+      "character": "Sister Mercedes",
+      "id": 113758,
+      "name": "Labina Mitevska",
+      "profilePath": "/wwZMlB4l0U2aeoE9zZendcCn3m6.jpg"
+    },
+    {
+      "character": "Novice Tabitha",
+      "id": 1956644,
+      "name": "Vala Norén",
+      "profilePath": "/qUDpebu3MvYMtVCkS530r1k8RXA.jpg"
+    },
+    {
+      "character": "Dr. Kumar",
+      "id": 87935,
+      "name": "Akshay Kapoor",
+      "profilePath": "/nmwpij9YpZzJWA9GikIYTTo6z0I.jpg"
+    },
+    {
+      "character": "",
+      "id": 2194920,
+      "name": "Amrita Chattopadhyay",
+      "profilePath": "/xype61UjGQFVIdgTc390Uj5YBoH.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 53362,
+      "logoPath": "/ch7zajY5zGs3R2txZqw56AKHtFg.png",
+      "name": "Sisters and Brother Mitevski"
+    },
+    {
+      "id": 3984,
+      "logoPath": "/pvOBu9K0zTRuwJW7WII34x17kdz.png",
+      "name": "Entre Chien et Loup"
+    },
+    {
+      "id": 161580,
+      "logoPath": null,
+      "name": "Frau Film"
+    },
+    {
+      "id": 2801,
+      "logoPath": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst"
+    },
+    {
+      "id": 122801,
+      "logoPath": null,
+      "name": "Spark Film & TV"
+    }
+  ],
+  "countries": [
+    {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    {
+      "code": "MK",
+      "name": "Macedonia"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt18246200",
+    "wikidataId": "Q135466587"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1292123,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Mother",
+  "overview": "Calcutta, India, August 1948. Teresa, Mother Superior of the convent of the Sisters of Loreto, is anxiously waiting for the letter that will finally allow her to leave her monastery and create her new order in response to the call she has received from God.",
+  "posterPath": "/xIQtJZukjgGxEWatkv10Ml2QsG0.jpg",
+  "rating": 5.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-10-14"
+    }
+  },
+  "runtime": 103,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Mother",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "F8BdwWztHuY",
+      "name": "MOTHER  | Teona Strugar Mitevska | OFFICIAL TRAILER",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 14,
+  "watchProviders": {}
+}

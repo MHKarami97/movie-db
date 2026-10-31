@@ -1,0 +1,346 @@
+{
+  "backdropPath": "/mPtPJzBkwksUoMEKpkZqxBrlKpZ.jpg",
+  "cast": [
+    {
+      "character": "Indy",
+      "id": 6509814,
+      "name": "Indy",
+      "profilePath": "/cDI4l14uMpgtoZpHcb8wXN53Xp7.jpg"
+    },
+    {
+      "character": "Todd",
+      "id": 3739081,
+      "name": "Shane Jensen",
+      "profilePath": "/8BNJL3MwvYEUTg187SmhQACVq3Z.jpg"
+    },
+    {
+      "character": "Vera",
+      "id": 4747687,
+      "name": "Arielle Friedman",
+      "profilePath": "/lh4Vvfn1j1nvoPMtLWPXI4aeJCh.jpg"
+    },
+    {
+      "character": "Grandpa",
+      "id": 31268,
+      "name": "Larry Fessenden",
+      "profilePath": "/imQGskBT7IjqHLVJDQFLR1h1UPH.jpg"
+    },
+    {
+      "character": "Richard",
+      "id": 94435,
+      "name": "Stuart Rudin",
+      "profilePath": "/2jhEJ2zLnRL0iuG5i3fYw4FObgl.jpg"
+    },
+    {
+      "character": "Doctor",
+      "id": 3238178,
+      "name": "Anya Krawcheck",
+      "profilePath": "/ffP9mfsovkmgqnsUYKwbVejtG5q.jpg"
+    },
+    {
+      "character": "Weatherman / Narrator",
+      "id": 5725666,
+      "name": "Hunter Goetz",
+      "profilePath": null
+    },
+    {
+      "character": "Bandit",
+      "id": 6083950,
+      "name": "Max",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 256132,
+      "logoPath": null,
+      "name": "What’s Wrong with Your Dog?"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-10-24",
+  "externalIds": {
+    "imdbId": "tt35521922",
+    "instagramId": "goodboy.film",
+    "wikidataId": "Q133427678"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 21,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1422096,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Good Boy",
+  "overview": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.",
+  "posterPath": "/daInKxjoRNLFWIus64fHAy91V0k.jpg",
+  "rating": 6.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-10-24",
+      "gapDays": 14,
+      "theatricalDate": "2025-10-10"
+    },
+    "US": {
+      "digitalDate": "2025-10-24",
+      "gapDays": 21,
+      "theatricalDate": "2025-10-03"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2025-10-24",
+      "physical": "2026-02-16",
+      "theatrical": "2025-10-10"
+    },
+    "US": {
+      "digital": "2025-10-24",
+      "premiere": "2025-03-08",
+      "theatrical": "2025-10-03"
+    }
+  },
+  "runtime": 73,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Trust his instincts.",
+  "theatricalDate": "2025-10-03",
+  "title": "Good Boy",
+  "translations": {
+    "faTitle": "پسر خوب"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "I18Rrd2EdKI",
+      "name": "Tickets On Sale",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "boIcuPjdP_M",
+      "name": "Ben Leonberg, Alex Cannon, and Kari Fischer on Good Boy",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "q4-CRkd_74g",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 780,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 630,
+          "logoPath": "/vnpp3n6DAIh2sKXfMbehKZAWJMC.png",
+          "name": "STARZPLAY"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1422096-good-boy/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        },
+        {
+          "id": 204,
+          "logoPath": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+          "name": "Shudder Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1422096-good-boy/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 15,
+          "logoPath": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        },
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1854,
+          "logoPath": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 635,
+          "logoPath": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+          "name": "AMC+ Roku Premium Channel"
+        },
+        {
+          "id": 526,
+          "logoPath": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+          "name": "AMC+"
+        },
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        },
+        {
+          "id": 204,
+          "logoPath": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+          "name": "Shudder Amazon Channel"
+        },
+        {
+          "id": 368,
+          "logoPath": "/gawu8fJwrJKNvzgTjklQBdVqPCF.png",
+          "name": "IndieFlix"
+        },
+        {
+          "id": 2049,
+          "logoPath": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+          "name": "Shudder Apple TV channel"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        },
+        {
+          "id": 212,
+          "logoPath": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+          "name": "Hoopla"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1422096-good-boy/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

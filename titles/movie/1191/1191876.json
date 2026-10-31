@@ -1,0 +1,130 @@
+{
+  "backdropPath": "/ru0r5MYhIwcU0IddhRLqJpIPkiV.jpg",
+  "cast": [
+    {
+      "character": "Emma",
+      "id": 104686,
+      "name": "Jeanne Neilson",
+      "profilePath": "/s3vEVBVLebxc69wC7189UPed1G5.jpg"
+    },
+    {
+      "character": "Lucius",
+      "id": 230808,
+      "name": "Paul du Toit",
+      "profilePath": "/8iiXy965IElRMDVnSWG3BoQcDjw.jpg"
+    },
+    {
+      "character": "Aretha",
+      "id": 4322353,
+      "name": "Syreeta Banks",
+      "profilePath": null
+    },
+    {
+      "character": "Myles",
+      "id": 2075067,
+      "name": "Jeremy John Wells",
+      "profilePath": "/o47EmPu7GRL9jlhSOezgrrOmnxa.jpg"
+    },
+    {
+      "character": "Riley",
+      "id": 2434413,
+      "name": "Lucy Capri",
+      "profilePath": "/eGaVykqvtaD6GrDDxr4Fx7GFQnQ.jpg"
+    },
+    {
+      "character": "Dolores",
+      "id": 2130998,
+      "name": "Debbie Sutcliffe",
+      "profilePath": "/6nsq81EMk8Qu3YG3UNIMF8F4Vz0.jpg"
+    },
+    {
+      "character": "Officer Grim",
+      "id": 4339439,
+      "name": "Dolores Dermody",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 25811,
+      "logoPath": null,
+      "name": "KingdomWorks"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt13499272"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "id": 1191876,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "From the Ashes",
+  "overview": "Jailed for her husband's crime, a woman discovers that her only way out is to solve riddles from her mysterious past.",
+  "posterPath": "/aEUH2ECoZHvSmoMzJpca0STF2CZ.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-06-01"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2027-06-01"
+    }
+  },
+  "runtime": 92,
+  "schemaVersion": 2,
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": "2027-06-01",
+  "title": "From the Ashes",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

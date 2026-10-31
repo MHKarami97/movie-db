@@ -1,0 +1,160 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "ALAN",
+      "id": 4819528,
+      "name": "Alan Rojano",
+      "profilePath": null
+    },
+    {
+      "character": "HAROLD",
+      "id": 4819532,
+      "name": "Harold",
+      "profilePath": null
+    },
+    {
+      "character": "LUKAS",
+      "id": 3629557,
+      "name": "Lukas Urkijo",
+      "profilePath": "/4rB4aILg9jlk0uovNfdq7Pw43ja.jpg"
+    },
+    {
+      "character": "SEBASTIAN",
+      "id": 4819536,
+      "name": "Sebastian Abarca",
+      "profilePath": null
+    },
+    {
+      "character": "TRIISTAN",
+      "id": 4206515,
+      "name": "Tristan Flores",
+      "profilePath": "/3a1ByXmg4XD9M80Olh9LcKN6yua.jpg"
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2027-07-05",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-07-05",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-07-12",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-07-19",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-07-26",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 258765,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-07-05",
+    "episodeNumber": 1,
+    "id": 5466107,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "By The Way: The Beginning",
+  "overview": "",
+  "posterPath": "/iRMkb5KMypY4f6azmUjnUrQ5FyC.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-07-05",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-07-05",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-07-05",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-07-05",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-07-05"
+    },
+    "CN": {
+      "tv": "2027-07-05"
+    },
+    "GB": {
+      "tv": "2027-07-05"
+    },
+    "US": {
+      "tv": "2027-07-05"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-07-05",
+      "episodeCount": 4,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "By The Way: The Beginning",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

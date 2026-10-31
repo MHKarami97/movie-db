@@ -1,0 +1,96 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2026-11-06",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-11-06",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793990790150,
+  "gapDays": null,
+  "genres": [],
+  "id": 341236,
+  "keywords": [],
+  "languages": [],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-06",
+    "episodeNumber": 1,
+    "id": 8085284,
+    "name": "Episode 1",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "sketch精编合集·纯享",
+  "overview": "",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-11-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-11-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-11-06",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-11-06",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-11-06"
+    },
+    "CN": {
+      "tv": "2026-11-06"
+    },
+    "GB": {
+      "tv": "2026-11-06"
+    },
+    "US": {
+      "tv": "2026-11-06"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-11-06",
+      "episodeCount": 28,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "sketch精编合集·纯享",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

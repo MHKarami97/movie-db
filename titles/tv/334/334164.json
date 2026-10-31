@@ -1,0 +1,120 @@
+{
+  "backdropPath": "/gcVOfqevIIA8bIJAQ6GzVwLNZGq.jpg",
+  "cast": [
+    {
+      "character": "Juan",
+      "id": 6285801,
+      "name": "Juan Gomez De Luque",
+      "profilePath": null
+    },
+    {
+      "character": "Walter",
+      "id": 6285807,
+      "name": "MannieTom",
+      "profilePath": null
+    },
+    {
+      "character": "Elisa",
+      "id": 6285812,
+      "name": "Balu",
+      "profilePath": null
+    }
+  ],
+  "companies": [],
+  "countries": [],
+  "digitalDate": "2027-01-14",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2027-01-14",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "Kanjuan, Walten and their friends return to the university to live adventures in Town Dawn of Santa Rosa",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 334164,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "lastEpisodeToAir": null,
+  "nextEpisodeToAir": {
+    "airDate": "2027-01-14",
+    "episodeNumber": 1,
+    "id": 7771797,
+    "name": "Episode 1",
+    "overview": "Kanjuan, Walten and their friends return to the university to live adventures in Town Dawn of Santa Rosa",
+    "seasonNumber": 1
+  },
+  "originalTitle": "Campus Reopened",
+  "overview": "Kanjuan, Walten and their friends return to the university to live adventures in Town Dawn of Santa Rosa",
+  "posterPath": "/el1tDyOf3Pw3nRdfvLIlBYk1h7H.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2027-01-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2027-01-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2027-01-14",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2027-01-14",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2027-01-14"
+    },
+    "CN": {
+      "tv": "2027-01-14"
+    },
+    "GB": {
+      "tv": "2027-01-14"
+    },
+    "US": {
+      "tv": "2027-01-14"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2027-01-14",
+      "episodeCount": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Campus Reopened",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

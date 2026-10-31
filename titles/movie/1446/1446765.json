@@ -1,0 +1,161 @@
+{
+  "backdropPath": "/cmQNqcCIcL3w6OdBY3g6NSiQzix.jpg",
+  "cast": [
+    {
+      "character": "Mara",
+      "id": 2232024,
+      "name": "Maryna Koshkina",
+      "profilePath": "/eLPvR0xFkOOKtVjL7UWD6sFs5dF.jpg"
+    },
+    {
+      "character": "Viter",
+      "id": 5015999,
+      "name": "Dmytro Pavko",
+      "profilePath": "/kdXYcEViU8nmYrxHr5nY7hvRi4A.jpg"
+    },
+    {
+      "character": "Dzhmil",
+      "id": 2048825,
+      "name": "Volodymyr Rashchuk",
+      "profilePath": "/3IXflGqHhgNsfmRHzXdI7ITuIIf.jpg"
+    },
+    {
+      "character": "Monakh",
+      "id": 3190635,
+      "name": "Oleksandr Yatsentiuk",
+      "profilePath": "/zs9Mtfi4o22KDxF53Ik5tWkSq5.jpg"
+    },
+    {
+      "character": "Vakula",
+      "id": 3108544,
+      "name": "Mykhailo Dziuba",
+      "profilePath": "/6aK7zhLz0CKhbEp9WwzlZ4TB319.jpg"
+    },
+    {
+      "character": "Sheva",
+      "id": 5298993,
+      "name": "Andrii Podliesnyi",
+      "profilePath": "/7XWJeIGKN7KgNS8iiiN3gajQeCp.jpg"
+    },
+    {
+      "character": "Bum",
+      "id": 3241640,
+      "name": "Orest Pasichnyk",
+      "profilePath": "/mRW9MhSI7UBdSU9RT6w4Mpg2ljh.jpg"
+    },
+    {
+      "character": "Fialka",
+      "id": 2041824,
+      "name": "Iryna Kudashova",
+      "profilePath": "/jNi2iHwuVjAAjiOuxRhcLiUd0ez.jpg"
+    },
+    {
+      "character": "Aistra",
+      "id": 5298999,
+      "name": "Vlada Marchevska",
+      "profilePath": null
+    },
+    {
+      "character": "Volodymyr Karlov",
+      "id": 5299251,
+      "name": "Andrii Zhyla",
+      "profilePath": "/ssvWWqRR4JNR7hUZERjm5gbN6dS.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 21652,
+      "logoPath": "/o5qeK1nhECoVkuIxMO4T6yBYqwX.png",
+      "name": "FILM.UA Group"
+    }
+  ],
+  "countries": [
+    {
+      "code": "UA",
+      "name": "Ukraine"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt36958316",
+    "wikidataId": "Q137184114"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1446765,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "uk",
+      "name": "Ukrainian"
+    }
+  ],
+  "originalTitle": "Каховський обʼєкт",
+  "overview": "سربازان اوکراینی یک پناهگاه تحقیقاتی مخفی شوروی را پیدا می‌کنند که در آن آزمایش‌های انسانی انجام می‌شد. آنها متوجه می‌شوند که این مرکز متروکه نیست، بلکه پر از مردگان متحرک است...",
+  "posterPath": "/uAc9a1l2H5lLPW5a1j7aVahjdPp.jpg",
+  "rating": 5.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "You want justice? Overcome the monsters of the past first.",
+  "theatricalDate": null,
+  "title": "The Dam",
+  "translations": {
+    "faOverview": "سربازان اوکراینی یک پناهگاه تحقیقاتی مخفی شوروی را پیدا می‌کنند که در آن آزمایش‌های انسانی انجام می‌شد. آنها متوجه می‌شوند که این مرکز متروکه نیست، بلکه پر از مردگان متحرک است...",
+    "faTitle": "سد"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "G3oz0FL08zo",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "v21mSpkwjf8",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 15,
+  "watchProviders": {}
+}

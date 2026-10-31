@@ -1,0 +1,246 @@
+{
+  "backdropPath": "/rCHUEU61PF2VKsLpOQYtKBr0Fxe.jpg",
+  "cast": [
+    {
+      "character": "Micah",
+      "id": 5939775,
+      "name": "Rani Alowairdi",
+      "profilePath": null
+    },
+    {
+      "character": "Jean Westfall",
+      "id": 1337080,
+      "name": "Terri Merritt Bennett",
+      "profilePath": "/2eoOHPBLqPdBTNcOknSZLC9PXbM.jpg"
+    },
+    {
+      "character": "Will",
+      "id": 1832217,
+      "name": "Ryan Bijan",
+      "profilePath": null
+    },
+    {
+      "character": "Ann",
+      "id": 5939776,
+      "name": "Savannah Rae Collins",
+      "profilePath": null
+    },
+    {
+      "character": "Hudson",
+      "id": 3058009,
+      "name": "Torren Davis",
+      "profilePath": null
+    },
+    {
+      "character": "Monty",
+      "id": 124716,
+      "name": "George Hardy",
+      "profilePath": "/sPZWbag7eMza9LoYy0MXweOxYWu.jpg"
+    },
+    {
+      "character": "Cameron",
+      "id": 990136,
+      "name": "Judd Lormand",
+      "profilePath": "/jeZBWgcjiTaXZM6FwcHm9QW1F6w.jpg"
+    },
+    {
+      "character": "Gabrielle",
+      "id": 4205711,
+      "name": "Jeni Robins",
+      "profilePath": null
+    },
+    {
+      "character": "Sam",
+      "id": 5939781,
+      "name": "Joey Terracina",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 288001,
+      "logoPath": null,
+      "name": "Howdy Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37933993"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1552050,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Hem",
+  "overview": "A documentary crew investigates a haunted church on the verge of collapse with one condition: they must be out by dark.",
+  "posterPath": "/7KkFGmj0K7GOA7dIkmU8Zvj6LBf.jpg",
+  "rating": 3.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2025-10-01"
+    }
+  },
+  "runtime": 78,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Hem",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "DU3Ccd_VBCY",
+      "name": "THE HEM | Official Teaser | Found Footage",
+      "official": false,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 8,
+  "watchProviders": {
+    "AE": {
+      "ads": [
+        {
+          "id": 2478,
+          "logoPath": "/2hAu4MUecOOMTtrlJ3XEqB4dhZr.png",
+          "name": "FOUND TV"
+        }
+      ],
+      "buy": [],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1552050-the-hem/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        },
+        {
+          "id": 2478,
+          "logoPath": "/2hAu4MUecOOMTtrlJ3XEqB4dhZr.png",
+          "name": "FOUND TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1552050-the-hem/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 2478,
+          "logoPath": "/2hAu4MUecOOMTtrlJ3XEqB4dhZr.png",
+          "name": "FOUND TV"
+        },
+        {
+          "id": 73,
+          "logoPath": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+          "name": "Tubi TV"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1552050-the-hem/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    }
+  }
+}

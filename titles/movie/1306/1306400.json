@@ -1,0 +1,357 @@
+{
+  "backdropPath": "/tD9gHDBMUQaw07LKppyNnAWaK1y.jpg",
+  "cast": [
+    {
+      "character": "Franklin Shepard",
+      "id": 221611,
+      "name": "Jonathan Groff",
+      "profilePath": "/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
+    },
+    {
+      "character": "Mary Flynn",
+      "id": 1478994,
+      "name": "Lindsay Mendez",
+      "profilePath": "/d7DDVWmAggN7STtVtIP0bE17e3J.jpg"
+    },
+    {
+      "character": "Charley Kringas",
+      "id": 10980,
+      "name": "Daniel Radcliffe",
+      "profilePath": "/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+    },
+    {
+      "character": "Gussie Carnegie",
+      "id": 1967809,
+      "name": "Krystal Joy Brown",
+      "profilePath": "/5RlZjZoE8MesOazeFpHSPT8CBvr.jpg"
+    },
+    {
+      "character": "Joe Josephson",
+      "id": 129759,
+      "name": "Reg Rogers",
+      "profilePath": "/3VqnWd3d5BnnxxyAEnQ85mdOaG2.jpg"
+    },
+    {
+      "character": "Beth Shepard",
+      "id": 1383717,
+      "name": "Katie Rose Clarke",
+      "profilePath": "/5lJczaxWj4Onh9VhC7U2Lk5QpTG.jpg"
+    },
+    {
+      "character": "Franklin ‘Frankie’ Shepard Jr.",
+      "id": 4782771,
+      "name": "Max Rackenberg",
+      "profilePath": "/d8xKEDnT7y9X3lWs2Ul7w7DsyWZ.jpg"
+    },
+    {
+      "character": "Scotty / Mrs. Spencer / Auditionee",
+      "id": 4782772,
+      "name": "Sherz Aletaha",
+      "profilePath": "/gJytMRN9xqpJrlS7zGef7e9d6vj.jpg"
+    },
+    {
+      "character": "Terry / Mr. Spencer",
+      "id": 3334443,
+      "name": "Jacob Keith Watson",
+      "profilePath": "/abg5xQlk3iETUhoxtY9R5QZhRXX.jpg"
+    },
+    {
+      "character": "Tyler",
+      "id": 2951874,
+      "name": "Corey Mach",
+      "profilePath": "/sJiMkADCDOd5Gof0kogQMx4osl7.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 89394,
+      "logoPath": "/m1Hku3PhgdsQiPO8uVe7szyrxAb.png",
+      "name": "RadicalMedia"
+    },
+    {
+      "id": 108890,
+      "logoPath": "/jzpBa1CBrQaoz0lwxZ1YdqNzRXQ.png",
+      "name": "Sonia Friedman Productions"
+    },
+    {
+      "id": 169871,
+      "logoPath": null,
+      "name": "No Guarantees Productions"
+    },
+    {
+      "id": 278166,
+      "logoPath": null,
+      "name": "Chocolate Factory Productions"
+    },
+    {
+      "id": 278167,
+      "logoPath": null,
+      "name": "P-Cat Productions"
+    },
+    {
+      "id": 278168,
+      "logoPath": null,
+      "name": "Stephen Sondheim Trust"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-01-20",
+  "externalIds": {
+    "imdbId": "tt32641442",
+    "wikidataId": "Q137215299"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 46,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1306400,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Merrily We Roll Along",
+  "overview": "این فیلم نسخهٔ سینمایی از نمایش موزیکال پرطرفدار برادوی است که داستان سه دوست نزدیک را در طول سه دهه زندگی‌شان روایت می‌کند — اما به شکلی غیرمعمول برعکس: از دوران بزرگ‌سالی و شکست‌هایشان شروع می‌شود و به دورهٔ جوانی و رؤیاهای نخستین بازمی‌گردد.",
+  "posterPath": "/8h3uNPMdQKr7ffwAjU0aURFqIK.jpg",
+  "rating": 6.9,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-12-04"
+    },
+    "US": {
+      "digitalDate": "2026-01-20",
+      "gapDays": 46,
+      "theatricalDate": "2025-12-05"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-03-22"
+    },
+    "GB": {
+      "theatricalLimited": "2025-12-04"
+    },
+    "US": {
+      "digital": "2026-01-20",
+      "physical": "2026-03-03",
+      "premiere": "2025-10-12",
+      "theatricalLimited": "2025-12-05"
+    }
+  },
+  "runtime": 145,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Hey, old friend? How do we stay old friends?",
+  "theatricalDate": "2025-12-05",
+  "title": "Merrily We Roll Along",
+  "translations": {
+    "faOverview": "این فیلم نسخهٔ سینمایی از نمایش موزیکال پرطرفدار برادوی است که داستان سه دوست نزدیک را در طول سه دهه زندگی‌شان روایت می‌کند — اما به شکلی غیرمعمول برعکس: از دوران بزرگ‌سالی و شکست‌هایشان شروع می‌شود و به دورهٔ جوانی و رؤیاهای نخستین بازمی‌گردد.",
+    "faTitle": "با خوشی پیش میرویم"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "7k8Gy8dHAbI",
+      "name": "7 Minute Extended Preview",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "t-r2Ym1H2s4",
+      "name": "\"Friends-4-Ever\" with Daniel Radcliffe, Jonathan Groff, & Lindsay Mendez",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "ccjOVF7TGKI",
+      "name": "How Maria Friedman Brought MERRILY WE ROLL ALONG Back to Life",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "Ams0ROhWX0w",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 25,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 1750,
+          "logoPath": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+          "name": "TOD"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1306400-merrily-we-roll-along/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1306400-merrily-we-roll-along/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1306400-merrily-we-roll-along/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 331,
+          "logoPath": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+          "name": "FlixFling"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

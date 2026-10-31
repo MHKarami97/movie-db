@@ -1,0 +1,113 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Laura Bennett",
+      "id": 5943065,
+      "name": "Emily Carver",
+      "profilePath": null
+    },
+    {
+      "character": "Evan Bennett",
+      "id": 5943066,
+      "name": "Jacob Miller",
+      "profilePath": null
+    },
+    {
+      "character": "Maya Bennett",
+      "id": 5943071,
+      "name": "Sofia Ramirez",
+      "profilePath": null
+    },
+    {
+      "character": "Caleb Bennett",
+      "id": 5943073,
+      "name": "Noah Whitaker",
+      "profilePath": null
+    },
+    {
+      "character": "Rachel Moore",
+      "id": 5943075,
+      "name": "Rachel Dunne",
+      "profilePath": null
+    },
+    {
+      "character": "Daniel Ortiz",
+      "id": 5943078,
+      "name": "Luis Hernandez",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 286112,
+      "logoPath": null,
+      "name": "DL Studios"
+    }
+  ],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "id": 1617834,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Absence",
+  "overview": "After their father’s death shatters the fragile balance of their family, a distant mother tries to reconnect with her children as grief resurfaces buried resentments. With the one person who held them together gone, they must decide whether they can become a family on their own, or remain permanently broken.",
+  "posterPath": null,
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-06-01"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatricalLimited": "2027-06-01"
+    }
+  },
+  "runtime": 142,
+  "schemaVersion": 2,
+  "status": "Planned",
+  "tagline": "Some families fall apart quietly.",
+  "theatricalDate": "2027-06-01",
+  "title": "Absence",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

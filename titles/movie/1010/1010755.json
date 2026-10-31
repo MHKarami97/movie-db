@@ -1,0 +1,377 @@
+{
+  "backdropPath": "/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
+  "cast": [
+    {
+      "character": "Maya",
+      "id": 1592855,
+      "name": "Madelaine Petsch",
+      "profilePath": "/mfZo30YgMx7vhAUajM8OG6I6VM8.jpg"
+    },
+    {
+      "character": "Sheriff Rotter",
+      "id": 3901,
+      "name": "Richard Brake",
+      "profilePath": "/JwsiErANShzPSdYsNoiNYdrSg1.jpg"
+    },
+    {
+      "character": "Shelly / Pinup",
+      "id": 1921268,
+      "name": "Ema Horvath",
+      "profilePath": "/4YindT5cKhekpAilc6q0scQeUQx.jpg"
+    },
+    {
+      "character": "Gregory / Scarecrow",
+      "id": 222122,
+      "name": "Gabriel Basso",
+      "profilePath": "/6jHYQf6Y37BEouavp03WWpWpFyR.jpg"
+    },
+    {
+      "character": "Deputy Walters",
+      "id": 3188261,
+      "name": "Pedro Leandro",
+      "profilePath": "/2mqNYfAKoazh2cWwPmSKLUuqzuV.jpg"
+    },
+    {
+      "character": "Debbie",
+      "id": 1076119,
+      "name": "Rachel Shenton",
+      "profilePath": "/oCStwXsSGTDwO8md00tzwAviyBk.jpg"
+    },
+    {
+      "character": "Howard",
+      "id": 1622199,
+      "name": "George Young",
+      "profilePath": "/dDTtlhWEnqIvBoOljmX2Hoi8IO4.jpg"
+    },
+    {
+      "character": "Teenage Gregory / Scarecrow",
+      "id": 1144353,
+      "name": "Kyle Breitkopf",
+      "profilePath": "/zAxDr9wdkLYPD3sVnW5Y9gZVgA4.jpg"
+    },
+    {
+      "character": "Teenage Pinup",
+      "id": 5996169,
+      "name": "Finn Cofell",
+      "profilePath": "/nzbhVDO6clR5B43S7Eui4fyJXqQ.jpg"
+    },
+    {
+      "character": "Dougie",
+      "id": 1278601,
+      "name": "Stevee Davies",
+      "profilePath": "/3Wck1WgvZzU8WmTRHMdY6pU5Vpp.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1632,
+      "logoPath": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate"
+    },
+    {
+      "id": 200342,
+      "logoPath": null,
+      "name": "Fifth Element Productions"
+    },
+    {
+      "id": 9987,
+      "logoPath": "/o5OTKAw7Acl5fTZYPyl8M8D9570.png",
+      "name": "Lipsync Productions"
+    },
+    {
+      "id": 175756,
+      "logoPath": null,
+      "name": "Sherbone Media"
+    },
+    {
+      "id": 229418,
+      "logoPath": null,
+      "name": "Stream Media"
+    },
+    {
+      "id": 115145,
+      "logoPath": "/cIB3bahPCEHNVqfLyCh7JXFZf58.png",
+      "name": "Elipsis Capital"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": "2026-03-06",
+  "externalIds": {
+    "imdbId": "tt28682323",
+    "instagramId": "thestrangersfilm",
+    "twitterId": "strangers_film",
+    "wikidataId": "Q122396992"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 28,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1010755,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "pl",
+      "name": "Polish"
+    }
+  ],
+  "originalTitle": "The Strangers: Chapter 3",
+  "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.",
+  "posterPath": "/dWi4D1rUX1Pg4MaafpwwssqJ9lv.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-03-19"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-02-06"
+    },
+    "US": {
+      "digitalDate": "2026-03-06",
+      "gapDays": 28,
+      "theatricalDate": "2026-02-06"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-03-19"
+    },
+    "GB": {
+      "theatrical": "2026-02-06"
+    },
+    "US": {
+      "digital": "2026-03-06",
+      "theatrical": "2026-02-06",
+      "tv": "2026-06-06"
+    }
+  },
+  "runtime": 92,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Embrace your fears.",
+  "theatricalDate": "2026-02-06",
+  "title": "The Strangers: Chapter 3",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "U0uldnw6QNQ",
+      "name": "roses are red, violets are blue, The Strangers mean business, and they're coming for you",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "yyAALuRTQ_w",
+      "name": "Official Clip 'Woodchipper'",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "iZj8d1YymhE",
+      "name": "the end is nigh.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "20y5H6OCGgs",
+      "name": "are you scared?",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "DgwLd3x4kt0",
+      "name": "step inside (or don't)",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "B2fZEIHamVs",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "XrdeKOxCV3Y",
+      "name": "Official Teaser",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 343,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1010755-the-strangers-chapter-3/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1794,
+          "logoPath": "/adymMNlhhLlJl5xccRCrsh3OehD.png",
+          "name": "Starz Amazon Channel"
+        },
+        {
+          "id": 43,
+          "logoPath": "/h25xjouKmiSmFiiqw0aDXbxGZo7.png",
+          "name": "Starz"
+        },
+        {
+          "id": 1855,
+          "logoPath": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+          "name": "Starz Apple TV channel"
+        },
+        {
+          "id": 634,
+          "logoPath": "/tKembbxL7cYdDvFK70xBecbN0G8.png",
+          "name": "Starz Roku Premium Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1010755-the-strangers-chapter-3/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

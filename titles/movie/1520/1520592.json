@@ -1,0 +1,174 @@
+{
+  "backdropPath": "/gDpRamKdIUrlea0KyzaPnS9NM8K.jpg",
+  "cast": [
+    {
+      "character": "Lucy",
+      "id": 530618,
+      "name": "Jane Levy",
+      "profilePath": "/iYyWPOOpZgAqZK6IddSaD4R9QW3.jpg"
+    },
+    {
+      "character": "Carla",
+      "id": 1427680,
+      "name": "Jessica Rothe",
+      "profilePath": "/oItPXy56W0Y5taqIMZilRtnPDMn.jpg"
+    },
+    {
+      "character": "Drew",
+      "id": 4331185,
+      "name": "Max Mattern",
+      "profilePath": "/fugNAhgsqKIrJkQUB9jEr56LzDk.jpg"
+    },
+    {
+      "character": "The Man",
+      "id": 3158773,
+      "name": "Dane DiLiegro",
+      "profilePath": "/dBaJs1QNTpYL3RIdBz8VN01mmDf.jpg"
+    },
+    {
+      "character": "Charlie",
+      "id": 2090188,
+      "name": "Mickey Dolan",
+      "profilePath": "/mIZBvVJcsbbd41tayryiwhKfAqe.jpg"
+    },
+    {
+      "character": "Young Carla",
+      "id": 5337121,
+      "name": "Addison Smith",
+      "profilePath": null
+    },
+    {
+      "character": "Young Lucy",
+      "id": 6472636,
+      "name": "Aubree Liscotti",
+      "profilePath": null
+    },
+    {
+      "character": "River",
+      "id": 5348380,
+      "name": "Westley Bator",
+      "profilePath": "/f0E1cEdq4bDBO0SczOHK3F9rsoG.jpg"
+    },
+    {
+      "character": "Father",
+      "id": 126844,
+      "name": "Josh Nuncio",
+      "profilePath": "/8ptijhHtDmHkVuokgTy7x8REXFI.jpg"
+    },
+    {
+      "character": "Meredith",
+      "id": 4448032,
+      "name": "Lexy Dewland",
+      "profilePath": "/vO0wW3EkguZ0TuqdxGOTJQzdCt6.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 169906,
+      "logoPath": "/zcjActhEXaYww1JSvx2OtCd8jTG.png",
+      "name": "Spooky Pictures"
+    },
+    {
+      "id": 121708,
+      "logoPath": "/vcryivUnATVk0rpr1TMYSulGt26.png",
+      "name": "Eat the Cat"
+    },
+    {
+      "id": 279494,
+      "logoPath": "/vcprSwDDi4KsYlWeRqng8uWBKmk.png",
+      "name": "Upgrade"
+    },
+    {
+      "id": 142877,
+      "logoPath": "/c0Qhy9uvdXfvAZQ9e8GnT5Nb75m.png",
+      "name": "Shudder"
+    },
+    {
+      "id": 314016,
+      "logoPath": "/m9hpJbTXQIJfGSqYqaYDboUyjac.png",
+      "name": "Blumhouse Atomic Monster"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33085567",
+    "instagramId": "riverthefilm",
+    "wikidataId": "Q140930836"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "id": 1520592,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "River",
+  "overview": "After the death of their father, three siblings take a boat trip to spread their dad's ashes. However, they discover they have inadvertently stumbled onto the hunting grounds of a strange pair of masked killers, and must fight for their lives on a busted motorboat.",
+  "posterPath": "/xe9V5utoUjyb92g5eBWbro1MSKd.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-01-15"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-09-19",
+      "theatrical": "2027-01-15"
+    }
+  },
+  "runtime": 92,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Fear runs deep.",
+  "theatricalDate": "2027-01-15",
+  "title": "River",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "ox8lEnsxDag",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

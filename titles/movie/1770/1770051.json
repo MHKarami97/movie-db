@@ -1,0 +1,85 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "The Narrator",
+      "id": 3591057,
+      "name": "Anthonee Smith",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 198586,
+      "logoPath": null,
+      "name": "FruitBird Films"
+    }
+  ],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1770051,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Animals",
+  "overview": "Still trapped in a doomsday bunker the scientist continues his mission to narrate over footage of the natural world, hoping if animals ever return to this planet they will be cherished.",
+  "posterPath": "/q7tb4tli0pZpzzYPADNIwDHzODn.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2027-01-15"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2027-01-15"
+    }
+  },
+  "runtime": 59,
+  "schemaVersion": 2,
+  "status": "Planned",
+  "tagline": "Its the Cats Pajamas",
+  "theatricalDate": "2027-01-15",
+  "title": "Animals",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "VUkx17F9WnM",
+      "name": "Animals/Plants: OfficialTrailer",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 0,
+  "watchProviders": {}
+}

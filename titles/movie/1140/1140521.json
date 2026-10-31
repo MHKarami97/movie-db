@@ -1,0 +1,371 @@
+{
+  "backdropPath": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+  "cast": [
+    {
+      "character": "Fran Thompson",
+      "id": 2607591,
+      "name": "Billie Gadsdon",
+      "profilePath": "/3Xs8VgjGNCjFsIGaFcr3lIkYhrd.jpg"
+    },
+    {
+      "character": "Silky",
+      "id": 1267240,
+      "name": "Nicola Coughlan",
+      "profilePath": "/bhbFv73vlUM0hXlDdAGDrBBb40x.jpg"
+    },
+    {
+      "character": "Beth Thompson",
+      "id": 5858357,
+      "name": "Delilah Bennett-Cardy",
+      "profilePath": "/1qPiOcNNuREzA0BoiOgeEzLJnGF.jpg"
+    },
+    {
+      "character": "Joe Thompson",
+      "id": 3717950,
+      "name": "Phoenix Laroche",
+      "profilePath": "/kXl2nB3tNF9XBPvvkUZgwO0AiY3.jpg"
+    },
+    {
+      "character": "Moonface",
+      "id": 43547,
+      "name": "Nonso Anozie",
+      "profilePath": "/5V5EGRRftkAMPAwRP3a0tu0Nlwe.jpg"
+    },
+    {
+      "character": "Tim Thompson",
+      "id": 37625,
+      "name": "Andrew Garfield",
+      "profilePath": "/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+    },
+    {
+      "character": "Dame Snap",
+      "id": 933238,
+      "name": "Rebecca Ferguson",
+      "profilePath": "/ty8ZPzaCBBlqIr5qzpOXI24iC8j.jpg"
+    },
+    {
+      "character": "Polly Thompson",
+      "id": 120932,
+      "name": "Claire Foy",
+      "profilePath": "/pI1lOswQWZRhc8TKu0MESulw9uF.jpg"
+    },
+    {
+      "character": "Dame Washalot",
+      "id": 1196101,
+      "name": "Jessica Gunning",
+      "profilePath": "/c4nC6usiZdRlw4VkOcHFLXtrPa0.jpg"
+    },
+    {
+      "character": "Saucepan Man",
+      "id": 1308934,
+      "name": "Dustin Demri-Burns",
+      "profilePath": "/m0yBhBOqO9HSvsBxj9JzdPfMf3d.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1522,
+      "logoPath": "/8uaoEVgNxFH0R94O53gUiByahVr.png",
+      "name": "Neal Street Productions"
+    },
+    {
+      "id": 189103,
+      "logoPath": "/hu0qcD4k7kfWpdAewqmJSUyZPa7.png",
+      "name": "Ashland Hill Media Finance"
+    },
+    {
+      "id": 199856,
+      "logoPath": "/nCFvSYBD4UTSZvvVmEOLFGqKKdW.png",
+      "name": "Palisades Park Pictures"
+    },
+    {
+      "id": 210835,
+      "logoPath": "/sVHTeLGqzIsljtlKpJRDfPZ3Lhg.png",
+      "name": "Elysian Film Group"
+    },
+    {
+      "id": 113521,
+      "logoPath": "/fWQ9uEqIKuPukxrbZEUIrkPRrjs.png",
+      "name": "StudioCanal UK"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-09-29",
+  "externalIds": {
+    "imdbId": "tt7734244",
+    "wikidataId": "Q126930033"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 39,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "id": 1140521,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "The Magic Faraway Tree",
+  "overview": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.",
+  "posterPath": "/udXvLxC5gAqN8SinemyFBEcHpTf.jpg",
+  "rating": 6.7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-20"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-05-12",
+      "gapDays": 46,
+      "theatricalDate": "2026-03-27"
+    },
+    "US": {
+      "digitalDate": "2026-09-29",
+      "gapDays": 39,
+      "theatricalDate": "2026-08-21"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-08-20"
+    },
+    "GB": {
+      "digital": "2026-05-12",
+      "theatrical": "2026-03-27"
+    },
+    "US": {
+      "digital": "2026-09-29",
+      "theatrical": "2026-08-21"
+    }
+  },
+  "runtime": 110,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-08-21",
+  "title": "The Magic Faraway Tree",
+  "translations": {
+    "faTitle": "درخت جادویی سرزمین‌های دوردست"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "VlCvRXXKExE",
+      "name": "Meet The Birthday Elves",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "rjFLLCYNaxg",
+      "name": "Fran Discovers The Magic Faraway Tree",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "bxWxrEsdWqQ",
+      "name": "In Cinemas Everywhere NOW",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "3vvek1-qIvo",
+      "name": "In Cinemas Everywhere NOW",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "JwFY341uTpE",
+      "name": "In Cinemas Everywhere 27 March",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "wGGuodWFIxU",
+      "name": "In Cinemas Everywhere Friday",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "PneOcY86ww0",
+      "name": "In Cinemas Everywhere 27 March",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ujP6Z8Oour4",
+      "name": "In Cinemas Everywhere 27 March",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "xKHdnMOWerQ",
+      "name": "Adventure awaits!",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "wSaCp5UTGl8",
+      "name": "In Cinemas March 26",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "ZmDC371U_oI",
+      "name": "In Cinemas Everywhere 27 March",
+      "official": true,
+      "type": "Behind the Scenes"
+    },
+    {
+      "key": "b9qyzVCW9sc",
+      "name": "In Cinemas Everywhere 27 March",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "v2V3C08O6Iw",
+      "name": "In Cinemas Everywhere 27 March",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "PAUEwUhAjzg",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "cTKFa2dAiuA",
+      "name": "Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 102,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 9,
+          "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "id": 2100,
+          "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1140521-the-magic-faraway-tree/watch?locale=GB",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 130,
+          "logoPath": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+          "name": "Sky Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1140521-the-magic-faraway-tree/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "backdropPath": "/fZET7t09TAgxFw80tYzqBsjtjb6.jpg",
+  "cast": [
+    {
+      "character": "Lily",
+      "id": 3053482,
+      "name": "Maggie García",
+      "profilePath": "/rDHTtPSI80kKpjGjFbOFv8UbL9M.jpg"
+    },
+    {
+      "character": "Lola",
+      "id": 2510657,
+      "name": "Patricia Peñalver",
+      "profilePath": "/txdyKJnQD3sia5iJ4Q4ruFXhnco.jpg"
+    },
+    {
+      "character": "Laura",
+      "id": 3578019,
+      "name": "Eve Ryan",
+      "profilePath": "/lqNMF1KmRt2R76GBblGH1mxum8P.jpg"
+    },
+    {
+      "character": "Leo",
+      "id": 2949789,
+      "name": "Elena Gallardo",
+      "profilePath": "/95ligT9ib4ozgYZCGSttxFU5sTn.jpg"
+    },
+    {
+      "character": "Adam",
+      "id": 4377946,
+      "name": "Mike Fajardo",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 240467,
+      "logoPath": null,
+      "name": "The Room Films"
+    },
+    {
+      "id": 139929,
+      "logoPath": null,
+      "name": "The Room Studio"
+    }
+  ],
+  "countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33451030",
+    "wikidataId": "Q141659870"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1364168,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "El ritual de Lily",
+  "overview": "Four friends travel to an isolated house to perform a witchcraft ritual.",
+  "posterPath": "/ryRhUfyF9j4Ty01gnZyZkJCshTs.jpg",
+  "rating": 6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2025-10-12"
+    },
+    "US": {
+      "premiere": "2025-12-10"
+    }
+  },
+  "runtime": 105,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Lily's Ritual",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 5,
+  "watchProviders": {}
+}

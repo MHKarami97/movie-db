@@ -1,0 +1,172 @@
+{
+  "backdropPath": "/mrYoBknZhVI7jMsEe4nbbHLgLKa.jpg",
+  "cast": [
+    {
+      "character": "Self (archive footage)",
+      "id": 978103,
+      "name": "Aileen Wuornos",
+      "profilePath": "/wndkcgrXERfDIx3zFqSDGMN6gZa.jpg"
+    },
+    {
+      "character": "Self (archive footage)",
+      "id": 5785585,
+      "name": "Michele Gillen",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 130993,
+      "logoPath": "/kdA5P0LWmDA7Kuv5fFnT8UGWbU3.png",
+      "name": "BBC Studios Documentary Unit"
+    },
+    {
+      "id": 162351,
+      "logoPath": "/pcbWKao4b7WTn2USrfgDjxahVN6.png",
+      "name": "NBC News Studios"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-10-30",
+  "externalIds": {
+    "imdbId": "tt38457052",
+    "wikidataId": "Q136661865"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1550569,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Aileen: Queen of the Serial Killers",
+  "overview": "Aileen Wuornos remains a rarity: a female serial killer. From childhood abuse to death-row revelations, this documentary revisits her life and crimes.",
+  "posterPath": "/iBCorGTwpXhIOeWwTA21HC5Rprx.jpg",
+  "rating": 7,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-10-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-10-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-10-30",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2025-10-30"
+    },
+    "GB": {
+      "digital": "2025-10-30"
+    },
+    "US": {
+      "digital": "2025-10-30"
+    }
+  },
+  "runtime": 104,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Aileen: Queen of the Serial Killers",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "cN0PebFoXyw",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 90,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1550569-aileen-queen-of-the-serial-killers/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1550569-aileen-queen-of-the-serial-killers/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1550569-aileen-queen-of-the-serial-killers/watch?locale=US",
+      "rent": []
+    }
+  }
+}

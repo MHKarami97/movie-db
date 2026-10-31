@@ -1,0 +1,264 @@
+{
+  "backdropPath": "/eCLS2vvfyXfG64FZocHs9baVvKA.jpg",
+  "cast": [
+    {
+      "character": "Emily",
+      "id": 5655633,
+      "name": "Zola Grimmer",
+      "profilePath": "/jzDXdxklBhM6F6jIRvV4575NDlC.jpg"
+    },
+    {
+      "character": "Clara",
+      "id": 5491299,
+      "name": "Alice Wordsworth",
+      "profilePath": "/1iuoQiRTyEbEB6vJvmaxGI1QcCh.jpg"
+    },
+    {
+      "character": "Rosie",
+      "id": 5655636,
+      "name": "Cherry Moore",
+      "profilePath": "/gUeFdPQ8KXd3z8TytSQvQmzz55y.jpg"
+    },
+    {
+      "character": "Nev",
+      "id": 4307110,
+      "name": "Lea Rose Sebastianis",
+      "profilePath": "/hmh3wErANhtjvPEW1v1cB2s6kXV.jpg"
+    },
+    {
+      "character": "Hope",
+      "id": 5495756,
+      "name": "Ella Reece",
+      "profilePath": "/4w54EmHNK39WZ5U9eV53N8OjWDB.jpg"
+    },
+    {
+      "character": "Dan",
+      "id": 3760339,
+      "name": "Austyn Van de Kamp",
+      "profilePath": "/ehCXIlfebhJ1joqRv5oMofJ5rfi.jpg"
+    },
+    {
+      "character": "JB",
+      "id": 5655675,
+      "name": "Aidan Laudersmith",
+      "profilePath": null
+    },
+    {
+      "character": "Eden",
+      "id": 6319340,
+      "name": "Izza Jarvis",
+      "profilePath": null
+    },
+    {
+      "character": "Jo",
+      "id": 3341202,
+      "name": "Sophie Bawks-Smith",
+      "profilePath": "/coeW3NGvkZP5klFbIKIxJq6otR.jpg"
+    },
+    {
+      "character": "Emily's Dad",
+      "id": 5035357,
+      "name": "Mike Tan",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 290138,
+      "logoPath": null,
+      "name": "Camp Productions"
+    },
+    {
+      "id": 150728,
+      "logoPath": "/cOoAeWFbGPnlx0znpBAoPESN7Zu.png",
+      "name": "Marginal MediaWorks"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-07-10",
+  "externalIds": {
+    "imdbId": "tt38226226",
+    "wikidataId": "Q139888261"
+  },
+  "fetchedAt": 1793990790150,
+  "gapDays": 14,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "id": 1362262,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "CAMP",
+  "overview": "Emily is the cause of two tragedies early in her life; her dad suggests she go to a Camp for troubled youth to ease her guilt. When Emily arrives, she is taken in by the other counsellors; they accept her as she is and wrap her in a veil of peace & forgiveness. Emily stands at the forefront of a new kind of life, but there’s a voice out there in the woods she can’t ignore, telling Emily to go home.",
+  "posterPath": "/pQrlFAiakpphxCrR5lmHT3GR7Td.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-07-10",
+      "gapDays": 14,
+      "theatricalDate": "2026-06-26"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "premiere": "2026-05-07"
+    },
+    "US": {
+      "digital": "2026-07-10",
+      "premiere": "2025-09-21",
+      "theatricalLimited": "2026-06-26"
+    }
+  },
+  "runtime": 111,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Maybe it's time to go home.",
+  "theatricalDate": "2026-06-26",
+  "title": "CAMP",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "XTiOCFuruFI",
+      "name": "Watch at Home",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "RMDGQdcFURM",
+      "name": "Avalon Fast & Zola Grimmer on The Spooky Bible Camp That Inspired CAMP",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "jblBtxlkVC8",
+      "name": "Witch Chant",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "GWMqlrsQrtY",
+      "name": "Get Tickets",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "SlsA7KPpotE",
+      "name": "In Theaters June 26th",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "qctnEcM5TkI",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "SzC1gk38mxk",
+      "name": "Exclusive Clip",
+      "official": true,
+      "type": "Clip"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 199,
+          "logoPath": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+          "name": "Fandor Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1362262-camp/watch?locale=US",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

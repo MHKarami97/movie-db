@@ -1,0 +1,311 @@
+{
+  "backdropPath": "/jmWgUSrqvlLytWgBHvNuRyKq0WZ.jpg",
+  "cast": [
+    {
+      "character": "Jackie",
+      "id": 18897,
+      "name": "Jackie Chan",
+      "profilePath": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "character": "Patriarch",
+      "id": 1519027,
+      "name": "Ma Li",
+      "profilePath": "/qyZrvxKCUHMXTyrqXSi78X2Sgu8.jpg"
+    },
+    {
+      "character": "Qiang Shan",
+      "id": 1734106,
+      "name": "Qiao Shan",
+      "profilePath": "/zaTccwcq61PWWzWIgqapnpQph00.jpg"
+    },
+    {
+      "character": "Tu Lu",
+      "id": 2858382,
+      "name": "Yu Yang",
+      "profilePath": "/cccqipLF2z5SnQ5IWUjTjN9v5aG.jpg"
+    },
+    {
+      "character": "Sha Yi",
+      "id": 3066782,
+      "name": "Wang Yinglu",
+      "profilePath": "/3omLBO8BI1Z7rpA2AXFzTUKT8rZ.jpg"
+    },
+    {
+      "character": "High Priest",
+      "id": 2308467,
+      "name": "Zhang Zidong",
+      "profilePath": "/o7dLeEeeAc1luoQb3ZuTYC9lffl.jpg"
+    },
+    {
+      "character": "Ben",
+      "id": 2231129,
+      "name": "Ke Da",
+      "profilePath": "/20wfahVEGo60s1GiaBPYvzFo0jE.jpg"
+    },
+    {
+      "character": "Bo",
+      "id": 3566740,
+      "name": "Song Muzi",
+      "profilePath": "/i9KaDxU9vxcXb57wOBv3MrYUiR7.jpg"
+    },
+    {
+      "character": "Ba",
+      "id": 2029011,
+      "name": "Wang Chengsi",
+      "profilePath": "/nIZhWUvPfE7pTnKdlud8iFJdhqQ.jpg"
+    },
+    {
+      "character": "Historiographer",
+      "id": 3910024,
+      "name": "Feng Man",
+      "profilePath": "/tncPBRSAfoLS2XbDPmF0WljTYKl.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 30324,
+      "logoPath": "/dgwcWHsusZtDCDJ7rUikk452lBd.png",
+      "name": "Emei Film Studio"
+    },
+    {
+      "id": 96956,
+      "logoPath": "/nMaeUdQwAhN69omhooaPDKCpEFO.png",
+      "name": "Maoyan Entertainment"
+    },
+    {
+      "id": 232065,
+      "logoPath": "/yXOzReA9mbTxW8EboUocNKBQjDb.png",
+      "name": "Uni Media"
+    },
+    {
+      "id": 17818,
+      "logoPath": "/tqImejhMUsOuuKCX2cySzaO7QTj.png",
+      "name": "Beijing Enlight Pictures"
+    },
+    {
+      "id": 25660,
+      "logoPath": "/q0418HVUNk0kq15tdU9idy00s11.png",
+      "name": "Huaxia Film Distribution"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt35514520",
+    "wikidataId": "Q139505406"
+  },
+  "fetchedAt": 1793504874718,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "id": 1421552,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "xx",
+      "name": "No Language"
+    }
+  ],
+  "originalTitle": "熊猫计划之部落奇遇记",
+  "overview": "The panda \"Huhu\" is about to move into a brand new panda enclosure when he's suddenly confronted by international robbers. Huhu falls off a cliff while battling the robbers, only to awaken to discover he's in a mysterious tribe. To return to the enclosure, this intriguing team helps the tribe solve various problems...",
+  "posterPath": "/ph8CrRJIW8ORoaJUCFLGYYFNywr.jpg",
+  "rating": 6.6,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-08-06"
+    },
+    "CN": {
+      "digitalDate": "2026-04-24",
+      "gapDays": 66,
+      "theatricalDate": "2026-02-17"
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-03-13"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2026-08-06"
+    },
+    "CN": {
+      "digital": "2026-04-24",
+      "theatrical": "2026-02-17"
+    },
+    "US": {
+      "theatricalLimited": "2026-03-13"
+    }
+  },
+  "runtime": 100,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-03-13",
+  "title": "Panda Plan: The Magical Tribe",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "V3jKsgAqFas",
+      "name": "Official Trailer 2 [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "2Ve3IwTW-2c",
+      "name": "Official Trailer [Subtitled]",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 27,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 29,
+          "logoPath": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+          "name": "Sky Go"
+        },
+        {
+          "id": 591,
+          "logoPath": "/hlfGtOZsbFw8jwVwDaFPUbaKgrq.png",
+          "name": "Now TV Cinema"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1421552/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [
+        {
+          "id": 207,
+          "logoPath": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+          "name": "The Roku Channel"
+        },
+        {
+          "id": 235,
+          "logoPath": "/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png",
+          "name": "YouTube Free"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        },
+        {
+          "id": 2077,
+          "logoPath": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+          "name": "Plex Channel"
+        }
+      ],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 503,
+          "logoPath": "/VSkdYiq9YA34Oaucl2Ga0dBL11.png",
+          "name": "Hi-YAH"
+        }
+      ],
+      "free": [
+        {
+          "id": 2409,
+          "logoPath": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+          "name": "Fawesome"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1421552/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        },
+        {
+          "id": 538,
+          "logoPath": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+          "name": "Plex"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "backdropPath": "/g1aauzWYfNZXLkTgNvXFuB43v0l.jpg",
+  "cast": [
+    {
+      "character": "Lu Jinnian",
+      "id": 2398805,
+      "name": "Wang Haozhen",
+      "profilePath": "/zRjyh4O1JyxWggoR2brbTKzfvvk.jpg"
+    },
+    {
+      "character": "Qiao Anhao",
+      "id": 3856524,
+      "name": "Guo Yuxin",
+      "profilePath": "/5CWWvPT07kY8nuGC891ugEXo2xb.jpg"
+    },
+    {
+      "character": "Han Ruchu",
+      "id": 5708374,
+      "name": "Weng Yizhen",
+      "profilePath": "/oFhcM4Nwp9dpAKGP8oKQpzUudvR.jpg"
+    },
+    {
+      "character": "Lu Jinnian's Assistant",
+      "id": 5714205,
+      "name": "Peng Ruinan",
+      "profilePath": "/4G7RCXuk2jBcGTyYS7kzkBh6DY3.jpg"
+    },
+    {
+      "character": "Zhao Meng",
+      "id": 5714208,
+      "name": "Yao Yiyi",
+      "profilePath": "/9Re0zTdtOPXjwU1xkRbXIsRhMSZ.jpg"
+    },
+    {
+      "character": "Young Qiao Anhao",
+      "id": 5714213,
+      "name": "Si Yue",
+      "profilePath": null
+    },
+    {
+      "character": "",
+      "id": 6075380,
+      "name": "Wang Hao",
+      "profilePath": "/xz5dOZCoaUcYPDunJeqdKbDTKSt.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 275579,
+      "logoPath": "/xwO0BrXdIpINX4KkZxtgXa17JIO.png",
+      "name": "海鱼星空"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "digitalDate": "2025-08-30",
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 300808,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "zh",
+      "name": "Mandarin"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-24",
+    "episodeNumber": 62,
+    "id": 6884909,
+    "name": "Episode 62",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-10-31",
+    "episodeNumber": 63,
+    "id": 6884910,
+    "name": "Episode 63",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "国民老公带回家",
+  "overview": "Qiao Anhao and Lu Jinnian enter a fake marriage because of Xu Jia Mu’s car accident, concealing their true feelings. Later, they join the same film crew and experience misunderstandings, mutual protection, and revelations about the past.",
+  "posterPath": "/sYkUd2w2w4DwYOsr8hbANQVDS5m.jpg",
+  "rating": 9.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2025-08-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2025-08-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2025-08-30",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-08-30",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2025-08-30"
+    },
+    "CN": {
+      "tv": "2025-08-30"
+    },
+    "GB": {
+      "tv": "2025-08-30"
+    },
+    "US": {
+      "tv": "2025-08-30"
+    }
+  },
+  "runtime": 4,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2025-08-30",
+      "episodeCount": 81,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/ax50Q66yk5Gac4xKOYIW7zGM8xO.jpg",
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "My National Husband",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 2,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 623,
+          "logoPath": "/wonfCSSdI55EfVFlWJyyQZIlYx7.png",
+          "name": "WeTV"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/300808/watch?locale=AE",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 623,
+          "logoPath": "/wonfCSSdI55EfVFlWJyyQZIlYx7.png",
+          "name": "WeTV"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/tv/300808/watch?locale=US",
+      "rent": []
+    }
+  }
+}

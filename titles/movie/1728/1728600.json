@@ -1,0 +1,65 @@
+{
+  "backdropPath": null,
+  "cast": [],
+  "companies": [],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1728600,
+  "keywords": [],
+  "languages": [],
+  "originalTitle": "Mr. Smith",
+  "overview": "After developing a dark obsession with his teenage daughter's classmate, a history teacher attempts to get closer to her by manipulating those around them. Driven by delusion, he recklessly destroys his own family by invading her life, refusing to see the horror he is inflicting, forcing the girl's father to take matters into his own hands.",
+  "posterPath": "/8VnXW2WkxvYqGd5miVOqR7RzrB7.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2028-10-08"
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "theatrical": "2028-10-08"
+    }
+  },
+  "runtime": 104,
+  "schemaVersion": 2,
+  "status": "Planned",
+  "tagline": "",
+  "theatricalDate": "2028-10-08",
+  "title": "Mr. Smith",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

@@ -1,0 +1,112 @@
+{
+  "backdropPath": "/6j0SlqmwlwTWeT6BlnD9JtYIOGk.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 86543,
+      "name": "David Attenborough",
+      "profilePath": "/xE6aLZ2Ma1VSoZGhOUW8TcbBMN6.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 132503,
+      "logoPath": null,
+      "name": "Passion Planet"
+    }
+  ],
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "digitalDate": "2026-01-01",
+  "externalIds": {
+    "imdbId": "tt39298503"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "id": 1604628,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Wild London",
+  "overview": "این مستند جدیدترین اثر دیوید اتنبرو، مستند ساز و حافظ محیط زیست که پس از دهه‌ها سفر به دورترین و بکرترین نقاط کره زمین، حالا در آستانه 100 سالگی به لندن بازگشته و این‌بار قصد دارد شگفتی‌های محیط زیست را در این کلان شهر به مخاطبانش نشان دهد.",
+  "posterPath": "/3yTYwbilgxE240qShWxcNmp9WHZ.jpg",
+  "rating": 8.3,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-01-01",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-01-01",
+      "tv": "2026-01-01"
+    }
+  },
+  "runtime": 58,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Wild London",
+  "translations": {
+    "faOverview": "این مستند جدیدترین اثر دیوید اتنبرو، مستند ساز و حافظ محیط زیست که پس از دهه‌ها سفر به دورترین و بکرترین نقاط کره زمین، حالا در آستانه 100 سالگی به لندن بازگشته و این‌بار قصد دارد شگفتی‌های محیط زیست را در این کلان شهر به مخاطبانش نشان دهد.",
+    "faTitle": "لندن وحشی"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "jGNIeFxEGtI",
+      "name": "Sir David Attenborough presents Wild London | Trailer - BBC",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 20,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 38,
+          "logoPath": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
+          "name": "BBC iPlayer"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1604628-wild-london/watch?locale=GB",
+      "rent": []
+    }
+  }
+}

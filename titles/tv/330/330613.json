@@ -1,0 +1,212 @@
+{
+  "backdropPath": null,
+  "cast": [
+    {
+      "character": "Metha",
+      "id": 3585000,
+      "name": "Jirapat Uttamanan",
+      "profilePath": "/q2pClc6VVrrdE0klvCf1Gql3kBb.jpg"
+    },
+    {
+      "character": "Dear",
+      "id": 4997795,
+      "name": "Siriwalee Siriwibool",
+      "profilePath": "/7vzqaFnNBe3DJQxWbwOgmKB8RJe.jpg"
+    },
+    {
+      "character": "Sugar",
+      "id": 5190119,
+      "name": "Paphavarin Sawasdiwech",
+      "profilePath": "/uyfUshvKHchaszJHezs6KdwGXXe.jpg"
+    },
+    {
+      "character": "Cherd",
+      "id": 6215934,
+      "name": "Pharaoh Chakkraphattranon",
+      "profilePath": null
+    },
+    {
+      "character": "Nawa",
+      "id": 6582771,
+      "name": "Pimnara Sirinphaisan",
+      "profilePath": null
+    },
+    {
+      "character": "Good",
+      "id": 4593114,
+      "name": "Sira Simmee",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 193036,
+      "logoPath": "/gtUgFbsHQesPXnHtxsA2kNOPQ6k.png",
+      "name": "BeBraveHub Entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "code": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "digitalDate": "2026-10-28",
+  "episodes": {
+    "1": [
+      {
+        "airDate": "2026-10-28",
+        "episodeNumber": 1,
+        "name": "Episode 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-10-28",
+        "episodeNumber": 2,
+        "name": "Episode 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-04",
+        "episodeNumber": 3,
+        "name": "Episode 3",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-11",
+        "episodeNumber": 4,
+        "name": "Episode 4",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-18",
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-11-25",
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-02",
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2026-12-09",
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [],
+  "id": 330613,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "th",
+      "name": "Thai"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-10-28",
+    "episodeNumber": 2,
+    "id": 7802521,
+    "name": "Episode 2",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2026-11-04",
+    "episodeNumber": 3,
+    "id": 7805970,
+    "name": "Episode 3",
+    "overview": "",
+    "seasonNumber": 1
+  },
+  "originalTitle": "กฎหลังเที่ยงคืน",
+  "overview": "Metha, a man burdened by a buried past, attempts to start over by taking a night shift job at a mysterious convenience store. However, the store operates under a set of strange, inviolable rules—rules that, when broken, unleash supernatural death. Night after night, Metha is forced to confront the uncanny forces within the store… and the sins he once committed, from which there is no escape.",
+  "posterPath": "/oSRuYY6z5CezBjb24kA1EgK3DlG.jpg",
+  "rating": 0,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-10-28",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2026-10-28",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-10-28",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-10-28",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2026-10-28"
+    },
+    "CN": {
+      "tv": "2026-10-28"
+    },
+    "GB": {
+      "tv": "2026-10-28"
+    },
+    "US": {
+      "tv": "2026-10-28"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2026-10-28",
+      "episodeCount": 8,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 1
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "The Rules",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 0,
+  "watchProviders": {}
+}

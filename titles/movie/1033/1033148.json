@@ -1,0 +1,414 @@
+{
+  "backdropPath": "/dEkFlZzj2cb5F7SShvqkL54E4lr.jpg",
+  "cast": [
+    {
+      "character": "Grace",
+      "id": 72129,
+      "name": "Jennifer Lawrence",
+      "profilePath": "/6WTY6HjXMGxnHilJRVC3eLnu43F.jpg"
+    },
+    {
+      "character": "Jackson",
+      "id": 11288,
+      "name": "Robert Pattinson",
+      "profilePath": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+    },
+    {
+      "character": "Pam",
+      "id": 5606,
+      "name": "Sissy Spacek",
+      "profilePath": "/xAxenjxjLNQFq4v1ccS2to3Mnoq.jpg"
+    },
+    {
+      "character": "Karl",
+      "id": 1200864,
+      "name": "LaKeith Stanfield",
+      "profilePath": "/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg"
+    },
+    {
+      "character": "Harry",
+      "id": 1733,
+      "name": "Nick Nolte",
+      "profilePath": "/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+      "character": "Jen",
+      "id": 58804,
+      "name": "Gabrielle Rose",
+      "profilePath": "/obWfgaR4YBk648USvpLrJC64DVU.jpg"
+    },
+    {
+      "character": "Courtney",
+      "id": 1025076,
+      "name": "Clare Coulter",
+      "profilePath": "/ki6Mxhn92agQRFJ9AN417s4ShhL.jpg"
+    },
+    {
+      "character": "Cheryl",
+      "id": 62910,
+      "name": "Sarah Lind",
+      "profilePath": "/v4EGfayvyrgq2y53xb9qWwrvqx.jpg"
+    },
+    {
+      "character": "Greg",
+      "id": 1369075,
+      "name": "Luke Camilleri",
+      "profilePath": "/gwXlMZCymzub08qDKfIHp44ZSjK.jpg"
+    },
+    {
+      "character": "Tom",
+      "id": 1442051,
+      "name": "Victor Zinck Jr.",
+      "profilePath": "/fJ5bc7Dmd7FpRsVJYcshMJaoo1l.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 117188,
+      "logoPath": null,
+      "name": "Excellent Cadaver"
+    },
+    {
+      "id": 23243,
+      "logoPath": "/cBPyrhXhGKzxUdL4Fkg801HZ4W.png",
+      "name": "Sikelia Productions"
+    },
+    {
+      "id": 33681,
+      "logoPath": "/dHx2nsV9AC7IBlKN2dk1FDImvOz.png",
+      "name": "Black Label Media"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-12-09",
+  "externalIds": {
+    "imdbId": "tt9362736",
+    "wikidataId": "Q117745793"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 32,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1033148,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Die My Love",
+  "overview": "گریس، که هم نویسنده است و هم مادری جوان، کم‌کم دارد عقلش را از دست می‌دهد. در خانه‌ای قدیمی در مونتانا حبس شده و رفتارهای او روز به روز آشفته‌تر و غیرقابل پیش‌بینی‌تر می‌شود و همراهش، جکسون را بیشتر نگران و درمانده می‌کند.",
+  "posterPath": "/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2025-12-04"
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-01-23",
+      "gapDays": 77,
+      "theatricalDate": "2025-11-07"
+    },
+    "US": {
+      "digitalDate": "2025-12-09",
+      "gapDays": 32,
+      "theatricalDate": "2025-11-07"
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "theatrical": "2025-12-04"
+    },
+    "GB": {
+      "digital": "2026-01-23",
+      "physical": "2026-04-20",
+      "premiere": "2025-10-17",
+      "theatrical": "2025-11-07"
+    },
+    "US": {
+      "digital": "2025-12-09",
+      "premiere": "2025-11-01",
+      "theatrical": "2025-11-07",
+      "tv": "2025-12-23"
+    }
+  },
+  "runtime": 119,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "Everything. Is. Fine.",
+  "theatricalDate": "2025-11-07",
+  "title": "Die My Love",
+  "translations": {
+    "faOverview": "گریس، که هم نویسنده است و هم مادری جوان، کم‌کم دارد عقلش را از دست می‌دهد. در خانه‌ای قدیمی در مونتانا حبس شده و رفتارهای او روز به روز آشفته‌تر و غیرقابل پیش‌بینی‌تر می‌شود و همراهش، جکسون را بیشتر نگران و درمانده می‌کند.",
+    "faTitle": "بمیر، عشق من"
+  },
+  "type": "movie",
+  "videos": [
+    {
+      "key": "GgLbDsUqV60",
+      "name": "Streaming as part of our “Truly, Madly Deeply” collection",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "fpaUpINYdPQ",
+      "name": "Jennifer Lawrence & Martin Scorsese In Conversation",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "FlIaiawMGWI",
+      "name": "#JenniferLawrence delivers a Golden Globe–nominated performance in DIE MY LOVE",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "3Fi6BsKbm8w",
+      "name": "\"Channeling peak Gena Rowlands\" - The List.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "rXfgtcu4-7A",
+      "name": "Jennifer Lawrence on Losing Control of Reality in ‘Die, My Love’",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "koGC6l7KoJ0",
+      "name": "DIE MY LOVE — Lynne Ramsay unleashes the beast | MUBI Podcast",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "CN03Vb2ihI4",
+      "name": "How Jennifer Lawrence & Robert Pattinson Created Intimacy for Die My Love | BAFTA",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "kaVLZLUFhLw",
+      "name": "“I am Gen Z.” - Robert Pattinson.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "bjmaTc8g7fo",
+      "name": "\"I'm just trying to be a good wife\".",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "StY4ulkC0vw",
+      "name": "“I get in fights on TikTok.” Jennifer Lawrence on secret fandoms.",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "N0m2pNJJYBA",
+      "name": "Official Clip #3",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "3vFOLPgrffE",
+      "name": "Jennifer Lawrence on the Living, Breathing Poetry of Lynne Ramsay",
+      "official": false,
+      "type": "Featurette"
+    },
+    {
+      "key": "IIdLLinK4lI",
+      "name": "Interview with Lynne Ramsay",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "frVX2HXS1ZM",
+      "name": "How Well Do Jennifer Lawrence & Robert Pattinson Know Each Other?",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "XHK1SrSZwoY",
+      "name": "Official Clip #2",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "CTR4K8fEndI",
+      "name": "Official Clip - Rage",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "KjAPrvh83gk",
+      "name": "Jennifer Lawrence on portraying motherhood in Die My Love",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "QInyD4vY820",
+      "name": "Live. Love. Loathe.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "aopLSeqnh98",
+      "name": "Everything. Is. Fine.",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "2jzXHW6Qe70",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "rekkPY6lyBg",
+      "name": "Jennifer Lawrence and Robert Pattinson discuss messy relationships while promoting DIE MY LOVE",
+      "official": true,
+      "type": "Featurette"
+    },
+    {
+      "key": "VGyERckoQpY",
+      "name": "Official Clip",
+      "official": true,
+      "type": "Clip"
+    },
+    {
+      "key": "8Y6yG4SgFew",
+      "name": "Official Teaser Trailer",
+      "official": true,
+      "type": "Teaser"
+    },
+    {
+      "key": "npLh2iND0WA",
+      "name": "Official Teaser Trailer",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 680,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 11,
+          "logoPath": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+          "name": "MUBI"
+        },
+        {
+          "id": 201,
+          "logoPath": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+          "name": "MUBI Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1033148-die-my-love/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 35,
+          "logoPath": "/872dfVu1biZISJ8rO143CZZutPR.png",
+          "name": "Rakuten TV"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 11,
+          "logoPath": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+          "name": "MUBI"
+        },
+        {
+          "id": 201,
+          "logoPath": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+          "name": "MUBI Amazon Channel"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1033148-die-my-love/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

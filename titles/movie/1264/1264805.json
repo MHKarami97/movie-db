@@ -1,0 +1,170 @@
+{
+  "backdropPath": "/2xtajuwR5EGFQm4pXuykWoEu4u0.jpg",
+  "cast": [
+    {
+      "character": "Eun-ho",
+      "id": 1096458,
+      "name": "Koo Kyo-hwan",
+      "profilePath": "/aFwCpSKPGFqoiTStY6ljXnD5CwH.jpg"
+    },
+    {
+      "character": "Jeong-won",
+      "id": 1252016,
+      "name": "Mun Ka-young",
+      "profilePath": "/sHOzgv3dvHZSDi5ijj5vbYYJwZ4.jpg"
+    },
+    {
+      "character": "Eun-ho's Father",
+      "id": 578838,
+      "name": "Shin Jung-keun",
+      "profilePath": "/2zuxoRgBPNCQXDGb3wOnGaJCI4y.jpg"
+    },
+    {
+      "character": "Min-jae",
+      "id": 1029156,
+      "name": "Lee Sang-yeob",
+      "profilePath": "/cLjZGSFDNoPexMj5R1oSSSkgClt.jpg"
+    },
+    {
+      "character": "Park Seung-chan",
+      "id": 6022155,
+      "name": "Kim Seo-won",
+      "profilePath": "/8qMgQS6Os8363mEXgX67pQMRDlC.jpg"
+    },
+    {
+      "character": "Gyeong-seok",
+      "id": 3389082,
+      "name": "Lim Jae-hyeok",
+      "profilePath": "/bMYeWZ9PvomlMR2ET6sVVihGyGa.jpg"
+    },
+    {
+      "character": "Yun-jin",
+      "id": 3231348,
+      "name": "Kim So-yul",
+      "profilePath": "/471iMzqAZKanb8PtkbG6m1ouG5u.jpg"
+    },
+    {
+      "character": "Eun-ho's Mother",
+      "id": 2256730,
+      "name": "Kang Mal-geum",
+      "profilePath": "/aQcgxtVnbHnWwjR3yUtnbvwARSR.jpg"
+    },
+    {
+      "character": "College Senior",
+      "id": 2068707,
+      "name": "Ji Suyeon",
+      "profilePath": "/kTo0JM9pxm0FZj0Kj4JWrM3tTPW.jpg"
+    },
+    {
+      "character": "Bus Driver",
+      "id": 4050196,
+      "name": "Lee Jae-in",
+      "profilePath": "/e5ks89pW0CNL0ibIdI5aq2rAQEq.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 170305,
+      "logoPath": null,
+      "name": "Covenant Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt37764737",
+    "wikidataId": "Q137398423"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1264805,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ko",
+      "name": "Korean"
+    }
+  ],
+  "originalTitle": "만약에 우리",
+  "overview": "Seoul, 2008. On a bus heading to their hometown, fate brings Eun-ho and Jeong-won together, sparking an unlikely friendship. While battling  a bustling and weary city life, they find themselves sharing lofty dreams and a love that comes to feel extraordinary. But, eventually, the harsh realities of life lead them to part ways. Over a decade after the separation, the two unexpectedly reunite on a flight back to Korea, where they reflect on their lost time.",
+  "posterPath": "/ivBI8FRQPIKzoZAryZK93xriOT.jpg",
+  "rating": 7.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": "2026-01-23"
+    }
+  },
+  "releaseDates": {
+    "CN": {
+      "premiere": "2026-06-12"
+    },
+    "GB": {
+      "premiere": "2026-11-13"
+    },
+    "US": {
+      "theatricalLimited": "2026-01-23"
+    }
+  },
+  "runtime": 115,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "When the love shines us the the most.",
+  "theatricalDate": "2026-01-23",
+  "title": "Once We Were Us",
+  "translations": {},
+  "type": "movie",
+  "videos": [],
+  "voteCount": 25,
+  "watchProviders": {
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 344,
+          "logoPath": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+          "name": "Rakuten Viki"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1264805/watch?locale=US",
+      "rent": []
+    }
+  }
+}

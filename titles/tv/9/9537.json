@@ -1,0 +1,165 @@
+{
+  "backdropPath": "/j6jHIjnyCT5YwxEKu7c8e7DS57V.jpg",
+  "cast": [
+    {
+      "character": "Mother (voice)",
+      "id": 934840,
+      "name": "Kumiko Watanabe",
+      "profilePath": "/4Os8XPmWoF65Y6tUrIyffpQJyqL.jpg"
+    },
+    {
+      "character": "Mikan (voice)",
+      "id": 23988,
+      "name": "Fumiko Orikasa",
+      "profilePath": "/f5d1J13fksa1hK8u7AS95aO8b9.jpg"
+    },
+    {
+      "character": "Yuzuhiko (voice)",
+      "id": 40331,
+      "name": "Daisuke Sakaguchi",
+      "profilePath": "/cP9lnoYSCyIpSlUkZN4k6RoD7fF.jpg"
+    },
+    {
+      "character": "Father (voice)",
+      "id": 142704,
+      "name": "Kenichi Ogata",
+      "profilePath": "/iQLEawIP2593yrGy22GzLSpnfgl.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 5141,
+      "logoPath": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+      "name": "Shin-Ei Animation"
+    },
+    {
+      "id": 9300,
+      "logoPath": "/9sSD1XufVCJWAadNiC9Mwu994VD.png",
+      "name": "TV Asahi"
+    },
+    {
+      "id": 4720,
+      "logoPath": "/7wQgZTA4FCkFMDedBYVZiVE87c7.png",
+      "name": "ADK"
+    }
+  ],
+  "countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "digitalDate": "2002-04-19",
+  "externalIds": {
+    "facebookId": "AtashinchiOfficial",
+    "imdbId": "tt0320828",
+    "twitterId": "atashinchimovie",
+    "wikidataId": "Q115813678"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 9537,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-03-20",
+    "episodeNumber": 10,
+    "id": 6637244,
+    "name": "Going to the Movies With Iwaki",
+    "overview": "Hearing news that Yoshioka and Iwaki are going to watch a movie together, Mikan wants to tag along while Shimizu doesn't. They share their inner thoughts via \"telepathy.\"",
+    "seasonNumber": 3
+  },
+  "nextEpisodeToAir": null,
+  "originalTitle": "あたしンち",
+  "overview": "A light hearted comedy based on the about the daily life of a \"normal\" Japanese family. The Tachibana family consists of a housewife mom, a salary-man dad, and teenager Mikan and Yuzuhiko.",
+  "posterPath": "/bQCZvbyTJFWt3majCn37ykJBpIf.jpg",
+  "rating": 8.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2002-04-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "2002-04-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2002-04-19",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2002-04-19",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "2002-04-19"
+    },
+    "CN": {
+      "tv": "2002-04-19"
+    },
+    "GB": {
+      "tv": "2002-04-19"
+    },
+    "US": {
+      "tv": "2002-04-19"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2002-04-19",
+      "episodeCount": 663,
+      "name": "Atashin'chi",
+      "overview": "",
+      "posterPath": "/2Y3AZlV2dpc2g3AO1ITG9umke6v.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "2015-10-06",
+      "episodeCount": 26,
+      "name": "Shin Atashinchi",
+      "overview": "New Atashinchi",
+      "posterPath": "/zP0IEe59yn1W3nN2ee5eMXQjUYH.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "2024-06-05",
+      "episodeCount": 10,
+      "name": "Atashin'chi NEXT",
+      "overview": "",
+      "posterPath": "/wG35RarJZHyHl4DKtQZDEatKcnl.jpg",
+      "seasonNumber": 3
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Atashin'chi",
+  "translations": {},
+  "type": "tv",
+  "videos": [],
+  "voteCount": 15,
+  "watchProviders": {}
+}

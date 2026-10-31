@@ -1,0 +1,158 @@
+{
+  "backdropPath": "/8JwGNbU7wKJ0boGFgzMPpiK2mkQ.jpg",
+  "cast": [
+    {
+      "character": "Mónika",
+      "id": 1062000,
+      "name": "Nausicaa Bonnín",
+      "profilePath": "/fubSrCF12xN9CFuZRoZTSvQeUij.jpg"
+    },
+    {
+      "character": "Albert",
+      "id": 4842272,
+      "name": "Jordi Oriol",
+      "profilePath": "/9zmO4EGsGQMDm6cJsxGu5ysWe5f.jpg"
+    },
+    {
+      "character": "Dídac",
+      "id": 4850503,
+      "name": "Jan Monter",
+      "profilePath": "/WVDXibWy1wkRfn3BYMOHCov6VW.jpg"
+    },
+    {
+      "character": "Biel",
+      "id": 4850504,
+      "name": "Bernat Solé",
+      "profilePath": null
+    },
+    {
+      "character": "Alexander",
+      "id": 4850505,
+      "name": "Francesco Wenz",
+      "profilePath": "/4hpA78aVHLveGBJmJDLwPfxYglg.jpg"
+    },
+    {
+      "character": "Guiu",
+      "id": 4850506,
+      "name": "Roc Colell",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Lost controller",
+      "id": 5983496,
+      "name": "Sergi Ferrer Pedrazo",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 193789,
+      "logoPath": null,
+      "name": "ZuZú Cinema"
+    },
+    {
+      "id": 118409,
+      "logoPath": "/pLKmEsiek6hS3Pmd9UbvYrRVfr8.png",
+      "name": "Miramemira"
+    },
+    {
+      "id": 178390,
+      "logoPath": "/aFowNePzfAPXFkx2mcdXiPIIswv.png",
+      "name": "Schuldenberg Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "digitalDate": null,
+  "externalIds": {
+    "imdbId": "tt33023305",
+    "wikidataId": "Q136442248"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "id": 1025389,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "ca",
+      "name": "Catalan"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "de",
+      "name": "German"
+    }
+  ],
+  "originalTitle": "Estrany riu",
+  "overview": "One summer, Dídac travels by bike along the Danube with his family, starting where the river first emerges in Germany. As they journey downstream, he begins seeing a mysterious boy, Alexander, who appears and disappears in the water. Dídac feels himself changing, drawn toward Alexander and away from his brother Biel. Their mother, Monika, who once took the same trip as a teenager, drifts into memories of a past summer love. When she sees Dídac and Alexander together, she encourages them to continue the journey alone. But as twilight falls, Dídac begins to question who Alexander truly is.",
+  "posterPath": "/5j5fNIeV2cTfZbk7HPUoOskdgf1.jpg",
+  "rating": 6.1,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "premiere": "2026-04-11"
+    }
+  },
+  "runtime": 106,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Strange River",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "k6ayGNjMIjM",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    },
+    {
+      "key": "eM0C5Cc5FCI",
+      "name": "Estrany riu (Extraño río), de Jaume Claret Muxart | Tráiler VOSE | Estreno en cines 3 octubre",
+      "official": true,
+      "type": "Teaser"
+    }
+  ],
+  "voteCount": 14,
+  "watchProviders": {}
+}

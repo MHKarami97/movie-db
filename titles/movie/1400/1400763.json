@@ -1,0 +1,293 @@
+{
+  "backdropPath": "/kQ3V85ke3LKA4dnww2tH42bsZfX.jpg",
+  "cast": [
+    {
+      "character": "Joey",
+      "id": 999817,
+      "name": "Olivia Taylor Dudley",
+      "profilePath": "/dcYv3aYSMNbGcYHehUjeEg1UwqY.jpg"
+    },
+    {
+      "character": "Brian",
+      "id": 17441,
+      "name": "Lou Taylor Pucci",
+      "profilePath": "/25lfbMJruSG5Kmv1zdKfMyrZWB9.jpg"
+    },
+    {
+      "character": "Craig",
+      "id": 222143,
+      "name": "Jordan Gavaris",
+      "profilePath": "/ClIWbJx4T93QxRextCaEpMQVHS.jpg"
+    },
+    {
+      "character": "Laura",
+      "id": 146004,
+      "name": "Marlene Forte",
+      "profilePath": "/qBhO3tT3VzF1bxUhw3ylmQsfTwP.jpg"
+    },
+    {
+      "character": "Marge",
+      "id": 15423,
+      "name": "Paget Brewster",
+      "profilePath": "/nq9ZuGPvzyfS8dOuPWTQUw7Igxg.jpg"
+    },
+    {
+      "character": "Dr. Kelly",
+      "id": 2747613,
+      "name": "Ashley Lauren Nedd",
+      "profilePath": null
+    },
+    {
+      "character": "Noah",
+      "id": 5316222,
+      "name": "JJ Phillips",
+      "profilePath": null
+    },
+    {
+      "character": "Celeste",
+      "id": 2342629,
+      "name": "Yumarie Morales",
+      "profilePath": "/wayqCpuQJVR0Ps9cMr8cmGp2gfz.jpg"
+    },
+    {
+      "character": "River",
+      "id": 5316225,
+      "name": "Eli Lucas",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 105878,
+      "logoPath": "/1hRvAmvhGy7XrDp7xVa9d1eu8lL.png",
+      "name": "Rustic Films"
+    },
+    {
+      "id": 252473,
+      "logoPath": null,
+      "name": "Growing Tree Films"
+    },
+    {
+      "id": 117711,
+      "logoPath": null,
+      "name": "Yellow Veil Pictures"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-04-02",
+  "externalIds": {
+    "imdbId": "tt34967068",
+    "wikidataId": "Q131985708"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": 13,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1400763,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ja",
+      "name": "Japanese"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    }
+  ],
+  "originalTitle": "Touch Me",
+  "overview": "Two codependent best friends become addicted to the heroin-like touch of an alien narcissist who may or may not be trying to take over the world.",
+  "posterPath": "/drcloenCH7ZautM7hnd9r9WScNV.jpg",
+  "rating": 5.8,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-05-04",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-04-02",
+      "gapDays": 13,
+      "theatricalDate": "2026-03-20"
+    }
+  },
+  "releaseDates": {
+    "GB": {
+      "digital": "2026-05-04",
+      "physical": "2026-05-04"
+    },
+    "US": {
+      "digital": "2026-04-02",
+      "premiere": "2025-01-28",
+      "theatricalLimited": "2026-03-20"
+    }
+  },
+  "runtime": 99,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": "2026-03-20",
+  "title": "Touch Me",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "vjWDJScsSuY",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 22,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1400763-touch-me/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 224,
+          "logoPath": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+          "name": "BFI Player"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ],
+      "flatrate": [
+        {
+          "id": 2383,
+          "logoPath": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "id": 1854,
+          "logoPath": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "id": 528,
+          "logoPath": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "id": 635,
+          "logoPath": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+          "name": "AMC+ Roku Premium Channel"
+        },
+        {
+          "id": 526,
+          "logoPath": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+          "name": "AMC+"
+        },
+        {
+          "id": 99,
+          "logoPath": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        }
+      ],
+      "free": [
+        {
+          "id": 191,
+          "logoPath": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+          "name": "Kanopy"
+        }
+      ],
+      "link": "https://www.themoviedb.org/movie/1400763-touch-me/watch?locale=US",
+      "rent": [
+        {
+          "id": 10,
+          "logoPath": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+          "name": "Amazon Video"
+        },
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 7,
+          "logoPath": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+          "name": "Fandango At Home"
+        }
+      ]
+    }
+  }
+}

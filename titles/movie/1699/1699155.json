@@ -1,0 +1,175 @@
+{
+  "backdropPath": "/oGD1dZvojZssnd9Ua6RUalEEHQu.jpg",
+  "cast": [
+    {
+      "character": "Self - Mother of Reagan Simmons-Hancock",
+      "id": 6466718,
+      "name": "Jessica Brookes",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Taylor's Boyfriend",
+      "id": 6466720,
+      "name": "Wade Griffin",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 6466721,
+      "name": "Taylor Parker",
+      "profilePath": null
+    },
+    {
+      "character": "Self - Murder victim",
+      "id": 6466722,
+      "name": "Reagan Simmons-Hancock",
+      "profilePath": null
+    }
+  ],
+  "companies": [
+    {
+      "id": 136480,
+      "logoPath": "/5fLrloYGsWbdxS0HMmetiyZJ0Tw.png",
+      "name": "Story Syndicate"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2026-06-12",
+  "externalIds": {
+    "imdbId": "tt42863533",
+    "wikidataId": "Q140276990"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "id": 1699155,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Maternal Instinct",
+  "overview": "Police pull over a woman who claims she just gave birth. But the baby — and the blood — aren't hers. Twisted lies unravel in this true-crime documentary.",
+  "posterPath": "/dOWWCLSwXS1MBtGEFeItbloiUEN.jpg",
+  "rating": 7.2,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "2026-06-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "2026-06-12",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2026-06-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "digital": "2026-06-12"
+    },
+    "GB": {
+      "digital": "2026-06-12"
+    },
+    "US": {
+      "digital": "2026-06-12"
+    }
+  },
+  "runtime": 97,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Maternal Instinct",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "fzW61JgRbNk",
+      "name": "Official Trailer",
+      "official": true,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 140,
+  "watchProviders": {
+    "AE": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1699155-maternal-instinct/watch?locale=AE",
+      "rent": []
+    },
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1699155-maternal-instinct/watch?locale=GB",
+      "rent": []
+    },
+    "US": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [
+        {
+          "id": 8,
+          "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "id": 1796,
+          "logoPath": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1699155-maternal-instinct/watch?locale=US",
+      "rent": []
+    }
+  }
+}

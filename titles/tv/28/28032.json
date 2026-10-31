@@ -1,0 +1,786 @@
+{
+  "backdropPath": "/vzMj8r7Oyi5YaPfQja9kwSi1cNE.jpg",
+  "cast": [
+    {
+      "character": "Self - Host",
+      "id": 2857352,
+      "name": "Victoria Swarovski",
+      "profilePath": "/qTIqXFhWRoI326TLNgh6JVL7xnH.jpg"
+    },
+    {
+      "character": "Self - Host",
+      "id": 85785,
+      "name": "Michael Ostrowski",
+      "profilePath": "/vFKDJSCcGexRC0SI9WDcrbnzDCq.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 97577,
+      "logoPath": "/d6wrMvIaKxF66EDRagGc7q8hP3Z.png",
+      "name": "European Broadcasting Union"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "digitalDate": "1956-05-24",
+  "episodes": {
+    "70": [
+      {
+        "airDate": "2026-05-12",
+        "episodeNumber": 1,
+        "name": "Semi Final 1",
+        "overview": "",
+        "stillPath": "/dleK2q095fXNNWemq7l2qTZJF2i.jpg",
+        "voteAverage": 5
+      },
+      {
+        "airDate": "2026-05-14",
+        "episodeNumber": 2,
+        "name": "Semi Final 2",
+        "overview": "",
+        "stillPath": "/96qoktHoGKSDjMAZ6wJZXal0yd6.jpg",
+        "voteAverage": 4
+      },
+      {
+        "airDate": "2026-05-16",
+        "episodeNumber": 3,
+        "name": "Grand Final",
+        "overview": "",
+        "stillPath": "/x7CnmDEPvHKF0p8uF3kfgI66bqh.jpg",
+        "voteAverage": 6.2
+      }
+    ],
+    "71": [
+      {
+        "airDate": "2027-05-11",
+        "episodeNumber": 1,
+        "name": "Semi Final 1",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-05-13",
+        "episodeNumber": 2,
+        "name": "Semi Final 2",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      },
+      {
+        "airDate": "2027-05-15",
+        "episodeNumber": 3,
+        "name": "Grand Final",
+        "overview": "",
+        "stillPath": null,
+        "voteAverage": 0
+      }
+    ]
+  },
+  "externalIds": {
+    "facebookId": "EurovisionSongContest",
+    "instagramId": "eurovision",
+    "twitterId": "Eurovision",
+    "wikidataId": "Q276"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 28032,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "French"
+    }
+  ],
+  "lastEpisodeToAir": {
+    "airDate": "2026-05-16",
+    "episodeNumber": 3,
+    "id": 6465416,
+    "name": "Grand Final",
+    "overview": "",
+    "seasonNumber": 70
+  },
+  "nextEpisodeToAir": {
+    "airDate": "2027-05-11",
+    "episodeNumber": 1,
+    "id": 7676229,
+    "name": "Semi Final 1",
+    "overview": "",
+    "seasonNumber": 71
+  },
+  "originalTitle": "Eurovision Song Contest",
+  "overview": "The Eurovision Song Contest is an international song competition, organised annually by the European Broadcasting Union (EBU) and featuring participants representing primarily European countries. Each participating country submits an original song to be performed on live television and radio, transmitted to national broadcasters via the EBU's Eurovision and Euroradio networks, with competing countries then casting votes for the other countries' songs to determine the winner.",
+  "posterPath": "/kG2UO5pT91NckAe3tS6WrgxOB3P.jpg",
+  "rating": 7.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": "1956-05-24",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": "1956-05-24",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": "1956-05-24",
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "1956-05-24",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "AE": {
+      "tv": "1956-05-24"
+    },
+    "CN": {
+      "tv": "1956-05-24"
+    },
+    "GB": {
+      "tv": "1956-05-24"
+    },
+    "US": {
+      "tv": "1956-05-24"
+    }
+  },
+  "runtime": null,
+  "schemaVersion": 2,
+  "seasons": [
+    {
+      "airDate": "2015-04-03",
+      "episodeCount": 28,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "seasonNumber": 0
+    },
+    {
+      "airDate": "1956-05-24",
+      "episodeCount": 1,
+      "name": "Lugano 1956",
+      "overview": "The first ever Eurovision Song Contest took place in Lugano, Switzerland, at the Teatro Kursaal, on 24th of May 1956.",
+      "posterPath": "/zfGrKLsVZhG3hkSO3iFCdS61Vp1.jpg",
+      "seasonNumber": 1
+    },
+    {
+      "airDate": "1957-03-03",
+      "episodeCount": 1,
+      "name": "Frankfurt 1957",
+      "overview": "The 1957 Eurovision Song Contest was held in Frankfurt am Main, Germany after Switzerland declined to host the contest for a second time.",
+      "posterPath": "/ohxuPgl0HkvVHTEOD1AY0FYxuoz.jpg",
+      "seasonNumber": 2
+    },
+    {
+      "airDate": "1958-03-12",
+      "episodeCount": 1,
+      "name": "Hilversum 1958",
+      "overview": "The Netherlands had the honour of hosting the third Eurovision Song Contest. The 1958 contest took place at the television studios in Hilversum, the 'media capital' of the Netherlands. For the occasion, the venue was decorated with thousands of tulips.",
+      "posterPath": "/sMjKnSoLzGkqKO3lbdmAOLKnTy8.jpg",
+      "seasonNumber": 3
+    },
+    {
+      "airDate": "1959-03-11",
+      "episodeCount": 1,
+      "name": "Cannes 1959",
+      "overview": "The glamorous Mediterranean resort of Cannes, France hosted the 4th Eurovision Song Contest in March 1959.",
+      "posterPath": "/jD6YMWrU92DG0rvxO6f6g1hlX1N.jpg",
+      "seasonNumber": 4
+    },
+    {
+      "airDate": "1960-03-29",
+      "episodeCount": 1,
+      "name": "London 1960",
+      "overview": "London was the host city of the fifth Eurovision Song Contest despite a Dutch victory in Cannes in 1959.",
+      "posterPath": "/4s6yA6QM7v0UTrQwrUML45nNZ0v.jpg",
+      "seasonNumber": 5
+    },
+    {
+      "airDate": "1961-03-18",
+      "episodeCount": 1,
+      "name": "Cannes 1961",
+      "overview": "The Eurovision Song Contest 1961 returned to Cannes for the second time in two years. The number of participants began to rise as the Eurovision Song Contest became increasingly popular.",
+      "posterPath": "/5H0AVMBHjXg15SyFIezjRWffjIf.jpg",
+      "seasonNumber": 6
+    },
+    {
+      "airDate": "1962-03-18",
+      "episodeCount": 1,
+      "name": "Luxembourg City 1962",
+      "overview": "The 1962 Eurovision Song Contest was held in the Grand Duchy of Luxembourg for the first time. France scored another victory with Un premier amour performed by Isabelle Aubret.",
+      "posterPath": "/efYAybOgZP8x4RfVBBCGGvPCtXB.jpg",
+      "seasonNumber": 7
+    },
+    {
+      "airDate": "1963-03-23",
+      "episodeCount": 1,
+      "name": "London 1963",
+      "overview": "The 8th Eurovision Song Contest took place in London, despite a French victory in the preceding year. Denmark's first victory would become controversial topic.",
+      "posterPath": "/imwOfBWOmMtfq1MOscYsDPss7ry.jpg",
+      "seasonNumber": 8
+    },
+    {
+      "airDate": "1964-03-21",
+      "episodeCount": 1,
+      "name": "Copenhagen 1964",
+      "overview": "The 1964 Eurovision Song Contest took place in Copenhagen, Denmark. Italy scored its first victory with a song performed by 16-year-old Gigliola Cinquetti who had already won the Italian San Remo Festival with her entry Non Ho l’Età.",
+      "posterPath": "/6FdPH583FrgZuqU90YGVhZTEnN9.jpg",
+      "seasonNumber": 9
+    },
+    {
+      "airDate": "1965-03-20",
+      "episodeCount": 1,
+      "name": "Naples 1965",
+      "overview": "The 1965 Eurovision Song Contest took place in Naples and saw Luxembourg win again. The winning entry, performed by France Gall, Poupée De Cire, Poupée De Son, is a milestone moment in the history of the show since it is the first time that a pop song won the Eurovision Song Contest.",
+      "posterPath": "/d3xlBwaly8K7AgZ4eWvZl8oHFa.jpg",
+      "seasonNumber": 10
+    },
+    {
+      "airDate": "1966-03-05",
+      "episodeCount": 1,
+      "name": "Luxembourg City 1966",
+      "overview": "Once again, the Grand Duchy of Luxembourg had the honour of staging Europe's most important musical contest and for the first time, a song in German managed to win the trophy.",
+      "posterPath": "/qny6eGpLBmhPTqwSzDZaI04USAl.jpg",
+      "seasonNumber": 11
+    },
+    {
+      "airDate": "1967-04-08",
+      "episodeCount": 1,
+      "name": "Vienna 1967",
+      "overview": "After Udo Jürgens' victory in 1966, Vienna, Austria's capital, was chosen to host the Eurovision Song Contest in 1967.",
+      "posterPath": "/2kxaHxVJjNInPgn14YMHXll4Tnf.jpg",
+      "seasonNumber": 12
+    },
+    {
+      "airDate": "1968-04-06",
+      "episodeCount": 1,
+      "name": "London 1968",
+      "overview": "The thirteenth Eurovision Song Contest which took place in the Royal Albert Hall in London was the first Eurovision Song Contest to be broadcast in colour. The bookmakers were sure of another British victory since Cliff Richard - who had dominated the European charts for several years already - decided to represent his native country.",
+      "posterPath": "/gUIOMpgUkJU3YxS5imXPrbicEzJ.jpg",
+      "seasonNumber": 13
+    },
+    {
+      "airDate": "1969-03-29",
+      "episodeCount": 1,
+      "name": "Madrid 1969",
+      "overview": "The Spanish capital of Madrid hosted the 1969 Eurovision Song Contest after Massiel won the trophy in London the year before. Austria decided to stay home so the number of participants went down to 16 as no new countries entered.",
+      "posterPath": "/lttjeTRY6290X63MhN6oHdv5Ykm.jpg",
+      "seasonNumber": 14
+    },
+    {
+      "airDate": "1970-03-21",
+      "episodeCount": 1,
+      "name": "Amsterdam 1970",
+      "overview": "The Netherlands hosted the Eurovision Song Contest once again in 1970. The contest took place in the capital, Amsterdam, however only 12 delegations made the trip to the Dutch capital due to what was referred to as \"the voting scandal\" of the year before.",
+      "posterPath": "/47kbGB3kjpu8V1ZqA5GwGqdipyC.jpg",
+      "seasonNumber": 15
+    },
+    {
+      "airDate": "1971-04-03",
+      "episodeCount": 1,
+      "name": "Dublin 1971",
+      "overview": "After Dana's victory in 1970, the Eurovision Song Contest moved to the Emerald Isle, Ireland, and the number of participants rose again.",
+      "posterPath": "/v9WAgXgXtjYdwKTwnmE0vkzvo6p.jpg",
+      "seasonNumber": 16
+    },
+    {
+      "airDate": "1972-03-25",
+      "episodeCount": 1,
+      "name": "Edinburgh 1972",
+      "overview": "Host Broadcaster BBC arranged the 1972 Eurovision Song Contest outside London for the first time. The honour of hosting went to the Scottish capital Edinburgh after Monaco, which won the year before, was unable to provide a suitable venue. The contest resulted in two big hits all over the continent: Après Toi by winner Vicky Leandros and Beg, Steal Or Borrow by The New Seekers who ended up in second place.",
+      "posterPath": "/bdmgDSgvnhCsWsuMjs5x0KGOaC7.jpg",
+      "seasonNumber": 17
+    },
+    {
+      "airDate": "1973-04-07",
+      "episodeCount": 1,
+      "name": "Luxembourg City 1973",
+      "overview": "After hosting the Eurovision Song Contest in 1962 and 1966, it was Luxembourg's third occasion to show the best of Europe's music to millions of viewers. The big favourite to win was yet again Cliff Richard representing the United Kingdom, but the host nation Luxembourg took the trophy.",
+      "posterPath": "/5KJLq4KQMxjPoZ9R4ulAJ8nHCcL.jpg",
+      "seasonNumber": 18
+    },
+    {
+      "airDate": "1974-04-06",
+      "episodeCount": 1,
+      "name": "Brighton 1974",
+      "overview": "For the second time in three years the United Kingdom staged the Eurovision Song Contest without having won the contest in the preceding year. Due to the fact that the broadcaster in Luxembourg, RTL, did not wish to host the event again for financial reasons, the BBC embraced the possibility once more. The 1974 Eurovision Song Contest was held at The Dome, in the seaside resort of Brighton.",
+      "posterPath": "/csPBQGSADyqTxBEhdqUh2fROnNr.jpg",
+      "seasonNumber": 19
+    },
+    {
+      "airDate": "1975-03-22",
+      "episodeCount": 1,
+      "name": "Stockholm 1975",
+      "overview": "The Eurovision Song Contest moved northwards for its 20th anniversary. The 1975 Eurovision Song Contest was held in Stockholm, Sweden on 22nd March.",
+      "posterPath": "/haf6AauboSgEzzOGJhNzHYip3xv.jpg",
+      "seasonNumber": 20
+    },
+    {
+      "airDate": "1976-04-03",
+      "episodeCount": 1,
+      "name": "The Hague 1976",
+      "overview": "For the third time in the history of the Eurovision Song Contest, the Netherlands organised the musical highlight of the year. After having hosted the event in Hilversum and Amsterdam, The Hague was chosen as host city for the 1976 event.",
+      "posterPath": "/knSX5a4RsHEav2zwXcIvJPC2HGj.jpg",
+      "seasonNumber": 21
+    },
+    {
+      "airDate": "1977-05-07",
+      "episodeCount": 1,
+      "name": "London 1977",
+      "overview": "The Eurovision Song Contest 1977 was the first contest which was troubled by a strike and was only organised five weeks after the planned date.",
+      "posterPath": "/kPFxbxqBglRUZjQGHWg0q88nG2e.jpg",
+      "seasonNumber": 22
+    },
+    {
+      "airDate": "1978-04-22",
+      "episodeCount": 1,
+      "name": "Paris 1978",
+      "overview": "After having won in London in 1977, French Television organised the 1978 Eurovision Song Contest in Paris on 22nd April.",
+      "posterPath": "/kPDmFmdbNEOwrhD86SiwW76Yvnh.jpg",
+      "seasonNumber": 23
+    },
+    {
+      "airDate": "1979-03-31",
+      "episodeCount": 1,
+      "name": "Jerusalem 1979",
+      "overview": "The 24th Eurovision Song Contest was held outside the geographical area of Europe for the first time. Jerusalem played the proud host of the annual event in 1979.",
+      "posterPath": "/kRdK2QOKeZUQRzPYs65aAX0Fs10.jpg",
+      "seasonNumber": 24
+    },
+    {
+      "airDate": "1980-04-19",
+      "episodeCount": 1,
+      "name": "The Hague 1980",
+      "overview": "Israeli TV declined the opportunity to host the 1980 Song Contest again after Israel won in Jerusalem in 1979. After much discussion, it was decided that the contest would be arranged by Dutch TV NOS in The Hague.",
+      "posterPath": "/bIq7kcmKmICBPhXIHjJ4pRA4OIO.jpg",
+      "seasonNumber": 25
+    },
+    {
+      "airDate": "1981-04-04",
+      "episodeCount": 1,
+      "name": "Dublin 1981",
+      "overview": "Ireland's capital Dublin hosted the 1981 Eurovision Song Contest after Johnny Logan won the contest in the preceding year with What's Another Year. Bucks Fizz won the 1981 contest for the United Kingdom with the song Making Your Mind Up.",
+      "posterPath": "/qM2JVVapdZBr8jy7dIGuE24Ld0Z.jpg",
+      "seasonNumber": 26
+    },
+    {
+      "airDate": "1982-04-24",
+      "episodeCount": 1,
+      "name": "Harrogate 1982",
+      "overview": "The BBC surprised everyone when they decided that the 1982 Eurovision Song Contest would be held in the northern city of Harrogate.",
+      "posterPath": "/6lS9Sqb4z1gTi0AIyz5aaWEBgaM.jpg",
+      "seasonNumber": 27
+    },
+    {
+      "airDate": "1983-04-23",
+      "episodeCount": 1,
+      "name": "Munich 1983",
+      "overview": "After trying to win for many years, German broadcaster ARD finally hosted the 1983 Eurovision Song Contest in Munich.",
+      "posterPath": "/abTJP3Ywzs8m13PdTjWiKy0Y3jV.jpg",
+      "seasonNumber": 28
+    },
+    {
+      "airDate": "1984-05-05",
+      "episodeCount": 1,
+      "name": "Luxembourg City 1984",
+      "overview": "Luxembourg hosted the contest for the 4th last time after Corinne Hermès' victory the year before.",
+      "posterPath": "/75nuT1tvoCXk1xNTRQqZSA8TK6M.jpg",
+      "seasonNumber": 29
+    },
+    {
+      "airDate": "1985-05-04",
+      "episodeCount": 1,
+      "name": "Gothenburg 1985",
+      "overview": "Swedish national broadcaster SVT decided to stage the 1985 Eurovision Song Contest in Gothenburg's Scandinavium, the biggest venue to have hosted the show to date.",
+      "posterPath": "/j3kz84epYvmepphz8EEROQsdnzG.jpg",
+      "seasonNumber": 30
+    },
+    {
+      "airDate": "1986-05-03",
+      "episodeCount": 1,
+      "name": "Bergen 1986",
+      "overview": "The Norwegian city of Bergen had the honour of hosting the 1986 Eurovision Song Contest which saw Belgium score its first and to date, only victory with Sandra Kim's J'Aime La Vie.",
+      "posterPath": "/l0FB75LguIpgSdd0mMPEzWzIdOW.jpg",
+      "seasonNumber": 31
+    },
+    {
+      "airDate": "1987-05-09",
+      "episodeCount": 1,
+      "name": "Brussels 1987",
+      "overview": "The 1987 Eurovision Song Contest was held in Brussels, Belgium. Viktor Laszlo was the host of the 32nd edution of the competition which was won by Ireland.",
+      "posterPath": "/tNR3TDvKAUIVh3nn08LMKziXEnU.jpg",
+      "seasonNumber": 32
+    },
+    {
+      "airDate": "1988-04-30",
+      "episodeCount": 1,
+      "name": "Dublin 1988",
+      "overview": "The 1988 Eurovision Song Contest is best remembered for one of the most thrilling voting moments in the history of the competition and for launching a legend; Céline Dion.",
+      "posterPath": "/wOlFHa5Fbds3UehoCVKMH3hLIUw.jpg",
+      "seasonNumber": 33
+    },
+    {
+      "airDate": "1989-05-06",
+      "episodeCount": 1,
+      "name": "Lausanne 1989",
+      "overview": "Following Céline Dion's victory the preceding year in Dublin, Switzerland staged the Eurovision Song Contest in Lausanne. 22 countries participated in the 1989 Eurovision Song Contest.",
+      "posterPath": "/lrDPsXix9QdfkwkxKtJRendYnY2.jpg",
+      "seasonNumber": 34
+    },
+    {
+      "airDate": "1990-05-05",
+      "episodeCount": 1,
+      "name": "Zagreb 1990",
+      "overview": "The 1990 Eurovision Song Contest was held in Zagreb following Yugoslavia's win the previous year. As communism fell in Europe, many of the songs reflected the wider political context.",
+      "posterPath": "/brBwqmr6fJsE2MR8Lvexw7bgpuP.jpg",
+      "seasonNumber": 35
+    },
+    {
+      "airDate": "1991-05-04",
+      "episodeCount": 1,
+      "name": "Rome 1991",
+      "overview": "The 1991 Eurovision Song Contest was held in Rome, Italy and saw France and Sweden tie for first place at the end of the voting.",
+      "posterPath": "/guD5RNVR0NepzMkprzhM68oPkrz.jpg",
+      "seasonNumber": 36
+    },
+    {
+      "airDate": "1992-05-02",
+      "episodeCount": 1,
+      "name": "Malmö 1992",
+      "overview": "After having hosted the Eurovision Song Contest in Stockholm and Gothenburg before, Swedish broadcaster SVT opted to host the 1992 Eurovision Song Contest in Sweden's third largest city, Malmö.",
+      "posterPath": "/cr9ZwR9YaLc9FZPlooPcwxDi4aU.jpg",
+      "seasonNumber": 37
+    },
+    {
+      "airDate": "1993-04-03",
+      "episodeCount": 2,
+      "name": "Millstreet 1993",
+      "overview": "The tiny town of Millstreet in Ireland was the centre of Europe when it hosted the 1993 Eurovision Song Contest.",
+      "posterPath": "/yyxDmBUig4rKGGWnx7YU93wgYNG.jpg",
+      "seasonNumber": 38
+    },
+    {
+      "airDate": "1994-04-30",
+      "episodeCount": 1,
+      "name": "Dublin 1994",
+      "overview": "After winning the contest on home ground in Millstreet in 1993, the contest was staged at the Point Theatre in Dublin. Ireland set two new records for the Eurovision Song Contest in 1994; they won the contest for a 6th time and won for the third time in a row.",
+      "posterPath": "/81fJoIz21WIFNTtc9sMVhzotCzt.jpg",
+      "seasonNumber": 39
+    },
+    {
+      "airDate": "1995-05-13",
+      "episodeCount": 1,
+      "name": "Dublin 1995",
+      "overview": "For a record third year in a row Ireland hosted the 40th Eurovision Song Contest which was held again in the Point Theatre in Dublin.",
+      "posterPath": "/9bMYWU10SGCCiZzRBcsGk3Hl4L1.jpg",
+      "seasonNumber": 40
+    },
+    {
+      "airDate": "1996-05-18",
+      "episodeCount": 1,
+      "name": "Oslo 1996",
+      "overview": "The 1996 Eurovision Song Contest moved to a new destination, after it had been in Ireland for the three preceding years. Norway's capital Oslo had the honour of hosting the contest for the first time.",
+      "posterPath": "/8IwlyX4uXnZPLDkNZAFGkJsUkhT.jpg",
+      "seasonNumber": 41
+    },
+    {
+      "airDate": "1997-05-03",
+      "episodeCount": 1,
+      "name": "Dublin 1997",
+      "overview": "Dublin's Point Theatre was - yet again - the venue for the 1997 Eurovision Song Contest. To date it is the last contest that has been held in Ireland. For the first ever the public had a say in the outcome of the competition.",
+      "posterPath": "/rDw10f04AeXGkUwTjZxrWt1JAlJ.jpg",
+      "seasonNumber": 42
+    },
+    {
+      "airDate": "1998-05-09",
+      "episodeCount": 1,
+      "name": "Birmingham 1998",
+      "overview": "The 1998 Eurovision Song Contest from Birmingham culminated in one of the most thrilling voting sequences for years and reminded us that Europe is a more open-minded place than we might have thought.",
+      "posterPath": "/5sM2eVOx1DfZuYa6dHzCkDD05OA.jpg",
+      "seasonNumber": 43
+    },
+    {
+      "airDate": "1999-05-29",
+      "episodeCount": 1,
+      "name": "Jerusalem 1999",
+      "overview": "The 1999 Eurovision Song Contest took place in Jerusalem for the first time since 1979. Free language rules were introduced meaning that participating countries could choose which language they performed in.",
+      "posterPath": "/nEJYkRFHjdDk14btSneWyS2Z7Ld.jpg",
+      "seasonNumber": 44
+    },
+    {
+      "airDate": "2000-05-13",
+      "episodeCount": 1,
+      "name": "Stockholm 2000",
+      "overview": "In May 2000 the Eurovision Song Contest returned to Stockholm for the first time since 1975. The spectacular show took place in the Globen Arena with a record-breaking 13,000 in attendance.",
+      "posterPath": "/9HQcy19mbUt3H6NSZSk0VFE5LTh.jpg",
+      "seasonNumber": 45
+    },
+    {
+      "airDate": "2001-05-12",
+      "episodeCount": 1,
+      "name": "Copenhagen 2001",
+      "overview": "A record-breaking 35,000 spectators attended the 2001 Eurovision Song Contest in the Parken Stadium in Copenhagen, the largest venue to date.",
+      "posterPath": "/6yE21a6WfP3PRVihsgXUxdmgnlb.jpg",
+      "seasonNumber": 46
+    },
+    {
+      "airDate": "2002-05-25",
+      "episodeCount": 1,
+      "name": "Tallinn 2002",
+      "overview": "The 2002 Eurovision Song Contest was hosted in the Estonian capital Tallinn. It was the first time that one of the new-entrant countries staged the Eurovision Song Contest.",
+      "posterPath": "/aIV2AtgZ04t5vXp8x2CV0m47GKg.jpg",
+      "seasonNumber": 47
+    },
+    {
+      "airDate": "2003-05-24",
+      "episodeCount": 1,
+      "name": "Riga 2003",
+      "overview": "Latvia hosted the competition in 2003 following Marie N's victory in Tallinn the previous year.",
+      "posterPath": "/tXabbCXQtia8Ww42NnFDWgZadun.jpg",
+      "seasonNumber": 48
+    },
+    {
+      "airDate": "2004-05-12",
+      "episodeCount": 2,
+      "name": "Istanbul 2004",
+      "overview": "After having successfully hosted the first ever Eurovision Song Contest Semi-Final, Istanbul held its breath for the 2004 Final.",
+      "posterPath": "/uzQYsDOjnqq9kjJIcfqgzrQbKpm.jpg",
+      "seasonNumber": 49
+    },
+    {
+      "airDate": "2005-05-19",
+      "episodeCount": 2,
+      "name": "Kyiv 2005",
+      "overview": "The 50th Eurovision Song Contest took place on 21st May 2005 in the Ukrainian capital, Kyiv. 24 countries participated in the Grand Final.",
+      "posterPath": "/egxpLalKMe1o36ujiQFBlRnjUEO.jpg",
+      "seasonNumber": 50
+    },
+    {
+      "airDate": "2006-05-18",
+      "episodeCount": 2,
+      "name": "Athens 2006",
+      "overview": "With the Eurovision Song Contest already enjoying enormous popularity in Greece, Helena Paparizou's victory in 2005 created the perfect circumstances to organise the show. Under the Greek sun, the 2006 contest took place in Athens!",
+      "posterPath": "/vYiDXCvwVtSA04xQZAK22MSlke5.jpg",
+      "seasonNumber": 51
+    },
+    {
+      "airDate": "2007-05-10",
+      "episodeCount": 2,
+      "name": "Helsinki 2007",
+      "overview": "The Final of the 52nd Eurovision Song Contest took place in Helsinki, Finland, at the Hartwall Arena. For the occasion, the venue was referred to as the Helsinki Arena. Czech Republic and Georgia debuted in the Semi-Final, so did Serbia and Montenegro as independent states. Of those countries, only Georgia and Serbia managed to qualify for the Final, together with returning country Hungary.",
+      "posterPath": "/1veBepArpdbZjx94S096PPOIjEg.jpg",
+      "seasonNumber": 52
+    },
+    {
+      "airDate": "2008-05-20",
+      "episodeCount": 3,
+      "name": "Belgrade 2008",
+      "overview": "For the first time in the history of the Eurovision Song Contest, two Semi-Finals were held to decide which 25 countries would be represented in the Final. The Final of the contest took place on the 24th of May, just like the first ever Eurovision Song Contest in 1956.",
+      "posterPath": "/nKFy1mgK5ts9byoECUzLspynqkE.jpg",
+      "seasonNumber": 53
+    },
+    {
+      "airDate": "2009-05-12",
+      "episodeCount": 3,
+      "name": "Moscow 2009",
+      "overview": "For the second time in the history of the Eurovision Song Contest, two Semi-Finals were held to decide which 25 countries will be represented in the Final. The Final of the contest took place on the 16th of May in the Russian capital of Moscow.",
+      "posterPath": "/k96N36vRjH3djxyNDbVyz8Frdra.jpg",
+      "seasonNumber": 54
+    },
+    {
+      "airDate": "2010-05-25",
+      "episodeCount": 3,
+      "name": "Oslo 2010",
+      "overview": "The 2010 Eurovision Song Contest was held in the capital of Norway, Oslo. 39 countries took part in the contest, which had two Semi-Finals and a Grand Final.",
+      "posterPath": "/mfNoELq0SteanQny2v5UtRwAne.jpg",
+      "seasonNumber": 55
+    },
+    {
+      "airDate": "2011-05-10",
+      "episodeCount": 3,
+      "name": "Düsseldorf 2011",
+      "overview": "For the first time since 1983, Germany hosted the Eurovision Song Contest. The 2011 Eurovision Song Contest was held in Düsseldorf following an open selection process.",
+      "posterPath": "/jZPV7Dmng6qRItj3UXRbDHSdlTs.jpg",
+      "seasonNumber": 56
+    },
+    {
+      "airDate": "2012-05-22",
+      "episodeCount": 3,
+      "name": "Baku 2012",
+      "overview": "The 2012 Eurovision Song Contest was held in Baku, Azerbaijan. It is the furthest East that the contest had ever been held.",
+      "posterPath": "/x46YlXJs7w9RvmjW8USaW1L77YT.jpg",
+      "seasonNumber": 57
+    },
+    {
+      "airDate": "2013-05-14",
+      "episodeCount": 3,
+      "name": "Malmö 2013",
+      "overview": "Thirteen years after Stockholm hosted the Eurovision Song Contest, the 2013 contest took place in the Malmö Arena in Malmö, Sweden. Two Semi-Finals determined which twenty countries — ten from each Semi-Final — would join the 'Big Five' (France, Germany, Italy, Spain and the UK) and host coumntry Sweden in the Grand Final.",
+      "posterPath": "/NgGea81RiVoBqo3QJIrQb35u2s.jpg",
+      "seasonNumber": 58
+    },
+    {
+      "airDate": "2014-05-06",
+      "episodeCount": 3,
+      "name": "Copenhagen 2014",
+      "overview": "The 2014 Eurovision Song Contest took place in Copenhagen, Denmark and was won by Austria's Conchita Wurst. The victory was headline news around the world.",
+      "posterPath": "/jKpZnFknRgA7AynujBHnONcbicR.jpg",
+      "seasonNumber": 59
+    },
+    {
+      "airDate": "2015-05-19",
+      "episodeCount": 3,
+      "name": "Vienna 2015",
+      "overview": "The 2015 Eurovision Song Contest took place in the Wiener Stadhalle. The the official Eurovision Song Contest logo was refreshed, for the first time since it was launched in 2004.",
+      "posterPath": "/foMewfl9t21nPoJzd4E0u3WMGLj.jpg",
+      "seasonNumber": 60
+    },
+    {
+      "airDate": "2016-05-10",
+      "episodeCount": 3,
+      "name": "Stockholm 2016",
+      "overview": "Stockholm was announced as the host city in July 2015, with the Globe Arena taking the honour of being the venue for the 2016 contest. The arena previously staged the contest in 2000.",
+      "posterPath": "/rXtr4XwFu8b8FHfwl1ca8mKmHdX.jpg",
+      "seasonNumber": 61
+    },
+    {
+      "airDate": "2017-05-09",
+      "episodeCount": 3,
+      "name": "Kyiv 2017",
+      "overview": "Following Jamala's victory in Stockholm with her song '1944', the 2017 Eurovision Song Contest was held in Ukraine's capital city, Kyiv.  Kyiv had previously hosted the main competition in 2005, as well as the Junior Eurovision Song Contest in 2009 and 2013.",
+      "posterPath": "/qE9Uem6BsLNrAsa8bbBsHYXlGyJ.jpg",
+      "seasonNumber": 62
+    },
+    {
+      "airDate": "2018-05-08",
+      "episodeCount": 3,
+      "name": "Lisbon 2018",
+      "overview": "The 2018 Eurovision Song Contest took place in Portugal's capital city, Lisbon. It was the first time Portugal hosted the competition. The right to host the 2018 Eurovision Song Contest came after Salvador Sobral won the 2017 edition in Kyiv with his song Amar Pelos Dois.",
+      "posterPath": "/mEHEVby9zskYx5nrGZ46KjyGpsy.jpg",
+      "seasonNumber": 63
+    },
+    {
+      "airDate": "2019-05-14",
+      "episodeCount": 3,
+      "name": "Tel Aviv 2019",
+      "overview": "After Netta's grand victory in Lisbon in Lisbon, the 2019 Eurovision Song Contest took place in Tel Aviv, Israel.",
+      "posterPath": "/oB2leCpoYX5eWvIcoae8iGFalYw.jpg",
+      "seasonNumber": 64
+    },
+    {
+      "airDate": "2021-05-18",
+      "episodeCount": 3,
+      "name": "Rotterdam 2021",
+      "overview": "The Eurovision Song Contest 2021 takes place in Rotterdam. The Dutch city was due to host the Contest in 2020 before the event was cancelled due to the ongoing COVID-19 pandemic.",
+      "posterPath": "/dxpz0t8TYgSkuT6rgI5WXOjXQZ0.jpg",
+      "seasonNumber": 65
+    },
+    {
+      "airDate": "2022-05-10",
+      "episodeCount": 3,
+      "name": "Turin 2022",
+      "overview": "The 66th Eurovision Song Contest was held at the PalaOlimpico in Turin, after Måneskin’s success for Italy the previous year.",
+      "posterPath": "/i1II4JrUGs5Rf4CorB0556fDWnQ.jpg",
+      "seasonNumber": 66
+    },
+    {
+      "airDate": "2023-05-09",
+      "episodeCount": 3,
+      "name": "Liverpool 2023",
+      "overview": "The 67th Eurovision Song Contest took place in in Liverpool on the banks of the River Mersey, where a crowd of thousands witnessed Loreen become the first woman to lift the trophy twice, having secured victory with her song 'Tattoo'.",
+      "posterPath": "/lOiIiwNjrgoa7mM3yocqgpnZmGn.jpg",
+      "seasonNumber": 67
+    },
+    {
+      "airDate": "2024-05-07",
+      "episodeCount": 3,
+      "name": "Malmö 2024",
+      "overview": "The Grand Final of the Eurovision Song Contest 2024 took place in the Malmö Arena on Saturday 11 May with Semi-Finals on Tuesday 7 and Thursday 9 May.",
+      "posterPath": "/kjOyO11QeHol2seSTxavDXTYex5.jpg",
+      "seasonNumber": 68
+    },
+    {
+      "airDate": "2025-05-13",
+      "episodeCount": 3,
+      "name": "Basel 2025",
+      "overview": "The Grand Final of the Eurovision Song Contest 2025 took place in St. Jakobshalle, Basel, on Saturday 17 May with Semi-Finals on Tuesday 13 and Thursday 15 May, after it was selected by Host Broadcaster SRG SSR and the European Broadcasting Union (EBU) to host the 69th edition of the Contest.",
+      "posterPath": "/sRe7ebGV5oFB4uCWd4qx3TaQOUr.jpg",
+      "seasonNumber": 69
+    },
+    {
+      "airDate": "2026-05-12",
+      "episodeCount": 3,
+      "name": "Vienna 2026",
+      "overview": "",
+      "posterPath": "/34079kQjFY81MUezPcbzf06Pt2m.jpg",
+      "seasonNumber": 70
+    },
+    {
+      "airDate": "2027-05-11",
+      "episodeCount": 3,
+      "name": "Burgas 2027",
+      "overview": "",
+      "posterPath": "/34K27EdnlqknvrwCmk0WpFyEtfc.jpg",
+      "seasonNumber": 71
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "United by Music",
+  "theatricalDate": null,
+  "title": "Eurovision Song Contest",
+  "translations": {},
+  "type": "tv",
+  "videos": [
+    {
+      "key": "siWv7lDYpvI",
+      "name": "See you in Burgas on 11 | 13 | 15 May 2027 🇧🇬 The city will host the 71st Eurovision Song Contest!",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 36,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [],
+      "flatrate": [],
+      "free": [
+        {
+          "id": 38,
+          "logoPath": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
+          "name": "BBC iPlayer"
+        }
+      ],
+      "link": "https://www.themoviedb.org/tv/28032-eurovision-song-contest/watch?locale=GB",
+      "rent": []
+    }
+  }
+}

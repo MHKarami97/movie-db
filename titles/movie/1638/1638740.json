@@ -1,0 +1,83 @@
+{
+  "backdropPath": "/5d3VHFTwzHEsKrmGyff7tu8PRN3.jpg",
+  "cast": [],
+  "companies": [
+    {
+      "id": 146598,
+      "logoPath": "/6B6g6PR19RWX4UVi8Q46lZbwb2L.png",
+      "name": "World Wrestling Entertainment"
+    }
+  ],
+  "countries": [],
+  "digitalDate": null,
+  "externalIds": {},
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "id": 1638740,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "WWE Clash in Italy Preshow",
+  "overview": "",
+  "posterPath": "/yaX9DGhSP2wUpPEGeww8nBMb8Iw.jpg",
+  "rating": 6.5,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {},
+  "runtime": 60,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "WWE Clash in Italy Preshow",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "aCT3I9Ekzvs",
+      "name": "WWE Clash in Italy Official Trailer (2026)",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 22,
+  "watchProviders": {}
+}

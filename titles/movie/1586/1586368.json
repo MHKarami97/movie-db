@@ -1,0 +1,213 @@
+{
+  "backdropPath": "/acSWIUZnLkg4k3BefFLzASJNF4e.jpg",
+  "cast": [
+    {
+      "character": "Self",
+      "id": 3034,
+      "name": "Corey Feldman",
+      "profilePath": "/9n5xDsrBFY0AFESmXOJEzEj4ezx.jpg"
+    },
+    {
+      "character": "Self",
+      "id": 2564655,
+      "name": "Courtney Anne Mitchell",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 5856945,
+      "name": "Darci Carpenter",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 4941877,
+      "name": "Margot Lane",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 5856946,
+      "name": "Brittany Chapman",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 5856947,
+      "name": "Jezebel Sweet",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 4363323,
+      "name": "Jimena Fosado",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 4630980,
+      "name": "Eden Feldman",
+      "profilePath": null
+    },
+    {
+      "character": "Self",
+      "id": 1414759,
+      "name": "Anthony Fantano",
+      "profilePath": "/lPuDkw7IlzdzsnTVPcClkRxOGY8.jpg"
+    }
+  ],
+  "companies": [
+    {
+      "id": 219217,
+      "logoPath": "/289OgbBX45zlWZHmtg2x0x7ZETD.png",
+      "name": "Cool & Happy"
+    },
+    {
+      "id": 283028,
+      "logoPath": null,
+      "name": "Subjective Films"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "digitalDate": "2025-12-12",
+  "externalIds": {
+    "imdbId": "tt39017403",
+    "twitterId": "@cfvstw"
+  },
+  "fetchedAt": 1793464384390,
+  "gapDays": null,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "id": 1586368,
+  "keywords": [],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "originalTitle": "Corey Feldman vs. the World",
+  "overview": "With unprecedented access, this years-in-the-making vérité documentary embeds with Corey Feldman as he mounts a surreal rock tour with a band of lingerie-clad \"angels\". The tour goes horribly awry, forcing Feldman to confront his long-held allegations about abuse in Hollywood and his own darkest secrets.",
+  "posterPath": "/mvvu7W5m0f4KCgWoH3M5dPolLXY.jpg",
+  "rating": 6.4,
+  "regionGaps": {
+    "AE": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "CN": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "GB": {
+      "digitalDate": null,
+      "gapDays": null,
+      "theatricalDate": null
+    },
+    "US": {
+      "digitalDate": "2025-12-12",
+      "gapDays": null,
+      "theatricalDate": null
+    }
+  },
+  "releaseDates": {
+    "US": {
+      "digital": "2025-12-12",
+      "premiere": "2025-12-03"
+    }
+  },
+  "runtime": 98,
+  "schemaVersion": 2,
+  "status": "Released",
+  "tagline": "",
+  "theatricalDate": null,
+  "title": "Corey Feldman vs. the World",
+  "translations": {},
+  "type": "movie",
+  "videos": [
+    {
+      "key": "VedhvGgA0RM",
+      "name": "Corey Feldman vs The World - Available to Rent or Buy Now!",
+      "official": false,
+      "type": "Trailer"
+    }
+  ],
+  "voteCount": 5,
+  "watchProviders": {
+    "GB": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1586368-corey-feldman-vs-the-world/watch?locale=GB",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        }
+      ]
+    },
+    "US": {
+      "ads": [],
+      "buy": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ],
+      "flatrate": [],
+      "free": [],
+      "link": "https://www.themoviedb.org/movie/1586368-corey-feldman-vs-the-world/watch?locale=US",
+      "rent": [
+        {
+          "id": 2,
+          "logoPath": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+          "name": "Apple TV Store"
+        },
+        {
+          "id": 3,
+          "logoPath": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "name": "Google Play Movies"
+        },
+        {
+          "id": 192,
+          "logoPath": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ]
+    }
+  }
+}
