@@ -39,8 +39,8 @@ function handleSearchOnline() {
   }
 }
 
-function getPoster(path: string | null): string {
-  return workerClient.getImageUrl('w185', path);
+function getPoster(path: string | null | undefined): string {
+  return workerClient.getImageUrl('w185', path ?? null);
 }
 </script>
 

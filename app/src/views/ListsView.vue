@@ -19,8 +19,8 @@ const activeTab = ref<'favorites' | 'custom'>('favorites');
 const newListName = ref('');
 const showCreateModal = ref(false);
 
-function getPoster(path: string | null): string {
-  return workerClient.getImageUrl('w185', path);
+function getPoster(path: string | null | undefined): string {
+  return workerClient.getImageUrl('w185', path ?? null);
 }
 
 onMounted(async () => {
