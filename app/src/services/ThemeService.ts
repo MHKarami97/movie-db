@@ -40,8 +40,12 @@ export class ThemeService implements IThemeService {
     const root = document.documentElement;
     if (isDark) {
       root.classList.remove('light');
+      root.classList.add('dark');
+      root.setAttribute('data-theme', 'dark');
     } else {
       root.classList.add('light');
+      root.classList.remove('dark');
+      root.setAttribute('data-theme', 'light');
     }
 
     // Update meta theme-color

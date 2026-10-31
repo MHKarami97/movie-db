@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "mhk.ghazal",
+      "package_name": "mhk.movie",
       "sha256_cert_fingerprints": [
-        "25:45:9E:ED:D2:D7:0E:9E:78:61:B9:58:37:54:D7:7C:FF:C4:95:28:50:E0:B6:6D:62:CD:27:DA:B6:E5:A3:01"
+        ""
       ]
     }
   },
@@ -13,9 +13,9 @@
     "relation": ["check_validation"],
     "target": {
       "namespace": "cafebazaar_twa",
-      "package_name": "mhk.ghazal",
+      "package_name": "mhk.movie",
       "sha256_cert_fingerprints": [
-        "25:45:9E:ED:D2:D7:0E:9E:78:61:B9:58:37:54:D7:7C:FF:C4:95:28:50:E0:B6:6D:62:CD:27:DA:B6:E5:A3:01"
+        ""
       ]
     }
   }

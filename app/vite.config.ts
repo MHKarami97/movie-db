@@ -3,6 +3,16 @@ import vue from '@vitejs/plugin-vue';
 import tailwindcss from '@tailwindcss/vite';
 import { VitePWA } from 'vite-plugin-pwa';
 import path from 'node:path';
+import fs from 'node:fs';
+
+// Ensure temporary files for workbox-build/tempy stay inside project workspace
+const projectTmp = path.resolve(__dirname, '../.tmp');
+if (!fs.existsSync(projectTmp)) {
+  fs.mkdirSync(projectTmp, { recursive: true });
+}
+process.env.TMPDIR = projectTmp;
+process.env.TEMP = projectTmp;
+process.env.TMP = projectTmp;
 
 export default defineConfig({
   base: process.env.VITE_BASE || '/',

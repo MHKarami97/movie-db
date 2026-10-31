@@ -69,7 +69,7 @@ export class WorkerNormalizer {
       regionGaps,
       posterPath: raw.poster_path || null,
       backdropPath: raw.backdrop_path || null,
-      rating: Number((raw.vote_average || 0).toFixed(1)),
+      rating: Math.round(((raw.vote_average || 0) + Number.EPSILON) * 10) / 10,
       voteCount: raw.vote_count || 0,
       fetchedAt
     };
@@ -183,7 +183,7 @@ export class WorkerNormalizer {
       regionGaps,
       posterPath: raw.poster_path || null,
       backdropPath: raw.backdrop_path || null,
-      rating: Number((raw.vote_average || 0).toFixed(1)),
+      rating: Math.round(((raw.vote_average || 0) + Number.EPSILON) * 10) / 10,
       voteCount: raw.vote_count || 0,
       fetchedAt,
       seasons,

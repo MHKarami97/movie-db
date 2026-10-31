@@ -3,7 +3,6 @@ import { onMounted } from 'vue';
 import { useSettingsStore } from '../stores/settingsStore.js';
 import { JalaliDateService } from '../services/JalaliDateService.js';
 import { PersianUtils } from '../services/PersianUtils.js';
-import TmdbAttribution from '../components/common/TmdbAttribution.vue';
 import SvgIcon from '../components/common/SvgIcon.vue';
 
 const settingsStore = useSettingsStore();
@@ -134,10 +133,17 @@ const regions = [
       </div>
     </div>
 
-    <!-- Legal Attributions Section -->
-    <div class="space-y-3">
-      <h3 class="text-xs font-bold text-slate-400">قوانین و حق تکثیر پایگاه‌های داده:</h3>
-      <TmdbAttribution />
+    <!-- Website Info -->
+    <div class="p-4 rounded-xl border border-slate-800 bg-slate-900/40 text-center text-xs text-slate-400 flex flex-col sm:flex-row items-center justify-between gap-2">
+      <span>تقویم و اطلاعات انتشار فیلم‌ها و سریال‌های روز دنیا</span>
+      <a
+        href="https://mhkarami97.ir"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="text-amber-400 hover:underline font-mono dir-ltr font-semibold"
+      >
+        mhkarami97.ir
+      </a>
     </div>
   </div>
 </template>

@@ -94,7 +94,7 @@ function getPoster(path: string | null): string {
           class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl border border-amber-500/30 bg-amber-500/10 hover:bg-amber-500/20 text-amber-300 text-xs font-bold transition disabled:opacity-50"
         >
           <SvgIcon name="globe" size="14" />
-          <span>{{ isOnlineSearching ? 'در حال جستجو...' : 'جستجو در کل TMDB (آنلاین)' }}</span>
+          <span>{{ isOnlineSearching ? 'در حال جستجو...' : 'جستجوی آنلاین در کل عناوین' }}</span>
         </button>
       </div>
 

@@ -22,7 +22,6 @@ titleRoute.get('/api/title/:type/:id', async (c) => {
   // 1. Check Cloudflare Cache API (Zero-D1 edge cache)
   let cache: Cache | null = null;
   try {
-    // @ts-expect-error caches.default is available in Cloudflare Workers runtime
     cache = caches.default;
   } catch {
     cache = null;

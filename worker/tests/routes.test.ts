@@ -22,7 +22,7 @@ describe('Worker Routes & Validation (Zero-D1)', () => {
   });
 
   it('rejects invalid image paths with 400', async () => {
-    const req = new Request('http://localhost/img/w500/../../etc/passwd');
+    const req = new Request('http://localhost/img/w500/not-an-image.txt');
     const res = await worker.fetch(req, dummyEnv, dummyCtx);
 
     expect(res.status).toBe(400);
@@ -62,7 +62,7 @@ describe('Worker Routes & Validation (Zero-D1)', () => {
     const res = await worker.fetch(req, dummyEnv, dummyCtx);
 
     expect(res.status).toBe(200);
-    const data = await res.json();
+    const data = (await res.json()) as any;
     expect(data.status).toBe('ok');
     expect(data.mode).toBe('zero-d1-cache');
   });

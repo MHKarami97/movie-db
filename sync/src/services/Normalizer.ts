@@ -66,7 +66,7 @@ export class Normalizer {
       regionGaps,
       posterPath: raw.poster_path || null,
       backdropPath: raw.backdrop_path || null,
-      rating: Number((raw.vote_average || 0).toFixed(1)),
+      rating: Math.round(((raw.vote_average || 0) + Number.EPSILON) * 10) / 10,
       voteCount: raw.vote_count || 0,
       fetchedAt
     };
@@ -139,7 +139,7 @@ export class Normalizer {
         airDate: ep.air_date ? ep.air_date.split('T')[0] : null,
         overview: ep.overview || '',
         stillPath: ep.still_path || null,
-        voteAverage: Number((ep.vote_average || 0).toFixed(1))
+        voteAverage: Math.round(((ep.vote_average || 0) + Number.EPSILON) * 10) / 10
       }));
     }
 
@@ -185,7 +185,7 @@ export class Normalizer {
       regionGaps,
       posterPath: raw.poster_path || null,
       backdropPath: raw.backdrop_path || null,
-      rating: Number((raw.vote_average || 0).toFixed(1)),
+      rating: Math.round(((raw.vote_average || 0) + Number.EPSILON) * 10) / 10,
       voteCount: raw.vote_count || 0,
       fetchedAt,
       seasons,

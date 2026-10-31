@@ -63,8 +63,15 @@ function reloadApp() {
     <!-- Footer for Desktop -->
     <footer class="hidden md:block border-t border-slate-900 bg-slate-950/60 py-6 text-center text-xs text-slate-500">
       <div class="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-2">
-        <span>تقویم سینما و سریال | انتشار بر اساس پایگاه داده بین‌المللی TMDB</span>
-        <span class="font-mono text-[11px]">نسخه ۲.۰ • PWA</span>
+        <span>تقویم سینما و سریال | تاریخ اکران و پخش آنلاین</span>
+        <a
+          href="https://mhkarami97.ir"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="font-mono text-xs hover:text-amber-400 transition"
+        >
+          mhkarami97.ir
+        </a>
       </div>
     </footer>
 

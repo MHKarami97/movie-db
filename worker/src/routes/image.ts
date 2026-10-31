@@ -28,7 +28,6 @@ imageRoute.get('/img/:size/*', async (c) => {
   // Access Cache API
   let cache: Cache | null = null;
   try {
-    // @ts-expect-error caches.default is provided in Cloudflare Workers runtime
     cache = caches.default;
   } catch {
     cache = null;
