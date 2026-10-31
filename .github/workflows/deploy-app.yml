@@ -1,0 +1,78 @@
+name: Build and Deploy PWA to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'app/**'
+      - '.github/workflows/deploy-app.yml'
+  workflow_dispatch: {}
+  workflow_call: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js LTS
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: Install Monorepo Dependencies
+        run: npm ci
+
+      - name: Build Vue PWA
+        env:
+          VITE_BASE: ${{ vars.VITE_BASE || '/' }}
+          VITE_WORKER_URL: ${{ vars.VITE_WORKER_URL || '' }}
+        run: npm run build:app
+
+      - name: Clone Data Branch into Distribution Output
+        run: |
+          mkdir -p app/dist/data
+          if git ls-remote --exit-code --heads origin data; then
+            echo "Copying data branch JSON files into dist/data..."
+            git clone --branch data --single-branch --depth 1 "${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}.git" temp_data
+            rm -rf temp_data/.git
+            cp -r temp_data/* app/dist/data/ || true
+            rm -rf temp_data
+          else
+            echo "Notice: 'data' branch does not exist yet. Using empty data folder."
+          fi
+
+      - name: Ensure 404.html SPA Fallback Exists in Dist
+        run: |
+          if [ -f app/public/404.html ]; then
+            cp app/public/404.html app/dist/404.html
+          fi
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: app/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,96 @@
+name: Sync TMDB Catalog to Data Branch
+
+on:
+  schedule:
+    # Run every 12 hours at 00:00 and 12:00 UTC
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: sync-data
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js LTS
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: Setup Git Actor
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Prepare Orphan Data Branch Directory
+        run: |
+          mkdir -p ../data-branch
+          # Check if remote 'data' branch exists
+          if git ls-remote --exit-code --heads origin data; then
+            echo "Fetching existing data branch..."
+            git clone --branch data --single-branch "${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}.git" ../data-branch
+          else
+            echo "Initializing orphan data branch..."
+            cd ../data-branch
+            git init
+            git checkout --orphan data
+            git remote add origin "${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}.git"
+          fi
+
+      - name: Install Monorepo Dependencies
+        run: npm ci
+
+      - name: Build Sync Program
+        run: npm run build:sync
+
+      - name: Run TMDB Sync
+        env:
+          TMDB_READ_TOKEN: ${{ secrets.TMDB_READ_TOKEN }}
+        run: |
+          node sync/dist/index.js
+
+      - name: Commit and Push to Data Branch
+        id: commit_step
+        run: |
+          cd ../data-branch
+          git add -A
+
+          # If nothing changed, exit gracefully without commit or push
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No catalog changes detected. Skipping commit and push."
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            DATE_ISO=$(date -u +"%Y-%m-%d")
+            COMMIT_MSG="data: sync TMDB catalog [${DATE_ISO}]"
+
+            # Check if branch has an existing commit to amend
+            if git rev-parse --verify HEAD >/dev/null 2>&1; then
+              git commit --amend -m "${COMMIT_MSG}"
+            else
+              git commit -m "${COMMIT_MSG}"
+            fi
+
+            git push origin data --force-with-lease
+            echo "Successfully updated and pushed data branch."
+          fi
+
+      - name: Trigger App Deployment
+        if: steps.commit_step.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Triggering deploy-app.yml to publish updated data..."
+          gh workflow run deploy-app.yml --ref main || true
