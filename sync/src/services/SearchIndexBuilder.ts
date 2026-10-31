@@ -5,7 +5,7 @@ export class SearchIndexBuilder {
   public static build(titles: TitleDetail[]): string {
     const miniSearch = new MiniSearch<SearchIndexDoc>({
       fields: ['title', 'originalTitle', 'faTitle', 'genres'],
-      storeFields: ['title', 'originalTitle', 'faTitle', 'year', 'genres', 'type'],
+      storeFields: ['title', 'originalTitle', 'faTitle', 'year', 'genres', 'type', 'posterPath'],
       searchOptions: {
         prefix: true,
         fuzzy: 0.2
@@ -22,12 +22,13 @@ export class SearchIndexBuilder {
 
       return {
         id: `${t.type}-${t.id}`,
-        title: t.title,
-        originalTitle: t.originalTitle,
+        title: t.originalTitle || t.title,
+        originalTitle: t.originalTitle || t.title,
         faTitle: t.translations?.faTitle || t.title,
         year,
         genres: t.genres.map((g) => g.name),
-        type: t.type
+        type: t.type,
+        posterPath: t.posterPath || null
       };
     });
 

@@ -138,6 +138,8 @@ export interface TitleDetail {
 export interface CompactFilterRecord {
   id: number;
   type: MediaType;
+  title?: string;
+  posterPath?: string | null;
   year: number;
   rating: number;
   voteCount: number;
@@ -187,6 +189,8 @@ export interface ListItemRecord {
   id: number;
   addedAt: number;
   watched?: boolean;
+  title?: string;
+  posterPath?: string | null;
 }
 
 export interface CustomList {

@@ -73,6 +73,8 @@ export class FacetBuilder {
       compactTitles.push({
         id: t.id,
         type: t.type,
+        title: t.originalTitle || t.title,
+        posterPath: t.posterPath || null,
         year,
         rating: t.rating,
         voteCount: t.voteCount,

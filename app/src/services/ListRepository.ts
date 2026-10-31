@@ -25,9 +25,11 @@ export class ListRepository implements IListRepository {
   public async getFavorites(): Promise<ListItemRecord[]> {
     const db = await this.dbPromise;
     const items = (await db.getAll('favorites')) as FavoriteStoreItem[];
-    return items.map(({ type, id, addedAt, watched }) => ({
+    return items.map(({ type, id, addedAt, watched, title, posterPath }) => ({
       type,
       id,
+      title,
+      posterPath,
       addedAt,
       watched: Boolean(watched)
     }));
@@ -39,7 +41,7 @@ export class ListRepository implements IListRepository {
     return Boolean(item);
   }
 
-  public async toggleFavorite(type: MediaType, id: number): Promise<boolean> {
+  public async toggleFavorite(type: MediaType, id: number, title?: string, posterPath?: string | null): Promise<boolean> {
     const db = await this.dbPromise;
     const key = `${type}_${id}`;
     const existing = await db.get('favorites', key);
@@ -52,6 +54,8 @@ export class ListRepository implements IListRepository {
         key,
         type,
         id,
+        title,
+        posterPath,
         addedAt: Date.now(),
         watched: false
       };
@@ -103,7 +107,7 @@ export class ListRepository implements IListRepository {
     await db.delete('custom_lists', id);
   }
 
-  public async addToList(listId: string, type: MediaType, id: number): Promise<void> {
+  public async addToList(listId: string, type: MediaType, id: number, title?: string, posterPath?: string | null): Promise<void> {
     const db = await this.dbPromise;
     const list = (await db.get('custom_lists', listId)) as CustomList | undefined;
     if (!list) return;
@@ -113,6 +117,8 @@ export class ListRepository implements IListRepository {
       list.items.push({
         type,
         id,
+        title,
+        posterPath,
         addedAt: Date.now(),
         watched: false
       });

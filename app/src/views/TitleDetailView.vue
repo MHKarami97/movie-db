@@ -195,7 +195,7 @@ function getPoster(path: string | null): string {
               <!-- Add to Favorites Toggle -->
               <button
                 type="button"
-                @click="listStore.toggleFavorite(title.type, title.id)"
+                @click="listStore.toggleFavorite(title.type, title.id, title.originalTitle || title.title, title.posterPath)"
                 class="flex items-center gap-2 px-3.5 py-2 sm:px-4 sm:py-2.5 rounded-xl text-xs font-bold transition border"
                 :class="[
                   listStore.isFavorite(title.type, title.id)
@@ -384,7 +384,8 @@ function getPoster(path: string | null): string {
       :show="showAddModal"
       :type="title.type"
       :id="title.id"
-      :title="title.title"
+      :title="title.originalTitle || title.title"
+      :poster-path="title.posterPath"
       @close="showAddModal = false"
     />
   </div>

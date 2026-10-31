@@ -139,6 +139,8 @@ export interface TitleDetail {
 export interface CompactFilterRecord {
   id: number;
   type: MediaType;
+  title?: string;
+  posterPath?: string | null;
   year: number;
   rating: number;
   voteCount: number;
@@ -190,4 +192,5 @@ export interface SearchIndexDoc {
   year: number;
   genres: string[];
   type: MediaType;
+  posterPath?: string | null;
 }

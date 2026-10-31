@@ -3,6 +3,8 @@ import { ref, onMounted } from 'vue';
 import { useRoute } from 'vue-router';
 import { useListStore } from '../stores/listStore.js';
 import { ListItemRecord } from '../types/index.js';
+import { useTitleResolver } from '../composables/useTitleResolver.js';
+import { WorkerClient } from '../services/WorkerClient.js';
 import { PersianUtils } from '../services/PersianUtils.js';
 import SvgIcon from '../components/common/SvgIcon.vue';
 import EmptyState from '../components/common/EmptyState.vue';
@@ -10,6 +12,8 @@ import BaseModal from '../components/common/BaseModal.vue';
 
 const route = useRoute();
 const listStore = useListStore();
+const { getTitle, getPosterPath, getYear, loadIndexTitles } = useTitleResolver();
+const workerClient = new WorkerClient();
 
 const activeTab = ref<'favorites' | 'custom' | 'shared'>('favorites');
 const newListName = ref('');
@@ -18,8 +22,12 @@ const sharedItems = ref<ListItemRecord[]>([]);
 const shareCopied = ref(false);
 const fileInput = ref<HTMLInputElement | null>(null);
 
+function getPoster(path: string | null): string {
+  return workerClient.getImageUrl('w185', path);
+}
+
 onMounted(async () => {
-  await listStore.loadAll();
+  await Promise.all([listStore.loadAll(), loadIndexTitles()]);
 
   // Check if URL contains shared list
   const sharedParam = (route.query.shared as string) || (window.location.hash.includes('shared=') ? window.location.hash.split('shared=')[1] : '');
@@ -162,18 +170,36 @@ function handleCopyShare(items: ListItemRecord[]) {
         >
           <router-link
             :to="`/title/${item.type}/${item.id}`"
-            class="flex items-center gap-3 min-w-0"
+            class="flex items-center gap-3.5 min-w-0 flex-1 group"
           >
-            <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-slate-800 text-slate-400">
-              <SvgIcon name="calendar" size="20" />
+            <div class="relative w-12 h-16 shrink-0 rounded-xl overflow-hidden bg-slate-800 border border-slate-700/80">
+              <img
+                v-if="getPosterPath(item.type, item.id, item.posterPath)"
+                :src="getPoster(getPosterPath(item.type, item.id, item.posterPath))"
+                :alt="getTitle(item.type, item.id, item.title)"
+                loading="lazy"
+                referrerpolicy="no-referrer"
+                class="h-full w-full object-cover group-hover:scale-105 transition duration-300"
+              />
+              <div v-else class="flex h-full w-full items-center justify-center text-slate-500">
+                <SvgIcon name="calendar" size="20" />
+              </div>
             </div>
-            <div class="truncate">
-              <span class="text-xs font-bold text-slate-200 block truncate">
-                شناسه: {{ PersianUtils.toPersianDigits(item.id) }}
-              </span>
-              <span class="text-[11px] text-slate-400">
-                {{ item.type === 'movie' ? 'فیلم سینمایی' : 'سریال تلویزیونی' }}
-              </span>
+            <div class="truncate flex-1 min-w-0">
+              <h4 class="text-sm font-bold text-slate-100 block truncate group-hover:text-amber-400 transition text-right" dir="ltr">
+                {{ getTitle(item.type, item.id, item.title) }}
+              </h4>
+              <div class="flex items-center gap-1.5 mt-1 text-[11px] text-slate-400">
+                <span
+                  class="px-1.5 py-0.5 rounded text-[10px] font-bold"
+                  :class="item.type === 'movie' ? 'bg-amber-500/15 text-amber-300' : 'bg-cyan-500/15 text-cyan-300'"
+                >
+                  {{ item.type === 'movie' ? 'فیلم سینمایی' : 'سریال تلویزیونی' }}
+                </span>
+                <span v-if="getYear(item.type, item.id)" class="font-mono text-slate-500">
+                  ({{ getYear(item.type, item.id) }})
+                </span>
+              </div>
             </div>
           </router-link>
 
@@ -263,15 +289,34 @@ function handleCopyShare(items: ListItemRecord[]) {
             <div
               v-for="item in list.items"
               :key="item.type + '-' + item.id"
-              class="flex items-center justify-between p-2.5 rounded-xl border border-slate-800/80 bg-slate-950/60"
+              class="flex items-center justify-between p-2.5 rounded-xl border border-slate-800/80 bg-slate-950/60 gap-2"
             >
-              <router-link :to="`/title/${item.type}/${item.id}`" class="text-xs text-slate-200 hover:text-amber-400 font-bold truncate">
-                شناسه: {{ PersianUtils.toPersianDigits(item.id) }} ({{ item.type === 'movie' ? 'فیلم' : 'سریال' }})
+              <router-link :to="`/title/${item.type}/${item.id}`" class="flex items-center gap-2.5 min-w-0 flex-1 hover:text-amber-400 transition group">
+                <div class="w-8 h-11 shrink-0 rounded-lg overflow-hidden bg-slate-800 border border-slate-700/60 relative">
+                  <img
+                    v-if="getPosterPath(item.type, item.id, item.posterPath)"
+                    :src="getPoster(getPosterPath(item.type, item.id, item.posterPath))"
+                    loading="lazy"
+                    referrerpolicy="no-referrer"
+                    class="h-full w-full object-cover"
+                  />
+                  <div v-else class="flex h-full w-full items-center justify-center text-slate-500">
+                    <SvgIcon name="calendar" size="14" />
+                  </div>
+                </div>
+                <div class="truncate min-w-0">
+                  <span class="text-xs text-slate-200 font-bold block truncate group-hover:text-amber-400 transition text-right" dir="ltr">
+                    {{ getTitle(item.type, item.id, item.title) }}
+                  </span>
+                  <span class="text-[10px] text-slate-400">
+                    {{ item.type === 'movie' ? 'فیلم' : 'سریال' }}
+                  </span>
+                </div>
               </router-link>
               <button
                 type="button"
                 @click="listStore.removeFromList(list.id, item.type, item.id)"
-                class="text-rose-400 hover:text-rose-300 p-1"
+                class="text-rose-400 hover:text-rose-300 p-1 shrink-0"
                 title="حذف از این لیست"
               >
                 <SvgIcon name="close" size="14" />
@@ -306,18 +351,36 @@ function handleCopyShare(items: ListItemRecord[]) {
           v-for="item in sharedItems"
           :key="'shared-' + item.type + '-' + item.id"
           :to="`/title/${item.type}/${item.id}`"
-          class="flex items-center gap-3 p-3.5 rounded-2xl border border-slate-800 bg-slate-900/40 hover:bg-slate-800/60 transition"
+          class="flex items-center gap-3.5 p-3 rounded-2xl border border-slate-800 bg-slate-900/40 hover:bg-slate-800/60 transition group"
         >
-          <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-slate-800 text-slate-400">
-            <SvgIcon name="calendar" size="20" />
+          <div class="relative w-12 h-16 shrink-0 rounded-xl overflow-hidden bg-slate-800 border border-slate-700/80">
+            <img
+              v-if="getPosterPath(item.type, item.id, item.posterPath)"
+              :src="getPoster(getPosterPath(item.type, item.id, item.posterPath))"
+              :alt="getTitle(item.type, item.id, item.title)"
+              loading="lazy"
+              referrerpolicy="no-referrer"
+              class="h-full w-full object-cover group-hover:scale-105 transition duration-300"
+            />
+            <div v-else class="flex h-full w-full items-center justify-center text-slate-500">
+              <SvgIcon name="calendar" size="20" />
+            </div>
           </div>
-          <div>
-            <span class="text-xs font-bold text-slate-200 block truncate">
-              شناسه: {{ PersianUtils.toPersianDigits(item.id) }}
-            </span>
-            <span class="text-[11px] text-slate-400">
-              {{ item.type === 'movie' ? 'فیلم سینمایی' : 'سریال تلویزیونی' }}
-            </span>
+          <div class="truncate flex-1 min-w-0">
+            <h4 class="text-sm font-bold text-slate-100 block truncate group-hover:text-amber-400 transition text-right" dir="ltr">
+              {{ getTitle(item.type, item.id, item.title) }}
+            </h4>
+            <div class="flex items-center gap-1.5 mt-1 text-[11px] text-slate-400">
+              <span
+                class="px-1.5 py-0.5 rounded text-[10px] font-bold"
+                :class="item.type === 'movie' ? 'bg-amber-500/15 text-amber-300' : 'bg-cyan-500/15 text-cyan-300'"
+              >
+                {{ item.type === 'movie' ? 'فیلم سینمایی' : 'سریال تلویزیونی' }}
+              </span>
+              <span v-if="getYear(item.type, item.id)" class="font-mono text-slate-500">
+                ({{ getYear(item.type, item.id) }})
+              </span>
+            </div>
           </div>
         </router-link>
       </div>

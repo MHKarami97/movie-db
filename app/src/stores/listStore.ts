@@ -33,12 +33,14 @@ export const useListStore = defineStore('list', () => {
     return Boolean(fav?.watched);
   }
 
-  async function toggleFavorite(type: MediaType, id: number) {
-    const active = await listRepo.toggleFavorite(type, id);
+  async function toggleFavorite(type: MediaType, id: number, title?: string, posterPath?: string | null) {
+    const active = await listRepo.toggleFavorite(type, id, title, posterPath);
     if (active) {
       favorites.value.push({
         type,
         id,
+        title,
+        posterPath,
         addedAt: Date.now(),
         watched: false
       });
@@ -68,11 +70,11 @@ export const useListStore = defineStore('list', () => {
     customLists.value = customLists.value.filter((l) => l.id !== id);
   }
 
-  async function addToList(listId: string, type: MediaType, id: number) {
-    await listRepo.addToList(listId, type, id);
+  async function addToList(listId: string, type: MediaType, id: number, title?: string, posterPath?: string | null) {
+    await listRepo.addToList(listId, type, id, title, posterPath);
     const list = customLists.value.find((l) => l.id === listId);
     if (list && !list.items.some((i) => i.type === type && i.id === id)) {
-      list.items.push({ type, id, addedAt: Date.now(), watched: false });
+      list.items.push({ type, id, title, posterPath, addedAt: Date.now(), watched: false });
     }
   }
 

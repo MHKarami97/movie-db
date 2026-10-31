@@ -27,13 +27,13 @@ export interface IWorkerClient {
 export interface IListRepository {
   getFavorites(): Promise<ListItemRecord[]>;
   isFavorite(type: MediaType, id: number): Promise<boolean>;
-  toggleFavorite(type: MediaType, id: number): Promise<boolean>;
+  toggleFavorite(type: MediaType, id: number, title?: string, posterPath?: string | null): Promise<boolean>;
   toggleWatched(type: MediaType, id: number): Promise<boolean>;
   getCustomLists(): Promise<CustomList[]>;
   createCustomList(name: string): Promise<CustomList>;
   updateCustomList(list: CustomList): Promise<void>;
   deleteCustomList(id: string): Promise<void>;
-  addToList(listId: string, type: MediaType, id: number): Promise<void>;
+  addToList(listId: string, type: MediaType, id: number, title?: string, posterPath?: string | null): Promise<void>;
   removeFromList(listId: string, type: MediaType, id: number): Promise<void>;
   exportBackup(): Promise<string>;
   importBackup(jsonString: string): Promise<void>;

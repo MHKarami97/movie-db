@@ -10,6 +10,7 @@ const props = defineProps<{
   type: MediaType;
   id: number;
   title: string;
+  posterPath?: string | null;
 }>();
 
 const emit = defineEmits<{
@@ -28,14 +29,14 @@ async function handleToggleList(listId: string) {
   if (isInList(listId)) {
     await listStore.removeFromList(listId, props.type, props.id);
   } else {
-    await listStore.addToList(listId, props.type, props.id);
+    await listStore.addToList(listId, props.type, props.id, props.title, props.posterPath);
   }
 }
 
 async function handleCreateAndAdd() {
   if (!newListName.value.trim()) return;
   const created = await listStore.createCustomList(newListName.value);
-  await listStore.addToList(created.id, props.type, props.id);
+  await listStore.addToList(created.id, props.type, props.id, props.title, props.posterPath);
   newListName.value = '';
 }
 </script>
@@ -51,7 +52,7 @@ async function handleCreateAndAdd() {
         </div>
         <button
           type="button"
-          @click="listStore.toggleFavorite(type, id)"
+          @click="listStore.toggleFavorite(type, id, title, posterPath)"
           class="px-3 py-1.5 rounded-lg text-xs font-semibold transition"
           :class="listStore.isFavorite(type, id) ? 'bg-rose-500 text-white' : 'border border-slate-700 bg-slate-800 text-slate-300'"
         >

@@ -2,6 +2,7 @@
 import { ref, onMounted, watch } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
 import { useSearch } from '../composables/useSearch.js';
+import { useTitleResolver } from '../composables/useTitleResolver.js';
 import { useFilterStore } from '../stores/filterStore.js';
 import { WorkerClient } from '../services/WorkerClient.js';
 import { PersianUtils } from '../services/PersianUtils.js';
@@ -12,6 +13,7 @@ import FilterDrawer from '../components/filter/FilterDrawer.vue';
 const route = useRoute();
 const router = useRouter();
 const { isOnlineSearching, results, onlineResults, initIndex, searchOffline, searchOnline } = useSearch();
+const { getTitle, getPosterPath, loadIndexTitles } = useTitleResolver();
 const filterStore = useFilterStore();
 const workerClient = new WorkerClient();
 
@@ -19,7 +21,7 @@ const searchQuery = ref<string>((route.query.q as string) || '');
 const showFilters = ref(false);
 
 onMounted(async () => {
-  await Promise.all([initIndex(), filterStore.loadFacets()]);
+  await Promise.all([initIndex(), filterStore.loadFacets(), loadIndexTitles()]);
   if (searchQuery.value) {
     searchOffline(searchQuery.value);
   }
@@ -195,8 +197,19 @@ function getPoster(path: string | null): string {
           :to="`/title/${item.type}/${item.id}`"
           class="group rounded-2xl border border-slate-800 bg-slate-900/40 hover:bg-slate-800/60 transition p-3 flex flex-col justify-between space-y-2.5"
         >
-          <div class="aspect-[2/3] w-full rounded-xl bg-slate-800 overflow-hidden flex items-center justify-center text-slate-600">
-            <SvgIcon name="calendar" size="32" />
+          <div class="aspect-[2/3] w-full rounded-xl bg-slate-800 overflow-hidden relative border border-slate-800">
+            <img
+              v-if="getPosterPath(item.type, item.id, item.posterPath)"
+              :src="getPoster(getPosterPath(item.type, item.id, item.posterPath))"
+              :alt="getTitle(item.type, item.id, item.title)"
+              loading="lazy"
+              decoding="async"
+              referrerpolicy="no-referrer"
+              class="h-full w-full object-cover group-hover:scale-105 transition duration-300"
+            />
+            <div v-else class="flex h-full w-full items-center justify-center text-slate-600">
+              <SvgIcon name="calendar" size="32" />
+            </div>
           </div>
 
           <div class="space-y-1">
@@ -209,8 +222,8 @@ function getPoster(path: string | null): string {
               </span>
             </div>
 
-            <h4 class="text-xs font-bold text-slate-100 group-hover:text-amber-400 transition truncate">
-              شناسه: {{ PersianUtils.toPersianDigits(item.id) }}
+            <h4 class="text-xs font-bold text-slate-100 group-hover:text-amber-400 transition truncate text-right" dir="ltr">
+              {{ getTitle(item.type, item.id, item.title) }}
             </h4>
 
             <span
