@@ -11,6 +11,10 @@ export interface SyncConfig {
   baseRetryDelayMs: number;
   configuredRegions: string[];
   tmdbApiBaseUrl: string;
+  minPopularity: number;
+  minVoteCountPast: number;
+  minMovieRuntimeMinutes: number;
+  maxPagesPerSlice: number;
 }
 
 export const CONFIG: SyncConfig = {
@@ -20,10 +24,14 @@ export const CONFIG: SyncConfig = {
   maxCacheAgeDays: 90,
   retentionOutOfWindowDays: 150,
   refreshBudgetPerRun: 200,
-  concurrencyLimit: 10,
+  concurrencyLimit: 12,
   requestTimeoutMs: 15000,
   maxRetries: 4,
   baseRetryDelayMs: 600,
   configuredRegions: ['US', 'GB', 'DE', 'IR', 'CA'],
-  tmdbApiBaseUrl: 'https://api.themoviedb.org/3'
+  tmdbApiBaseUrl: 'https://api.themoviedb.org/3',
+  minPopularity: 1.0,
+  minVoteCountPast: 5,
+  minMovieRuntimeMinutes: 40,
+  maxPagesPerSlice: 15
 };

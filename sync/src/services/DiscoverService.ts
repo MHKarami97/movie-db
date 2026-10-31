@@ -1,3 +1,4 @@
+import { CONFIG } from '../config.js';
 import { ITmdbClient } from '../client/TmdbClient.js';
 import { KnownId, MediaType } from '../types.js';
 
@@ -67,22 +68,7 @@ export class DiscoverService {
     const firstPage = await this.fetchDiscoverPage(type, slice, 1);
     const ids: number[] = (firstPage.results || []).map((r) => r.id);
 
-    // TMDB has a hard limit: page must be <= 500
-    if (firstPage.total_pages > 500) {
-      const midDate = this.getMidpointDate(slice.startDate, slice.endDate);
-      if (midDate !== slice.startDate && midDate !== slice.endDate) {
-        const sliceA = { startDate: slice.startDate, endDate: midDate };
-        const sliceB = {
-          startDate: this.addDays(midDate, 1),
-          endDate: slice.endDate
-        };
-        const idsA = await this.discoverSliceWithSubdivision(type, sliceA);
-        const idsB = await this.discoverSliceWithSubdivision(type, sliceB);
-        return Array.from(new Set([...idsA, ...idsB]));
-      }
-    }
-
-    const pagesToFetch = Math.min(firstPage.total_pages, 500);
+    const pagesToFetch = Math.min(firstPage.total_pages, CONFIG.maxPagesPerSlice);
     for (let page = 2; page <= pagesToFetch; page++) {
       const nextPage = await this.fetchDiscoverPage(type, slice, page);
       for (const r of nextPage.results || []) {
@@ -99,19 +85,34 @@ export class DiscoverService {
     page: number
   ): Promise<DiscoverResultPage> {
     const endpoint = type === 'movie' ? '/discover/movie' : '/discover/tv';
+    const todayStr = this.formatDate(new Date());
+    const isPastSlice = slice.endDate < todayStr;
+
     const params: Record<string, string | number> = {
       page,
-      include_adult: 'false'
+      include_adult: 'false',
+      sort_by: 'popularity.desc'
     };
+
+    if (CONFIG.minPopularity > 0) {
+      params['popularity.gte'] = CONFIG.minPopularity;
+    }
 
     if (type === 'movie') {
       params['primary_release_date.gte'] = slice.startDate;
       params['primary_release_date.lte'] = slice.endDate;
-      params['sort_by'] = 'primary_release_date.asc,popularity.desc';
+      if (CONFIG.minMovieRuntimeMinutes > 0) {
+        params['with_runtime.gte'] = CONFIG.minMovieRuntimeMinutes;
+      }
+      if (isPastSlice && CONFIG.minVoteCountPast > 0) {
+        params['vote_count.gte'] = CONFIG.minVoteCountPast;
+      }
     } else {
       params['air_date.gte'] = slice.startDate;
       params['air_date.lte'] = slice.endDate;
-      params['sort_by'] = 'air_date.asc,popularity.desc';
+      if (isPastSlice && CONFIG.minVoteCountPast > 0) {
+        params['vote_count.gte'] = CONFIG.minVoteCountPast;
+      }
     }
 
     return await this.client.get<DiscoverResultPage>(endpoint, params);
