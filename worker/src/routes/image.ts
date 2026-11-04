@@ -114,6 +114,19 @@ imageRoute.get('/img/:size/*', async (c) => {
     return notFoundResponse;
   }
 
+  // Any other non-200 (403, 429, 3xx...) must never be cached as a valid image
+  if (tmdbRes.status !== 200) {
+    return new Response(tmdbRes.body, {
+      status: tmdbRes.status === 429 ? 503 : 502,
+      headers: {
+        'Access-Control-Allow-Origin': '*',
+        'Cross-Origin-Resource-Policy': 'cross-origin',
+        'Cache-Control': 'no-store',
+        'Retry-After': tmdbRes.headers.get('retry-after') ?? '2'
+      }
+    });
+  }
+
   // Success 200: store UNMODIFIED bytes with immutable cache header
   const headers = new Headers();
   headers.set('Access-Control-Allow-Origin', '*');

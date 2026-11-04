@@ -1,6 +1,9 @@
 <script setup lang="ts">
-import { ref, watch } from 'vue';
+import { computed, onBeforeUnmount, ref, watch } from 'vue';
 import SvgIcon from './SvgIcon.vue';
+
+const MAX_RETRIES = 3;
+const RETRY_BASE_DELAY_MS = 800;
 
 const props = withDefaults(
   defineProps<{
@@ -16,14 +19,45 @@ const props = withDefaults(
 
 const loaded = ref(false);
 const failed = ref(false);
+const attempt = ref(0);
+let retryTimer: ReturnType<typeof setTimeout> | undefined;
+
+const effectiveSrc = computed(() => {
+  if (!props.src || attempt.value === 0) return props.src;
+  const separator = props.src.includes('?') ? '&' : '?';
+  return `${props.src}${separator}r=${attempt.value}`;
+});
+
+function clearRetryTimer(): void {
+  if (retryTimer !== undefined) {
+    clearTimeout(retryTimer);
+    retryTimer = undefined;
+  }
+}
+
+function handleError(): void {
+  if (attempt.value >= MAX_RETRIES) {
+    failed.value = true;
+    return;
+  }
+  const delay = RETRY_BASE_DELAY_MS * 2 ** attempt.value;
+  clearRetryTimer();
+  retryTimer = setTimeout(() => {
+    attempt.value += 1;
+  }, delay);
+}
 
 watch(
   () => props.src,
   () => {
+    clearRetryTimer();
     loaded.value = false;
     failed.value = false;
+    attempt.value = 0;
   }
 );
+
+onBeforeUnmount(clearRetryTimer);
 </script>
 
 <template>
@@ -38,15 +72,18 @@ watch(
 
     <img
       v-if="src && !failed"
-      :src="src"
+      :key="effectiveSrc"
+      :src="effectiveSrc"
       :alt="alt"
       :loading="eager ? 'eager' : 'lazy'"
+      :fetchpriority="eager ? 'high' : 'auto'"
       decoding="async"
+      crossorigin="anonymous"
       referrerpolicy="no-referrer"
       class="absolute inset-0 h-full w-full object-cover transition-opacity duration-300"
       :class="[loaded ? 'opacity-100' : 'opacity-0', imgClass]"
       @load="loaded = true"
-      @error="failed = true"
+      @error="handleError"
     />
   </div>
 </template>

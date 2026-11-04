@@ -124,7 +124,7 @@ export default defineConfig({
                 maxAgeSeconds: 7776000 // 90 days
               },
               cacheableResponse: {
-                statuses: [0, 200]
+                statuses: [200]
               }
             }
           },
