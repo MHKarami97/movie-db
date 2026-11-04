@@ -118,7 +118,7 @@ export default defineConfig({
             urlPattern: /.*\/img\/(w45|w92|w154|w185|w300|w342|w500|w780|w1280|h632|original)\/.*/i,
             handler: 'CacheFirst',
             options: {
-              cacheName: 'tmdb-image-cache',
+              cacheName: 'tmdb-image-cache-v2',
               expiration: {
                 maxEntries: 1000,
                 maxAgeSeconds: 7776000 // 90 days
