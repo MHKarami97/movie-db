@@ -4,6 +4,10 @@
   "main": "src/index.ts",
   "compatibility_date": "2025-02-01",
   "compatibility_flags": ["nodejs_compat"],
+  "cache": {
+    "enabled": true,
+    "cross_version_cache": true
+  },
   "vars": {
     "ALLOWED_ORIGIN": "*"
   }

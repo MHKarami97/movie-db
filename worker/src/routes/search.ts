@@ -32,7 +32,10 @@ searchRoute.get('/api/search', async (c) => {
     });
 
     if (!res.ok) {
-      return c.text(`TMDB search failed with status ${res.status}`, 502);
+      return c.text(`TMDB search failed with status ${res.status}`, 502, {
+        'Cache-Control': 'no-store',
+        'Access-Control-Allow-Origin': '*'
+      });
     }
 
     const data: any = await res.json();
@@ -64,6 +67,9 @@ searchRoute.get('/api/search', async (c) => {
       }
     );
   } catch (err) {
-    return c.text(`Search request error: ${String(err)}`, 502);
+    return c.text(`Search request error: ${String(err)}`, 502, {
+      'Cache-Control': 'no-store',
+      'Access-Control-Allow-Origin': '*'
+    });
   }
 });

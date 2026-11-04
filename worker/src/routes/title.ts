@@ -17,24 +17,7 @@ titleRoute.get('/api/title/:type/:id', async (c) => {
     return c.text('Invalid title ID. Must be a positive integer.', 400);
   }
 
-  const cacheKey = new Request(c.req.url, c.req.raw);
-
-  // 1. Check Cloudflare Cache API (Zero-D1 edge cache)
-  let cache: Cache | null = null;
-  try {
-    cache = caches.default;
-  } catch {
-    cache = null;
-  }
-
-  if (cache) {
-    const cachedResponse = await cache.match(cacheKey);
-    if (cachedResponse) {
-      return cachedResponse;
-    }
-  }
-
-  // 2. Fetch from TMDB for out-of-window title
+  // Fetch from TMDB (edge caching is handled by Workers Cache via Cache-Control) for out-of-window title
   const token = c.env.TMDB_READ_TOKEN;
   if (!token) {
     return c.text('Worker configuration error: TMDB_READ_TOKEN secret is not set.', 500);
@@ -63,9 +46,6 @@ titleRoute.get('/api/title/:type/:id', async (c) => {
         status: 404,
         headers: notFoundHeaders
       });
-      if (cache) {
-        c.executionCtx.waitUntil(cache.put(cacheKey, notFoundRes.clone()));
-      }
       return notFoundRes;
     }
 
@@ -89,17 +69,11 @@ titleRoute.get('/api/title/:type/:id', async (c) => {
     headers.set('Content-Type', 'application/json; charset=utf-8');
     headers.set('Access-Control-Allow-Origin', '*');
     headers.set('Cache-Control', `public, max-age=${WORKER_CONFIG.titleCacheMaxAgeSeconds}`);
-    headers.set('X-Cache-Status', 'MISS');
 
     const finalResponse = new Response(JSON.stringify(normalized), {
       status: 200,
       headers
     });
-
-    // Store in Cache API asynchronously
-    if (cache) {
-      c.executionCtx.waitUntil(cache.put(cacheKey, finalResponse.clone()));
-    }
 
     return finalResponse;
   } catch (err) {
